@@ -1,0 +1,34 @@
+VER 3 0100000000000003 "Chi Wave MO" "INV_MISC_QUESTIONMARK"
+#showtooltip Chi Wave
+/cast [@mouseover,help,nodead][help,nodead][@player] Chi Wave
+END
+VER 3 0100000000000004 "Detox MO" "INV_MISC_QUESTIONMARK"
+#showtooltip Detox
+/cast [@mouseover,help,nodead][help,nodead][@player] Detox
+END
+VER 3 0100000000000006 "Envelop Mist MO" "INV_MISC_QUESTIONMARK"
+#showtooltip Enveloping Mist
+/cast [@mouseover,help,nodead][help,nodead][@player] Enveloping Mist
+END
+VER 3 0100000000000002 "Expel Harm MO" "INV_MISC_QUESTIONMARK"
+#showtooltip Expel Harm
+/cast [@mouseover,help,nodead][help,nodead][@player] Expel Harm
+END
+VER 3 0100000000000005 "Life Cocoon MO" "INV_MISC_QUESTIONMARK"
+#showtooltip Life Cocoon
+/cast [@mouseover,help,nodead][help,nodead][@player] Life Cocoon
+END
+VER 3 0100000000000001 "Renewing mist MO" "INV_MISC_QUESTIONMARK"
+#showtooltip renewing mist
+/cast [@mouseover,help,nodead][help,nodead][@player] Renewing Mist
+END
+VER 3 0100000000000007 "Soothing Mist MO" "INV_MISC_QUESTIONMARK"
+#showtooltip Soothing Mist
+/cast [@mouseover,help,nodead][help,nodead][@player] Soothing Mist 
+END
+VER 3 0100000000000008 "VuhDoDCShieldData" "Ability_Repair"
+P[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]1OH[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]
+END
+VER 3 0100000000000009 "VuhDoDCShieldNames" "Ability_Repair"
+N[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]Rin[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]
+END

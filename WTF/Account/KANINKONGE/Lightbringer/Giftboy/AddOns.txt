@@ -1,0 +1,5 @@
+!Swatter: disabled
+Stubby: disabled
+SlideBar: disabled
+Details: disabled
+Grail: disabled

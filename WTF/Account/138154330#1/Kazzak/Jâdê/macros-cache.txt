@@ -1,0 +1,62 @@
+VER 3 0100000000000007 "." "INV_MISC_QUESTIONMARK"
+/cast [target=mouseover]Rejuvenation
+#showtooltip Rejuvenation
+END
+VER 3 0100000000000008 "." "INV_MISC_QUESTIONMARK"
+/cast [@cursor]Efflorescence
+END
+VER 3 0100000000000009 "." "INV_MISC_QUESTIONMARK"
+/cast [@cursor]Ursol's Vortex
+END
+VER 3 010000000000000A "." "INV_MISC_QUESTIONMARK"
+/cast [target=mouseover]Regrowth
+#showtooltip Regrowth
+END
+VER 3 010000000000000B "." "INV_MISC_QUESTIONMARK"
+/cast [target=mouseover]Lifebloom
+#showtooltip Lifebloom
+END
+VER 3 010000000000000C "." "INV_MISC_QUESTIONMARK"
+/cast [target=mouseover]Swiftmend
+#showtooltip Swiftmend
+END
+VER 3 010000000000000D "." "INV_MISC_QUESTIONMARK"
+/cast [target=mouseover]Wild Growth
+#showtooltip Wild Growth
+END
+VER 3 010000000000000F "." "INV_MISC_QUESTIONMARK"
+/cast [target=mouseover]Sunfire(Solar)
+END
+VER 3 0100000000000010 "." "INV_MISC_QUESTIONMARK"
+/cast [target=mouseover]Moonfire(Lunar)
+END
+VER 3 0100000000000011 "." "INV_MISC_QUESTIONMARK"
+/cast [target=mouseover]Nature's Cure
+#showtooltip Nature's Cure
+END
+VER 3 0100000000000012 "." "INV_MISC_QUESTIONMARK"
+/cast [target=mouseover]Mass Entanglement
+END
+VER 3 0100000000000013 "." "INV_MISC_QUESTIONMARK"
+/cast [target=mouseover]Entangling Roots
+END
+VER 3 0100000000000014 "." "INV_MISC_QUESTIONMARK"
+/cast [target=mouseover]Rebirth
+#showtooltip Rebirth
+END
+VER 3 0100000000000015 "." "INV_MISC_QUESTIONMARK"
+/cast [target=mouseover]Ironbark
+#showtooltip Ironbark
+END
+VER 3 0100000000000017 "." "INV_MISC_QUESTIONMARK"
+/cast [target=mouseover]Hibernate
+END
+VER 3 0100000000000018 "." "INV_MISC_QUESTIONMARK"
+/cast [target=mouseover]Innervate
+END
+VER 3 010000000000001A "." "INV_MISC_QUESTIONMARK"
+/cast [@cursor]Starfall
+END
+VER 3 010000000000001B "." "INV_MISC_QUESTIONMARK"
+/cast [target=mouseover]Nourish
+END

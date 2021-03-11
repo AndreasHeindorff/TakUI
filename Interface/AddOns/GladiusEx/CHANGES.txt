@@ -1,0 +1,18 @@
+lightweight tag ad4d58be35d661c19cd842caf138a8ba0d3eefd6 1.9
+Author:	vendethiel <vendethiel@hotmail.fr>
+Date:	Thu Feb 25 11:28:48 2021 +0100
+
+commit ad4d58be35d661c19cd842caf138a8ba0d3eefd6
+Author: vendethiel <vendethiel@hotmail.fr>
+Date:   Thu Feb 25 11:28:48 2021 +0100
+
+    Classicon updates + kick reduction fixed
+
+commit cc78a9f72a8492c100c3a19400521f43d71819e3
+Author: vendethiel <vendethiel@hotmail.fr>
+Date:   Sun Feb 21 21:00:22 2021 +0100
+
+    Covenant refactor, more test spells, attempted #34
+    
+    You now see trinkets and covenant spells while in test mode
+

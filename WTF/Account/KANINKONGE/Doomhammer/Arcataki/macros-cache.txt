@@ -1,0 +1,10 @@
+VER 3 0100000000000002 " " "INV_MISC_QUESTIONMARK"
+/click TabardFrameCustomization2RightButton
+END
+VER 3 0100000000000003 "2" "INV_MISC_QUESTIONMARK"
+/click TabardFrameCustomization1LeftButton
+END
+VER 3 0100000000000001 "petFreeze" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast Freeze
+END

@@ -1,0 +1,166 @@
+
+ElvCharacterDB = {
+	["ChatEditHistory"] = {
+		"/cw tanov-blackrock inv", -- [1]
+		"/cw Hammerdrill can you come to orgrimmar? :)", -- [2]
+		"/cw Hammerdrill-TwistingNether sec", -- [3]
+		"/cw Hammerdrill-TwistingNether ok cheers", -- [4]
+		"/cw Hammerdrill-TwistingNether logging back", -- [5]
+	},
+	["ChatHistoryLog"] = {
+		{
+			"can you come to orgrimmar? :)", -- [1]
+			"Hammerdrill-TwistingNether", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Hammerdrill-TwistingNether", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			1425, -- [11]
+			"Player-3674-08F6004A", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffaad372Hammerdrill|r",
+			[51] = 1546708487,
+			[50] = "CHAT_MSG_WHISPER_INFORM",
+		}, -- [1]
+		{
+			"sure omw", -- [1]
+			"Hammerdrill-TwistingNether", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Hammerdrill-TwistingNether", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			1432, -- [11]
+			"Player-3674-08F6004A", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffaad372Hammerdrill|r",
+			[51] = 1546708492,
+			[50] = "CHAT_MSG_WHISPER",
+		}, -- [2]
+		{
+			"where you at?", -- [1]
+			"Hammerdrill-TwistingNether", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Hammerdrill-TwistingNether", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			1443, -- [11]
+			"Player-3674-08F6004A", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffaad372Hammerdrill|r",
+			[51] = 1546708515,
+			[50] = "CHAT_MSG_WHISPER",
+		}, -- [3]
+		{
+			"for 3 runs", -- [1]
+			"Hammerdrill-TwistingNether", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Hammerdrill-TwistingNether", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			1459, -- [11]
+			"Player-3674-08F6004A", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffaad372Hammerdrill|r",
+			[51] = 1546708561,
+			[50] = "CHAT_MSG_WHISPER",
+		}, -- [4]
+		{
+			"sec", -- [1]
+			"Hammerdrill-TwistingNether", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Hammerdrill-TwistingNether", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			1464, -- [11]
+			"Player-3674-08F6004A", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffaad372Hammerdrill|r",
+			[51] = 1546708572,
+			[50] = "CHAT_MSG_WHISPER_INFORM",
+		}, -- [5]
+		{
+			"ok cheers", -- [1]
+			"Hammerdrill-TwistingNether", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Hammerdrill-TwistingNether", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			1488, -- [11]
+			"Player-3674-08F6004A", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffaad372Hammerdrill|r",
+			[51] = 1546708630,
+			[50] = "CHAT_MSG_WHISPER_INFORM",
+		}, -- [6]
+		{
+			"logging back", -- [1]
+			"Hammerdrill-TwistingNether", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Hammerdrill-TwistingNether", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			1491, -- [11]
+			"Player-3674-08F6004A", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffaad372Hammerdrill|r",
+			[51] = 1546708631,
+			[50] = "CHAT_MSG_WHISPER_INFORM",
+		}, -- [7]
+	},
+}

@@ -1,0 +1,65 @@
+VER 3 010000000000000D " " "INV_MISC_QUESTIONMARK"
+#showtooltip Celestial Alignment
+/cast Celestial Alignment
+/cast Incarnation: Chosen of Elune
+/cast Nature's Vigil
+END
+VER 3 0100000000000018 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast swift flight form
+END
+VER 3 010000000000001C " " "INV_MISC_QUESTIONMARK"
+/target Vandos
+END
+VER 3 0100000000000017 " " "INV_MISC_QUESTIONMARK"
+/tar legebril
+/
+END
+VER 3 0100000000000010 "asd" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast innervate
+/use Soothing Talisman of the Shado-Pan Assault
+END
+VER 3 0100000000000015 "MF" "INV_MISC_QUESTIONMARK"
+#showtooltip moonfire
+/cast force of nature
+/cast moonfire
+END
+VER 3 0100000000000014 "SF" "INV_MISC_QUESTIONMARK"
+#showtooltip sunfire
+/cast force of nature
+/cast sunfire
+END
+VER 3 0100000000000012 "SF" "INV_MISC_QUESTIONMARK"
+#showtooltip starfire
+/cast force of nature
+/cast starfire
+END
+VER 3 0100000000000016 "SF" "INV_MISC_QUESTIONMARK"
+#showtooltip starfall
+/cast force of nature
+/cast starfall
+END
+VER 3 0100000000000013 "SS" "INV_MISC_QUESTIONMARK"
+#showtooltip starsurge
+/cast force of nature
+/cast starsurge
+END
+VER 3 0100000000000019 "Treants" "INV_MISC_QUESTIONMARK"
+#showtooltip Force of Nature
+/cast Force of nature
+/cast Force of nature
+/cast Force of nature
+/cast Force of nature
+END
+VER 3 010000000000001A "VuhDoDCShieldData" "Ability_Repair"
+P1OH[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]1DR[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]
+END
+VER 3 010000000000001B "VuhDoDCShieldNames" "Ability_Repair"
+NNim[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]Tha[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]
+END
+VER 3 0100000000000011 "wrath" "INV_MISC_QUESTIONMARK"
+#showtooltip wrath
+/cast force of nature
+/cast wrath
+END

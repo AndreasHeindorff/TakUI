@@ -1,0 +1,46 @@
+VER 3 0100000000000006 " " "INV_MISC_QUESTIONMARK"
+#showtooltip chimaera shot
+/cast [target=focus, help] Misdirection; [target=pet, exists] Misdirection; Misdirection
+/cast chimaera shot
+END
+VER 3 0100000000000005 " " "INV_MISC_QUESTIONMARK"
+#showtooltip aimed shot
+/cast [target=focus, help] Misdirection; [target=pet, exists] Misdirection; Misdirection
+/cast aimed shot
+END
+VER 3 0100000000000008 "barrage" "INV_MISC_QUESTIONMARK"
+#showtooltip barrage
+/cast [target=focus, help] Misdirection; [target=pet, exists] Misdirection; Misdirection
+/cast barrage
+END
+VER 3 010000000000000A "HotP" "INV_MISC_QUESTIONMARK"
+#showtooltip Heart of the Phoenix(Ferocity Ability)
+/cast Heart of the Phoenix(Ferocity Ability)
+END
+VER 3 0100000000000003 "MD" "INV_MISC_QUESTIONMARK"
+#showtooltip misdirection
+#showtooltip
+/cast [target=focus, help] Misdirection; [target=pet, exists] Misdirection; Misdirection
+END
+VER 3 0100000000000007 "ms" "INV_MISC_QUESTIONMARK"
+#showtooltip multi-shot
+/cast [target=focus, help] Misdirection; [target=pet, exists] Misdirection; Misdirection
+/cast multi-shot
+END
+VER 3 0100000000000009 "Spirit Mend" "INV_MISC_QUESTIONMARK"
+#showtooltip Spirit Mend(Exotic Ability)
+/target Hunteraki
+/cast Spirit Mend(Exotic Ability)
+/targetlasttarget
+END
+VER 3 0100000000000004 "SS" "INV_MISC_QUESTIONMARK"
+#showtooltip steady shot
+/cast [target=focus, help] Misdirection; [target=pet, exists] Misdirection; Misdirection
+/cast steady shot
+END
+VER 3 0100000000000001 "VuhDoDCShieldData" "Ability_Repair"
+P[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]1HR[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]
+END
+VER 3 0100000000000002 "VuhDoDCShieldNames" "Ability_Repair"
+N[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]Hun[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]
+END

@@ -1,0 +1,14 @@
+VER 3 0100000000000001 "1" "INV_MISC_QUESTIONMARK"
+/way Frostfire Ridge 51.10, 19.86 Edge of Reality
+/way Frostfire Ridge 52.40, 18.18 Edge of Reality
+/way Frostfire Ridge 53.80, 17.32 Edge of Reality
+/way Frostfire Ridge 48.00, 27.40 Edge of Reality
+END
+VER 3 0100000000000002 "2" "INV_MISC_QUESTIONMARK"
+/way Shwmoon41.90, 75.67 Edge of Reality
+/way Shadowmoon 43.62, 71.38 Edge of Reality
+/way Sadon 48.78, 70.17 Edge of Reality
+/way dowmoon 50.33, 71.53 Edge of Reality
+/way Shmoon 51.68, 74.90 Edge of Reality
+/way Showmoon 46.64, 70.18 Edge of Reality
+END

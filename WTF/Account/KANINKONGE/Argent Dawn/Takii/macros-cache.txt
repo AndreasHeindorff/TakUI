@@ -1,0 +1,19 @@
+VER 3 0100000000000001 " " "INV_MISC_QUESTIONMARK"
+/tar lezia
+END
+VER 3 0100000000000003 "asd" "INV_MISC_QUESTIONMARK"
+#showtooltip chain lightning
+/cast ancestral Swiftness
+/cast chain lightning
+END
+VER 3 0100000000000002 "asd" "INV_MISC_QUESTIONMARK"
+#showtooltip lightning bolt
+/cast Ancestral swiftness
+/cast lightning bolt
+END
+VER 3 0100000000000004 "VuhDoDCShieldData" "Ability_Repair"
+P[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]1SR[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]
+END
+VER 3 0100000000000005 "VuhDoDCShieldNames" "Ability_Repair"
+N[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]Tak[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]
+END

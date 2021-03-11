@@ -1,0 +1,8 @@
+VER 3 0100000000000002 "axe toss" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast axe toss
+END
+VER 3 0100000000000001 "felstorm" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast felstorm
+END

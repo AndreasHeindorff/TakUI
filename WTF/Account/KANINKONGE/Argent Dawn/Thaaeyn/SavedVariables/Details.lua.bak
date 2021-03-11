@@ -1,0 +1,2342 @@
+
+_detalhes_database = {
+	["savedbuffs"] = {
+	},
+	["mythic_dungeon_id"] = 0,
+	["tabela_historico"] = {
+		["tabelas"] = {
+			{
+				{
+					["tipo"] = 2,
+					["combatId"] = 10,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1297,
+							["totalabsorbed"] = 0.00774,
+							["damage_from"] = {
+								["Nalorakk"] = true,
+							},
+							["targets"] = {
+								["Nalorakk"] = 343401,
+								["Amani Bear Mount <Amani'shi Warbringer>"] = 14178,
+							},
+							["pets"] = {
+							},
+							["friendlyfire_total"] = 0,
+							["last_dps"] = 20732.82354844394,
+							["classe"] = "DRUID",
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 357579.00774,
+							["tipo"] = 1,
+							["delay"] = 0,
+							["dps_started"] = false,
+							["end_time"] = 1601929093,
+							["damage_taken"] = 1275.00774,
+							["total"] = 357579.00774,
+							["boss_fight_component"] = true,
+							["spells"] = {
+								["_ActorTable"] = {
+									[190984] = {
+										["c_amt"] = 2,
+										["b_amt"] = 0,
+										["c_dmg"] = 73166,
+										["g_amt"] = 0,
+										["n_max"] = 18292,
+										["targets"] = {
+											["Nalorakk"] = 164622,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 91456,
+										["n_min"] = 18291,
+										["g_dmg"] = 0,
+										["counter"] = 7,
+										["total"] = 164622,
+										["c_max"] = 36583,
+										["c_min"] = 36583,
+										["id"] = 190984,
+										["r_dmg"] = 0,
+										["r_amt"] = 0,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["b_dmg"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 5,
+										["extra"] = {
+										},
+										["spellschool"] = 8,
+									},
+									[164812] = {
+										["c_amt"] = 2,
+										["b_amt"] = 0,
+										["c_dmg"] = 19579,
+										["g_amt"] = 0,
+										["n_max"] = 5157,
+										["targets"] = {
+											["Nalorakk"] = 53731,
+											["Amani Bear Mount <Amani'shi Warbringer>"] = 4802,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 38954,
+										["n_min"] = 4801,
+										["g_dmg"] = 0,
+										["counter"] = 10,
+										["total"] = 58533,
+										["c_max"] = 9977,
+										["c_min"] = 9602,
+										["id"] = 164812,
+										["r_dmg"] = 0,
+										["r_amt"] = 0,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["b_dmg"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 8,
+										["extra"] = {
+										},
+										["spellschool"] = 64,
+									},
+									[279729] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 13536,
+										["targets"] = {
+											["Nalorakk"] = 13536,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 13536,
+										["n_min"] = 13536,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 13536,
+										["c_max"] = 0,
+										["c_min"] = 0,
+										["id"] = 279729,
+										["r_dmg"] = 0,
+										["r_amt"] = 0,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["b_dmg"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 1,
+										["extra"] = {
+										},
+										["spellschool"] = 8,
+									},
+									[164815] = {
+										["c_amt"] = 1,
+										["b_amt"] = 0,
+										["c_dmg"] = 9742,
+										["g_amt"] = 0,
+										["n_max"] = 6466,
+										["targets"] = {
+											["Nalorakk"] = 53895,
+											["Amani Bear Mount <Amani'shi Warbringer>"] = 9376,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 53529,
+										["n_min"] = 4688,
+										["g_dmg"] = 0,
+										["counter"] = 12,
+										["total"] = 63271,
+										["c_max"] = 9742,
+										["c_min"] = 9742,
+										["id"] = 164815,
+										["r_dmg"] = 0,
+										["r_amt"] = 0,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["b_dmg"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 11,
+										["extra"] = {
+										},
+										["spellschool"] = 8,
+									},
+									[194153] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 23321,
+										["targets"] = {
+											["Nalorakk"] = 46642,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 46642,
+										["n_min"] = 23321,
+										["g_dmg"] = 0,
+										["counter"] = 2,
+										["total"] = 46642,
+										["c_max"] = 0,
+										["c_min"] = 0,
+										["id"] = 194153,
+										["r_dmg"] = 0,
+										["r_amt"] = 0,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["b_dmg"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 2,
+										["extra"] = {
+										},
+										["spellschool"] = 64,
+									},
+									[202497] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 10975,
+										["targets"] = {
+											["Nalorakk"] = 10975,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 10975,
+										["n_min"] = 10975,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 10975,
+										["c_max"] = 0,
+										["c_min"] = 0,
+										["id"] = 202497,
+										["r_dmg"] = 0,
+										["r_amt"] = 0,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["b_dmg"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 1,
+										["extra"] = {
+										},
+										["spellschool"] = 72,
+									},
+								},
+								["tipo"] = 2,
+							},
+							["grupo"] = true,
+							["nome"] = "Thaaeyn",
+							["custom"] = 0,
+							["spec"] = 102,
+							["colocacao"] = 1,
+							["last_event"] = 1601929093,
+							["friendlyfire"] = {
+							},
+							["start_time"] = 1601929076,
+							["serial"] = "Player-3702-06215D83",
+							["on_hold"] = false,
+						}, -- [1]
+						{
+							["flag_original"] = 68168,
+							["totalabsorbed"] = 0.006626,
+							["damage_from"] = {
+								["Thaaeyn"] = true,
+							},
+							["targets"] = {
+								["Thaaeyn"] = 1275,
+							},
+							["pets"] = {
+							},
+							["last_event"] = 1601929093,
+							["friendlyfire"] = {
+							},
+							["friendlyfire_total"] = 0,
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 1275.006626,
+							["delay"] = 0,
+							["monster"] = true,
+							["total"] = 1275.006626,
+							["classe"] = "UNKNOW",
+							["damage_taken"] = 343401.006626,
+							["boss_fight_component"] = true,
+							["spells"] = {
+								["_ActorTable"] = {
+									{
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 191,
+										["targets"] = {
+											["Thaaeyn"] = 539,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 539,
+										["n_min"] = 32,
+										["g_dmg"] = 0,
+										["counter"] = 14,
+										["c_min"] = 0,
+										["total"] = 539,
+										["c_max"] = 0,
+										["r_amt"] = 0,
+										["id"] = 1,
+										["r_dmg"] = 0,
+										["extra"] = {
+										},
+										["b_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["a_dmg"] = 0,
+										["n_amt"] = 5,
+										["spellschool"] = 1,
+										["MISS"] = 9,
+									}, -- [1]
+									[42402] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 364,
+										["targets"] = {
+											["Thaaeyn"] = 425,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 425,
+										["n_min"] = 61,
+										["g_dmg"] = 0,
+										["counter"] = 2,
+										["total"] = 425,
+										["c_max"] = 0,
+										["c_min"] = 0,
+										["id"] = 42402,
+										["r_dmg"] = 0,
+										["r_amt"] = 0,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["b_dmg"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 2,
+										["extra"] = {
+										},
+										["spellschool"] = 1,
+									},
+									[42384] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 311,
+										["targets"] = {
+											["Thaaeyn"] = 311,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 311,
+										["n_min"] = 311,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 311,
+										["c_max"] = 0,
+										["id"] = 42384,
+										["r_dmg"] = 0,
+										["c_min"] = 0,
+										["r_amt"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 1,
+										["b_dmg"] = 0,
+										["n_amt"] = 1,
+										["a_dmg"] = 0,
+										["extra"] = {
+										},
+									},
+								},
+								["tipo"] = 2,
+							},
+							["nome"] = "Nalorakk",
+							["last_dps"] = 0,
+							["end_time"] = 1601929093,
+							["custom"] = 0,
+							["tipo"] = 1,
+							["on_hold"] = false,
+							["start_time"] = 1601929080,
+							["serial"] = "Creature-0-3767-568-4367-23576-00007B7E2A",
+							["dps_started"] = false,
+						}, -- [2]
+						{
+							["flag_original"] = 2632,
+							["totalabsorbed"] = 0.007348,
+							["damage_from"] = {
+								["Thaaeyn"] = true,
+							},
+							["targets"] = {
+							},
+							["delay"] = 0,
+							["pets"] = {
+							},
+							["friendlyfire"] = {
+							},
+							["last_event"] = 0,
+							["friendlyfire_total"] = 0,
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 0.007348,
+							["classe"] = "UNKNOW",
+							["monster"] = true,
+							["total"] = 0.007348,
+							["damage_taken"] = 14178.007348,
+							["ownerName"] = "Amani'shi Warbringer",
+							["boss_fight_component"] = true,
+							["spells"] = {
+								["_ActorTable"] = {
+								},
+								["tipo"] = 2,
+							},
+							["nome"] = "Amani Bear Mount <Amani'shi Warbringer>",
+							["last_dps"] = 0,
+							["end_time"] = 1601929093,
+							["custom"] = 0,
+							["tipo"] = 1,
+							["on_hold"] = false,
+							["start_time"] = 1601929093,
+							["serial"] = "Creature-0-3767-568-4367-24217-00007B7F6B",
+							["dps_started"] = false,
+						}, -- [3]
+						{
+							["flag_original"] = 2632,
+							["totalabsorbed"] = 0.006165,
+							["damage_from"] = {
+							},
+							["targets"] = {
+							},
+							["pets"] = {
+								"Amani Bear Mount <Amani'shi Warbringer>", -- [1]
+							},
+							["last_event"] = 0,
+							["friendlyfire"] = {
+							},
+							["friendlyfire_total"] = 0,
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 0.006165,
+							["delay"] = 0,
+							["monster"] = true,
+							["total"] = 0.006165,
+							["classe"] = "UNKNOW",
+							["damage_taken"] = 0.006165,
+							["boss_fight_component"] = true,
+							["spells"] = {
+								["_ActorTable"] = {
+								},
+								["tipo"] = 2,
+							},
+							["nome"] = "Amani'shi Warbringer",
+							["last_dps"] = 0,
+							["end_time"] = 1601929093,
+							["custom"] = 0,
+							["tipo"] = 1,
+							["on_hold"] = false,
+							["start_time"] = 1601929093,
+							["serial"] = "Creature-0-3767-568-4367-23580-0000FB7F60",
+							["dps_started"] = false,
+						}, -- [4]
+					},
+				}, -- [1]
+				{
+					["tipo"] = 3,
+					["combatId"] = 10,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1297,
+							["healing_from"] = {
+								["Thaaeyn"] = true,
+							},
+							["pets"] = {
+							},
+							["iniciar_hps"] = false,
+							["classe"] = "DRUID",
+							["totalover"] = 574.005861,
+							["total_without_pet"] = 749.005861,
+							["total"] = 749.005861,
+							["targets_absorbs"] = {
+							},
+							["heal_enemy"] = {
+							},
+							["on_hold"] = false,
+							["serial"] = "Player-3702-06215D83",
+							["totalabsorb"] = 0.005861,
+							["last_hps"] = 0,
+							["targets"] = {
+								["Thaaeyn"] = 749,
+							},
+							["totalover_without_pet"] = 0.005861,
+							["healing_taken"] = 749.005861,
+							["end_time"] = 1601929093,
+							["last_event"] = 1601929091,
+							["targets_overheal"] = {
+								["Thaaeyn"] = 574,
+							},
+							["nome"] = "Thaaeyn",
+							["spells"] = {
+								["_ActorTable"] = {
+									[145109] = {
+										["c_amt"] = 0,
+										["totalabsorb"] = 0,
+										["targets_overheal"] = {
+											["Thaaeyn"] = 574,
+										},
+										["n_max"] = 441,
+										["targets"] = {
+											["Thaaeyn"] = 749,
+										},
+										["n_min"] = 32,
+										["counter"] = 3,
+										["overheal"] = 574,
+										["total"] = 749,
+										["c_max"] = 0,
+										["id"] = 145109,
+										["targets_absorbs"] = {
+										},
+										["c_curado"] = 0,
+										["m_crit"] = 0,
+										["m_healed"] = 0,
+										["c_min"] = 0,
+										["totaldenied"] = 0,
+										["n_amt"] = 3,
+										["n_curado"] = 749,
+										["m_amt"] = 0,
+										["absorbed"] = 0,
+									},
+								},
+								["tipo"] = 3,
+							},
+							["grupo"] = true,
+							["spec"] = 102,
+							["totaldenied"] = 0.005861,
+							["custom"] = 0,
+							["tipo"] = 2,
+							["heal_enemy_amt"] = 0,
+							["start_time"] = 1601929081,
+							["delay"] = 0,
+							["boss_fight_component"] = true,
+						}, -- [1]
+					},
+				}, -- [2]
+				{
+					["tipo"] = 7,
+					["combatId"] = 10,
+					["_ActorTable"] = {
+						{
+							["received"] = 0.005045,
+							["resource"] = 5.005045,
+							["targets"] = {
+							},
+							["pets"] = {
+							},
+							["powertype"] = 0,
+							["classe"] = "DRUID",
+							["passiveover"] = 0.005045,
+							["total"] = 0.005045,
+							["totalover"] = 0.005045,
+							["boss_fight_component"] = true,
+							["spells"] = {
+								["_ActorTable"] = {
+								},
+								["tipo"] = 7,
+							},
+							["grupo"] = true,
+							["resource_type"] = 8,
+							["tipo"] = 3,
+							["spec"] = 102,
+							["last_event"] = 1601929093,
+							["alternatepower"] = 0.005045,
+							["flag_original"] = 1297,
+							["serial"] = "Player-3702-06215D83",
+							["nome"] = "Thaaeyn",
+						}, -- [1]
+					},
+				}, -- [3]
+				{
+					["tipo"] = 9,
+					["combatId"] = 10,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1047,
+							["debuff_uptime_spells"] = {
+								["_ActorTable"] = {
+									[164815] = {
+										["activedamt"] = -2,
+										["id"] = 164815,
+										["targets"] = {
+										},
+										["actived_at"] = 1601929093,
+										["uptime"] = 0,
+										["counter"] = 0,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["appliedamt"] = 1,
+									},
+									[164812] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = -2,
+										["refreshamt"] = 0,
+										["id"] = 164812,
+										["uptime"] = 17,
+										["targets"] = {
+										},
+										["appliedamt"] = 1,
+									},
+								},
+								["tipo"] = 9,
+							},
+							["buff_uptime"] = 24,
+							["classe"] = "DRUID",
+							["buff_uptime_spells"] = {
+								["_ActorTable"] = {
+									[164545] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 0,
+										["id"] = 164545,
+										["uptime"] = 2,
+										["targets"] = {
+										},
+										["appliedamt"] = 1,
+									},
+									[164547] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 0,
+										["id"] = 164547,
+										["uptime"] = 1,
+										["targets"] = {
+										},
+										["appliedamt"] = 1,
+									},
+									[201410] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 0,
+										["id"] = 201410,
+										["uptime"] = 4,
+										["targets"] = {
+										},
+										["appliedamt"] = 1,
+									},
+									[326419] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 0,
+										["id"] = 326419,
+										["uptime"] = 17,
+										["targets"] = {
+										},
+										["appliedamt"] = 1,
+									},
+								},
+								["tipo"] = 9,
+							},
+							["debuff_uptime"] = 17,
+							["buff_uptime_targets"] = {
+							},
+							["spec"] = 102,
+							["grupo"] = true,
+							["spell_cast"] = {
+								[190984] = 7,
+								[8921] = 1,
+								[194153] = 2,
+							},
+							["tipo"] = 4,
+							["debuff_uptime_targets"] = {
+							},
+							["last_event"] = 1601929093,
+							["pets"] = {
+							},
+							["nome"] = "Thaaeyn",
+							["serial"] = "Player-3702-06215D83",
+							["boss_fight_component"] = true,
+						}, -- [1]
+						{
+							["flag_original"] = 68168,
+							["debuff_uptime_spells"] = {
+								["_ActorTable"] = {
+								},
+								["tipo"] = 9,
+							},
+							["pets"] = {
+							},
+							["classe"] = "UNKNOW",
+							["boss_debuff"] = true,
+							["monster"] = true,
+							["debuff_uptime"] = 8,
+							["spellschool"] = 1,
+							["boss_fight_component"] = true,
+							["debuff_uptime_targets"] = {
+								["Thaaeyn"] = {
+									["uptime"] = 8,
+									["refreshamt"] = 0,
+									["appliedamt"] = 0,
+									["activedamt"] = 1,
+									["actived"] = true,
+									["actived_at"] = 1601929092,
+								},
+							},
+							["last_event"] = 1601929092,
+							["tipo"] = 4,
+							["damage_twin"] = "Nalorakk",
+							["serial"] = "Creature-0-3767-568-4367-23576-00007B7E2A",
+							["damage_spellid"] = 42402,
+							["nome"] = "Surge",
+						}, -- [2]
+						{
+							["flag_original"] = 68168,
+							["last_event"] = 0,
+							["nome"] = "Nalorakk",
+							["pets"] = {
+							},
+							["classe"] = "UNKNOW",
+							["spell_cast"] = {
+								[42384] = 1,
+							},
+							["tipo"] = 4,
+							["monster"] = true,
+							["serial"] = "Creature-0-3767-568-4367-23576-00007B7E2A",
+							["boss_fight_component"] = true,
+						}, -- [3]
+					},
+				}, -- [4]
+				{
+					["tipo"] = 2,
+					["combatId"] = 10,
+					["_ActorTable"] = {
+					},
+				}, -- [5]
+				["raid_roster"] = {
+					["Thaaeyn"] = true,
+				},
+				["tempo_start"] = 1601929076,
+				["last_events_tables"] = {
+				},
+				["alternate_power"] = {
+				},
+				["combat_counter"] = 27,
+				["playing_solo"] = true,
+				["totals"] = {
+					358854, -- [1]
+					749, -- [2]
+					{
+						0, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[6] = 0,
+						[3] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["dead"] = 0,
+						["cc_break"] = 0,
+						["interrupt"] = 0,
+						["debuff_uptime"] = 0,
+						["dispell"] = 0,
+						["cooldowns_defensive"] = 0,
+					}, -- [4]
+					["voidzone_damage"] = 0,
+					["frags_total"] = 0,
+				},
+				["totals_grupo"] = {
+					357579, -- [1]
+					749, -- [2]
+					{
+						0, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[6] = 0,
+						[3] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["dead"] = 0,
+						["cc_break"] = 0,
+						["interrupt"] = 0,
+						["debuff_uptime"] = 0,
+						["dispell"] = 0,
+						["cooldowns_defensive"] = 0,
+					}, -- [4]
+				},
+				["frags_need_refresh"] = true,
+				["instance_type"] = "party",
+				["hasSaved"] = true,
+				["data_fim"] = "22:18:13",
+				["cleu_timeline"] = {
+				},
+				["enemy"] = "Nalorakk",
+				["TotalElapsedCombatTime"] = 15131.535,
+				["CombatEndedAt"] = 15131.535,
+				["aura_timeline"] = {
+				},
+				["__call"] = {
+				},
+				["data_inicio"] = "22:17:56",
+				["end_time"] = 15130.73,
+				["combat_id"] = 10,
+				["player_last_events"] = {
+				},
+				["contra"] = "Nalorakk",
+				["overall_added"] = true,
+				["spells_cast_timeline"] = {
+				},
+				["is_boss"] = {
+					["diff_string"] = "Heroic",
+					["index"] = 1,
+					["zone"] = "Zul'Aman",
+					["encounter"] = "Nalorakk",
+					["mapid"] = 568,
+					["try_number"] = 1,
+					["name"] = "Nalorakk",
+					["diff"] = 2,
+					["ej_instance_id"] = 77,
+					["id"] = 1190,
+					["killed"] = true,
+				},
+				["cleu_events"] = {
+					["n"] = 1,
+				},
+				["CombatSkillCache"] = {
+				},
+				["PhaseData"] = {
+					{
+						1, -- [1]
+						1, -- [2]
+					}, -- [1]
+					["damage"] = {
+						{
+							["Thaaeyn"] = 357579.00774,
+						}, -- [1]
+					},
+					["heal_section"] = {
+					},
+					["heal"] = {
+						{
+							["Thaaeyn"] = 749.005861,
+						}, -- [1]
+					},
+					["damage_section"] = {
+					},
+				},
+				["start_time"] = 15113.483,
+				["TimeData"] = {
+				},
+				["frags"] = {
+					["Amani Bear Mount"] = 2,
+				},
+			}, -- [1]
+			{
+				{
+					["tipo"] = 2,
+					["combatId"] = 4,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1297,
+							["totalabsorbed"] = 0.00579,
+							["damage_from"] = {
+								["Amani'shi Wind Walker"] = true,
+								["Amani'shi Protector"] = true,
+								["Amani'shi Tempest"] = true,
+								["Akil'zon"] = true,
+							},
+							["targets"] = {
+								["Amani'shi Wind Walker"] = 15842,
+								["Amani'shi Protector"] = 9376,
+								["Akil'zon"] = 285345,
+								["Amani'shi Tempest"] = 4688,
+							},
+							["pets"] = {
+							},
+							["on_hold"] = false,
+							["last_dps"] = 24287.44266486644,
+							["classe"] = "DRUID",
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 315251.00579,
+							["last_event"] = 1601928899,
+							["delay"] = 0,
+							["dps_started"] = false,
+							["end_time"] = 1601928899,
+							["friendlyfire_total"] = 0,
+							["damage_taken"] = 634.0057899999999,
+							["boss_fight_component"] = true,
+							["spec"] = 102,
+							["grupo"] = true,
+							["total"] = 315251.00579,
+							["nome"] = "Thaaeyn",
+							["custom"] = 0,
+							["colocacao"] = 1,
+							["tipo"] = 1,
+							["friendlyfire"] = {
+							},
+							["start_time"] = 1601928886,
+							["serial"] = "Player-3702-06215D83",
+							["spells"] = {
+								["_ActorTable"] = {
+									[190984] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 18291,
+										["targets"] = {
+											["Akil'zon"] = 91455,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 91455,
+										["n_min"] = 18291,
+										["g_dmg"] = 0,
+										["counter"] = 5,
+										["total"] = 91455,
+										["c_max"] = 0,
+										["c_min"] = 0,
+										["id"] = 190984,
+										["r_dmg"] = 0,
+										["r_amt"] = 0,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["b_dmg"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 5,
+										["extra"] = {
+										},
+										["spellschool"] = 8,
+									},
+									[164812] = {
+										["c_amt"] = 1,
+										["b_amt"] = 0,
+										["c_dmg"] = 9602,
+										["g_amt"] = 0,
+										["n_max"] = 5157,
+										["targets"] = {
+											["Akil'zon"] = 43565,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 33963,
+										["n_min"] = 4801,
+										["g_dmg"] = 0,
+										["counter"] = 8,
+										["total"] = 43565,
+										["c_max"] = 9602,
+										["c_min"] = 9602,
+										["id"] = 164812,
+										["r_dmg"] = 0,
+										["r_amt"] = 0,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["b_dmg"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 7,
+										["extra"] = {
+										},
+										["spellschool"] = 64,
+									},
+									[78674] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 82626,
+										["targets"] = {
+											["Akil'zon"] = 82626,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 82626,
+										["n_min"] = 82626,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 82626,
+										["c_max"] = 0,
+										["c_min"] = 0,
+										["id"] = 78674,
+										["r_dmg"] = 0,
+										["r_amt"] = 0,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["b_dmg"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 1,
+										["extra"] = {
+										},
+										["spellschool"] = 72,
+									},
+									[164815] = {
+										["c_amt"] = 2,
+										["b_amt"] = 0,
+										["c_dmg"] = 22309,
+										["g_amt"] = 0,
+										["n_max"] = 6466,
+										["targets"] = {
+											["Amani'shi Wind Walker"] = 15842,
+											["Amani'shi Protector"] = 9376,
+											["Akil'zon"] = 45749,
+											["Amani'shi Tempest"] = 4688,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 53346,
+										["n_min"] = 4688,
+										["g_dmg"] = 0,
+										["counter"] = 13,
+										["total"] = 75655,
+										["c_max"] = 12933,
+										["c_min"] = 9376,
+										["id"] = 164815,
+										["r_dmg"] = 0,
+										["r_amt"] = 0,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["b_dmg"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 11,
+										["extra"] = {
+										},
+										["spellschool"] = 8,
+									},
+									[202497] = {
+										["c_amt"] = 1,
+										["b_amt"] = 0,
+										["c_dmg"] = 21950,
+										["g_amt"] = 0,
+										["n_max"] = 0,
+										["targets"] = {
+											["Akil'zon"] = 21950,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 0,
+										["n_min"] = 0,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 21950,
+										["c_max"] = 21950,
+										["c_min"] = 21950,
+										["id"] = 202497,
+										["r_dmg"] = 0,
+										["r_amt"] = 0,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["b_dmg"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 0,
+										["extra"] = {
+										},
+										["spellschool"] = 72,
+									},
+								},
+								["tipo"] = 2,
+							},
+						}, -- [1]
+						{
+							["flag_original"] = 68168,
+							["totalabsorbed"] = 0.008353,
+							["damage_from"] = {
+								["Thaaeyn"] = true,
+							},
+							["targets"] = {
+								["Thaaeyn"] = 398,
+							},
+							["pets"] = {
+							},
+							["tipo"] = 1,
+							["friendlyfire_total"] = 0,
+							["classe"] = "UNKNOW",
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 398.008353,
+							["delay"] = 0,
+							["monster"] = true,
+							["end_time"] = 1601928899,
+							["nome"] = "Akil'zon",
+							["damage_taken"] = 285345.008353,
+							["boss_fight_component"] = true,
+							["spells"] = {
+								["_ActorTable"] = {
+									{
+										["c_amt"] = 1,
+										["b_amt"] = 0,
+										["c_dmg"] = 135,
+										["g_amt"] = 0,
+										["n_max"] = 72,
+										["targets"] = {
+											["Thaaeyn"] = 335,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 200,
+										["n_min"] = 60,
+										["g_dmg"] = 0,
+										["counter"] = 6,
+										["c_min"] = 135,
+										["total"] = 335,
+										["c_max"] = 135,
+										["r_amt"] = 0,
+										["id"] = 1,
+										["r_dmg"] = 0,
+										["extra"] = {
+										},
+										["b_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["a_dmg"] = 0,
+										["n_amt"] = 3,
+										["spellschool"] = 1,
+										["MISS"] = 2,
+									}, -- [1]
+									[43622] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 0,
+										["targets"] = {
+											["Thaaeyn"] = 0,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 0,
+										["n_min"] = 0,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["c_min"] = 0,
+										["total"] = 0,
+										["c_max"] = 0,
+										["r_amt"] = 0,
+										["id"] = 43622,
+										["r_dmg"] = 0,
+										["extra"] = {
+										},
+										["b_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["a_dmg"] = 0,
+										["n_amt"] = 0,
+										["spellschool"] = 8,
+										["MISS"] = 1,
+									},
+									[43661] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 63,
+										["targets"] = {
+											["Thaaeyn"] = 63,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 63,
+										["n_min"] = 63,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 63,
+										["c_max"] = 0,
+										["id"] = 43661,
+										["r_dmg"] = 0,
+										["c_min"] = 0,
+										["r_amt"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 1,
+										["b_dmg"] = 0,
+										["n_amt"] = 1,
+										["a_dmg"] = 0,
+										["extra"] = {
+										},
+									},
+								},
+								["tipo"] = 2,
+							},
+							["total"] = 398.008353,
+							["last_dps"] = 0,
+							["friendlyfire"] = {
+							},
+							["custom"] = 0,
+							["last_event"] = 1601928898,
+							["on_hold"] = false,
+							["start_time"] = 1601928890,
+							["serial"] = "Creature-0-3767-568-4367-23574-00007B7E2A",
+							["dps_started"] = false,
+						}, -- [2]
+						{
+							["flag_original"] = 2632,
+							["totalabsorbed"] = 0.007308,
+							["damage_from"] = {
+								["Thaaeyn"] = true,
+							},
+							["targets"] = {
+								["Thaaeyn"] = 111,
+							},
+							["pets"] = {
+							},
+							["tipo"] = 1,
+							["friendlyfire_total"] = 0,
+							["classe"] = "UNKNOW",
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 111.007308,
+							["delay"] = 0,
+							["monster"] = true,
+							["end_time"] = 1601928899,
+							["nome"] = "Amani'shi Tempest",
+							["damage_taken"] = 4688.007308,
+							["boss_fight_component"] = true,
+							["spells"] = {
+								["_ActorTable"] = {
+									{
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 55,
+										["targets"] = {
+											["Thaaeyn"] = 111,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 111,
+										["c_min"] = 0,
+										["n_min"] = 25,
+										["g_dmg"] = 0,
+										["counter"] = 9,
+										["r_amt"] = 0,
+										["total"] = 111,
+										["c_max"] = 0,
+										["spellschool"] = 1,
+										["id"] = 1,
+										["r_dmg"] = 0,
+										["b_dmg"] = 0,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["extra"] = {
+										},
+										["n_amt"] = 3,
+										["MISS"] = 5,
+										["DODGE"] = 1,
+									}, -- [1]
+									[44033] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 0,
+										["targets"] = {
+											["Thaaeyn"] = 0,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 0,
+										["n_min"] = 0,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 0,
+										["c_max"] = 0,
+										["c_min"] = 0,
+										["id"] = 44033,
+										["r_dmg"] = 0,
+										["r_amt"] = 0,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["b_dmg"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 1,
+										["a_amt"] = 0,
+										["n_amt"] = 0,
+										["extra"] = {
+										},
+										["MISS"] = 1,
+									},
+								},
+								["tipo"] = 2,
+							},
+							["total"] = 111.007308,
+							["last_dps"] = 0,
+							["friendlyfire"] = {
+							},
+							["custom"] = 0,
+							["last_event"] = 1601928899,
+							["on_hold"] = false,
+							["start_time"] = 1601928893,
+							["serial"] = "Creature-0-3767-568-4367-24549-00007B7E2A",
+							["dps_started"] = false,
+						}, -- [3]
+						{
+							["flag_original"] = 2632,
+							["totalabsorbed"] = 0.004107,
+							["damage_from"] = {
+								["Thaaeyn"] = true,
+							},
+							["targets"] = {
+								["Thaaeyn"] = 63,
+							},
+							["pets"] = {
+							},
+							["tipo"] = 1,
+							["friendlyfire_total"] = 0,
+							["classe"] = "UNKNOW",
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 63.00410700000001,
+							["delay"] = 0,
+							["monster"] = true,
+							["end_time"] = 1601928899,
+							["nome"] = "Amani'shi Protector",
+							["damage_taken"] = 9376.004107,
+							["boss_fight_component"] = true,
+							["spells"] = {
+								["_ActorTable"] = {
+									{
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 35,
+										["targets"] = {
+											["Thaaeyn"] = 63,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 63,
+										["n_min"] = 28,
+										["g_dmg"] = 0,
+										["counter"] = 3,
+										["c_min"] = 0,
+										["total"] = 63,
+										["c_max"] = 0,
+										["r_amt"] = 0,
+										["id"] = 1,
+										["r_dmg"] = 0,
+										["extra"] = {
+										},
+										["b_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["a_dmg"] = 0,
+										["n_amt"] = 2,
+										["spellschool"] = 1,
+										["MISS"] = 1,
+									}, -- [1]
+									[43529] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 0,
+										["targets"] = {
+											["Thaaeyn"] = 0,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 0,
+										["n_min"] = 0,
+										["g_dmg"] = 0,
+										["counter"] = 2,
+										["total"] = 0,
+										["c_max"] = 0,
+										["c_min"] = 0,
+										["id"] = 43529,
+										["r_dmg"] = 0,
+										["r_amt"] = 0,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["b_dmg"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 1,
+										["a_amt"] = 0,
+										["n_amt"] = 0,
+										["extra"] = {
+										},
+										["MISS"] = 2,
+									},
+									[43530] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 0,
+										["targets"] = {
+											["Thaaeyn"] = 0,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 0,
+										["n_min"] = 0,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 0,
+										["c_max"] = 0,
+										["c_min"] = 0,
+										["id"] = 43530,
+										["r_dmg"] = 0,
+										["r_amt"] = 0,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["b_dmg"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 1,
+										["a_amt"] = 0,
+										["n_amt"] = 0,
+										["extra"] = {
+										},
+										["MISS"] = 1,
+									},
+									[15496] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 0,
+										["targets"] = {
+											["Thaaeyn"] = 0,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 0,
+										["n_min"] = 0,
+										["g_dmg"] = 0,
+										["counter"] = 2,
+										["total"] = 0,
+										["c_max"] = 0,
+										["c_min"] = 0,
+										["id"] = 15496,
+										["r_dmg"] = 0,
+										["r_amt"] = 0,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["b_dmg"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 2,
+										["a_amt"] = 0,
+										["n_amt"] = 0,
+										["extra"] = {
+										},
+										["MISS"] = 2,
+									},
+								},
+								["tipo"] = 2,
+							},
+							["total"] = 63.00410700000001,
+							["last_dps"] = 0,
+							["friendlyfire"] = {
+							},
+							["custom"] = 0,
+							["last_event"] = 1601928899,
+							["on_hold"] = false,
+							["start_time"] = 1601928896,
+							["serial"] = "Creature-0-3767-568-4367-24180-00007B7EAF",
+							["dps_started"] = false,
+						}, -- [4]
+						{
+							["flag_original"] = 2632,
+							["totalabsorbed"] = 0.007401,
+							["damage_from"] = {
+								["Thaaeyn"] = true,
+							},
+							["targets"] = {
+								["Thaaeyn"] = 62,
+							},
+							["pets"] = {
+							},
+							["tipo"] = 1,
+							["friendlyfire_total"] = 0,
+							["classe"] = "UNKNOW",
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 62.007401,
+							["delay"] = 0,
+							["monster"] = true,
+							["end_time"] = 1601928899,
+							["nome"] = "Amani'shi Wind Walker",
+							["damage_taken"] = 15842.007401,
+							["boss_fight_component"] = true,
+							["spells"] = {
+								["_ActorTable"] = {
+									{
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 33,
+										["targets"] = {
+											["Thaaeyn"] = 62,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 62,
+										["n_min"] = 29,
+										["g_dmg"] = 0,
+										["counter"] = 3,
+										["c_min"] = 0,
+										["total"] = 62,
+										["c_max"] = 0,
+										["r_amt"] = 0,
+										["id"] = 1,
+										["r_dmg"] = 0,
+										["extra"] = {
+										},
+										["b_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["a_dmg"] = 0,
+										["n_amt"] = 2,
+										["spellschool"] = 1,
+										["MISS"] = 1,
+									}, -- [1]
+									[43524] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 0,
+										["targets"] = {
+											["Thaaeyn"] = 0,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 0,
+										["n_min"] = 0,
+										["g_dmg"] = 0,
+										["counter"] = 2,
+										["total"] = 0,
+										["c_max"] = 0,
+										["c_min"] = 0,
+										["id"] = 43524,
+										["r_dmg"] = 0,
+										["r_amt"] = 0,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["b_dmg"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 2,
+										["a_amt"] = 0,
+										["n_amt"] = 0,
+										["extra"] = {
+										},
+										["MISS"] = 2,
+									},
+									[43526] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 0,
+										["targets"] = {
+											["Thaaeyn"] = 0,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 0,
+										["n_min"] = 0,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 0,
+										["c_max"] = 0,
+										["c_min"] = 0,
+										["id"] = 43526,
+										["r_dmg"] = 0,
+										["r_amt"] = 0,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["b_dmg"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 1,
+										["a_amt"] = 0,
+										["n_amt"] = 0,
+										["extra"] = {
+										},
+										["MISS"] = 1,
+									},
+								},
+								["tipo"] = 2,
+							},
+							["total"] = 62.007401,
+							["last_dps"] = 0,
+							["friendlyfire"] = {
+							},
+							["custom"] = 0,
+							["last_event"] = 1601928898,
+							["on_hold"] = false,
+							["start_time"] = 1601928893,
+							["serial"] = "Creature-0-3767-568-4367-24179-00007B7EAF",
+							["dps_started"] = false,
+						}, -- [5]
+						{
+							["flag_original"] = 2632,
+							["totalabsorbed"] = 0.003604,
+							["damage_from"] = {
+							},
+							["targets"] = {
+							},
+							["pets"] = {
+							},
+							["last_event"] = 0,
+							["friendlyfire"] = {
+							},
+							["friendlyfire_total"] = 0,
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 0.003604,
+							["delay"] = 0,
+							["monster"] = true,
+							["total"] = 0.003604,
+							["classe"] = "UNKNOW",
+							["damage_taken"] = 0.003604,
+							["boss_fight_component"] = true,
+							["spells"] = {
+								["_ActorTable"] = {
+									[42943] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 0,
+										["targets"] = {
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 0,
+										["n_min"] = 0,
+										["g_dmg"] = 0,
+										["counter"] = 0,
+										["total"] = 0,
+										["c_max"] = 0,
+										["id"] = 42943,
+										["r_dmg"] = 0,
+										["c_min"] = 0,
+										["r_amt"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 1,
+										["b_dmg"] = 0,
+										["n_amt"] = 0,
+										["a_dmg"] = 0,
+										["extra"] = {
+										},
+									},
+								},
+								["tipo"] = 2,
+							},
+							["nome"] = "Amani Lynx Cub",
+							["last_dps"] = 0,
+							["end_time"] = 1601928899,
+							["custom"] = 0,
+							["tipo"] = 1,
+							["on_hold"] = false,
+							["start_time"] = 1601928899,
+							["serial"] = "Creature-0-3767-568-4367-24064-0003FB7E2A",
+							["dps_started"] = false,
+						}, -- [6]
+					},
+				}, -- [1]
+				{
+					["tipo"] = 3,
+					["combatId"] = 4,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1297,
+							["targets_overheal"] = {
+								["Thaaeyn"] = 448,
+							},
+							["pets"] = {
+							},
+							["iniciar_hps"] = false,
+							["heal_enemy_amt"] = 0,
+							["totalover"] = 448.007139,
+							["total_without_pet"] = 434.007139,
+							["total"] = 434.007139,
+							["targets_absorbs"] = {
+							},
+							["heal_enemy"] = {
+							},
+							["on_hold"] = false,
+							["serial"] = "Player-3702-06215D83",
+							["totalabsorb"] = 0.007139,
+							["last_hps"] = 0,
+							["targets"] = {
+								["Thaaeyn"] = 434,
+							},
+							["totalover_without_pet"] = 0.007139,
+							["healing_taken"] = 434.007139,
+							["end_time"] = 1601928899,
+							["tipo"] = 2,
+							["healing_from"] = {
+								["Thaaeyn"] = true,
+							},
+							["nome"] = "Thaaeyn",
+							["spells"] = {
+								["_ActorTable"] = {
+									[145109] = {
+										["c_amt"] = 0,
+										["totalabsorb"] = 0,
+										["targets_overheal"] = {
+											["Thaaeyn"] = 448,
+										},
+										["n_max"] = 299,
+										["targets"] = {
+											["Thaaeyn"] = 434,
+										},
+										["n_min"] = 135,
+										["counter"] = 2,
+										["overheal"] = 448,
+										["total"] = 434,
+										["c_max"] = 0,
+										["id"] = 145109,
+										["targets_absorbs"] = {
+										},
+										["c_curado"] = 0,
+										["m_crit"] = 0,
+										["m_healed"] = 0,
+										["c_min"] = 0,
+										["totaldenied"] = 0,
+										["n_amt"] = 2,
+										["n_curado"] = 434,
+										["m_amt"] = 0,
+										["absorbed"] = 0,
+									},
+								},
+								["tipo"] = 3,
+							},
+							["grupo"] = true,
+							["spec"] = 102,
+							["totaldenied"] = 0.007139,
+							["custom"] = 0,
+							["last_event"] = 1601928896,
+							["classe"] = "DRUID",
+							["start_time"] = 1601928891,
+							["delay"] = 0,
+							["boss_fight_component"] = true,
+						}, -- [1]
+					},
+				}, -- [2]
+				{
+					["tipo"] = 7,
+					["combatId"] = 4,
+					["_ActorTable"] = {
+						{
+							["received"] = 0.00852,
+							["resource"] = 50.00852,
+							["targets"] = {
+							},
+							["pets"] = {
+							},
+							["powertype"] = 0,
+							["classe"] = "DRUID",
+							["passiveover"] = 0.00852,
+							["total"] = 0.00852,
+							["totalover"] = 0.00852,
+							["boss_fight_component"] = true,
+							["spells"] = {
+								["_ActorTable"] = {
+								},
+								["tipo"] = 7,
+							},
+							["grupo"] = true,
+							["resource_type"] = 8,
+							["tipo"] = 3,
+							["spec"] = 102,
+							["last_event"] = 1601928897,
+							["alternatepower"] = 0.00852,
+							["flag_original"] = 1297,
+							["serial"] = "Player-3702-06215D83",
+							["nome"] = "Thaaeyn",
+						}, -- [1]
+					},
+				}, -- [3]
+				{
+					["tipo"] = 9,
+					["combatId"] = 4,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1047,
+							["debuff_uptime_spells"] = {
+								["_ActorTable"] = {
+									[164812] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 0,
+										["refreshamt"] = 0,
+										["id"] = 164812,
+										["uptime"] = 13,
+										["targets"] = {
+										},
+										["appliedamt"] = 1,
+									},
+									[164815] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 5,
+										["refreshamt"] = 1,
+										["id"] = 164815,
+										["uptime"] = 12,
+										["targets"] = {
+										},
+										["appliedamt"] = 6,
+									},
+								},
+								["tipo"] = 9,
+							},
+							["buff_uptime"] = 16,
+							["classe"] = "DRUID",
+							["buff_uptime_spells"] = {
+								["_ActorTable"] = {
+									[326419] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 0,
+										["id"] = 326419,
+										["uptime"] = 13,
+										["targets"] = {
+										},
+										["appliedamt"] = 1,
+									},
+									[164547] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 1,
+										["id"] = 164547,
+										["uptime"] = 3,
+										["targets"] = {
+										},
+										["appliedamt"] = 1,
+									},
+									[164545] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 0,
+										["id"] = 164545,
+										["uptime"] = 0,
+										["targets"] = {
+										},
+										["appliedamt"] = 1,
+									},
+								},
+								["tipo"] = 9,
+							},
+							["debuff_uptime"] = 25,
+							["buff_uptime_targets"] = {
+							},
+							["spec"] = 102,
+							["grupo"] = true,
+							["spell_cast"] = {
+								[190984] = 5,
+								[78674] = 1,
+								[93402] = 2,
+							},
+							["tipo"] = 4,
+							["debuff_uptime_targets"] = {
+							},
+							["last_event"] = 1601928899,
+							["pets"] = {
+							},
+							["nome"] = "Thaaeyn",
+							["serial"] = "Player-3702-06215D83",
+							["boss_fight_component"] = true,
+						}, -- [1]
+						{
+							["flag_original"] = 2632,
+							["last_event"] = 0,
+							["nome"] = "Amani Lynx Cub",
+							["pets"] = {
+							},
+							["classe"] = "UNKNOW",
+							["spell_cast"] = {
+								[42943] = 1,
+							},
+							["tipo"] = 4,
+							["monster"] = true,
+							["serial"] = "Creature-0-3767-568-4367-24064-0003FB7E2A",
+							["boss_fight_component"] = true,
+						}, -- [2]
+						{
+							["flag_original"] = 68168,
+							["last_event"] = 0,
+							["nome"] = "Akil'zon",
+							["pets"] = {
+							},
+							["classe"] = "UNKNOW",
+							["spell_cast"] = {
+								[43661] = 1,
+							},
+							["tipo"] = 4,
+							["monster"] = true,
+							["serial"] = "Creature-0-3767-568-4367-23574-00007B7E2A",
+							["boss_fight_component"] = true,
+						}, -- [3]
+						{
+							["flag_original"] = 2632,
+							["last_event"] = 0,
+							["nome"] = "Amani'shi Protector",
+							["pets"] = {
+							},
+							["classe"] = "UNKNOW",
+							["spell_cast"] = {
+								[43529] = 1,
+								[43530] = 1,
+								[15496] = 2,
+							},
+							["tipo"] = 4,
+							["monster"] = true,
+							["serial"] = "Creature-0-3767-568-4367-24180-00007B7EAF",
+							["boss_fight_component"] = true,
+						}, -- [4]
+						{
+							["flag_original"] = 2632,
+							["last_event"] = 0,
+							["nome"] = "Amani'shi Wind Walker",
+							["pets"] = {
+							},
+							["classe"] = "UNKNOW",
+							["spell_cast"] = {
+								[43524] = 2,
+								[43526] = 1,
+							},
+							["tipo"] = 4,
+							["monster"] = true,
+							["serial"] = "Creature-0-3767-568-4367-24179-00007B7EAF",
+							["boss_fight_component"] = true,
+						}, -- [5]
+						{
+							["flag_original"] = 2632,
+							["last_event"] = 0,
+							["nome"] = "Amani'shi Tempest",
+							["pets"] = {
+							},
+							["classe"] = "UNKNOW",
+							["spell_cast"] = {
+								[44033] = 1,
+							},
+							["tipo"] = 4,
+							["monster"] = true,
+							["serial"] = "Creature-0-3767-568-4367-24549-00007B7E2A",
+							["boss_fight_component"] = true,
+						}, -- [6]
+					},
+				}, -- [4]
+				{
+					["tipo"] = 2,
+					["combatId"] = 4,
+					["_ActorTable"] = {
+					},
+				}, -- [5]
+				["raid_roster"] = {
+					["Thaaeyn"] = true,
+				},
+				["CombatStartedAt"] = 14923.28,
+				["overall_added"] = true,
+				["cleu_timeline"] = {
+				},
+				["alternate_power"] = {
+				},
+				["instance_type"] = "party",
+				["enemy"] = "Akil'zon",
+				["cleu_events"] = {
+					["n"] = 1,
+				},
+				["tempo_start"] = 1601928886,
+				["totals"] = {
+					315885, -- [1]
+					434, -- [2]
+					{
+						0, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[6] = 0,
+						[3] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["dead"] = 0,
+						["cc_break"] = 0,
+						["interrupt"] = 0,
+						["debuff_uptime"] = 0,
+						["dispell"] = 0,
+						["cooldowns_defensive"] = 0,
+					}, -- [4]
+					["voidzone_damage"] = 0,
+					["frags_total"] = 0,
+				},
+				["player_last_events"] = {
+				},
+				["last_events_tables"] = {
+				},
+				["frags_need_refresh"] = false,
+				["aura_timeline"] = {
+				},
+				["__call"] = {
+				},
+				["PhaseData"] = {
+					{
+						1, -- [1]
+						1, -- [2]
+					}, -- [1]
+					["damage"] = {
+						{
+							["Thaaeyn"] = 291811.00579,
+						}, -- [1]
+					},
+					["heal_section"] = {
+					},
+					["heal"] = {
+						{
+							["Thaaeyn"] = 434.007139,
+						}, -- [1]
+					},
+					["damage_section"] = {
+					},
+				},
+				["end_time"] = 14936.245,
+				["combat_counter"] = 21,
+				["combat_id"] = 4,
+				["totals_grupo"] = {
+					315251, -- [1]
+					434, -- [2]
+					{
+						0, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[6] = 0,
+						[3] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["dead"] = 0,
+						["cc_break"] = 0,
+						["interrupt"] = 0,
+						["debuff_uptime"] = 0,
+						["dispell"] = 0,
+						["cooldowns_defensive"] = 0,
+					}, -- [4]
+				},
+				["data_inicio"] = "22:14:46",
+				["hasSaved"] = true,
+				["frags"] = {
+				},
+				["is_boss"] = {
+					["diff_string"] = "Heroic",
+					["index"] = 1,
+					["zone"] = "Zul'Aman",
+					["encounter"] = "Akil'zon",
+					["mapid"] = 568,
+					["try_number"] = 1,
+					["name"] = "Akil'zon",
+					["diff"] = 2,
+					["ej_instance_id"] = 77,
+					["id"] = 1189,
+					["killed"] = true,
+				},
+				["contra"] = "Akil'zon",
+				["CombatSkillCache"] = {
+				},
+				["spells_cast_timeline"] = {
+				},
+				["start_time"] = 14923.265,
+				["TimeData"] = {
+				},
+				["data_fim"] = "22:14:59",
+			}, -- [2]
+		},
+	},
+	["combat_counter"] = 28,
+	["character_data"] = {
+		["logons"] = 6,
+	},
+	["tabela_instancias"] = {
+	},
+	["local_instances_config"] = {
+		{
+			["segment"] = 0,
+			["sub_attribute"] = 1,
+			["horizontalSnap"] = false,
+			["verticalSnap"] = false,
+			["is_open"] = true,
+			["isLocked"] = true,
+			["sub_atributo_last"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
+				1, -- [5]
+			},
+			["snap"] = {
+			},
+			["mode"] = 2,
+			["attribute"] = 1,
+			["pos"] = {
+				["normal"] = {
+					["y"] = -382.9998016357422,
+					["x"] = 714.4998779296875,
+					["w"] = 416.9999694824219,
+					["h"] = 219.9999237060547,
+				},
+				["solo"] = {
+					["y"] = 2,
+					["x"] = 1,
+					["w"] = 300,
+					["h"] = 200,
+				},
+			},
+		}, -- [1]
+		{
+			["segment"] = 0,
+			["sub_attribute"] = 1,
+			["horizontalSnap"] = false,
+			["verticalSnap"] = false,
+			["is_open"] = true,
+			["isLocked"] = false,
+			["sub_atributo_last"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
+				1, -- [5]
+			},
+			["snap"] = {
+			},
+			["mode"] = 2,
+			["attribute"] = 1,
+			["pos"] = {
+				["normal"] = {
+					["y"] = -148.9979553222656,
+					["x"] = 505.0201416015625,
+					["w"] = 185.9669799804688,
+					["h"] = 192.0000457763672,
+				},
+				["solo"] = {
+					["y"] = 2,
+					["x"] = 1,
+					["w"] = 300,
+					["h"] = 200,
+				},
+			},
+		}, -- [2]
+	},
+	["cached_talents"] = {
+	},
+	["last_instance_id"] = 568,
+	["announce_interrupts"] = {
+		["enabled"] = false,
+		["whisper"] = "",
+		["channel"] = "SAY",
+		["custom"] = "",
+		["next"] = "",
+	},
+	["announce_prepots"] = {
+		["enabled"] = true,
+		["channel"] = "SELF",
+		["reverse"] = false,
+	},
+	["active_profile"] = "Rentaki-Kazzak",
+	["last_realversion"] = 141,
+	["benchmark_db"] = {
+		["frame"] = {
+		},
+	},
+	["plugin_database"] = {
+		["DETAILS_PLUGIN_TINY_THREAT"] = {
+			["updatespeed"] = 1,
+			["enabled"] = true,
+			["animate"] = false,
+			["useplayercolor"] = false,
+			["author"] = "Details! Team",
+			["useclasscolors"] = false,
+			["playercolor"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+			},
+			["showamount"] = false,
+		},
+		["DETAILS_PLUGIN_RAIDCHECK"] = {
+			["enabled"] = true,
+			["food_tier1"] = true,
+			["mythic_1_4"] = true,
+			["food_tier2"] = true,
+			["author"] = "Details! Team",
+			["use_report_panel"] = true,
+			["pre_pot_healers"] = false,
+			["pre_pot_tanks"] = false,
+			["food_tier3"] = true,
+		},
+		["DETAILS_PLUGIN_VANGUARD"] = {
+			["enabled"] = true,
+			["tank_block_color"] = {
+				0.24705882, -- [1]
+				0.0039215, -- [2]
+				0, -- [3]
+				0.8, -- [4]
+			},
+			["tank_block_texture"] = "Details Serenity",
+			["show_inc_bars"] = false,
+			["author"] = "Details! Team",
+			["first_run"] = false,
+			["tank_block_size"] = 150,
+		},
+		["DETAILS_PLUGIN_ENCOUNTER_DETAILS"] = {
+			["enabled"] = true,
+			["encounter_timers_bw"] = {
+			},
+			["max_emote_segments"] = 3,
+			["author"] = "Details! Team",
+			["window_scale"] = 1,
+			["encounter_timers_dbm"] = {
+			},
+			["show_icon"] = 5,
+			["opened"] = 0,
+			["hide_on_combat"] = false,
+		},
+		["DETAILS_PLUGIN_STREAM_OVERLAY"] = {
+			["font_color"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
+			},
+			["is_first_run"] = false,
+			["arrow_color"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				0.5, -- [4]
+			},
+			["main_frame_size"] = {
+				300, -- [1]
+				500.000030517578, -- [2]
+			},
+			["minimap"] = {
+				["minimapPos"] = 169.5741117930922,
+				["radius"] = 160,
+				["hide"] = false,
+			},
+			["arrow_anchor_x"] = 0,
+			["row_texture"] = "Details Serenity",
+			["arrow_anchor_y"] = 0,
+			["main_frame_locked"] = false,
+			["main_frame_strata"] = "LOW",
+			["enabled"] = false,
+			["arrow_size"] = 10,
+			["y"] = 4.57763671875e-05,
+			["row_spacement"] = 21,
+			["main_frame_color"] = {
+				0, -- [1]
+				0, -- [2]
+				0, -- [3]
+				0.2, -- [4]
+			},
+			["author"] = "Details! Team",
+			["arrow_texture"] = "Interface\\CHATFRAME\\ChatFrameExpandArrow",
+			["per_second"] = {
+				["enabled"] = false,
+				["point"] = "CENTER",
+				["scale"] = 1,
+				["font_shadow"] = true,
+				["y"] = 3.0517578125e-05,
+				["x"] = 3.0517578125e-05,
+				["attribute_type"] = 1,
+				["update_speed"] = 0.05,
+				["size"] = 32,
+			},
+			["font_size"] = 10,
+			["x"] = 0,
+			["font_face"] = "Friz Quadrata TT",
+			["use_spark"] = true,
+			["row_color"] = {
+				0.1, -- [1]
+				0.1, -- [2]
+				0.1, -- [3]
+				0.4, -- [4]
+			},
+			["point"] = "CENTER",
+			["row_height"] = 20,
+			["scale"] = 1,
+		},
+	},
+	["on_death_menu"] = true,
+	["last_day"] = "12",
+	["ignore_nicktag"] = false,
+	["nick_tag_cache"] = {
+		["nextreset"] = 1603224284,
+		["last_version"] = 12,
+	},
+	["last_version"] = "v8.3.0.7356",
+	["combat_id"] = 10,
+	["savedStyles"] = {
+	},
+	["last_instance_time"] = 1601928747,
+	["announce_firsthit"] = {
+		["enabled"] = true,
+		["channel"] = "SELF",
+	},
+	["announce_deaths"] = {
+		["enabled"] = false,
+		["last_hits"] = 1,
+		["only_first"] = 5,
+		["where"] = 1,
+	},
+	["force_font_outline"] = "",
+	["SoloTablesSaved"] = {
+		["Mode"] = 1,
+	},
+	["mythic_dungeon_currentsaved"] = {
+		["dungeon_name"] = "",
+		["started"] = false,
+		["segment_id"] = 0,
+		["ej_id"] = 0,
+		["started_at"] = 0,
+		["run_id"] = 0,
+		["level"] = 0,
+		["dungeon_zone_id"] = 0,
+		["previous_boss_killed_at"] = 0,
+	},
+	["announce_cooldowns"] = {
+		["ignored_cooldowns"] = {
+		},
+		["enabled"] = false,
+		["custom"] = "",
+		["channel"] = "RAID",
+	},
+	["rank_window"] = {
+		["last_difficulty"] = 15,
+		["last_raid"] = "",
+	},
+	["announce_damagerecord"] = {
+		["enabled"] = true,
+		["channel"] = "SELF",
+	},
+	["cached_specs"] = {
+		["Player-3702-06215D83"] = 102,
+	},
+}

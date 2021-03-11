@@ -1,0 +1,71 @@
+VER 3 0100000000000013 " " "INV_MISC_QUESTIONMARK"
+#showtooltip crusade
+/use Horn of Valor
+/cast crusade
+END
+VER 3 0100000000000004 " " "ABILITY_PALADIN_TOUCHEDBYLIGHT"
+#showtooltip
+/use 10
+END
+VER 3 0100000000000008 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@player] Holy Prism
+END
+VER 3 0100000000000015 " bop mo" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover] blessing of protection
+END
+VER 3 010000000000000F "beacon of virtue" "INV_MISC_QUESTIONMARK"
+#showtooltip beacon of virtue
+/cast [@mouseover] beacon of virtue
+END
+VER 3 010000000000000E "bestow faith" "INV_MISC_QUESTIONMARK"
+#showtooltip bestow faith
+/cast [@mouseover] bestow faith
+END
+VER 3 0100000000000007 "CDs" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast Avenging Wrath
+/cast Holy Avenger
+END
+VER 3 0100000000000010 "cleanse" "INV_MISC_QUESTIONMARK"
+#showtooltip cleanse
+/cast [@mouseover] cleanse
+END
+VER 3 010000000000000D "flash of light" "INV_MISC_QUESTIONMARK"
+#showtooltip flash of light
+/cast [@mouseover] flash of light
+END
+VER 3 010000000000000C "holy light" "INV_MISC_QUESTIONMARK"
+#showtooltip holy light
+/cast [@mouseover] holy light
+END
+VER 3 010000000000000B "holy shock" "INV_MISC_QUESTIONMARK"
+#showtooltip holy shock
+/cast [@mouseover] holy shock
+END
+VER 3 0100000000000014 "loh mo" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover] lay on hands
+END
+VER 3 0100000000000016 "mo martyr" "INV_MISC_QUESTIONMARK"
+#showtooltip light of the martyr
+/cast [@mouseover] light of the martyr
+END
+VER 3 0100000000000005 "remove" "INV_QIRAJIDOL_SUN"
+/cancelaura divine shield
+/cancelaura hand of protection
+END
+VER 3 0100000000000011 "sac" "INV_MISC_QUESTIONMARK"
+#showtooltip blessing of sacrifice
+/cast [@mouseover] blessing of sacrifice
+END
+VER 3 0100000000000006 "SS" "ABILITY_PALADIN_BLESSEDMENDING"
+#showtooltip
+/cast [target=player] sacred shield
+END
+VER 3 0100000000000012 "wings" "INV_MISC_QUESTIONMARK"
+#showtooltip Avenging Wrath
+/cast Avenging Wrath
+/use Horn of Valor
+END

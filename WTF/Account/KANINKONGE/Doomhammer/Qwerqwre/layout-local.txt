@@ -1,0 +1,8 @@
+Version: 1
+Frame: TooltipMover
+FrameLevel: 2
+Anchor: BOTTOM
+X: 394
+Y: 108
+W: 150
+H: 80

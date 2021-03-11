@@ -1,0 +1,82 @@
+VER 3 0100000000000013 " " "INV_MISC_QUESTIONMARK"
+/use 16
+/run local a=71086 b=0 if (IsEquippedItem(a) or InCombatLockdown()) then a=124372 b=124355 end if not (UnitCastingInfo("player") or IsMounted()) then EquipItemByName(a) if not (b==0) then EquipItemByName(b) end end
+/dismount
+END
+VER 3 0100000000000011 "archi" "INV_MACE_1H_FELFIRERAID_D_03.BLP"
+.item 1 124159
+.item 3 124176
+.item 5 124245
+.item 10 95738
+.item 7 21606
+.item 16 115950
+.item 8 95963
+.item 6 124200
+.item 17 0
+w
+END
+VER 3 0100000000000005 "asd" "INV_MISC_QUESTIONMARK"
+#showtooltip lava lash
+/use 13
+/use 14
+/cast lava lash
+END
+VER 3 0100000000000001 "asd" "INV_MISC_QUESTIONMARK"
+/logout
+END
+VER 3 010000000000000E "blackhand" "INV_MISC_QUESTIONMARK"
+**DEMOLITION**
+Demolition *1* > Corlic AW
+Demolition *2* > Rentaki Asc, Rentaki SLT
+Demolition *3* > Rentaki SLT, Rentaki HTT, Ness Barrier
+END
+VER 3 0100000000000006 "boomkin" "Ability_Druid_ImprovedMoonkinForm."
+.morph 15374
+.item 16 71086
+.enchant 1 4097
+END
+VER 3 0100000000000008 "chainheal" "INV_MISC_QUESTIONMARK"
+#showtooltip chain heal
+/cast [@mouseover] chain heal
+END
+VER 3 0100000000000014 "d " "133786"
+/dance
+END
+VER 3 010000000000000D "dispell" "INV_MISC_QUESTIONMARK"
+#showtooltip Purify Spirit
+/cast [@mouseover] Purify Spirit
+END
+VER 3 010000000000000B "earthshield" "INV_MISC_QUESTIONMARK"
+#showtooltip earth shield
+/use [@mouseover,help,nodead][help,nodead][@player] earth shield
+END
+VER 3 010000000000000F "Heal" "Achievement_Guild_DoctorIsIn."
+#showtooltip Healing Tonic
+/use healing tonic
+END
+VER 3 010000000000000A "healingsurge" "INV_MISC_QUESTIONMARK"
+#showtooltip healing surge
+/use [@mouseover,help,nodead][help,nodead][@player] healing surge
+END
+VER 3 0100000000000009 "healingwave" "INV_MISC_QUESTIONMARK"
+#showtooltip healing wave
+/cast [@mouseover] healing wave
+END
+VER 3 0100000000000004 "lmagma" "INV_MISC_QUESTIONMARK"
+#showtooltip liquid magma
+/cast liquid magma
+END
+VER 3 010000000000000C "riptide" "INV_MISC_QUESTIONMARK"
+#showtooltip riptide
+/use [@mouseover,help,nodead][help,nodead][@player] riptide
+END
+VER 3 0100000000000007 "sEle" "INV_MISC_QUESTIONMARK"
+#showtooltip storm elemental totem
+/cast storm elemental totem
+END
+VER 3 0100000000000002 "VuhDoDCShieldData" "Ability_Repair"
+R5DR1SM1PT1EM1OT[x]2IH2RM2EM2RM2RM3MR3LR3LR3DR3HR4PH4MR4PM[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]1SH[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]
+END
+VER 3 0100000000000003 "VuhDoDCShieldNames" "Ability_Repair"
+NTarLuqWeySmaJan[x]NesGooVilSakTroVanMenStaHotRadLisLolDiv[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]Ren[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]
+END

@@ -1,0 +1,32 @@
+VER 3 0100000000000007 " " "INV_MISC_QUESTIONMARK"
+#showtooltip breath of sindragosa
+/cast breath of sindragosa
+/use Vial of Convulsive Shadows
+END
+VER 3 0100000000000004 "asd" "INV_MISC_QUESTIONMARK"
+/click ExtraActionButton1
+/stopcasting
+END
+VER 3 0100000000000008 "BoS" "INV_MISC_QUESTIONMARK"
+#showtooltip Breath of Sindragosa
+/cast Breath of Sindragosa
+END
+VER 3 0100000000000006 "garg" "INV_MISC_QUESTIONMARK"
+#showtooltip summon gargoyle
+/cast summon gargoyle
+/use vial of convulsive shadows
+END
+VER 3 0100000000000003 "int" "INV_MISC_QUESTIONMARK"
+#showtooltip mind freeze
+/cast mind freeze
+/say taki interrupted, nyäll next
+END
+VER 3 0100000000000005 "inv" "INV_MISC_QUESTIONMARK"
+/run local _,n,c,r=BNGetToonInfo(BNet_GetPresenceID'Anne Karjalainen')if c=="WoW"then InviteUnit(r and(n.."-"..r)or n)end
+END
+VER 3 0100000000000001 "VuhDoDCShieldData" "Ability_Repair"
+P[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]1EM[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]0__
+END
+VER 3 0100000000000002 "VuhDoDCShieldNames" "Ability_Repair"
+N[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]Tak[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]Mud
+END

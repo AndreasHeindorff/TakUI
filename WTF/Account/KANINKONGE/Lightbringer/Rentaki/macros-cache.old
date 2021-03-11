@@ -1,0 +1,57 @@
+VER 3 0100000000000016 "ascendance" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast ascendance
+/use Pearl Diver's Compass
+END
+VER 3 0100000000000008 "chainheal" "INV_MISC_QUESTIONMARK"
+#showtooltip chain heal
+/cast [@mouseover] chain heal
+END
+VER 3 0100000000000014 "d " "133786"
+/dance
+END
+VER 3 010000000000000D "dispell" "INV_MISC_QUESTIONMARK"
+#showtooltip Purify Spirit
+/cast [@mouseover] Purify Spirit
+END
+VER 3 010000000000000B "earthshield" "INV_MISC_QUESTIONMARK"
+#showtooltip earth shield
+/use [@mouseover,help,nodead][help,nodead][@player] earth shield
+END
+VER 3 0100000000000018 "gotn" "INV_MISC_QUESTIONMARK"
+#showtooltip Gift of the Naaru(Racial)
+/use [@mouseover,help,nodead][help,nodead][@player] Gift of the Naaru(Racial)
+END
+VER 3 010000000000000A "healingsurge" "INV_MISC_QUESTIONMARK"
+#showtooltip healing surge
+/use [@mouseover,help,nodead][help,nodead][@player] healing surge
+END
+VER 3 0100000000000009 "healingwave" "INV_MISC_QUESTIONMARK"
+#showtooltip healing wave
+/cast [@mouseover] healing wave
+END
+VER 3 0100000000000017 "ht" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast healing tide totem
+/use Pearl Diver's Compass
+END
+VER 3 0100000000000004 "lmagma" "INV_MISC_QUESTIONMARK"
+#showtooltip liquid magma
+/cast liquid magma
+END
+VER 3 0100000000000019 "meteor" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast meteor
+END
+VER 3 010000000000000C "riptide" "INV_MISC_QUESTIONMARK"
+#showtooltip riptide
+/use [@mouseover,help,nodead][help,nodead][@player] riptide
+END
+VER 3 0100000000000007 "sEle" "INV_MISC_QUESTIONMARK"
+#showtooltip storm elemental totem
+/cast storm elemental totem
+END
+VER 3 0100000000000015 "unleash life" "INV_MISC_QUESTIONMARK"
+#showtooltip Unleash Life
+/cast [@mouseover] Unleash Life
+END

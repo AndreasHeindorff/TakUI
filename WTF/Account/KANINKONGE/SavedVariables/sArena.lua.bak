@@ -1,0 +1,54 @@
+
+sArena3DB = {
+	["profileKeys"] = {
+		["Takikultiran - Ravencrest"] = "Default",
+		["Rintake - Ragnaros"] = "Default",
+		["Takirogtrial - Ravencrest"] = "Default",
+		["Takistonez - Ravencrest"] = "Default",
+		["Takuu - Ravencrest"] = "Default",
+		["Rentakibmah - Baelgun"] = "Default",
+		["Takimogaa - Ravencrest"] = "Default",
+		["Takidari - Kazzak"] = "Default",
+		["Renwarri - Kazzak"] = "Default",
+		["Rentaki - Kazzak"] = "Default",
+		["Huntaki - Ravencrest"] = "Default",
+		["Takigalywix - Aegwynn"] = "Default",
+		["Thaaeyn - Argent Dawn"] = "Default",
+		["Takii - Argent Dawn"] = "Default",
+		["Renqqø - Kazzak"] = "Default",
+		["Rendudu - Kazzak"] = "Default",
+		["Takimogaasd - Ravencrest"] = "Default",
+		["Rentakigold - Baelgun"] = "Default",
+		["Takitalon - Arathi"] = "Default",
+		["Rentaco - Kazzak"] = "Default",
+		["Rentaki - Ravencrest"] = "Default",
+		["Nyumi - Argent Dawn"] = "Default",
+		["Rintake - Argent Dawn"] = "Default",
+		["Rentaco - Ravencrest"] = "Default",
+		["Takii - Frostmane"] = "Default",
+	},
+	["profiles"] = {
+		["Default"] = {
+			["layoutSettings"] = {
+				["Xaryu"] = {
+					["dr"] = {
+						["size"] = 30,
+					},
+					["posY"] = 214.3,
+					["scale"] = 1.1,
+					["trinket"] = {
+						["posY"] = 1,
+					},
+					["castBar"] = {
+						["scale"] = 1.2,
+						["posX"] = 19,
+						["width"] = 90,
+					},
+					["classIconFontSize"] = 16,
+					["posX"] = 353.1,
+				},
+			},
+			["currentLayout"] = "Xaryu",
+		},
+	},
+}

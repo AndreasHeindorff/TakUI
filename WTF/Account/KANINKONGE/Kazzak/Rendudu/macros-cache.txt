@@ -1,0 +1,24 @@
+VER 3 0100000000000006 "bark" "INV_MISC_QUESTIONMARK"
+#showtooltip ironbark
+/cast [@mouseover] ironbark
+END
+VER 3 0100000000000001 "lifebloom" "INV_MISC_QUESTIONMARK"
+#showtooltip Lifebloom
+/cast [@mouseover] Lifebloom
+END
+VER 3 0100000000000003 "regrowth" "INV_MISC_QUESTIONMARK"
+#showtooltip regrowth
+/cast [@mouseover] regrowth
+END
+VER 3 0100000000000002 "rejuv" "INV_MISC_QUESTIONMARK"
+#showtooltip rejuvenation
+/cast [@mouseover] rejuvenation
+END
+VER 3 0100000000000004 "swiftmend" "INV_MISC_QUESTIONMARK"
+#showtooltip swiftmend
+/cast [@mouseover] swiftmend
+END
+VER 3 0100000000000005 "ward" "INV_MISC_QUESTIONMARK"
+#showtooltip cenarion ward
+/cast [@mouseover] cenarion ward
+END

@@ -1,0 +1,24 @@
+VER 3 0100000000000003 " " "INV_MISC_QUESTIONMARK"
+.item 1 39514
+.item 3 32273
+.item 5 14175
+.item 15 4327
+.item 10 32353
+.item 6 78218
+.item 7 30256
+.item 8 34926
+.item 16 87565
+.enchant 1 4441
+END
+VER 3 0100000000000001 " pants of naaru" "Spell_Shadow_SummonSuccubus"
+/script DEFAULT_CHAT_FRAME:AddMessage("\124cff0070dd\124Hitem:30256:0:0:0:0:0:0:0:0\124h[Pants of the Naaru]\124h\124r");
+END
+VER 3 0100000000000002 "MOVE THE FUCK AW" "INV_MISC_QUESTIONMARK"
+/rw Sapper!!
+END
+VER 3 0100000000000004 "VuhDoDCShieldData" "Ability_Repair"
+P[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]1IR[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]
+END
+VER 3 0100000000000005 "VuhDoDCShieldNames" "Ability_Repair"
+N[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]Ive[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]
+END

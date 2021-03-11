@@ -1,0 +1,70 @@
+lightweight tag 6e6fd04ce94524c6d5dbbe39d9c05b1c9853b32c 1.74
+Author:	Azilroka <darktemplar9900@yahoo.com>
+Date:	Tue Dec 15 15:53:52 2020 -0600
+
+commit 6e6fd04ce94524c6d5dbbe39d9c05b1c9853b32c
+Author: Azilroka <darktemplar9900@yahoo.com>
+Date:   Tue Dec 15 15:53:52 2020 -0600
+
+    1.74
+
+commit 2324f9a4a0db2537ebf5c29d75194ad7f27bada6
+Author: Azilroka <darktemplar9900@yahoo.com>
+Date:   Sun Dec 6 15:10:07 2020 -0600
+
+    RepReward
+
+commit b98c2c36487c5f3f5a01e6cd2a38f81d66c08ce1
+Author: Azilroka <darktemplar9900@yahoo.com>
+Date:   Sun Dec 6 15:09:33 2020 -0600
+
+    Ace3 - Shared Widgets
+
+commit 549e991bfc59e7f0ff4181d304cd4ab460316124
+Author: Azilroka <darktemplar9900@yahoo.com>
+Date:   Sun Nov 29 00:25:37 2020 -0600
+
+    BrokerLDB
+
+commit ea84717dab05950702fee1279258a1582edeab3d
+Author: Azilroka <darktemplar9900@yahoo.com>
+Date:   Sat Nov 28 18:56:21 2020 -0600
+
+    Small Cleanup
+
+commit 1d35fa9e86ad10edce459a804b65fb404462800a
+Author: Azilroka <darktemplar9900@yahoo.com>
+Date:   Sat Nov 28 18:05:27 2020 -0600
+
+    QuestSounds
+
+commit 7933c4ceecf31c2c794522324c41b3b5918cf4a6
+Author: Azilroka <darktemplar9900@yahoo.com>
+Date:   Sat Nov 21 12:26:16 2020 -0600
+
+    QuestSounds
+
+commit 677ea21b90d1e2e360061f16c2460b0a94b5aea0
+Author: Azilroka <darktemplar9900@yahoo.com>
+Date:   Sat Nov 21 11:47:39 2020 -0600
+
+    RepRewards
+
+commit 530e87149b0e5e4a24c8eb090d7894cefb78941f
+Author: Azilroka <darktemplar9900@yahoo.com>
+Date:   Sat Nov 21 11:46:31 2020 -0600
+
+    QuestSounds
+
+commit fa5c5d4d2d273dbf50be48d796c3d62c462e0d6e
+Author: Repooc <tjcooper1982@gmail.com>
+Date:   Wed Nov 11 21:53:22 2020 -0500
+
+    fixes real error but still both were broken
+
+commit 08f78a94f091464e60281e5357d53faffbcb9a66
+Author: Repooc <tjcooper1982@gmail.com>
+Date:   Wed Nov 11 21:41:03 2020 -0500
+
+    should fix an error in the profile
+

@@ -1,0 +1,12 @@
+Informant: disabled
+Enchantrix-Barker: disabled
+Enchantrix: disabled
+Auc-Advanced: disabled
+Auc-Filter-Basic: disabled
+Auc-ScanData: disabled
+Auc-Stat-iLevel: disabled
+Auc-Stat-Purchased: disabled
+Auc-Util-FixAH: disabled
+Auc-Stat-StdDev: disabled
+Auc-Stat-Simple: disabled
+Auc-Stat-Histogram: disabled

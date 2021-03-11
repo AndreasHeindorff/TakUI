@@ -1,0 +1,138 @@
+VER 3 000000000000002D "," "INV_MISC_QUESTIONMARK"
+/cast [@cursor]Ward of Envelopment
+END
+VER 3 0000000000000023 "." "INV_MISC_QUESTIONMARK"
+/cast [target=mouseover]Revitalizing Voodoo Totem
+END
+VER 3 0000000000000027 "." "INV_MISC_QUESTIONMARK"
+END
+VER 3 0000000000000025 "." "INV_MISC_QUESTIONMARK"
+/target Qday
+END
+VER 3 0000000000000028 "." "INV_MISC_QUESTIONMARK"
+END
+VER 3 0000000000000029 "." "INV_MISC_QUESTIONMARK"
+/cast [@cursor]Ancestral Protection Totem
+END
+VER 3 000000000000002A "." "INV_MISC_QUESTIONMARK"
+/cast [target=mouseover]Mirror of Entwined Fate
+END
+VER 3 000000000000002B "." "INV_MISC_QUESTIONMARK"
+/cast [target=mouseover]Gift of the Naaru(Racial)
+#showtooltipGift of the Naaru(Racial)
+END
+VER 3 000000000000002C "." "INV_MISC_QUESTIONMARK"
+END
+VER 3 0000000000000019 "." "INV_MISC_QUESTIONMARK"
+/cast [target=mouseover]Cenarion Ward
+END
+VER 3 000000000000002E "." "INV_MISC_QUESTIONMARK"
+/cast [@cursor]Wind Rush Totem
+END
+VER 3 000000000000001A "123" "135158"
+/cast [target=mouseover] Nature's Cure
+END
+VER 3 0000000000000008 "ADDS" "INV_MISC_QUESTIONMARK"
+/rw ADDS
+END
+VER 3 000000000000000A "AVATAR" "INV_MISC_QUESTIONMARK"
+/rw SWITCH TARGET - NUKE AVATAR
+END
+VER 3 0000000000000024 "Boost" "INV_MISC_QUESTIONMARK"
+/2 Selling m+ 10 boost! <Boosting group since mid legion with over a 100 timed keys> Obtain your weekly m+ 10 chest today that guarantees a 410ilvl piece and get all the tradeable 400ilvl loot from the dungeon. /w me for more info!
+END
+VER 3 0000000000000007 "BRANDS" "236216"
+/rw BRANDS ON MARKERS
+END
+VER 3 000000000000000D "CAKES" "INV_MISC_QUESTIONMARK"
+/rw CAKES
+END
+VER 3 0000000000000021 "Cocoon" "627485"
+/cast [target=mouseover]Life Cocoon
+#showtooltip Life Cocoon
+/cast [nomod, @target, help, nodead, exists] Life Cocoon
+END
+VER 3 000000000000001B "DBM" "132321"
+/DBM pull 5
+END
+VER 3 0000000000000011 "DMG" "INV_MISC_QUESTIONMARK"
+/console floatingCombatTextCombatDamage 1
+END
+VER 3 0000000000000005 "FOCUS" "INV_MISC_QUESTIONMARK"
+/rw FOCUSED B
+END
+VER 3 0000000000000006 "FROST" "135833"
+/rw MARK OF FROST BETWEEN CROSS AND SKULL
+END
+VER 3 000000000000000C "Guild" "134331"
+/2 <Wreckingfall> is a brand new guild that aims to fill a raid team ready to start raiding in BFA. We are a small core of mythic expereinced raiders and we hope to start raiding before BFA. We offer +15 for weekly and socials are welcome! /w for details
+END
+VER 3 000000000000000F "Guild2" "134331"
+/2 <Wreckingfall> [1/11 M] is a newly formed guild with mythic experienced raiders who are looking to raid mythic before BFA. We nearly have a team rdy but we still need YOU. We raid mon/wed/sun 8-11PM realm time. Socials welcome. Interested? /w me!
+END
+VER 3 0000000000000010 "HEAL" "INV_MISC_QUESTIONMARK"
+/console floatingCombatTextCombatHealing 1
+END
+VER 3 0000000000000016 "HT" "136041"
+/cast [target=mouseover] Healing Touch
+END
+VER 3 0000000000000001 "I love you <3!" "133239"
+I love you <3! I love you <3! I love you <3! I love you <3! I love you <3! I love you <3! I love you <3! I love you <3! I love you <3! I love you <3! I love you <3! I love you <3! I love you <3! I love you <3! I love you <3! I love you <3!
+END
+VER 3 0000000000000018 "IB" "136097"
+/cast [target=mouseover] Ironbark
+END
+VER 3 0000000000000020 "INFUSIONS" "INV_MISC_QUESTIONMARK"
+/rw INFUSIONS
+END
+VER 3 0000000000000002 "Kiss" "133238"
+/kiss
+END
+VER 3 0000000000000003 "kneel" "INV_MISC_QUESTIONMARK"
+/kneel
+END
+VER 3 0000000000000015 "LB" "134206"
+/cast [target=mouseover] Lifebloom
+END
+VER 3 000000000000001C "Maiden" "INV_MISC_QUESTIONMARK"
+/rw Be aware of your infusions! You will either be targeted by Fel infusion or Light infusion - if you're fel stay between green and ourple marker, if you're light stay between yellow and orange marker.
+END
+VER 3 0000000000000009 "MAIDEN" "INV_MISC_QUESTIONMARK"
+/rw SWITCH TARGET - NUKE MAIDEN
+END
+VER 3 000000000000001D "Maiden" "INV_MISC_QUESTIONMARK"
+/rw She will teleport to the other side of the room at some point, when she does that there will be bolts of holy and fel. Depending on your infusion you have to run into these balls - holy infusion runs into holy bolts and fel into fel bolts.
+END
+VER 3 000000000000001F "Maiden tank" "INV_MISC_QUESTIONMARK"
+/rw - Hammer of Obliteration the tank infused by the light taunts back and so on.
+END
+VER 3 000000000000001E "Maiden tank" "INV_MISC_QUESTIONMARK"
+/rw Tanks: one of you will be infused by the fel and one of you will be infused by the light. The one infused with light needs to taunt the boss first and when she has cast Hammer of Creation, the tank infused by the fel taunts - when she has cast -
+END
+VER 3 000000000000000E "Mythic" "INV_MISC_QUESTIONMARK"
+/2 Selling mythic +15 boost 180k, get your weekly chest AND all the loot! /w me
+END
+VER 3 0000000000000026 "Nexus" "INV_MISC_QUESTIONMARK"
+/2 || NEXUS || 8/9HC, 1/9M - We are currently recruiting healers/DPS to strengthen our raiding team. Raid days are Wed and Mon 8pm - 11pm server time. Socials and PVP players are welcome! /w me for more info.
+END
+VER 3 0000000000000013 "REG" "136085"
+/cast [target=mouseover] Regrowth
+END
+VER 3 0000000000000014 "REJU" "136081"
+/cast [target=mouseover] Rejuvenation
+END
+VER 3 0000000000000022 "Reju" "INV_MISC_QUESTIONMARK"
+/cast [target=mouseover]Rejuvenation
+END
+VER 3 0000000000000004 "SHOCK" "INV_MISC_QUESTIONMARK"
+/rw SHOCKWAVE, GET BEHIND COVER
+END
+VER 3 0000000000000017 "SM" "134914"
+/cast [target=mouseover] Swiftmend
+END
+VER 3 000000000000000B "STAY" "INV_MISC_QUESTIONMARK"
+/rw STAY AT MAIDEN NOW
+END
+VER 3 0000000000000012 "WG" "236153"
+/cast [target=mouseover] Wild Growth
+END
