@@ -159,3 +159,4 @@ Tukui: disabled
 ElvUI_mMediaTag: disabled
 ElvUI_CustomMedia: disabled
 !KMediaTags: disabled
+LittleWigs_BattleForAzeroth: enabled

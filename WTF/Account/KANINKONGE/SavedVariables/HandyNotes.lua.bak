@@ -7,15 +7,15 @@ HandyNotesDB = {
 		["Rentamdi - Kazzak"] = "Rentamdi - Kazzak",
 		["Takistonez - Ravencrest"] = "Takistonez - Ravencrest",
 		["Takikin - Kazzak"] = "Takikin - Kazzak",
-		["Takitalon - Arathi"] = "Takitalon - Arathi",
+		["Rentaki - Ravencrest"] = "Rentaki - Ravencrest",
 		["Monkashaman - Kazzak"] = "Monkashaman - Kazzak",
 		["Takuu - Ravencrest"] = "Takuu - Ravencrest",
 		["Takiworra - Kazzak"] = "Takiworra - Kazzak",
 		["Takihunt - Kazzak"] = "Takihunt - Kazzak",
+		["Rentaki - Lightbringer"] = "Rentaki - Lightbringer",
+		["Rinzor - Aszune"] = "Rinzor - Aszune",
 		["Takiragthree - Kazzak"] = "Takiragthree - Kazzak",
-		["Taaku - Kazzak"] = "Taaku - Kazzak",
-		["Rentaki - Ravencrest"] = "Rentaki - Ravencrest",
-		["Takifistzz - Kazzak"] = "Takifistzz - Kazzak",
+		["Takiragone - Kazzak"] = "Takiragone - Kazzak",
 		["Takitest - Ravencrest"] = "Takitest - Ravencrest",
 		["Takibank - Argent Dawn"] = "Takibank - Argent Dawn",
 		["Rentakibmah - Baelgun"] = "Rentakibmah - Baelgun",
@@ -53,15 +53,15 @@ HandyNotesDB = {
 		["Takii - Argent Dawn"] = "Takii - Argent Dawn",
 		["Rentakigold - Blackmoore"] = "Rentakigold - Blackmoore",
 		["Rendudu - Kazzak"] = "Rendudu - Kazzak",
-		["Takioblivion - Medivh"] = "Takioblivion - Medivh",
+		["Felenia - Doomhammer"] = "Felenia - Doomhammer",
 		["Takidk - Kazzak"] = "Takidk - Kazzak",
 		["Takiragtwo - Kazzak"] = "Takiragtwo - Kazzak",
-		["Felenia - Doomhammer"] = "Felenia - Doomhammer",
-		["Rentaki - Lightbringer"] = "Rentaki - Lightbringer",
-		["Takiragone - Kazzak"] = "Takiragone - Kazzak",
+		["Takioblivion - Medivh"] = "Takioblivion - Medivh",
+		["Takitalon - Arathi"] = "Takitalon - Arathi",
+		["Takifistzz - Kazzak"] = "Takifistzz - Kazzak",
 		["Rintake - Argent Dawn"] = "Rintake - Argent Dawn",
 		["Rentaco - Ravencrest"] = "Rentaco - Ravencrest",
-		["Rinzor - Aszune"] = "Rinzor - Aszune",
+		["Taaku - Kazzak"] = "Taaku - Kazzak",
 	},
 	["profiles"] = {
 		["Takidari - Ravencrest"] = {
@@ -76,7 +76,7 @@ HandyNotesDB = {
 		},
 		["Takikin - Kazzak"] = {
 		},
-		["Takitalon - Arathi"] = {
+		["Rentaki - Ravencrest"] = {
 		},
 		["Monkashaman - Kazzak"] = {
 		},
@@ -86,13 +86,13 @@ HandyNotesDB = {
 		},
 		["Takihunt - Kazzak"] = {
 		},
+		["Rentaki - Lightbringer"] = {
+		},
+		["Rinzor - Aszune"] = {
+		},
 		["Takiragthree - Kazzak"] = {
 		},
-		["Taaku - Kazzak"] = {
-		},
-		["Rentaki - Ravencrest"] = {
-		},
-		["Takifistzz - Kazzak"] = {
+		["Takiragone - Kazzak"] = {
 		},
 		["Takitest - Ravencrest"] = {
 		},
@@ -168,23 +168,23 @@ HandyNotesDB = {
 		},
 		["Rendudu - Kazzak"] = {
 		},
-		["Takioblivion - Medivh"] = {
+		["Felenia - Doomhammer"] = {
 		},
 		["Takidk - Kazzak"] = {
 		},
 		["Takiragtwo - Kazzak"] = {
 		},
-		["Felenia - Doomhammer"] = {
+		["Takioblivion - Medivh"] = {
 		},
-		["Rentaki - Lightbringer"] = {
+		["Takitalon - Arathi"] = {
 		},
-		["Takiragone - Kazzak"] = {
+		["Takifistzz - Kazzak"] = {
 		},
 		["Rintake - Argent Dawn"] = {
 		},
 		["Rentaco - Ravencrest"] = {
 		},
-		["Rinzor - Aszune"] = {
+		["Taaku - Kazzak"] = {
 		},
 	},
 }
@@ -196,15 +196,15 @@ HandyNotes_HandyNotesDB = {
 		["Rentamdi - Kazzak"] = "Rentamdi - Kazzak",
 		["Takistonez - Ravencrest"] = "Takistonez - Ravencrest",
 		["Takikin - Kazzak"] = "Takikin - Kazzak",
-		["Takitalon - Arathi"] = "Takitalon - Arathi",
+		["Rentaki - Ravencrest"] = "Rentaki - Ravencrest",
 		["Monkashaman - Kazzak"] = "Monkashaman - Kazzak",
 		["Takuu - Ravencrest"] = "Takuu - Ravencrest",
 		["Takiworra - Kazzak"] = "Takiworra - Kazzak",
 		["Takihunt - Kazzak"] = "Takihunt - Kazzak",
+		["Rentaki - Lightbringer"] = "Rentaki - Lightbringer",
+		["Rinzor - Aszune"] = "Rinzor - Aszune",
 		["Takiragthree - Kazzak"] = "Takiragthree - Kazzak",
-		["Taaku - Kazzak"] = "Taaku - Kazzak",
-		["Rentaki - Ravencrest"] = "Rentaki - Ravencrest",
-		["Takifistzz - Kazzak"] = "Takifistzz - Kazzak",
+		["Takiragone - Kazzak"] = "Takiragone - Kazzak",
 		["Takitest - Ravencrest"] = "Takitest - Ravencrest",
 		["Takibank - Argent Dawn"] = "Takibank - Argent Dawn",
 		["Rentakibmah - Baelgun"] = "Rentakibmah - Baelgun",
@@ -242,15 +242,15 @@ HandyNotes_HandyNotesDB = {
 		["Takii - Argent Dawn"] = "Takii - Argent Dawn",
 		["Rentakigold - Blackmoore"] = "Rentakigold - Blackmoore",
 		["Rendudu - Kazzak"] = "Rendudu - Kazzak",
-		["Takioblivion - Medivh"] = "Takioblivion - Medivh",
+		["Felenia - Doomhammer"] = "Felenia - Doomhammer",
 		["Takidk - Kazzak"] = "Takidk - Kazzak",
 		["Takiragtwo - Kazzak"] = "Takiragtwo - Kazzak",
-		["Felenia - Doomhammer"] = "Felenia - Doomhammer",
-		["Rentaki - Lightbringer"] = "Rentaki - Lightbringer",
-		["Takiragone - Kazzak"] = "Takiragone - Kazzak",
+		["Takioblivion - Medivh"] = "Takioblivion - Medivh",
+		["Takitalon - Arathi"] = "Takitalon - Arathi",
+		["Takifistzz - Kazzak"] = "Takifistzz - Kazzak",
 		["Rintake - Argent Dawn"] = "Rintake - Argent Dawn",
 		["Rentaco - Ravencrest"] = "Rentaco - Ravencrest",
-		["Rinzor - Aszune"] = "Rinzor - Aszune",
+		["Taaku - Kazzak"] = "Taaku - Kazzak",
 	},
 	["profiles"] = {
 		["Takidari - Ravencrest"] = {
@@ -265,7 +265,7 @@ HandyNotes_HandyNotesDB = {
 		},
 		["Takikin - Kazzak"] = {
 		},
-		["Takitalon - Arathi"] = {
+		["Rentaki - Ravencrest"] = {
 		},
 		["Monkashaman - Kazzak"] = {
 		},
@@ -275,13 +275,13 @@ HandyNotes_HandyNotesDB = {
 		},
 		["Takihunt - Kazzak"] = {
 		},
+		["Rentaki - Lightbringer"] = {
+		},
+		["Rinzor - Aszune"] = {
+		},
 		["Takiragthree - Kazzak"] = {
 		},
-		["Taaku - Kazzak"] = {
-		},
-		["Rentaki - Ravencrest"] = {
-		},
-		["Takifistzz - Kazzak"] = {
+		["Takiragone - Kazzak"] = {
 		},
 		["Takitest - Ravencrest"] = {
 		},
@@ -357,23 +357,23 @@ HandyNotes_HandyNotesDB = {
 		},
 		["Rendudu - Kazzak"] = {
 		},
-		["Takioblivion - Medivh"] = {
+		["Felenia - Doomhammer"] = {
 		},
 		["Takidk - Kazzak"] = {
 		},
 		["Takiragtwo - Kazzak"] = {
 		},
-		["Felenia - Doomhammer"] = {
+		["Takioblivion - Medivh"] = {
 		},
-		["Rentaki - Lightbringer"] = {
+		["Takitalon - Arathi"] = {
 		},
-		["Takiragone - Kazzak"] = {
+		["Takifistzz - Kazzak"] = {
 		},
 		["Rintake - Argent Dawn"] = {
 		},
 		["Rentaco - Ravencrest"] = {
 		},
-		["Rinzor - Aszune"] = {
+		["Taaku - Kazzak"] = {
 		},
 	},
 }

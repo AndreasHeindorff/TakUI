@@ -33,8 +33,8 @@ TomTomDB = {
 		["Rinzor - Aszune"] = "Default",
 		["Takiragone - Kazzak"] = "Default",
 		["Takibank - Argent Dawn"] = "Default",
-		["Takipalaone - Kazzak"] = "Default",
 		["Renwarri - Kazzak"] = "Default",
+		["Takipalaone - Kazzak"] = "Default",
 		["Takiscoper - Kazzak"] = "Default",
 		["Takiworra - Kazzak"] = "Default",
 		["Felenia - Doomhammer"] = "Default",
@@ -52,17 +52,17 @@ TomTomDB = {
 		["Takimogaasd - Ravencrest"] = "Default",
 		["Asdfasfassa - Kazzak"] = "Default",
 		["Takimage - Kazzak"] = "Default",
-		["Takidin - Kazzak"] = "Default",
+		["Huntaki - Ravencrest"] = "Default",
 		["Takii - Frostmane"] = "Default",
 		["Thaaeyn - Argent Dawn"] = "Default",
-		["Asdfasdfaa - Kazzak"] = "Default",
+		["Rentakidh - Argent Dawn"] = "Default",
 		["Rentaki - Kazzak"] = "Default",
-		["Huntaki - Ravencrest"] = "Default",
+		["Takidin - Kazzak"] = "Default",
 		["Ivelea - Argent Dawn"] = "Default",
 		["Nyumi - Argent Dawn"] = "Default",
 		["Takigalywix - Aegwynn"] = "Default",
 		["Takimogaa - Ravencrest"] = "Default",
-		["Rentakidh - Argent Dawn"] = "Default",
+		["Asdfasdfaa - Kazzak"] = "Default",
 		["Rentakigold - Blackmoore"] = "Default",
 		["Rendudu - Kazzak"] = "Default",
 		["Takipala - Ravencrest"] = "Default",
@@ -128,8 +128,8 @@ TomTomWaypointsM = {
 		["Rinzor - Aszune"] = "Rinzor - Aszune",
 		["Takiragone - Kazzak"] = "Takiragone - Kazzak",
 		["Takibank - Argent Dawn"] = "Takibank - Argent Dawn",
-		["Takipalaone - Kazzak"] = "Takipalaone - Kazzak",
 		["Renwarri - Kazzak"] = "Renwarri - Kazzak",
+		["Takipalaone - Kazzak"] = "Takipalaone - Kazzak",
 		["Takiscoper - Kazzak"] = "Takiscoper - Kazzak",
 		["Takiworra - Kazzak"] = "Takiworra - Kazzak",
 		["Felenia - Doomhammer"] = "Felenia - Doomhammer",
@@ -147,17 +147,17 @@ TomTomWaypointsM = {
 		["Takimogaasd - Ravencrest"] = "Takimogaasd - Ravencrest",
 		["Asdfasfassa - Kazzak"] = "Asdfasfassa - Kazzak",
 		["Takimage - Kazzak"] = "Takimage - Kazzak",
-		["Takidin - Kazzak"] = "Takidin - Kazzak",
+		["Huntaki - Ravencrest"] = "Huntaki - Ravencrest",
 		["Takii - Frostmane"] = "Takii - Frostmane",
 		["Thaaeyn - Argent Dawn"] = "Thaaeyn - Argent Dawn",
-		["Asdfasdfaa - Kazzak"] = "Asdfasdfaa - Kazzak",
+		["Rentakidh - Argent Dawn"] = "Rentakidh - Argent Dawn",
 		["Rentaki - Kazzak"] = "Rentaki - Kazzak",
-		["Huntaki - Ravencrest"] = "Huntaki - Ravencrest",
+		["Takidin - Kazzak"] = "Takidin - Kazzak",
 		["Ivelea - Argent Dawn"] = "Ivelea - Argent Dawn",
 		["Nyumi - Argent Dawn"] = "Nyumi - Argent Dawn",
 		["Takigalywix - Aegwynn"] = "Takigalywix - Aegwynn",
 		["Takimogaa - Ravencrest"] = "Takimogaa - Ravencrest",
-		["Rentakidh - Argent Dawn"] = "Rentakidh - Argent Dawn",
+		["Asdfasdfaa - Kazzak"] = "Asdfasdfaa - Kazzak",
 		["Rentakigold - Blackmoore"] = "Rentakigold - Blackmoore",
 		["Rendudu - Kazzak"] = "Rendudu - Kazzak",
 		["Takipala - Ravencrest"] = "Takipala - Ravencrest",
@@ -281,9 +281,9 @@ TomTomWaypointsM = {
 		},
 		["Takibank - Argent Dawn"] = {
 		},
-		["Takipalaone - Kazzak"] = {
-		},
 		["Renwarri - Kazzak"] = {
+		},
+		["Takipalaone - Kazzak"] = {
 		},
 		["Takiscoper - Kazzak"] = {
 		},
@@ -463,31 +463,6 @@ TomTomWaypointsM = {
 					["world"] = true,
 				},
 			},
-			[542] = {
-				["542:364300000:183000000:Edge of Reality"] = {
-					542, -- [1]
-					0.3643, -- [2]
-					0.183, -- [3]
-					["arrivaldistance"] = 15,
-					["crazy"] = true,
-					["persistent"] = true,
-					["desc"] = "Edge of Reality",
-					["silent"] = true,
-					["cleardistance"] = 10,
-					["title"] = "Edge of Reality",
-					["from"] = "TomTom/way",
-					["callbacks"] = {
-						["distance"] = {
-						},
-						["minimap"] = {
-						},
-						["world"] = {
-						},
-					},
-					["minimap"] = true,
-					["world"] = true,
-				},
-			},
 			[535] = {
 				["535:521400000:411300000:Edge of Reality"] = {
 					535, -- [1]
@@ -536,6 +511,31 @@ TomTomWaypointsM = {
 					["world"] = true,
 				},
 			},
+			[542] = {
+				["542:364300000:183000000:Edge of Reality"] = {
+					542, -- [1]
+					0.3643, -- [2]
+					0.183, -- [3]
+					["arrivaldistance"] = 15,
+					["crazy"] = true,
+					["persistent"] = true,
+					["desc"] = "Edge of Reality",
+					["silent"] = true,
+					["cleardistance"] = 10,
+					["title"] = "Edge of Reality",
+					["from"] = "TomTom/way",
+					["callbacks"] = {
+						["distance"] = {
+						},
+						["minimap"] = {
+						},
+						["world"] = {
+						},
+					},
+					["minimap"] = true,
+					["world"] = true,
+				},
+			},
 		},
 		["Takifistzz - Kazzak"] = {
 		},
@@ -559,7 +559,7 @@ TomTomWaypointsM = {
 		},
 		["Takimage - Kazzak"] = {
 		},
-		["Takidin - Kazzak"] = {
+		["Huntaki - Ravencrest"] = {
 		},
 		["Takii - Frostmane"] = {
 			[539] = {
@@ -659,11 +659,11 @@ TomTomWaypointsM = {
 		},
 		["Thaaeyn - Argent Dawn"] = {
 		},
-		["Asdfasdfaa - Kazzak"] = {
+		["Rentakidh - Argent Dawn"] = {
 		},
 		["Rentaki - Kazzak"] = {
 		},
-		["Huntaki - Ravencrest"] = {
+		["Takidin - Kazzak"] = {
 		},
 		["Ivelea - Argent Dawn"] = {
 		},
@@ -673,7 +673,7 @@ TomTomWaypointsM = {
 		},
 		["Takimogaa - Ravencrest"] = {
 		},
-		["Rentakidh - Argent Dawn"] = {
+		["Asdfasdfaa - Kazzak"] = {
 		},
 		["Rentakigold - Blackmoore"] = {
 		},

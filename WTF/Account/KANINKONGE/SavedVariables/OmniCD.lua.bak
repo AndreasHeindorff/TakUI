@@ -64,13 +64,13 @@ OmniCDDB = {
 			["General"] = {
 				["fonts"] = {
 					["statusBar"] = {
-						["size"] = 21,
 						["font"] = "Gotham Narrow Black",
 						["flag"] = "OUTLINE",
+						["size"] = 21,
 					},
 					["icon"] = {
-						["size"] = 12,
 						["font"] = "Gotham Narrow Black",
+						["size"] = 12,
 					},
 					["anchor"] = {
 						["font"] = "Gotham Narrow Black",
