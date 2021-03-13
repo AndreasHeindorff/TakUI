@@ -1,19 +1,17 @@
 # BigWigs
 
-## [v218](https://github.com/BigWigsMods/BigWigs/tree/v218) (2021-03-09)
-[Full Changelog](https://github.com/BigWigsMods/BigWigs/compare/v217.3...v218) [Previous Releases](https://github.com/BigWigsMods/BigWigs/releases)
+## [v218.1](https://github.com/BigWigsMods/BigWigs/tree/v218.1) (2021-03-11)
+[Full Changelog](https://github.com/BigWigsMods/BigWigs/compare/v218...v218.1) [Previous Releases](https://github.com/BigWigsMods/BigWigs/releases)
 
-- bump version  
-- bump toc  
-- Another fix for not hiding the talking head  
-- Remove some old compat code  
 - Update option files  
-- Parser: Missed an extra check  
-- Revert "CastleNathria/Trash: Fix the parser failing"  
-- Parser: Support checking SetOption on a line with multiple local variables defined  
-- CastleNathria/Trash: Fix the parser failing  
-- CastleNathria/Trash: Missed an extra check before playing the sound  
-- CastleNathria/Trash: Tweaks  
-- Update workflow  
-- Maybe fix the talking head not hiding for some people  
-- Update ruRU (#1026)  
+- CastleNathria/Locales: Cleanups  
+- Update itIT (#1027)  
+- CastleNathria/TheCouncilofBlood: Fix Dancing bar icon  
+- CastleNathria/HungeringDestroyer: Fix a missed 'then'  
+- CastleNathria/HungeringDestroyer: Fix LFR timings  
+- CastleNathria/Trash: Tweak  
+- CastleNathria/HungeringDestroyer: Volatile Ejection is now in the combat log for LFR also, remove old code.  
+- CastleNathria/TheCouncilofBlood: Add a Dancing bar for the duration of the dance  
+- CastleNathria/Altimor: Stop playing sound & emphasizing Crushing Stone if it's being ignored  
+- CastleNathria/Trash: Throttle more things  
+- CastleNathria/Denathrius: Tweak  

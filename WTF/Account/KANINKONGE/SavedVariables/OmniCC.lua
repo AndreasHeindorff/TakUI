@@ -2,21 +2,21 @@
 OmniCCDB = {
 	["global"] = {
 		["dbVersion"] = 6,
-		["addonVersion"] = "9.0.7",
+		["addonVersion"] = "9.0.8",
 	},
 	["profileKeys"] = {
 		["Takidari - Ravencrest"] = "Default",
 		["Rintake - Ragnaros"] = "Default",
 		["Takidin - Ravencrest"] = "Default",
 		["Takikin - Kazzak"] = "Default",
-		["Takifistzz - Kazzak"] = "Default",
 		["Huntaki - Ravencrest"] = "Default",
+		["Takifistzz - Kazzak"] = "Default",
 		["Takuu - Ravencrest"] = "Default",
 		["Rintake - Argent Dawn"] = "Default",
 		["Rentakidh - Argent Dawn"] = "Default",
 		["Takidari - Kazzak"] = "Default",
 		["Taaku - Kazzak"] = "Default",
-		["Ivelea - Argent Dawn"] = "Default",
+		["Rentaki - Kazzak"] = "Default",
 		["Takidin - Kazzak"] = "Default",
 		["Rentamdi - Kazzak"] = "Default",
 		["Thaaeyn - Argent Dawn"] = "Default",
@@ -24,14 +24,14 @@ OmniCCDB = {
 		["Renqqø - Kazzak"] = "Default",
 		["Rendudu - Kazzak"] = "Default",
 		["Rentaki - Ravencrest"] = "Default",
-		["Takidk - Kazzak"] = "Default",
-		["Takiscoper - Kazzak"] = "Default",
 		["Renwarri - Kazzak"] = "Default",
-		["Takibank - Argent Dawn"] = "Default",
+		["Takiscoper - Kazzak"] = "Default",
+		["Takidk - Kazzak"] = "Default",
 		["Takitalon - Arathi"] = "Default",
+		["Takibank - Argent Dawn"] = "Default",
 		["Takiworra - Kazzak"] = "Default",
 		["Rentaco - Ravencrest"] = "Default",
-		["Rentaki - Kazzak"] = "Default",
+		["Ivelea - Argent Dawn"] = "Default",
 	},
 	["profiles"] = {
 		["Default"] = {
@@ -100,6 +100,8 @@ OmniCCDB = {
 	},
 }
 OmniCC4Config = {
+	["groups"] = {
+	},
 	["version"] = "8.2.5",
 	["groupSettings"] = {
 		["base"] = {
@@ -144,18 +146,16 @@ OmniCC4Config = {
 				},
 			},
 			["fontFace"] = "Interface\\Addons\\SharedMedia\\fonts\\vixar\\vixar.ttf",
-			["minDuration"] = 2,
-			["spiralOpacity"] = 1.00999997742474,
 			["yOff"] = -1,
+			["spiralOpacity"] = 1.00999997742474,
+			["minDuration"] = 2,
 			["xOff"] = 0,
 			["tenthsDuration"] = 0,
 			["fontOutline"] = "OUTLINE",
 			["minSize"] = 0.5,
-			["minEffectDuration"] = 30,
 			["mmSSDuration"] = 600,
+			["minEffectDuration"] = 30,
 			["fontSize"] = 16,
 		},
-	},
-	["groups"] = {
 	},
 }

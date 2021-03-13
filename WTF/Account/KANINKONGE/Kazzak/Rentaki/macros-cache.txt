@@ -47,7 +47,6 @@ VER 3 0100000000000017 "ht" "INV_MISC_QUESTIONMARK"
 /use Pearl Diver's Compass
 END
 VER 3 0100000000000029 "LavaBurst" "INV_MISC_QUESTIONMARK"
-#showtooltip
 /cqs
 /cast lava burst
 END

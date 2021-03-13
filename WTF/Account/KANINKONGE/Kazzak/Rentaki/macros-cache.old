@@ -19,6 +19,11 @@ VER 3 010000000000000B "earthshield" "INV_MISC_QUESTIONMARK"
 #showtooltip earth shield
 /use [@mouseover,help,nodead][help,nodead][@player] earth shield
 END
+VER 3 010000000000002A "EB/Echo" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [talent:2/2] Echoing Shock
+/cast [talent:2/3] Elemental Blast
+END
 VER 3 0100000000000024 "es/downpour" "INV_MISC_QUESTIONMARK"
 #showtooltip
 /cast [@cursor] [talent:6/2] Downpour
@@ -45,10 +50,6 @@ VER 3 0100000000000029 "LavaBurst" "INV_MISC_QUESTIONMARK"
 #showtooltip
 /cqs
 /cast lava burst
-END
-VER 3 0100000000000004 "lmagma" "INV_MISC_QUESTIONMARK"
-#showtooltip liquid magma
-/cast liquid magma
 END
 VER 3 0100000000000023 "mo eb" "INV_MISC_QUESTIONMARK"
 #showtooltip earthbind totem

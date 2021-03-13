@@ -2,2006 +2,2006 @@
 RCLootCouncilDB = {
 	["global"] = {
 		["log"] = {
-			"<19:55:43><Comm>	 ^1^SlootAck^T^N1^N102^N2^N225.9375^N3^T^Sresponse^T^t^Sdiff^T^N1^N-9^t^Sgear1^T^N1^S172315::::::::60:102::65:5:7107:6649:6648:6758:1532^t^Sgear2^T^t^t^t^^ RAID Nited-Kazzak", -- [1]
-			"<19:55:43><Comm>	 ^1^SlootAck^T^N1^N577^N2^N228.5625^N3^T^Sresponse^T^t^Sdiff^T^N1^N0^t^Sgear1^T^N1^S178361:6211:::::::60:577::14:3:6623:1498:6646:1:28:807^t^Sgear2^T^t^t^t^^ RAID Bevv-Kazzak", -- [2]
-			"<19:55:43><Comm>	 ^1^SlootAck^T^N1^N72^N2^N226.625^N3^T^Sresponse^T^N1^B^t^Sdiff^T^N1^N0^t^Sgear1^T^N1^S183027::::::::60:72::6:4:7187:6652:1498:6646:1:28:753^t^Sgear2^T^t^t^t^^ RAID Sacraa-Kazzak", -- [3]
-			"<19:55:43><Comm>	 ^1^SlootAck^T^N1^N70^N2^N226.0625^N3^T^Sresponse^T^N1^B^t^Sdiff^T^N1^N0^t^Sgear1^T^N1^S183027::::::::60:70::6:4:7187:6652:1498:6646^t^Sgear2^T^t^t^t^^ RAID Creo-Kazzak", -- [4]
-			"<19:55:43><Comm>	 ^1^SlootAck^T^N1^N254^N2^N227.875^N3^T^Sresponse^T^N1^B^t^Sdiff^T^N1^N0^t^Sgear1^T^N1^S183006:6211:::::::60:254::6:4:7187:6652:1498:6646^t^Sgear2^T^t^t^t^^ RAID Sanshot-Kazzak", -- [5]
-			"<19:55:43><Comm>	 ^1^SlootAck^T^N1^N250^N2^N227.4375^N3^T^Sresponse^T^N1^B^t^Sdiff^T^N1^N0^t^Sgear1^T^N1^S175893::::::::60:250::14:3:6623:1498:6646:1:28:807^t^Sgear2^T^t^t^t^^ RAID Unholydeathh-Kazzak", -- [6]
-			"<19:55:43><Comm>	 ^1^SlootAck^T^N1^N265^N2^N229.1875^N3^T^Sresponse^T^N1^B^t^Sdiff^T^N1^N0^t^Sgear1^T^N1^S182979:6207:::::::60:265::6:4:7187:6652:1498:6646^t^Sgear2^T^t^t^t^^ RAID Neveh-Kazzak", -- [7]
-			"<19:55:43><Comm>	 ^1^SlootAck^T^N1^N254^N2^N227.9375^N3^T^Sresponse^T^N1^B^t^Sdiff^T^N1^N0^t^Sgear1^T^N1^S183006:6211:::::::60:254::6:4:7187:6652:1498:6646:1:28:753^t^Sgear2^T^t^t^t^^ RAID Ceases-Kazzak", -- [8]
-			"<19:55:43><Comm>	 ^1^SlootAck^T^N1^N256^N2^N227.875^N3^T^Sresponse^T^N1^B^t^Sdiff^T^N1^N0^t^Sgear1^T^N1^S182979::::::::60:256::6:4:7187:42:1498:6646^t^Sgear2^T^t^t^t^^ RAID Vapee-Kazzak", -- [9]
-			"<19:55:43><Comm>	 ^1^SlootAck^T^N1^N252^N2^N227.3125^N3^T^Sresponse^T^N1^B^t^Sdiff^T^N1^N0^t^Sgear1^T^N1^S183027::::::::60:252::6:4:7187:6652:1498:6646:1:28:753^t^Sgear2^T^t^t^t^^ RAID Tokzik-Kazzak", -- [10]
-			"<19:55:43><Comm>	 ^1^SlootAck^T^N1^N105^N2^N227.875^N3^T^Sresponse^T^t^Sdiff^T^N1^N0^t^Sgear1^T^N1^S178361::::::::60:105::14:3:6623:1498:6646:1:28:807^t^Sgear2^T^t^t^t^^ RAID Arookie-Kazzak", -- [11]
-			"<19:55:43><Comm>	 ^1^SlootAck^T^N1^N102^N2^N226.375^N3^T^Sresponse^T^t^Sdiff^T^N1^N-9^t^Sgear1^T^N1^S172315::::::::60:102::63:5:7107:6648:6650:6758:1532^t^Sgear2^T^t^t^t^^ RAID Macuc-Kazzak", -- [12]
-			"<19:55:43><Comm>	 ^1^SlootAck^T^N1^N63^N2^N229.1875^N3^T^Sresponse^T^N1^B^t^Sdiff^T^N1^N0^t^Sgear1^T^N1^S175894::::::::60:63::14:3:6623:1498:6646:1:28:807^t^Sgear2^T^t^t^t^^ RAID Skonheden-Kazzak", -- [13]
-			"<19:55:43><Comm>	 ^1^SlootAck^T^N1^N264^N2^N229.1875^N3^T^Sresponse^T^N1^B^t^Sdiff^T^N1^N0^t^Sgear1^T^N1^S183006::::::::60:264::6:4:7187:6652:1498:6646^t^Sgear2^T^t^t^t^^ RAID Seksixeny-Kazzak", -- [14]
-			"<19:55:43><Comm>	 ^1^SlootAck^T^N1^N262^N2^N229.1875^N3^T^Sresponse^T^N1^B^t^Sdiff^T^N1^N0^t^Sgear1^T^N1^S182990:6207:::::::60:262::6:4:7187:6652:1498:6646:1:28:753^t^Sgear2^T^t^t^t^^ RAID Rentaki-Kazzak", -- [15]
-			"<19:55:43><Comm>	 ^1^SlootAck^T^N1^N259^N2^N225.625^N3^T^Sresponse^T^t^Sdiff^T^N1^N0^t^Sgear1^T^N1^S183010:6211:::::::60:259::6:4:7187:43:1498:6646:1:28:753^t^Sgear2^T^t^t^t^^ RAID Kessrogue-Kazzak", -- [16]
-			"<19:55:43><Comm>	 ^1^SlootAck^T^N1^N254^N2^N221.375^N3^T^Sresponse^T^N1^B^t^Sdiff^T^N1^N6^t^Sgear1^T^N1^S179345:6211:::::::60:254::35:5:7209:6652:1501:5878:6646^t^Sgear2^T^t^t^t^^ RAID Memescoper-Kazzak", -- [17]
-			"<19:55:43><Comm>	 ^1^SlootAck^T^N1^N63^N2^N228.3125^N3^T^Sresponse^T^N1^B^t^Sdiff^T^N1^N0^t^Sgear1^T^N1^S182979:6207:::::::60:63::6:4:7187:6652:1498:6646:1:28:753^t^Sgear2^T^t^t^t^^ RAID Frawztie-Kazzak", -- [18]
-			"<19:55:45><Comm>	 ^1^Sresponse^T^N1^N1^N2^T^Sresponse^SPASS^t^t^^ RAID Kessrogue-Kazzak", -- [19]
-			"<19:55:45><Comm>	 ^1^Sresponse^T^N1^N1^N2^T^Sresponse^SPASS^t^t^^ RAID Arookie-Kazzak", -- [20]
-			"<19:55:46><Comm>	 ^1^Sresponse^T^N1^N1^N2^T^Sresponse^SPASS^t^t^^ RAID Misêry-Kazzak", -- [21]
-			"<19:55:46><Comm>	 ^1^Sresponse^T^N1^N1^N2^T^Sresponse^N1^t^t^^ RAID Macuc-Kazzak", -- [22]
-			"<19:55:48><Comm>	 ^1^Sresponse^T^N1^N1^N2^T^Sresponse^N5^t^t^^ RAID Tradushuffle-Kazzak", -- [23]
-			"<19:55:48><Comm>	 ^1^Sresponse^T^N1^N1^N2^T^Sresponse^SPASS^t^t^^ RAID Bevv-Kazzak", -- [24]
-			"<19:55:53><Comm>	 ^1^Sresponse^T^N1^N1^N2^T^Sresponse^SPASS^t^t^^ RAID Nited-Kazzak", -- [25]
-			"<19:55:53><Comm>	 ^1^Shistory^T^N1^SMemescoper-Kazzak^N2^T^SmapID^N2222^Scolor^T^N1^N0.7^N2^N0.7^N3^N0.7^N4^N1^t^Sclass^SHUNTER^SgroupSize^N0^Sboss^SHungering~`Destroyer^Stime^S19:55:55^SitemReplaced1^S|cffa335ee|Hitem:179345:6211:::::::60:65::35:5:7209:6652:1501:5878:6646::::|h[Spatial~`Rift~`Striders]|h|r^Sinstance^SThe~`Shadowlands-^Sowner^SMisêry-Kazzak^Sresponse^SAutopass^StypeCode^Sdefault^SdifficultyID^N0^SlootWon^S|cffa335ee|Hitem:183010::::::::60:65::6:4:7187:6652:1498:6646:1:28:753:::|h[Stud-Scarred~`Footwear]|h|r^Sid^S1615398955-16^Sdate^S10/03/21^SresponseID^SAUTOPASS^Svotes^N0^SisAwardReason^b^t^t^^ RAID Tankzorx-Kazzak", -- [26]
-			"<19:55:53><Comm>	 ^1^Sawarded^T^N1^N1^N2^SMemescoper-Kazzak^N3^SMisêry-Kazzak^t^^ RAID Tankzorx-Kazzak", -- [27]
-			"<19:55:54><Comm>	 ^1^Soffline_timer^T^t^^ RAID Tankzorx-Kazzak", -- [28]
-			"<19:55:54><Comm>	 ^1^Sresponse^T^N1^N1^N2^T^Sresponse^SPASS^t^t^^ RAID Kvaernp-Kazzak", -- [29]
-			"<19:55:55><Comm>	 ^1^Ssession_end^T^t^^ RAID Tankzorx-Kazzak", -- [30]
-			"<19:55:58><Comm>	 ^1^Strade_WrongWinner^T^N1^S|cffa335ee|Hitem:183010::::::::60:268::6:4:7187:6652:1498:6646:1:28:753:::|h[Stud-Scarred~`Footwear]|h|r^N2^SArookie-Kazzak^N3^SMisêry-Kazzak^N4^SMemescoper-Kazzak^t^^ RAID Misêry-Kazzak", -- [31]
-			"<19:56:43><DEBUG>	 Event: ENCOUNTER_START 2405 Artificer Xy'mox 16 20", -- [32]
-			"<19:56:43><INFO>	 UpdatePlayersData()", -- [33]
-			"<19:56:51><DEBUG>	 Event: ENCOUNTER_END 2405 Artificer Xy'mox 16 20 0", -- [34]
-			"<19:57:35><Comm>	 ^1^SStartHandleLoot^T^t^^ RAID Tankzorx-Kazzak", -- [35]
-			"<19:59:10><DEBUG>	 Event: ENCOUNTER_START 2405 Artificer Xy'mox 16 20", -- [36]
-			"<19:59:10><INFO>	 UpdatePlayersData()", -- [37]
-			"<20:04:52><DEBUG>	 Event: ENCOUNTER_END 2405 Artificer Xy'mox 16 20 1", -- [38]
-			"<20:04:56><DEBUG>	 Event: ENCOUNTER_LOOT_RECEIVED 2405 181734 |cffa335ee|Hitem:181734::::::::60:262::6:2:1553:7245:2:28:753:37:7:::|h[Magi's Brand]|h|r 1 Skonheden MAGE", -- [39]
-			"<20:04:56><Comm>	 ^1^Sl^T^N1^S357751^t^^ RAID Ceases-Kazzak", -- [40]
-			"<20:04:56><Comm>	 ^1^Sl^T^N1^S357751^t^^ RAID Skonheden-Kazzak", -- [41]
-			"<20:04:56><Comm>	 ^1^Sl^T^N1^S357751^t^^ RAID Skonheden-Kazzak", -- [42]
-			"<20:04:56><DEBUG>	 Event: LOOT_READY false", -- [43]
-			"<20:04:56><DEBUG>	 Adding to self.lootSlotInfo 1 nil 1 0 GameObject-0-4253-2296-4475-357751-0000491855 757522", -- [44]
-			"<20:04:56><DEBUG>	 Adding to self.lootSlotInfo 3 |cffa335ee|Hitem:183012::::::::60:262::6:4:7187:6652:1498:6646:1:28:753:::|h[Greaves of Enigmatic Energies]|h|r 4 1 GameObject-0-4253-2296-4475-357751-0000491855 1", -- [45]
-			"<20:04:58><Comm>	 ^1^Sl^T^N1^S357751^t^^ RAID Tokzik-Kazzak", -- [46]
-			"<20:04:58><Comm>	 ^1^Sl^T^N1^S357751^t^^ RAID Tokzik-Kazzak", -- [47]
-			"<20:04:58><DEBUG>	 OnLootSlotCleared() 3 |cffa335ee|Hitem:183012::::::::60:262::6:4:7187:6652:1498:6646:1:28:753:::|h[Greaves of Enigmatic Energies]|h|r 4", -- [48]
-			"<20:04:58><Comm>	 ^1^Sl^T^N1^S357751^t^^ RAID Creo-Kazzak", -- [49]
-			"<20:04:58><Comm>	 ^1^Sl^T^N1^S357751^t^^ RAID Creo-Kazzak", -- [50]
-			"<20:04:59><DEBUG>	 Event: ENCOUNTER_LOOT_RECEIVED 2405 183012 |cffa335ee|Hitem:183012::::::::60:262::6:4:7187:6652:1498:6646:1:28:753:::|h[Greaves of Enigmatic Energies]|h|r 1 Rentaki SHAMAN", -- [51]
-			"<20:04:59><DEBUG>	 Event: ENCOUNTER_LOOT_RECEIVED 2405 184286 |cff0070dd|Hitem:184286::::::::60:262:::::::|h[Extinguished Soul Anima]|h|r 3 Rentaki SHAMAN", -- [52]
-			"<20:04:59><DEBUG>	 OnLootSlotCleared() 1 nil 1", -- [53]
-			"<20:04:59><DEBUG>	 Event: LOOT_CLOSED", -- [54]
-			"<20:04:59><DEBUG>	 Event: LOOT_CLOSED", -- [55]
-			"<20:04:59><DEBUG>	 Event: ENCOUNTER_LOOT_RECEIVED 2405 181843 |cffa335ee|Hitem:181843::::::::60:262::6:2:1553:7245:2:28:753:37:7:::|h[Shining Radiance]|h|r 1 Vapee PRIEST", -- [56]
-			"<20:04:59><Comm>	 ^1^Sl^T^N1^S357751^t^^ RAID Rentaki-Kazzak", -- [57]
-			"<20:04:59><Comm>	 ^1^Sl^T^N1^S357751^t^^ RAID Rentaki-Kazzak", -- [58]
-			"<20:04:59><Comm>	 ^1^Sl^T^N1^S357751^t^^ RAID Misêry-Kazzak", -- [59]
-			"<20:04:59><Comm>	 ^1^Sl^T^N1^S357751^t^^ RAID Misêry-Kazzak", -- [60]
-			"<20:04:59><Comm>	 ^1^Sl^T^N1^S357751^t^^ RAID Unholydeathh-Kazzak", -- [61]
-			"<20:04:59><Comm>	 ^1^Sl^T^N1^S357751^t^^ RAID Unholydeathh-Kazzak", -- [62]
-			"<20:04:59><Comm>	 ^1^Sl^T^N1^S357751^t^^ RAID Vapee-Kazzak", -- [63]
-			"<20:04:59><Comm>	 ^1^Sl^T^N1^S357751^t^^ RAID Vapee-Kazzak", -- [64]
-			"<20:05:00><DEBUG>	 Storage:New |cffa335ee|Hitem:183012::::::::60:262::6:4:7187:6652:1498:6646:1:28:753:::|h[Greaves of Enigmatic Energies]|h|r temp", -- [65]
-			"<20:05:00><DEBUG>	 Storage: searching for item: ||cffa335ee||Hitem:183012::::::::60:262::6:4:7187:6652:1498:6646:1:28:753:::||h[Greaves of Enigmatic Energies]||h||r 5", -- [66]
-			"<20:05:00><DEBUG>	 Found item at 1 15", -- [67]
-			"<20:05:00><DEBUG>	 Found item at 2 26", -- [68]
-			"<20:05:00><Comm>	 ^1^Sl^T^N1^S357751^t^^ RAID Bevv-Kazzak", -- [69]
-			"<20:05:00><Comm>	 ^1^Sl^T^N1^S357751^t^^ RAID Bevv-Kazzak", -- [70]
-			"<20:05:00><Comm>	 ^1^Sl^T^N1^S357751^t^^ RAID Seksixeny-Kazzak", -- [71]
-			"<20:05:00><Comm>	 ^1^Sl^T^N1^S357751^t^^ RAID Seksixeny-Kazzak", -- [72]
-			"<20:05:01><DEBUG>	 Storage: searching for item: ||cffa335ee||Hitem:183012::::::::60:262::6:4:7187:6652:1498:6646:1:28:753:::||h[Greaves of Enigmatic Energies]||h||r 5", -- [73]
-			"<20:05:01><DEBUG>	 Found item at 1 15", -- [74]
-			"<20:05:01><DEBUG>	 Found item at 2 26", -- [75]
-			"<20:05:01><Comm>	 ^1^Stradable^T^N1^S|cffa335ee|Hitem:183012::::::::60:262::6:4:7187:6652:1498:6646:1:28:753:::|h[Greaves~`of~`Enigmatic~`Energies]|h|r^N2^S357751^t^^ RAID Rentaki-Kazzak", -- [76]
-			"<20:05:01><DEBUG>	 Event: ENCOUNTER_LOOT_RECEIVED 2405 183479 |cffa335ee|Hitem:183479::::::::60:262::6:2:1553:7245:2:28:753:37:7:::|h[Umbral Intensity]|h|r 1 Arookie DRUID", -- [77]
-			"<20:05:01><Comm>	 ^1^Sl^T^N1^S357751^t^^ RAID Arookie-Kazzak", -- [78]
-			"<20:05:01><Comm>	 ^1^Sl^T^N1^S357751^t^^ RAID Arookie-Kazzak", -- [79]
-			"<20:05:02><Comm>	 ^1^Sl^T^N1^S357751^t^^ RAID Neveh-Kazzak", -- [80]
-			"<20:05:02><Comm>	 ^1^Sl^T^N1^S357751^t^^ RAID Neveh-Kazzak", -- [81]
-			"<20:05:03><Comm>	 ^1^Sl^T^N1^S357751^t^^ RAID Adrenalynz-Kazzak", -- [82]
-			"<20:05:03><Comm>	 ^1^Sl^T^N1^S357751^t^^ RAID Adrenalynz-Kazzak", -- [83]
-			"<20:05:10><Comm>	 ^1^Sl^T^N1^S357751^t^^ RAID Frawztie-Kazzak", -- [84]
-			"<20:05:10><Comm>	 ^1^Sl^T^N1^S357751^t^^ RAID Frawztie-Kazzak", -- [85]
-			"<20:05:11><Comm>	 ^1^Sl^T^N1^S357751^t^^ RAID Kessrogue-Kazzak", -- [86]
-			"<20:05:11><Comm>	 ^1^Sl^T^N1^S357751^t^^ RAID Kessrogue-Kazzak", -- [87]
-			"<20:05:11><DEBUG>	 Event: ENCOUNTER_LOOT_RECEIVED 2405 183038 |cffa335ee|Hitem:183038::::::::60:262::6:5:7187:6652:7193:1498:6646:1:28:753:::|h[Hyperlight Band]|h|r 1 Kessrogue ROGUE", -- [88]
-			"<20:05:11><DEBUG>	 Event: ENCOUNTER_LOOT_RECEIVED 2405 183038 |cffa335ee|Hitem:183038::::::::60:262::6:5:7187:40:7193:1498:6646:1:28:753:::|h[Hyperlight Band]|h|r 1 Sanshot HUNTER", -- [89]
-			"<20:05:12><Comm>	 ^1^Sl^T^N1^S357751^t^^ RAID Sanshot-Kazzak", -- [90]
-			"<20:05:12><Comm>	 ^1^Sl^T^N1^S357751^t^^ RAID Sanshot-Kazzak", -- [91]
-			"<20:05:12><Comm>	 ^1^SfakeLoot^T^N1^S|cffa335ee|Hitem:183019::::::::60:102::6:5:7187:6652:6935:1498:6646:1:28:753:::|h[Precisely~`Calibrated~`Chronometer]|h|r^N2^S357751^t^^ RAID Macuc-Kazzak", -- [92]
-			"<20:05:12><Comm>	 ^1^Sl^T^N1^S357751^t^^ RAID Sacraa-Kazzak", -- [93]
-			"<20:05:12><Comm>	 ^1^Sl^T^N1^S357751^t^^ RAID Sacraa-Kazzak", -- [94]
-			"<20:05:13><Comm>	 ^1^Sl^T^N1^S357751^t^^ RAID Tankzorx-Kazzak", -- [95]
-			"<20:05:13><Comm>	 ^1^Sl^T^N1^S357751^t^^ RAID Tankzorx-Kazzak", -- [96]
-			"<20:05:14><Comm>	 ^1^Sl^T^N1^S357751^t^^ RAID Riworra-Kazzak", -- [97]
-			"<20:05:14><Comm>	 ^1^Stradable^T^N1^S|cffa335ee|Hitem:183038::::::::60:259::6:5:7187:6652:7193:1498:6646:1:28:753:::|h[Hyperlight~`Band]|h|r^N2^S357751^t^^ RAID Kessrogue-Kazzak", -- [98]
-			"<20:05:14><Comm>	 ^1^Stradable^T^N1^S|cffa335ee|Hitem:183038::::::::60:254::6:5:7187:40:7193:1498:6646:1:28:753:::|h[Hyperlight~`Band]|h|r^N2^S357751^t^^ RAID Sanshot-Kazzak", -- [99]
-			"<20:05:20><Comm>	 ^1^SlootTable^T^N1^T^N1^T^Sstring^S183012:::::::::::6:4:7187:6652:1498:6646:1:28:753^StypeCode^Sdefault^Sowner^SRentaki-Kazzak^Sboss^SArtificer~`Xy'mox^t^N2^T^Sstring^S183038:::::::::::6:5:7187:40:7193:1498:6646:1:28:753^StypeCode^Sdefault^Sowner^SSanshot-Kazzak^Sboss^SArtificer~`Xy'mox^t^N3^T^Sstring^S183038:::::::::::6:5:7187:6652:7193:1498:6646:1:28:753^StypeCode^Sdefault^Sowner^SKessrogue-Kazzak^Sboss^SArtificer~`Xy'mox^t^t^t^^ RAID Tankzorx-Kazzak", -- [100]
-			"<20:05:20><INFO>	 GetPlayersGear |cffa335ee|Hitem:183012::::::::60:262::6:4:7187:6652:1498:6646:1:28:753:::|h[Greaves of Enigmatic Energies]|h|r INVTYPE_LEGS", -- [101]
-			"<20:05:20><INFO>	 GetPlayersGear |cffa335ee|Hitem:183038::::::::60:262::6:5:7187:40:7193:1498:6646:1:28:753:::|h[Hyperlight Band]|h|r INVTYPE_FINGER", -- [102]
-			"<20:05:20><INFO>	 GetPlayersGear |cffa335ee|Hitem:183038::::::::60:262::6:5:7187:6652:7193:1498:6646:1:28:753:::|h[Hyperlight Band]|h|r INVTYPE_FINGER", -- [103]
-			"<20:05:20><INFO>	 LootFrame:Start 3 nil", -- [104]
-			"<20:05:20><DEBUG>	 Restoring entry: default 1", -- [105]
-			"<20:05:20><DEBUG>	 GetButtons default", -- [106]
-			"<20:05:20><DEBUG>	 Restoring entry: default 1", -- [107]
-			"<20:05:20><DEBUG>	 GetButtons default", -- [108]
-			"<20:05:20><DEBUG>	 GetButtons default", -- [109]
-			"<20:05:20><Comm>	 ^1^SlootAck^T^N1^N252^N2^N227.3125^N3^T^Sresponse^T^N1^B^t^Sdiff^T^N1^N-7^N2^N0^N3^N0^t^Sgear1^T^N1^S183002::::::::60:252::85:4:7187:6652:1498:6646^N2^S178824:6168:173130::::::60:252::35:6:7213:6652:1501:5884:6646:6935^N3^S178824:6168:173130::::::60:252::35:6:7213:6652:1501:5884:6646:6935^t^Sgear2^T^N2^S183036:6168:173130::::::60:252::85:5:7187:6652:6935:1498:6646:1:28:753^N3^S183036:6168:173130::::::60:252::85:5:7187:6652:6935:1498:6646:1:28:753^t^t^t^^ RAID Tokzik-Kazzak", -- [110]
-			"<20:05:20><Comm>	 ^1^SlootAck^T^N1^N268^N2^N226.6875^N3^T^Sresponse^T^N1^B^t^Sdiff^T^N1^N0^N2^N0^N3^N0^t^Sgear1^T^N1^S182993::::::::60:268::6:4:7187:41:1498:6646^N2^S183038:6164:173127::::::60:268::6:5:7187:6652:6935:1498:6646:1:28:753^N3^S183038:6164:173127::::::60:268::6:5:7187:6652:6935:1498:6646:1:28:753^t^Sgear2^T^N2^S183035:6164:173127::::::60:268::6:5:7187:6652:1498:6646:6935:1:28:753^N3^S183035:6164:173127::::::60:268::6:5:7187:6652:1498:6646:6935:1:28:753^t^t^t^^ RAID Misêry-Kazzak", -- [111]
-			"<20:05:20><Comm>	 ^1^SlootAck^T^N1^N254^N2^N229.1875^N3^T^Sresponse^T^t^Sdiff^T^N1^N0^N2^N0^N3^N0^t^Sgear1^T^N1^S183012::::::::60:254::6:4:7187:6652:1498:6646:1:28:753^N2^S178926:6164:173127::::::60:254::66:6:7013:6758:6647:6649:1532:6935^N3^S178926:6164:173127::::::60:254::66:6:7013:6758:6647:6649:1532:6935^t^Sgear2^T^N2^S178736:6164:173127::::::60:254::35:6:7213:6652:1501:5884:6646:6935^N3^S178736:6164:173127::::::60:254::35:6:7213:6652:1501:5884:6646:6935^t^t^t^^ RAID Adrenalynz-Kazzak", -- [112]
-			"<20:05:20><Comm>	 ^1^SlootAck^T^N1^N70^N2^N226.0625^N3^T^Sresponse^T^N1^B^t^Sdiff^T^N1^N0^N2^N0^N3^N0^t^Sgear1^T^N1^S178701::::::::60:70::35:5:7213:43:1501:5884:6646^N2^S178926:6168:173128::::::60:70::66:6:7056:6758:6648:6649:1532:6935^N3^S178926:6168:173128::::::60:70::66:6:7056:6758:6648:6649:1532:6935^t^Sgear2^T^N2^S179355:6166:173128::::::60:70::35:6:7213:6652:1501:5884:6646:6935^N3^S179355:6166:173128::::::60:70::35:6:7213:6652:1501:5884:6646:6935^t^t^t^^ RAID Creo-Kazzak", -- [113]
-			"<20:05:20><Comm>	 ^1^SlootAck^T^N1^N254^N2^N227.9375^N3^T^Sresponse^T^t^Sdiff^T^N1^N0^N2^N0^N3^N0^t^Sgear1^T^N1^S183012::::::::60:254::6:4:7187:42:1498:6646:1:28:753^N2^S178926:6164:173127::::::60:254::63:6:7013:6647:6648:6758:1532:6935^N3^S178926:6164:173127::::::60:254::63:6:7013:6647:6648:6758:1532:6935^t^Sgear2^T^N2^S183035:6164:173127::::::60:254::6:5:7187:6652:1498:6646:6935:1:28:753^N3^S183035:6164:173127::::::60:254::6:5:7187:6652:1498:6646:6935:1:28:753^t^t^t^^ RAID Ceases-Kazzak", -- [114]
-			"<20:05:20><Comm>	 ^1^SlootAck^T^N1^N102^N2^N225.9375^N3^T^Sresponse^T^N1^B^t^Sdiff^T^N1^N0^N2^N0^N3^N0^t^Sgear1^T^N1^S183024::::::::60:102::6:4:7187:6652:1498:6646:1:28:753^N2^S183036:6168:173130::::::60:102::85:5:7187:6652:1498:6646:6935^N3^S183036:6168:173130::::::60:102::85:5:7187:6652:1498:6646:6935^t^Sgear2^T^N2^S179355:6168:168638::::::60:102::35:6:7213:6652:1501:5884:6646:6935^N3^S179355:6168:168638::::::60:102::35:6:7213:6652:1501:5884:6646:6935^t^t^t^^ RAID Nited-Kazzak", -- [115]
-			"<20:05:20><Comm>	 ^1^SlootAck^T^N1^N105^N2^N227.875^N3^T^Sresponse^T^N1^B^t^Sdiff^T^N1^N0^N2^N0^N3^N0^t^Sgear1^T^N1^S178819::::::::60:105::35:5:7214:6652:1501:5884:6646^N2^S183036:6166:173128::::::60:105::85:5:7187:6652:1498:6646:6935^N3^S183036:6166:173128::::::60:105::85:5:7187:6652:1498:6646:6935^t^Sgear2^T^N2^S183038:6166:173128::::::60:105::6:5:7187:6652:1498:6646:6935:1:28:753^N3^S183038:6166:173128::::::60:105::6:5:7187:6652:1498:6646:6935:1:28:753^t^t^t^^ RAID Arookie-Kazzak", -- [116]
-			"<20:05:20><Comm>	 ^1^SlootAck^T^N1^N72^N2^N227.4375^N3^T^Sresponse^T^N1^B^t^Sdiff^T^N1^N0^N2^N0^N3^N0^t^Sgear1^T^N1^S178800::::::::60:72::35:5:7214:6652:1501:5884:6646^N2^S178869:6166:173128::::::60:72::35:6:7213:6652:1501:5884:6646:6935^N3^S178869:6166:173128::::::60:72::35:6:7213:6652:1501:5884:6646:6935^t^Sgear2^T^N2^S178926:6166:173128::::::60:72::63:6:6959:6649:6648:6758:1532:6935^N3^S178926:6166:173128::::::60:72::63:6:6959:6649:6648:6758:1532:6935^t^t^t^^ RAID Riworra-Kazzak", -- [117]
-			"<20:05:20><Comm>	 ^1^SlootAck^T^N1^N254^N2^N227.875^N3^T^Sresponse^T^t^Sdiff^T^N1^N0^N2^N0^N3^N0^t^Sgear1^T^N1^S183012::::::::60:254::6:4:7187:6652:1498:6646:1:28:753^N2^S183035:6166:173128::::::60:254::6:5:7187:6652:1498:6646:6935:1:28:753^N3^S183035:6166:173128::::::60:254::6:5:7187:6652:1498:6646:6935:1:28:753^t^Sgear2^T^N2^S178824:6166:173127::::::60:254::35:6:7214:6652:1501:5884:6646:6935^N3^S178824:6166:173127::::::60:254::35:6:7214:6652:1501:5884:6646:6935^t^t^t^^ RAID Sanshot-Kazzak", -- [118]
-			"<20:05:20><Comm>	 ^1^SlootAck^T^N1^N577^N2^N228.5625^N3^T^Sresponse^T^t^Sdiff^T^N1^N0^N2^N0^N3^N0^t^Sgear1^T^N1^S183024::::::::60:577::6:4:7187:6652:1498:6646:1:28:753^N2^S183035:6166:173128::::::60:577::6:5:7187:6652:1498:6646:6935:1:28:753^N3^S183035:6166:173128::::::60:577::6:5:7187:6652:1498:6646:6935:1:28:753^t^Sgear2^T^N2^S178824:6166:173130::::::60:577::35:6:7214:6652:6935:1501:5884:6646^N3^S178824:6166:173130::::::60:577::35:6:7214:6652:6935:1501:5884:6646^t^t^t^^ RAID Bevv-Kazzak", -- [119]
-			"<20:05:20><Comm>	 ^1^SlootAck^T^N1^N250^N2^N227.4375^N3^T^Sresponse^T^N1^B^t^Sdiff^T^N1^N0^N2^N0^N3^N0^t^Sgear1^T^N1^S175904::::::::60:250::14:3:6634:1498:6646:1:28:807^N2^S183035:6170:173129::::::60:250::6:5:7187:6652:6935:1498:6646:1:28:753^N3^S183035:6170:173129::::::60:250::6:5:7187:6652:6935:1498:6646:1:28:753^t^Sgear2^T^N2^S183036:6170:173129::::::60:250::85:5:7187:6652:6935:1498:6646:1:28:753^N3^S183036:6170:173129::::::60:250::85:5:7187:6652:6935:1498:6646:1:28:753^t^t^t^^ RAID Unholydeathh-Kazzak", -- [120]
-			"<20:05:20><Comm>	 ^1^SlootAck^T^N1^N72^N2^N226.625^N3^T^Sresponse^T^N1^B^t^Sdiff^T^N1^N0^N2^N0^N3^N0^t^Sgear1^T^N1^S178701::::::::60:72::35:5:7213:6652:1501:5884:6646^N2^S178926:6166:173128::::::60:72::63:6:6959:6649:6647:6758:1532:6935^N3^S178926:6166:173128::::::60:72::63:6:6959:6649:6647:6758:1532:6935^t^Sgear2^T^N2^S183037:6166:::::::60:72::6:5:7187:6652:7194:1498:6646:1:28:753^N3^S183037:6166:::::::60:72::6:5:7187:6652:7194:1498:6646:1:28:753^t^t^t^^ RAID Sacraa-Kazzak", -- [121]
-			"<20:05:20><Comm>	 ^1^SlootAck^T^N1^N262^N2^N228.75^N3^T^Sresponse^T^t^Sdiff^T^N1^N0^N2^N0^N3^N0^t^Sgear1^T^N1^S182985::::::::60:262::6:4:7187:6652:1498:6646^N2^S183035:6170:173129::::::60:262::6:5:7187:6652:1498:6646:6935:1:28:753^N3^S183035:6170:173129::::::60:262::6:5:7187:6652:1498:6646:6935:1:28:753^t^Sgear2^T^N2^S175916:6166:173128::::::60:262::14:4:6935:6621:1498:6646:1:28:807^N3^S175916:6166:173128::::::60:262::14:4:6935:6621:1498:6646:1:28:807^t^t^t^^ RAID Rentaki-Kazzak", -- [122]
-			"<20:05:20><Comm>	 ^1^SlootAck^T^N1^N256^N2^N227.875^N3^T^Sresponse^T^N1^B^t^Sdiff^T^N1^N0^N2^N0^N3^N0^t^Sgear1^T^N1^S182981::::::::60:256::6:4:7187:6652:1498:6646:1:28:753^N2^S183037:6166:::::::60:256::6:5:7187:6652:7193:1498:6646:1:28:753^N3^S183037:6166:::::::60:256::6:5:7187:6652:7193:1498:6646:1:28:753^t^Sgear2^T^N2^S175916:6166:173128::::::60:256::14:4:6621:1498:6646:6935:1:28:807^N3^S175916:6166:173128::::::60:256::14:4:6621:1498:6646:6935:1:28:807^t^t^t^^ RAID Vapee-Kazzak", -- [123]
-			"<20:05:20><Comm>	 ^1^SlootAck^T^N1^N102^N2^N226.1875^N3^T^Sresponse^T^t^Sdiff^T^N1^N0^N2^N0^N3^N0^t^Sgear1^T^N1^S182993::::::::60:102::6:4:7187:6652:1498:6646:1:28:753^N2^S178442:6168:::::::60:102::14:4:7193:6621:1498:6646:1:28:807^N3^S178442:6168:::::::60:102::14:4:7193:6621:1498:6646:1:28:807^t^Sgear2^T^N2^S175916:6168:::::::60:102::40:5:6652:7193:6621:1498:6646^N3^S175916:6168:::::::60:102::40:5:6652:7193:6621:1498:6646^t^t^t^^ RAID Tradushuffle-Kazzak", -- [124]
-			"<20:05:20><Comm>	 ^1^SlootAck^T^N1^N265^N2^N229.1875^N3^T^Sresponse^T^N1^B^t^Sdiff^T^N1^N0^N2^N0^N3^N0^t^Sgear1^T^N1^S183011::::::::60:265::6:4:7187:6652:1498:6646:1:28:753^N2^S183036:6168:173130::::::60:265::85:5:7187:40:1498:6646:6935:1:28:753^N3^S183036:6168:173130::::::60:265::85:5:7187:40:1498:6646:6935:1:28:753^t^Sgear2^T^N2^S178442:6168:173130::::::60:265::14:4:6621:1498:6646:6935:1:28:807^N3^S178442:6168:173130::::::60:265::14:4:6621:1498:6646:6935:1:28:807^t^t^t^^ RAID Neveh-Kazzak", -- [125]
-			"<20:05:20><Comm>	 ^1^SlootAck^T^N1^N102^N2^N226.375^N3^T^Sresponse^T^N1^B^t^Sdiff^T^N1^N0^N2^N0^N3^N0^t^Sgear1^T^N1^S182993::::::::60:102::6:4:7187:6652:1498:6646:1:28:753^N2^S183038:6168:173129::::::60:102::6:5:7187:6652:1498:6646:6935:1:28:753^N3^S183038:6168:173129::::::60:102::6:5:7187:6652:1498:6646:6935:1:28:753^t^Sgear2^T^N2^S178824:6164:173128::::::60:102::35:6:7214:6652:1501:5884:6646:6935^N3^S178824:6164:173128::::::60:102::35:6:7214:6652:1501:5884:6646:6935^t^t^t^^ RAID Macuc-Kazzak", -- [126]
-			"<20:05:20><Comm>	 ^1^SlootAck^T^N1^N264^N2^N229.1875^N3^T^Sresponse^T^t^Sdiff^T^N1^N0^N2^N0^N3^N0^t^Sgear1^T^N1^S183012::::::::60:264::6:4:7187:6652:1498:6646:1:28:753^N2^S183038:6164:173127::::::60:264::6:5:7187:6652:1498:6646:6935^N3^S183038:6164:173127::::::60:264::6:5:7187:6652:1498:6646:6935^t^Sgear2^T^N2^S183035:6164:173127::::::60:264::6:5:7187:6652:1498:6646:6935:1:28:753^N3^S183035:6164:173127::::::60:264::6:5:7187:6652:1498:6646:6935:1:28:753^t^t^t^^ RAID Seksixeny-Kazzak", -- [127]
-			"<20:05:20><Comm>	 ^1^SlootAck^T^N1^N63^N2^N228.3125^N3^T^Sresponse^T^N1^B^t^Sdiff^T^N1^N0^N2^N0^N3^N0^t^Sgear1^T^N1^S182981::::::::60:63::6:4:7187:6652:1498:6646^N2^S183036:6166:173130::::::60:63::85:5:7187:41:1498:6646:6935^N3^S183036:6166:173130::::::60:63::85:5:7187:41:1498:6646:6935^t^Sgear2^T^N2^S179355:6166:173128::::::60:63::35:6:7214:6652:6935:1501:5884:6646^N3^S179355:6166:173128::::::60:63::35:6:7214:6652:6935:1501:5884:6646^t^t^t^^ RAID Frawztie-Kazzak", -- [128]
-			"<20:05:20><Comm>	 ^1^SlootAck^T^N1^N259^N2^N225.625^N3^T^Sresponse^T^N1^B^t^Sdiff^T^N1^N0^N2^N0^N3^N0^t^Sgear1^T^N1^S178801::::::::60:259::35:5:7214:6652:1501:5884:6646^N2^S178871:6166:::::::60:259::35:6:7214:6652:7194:1501:5884:6646^N3^S178871:6166:::::::60:259::35:6:7214:6652:7194:1501:5884:6646^t^Sgear2^T^N2^S178381:6166:173128::::::60:259::44:5:6621:6652:6935:1498:6646^N3^S178381:6166:173128::::::60:259::44:5:6621:6652:6935:1498:6646^t^t^t^^ RAID Kessrogue-Kazzak", -- [129]
-			"<20:05:20><Comm>	 ^1^SlootAck^T^N1^N63^N2^N229.1875^N3^T^Sresponse^T^N1^B^t^Sdiff^T^N1^N0^N2^N-7^N3^N-7^t^Sgear1^T^N1^S175905::::::::60:63::14:3:6634:1498:6646:1:28:807^N2^S178926:6166:173128::::::60:63::63:6:6832:6650:6649:6758:1532:6935^N3^S178926:6166:173128::::::60:63::63:6:6832:6650:6649:6758:1532:6935^t^Sgear2^T^N2^S183036:6166:173128::::::60:63::85:5:7187:6652:1498:6646:6935:1:28:753^N3^S183036:6166:173128::::::60:63::85:5:7187:6652:1498:6646:6935:1:28:753^t^t^t^^ RAID Skonheden-Kazzak", -- [130]
-			"<20:05:20><Comm>	 ^1^SlootAck^T^N1^N65^N2^N227.3125^N3^T^Sresponse^T^t^Sdiff^T^N1^N0^N2^N3^N3^N3^t^Sgear1^T^N1^S178369::::::::60:65::44:4:6634:6652:1498:6646^N2^S178933:6166:173128::::::60:65::35:6:7212:6652:6935:1501:5881:6646^N3^S178933:6166:173128::::::60:65::35:6:7212:6652:6935:1501:5881:6646^t^Sgear2^T^N2^S183037:6166:173128::::::60:65::6:5:7187:41:6935:1498:6646^N3^S183037:6166:173128::::::60:65::6:5:7187:41:6935:1498:6646^t^t^t^^ RAID Kvaernp-Kazzak", -- [131]
-			"<20:05:20><Comm>	 ^1^SlootAck^T^N1^N254^N2^N221.375^N3^T^Sresponse^T^t^Sdiff^T^N1^N0^N2^N6^N3^N6^t^Sgear1^T^N1^S183012::::::::60:254::6:4:7187:6652:1498:6646:1:28:753^N2^S183037:6164:173127::::::60:254::6:5:7187:6652:1498:6646:6935:1:28:753^N3^S183037:6164:173127::::::60:254::6:5:7187:6652:1498:6646:6935:1:28:753^t^Sgear2^T^N2^S183036:6164:173127::::::60:254::84:5:7188:6652:6935:1485:6646:1:28:752^N3^S183036:6164:173127::::::60:254::84:5:7188:6652:6935:1485:6646:1:28:752^t^t^t^^ RAID Memescoper-Kazzak", -- [132]
-			"<20:05:20><Comm>	 ^1^SlootAck^T^N1^N65^N2^N227.5^N3^T^Sresponse^T^N1^B^t^Sdiff^T^N1^N-9^N2^N0^N3^N0^t^Sgear1^T^N1^S171416::::::::60:65::63:5:7059:6649:6650:6758:1532^N2^S183035:6166:::::::60:65::6:5:7187:41:7193:1498:6646:1:28:753^N3^S183035:6166:::::::60:65::6:5:7187:41:7193:1498:6646:1:28:753^t^Sgear2^T^N2^S179355:6166:::::::60:65::35:6:7214:6652:7193:1501:5884:6646^N3^S179355:6166:::::::60:65::35:6:7214:6652:7193:1501:5884:6646^t^t^t^^ RAID Tankzorx-Kazzak", -- [133]
-			"<20:05:22><Comm>	 ^1^Sresponse^T^N1^N2^N2^T^Sresponse^SPASS^t^t^^ RAID Vapee-Kazzak", -- [134]
-			"<20:05:22><Comm>	 ^1^Sresponse^T^N1^N1^N2^T^Sresponse^SPASS^t^t^^ RAID Adrenalynz-Kazzak", -- [135]
-			"<20:05:23><Comm>	 ^1^Sresponse^T^N1^N2^N2^T^Sresponse^SPASS^t^t^^ RAID Kessrogue-Kazzak", -- [136]
-			"<20:05:23><Comm>	 ^1^Sresponse^T^N1^N2^N2^T^Sresponse^SPASS^t^t^^ RAID Adrenalynz-Kazzak", -- [137]
-			"<20:05:23><Comm>	 ^1^Sresponse^T^N1^N3^N2^T^Sresponse^SPASS^t^t^^ RAID Adrenalynz-Kazzak", -- [138]
-			"<20:05:23><Comm>	 ^1^Sresponse^T^N1^N3^N2^T^Sresponse^SPASS^t^t^^ RAID Vapee-Kazzak", -- [139]
-			"<20:05:23><Comm>	 ^1^Sresponse^T^N1^N3^N2^T^Sresponse^SPASS^t^t^^ RAID Kessrogue-Kazzak", -- [140]
-			"<20:05:24><Comm>	 ^1^Sresponse^T^N1^N1^N2^T^Sresponse^SPASS^t^t^^ RAID Sanshot-Kazzak", -- [141]
-			"<20:05:24><Comm>	 ^1^Sresponse^T^N1^N2^N2^T^Sresponse^SPASS^t^t^^ RAID Tankzorx-Kazzak", -- [142]
-			"<20:05:24><Comm>	 ^1^Sresponse^T^N1^N3^N2^T^Sresponse^SPASS^t^t^^ RAID Tankzorx-Kazzak", -- [143]
-			"<20:05:24><Comm>	 ^1^Sresponse^T^N1^N2^N2^T^Sresponse^SPASS^t^t^^ RAID Neveh-Kazzak", -- [144]
-			"<20:05:24><Comm>	 ^1^Sresponse^T^N1^N2^N2^T^Sresponse^SPASS^t^t^^ RAID Sanshot-Kazzak", -- [145]
-			"<20:05:25><Comm>	 ^1^SfakeLoot^T^N1^S|cffa335ee|Hitem:183019::::::::60:102::6:5:7187:6652:6935:1498:6646:1:28:753:::|h[Precisely~`Calibrated~`Chronometer]|h|r^N2^S357751^t^^ RAID Macuc-Kazzak", -- [146]
-			"<20:05:25><Comm>	 ^1^Sresponse^T^N1^N3^N2^T^Sresponse^SPASS^t^t^^ RAID Neveh-Kazzak", -- [147]
-			"<20:05:25><Comm>	 ^1^Sresponse^T^N1^N3^N2^T^Sresponse^SPASS^t^t^^ RAID Sanshot-Kazzak", -- [148]
-			"<20:05:25><Comm>	 ^1^Sresponse^T^N1^N1^N2^T^Sresponse^SPASS^t^t^^ RAID Seksixeny-Kazzak", -- [149]
-			"<20:05:25><DEBUG>	 Event: ENCOUNTER_LOOT_RECEIVED 2405 183019 |cffa335ee|Hitem:183019::::::::60:262::6:5:7187:6652:6935:1498:6646:1:28:753:::|h[Precisely Calibrated Chronometer]|h|r 1 Macuc DRUID", -- [150]
-			"<20:05:25><Comm>	 ^1^Sl^T^N1^S357751^t^^ RAID Macuc-Kazzak", -- [151]
-			"<20:05:25><Comm>	 ^1^Sl^T^N1^S357751^t^^ RAID Macuc-Kazzak", -- [152]
-			"<20:05:26><DEBUG>	 LootFrame:Response PASS Response: Pass", -- [153]
-			"<20:05:26><DEBUG>	 SendResponse group 1 PASS nil nil nil nil nil nil nil nil nil nil", -- [154]
-			"<20:05:26><DEBUG>	 Trashing entry: 1 |cffa335ee|Hitem:183012::::::::60:262::6:4:7187:6652:1498:6646:1:28:753:::|h[Greaves of Enigmatic Energies]|h|r", -- [155]
-			"<20:05:26><DEBUG>	 LootFrame:Response PASS Response: Pass", -- [156]
-			"<20:05:26><DEBUG>	 SendResponse group 2 PASS nil nil nil nil nil nil nil nil nil nil", -- [157]
-			"<20:05:26><DEBUG>	 Trashing entry: 1 |cffa335ee|Hitem:183038::::::::60:262::6:5:7187:40:7193:1498:6646:1:28:753:::|h[Hyperlight Band]|h|r", -- [158]
-			"<20:05:26><Comm>	 ^1^Sresponse^T^N1^N1^N2^T^Sresponse^SPASS^t^t^^ RAID Rentaki-Kazzak", -- [159]
-			"<20:05:26><Comm>	 ^1^Sresponse^T^N1^N2^N2^T^Sresponse^SPASS^t^t^^ RAID Sacraa-Kazzak", -- [160]
-			"<20:05:26><Comm>	 ^1^Sresponse^T^N1^N2^N2^T^Sresponse^SPASS^t^t^^ RAID Rentaki-Kazzak", -- [161]
-			"<20:05:26><DEBUG>	 LootFrame:Response PASS Response: Pass", -- [162]
-			"<20:05:26><DEBUG>	 SendResponse group 3 PASS nil nil nil nil nil nil nil nil nil nil", -- [163]
-			"<20:05:26><DEBUG>	 Trashing entry: 1 |cffa335ee|Hitem:183038::::::::60:262::6:5:7187:6652:7193:1498:6646:1:28:753:::|h[Hyperlight Band]|h|r", -- [164]
-			"<20:05:27><Comm>	 ^1^Sresponse^T^N1^N2^N2^T^Sresponse^SPASS^t^t^^ RAID Unholydeathh-Kazzak", -- [165]
-			"<20:05:27><Comm>	 ^1^Sresponse^T^N1^N3^N2^T^Sresponse^SPASS^t^t^^ RAID Rentaki-Kazzak", -- [166]
-			"<20:05:27><Comm>	 ^1^Sresponse^T^N1^N2^N2^T^Sresponse^SPASS^t^t^^ RAID Skonheden-Kazzak", -- [167]
-			"<20:05:27><Comm>	 ^1^Sresponse^T^N1^N3^N2^T^Sresponse^SPASS^t^t^^ RAID Sacraa-Kazzak", -- [168]
-			"<20:05:27><Comm>	 ^1^Sresponse^T^N1^N3^N2^T^Sresponse^SPASS^t^t^^ RAID Skonheden-Kazzak", -- [169]
-			"<20:05:27><Comm>	 ^1^Sresponse^T^N1^N3^N2^T^Sresponse^SPASS^t^t^^ RAID Unholydeathh-Kazzak", -- [170]
-			"<20:05:28><Comm>	 ^1^Stradable^T^N1^S|cffa335ee|Hitem:183019::::::::60:102::6:5:7187:6652:6935:1498:6646:1:28:753:::|h[Precisely~`Calibrated~`Chronometer]|h|r^N2^S357751^t^^ RAID Macuc-Kazzak", -- [171]
-			"<20:05:29><Comm>	 ^1^Sresponse^T^N1^N2^N2^T^Sresponse^SPASS^t^t^^ RAID Frawztie-Kazzak", -- [172]
-			"<20:05:29><Comm>	 ^1^Sresponse^T^N1^N2^N2^T^Sresponse^SPASS^t^t^^ RAID Misêry-Kazzak", -- [173]
-			"<20:05:30><Comm>	 ^1^Sresponse^T^N1^N2^N2^T^Sresponse^SPASS^t^t^^ RAID Memescoper-Kazzak", -- [174]
-			"<20:05:30><Comm>	 ^1^Sresponse^T^N1^N3^N2^T^Sresponse^SPASS^t^t^^ RAID Frawztie-Kazzak", -- [175]
-			"<20:05:30><Comm>	 ^1^Sresponse^T^N1^N3^N2^T^Sresponse^SPASS^t^t^^ RAID Misêry-Kazzak", -- [176]
-			"<20:05:31><Comm>	 ^1^Sresponse^T^N1^N3^N2^T^Sresponse^SPASS^t^t^^ RAID Memescoper-Kazzak", -- [177]
-			"<20:05:31><Comm>	 ^1^Sresponse^T^N1^N1^N2^T^Sresponse^SPASS^t^t^^ RAID Memescoper-Kazzak", -- [178]
-			"<20:05:31><Comm>	 ^1^Slt_add^T^N1^T^N4^T^Sstring^S183019:::::::::::6:5:7187:6652:6935:1498:6646:1:28:753^StypeCode^Sdefault^Sowner^SMacuc-Kazzak^Sboss^SArtificer~`Xy'mox^t^t^t^^ RAID Tankzorx-Kazzak", -- [179]
-			"<20:05:31><INFO>	 Autopassed on:  |cffa335ee|Hitem:183019::::::::60:262::6:5:7187:6652:6935:1498:6646:1:28:753:::|h[Precisely Calibrated Chronometer]|h|r", -- [180]
-			"<20:05:31><INFO>	 GetPlayersGear |cffa335ee|Hitem:183019::::::::60:262::6:5:7187:6652:6935:1498:6646:1:28:753:::|h[Precisely Calibrated Chronometer]|h|r INVTYPE_WRIST", -- [181]
-			"<20:05:31><DEBUG>	 LootFrame:AddSingleItem |cffa335ee|Hitem:183019::::::::60:262::6:5:7187:6652:6935:1498:6646:1:28:753:::|h[Precisely Calibrated Chronometer]|h|r 0", -- [182]
-			"<20:05:31><Comm>	 ^1^SlootAck^T^N1^N254^N2^N229.1875^N3^T^Sresponse^T^N4^B^t^Sdiff^T^N4^N0^t^Sgear1^T^N4^S182982:6222:173127::::::60:254::6:5:7187:6652:1498:6646:6935:1:28:753^t^Sgear2^T^t^t^t^^ RAID Adrenalynz-Kazzak", -- [183]
-			"<20:05:31><Comm>	 ^1^SlootAck^T^N1^N268^N2^N226.6875^N3^T^Sresponse^T^t^Sdiff^T^N4^N0^t^Sgear1^T^N4^S182978:6220:173127::::::60:268::6:5:7187:6652:1498:6646:6935:1:28:753^t^Sgear2^T^t^t^t^^ RAID Misêry-Kazzak", -- [184]
-			"<20:05:31><Comm>	 ^1^SlootAck^T^N1^N252^N2^N227.3125^N3^T^Sresponse^T^N4^B^t^Sdiff^T^N4^N0^t^Sgear1^T^N4^S183018::173130::::::60:252::6:5:7187:6652:1498:6646:6935:1:28:753^t^Sgear2^T^t^t^t^^ RAID Tokzik-Kazzak", -- [185]
-			"<20:05:31><Comm>	 ^1^SlootAck^T^N1^N102^N2^N225.9375^N3^T^Sresponse^T^t^Sdiff^T^N4^N0^t^Sgear1^T^N4^S178847:6220:::::::60:102::35:6:7213:6652:7193:1501:5884:6646^t^Sgear2^T^t^t^t^^ RAID Nited-Kazzak", -- [186]
-			"<20:05:31><Comm>	 ^1^SlootAck^T^N1^N70^N2^N226.0625^N3^T^Sresponse^T^N4^B^t^Sdiff^T^N4^N0^t^Sgear1^T^N4^S183018::173128::::::60:70::6:5:7187:6652:1498:6646:6935:1:28:753^t^Sgear2^T^t^t^t^^ RAID Creo-Kazzak", -- [187]
-			"<20:05:31><Comm>	 ^1^SlootAck^T^N1^N577^N2^N228.5625^N3^T^Sresponse^T^t^Sdiff^T^N4^N0^t^Sgear1^T^N4^S182978::::::::60:577::6:5:7187:40:7193:1498:6646:1:28:753^t^Sgear2^T^t^t^t^^ RAID Bevv-Kazzak", -- [188]
-			"<20:05:31><Comm>	 ^1^SlootAck^T^N1^N262^N2^N228.75^N3^T^Sresponse^T^N4^B^t^Sdiff^T^N4^N0^t^Sgear1^T^N4^S178384:6220:173127::::::60:262::14:4:6621:1498:6646:6935:1:28:807^t^Sgear2^T^t^t^t^^ RAID Rentaki-Kazzak", -- [189]
-			"<20:05:31><Comm>	 ^1^SlootAck^T^N1^N72^N2^N227.4375^N3^T^Sresponse^T^N4^B^t^Sdiff^T^N4^N0^t^Sgear1^T^N4^S183018::173128::::::60:72::6:5:7187:6652:1498:6646:6935:1:28:753^t^Sgear2^T^t^t^t^^ RAID Riworra-Kazzak", -- [190]
-			"<20:05:31><Comm>	 ^1^SlootAck^T^N1^N105^N2^N227.875^N3^T^Sresponse^T^t^Sdiff^T^N4^N0^t^Sgear1^T^N4^S182978:6220:173128::::::60:105::6:5:7187:6652:1498:6646:6935:1:28:753^t^Sgear2^T^t^t^t^^ RAID Arookie-Kazzak", -- [191]
-			"<20:05:31><Comm>	 ^1^SlootAck^T^N1^N254^N2^N227.9375^N3^T^Sresponse^T^N4^B^t^Sdiff^T^N4^N0^t^Sgear1^T^N4^S182977::173127::::::60:254::6:5:7187:6652:1498:6646:6935:1:28:753^t^Sgear2^T^t^t^t^^ RAID Ceases-Kazzak", -- [192]
-			"<20:05:31><Comm>	 ^1^SlootAck^T^N1^N102^N2^N226.375^N3^T^Sresponse^T^t^Sdiff^T^N4^N0^t^Sgear1^T^N4^S182978:6220:173127::::::60:102::6:5:7187:6652:1498:6646:6935:1:28:753^t^Sgear2^T^t^t^t^^ RAID Macuc-Kazzak", -- [193]
-			"<20:05:31><Comm>	 ^1^SlootAck^T^N1^N250^N2^N227.4375^N3^T^Sresponse^T^N4^B^t^Sdiff^T^N4^N0^t^Sgear1^T^N4^S183031:6222:173129::::::60:250::6:5:7187:6652:1498:6646:6935:1:28:753^t^Sgear2^T^t^t^t^^ RAID Unholydeathh-Kazzak", -- [194]
-			"<20:05:31><Comm>	 ^1^SlootAck^T^N1^N72^N2^N226.625^N3^T^Sresponse^T^N4^B^t^Sdiff^T^N4^N0^t^Sgear1^T^N4^S180113::173128::::::60:72::35:6:7213:6652:1501:5884:6646:6935^t^Sgear2^T^t^t^t^^ RAID Sacraa-Kazzak", -- [195]
-			"<20:05:31><Comm>	 ^1^SlootAck^T^N1^N254^N2^N227.875^N3^T^Sresponse^T^N4^B^t^Sdiff^T^N4^N0^t^Sgear1^T^N4^S182977::173127::::::60:254::6:5:7187:6652:1498:6646:6935^t^Sgear2^T^t^t^t^^ RAID Sanshot-Kazzak", -- [196]
-			"<20:05:31><Comm>	 ^1^SlootAck^T^N1^N65^N2^N227.5^N3^T^Sresponse^T^N4^B^t^Sdiff^T^N4^N0^t^Sgear1^T^N4^S183031:6220:173128::::::60:65::6:5:7187:41:1498:6646:6935:1:28:753^t^Sgear2^T^t^t^t^^ RAID Tankzorx-Kazzak", -- [197]
-			"<20:05:31><Comm>	 ^1^SlootAck^T^N1^N63^N2^N229.1875^N3^T^Sresponse^T^N4^B^t^Sdiff^T^N4^N0^t^Sgear1^T^N4^S178844:6220:::::::60:63::35:6:7214:6652:7194:1501:5884:6646^t^Sgear2^T^t^t^t^^ RAID Skonheden-Kazzak", -- [198]
-			"<20:05:31><Comm>	 ^1^SlootAck^T^N1^N256^N2^N227.875^N3^T^Sresponse^T^N4^B^t^Sdiff^T^N4^N0^t^Sgear1^T^N4^S178382:6220:::::::60:256::14:4:7193:6621:1498:6646:1:28:807^t^Sgear2^T^t^t^t^^ RAID Vapee-Kazzak", -- [199]
-			"<20:05:31><Comm>	 ^1^SlootAck^T^N1^N264^N2^N229.1875^N3^T^Sresponse^T^N4^B^t^Sdiff^T^N4^N0^t^Sgear1^T^N4^S175919:6220:173127::::::60:264::14:4:6935:6621:1498:6646:1:28:807^t^Sgear2^T^t^t^t^^ RAID Seksixeny-Kazzak", -- [200]
-			"<20:05:31><Comm>	 ^1^SlootAck^T^N1^N265^N2^N229.1875^N3^T^Sresponse^T^N4^B^t^Sdiff^T^N4^N0^t^Sgear1^T^N4^S183017:6220:173128::::::60:265::6:5:7187:6652:1498:6646:6935:1:28:753^t^Sgear2^T^t^t^t^^ RAID Neveh-Kazzak", -- [201]
-			"<20:05:31><Comm>	 ^1^SlootAck^T^N1^N254^N2^N221.375^N3^T^Sresponse^T^N4^B^t^Sdiff^T^N4^N13^t^Sgear1^T^N4^S182977::::::::60:254::5:5:7188:6652:7193:1485:6646:1:28:753^t^Sgear2^T^t^t^t^^ RAID Memescoper-Kazzak", -- [202]
-			"<20:05:31><Comm>	 ^1^SlootAck^T^N1^N63^N2^N228.3125^N3^T^Sresponse^T^N4^B^t^Sdiff^T^N4^N0^t^Sgear1^T^N4^S178382:6220:173128::::::60:63::14:4:6621:1498:6646:6935:1:28:807^t^Sgear2^T^t^t^t^^ RAID Frawztie-Kazzak", -- [203]
-			"<20:05:31><Comm>	 ^1^SlootAck^T^N1^N102^N2^N226.1875^N3^T^Sresponse^T^t^Sdiff^T^N4^N0^t^Sgear1^T^N4^S178934:6220:::::::60:102::35:6:7214:6652:7194:1501:5884:6646^t^Sgear2^T^t^t^t^^ RAID Tradushuffle-Kazzak", -- [204]
-			"<20:05:31><Comm>	 ^1^SlootAck^T^N1^N259^N2^N225.625^N3^T^Sresponse^T^t^Sdiff^T^N4^N0^t^Sgear1^T^N4^S182978::173128::::::60:259::6:5:7187:6652:6935:1498:6646:1:28:753^t^Sgear2^T^t^t^t^^ RAID Kessrogue-Kazzak", -- [205]
-			"<20:05:31><Comm>	 ^1^SlootAck^T^N1^N65^N2^N227.3125^N3^T^Sresponse^T^t^Sdiff^T^N4^N0^t^Sgear1^T^N4^S178383:6220:173128::::::60:65::44:5:6621:6652:6935:1498:6646^t^Sgear2^T^t^t^t^^ RAID Kvaernp-Kazzak", -- [206]
-			"<20:05:32><Comm>	 ^1^Sresponse^T^N1^N3^N2^T^Sresponse^SPASS^t^t^^ RAID Seksixeny-Kazzak", -- [207]
-			"<20:05:32><Comm>	 ^1^Soffline_timer^T^t^^ RAID Tankzorx-Kazzak", -- [208]
-			"<20:05:34><Comm>	 ^1^Sresponse^T^N1^N1^N2^T^Sresponse^SPASS^t^t^^ RAID Ceases-Kazzak", -- [209]
-			"<20:05:36><Comm>	 ^1^Sresponse^T^N1^N2^N2^T^Snote^Spvp~`avoidance^Sresponse^N3^t^t^^ RAID Riworra-Kazzak", -- [210]
-			"<20:05:37><Comm>	 ^1^Sresponse^T^N1^N2^N2^T^Sresponse^SPASS^t^t^^ RAID Ceases-Kazzak", -- [211]
-			"<20:05:38><Comm>	 ^1^Sresponse^T^N1^N3^N2^T^Sresponse^SPASS^t^t^^ RAID Ceases-Kazzak", -- [212]
-			"<20:05:38><Comm>	 ^1^Sresponse^T^N1^N3^N2^T^Sresponse^SPASS^t^t^^ RAID Riworra-Kazzak", -- [213]
-			"<20:05:38><Comm>	 ^1^Sresponse^T^N1^N2^N2^T^Sresponse^N5^t^t^^ RAID Creo-Kazzak", -- [214]
-			"<20:05:39><Comm>	 ^1^Sresponse^T^N1^N3^N2^T^Sresponse^N5^t^t^^ RAID Creo-Kazzak", -- [215]
-			"<20:05:39><Comm>	 ^1^Sresponse^T^N1^N2^N2^T^Snote^Savoidance~`only^Sresponse^N3^t^t^^ RAID Seksixeny-Kazzak", -- [216]
-			"<20:05:40><Comm>	 ^1^Shistory^T^N1^SRentaki-Kazzak^N2^T^SmapID^N2296^Scolor^T^N1^N0.7^N2^N0.7^N3^N0.7^N4^N1^t^Sclass^SSHAMAN^SgroupSize^N20^Sboss^SArtificer~`Xy'mox^Stime^S20:05:41^SitemReplaced1^S|cffa335ee|Hitem:182985::::::::60:65::6:4:7187:6652:1498:6646::::|h[Memento-Laden~`Cuisses]|h|r^Sinstance^SCastle~`Nathria-Mythic^Sowner^SRentaki-Kazzak^Sresponse^SPass^StypeCode^Sdefault^SdifficultyID^N16^SlootWon^S|cffa335ee|Hitem:183012::::::::60:65::6:4:7187:6652:1498:6646:1:28:753:::|h[Greaves~`of~`Enigmatic~`Energies]|h|r^Sid^S1615399541-17^Sdate^S10/03/21^SresponseID^SPASS^Svotes^N0^SisAwardReason^b^t^t^^ RAID Tankzorx-Kazzak", -- [217]
-			"<20:05:40><Comm>	 ^1^Sawarded^T^N1^N1^N2^SRentaki-Kazzak^N3^SRentaki-Kazzak^t^^ RAID Tankzorx-Kazzak", -- [218]
-			"<20:05:40><DEBUG>	 OnAwardReceived table: 000001C333607A30 1 Rentaki-Kazzak Rentaki-Kazzak", -- [219]
-			"<20:05:40><DEBUG>	 Found item as temp", -- [220]
-			"<20:05:40><DEBUG>	 Storage:RemoveItem |cffa335ee|Hitem:183012::::::::60:262::6:4:7187:6652:1498:6646:1:28:753:::|h[Greaves of Enigmatic Energies]|h|r", -- [221]
-			"<20:05:40><DEBUG>	 TradeUI:Show() nil", -- [222]
-			"<20:05:40><DEBUG>	 TradeUI:Hide()", -- [223]
-			"<20:05:41><Comm>	 ^1^Sresponse^T^N1^N1^N2^T^Sresponse^SPASS^t^t^^ RAID Bevv-Kazzak", -- [224]
-			"<20:05:41><Comm>	 ^1^Sresponse^T^N1^N2^N2^T^Sresponse^SPASS^t^t^^ RAID Arookie-Kazzak", -- [225]
-			"<20:05:41><Comm>	 ^1^Sresponse^T^N1^N2^N2^T^Sresponse^SPASS^t^t^^ RAID Bevv-Kazzak", -- [226]
-			"<20:05:41><Comm>	 ^1^Sresponse^T^N1^N3^N2^T^Sresponse^SPASS^t^t^^ RAID Bevv-Kazzak", -- [227]
-			"<20:05:41><Comm>	 ^1^Sresponse^T^N1^N3^N2^T^Sresponse^SPASS^t^t^^ RAID Arookie-Kazzak", -- [228]
-			"<20:05:42><Comm>	 ^1^Sresponse^T^N1^N4^N2^T^Sresponse^SPASS^t^t^^ RAID Bevv-Kazzak", -- [229]
-			"<20:05:42><Comm>	 ^1^Sresponse^T^N1^N4^N2^T^Sresponse^SPASS^t^t^^ RAID Arookie-Kazzak", -- [230]
-			"<20:05:42><Comm>	 ^1^Sresponse^T^N1^N1^N2^T^Sresponse^SPASS^t^t^^ RAID Tradushuffle-Kazzak", -- [231]
-			"<20:05:43><Comm>	 ^1^Sresponse^T^N1^N2^N2^T^Sresponse^SPASS^t^t^^ RAID Tradushuffle-Kazzak", -- [232]
-			"<20:05:43><Comm>	 ^1^Sresponse^T^N1^N3^N2^T^Sresponse^SPASS^t^t^^ RAID Tradushuffle-Kazzak", -- [233]
-			"<20:05:43><Comm>	 ^1^Sresponse^T^N1^N4^N2^T^Sresponse^SPASS^t^t^^ RAID Tradushuffle-Kazzak", -- [234]
-			"<20:05:46><Comm>	 ^1^Sresponse^T^N1^N4^N2^T^Sresponse^SPASS^t^t^^ RAID Nited-Kazzak", -- [235]
-			"<20:05:46><Comm>	 ^1^Sresponse^T^N1^N4^N2^T^Sresponse^SPASS^t^t^^ RAID Macuc-Kazzak", -- [236]
-			"<20:05:47><Comm>	 ^1^Sresponse^T^N1^N3^N2^T^Sresponse^SPASS^t^t^^ RAID Nited-Kazzak", -- [237]
-			"<20:05:47><Comm>	 ^1^Sresponse^T^N1^N4^N2^T^Sresponse^N1^t^t^^ RAID Misêry-Kazzak", -- [238]
-			"<20:05:47><Comm>	 ^1^Sresponse^T^N1^N2^N2^T^Sresponse^SPASS^t^t^^ RAID Nited-Kazzak", -- [239]
-			"<20:05:49><Comm>	 ^1^Sresponse^T^N1^N2^N2^T^Sresponse^SPASS^t^t^^ RAID Macuc-Kazzak", -- [240]
-			"<20:05:50><Comm>	 ^1^Sresponse^T^N1^N3^N2^T^Sresponse^SPASS^t^t^^ RAID Macuc-Kazzak", -- [241]
-			"<20:05:53><Comm>	 ^1^Sresponse^T^N1^N4^N2^T^Sresponse^N4^t^t^^ RAID Kessrogue-Kazzak", -- [242]
-			"<20:06:04><Comm>	 ^1^Sresponse^T^N1^N2^N2^T^Snote^SAvoidance~`so~`when~`someone~`taunts~`sludgefist~`maybe~`i~`live~`idk~`^Sresponse^N2^t^t^^ RAID Tokzik-Kazzak", -- [243]
-			"<20:06:09><Comm>	 ^1^Sresponse^T^N1^N3^N2^T^Sresponse^SPASS^t^t^^ RAID Tokzik-Kazzak", -- [244]
-			"<20:06:20><Comm>	 ^1^Sresponse^T^N1^N3^N2^T^Sresponse^STIMEOUT^t^t^^ RAID Kvaernp-Kazzak", -- [245]
-			"<20:06:20><Comm>	 ^1^Sresponse^T^N1^N2^N2^T^Sresponse^STIMEOUT^t^t^^ RAID Kvaernp-Kazzak", -- [246]
-			"<20:06:20><Comm>	 ^1^Sresponse^T^N1^N1^N2^T^Sresponse^STIMEOUT^t^t^^ RAID Kvaernp-Kazzak", -- [247]
-			"<20:06:31><Comm>	 ^1^Sresponse^T^N1^N4^N2^T^Sresponse^STIMEOUT^t^t^^ RAID Kvaernp-Kazzak", -- [248]
-			"<20:06:36><Comm>	 ^1^Shistory^T^N1^SCreo-Kazzak^N2^T^SmapID^N2296^Sdate^S10/03/21^Sclass^SPALADIN^SgroupSize^N20^Sboss^SArtificer~`Xy'mox^Stime^S20:06:38^SitemReplaced1^S|cffff8000|Hitem:178926:6168:173128::::::60:65::66:6:7056:6758:6648:6649:1532:6935::::|h[The~`Magistrate's~`Judgment]|h|r^StypeCode^Sdefault^Sinstance^SCastle~`Nathria-Mythic^Sowner^SKessrogue-Kazzak^Sid^S1615399598-18^Sresponse^STransmog^SdifficultyID^N16^SlootWon^S|cffa335ee|Hitem:183038::::::::60:65::6:5:7187:6652:7193:1498:6646:1:28:753:::|h[Hyperlight~`Band]|h|r^SisAwardReason^b^Scolor^T^N1^N0.7^N2^N0.18^N3^N0.1^N4^N1^t^SresponseID^N5^SitemReplaced2^S|cffa335ee|Hitem:179355:6166:173128::::::60:65::35:6:7213:6652:1501:5884:6646:6935::::|h[Death~`God's~`Signet]|h|r^Svotes^N0^t^t^^ RAID Tankzorx-Kazzak", -- [249]
-			"<20:06:36><Comm>	 ^1^Sawarded^T^N1^N3^N2^SCreo-Kazzak^N3^SKessrogue-Kazzak^t^^ RAID Tankzorx-Kazzak", -- [250]
-			"<20:06:39><Comm>	 ^1^Sl^T^N1^S165479^t^^ RAID Riworra-Kazzak", -- [251]
-			"<20:06:39><Comm>	 ^1^Sl^T^N1^S165479^t^^ RAID Riworra-Kazzak", -- [252]
-			"<20:06:42><Comm>	 ^1^Shistory^T^N1^SMisêry-Kazzak^N2^T^SmapID^N2296^Scolor^T^N1^N0^N2^N1^N3^N0^N4^N1^t^Sclass^SMONK^SgroupSize^N20^Sboss^SArtificer~`Xy'mox^Stime^S20:06:43^SitemReplaced1^S|cffa335ee|Hitem:182978:6220:173127::::::60:65::6:5:7187:6652:1498:6646:6935:1:28:753:::|h[Barkweave~`Wristwraps]|h|r^Sinstance^SCastle~`Nathria-Mythic^Sowner^SMacuc-Kazzak^Sresponse^SNeed~`BIS^StypeCode^Sdefault^SdifficultyID^N16^SlootWon^S|cffa335ee|Hitem:183019::::::::60:65::6:5:7187:6652:6935:1498:6646:1:28:753:::|h[Precisely~`Calibrated~`Chronometer]|h|r^Sid^S1615399603-19^Sdate^S10/03/21^SresponseID^N1^Svotes^N0^SisAwardReason^b^t^t^^ RAID Tankzorx-Kazzak", -- [253]
-			"<20:06:42><Comm>	 ^1^Sawarded^T^N1^N4^N2^SMisêry-Kazzak^N3^SMacuc-Kazzak^t^^ RAID Tankzorx-Kazzak", -- [254]
-			"<20:06:46><Comm>	 ^1^Strade_WrongWinner^T^N1^S|cffa335ee|Hitem:183038::::::::60:259::6:5:7187:6652:7193:1498:6646:1:28:753:::|h[Hyperlight~`Band]|h|r^N2^SBevv-Kazzak^N3^SKessrogue-Kazzak^N4^SCreo-Kazzak^t^^ RAID Kessrogue-Kazzak", -- [255]
-			"<20:07:23><Comm>	 ^1^Sl^T^N1^S165479^t^^ RAID Unholydeathh-Kazzak", -- [256]
-			"<20:07:23><Comm>	 ^1^Sl^T^N1^S165479^t^^ RAID Unholydeathh-Kazzak", -- [257]
-			"<20:07:24><Comm>	 ^1^Sl^T^N1^S173802^t^^ RAID Tokzik-Kazzak", -- [258]
-			"<20:07:26><Comm>	 ^1^Sl^T^N1^S165479^t^^ RAID Riworra-Kazzak", -- [259]
-			"<20:07:26><Comm>	 ^1^Sl^T^N1^S165479^t^^ RAID Riworra-Kazzak", -- [260]
-			"<20:07:55><Comm>	 ^1^Shistory^T^N1^SRiworra-Kazzak^N2^T^SmapID^N2296^Sdate^S10/03/21^Sclass^SWARRIOR^SgroupSize^N20^Sboss^SArtificer~`Xy'mox^Stime^S20:07:57^SitemReplaced1^S|cffa335ee|Hitem:178869:6166:173128::::::60:65::35:6:7213:6652:1501:5884:6646:6935::::|h[Fleshfused~`Circle]|h|r^StypeCode^Sdefault^Sinstance^SCastle~`Nathria-Mythic^Sowner^SSanshot-Kazzak^Sid^S1615399677-20^Sresponse^SMinor~`Upgrade^Snote^Spvp~`avoidance^SdifficultyID^N16^SlootWon^S|cffa335ee|Hitem:183038::::::::60:65::6:5:7187:40:7193:1498:6646:1:28:753:::|h[Hyperlight~`Band]|h|r^SisAwardReason^b^Scolor^T^N1^N0.63^N2^N0.7^N3^N0.22^N4^N1^t^SresponseID^N3^SitemReplaced2^S|cffff8000|Hitem:178926:6166:173128::::::60:65::63:6:6959:6649:6648:6758:1532:6935::::|h[Signet~`of~`Tormented~`Kings]|h|r^Svotes^N0^t^t^^ RAID Tankzorx-Kazzak", -- [261]
-			"<20:07:55><Comm>	 ^1^Sawarded^T^N1^N2^N2^SRiworra-Kazzak^N3^SSanshot-Kazzak^t^^ RAID Tankzorx-Kazzak", -- [262]
-			"<20:07:56><Comm>	 ^1^Ssession_end^T^t^^ RAID Tankzorx-Kazzak", -- [263]
-			"<20:08:10><Comm>	 ^1^Strade_WrongWinner^T^N1^S|cffa335ee|Hitem:183019::::::::60:102::6:5:7187:6652:6935:1498:6646:1:28:753:::|h[Precisely~`Calibrated~`Chronometer]|h|r^N2^SSnaxxie-Kazzak^N3^SMacuc-Kazzak^N4^SMisêry-Kazzak^t^^ RAID Macuc-Kazzak", -- [264]
-			"<20:08:12><Comm>	 ^1^Strade_WrongWinner^T^N1^S|cffa335ee|Hitem:183038::::::::60:254::6:5:7187:40:7193:1498:6646:1:28:753:::|h[Hyperlight~`Band]|h|r^N2^SMemescoper-Kazzak^N3^SSanshot-Kazzak^N4^SRiworra-Kazzak^t^^ RAID Sanshot-Kazzak", -- [265]
-			"<20:08:45><DEBUG>	 TradeUI: Traded item(s) to Misêry-Kazzak", -- [266]
-			"<20:08:45><DEBUG>	 Storage:RemoveItem |cff0070dd|Hitem:173127::::::::60:262:::::::|h[Deadly Jewel Cluster]|h|r", -- [267]
-			"<20:08:45><ERROR>	 Couldn't remove item nil nil", -- [268]
-			"<20:08:45><DEBUG>	 TradeUI:Hide()", -- [269]
-			"<20:09:27><Comm>	 ^1^Sv^T^N1^S3.1.4^t^^ GUILD Bevv-Kazzak", -- [270]
-			"<20:09:27><Comm>	 ^1^Sr^T^N1^S3.1.3^N3^T^t^t^^ GUILD Kessrogue-Kazzak", -- [271]
-			"<20:09:41><Comm>	 ^1^Sxrealm^T^N1^STankzorx-Kazzak^N2^SMLdb_request^t^^ RAID Bevv-Kazzak", -- [272]
-			"<20:09:41><Comm>	 ^1^Sxrealm^T^N1^STankzorx-Kazzak^N2^Scouncil_request^t^^ RAID Bevv-Kazzak", -- [273]
-			"<20:09:42><Comm>	 ^1^Smldb^T^N1^T^S|8^T^SAZERITE^T^N1^T^S|15^Smainspec^t^N2^T^S|15^Sresiduum^t^N3^T^S|15^Soffspec^t^t^S|14^T^N1^T^S|15^SNeed~`BIS^t^N2^T^S|15^SNeed~`not~`BIS^t^N4^T^S|15^SOffspec^t^N5^T^S|15^STransmog^t^S|5^N5^t^t^S|12^N60^S|11^T^SAZERITE^T^N1^T^S|15^Smainspec^S|4^N1^S|16^T^N1^N0^N2^N1^N3^N0.05^N4^N1^t^t^N2^T^S|15^Sresiduum^S|4^N2^S|16^T^N1^N0.04^N2^N0.08^N3^N1^N4^N1^t^t^N3^T^S|15^Soffspec^S|4^N3^S|16^T^N1^N1^N2^N0.07^N3^N0^N4^N1^t^t^t^S|14^T^N1^T^S|15^SNeed~`BIS^S|4^N1^S|16^T^N1^N0^N2^N1^N3^N0^N4^N1^t^t^N2^T^S|15^SNeed~`not~`BIS^S|4^N2^S|16^T^N1^N0.54^N2^N1^N3^N0.12^N4^N1^t^t^N3^T^S|15^SMinor~`Upgrade^S|4^N3^S|16^T^N1^N0.63^N2^N0.7^N3^N0.22^N4^N1^t^t^N4^T^S|15^SOffspec^S|4^N4^S|16^T^N1^N0.7^N2^N0.43^N3^N0.17^N4^N1^t^t^N5^T^S|15^STransmog^S|4^N5^S|16^T^N1^N0.7^N2^N0.18^N3^N0.1^N4^N1^t^t^t^t^S|1^B^S|5^N5^S|2^B^t^t^^ RAID Tankzorx-Kazzak", -- [274]
-			"<20:09:42><INFO>	 OnMLDBReceived", -- [275]
-			"<20:09:42><Comm>	 ^1^Scouncil^T^N1^T^S1305-0AFC367F^B^S1305-0B0DCA21^B^S1305-0B0E3079^B^S1305-0B30094D^B^t^t^^ RAID Tankzorx-Kazzak", -- [276]
-			"<20:09:42><DEBUG>	 isCouncil false", -- [277]
-			"<20:13:04><DEBUG>	 Event: ENCOUNTER_START 2402 Sun King's Salvation 16 20", -- [278]
-			"<20:13:04><INFO>	 UpdatePlayersData()", -- [279]
-			"<20:16:28><DEBUG>	 Event: ENCOUNTER_END 2402 Sun King's Salvation 16 20 0", -- [280]
-			"<20:18:05><DEBUG>	 Event: ENCOUNTER_START 2402 Sun King's Salvation 16 20", -- [281]
-			"<20:18:05><INFO>	 UpdatePlayersData()", -- [282]
-			"<20:24:31><DEBUG>	 Event: ENCOUNTER_END 2402 Sun King's Salvation 16 20 1", -- [283]
-			"<20:24:37><DEBUG>	 Event: LOOT_READY true", -- [284]
-			"<20:24:37><DEBUG>	 Adding to self.lootSlotInfo 1 nil 1 0 GameObject-0-4253-2296-4475-357752-0000491CF0 732529", -- [285]
-			"<20:24:37><DEBUG>	 Event: ENCOUNTER_LOOT_RECEIVED 2402 184286 |cff0070dd|Hitem:184286::::::::60:262:::::::|h[Extinguished Soul Anima]|h|r 3 Rentaki SHAMAN", -- [286]
-			"<20:24:37><DEBUG>	 OnLootSlotCleared() 1 nil 1", -- [287]
-			"<20:24:37><DEBUG>	 Event: LOOT_CLOSED", -- [288]
-			"<20:24:37><DEBUG>	 Event: LOOT_CLOSED", -- [289]
-			"<20:24:37><Comm>	 ^1^Sl^T^N1^S357752^t^^ RAID Rentaki-Kazzak", -- [290]
-			"<20:24:37><Comm>	 ^1^Sl^T^N1^S357752^t^^ RAID Rentaki-Kazzak", -- [291]
-			"<20:24:37><Comm>	 ^1^Sl^T^N1^S357752^t^^ RAID Creo-Kazzak", -- [292]
-			"<20:24:37><Comm>	 ^1^Sl^T^N1^S357752^t^^ RAID Creo-Kazzak", -- [293]
-			"<20:24:38><Comm>	 ^1^Sl^T^N1^S357752^t^^ RAID Skonheden-Kazzak", -- [294]
-			"<20:24:38><Comm>	 ^1^Sl^T^N1^S357752^t^^ RAID Skonheden-Kazzak", -- [295]
-			"<20:24:38><Comm>	 ^1^Sl^T^N1^S357752^t^^ RAID Bevv-Kazzak", -- [296]
-			"<20:24:38><Comm>	 ^1^Sl^T^N1^S357752^t^^ RAID Bevv-Kazzak", -- [297]
-			"<20:24:39><Comm>	 ^1^Sl^T^N1^S357752^t^^ RAID Seksixeny-Kazzak", -- [298]
-			"<20:24:39><Comm>	 ^1^Sl^T^N1^S357752^t^^ RAID Seksixeny-Kazzak", -- [299]
-			"<20:24:39><Comm>	 ^1^Sl^T^N1^S357752^t^^ RAID Unholydeathh-Kazzak", -- [300]
-			"<20:24:39><Comm>	 ^1^Sl^T^N1^S357752^t^^ RAID Unholydeathh-Kazzak", -- [301]
-			"<20:24:39><Comm>	 ^1^Sl^T^N1^S357752^t^^ RAID Tradushuffle-Kazzak", -- [302]
-			"<20:24:39><Comm>	 ^1^Sl^T^N1^S357752^t^^ RAID Tradushuffle-Kazzak", -- [303]
-			"<20:24:39><Comm>	 ^1^Sl^T^N1^S357752^t^^ RAID Ceases-Kazzak", -- [304]
-			"<20:24:39><Comm>	 ^1^Sl^T^N1^S357752^t^^ RAID Nited-Kazzak", -- [305]
-			"<20:24:39><Comm>	 ^1^Sl^T^N1^S357752^t^^ RAID Nited-Kazzak", -- [306]
-			"<20:24:39><DEBUG>	 Event: ENCOUNTER_LOOT_RECEIVED 2402 183893 |cffa335ee|Hitem:183893::::::::60:262::6:3:7187:1498:6646:1:28:753:::|h[Abominable Anima Spherule]|h|r 1 Tokzik DEATHKNIGHT", -- [307]
-			"<20:24:40><Comm>	 ^1^Sl^T^N1^S357752^t^^ RAID Tokzik-Kazzak", -- [308]
-			"<20:24:40><Comm>	 ^1^Sl^T^N1^S357752^t^^ RAID Tokzik-Kazzak", -- [309]
-			"<20:24:40><Comm>	 ^1^Sl^T^N1^S357752^t^^ RAID Frawztie-Kazzak", -- [310]
-			"<20:24:40><Comm>	 ^1^Sl^T^N1^S357752^t^^ RAID Frawztie-Kazzak", -- [311]
-			"<20:24:40><DEBUG>	 Event: ENCOUNTER_LOOT_RECEIVED 2402 183007 |cffa335ee|Hitem:183007::::::::60:262::6:4:7187:6652:1498:6646:1:28:753:::|h[Bleakwing Assassin's Grips]|h|r 1 Misêry MONK", -- [312]
-			"<20:24:40><Comm>	 ^1^Sl^T^N1^S357752^t^^ RAID Misêry-Kazzak", -- [313]
-			"<20:24:40><Comm>	 ^1^Sl^T^N1^S357752^t^^ RAID Misêry-Kazzak", -- [314]
-			"<20:24:41><Comm>	 ^1^Sl^T^N1^S357752^t^^ RAID Sacraa-Kazzak", -- [315]
-			"<20:24:41><Comm>	 ^1^Sl^T^N1^S357752^t^^ RAID Sacraa-Kazzak", -- [316]
-			"<20:24:41><Comm>	 ^1^Sl^T^N1^S357752^t^^ RAID Riworra-Kazzak", -- [317]
-			"<20:24:41><Comm>	 ^1^Sl^T^N1^S357752^t^^ RAID Riworra-Kazzak", -- [318]
-			"<20:24:41><Comm>	 ^1^Sl^T^N1^S357752^t^^ RAID Arookie-Kazzak", -- [319]
-			"<20:24:41><Comm>	 ^1^Sl^T^N1^S357752^t^^ RAID Arookie-Kazzak", -- [320]
-			"<20:24:42><DEBUG>	 Event: ENCOUNTER_LOOT_RECEIVED 2402 184020 |cffa335ee|Hitem:184020::::::::60:262::6:4:7187:6652:1498:6646:1:28:753:::|h[Tuft of Smoldering Plumage]|h|r 1 Arookie DRUID", -- [321]
-			"<20:24:42><DEBUG>	 Event: ENCOUNTER_LOOT_RECEIVED 2402 182584 |cffa335ee|Hitem:182584::::::::60:262::6:2:1553:7245:2:28:753:37:7:::|h[Cheetah's Vigor]|h|r 1 Memescoper HUNTER", -- [322]
-			"<20:24:43><Comm>	 ^1^Stradable^T^N1^S|cffa335ee|Hitem:183893::::::::60:252::6:3:7187:1498:6646:1:28:753:::|h[Abominable~`Anima~`Spherule]|h|r^N2^S357752^t^^ RAID Tokzik-Kazzak", -- [323]
-			"<20:24:43><Comm>	 ^1^Sl^T^N1^S357752^t^^ RAID Memescoper-Kazzak", -- [324]
-			"<20:24:43><Comm>	 ^1^Sl^T^N1^S357752^t^^ RAID Memescoper-Kazzak", -- [325]
-			"<20:24:43><DEBUG>	 Event: ENCOUNTER_LOOT_RECEIVED 2402 183025 |cffa335ee|Hitem:183025::::::::60:262::6:5:7187:6652:7194:1498:6646:1:28:753:::|h[Stoic Guardsman's Belt]|h|r 1 Tankzorx PALADIN", -- [326]
-			"<20:24:43><Comm>	 ^1^Stradable^T^N1^S|cffa335ee|Hitem:183007::::::::60:268::6:4:7187:6652:1498:6646:1:28:753:::|h[Bleakwing~`Assassin's~`Grips]|h|r^N2^S357752^t^^ RAID Misêry-Kazzak", -- [327]
-			"<20:24:44><DEBUG>	 Event: ENCOUNTER_LOOT_RECEIVED 2402 182677 |cffa335ee|Hitem:182677::::::::60:262::6:2:1553:7245:2:28:753:37:7:::|h[Punish the Guilty]|h|r 1 Tankzorx PALADIN", -- [328]
-			"<20:24:44><Comm>	 ^1^Stradable^T^N1^S|cffa335ee|Hitem:184020::::::::60:105::6:4:7187:6652:1498:6646:1:28:753:::|h[Tuft~`of~`Smoldering~`Plumage]|h|r^N2^S357752^t^^ RAID Arookie-Kazzak", -- [329]
-			"<20:24:45><Comm>	 ^1^Sl^T^N1^S357752^t^^ RAID Tankzorx-Kazzak", -- [330]
-			"<20:24:45><Comm>	 ^1^Sl^T^N1^S357752^t^^ RAID Tankzorx-Kazzak", -- [331]
-			"<20:24:46><Comm>	 ^1^Sl^T^N1^S357752^t^^ RAID Kvaernp-Kazzak", -- [332]
-			"<20:24:46><Comm>	 ^1^Sl^T^N1^S357752^t^^ RAID Kvaernp-Kazzak", -- [333]
-			"<20:24:46><Comm>	 ^1^Stradable^T^N1^S|cffa335ee|Hitem:183025::::::::60:65::6:5:7187:6652:7194:1498:6646:1:28:753:::|h[Stoic~`Guardsman's~`Belt]|h|r^N2^S357752^t^^ RAID Tankzorx-Kazzak", -- [334]
-			"<20:24:47><Comm>	 ^1^Sl^T^N1^S357752^t^^ RAID Neveh-Kazzak", -- [335]
-			"<20:24:47><Comm>	 ^1^Sl^T^N1^S357752^t^^ RAID Neveh-Kazzak", -- [336]
-			"<20:24:58><Comm>	 ^1^SlootTable^T^N1^T^N1^T^Sstring^S183025:::::::::::6:5:7187:6652:7194:1498:6646:1:28:753^StypeCode^Sdefault^Sowner^STankzorx-Kazzak^Sboss^SSun~`King's~`Salvation^t^N2^T^Sstring^S183007:::::::::::6:4:7187:6652:1498:6646:1:28:753^StypeCode^Sdefault^Sowner^SMisêry-Kazzak^Sboss^SSun~`King's~`Salvation^t^N3^T^Sstring^S184020:::::::::::6:4:7187:6652:1498:6646:1:28:753^StypeCode^Sdefault^Sowner^SArookie-Kazzak^Sboss^SSun~`King's~`Salvation^t^N4^T^Sstring^S183893:::::::::::6:3:7187:1498:6646:1:28:753^StypeCode^Sdefault^Sowner^STokzik-Kazzak^Sboss^SSun~`King's~`Salvation^t^t^t^^ RAID Tankzorx-Kazzak", -- [337]
-			"<20:24:58><INFO>	 Autopassed on:  |cffa335ee|Hitem:183025::::::::60:262::6:5:7187:6652:7194:1498:6646:1:28:753:::|h[Stoic Guardsman's Belt]|h|r", -- [338]
-			"<20:24:58><INFO>	 Autopassed on:  |cffa335ee|Hitem:183007::::::::60:262::6:4:7187:6652:1498:6646:1:28:753:::|h[Bleakwing Assassin's Grips]|h|r", -- [339]
-			"<20:24:58><INFO>	 Autopassed on:  |cffa335ee|Hitem:183893::::::::60:262::6:3:7187:1498:6646:1:28:753:::|h[Abominable Anima Spherule]|h|r", -- [340]
-			"<20:24:58><INFO>	 GetPlayersGear |cffa335ee|Hitem:183025::::::::60:262::6:5:7187:6652:7194:1498:6646:1:28:753:::|h[Stoic Guardsman's Belt]|h|r INVTYPE_WAIST", -- [341]
-			"<20:24:58><INFO>	 GetPlayersGear |cffa335ee|Hitem:183007::::::::60:262::6:4:7187:6652:1498:6646:1:28:753:::|h[Bleakwing Assassin's Grips]|h|r INVTYPE_HAND", -- [342]
-			"<20:24:58><INFO>	 GetPlayersGear |cffa335ee|Hitem:184020::::::::60:262::6:4:7187:6652:1498:6646:1:28:753:::|h[Tuft of Smoldering Plumage]|h|r INVTYPE_TRINKET", -- [343]
-			"<20:24:58><INFO>	 GetPlayersGear |cffa335ee|Hitem:183893::::::::60:262::6:3:7187:1498:6646:1:28:753:::|h[Abominable Anima Spherule]|h|r ", -- [344]
-			"<20:24:58><INFO>	 LootFrame:Start 4 nil", -- [345]
-			"<20:24:58><DEBUG>	 Restoring entry: default 1", -- [346]
-			"<20:24:58><DEBUG>	 GetButtons default", -- [347]
-			"<20:24:58><Comm>	 ^1^SlootAck^T^N1^N65^N2^N227.3125^N3^T^Sresponse^T^t^Sdiff^T^N1^N0^N2^N0^N3^N6^N4^N-7^t^Sgear1^T^N1^S183025::::::::60:65::6:5:7187:6652:7193:1498:6646:1:28:753^N2^S183013::::::::60:65::6:4:7187:41:1498:6646:1:28:753^N3^S184028::::::::60:65::84:4:7188:6652:1485:6646:1:28:752^N4^S177851:6229:::::::60:65::14:3:7230:1505:6646:1:28:807^t^Sgear2^T^N3^S178386::::::::60:65::14:3:6623:1498:6646:1:28:807^N4^S174311::::::::60:65::14:3:7136:1505:6646:1:28:807^t^t^t^^ RAID Kvaernp-Kazzak", -- [348]
-			"<20:24:58><Comm>	 ^1^SlootAck^T^N1^N265^N2^N228.5625^N3^T^Sresponse^T^N1^B^N2^B^t^Sdiff^T^N1^N0^N2^N0^N3^N0^N4^N-7^t^Sgear1^T^N1^S183004::173130::::::60:265::6:5:7187:6652:1498:6646:6935^N2^S183022::::::::60:265::6:4:7187:6652:1498:6646:1:28:753^N3^S175921::::::::60:265::14:3:6623:1498:6646:1:28:807^N4^S180002:6229:::::::60:265::85:4:7187:6652:1531:6646:1:28:807^t^Sgear2^T^N3^S184028::::::::60:265::85:4:7187:6652:1498:6646^t^t^t^^ RAID Neveh-Kazzak", -- [349]
-			"<20:24:58><Comm>	 ^1^SlootAck^T^N1^N72^N2^N227.4375^N3^T^Sresponse^T^N2^B^N4^B^t^Sdiff^T^N1^N0^N2^N0^N3^N0^N4^N0^t^Sgear1^T^N1^S183025::173128::::::60:72::6:5:7187:6652:1498:6646:6935:1:28:753^N2^S182984:6210:::::::60:72::6:4:7187:6652:1498:6646:1:28:753^N3^S178386::::::::60:72::14:3:6623:1498:6646:1:28:807^N4^S178713:6229:::::::60:72::35:5:7214:6652:1501:5884:6646^t^Sgear2^T^N3^S184027::::::::60:72::85:4:7187:6652:1498:6646^N4^S178713:6228:::::::60:72::35:4:7214:1501:5884:6646^t^t^t^^ RAID Riworra-Kazzak", -- [350]
-			"<20:24:58><Comm>	 ^1^SlootAck^T^N1^N102^N2^N226.375^N3^T^Sresponse^T^N1^B^N4^B^t^Sdiff^T^N1^N0^N2^N0^N3^N32^N4^N-7^t^Sgear1^T^N1^S183005::173127::::::60:102::6:5:7187:6652:1498:6646:6935^N2^S175897:6205:::::::60:102::14:3:6623:1498:6646:1:28:807^N3^S184028::::::::60:102::84:4:7188:6652:1485:6646:1:28:752^N4^S180004:6229:::::::60:102::44:4:6652:6643:1505:6646^t^Sgear2^T^N3^S184842::::::::60:102::27:4:6652:1472:5891:6646^t^t^t^^ RAID Macuc-Kazzak", -- [351]
-			"<20:24:58><Comm>	 ^1^SlootAck^T^N1^N254^N2^N227.875^N3^T^Sresponse^T^N1^B^N2^B^N4^B^t^Sdiff^T^N1^N0^N2^N-7^N3^N0^N4^N0^t^Sgear1^T^N1^S182976::173127::::::60:254::6:5:7187:6652:1498:6646:6935:1:28:753^N2^S182991::::::::60:254::85:4:7187:40:1498:6646:1:28:753^N3^S180116::::::::60:254::35:5:7214:6652:1501:5884:6646^N4^S180073:6228:::::::60:254::6:4:7187:6652:1524:6646:1:28:807^t^Sgear2^T^N3^S184027::::::::60:254::85:4:7187:6652:1498:6646^t^t^t^^ RAID Sanshot-Kazzak", -- [352]
-			"<20:24:58><Comm>	 ^1^SlootAck^T^N1^N264^N2^N229.1875^N3^T^Sresponse^T^N1^B^N2^B^N4^B^t^Sdiff^T^N1^N0^N2^N-7^N3^N-7^N4^N-7^t^Sgear1^T^N1^S178932::173127::::::60:264::35:6:7213:6652:1501:5884:6646:6935^N2^S182991::::::::60:264::85:4:7187:6652:1498:6646^N3^S184028::::::::60:264::85:4:7187:6652:1498:6646^N4^S184266:6229:::::::60:264::85:4:7187:6652:1531:6646:1:28:2060^t^Sgear2^T^N3^S184029::::::::60:264::85:4:7187:6652:1498:6646:1:28:753^N4^S184257::::::::60:264::85:4:7187:6652:1531:6646:1:28:2060^t^t^t^^ RAID Seksixeny-Kazzak", -- [353]
-			"<20:24:58><Comm>	 ^1^SlootAck^T^N1^N250^N2^N227.4375^N3^T^Sresponse^T^N2^B^t^Sdiff^T^N1^N0^N2^N0^N3^N0^N4^N0^t^Sgear1^T^N1^S183025::173129::::::60:250::6:5:7187:6652:6935:1498:6646:1:28:753^N2^S178706:6210:::::::60:250::35:5:7213:6652:1501:5884:6646^N3^S179331::::::::60:250::35:5:7214:6652:1501:5884:6646^N4^S180312:3368:::::::60:250::6:4:7187:6652:1524:6646:1:28:807^t^Sgear2^T^N3^S184027::::::::60:250::85:4:7187:6652:1498:6646:1:28:753^t^t^t^^ RAID Unholydeathh-Kazzak", -- [354]
-			"<20:24:58><Comm>	 ^1^SlootAck^T^N1^N254^N2^N221.375^N3^T^Sresponse^T^N1^B^N2^B^N4^B^t^Sdiff^T^N1^N0^N2^N13^N3^N32^N4^N0^t^Sgear1^T^N1^S182976::173127::::::60:254::6:5:7187:43:6935:1498:6646:1:28:753^N2^S183014::::::::60:254::5:4:7188:6652:1485:6646:1:28:752^N3^S178769::::::::60:254::35:5:7213:6652:1501:5884:6646^N4^S180073:6228:::::::60:254::6:4:7187:6652:1524:6646:1:28:807^t^Sgear2^T^N3^S181457::::::::60:254::26:4:6652:1472:5891:6646:1:28:2060^t^t^t^^ RAID Memescoper-Kazzak", -- [355]
-			"<20:24:58><Comm>	 ^1^SlootAck^T^N1^N65^N2^N227.5^N3^T^Sresponse^T^N2^B^N4^B^t^Sdiff^T^N1^N0^N2^N0^N3^N0^N4^N0^t^Sgear1^T^N1^S175912::173128::::::60:65::44:5:6623:41:1498:6646:6935^N2^S182984::::::::60:65::6:4:7187:6652:1498:6646:1:28:753^N3^S178386::::::::60:65::40:4:41:6623:1498:6646^N4^S177855:6229:::::::60:65::85:4:7187:6652:1531:6646:1:28:807^t^Sgear2^T^N3^S184029::::::::60:65::85:4:7187:6652:1498:6646:1:28:753^N4^S174310::::::::60:65::6:4:7187:6652:1524:6646:1:28:807^t^t^t^^ RAID Tankzorx-Kazzak", -- [356]
-			"<20:24:58><Comm>	 ^1^SlootAck^T^N1^N254^N2^N229.1875^N3^T^Sresponse^T^N1^B^N2^B^N4^B^t^Sdiff^T^N1^N0^N2^N-7^N3^N0^N4^N-7^t^Sgear1^T^N1^S182976::173127::::::60:254::6:5:7187:6652:1498:6646:6935:1:28:753^N2^S182991::::::::60:254::85:4:7187:6652:1498:6646^N3^S175921::::::::60:254::14:3:6623:1498:6646:1:28:807^N4^S180081:6228:::::::60:254::44:4:6652:6643:1505:6646^t^Sgear2^T^N3^S184027::::::::60:254::85:4:7187:6652:1498:6646:1:28:753^t^t^t^^ RAID Adrenalynz-Kazzak", -- [357]
-			"<20:24:58><Comm>	 ^1^SlootAck^T^N1^N102^N2^N225.9375^N3^T^Sresponse^T^N1^B^N4^B^t^Sdiff^T^N1^N0^N2^N0^N3^N32^N4^N0^t^Sgear1^T^N1^S183005::::::::60:102::6:5:7187:6652:7194:1498:6646:1:28:753^N2^S183026::::::::60:102::6:4:7187:6652:1498:6646:1:28:753^N3^S184842::::::::60:102::27:4:6652:1472:5891:6646^N4^S178714:6229:::::::60:102::35:5:7214:6652:1501:5884:6646^t^Sgear2^T^N3^S178386::::::::60:102::14:3:6625:1492:6646:1:28:807^t^t^t^^ RAID Nited-Kazzak", -- [358]
-			"<20:24:58><Comm>	 ^1^SlootAck^T^N1^N268^N2^N227.125^N3^T^Sresponse^T^N1^B^N4^B^t^Sdiff^T^N1^N0^N2^N-9^N3^N0^N4^N0^t^Sgear1^T^N1^S183005::173127::::::60:268::6:5:7187:6652:1498:6646:6935:1:28:753^N2^S172316::::::::60:268::63:5:7077:6647:6650:6758:1532^N3^S184027::::::::60:268::85:4:7187:6652:1498:6646:1:28:753^N4^S177849:6223:::::::60:268::85:4:7187:6652:1531:6646:1:28:807^t^Sgear2^T^N3^S184018::::::::60:268::6:4:7187:6652:1498:6646^N4^S178834:6228:::::::60:268::35:5:7214:6652:1501:5884:6646^t^t^t^^ RAID Misêry-Kazzak", -- [359]
-			"<20:24:58><Comm>	 ^1^SlootAck^T^N1^N252^N2^N227.3125^N3^T^Sresponse^T^N2^B^t^Sdiff^T^N1^N0^N2^N0^N3^N16^N4^N0^t^Sgear1^T^N1^S183025::173130::::::60:252::6:5:7187:6652:1498:6646:6935^N2^S183013:6210:::::::60:252::6:4:7187:6652:1498:6646:1:28:753^N3^S184027::::::::60:252::85:4:7187:6652:1498:6646:1:28:753^N4^S184251:3368:::::::60:252::6:4:7187:6652:1524:6646:1:28:2060^t^Sgear2^T^N3^S179350::::::::60:252::16:5:7214:6652:1501:5868:6646:1:28:1279^t^t^t^^ RAID Tokzik-Kazzak", -- [360]
-			"<20:24:58><Comm>	 ^1^SlootAck^T^N1^N256^N2^N227.875^N3^T^Sresponse^T^N1^B^N2^B^N4^B^t^Sdiff^T^N1^N0^N2^N0^N3^N0^N4^N-7^t^Sgear1^T^N1^S183004::173128::::::60:256::6:5:7187:6652:6935:1498:6646:1:28:753^N2^S183008::::::::60:256::6:4:7187:6652:1498:6646:1:28:753^N3^S178386::::::::60:256::14:3:6623:1498:6646:1:28:807^N4^S182392:6229:::::::60:256::85:4:7187:6652:1531:6646:1:28:837^t^Sgear2^T^N3^S175921::::::::60:256::14:3:6623:1498:6646:1:28:807^t^t^t^^ RAID Vapee-Kazzak", -- [361]
-			"<20:24:58><Comm>	 ^1^SlootAck^T^N1^N102^N2^N226.1875^N3^T^Sresponse^T^t^Sdiff^T^N1^N0^N2^N0^N3^N6^N4^N0^t^Sgear1^T^N1^S178823::::::::60:102::35:6:7214:40:7193:1501:5884:6646^N2^S183026::::::::60:102::6:4:7187:6652:1498:6646:1:28:753^N3^S175921::::::::60:102::14:3:6625:1492:6646:1:28:807^N4^S179559:6229:::::::60:102::14:3:7229:1498:6646:1:28:807^t^Sgear2^T^N3^S178386::::::::60:102::14:3:6623:1498:6646:1:28:807^N4^S179569::::::::60:102::14:3:7135:1498:6646:1:28:807^t^t^t^^ RAID Tradushuffle-Kazzak", -- [362]
-			"<20:24:58><Comm>	 ^1^SlootAck^T^N1^N577^N2^N228.5625^N3^T^Sresponse^T^t^Sdiff^T^N1^N0^N2^N0^N3^N-7^N4^N0^t^Sgear1^T^N1^S183005::173128::::::60:577::6:5:7187:6652:1498:6646:6935^N2^S183007::::::::60:577::6:4:7187:6652:1498:6646:1:28:753^N3^S184030::::::::60:577::85:4:7187:6652:1498:6646^N4^S179579:6228:::::::60:577::85:4:7187:6652:1531:6646:1:28:807^t^Sgear2^T^N3^S184027::::::::60:577::85:4:7187:6652:1498:6646:1:28:753^N4^S179578:6229:::::::60:577::44:4:7142:6652:1498:6646^t^t^t^^ RAID Bevv-Kazzak", -- [363]
-			"<20:24:58><Comm>	 ^1^SlootAck^T^N1^N262^N2^N229.1875^N3^T^Sresponse^T^N1^B^N2^B^N4^B^t^Sdiff^T^N1^N0^N2^N-7^N3^N-7^N4^N-7^t^Sgear1^T^N1^S175914::173127::::::60:262::44:5:6623:6652:1498:6646:6935^N2^S182991:6205:::::::60:262::85:4:7187:6652:1498:6646:1:28:753^N3^S184030::::::::60:262::85:4:7187:6652:1498:6646:1:28:753^N4^S184261:6229:::::::60:262::85:4:7187:6652:1531:6646:1:28:2060^t^Sgear2^T^N3^S184028::::::::60:262::85:4:7187:6652:1498:6646^t^t^t^^ RAID Rentaki-Kazzak", -- [364]
-			"<20:24:58><Comm>	 ^1^SlootAck^T^N1^N72^N2^N226.625^N3^T^Sresponse^T^N2^B^N4^B^t^Sdiff^T^N1^N0^N2^N0^N3^N0^N4^N6^t^Sgear1^T^N1^S183015::173128::::::60:72::6:5:7187:6652:1498:6646:6935:1:28:753^N2^S180104:6210:::::::60:72::35:5:7213:6652:1501:5884:6646^N3^S184027::::::::60:72::85:4:7187:6652:1498:6646:1:28:753^N4^S178866:6228:::::::60:72::35:5:7213:6652:1501:5884:6646^t^Sgear2^T^N3^S184016::::::::60:72::6:4:7187:6652:1498:6646^N4^S182402:6229:::::::60:72::14:3:6641:1492:6646:1:28:807^t^t^t^^ RAID Sacraa-Kazzak", -- [365]
-			"<20:24:58><Comm>	 ^1^SlootAck^T^N1^N70^N2^N226.0625^N3^T^Sresponse^T^N2^B^N4^B^t^Sdiff^T^N1^N0^N2^N0^N3^N6^N4^N0^t^Sgear1^T^N1^S183025::173128::::::60:70::6:5:7187:6652:6935:1498:6646:1:28:753^N2^S178840:6210:::::::60:70::35:5:7214:6652:1501:5884:6646^N3^S178386::::::::60:70::14:3:6625:1492:6646:1:28:807^N4^S179330:6228:::::::60:70::35:5:7213:6652:1501:5884:6646^t^Sgear2^T^N3^S175921::::::::60:70::14:3:6625:1492:6646:1:28:807^t^t^t^^ RAID Creo-Kazzak", -- [366]
-			"<20:24:58><Comm>	 ^1^SlootAck^T^N1^N63^N2^N229.1875^N3^T^Sresponse^T^N1^B^N2^B^N4^B^t^Sdiff^T^N1^N0^N2^N0^N3^N0^N4^N-7^t^Sgear1^T^N1^S183028::173128::::::60:63::6:5:7187:6652:1498:6646:6935:1:28:753^N2^S183022::::::::60:63::6:4:7187:6652:1498:6646:1:28:753^N3^S184028::::::::60:63::85:4:7187:6652:1498:6646^N4^S180002:6228:::::::60:63::85:4:7187:6652:1531:6646:1:28:807^t^Sgear2^T^N3^S175921::::::::60:63::14:3:6623:1498:6646:1:28:807^t^t^t^^ RAID Skonheden-Kazzak", -- [367]
-			"<20:24:58><Comm>	 ^1^SlootAck^T^N1^N254^N2^N227.9375^N3^T^Sresponse^T^N1^B^N2^B^N4^B^t^Sdiff^T^N1^N13^N2^N0^N3^N0^N4^N-7^t^Sgear1^T^N1^S183016::173127::::::60:254::5:5:7188:6652:6935:1485:6646:1:28:752^N2^S179325::::::::60:254::35:5:7214:6652:1501:5884:6646^N3^S180116::::::::60:254::35:5:7213:6652:1501:5884:6646^N4^S180071:6228:::::::60:254::85:4:7187:6652:1531:6646:1:28:807^t^Sgear2^T^N3^S184027::::::::60:254::85:4:7187:42:1498:6646:1:28:753^t^t^t^^ RAID Ceases-Kazzak", -- [368]
-			"<20:24:58><Comm>	 ^1^SlootAck^T^N1^N105^N2^N227.875^N3^T^Sresponse^T^N1^B^N4^B^t^Sdiff^T^N1^N0^N2^N0^N3^N0^N4^N-7^t^Sgear1^T^N1^S183005::173128::::::60:105::6:5:7187:41:1498:6646:6935^N2^S183007:6205:::::::60:105::6:4:7187:6652:1498:6646^N3^S178708::::::::60:105::35:6:7214:6652:1501:5884:6646:6917^N4^S180002:6229:::::::60:105::85:4:7187:6652:1531:6646:1:28:807^t^Sgear2^T^N3^S178386::::::::60:105::14:3:6623:1498:6646:1:28:807^t^t^t^^ RAID Arookie-Kazzak", -- [369]
-			"<20:24:58><Comm>	 ^1^SlootAck^T^N1^N259^N2^N225.625^N3^T^Sresponse^T^N1^B^N4^B^t^Sdiff^T^N1^N0^N2^N1^N3^N0^N4^N0^t^Sgear1^T^N1^S182995::173128::::::60:259::6:5:7187:43:1498:6646:6935:1:28:753^N2^S172316::::::::60:259::63:5:7116:6650:6649:6718:1522^N3^S184026::::::::60:259::6:4:7187:6652:1498:6646:1:28:753^t^Sgear2^T^N3^S184030::::::::60:259::85:4:7187:6652:1498:6646^t^t^t^^ RAID Kessrogue-Kazzak", -- [370]
-			"<20:24:58><Comm>	 ^1^SlootAck^T^N1^N63^N2^N228.3125^N3^T^Sresponse^T^N1^B^N2^B^N4^B^t^Sdiff^T^N1^N0^N2^N0^N3^N0^N4^N-7^t^Sgear1^T^N1^S183004::173128::::::60:63::6:5:7187:6652:1498:6646:6935:1:28:753^N2^S183022::::::::60:63::6:4:7187:40:1498:6646:1:28:753^N3^S175921::::::::60:63::14:3:6623:1498:6646:1:28:807^N4^S180002:6228:::::::60:63::85:4:7187:6652:1531:6646:1:28:807^t^Sgear2^T^N3^S178708::::::::60:63::35:6:7214:6652:1501:5884:6646:6917^t^t^t^^ RAID Frawztie-Kazzak", -- [371]
-			"<20:25:00><Comm>	 ^1^Sresponse^T^N1^N1^N2^T^Sresponse^SPASS^t^t^^ RAID Unholydeathh-Kazzak", -- [372]
-			"<20:25:00><Comm>	 ^1^Sresponse^T^N1^N2^N2^T^Sresponse^SPASS^t^t^^ RAID Macuc-Kazzak", -- [373]
-			"<20:25:00><Comm>	 ^1^Sresponse^T^N1^N3^N2^T^Sresponse^SPASS^t^t^^ RAID Unholydeathh-Kazzak", -- [374]
-			"<20:25:00><Comm>	 ^1^Sresponse^T^N1^N2^N2^T^Sresponse^SPASS^t^t^^ RAID Nited-Kazzak", -- [375]
-			"<20:25:01><Comm>	 ^1^Sresponse^T^N1^N3^N2^T^Sresponse^SPASS^t^t^^ RAID Macuc-Kazzak", -- [376]
-			"<20:25:01><Comm>	 ^1^Sresponse^T^N1^N3^N2^T^Sresponse^SPASS^t^t^^ RAID Nited-Kazzak", -- [377]
-			"<20:25:01><Comm>	 ^1^Sresponse^T^N1^N4^N2^T^Sresponse^SPASS^t^t^^ RAID Kvaernp-Kazzak", -- [378]
-			"<20:25:01><Comm>	 ^1^Sresponse^T^N1^N3^N2^T^Sresponse^SPASS^t^t^^ RAID Skonheden-Kazzak", -- [379]
-			"<20:25:01><Comm>	 ^1^Sresponse^T^N1^N3^N2^T^Sresponse^SPASS^t^t^^ RAID Ceases-Kazzak", -- [380]
-			"<20:25:02><Comm>	 ^1^Sresponse^T^N1^N4^N2^T^Sresponse^SPASS^t^t^^ RAID Tradushuffle-Kazzak", -- [381]
-			"<20:25:02><Comm>	 ^1^Sresponse^T^N1^N2^N2^T^Sresponse^SPASS^t^t^^ RAID Kessrogue-Kazzak", -- [382]
-			"<20:25:03><Comm>	 ^1^Sresponse^T^N1^N3^N2^T^Sresponse^SPASS^t^t^^ RAID Kessrogue-Kazzak", -- [383]
-			"<20:25:03><Comm>	 ^1^Sresponse^T^N1^N2^N2^T^Sresponse^N2^t^t^^ RAID Misêry-Kazzak", -- [384]
-			"<20:25:03><Comm>	 ^1^Sresponse^T^N1^N4^N2^T^Sresponse^N4^t^t^^ RAID Unholydeathh-Kazzak", -- [385]
-			"<20:25:04><Comm>	 ^1^Sresponse^T^N1^N1^N2^T^Sresponse^SPASS^t^t^^ RAID Sacraa-Kazzak", -- [386]
-			"<20:25:04><Comm>	 ^1^Sresponse^T^N1^N3^N2^T^Sresponse^SPASS^t^t^^ RAID Sacraa-Kazzak", -- [387]
-			"<20:25:04><Comm>	 ^1^Sresponse^T^N1^N3^N2^T^Sresponse^N4^t^t^^ RAID Tradushuffle-Kazzak", -- [388]
-			"<20:25:04><Comm>	 ^1^Sresponse^T^N1^N3^N2^T^Sresponse^SPASS^t^t^^ RAID Neveh-Kazzak", -- [389]
-			"<20:25:05><Comm>	 ^1^Sresponse^T^N1^N4^N2^T^Sresponse^SPASS^t^t^^ RAID Neveh-Kazzak", -- [390]
-			"<20:25:05><Comm>	 ^1^Sresponse^T^N1^N3^N2^T^Sresponse^N4^t^t^^ RAID Misêry-Kazzak", -- [391]
-			"<20:25:06><Comm>	 ^1^Sresponse^T^N1^N1^N2^T^Sresponse^SPASS^t^t^^ RAID Kvaernp-Kazzak", -- [392]
-			"<20:25:07><Comm>	 ^1^Sresponse^T^N1^N1^N2^T^Sresponse^SPASS^t^t^^ RAID Tradushuffle-Kazzak", -- [393]
-			"<20:25:07><Comm>	 ^1^Sresponse^T^N1^N3^N2^T^Sresponse^SPASS^t^t^^ RAID Vapee-Kazzak", -- [394]
-			"<20:25:08><Comm>	 ^1^Sresponse^T^N1^N2^N2^T^Sresponse^SPASS^t^t^^ RAID Kvaernp-Kazzak", -- [395]
-			"<20:25:09><Comm>	 ^1^Sresponse^T^N1^N3^N2^T^Sresponse^SPASS^t^t^^ RAID Kvaernp-Kazzak", -- [396]
-			"<20:25:09><Comm>	 ^1^Sresponse^T^N1^N3^N2^T^Snote^Sm+~`/~`spot~`heal~`trinket^Sresponse^N2^t^t^^ RAID Seksixeny-Kazzak", -- [397]
-			"<20:25:09><Comm>	 ^1^Sresponse^T^N1^N3^N2^T^Sresponse^SPASS^t^t^^ RAID Riworra-Kazzak", -- [398]
-			"<20:25:10><Comm>	 ^1^Sresponse^T^N1^N1^N2^T^Sresponse^SPASS^t^t^^ RAID Creo-Kazzak", -- [399]
-			"<20:25:10><Comm>	 ^1^Sresponse^T^N1^N3^N2^T^Sresponse^SPASS^t^t^^ RAID Creo-Kazzak", -- [400]
-			"<20:25:11><Comm>	 ^1^Soffline_timer^T^t^^ RAID Tankzorx-Kazzak", -- [401]
-			"<20:25:11><Comm>	 ^1^Sresponse^T^N1^N3^N2^T^Snote^SM+^Sresponse^N2^t^t^^ RAID Arookie-Kazzak", -- [402]
-			"<20:25:13><Comm>	 ^1^Sresponse^T^N1^N1^N2^T^Sresponse^SPASS^t^t^^ RAID Riworra-Kazzak", -- [403]
-			"<20:25:14><Comm>	 ^1^Sresponse^T^N1^N3^N2^T^Sresponse^SPASS^t^t^^ RAID Frawztie-Kazzak", -- [404]
-			"<20:25:16><Comm>	 ^1^Sresponse^T^N1^N2^N2^T^Sresponse^SPASS^t^t^^ RAID Arookie-Kazzak", -- [405]
-			"<20:25:19><Comm>	 ^1^Sresponse^T^N1^N1^N2^T^Sresponse^SPASS^t^t^^ RAID Tankzorx-Kazzak", -- [406]
-			"<20:25:19><Comm>	 ^1^Sresponse^T^N1^N4^N2^T^Snote^SFROST~`^Sresponse^N1^t^t^^ RAID Tokzik-Kazzak", -- [407]
-			"<20:25:19><Comm>	 ^1^Sresponse^T^N1^N3^N2^T^Sresponse^SPASS^t^t^^ RAID Tankzorx-Kazzak", -- [408]
-			"<20:25:20><Comm>	 ^1^Sresponse^T^N1^N1^N2^T^Sresponse^SPASS^t^t^^ RAID Tokzik-Kazzak", -- [409]
-			"<20:25:21><Comm>	 ^1^Sresponse^T^N1^N3^N2^T^Sresponse^SPASS^t^t^^ RAID Tokzik-Kazzak", -- [410]
-			"<20:25:22><Comm>	 ^1^Sresponse^T^N1^N4^N2^T^Sresponse^N5^t^t^^ RAID Bevv-Kazzak", -- [411]
-			"<20:25:23><Comm>	 ^1^Sresponse^T^N1^N3^N2^T^Sresponse^SPASS^t^t^^ RAID Memescoper-Kazzak", -- [412]
-			"<20:25:23><DEBUG>	 LootFrame:Response PASS Response: Pass", -- [413]
-			"<20:25:23><DEBUG>	 SendResponse group 3 PASS nil nil nil nil nil nil nil nil nil nil", -- [414]
-			"<20:25:23><DEBUG>	 Trashing entry: 1 |cffa335ee|Hitem:184020::::::::60:262::6:4:7187:6652:1498:6646:1:28:753:::|h[Tuft of Smoldering Plumage]|h|r", -- [415]
-			"<20:25:23><Comm>	 ^1^Sresponse^T^N1^N3^N2^T^Sresponse^SPASS^t^t^^ RAID Rentaki-Kazzak", -- [416]
-			"<20:25:25><Comm>	 ^1^Sresponse^T^N1^N3^N2^T^Sresponse^SPASS^t^t^^ RAID Bevv-Kazzak", -- [417]
-			"<20:25:25><Comm>	 ^1^Sresponse^T^N1^N2^N2^T^Sresponse^SPASS^t^t^^ RAID Bevv-Kazzak", -- [418]
-			"<20:25:26><Comm>	 ^1^Sresponse^T^N1^N1^N2^T^Sresponse^SPASS^t^t^^ RAID Bevv-Kazzak", -- [419]
-			"<20:25:26><Comm>	 ^1^Sresponse^T^N1^N2^N2^T^Snote^b^Sresponse^SPASS^t^t^^ RAID Tradushuffle-Kazzak", -- [420]
-			"<20:25:39><Comm>	 ^1^Shistory^T^N1^SMisêry-Kazzak^N2^T^SmapID^N2296^Scolor^T^N1^N0.54^N2^N1^N3^N0.12^N4^N1^t^Sclass^SMONK^SgroupSize^N20^Sboss^SSun~`King's~`Salvation^Stime^S20:25:40^SitemReplaced1^S|cffff8000|Hitem:172316::::::::60:65::63:5:7077:6647:6650:6758:1532::::|h[Stormstout's~`Last~`Keg]|h|r^Sinstance^SCastle~`Nathria-Mythic^Sowner^SMisêry-Kazzak^Sresponse^SNeed~`not~`BIS^StypeCode^Sdefault^SdifficultyID^N16^SlootWon^S|cffa335ee|Hitem:183007::::::::60:65::6:4:7187:6652:1498:6646:1:28:753:::|h[Bleakwing~`Assassin's~`Grips]|h|r^Sid^S1615400740-21^Sdate^S10/03/21^SresponseID^N2^Svotes^N0^SisAwardReason^b^t^t^^ RAID Tankzorx-Kazzak", -- [421]
-			"<20:25:39><Comm>	 ^1^Sawarded^T^N1^N2^N2^SMisêry-Kazzak^N3^SMisêry-Kazzak^t^^ RAID Tankzorx-Kazzak", -- [422]
-			"<20:25:52><Comm>	 ^1^Shistory^T^N1^SArookie-Kazzak^N2^T^SmapID^N2296^Sdate^S10/03/21^Sclass^SDRUID^SgroupSize^N20^Sboss^SSun~`King's~`Salvation^Stime^S20:25:53^SitemReplaced1^S|cffa335ee|Hitem:178708::::::::60:65::35:6:7214:6652:1501:5884:6646:6917::::|h[Unbound~`Changeling]|h|r^StypeCode^Sdefault^Sinstance^SCastle~`Nathria-Mythic^Sowner^SArookie-Kazzak^Sid^S1615400753-22^Sresponse^SNeed~`not~`BIS^Snote^SM+^SdifficultyID^N16^SlootWon^S|cffa335ee|Hitem:184020::::::::60:65::6:4:7187:6652:1498:6646:1:28:753:::|h[Tuft~`of~`Smoldering~`Plumage]|h|r^SisAwardReason^b^Scolor^T^N1^N0.54^N2^N1^N3^N0.12^N4^N1^t^SresponseID^N2^SitemReplaced2^S|cffa335ee|Hitem:178386::::::::60:65::14:3:6623:1498:6646:1:28:807:::|h[Sinful~`Gladiator's~`Insignia~`of~`Alacrity]|h|r^Svotes^N0^t^t^^ RAID Tankzorx-Kazzak", -- [423]
-			"<20:25:52><Comm>	 ^1^Sawarded^T^N1^N3^N2^SArookie-Kazzak^N3^SArookie-Kazzak^t^^ RAID Tankzorx-Kazzak", -- [424]
-			"<20:25:53><Comm>	 ^1^Sresponse^T^N1^N3^N2^T^Sresponse^SPASS^t^t^^ RAID Sanshot-Kazzak", -- [425]
-			"<20:25:57><Comm>	 ^1^Shistory^T^N1^STankzorx-Kazzak^N2^T^SmapID^N2296^Scolor^T^N1^N0.7^N2^N0.7^N3^N0.7^N4^N1^t^Sclass^SPALADIN^SgroupSize^N20^Sboss^SSun~`King's~`Salvation^Stime^S20:25:58^SitemReplaced1^S|cffa335ee|Hitem:175912::173128::::::60:65::44:5:6623:41:1498:6646:6935::::|h[Sinful~`Gladiator's~`Plate~`Girdle]|h|r^Sinstance^SCastle~`Nathria-Mythic^Sowner^STankzorx-Kazzak^Sresponse^SPass^StypeCode^Sdefault^SdifficultyID^N16^SlootWon^S|cffa335ee|Hitem:183025::::::::60:65::6:5:7187:6652:7194:1498:6646:1:28:753:::|h[Stoic~`Guardsman's~`Belt]|h|r^Sid^S1615400758-23^Sdate^S10/03/21^SresponseID^SPASS^Svotes^N0^SisAwardReason^b^t^t^^ RAID Tankzorx-Kazzak", -- [426]
-			"<20:25:57><Comm>	 ^1^Sawarded^T^N1^N1^N2^STankzorx-Kazzak^N3^STankzorx-Kazzak^t^^ RAID Tankzorx-Kazzak", -- [427]
-			"<20:25:58><Comm>	 ^1^Sresponse^T^N1^N3^N2^T^Sresponse^STIMEOUT^t^t^^ RAID Adrenalynz-Kazzak", -- [428]
-			"<20:26:08><Comm>	 ^1^Shistory^T^N1^STokzik-Kazzak^N2^T^SmapID^N2296^Sdate^S10/03/21^Sclass^SDEATHKNIGHT^SgroupSize^N20^Svotes^N0^Stime^S20:26:10^SitemReplaced1^S|cffa335ee|Hitem:184251:3368:::::::60:65::6:4:7187:6652:1524:6646:1:28:2060:::|h[Ossified~`Broadaxe]|h|r^Sinstance^SCastle~`Nathria-Mythic^Sowner^STokzik-Kazzak^StypeCode^Sdefault^Sresponse^SNeed~`BIS^Sid^S1615400770-24^SdifficultyID^N16^SlootWon^S|cffa335ee|Hitem:183893::::::::60:65::6:3:7187:1498:6646:1:28:753:::|h[Abominable~`Anima~`Spherule]|h|r^Snote^SFROST~`^SisAwardReason^b^SresponseID^N1^Sboss^SSun~`King's~`Salvation^Scolor^T^N1^N0^N2^N1^N3^N0^N4^N1^t^t^t^^ RAID Tankzorx-Kazzak", -- [429]
-			"<20:26:08><Comm>	 ^1^Sawarded^T^N1^N4^N2^STokzik-Kazzak^N3^STokzik-Kazzak^t^^ RAID Tankzorx-Kazzak", -- [430]
-			"<20:26:09><Comm>	 ^1^Ssession_end^T^t^^ RAID Tankzorx-Kazzak", -- [431]
-			"<20:27:01><Comm>	 ^1^Sl^T^N1^S174842^t^^ RAID Tokzik-Kazzak", -- [432]
-			"<20:27:09><Comm>	 ^1^Sl^T^N1^S165470^t^^ RAID Creo-Kazzak", -- [433]
-			"<20:27:09><Comm>	 ^1^Sl^T^N1^S165470^t^^ RAID Creo-Kazzak", -- [434]
-			"<20:27:12><Comm>	 ^1^Sl^T^N1^S174842^t^^ RAID Riworra-Kazzak", -- [435]
-			"<20:27:12><Comm>	 ^1^Sl^T^N1^S174843^t^^ RAID Ceases-Kazzak", -- [436]
-			"<20:27:12><Comm>	 ^1^Sl^T^N1^S165471^t^^ RAID Tradushuffle-Kazzak", -- [437]
-			"<20:27:12><Comm>	 ^1^Sl^T^N1^S165471^t^^ RAID Tradushuffle-Kazzak", -- [438]
-			"<20:27:18><DEBUG>	 Event: LOOT_READY true", -- [439]
-			"<20:27:18><DEBUG>	 Adding to self.lootSlotInfo 1 nil 1 0 Creature-0-4253-2296-4475-174842-0000C906D8 40083 Creature-0-4253-2296-4475-165470-0000C906D8 63008 Creature-0-4253-2296-4475-165481-00004906D8 64917 Creature-0-4253-2296-4475-174842-00024906D8 39826", -- [440]
-			"<20:27:18><DEBUG>	 OnLootSlotCleared() 1 nil 1", -- [441]
-			"<20:27:18><DEBUG>	 Event: LOOT_CLOSED", -- [442]
-			"<20:27:18><DEBUG>	 Event: LOOT_CLOSED", -- [443]
-			"<20:27:18><Comm>	 ^1^Sl^T^N1^S165472^t^^ RAID Seksixeny-Kazzak", -- [444]
-			"<20:27:18><Comm>	 ^1^Sl^T^N1^S165472^t^^ RAID Seksixeny-Kazzak", -- [445]
-			"<20:27:18><Comm>	 ^1^Sl^T^N1^S174842^t^^ RAID Rentaki-Kazzak", -- [446]
-			"<20:27:18><Comm>	 ^1^Sl^T^N1^S174842^t^^ RAID Rentaki-Kazzak", -- [447]
-			"<20:27:20><Comm>	 ^1^Sl^T^N1^S174842^t^^ RAID Skonheden-Kazzak", -- [448]
-			"<20:27:20><Comm>	 ^1^Sl^T^N1^S174842^t^^ RAID Skonheden-Kazzak", -- [449]
-			"<20:27:21><Comm>	 ^1^Sl^T^N1^S174843^t^^ RAID Bevv-Kazzak", -- [450]
-			"<20:27:21><Comm>	 ^1^Sl^T^N1^S174843^t^^ RAID Bevv-Kazzak", -- [451]
-			"<20:27:22><Comm>	 ^1^Sl^T^N1^S165481^t^^ RAID Nited-Kazzak", -- [452]
-			"<20:27:22><Comm>	 ^1^Sl^T^N1^S174842^t^^ RAID Memescoper-Kazzak", -- [453]
-			"<20:27:22><Comm>	 ^1^Sl^T^N1^S174842^t^^ RAID Memescoper-Kazzak", -- [454]
-			"<20:27:22><DEBUG>	 Event: ENCOUNTER_LOOT_RECEIVED 0 182990 |cffa335ee|Hitem:182990::::::::60:262::6:4:7187:6652:1498:6646:1:28:753:::|h[Legionnaire's Bloodstained Sabatons]|h|r 1 Memescoper HUNTER", -- [455]
-			"<20:27:23><Comm>	 ^1^Sl^T^N1^S165470^t^^ RAID Misêry-Kazzak", -- [456]
-			"<20:27:23><Comm>	 ^1^Sl^T^N1^S165470^t^^ RAID Misêry-Kazzak", -- [457]
-			"<20:27:25><Comm>	 ^1^Stradable^T^N1^S|cffa335ee|Hitem:182990::::::::60:254::6:4:7187:6652:1498:6646:1:28:753:::|h[Legionnaire's~`Bloodstained~`Sabatons]|h|r^N2^S174842^t^^ RAID Memescoper-Kazzak", -- [458]
-			"<20:27:25><Comm>	 ^1^Sl^T^N1^S165471^t^^ RAID Sacraa-Kazzak", -- [459]
-			"<20:27:25><Comm>	 ^1^Sl^T^N1^S165471^t^^ RAID Sacraa-Kazzak", -- [460]
-			"<20:27:26><Comm>	 ^1^Sl^T^N1^S165471^t^^ RAID Arookie-Kazzak", -- [461]
-			"<20:27:26><Comm>	 ^1^Sl^T^N1^S165471^t^^ RAID Arookie-Kazzak", -- [462]
-			"<20:27:27><Comm>	 ^1^Sl^T^N1^S174842^t^^ RAID Kvaernp-Kazzak", -- [463]
-			"<20:27:27><Comm>	 ^1^Sl^T^N1^S174842^t^^ RAID Kvaernp-Kazzak", -- [464]
-			"<20:27:27><Comm>	 ^1^Sl^T^N1^S165481^t^^ RAID Tankzorx-Kazzak", -- [465]
-			"<20:27:27><Comm>	 ^1^Sl^T^N1^S165481^t^^ RAID Tankzorx-Kazzak", -- [466]
-			"<20:27:36><DEBUG>	 Event: ENCOUNTER_START 2412 The Council of Blood 16 20", -- [467]
-			"<20:27:36><INFO>	 UpdatePlayersData()", -- [468]
-			"<20:27:43><Comm>	 ^1^Sl^T^N1^S165479^t^^ RAID Unholydeathh-Kazzak", -- [469]
-			"<20:27:43><Comm>	 ^1^Sl^T^N1^S165479^t^^ RAID Unholydeathh-Kazzak", -- [470]
-			"<20:27:48><DEBUG>	 Event: ENCOUNTER_END 2412 The Council of Blood 16 20 0", -- [471]
-			"<20:28:27><DEBUG>	 Event: PLAYER_ENTERING_WORLD false false", -- [472]
-			"<20:28:29><DEBUG>	 GetML()", -- [473]
-			"<20:35:14><Comm>	 ^1^Sv^T^N1^S3.1.4^t^^ GUILD Magearñ-Kazzak", -- [474]
-			"<20:35:14><Comm>	 ^1^Sr^T^N1^S3.1.3^N3^T^t^t^^ GUILD Kessrogue-Kazzak", -- [475]
-			"<20:39:28><Comm>	 ^1^Sl^T^N1^S166969^t^^ RAID Creo-Kazzak", -- [476]
-			"<20:39:28><Comm>	 ^1^Sl^T^N1^S166969^t^^ RAID Creo-Kazzak", -- [477]
-			"<20:39:29><Comm>	 ^1^Sl^T^N1^S166969^t^^ RAID Skonheden-Kazzak", -- [478]
-			"<20:39:29><Comm>	 ^1^Sl^T^N1^S166969^t^^ RAID Skonheden-Kazzak", -- [479]
-			"<20:39:30><Comm>	 ^1^Sl^T^N1^S166969^t^^ RAID Riworra-Kazzak", -- [480]
-			"<20:39:30><Comm>	 ^1^Sl^T^N1^S166969^t^^ RAID Riworra-Kazzak", -- [481]
-			"<20:39:30><Comm>	 ^1^Sl^T^N1^S166969^t^^ RAID Ceases-Kazzak", -- [482]
-			"<20:39:30><Comm>	 ^1^Sl^T^N1^S166969^t^^ RAID Kessrogue-Kazzak", -- [483]
-			"<20:39:30><Comm>	 ^1^Sl^T^N1^S166969^t^^ RAID Kessrogue-Kazzak", -- [484]
-			"<20:39:31><Comm>	 ^1^Sl^T^N1^S166969^t^^ RAID Nited-Kazzak", -- [485]
-			"<20:39:31><Comm>	 ^1^Sl^T^N1^S166969^t^^ RAID Nited-Kazzak", -- [486]
-			"<20:39:31><Comm>	 ^1^Stradable^T^N1^S|cffa335ee|Hitem:184024::::::::60:70::6:4:7187:6652:1498:6646:1:28:753:::|h[Macabre~`Sheet~`Music]|h|r^N2^S166969^t^^ RAID Creo-Kazzak", -- [487]
-			"<20:39:33><Comm>	 ^1^Stradable^T^N1^S|cffa335ee|Hitem:184024::::::::60:72::6:4:7187:6652:1498:6646:1:28:753:::|h[Macabre~`Sheet~`Music]|h|r^N2^S166969^t^^ RAID Riworra-Kazzak", -- [488]
-			"<20:39:33><Comm>	 ^1^Sl^T^N1^S166969^t^^ RAID Tokzik-Kazzak", -- [489]
-			"<20:39:33><Comm>	 ^1^Sl^T^N1^S166969^t^^ RAID Tokzik-Kazzak", -- [490]
-			"<20:39:33><Comm>	 ^1^Sl^T^N1^S166969^t^^ RAID Vapee-Kazzak", -- [491]
-			"<20:39:33><Comm>	 ^1^Sl^T^N1^S166969^t^^ RAID Vapee-Kazzak", -- [492]
-			"<20:39:33><Comm>	 ^1^Sl^T^N1^S166969^t^^ RAID Sanshot-Kazzak", -- [493]
-			"<20:39:33><Comm>	 ^1^Sl^T^N1^S166969^t^^ RAID Sanshot-Kazzak", -- [494]
-			"<20:39:33><Comm>	 ^1^Sl^T^N1^S166969^t^^ RAID Seksixeny-Kazzak", -- [495]
-			"<20:39:33><Comm>	 ^1^Sl^T^N1^S166969^t^^ RAID Seksixeny-Kazzak", -- [496]
-			"<20:39:34><Comm>	 ^1^Sl^T^N1^S166969^t^^ RAID Macuc-Kazzak", -- [497]
-			"<20:39:34><Comm>	 ^1^Sl^T^N1^S166969^t^^ RAID Macuc-Kazzak", -- [498]
-			"<20:39:35><Comm>	 ^1^Sl^T^N1^S166969^t^^ RAID Adrenalynz-Kazzak", -- [499]
-			"<20:39:35><Comm>	 ^1^Sl^T^N1^S166969^t^^ RAID Adrenalynz-Kazzak", -- [500]
-			"<20:39:36><Comm>	 ^1^Sl^T^N1^S166969^t^^ RAID Sacraa-Kazzak", -- [501]
-			"<20:39:36><Comm>	 ^1^Sl^T^N1^S166969^t^^ RAID Sacraa-Kazzak", -- [502]
-			"<20:39:36><Comm>	 ^1^Sl^T^N1^S166969^t^^ RAID Neveh-Kazzak", -- [503]
-			"<20:39:36><Comm>	 ^1^Sl^T^N1^S166969^t^^ RAID Neveh-Kazzak", -- [504]
-			"<20:39:37><Comm>	 ^1^Stradable^T^N1^S|cffa335ee|Hitem:183039::::::::60:254::6:5:7187:6652:7193:1498:6646:1:28:753:::|h[Noble's~`Birthstone~`Pendant]|h|r^N2^S166969^t^^ RAID Adrenalynz-Kazzak", -- [505]
-			"<20:39:46><Comm>	 ^1^Sl^T^N1^S166969^t^^ RAID Bevv-Kazzak", -- [506]
-			"<20:39:46><Comm>	 ^1^Sl^T^N1^S166969^t^^ RAID Bevv-Kazzak", -- [507]
-			"<20:39:47><Comm>	 ^1^Sl^T^N1^S166969^t^^ RAID Kvaernp-Kazzak", -- [508]
-			"<20:39:47><Comm>	 ^1^Sl^T^N1^S166969^t^^ RAID Kvaernp-Kazzak", -- [509]
-			"<20:39:49><Comm>	 ^1^Sl^T^N1^S166969^t^^ RAID Misêry-Kazzak", -- [510]
-			"<20:39:49><Comm>	 ^1^Sl^T^N1^S166969^t^^ RAID Misêry-Kazzak", -- [511]
-			"<20:39:50><Comm>	 ^1^Stradable^T^N1^S|cffa335ee|Hitem:182983::::::::60:65::6:4:7187:6652:1498:6646:1:28:753:::|h[Stoneguard~`Attendant's~`Boots]|h|r^N2^S166969^t^^ RAID Kvaernp-Kazzak", -- [512]
-			"<20:39:50><Comm>	 ^1^Sl^T^N1^S166969^t^^ RAID Tankzorx-Kazzak", -- [513]
-			"<20:39:50><Comm>	 ^1^Sl^T^N1^S166969^t^^ RAID Tankzorx-Kazzak", -- [514]
-			"<20:40:18><Comm>	 ^1^SlootTable^T^N1^T^N1^T^Sstring^S182983:::::::::::6:4:7187:6652:1498:6646:1:28:753^StypeCode^Sdefault^Sowner^SKvaernp-Kazzak^Sboss^SThe~`Council~`of~`Blood^t^N2^T^Sstring^S183039:::::::::::6:5:7187:6652:7193:1498:6646:1:28:753^StypeCode^Sdefault^Sowner^SAdrenalynz-Kazzak^Sboss^SThe~`Council~`of~`Blood^t^N3^T^Sstring^S184024:::::::::::6:4:7187:6652:1498:6646:1:28:753^StypeCode^Sdefault^Sowner^SCreo-Kazzak^Sboss^SThe~`Council~`of~`Blood^t^N4^T^Sstring^S184024:::::::::::6:4:7187:6652:1498:6646:1:28:753^StypeCode^Sdefault^Sowner^SRiworra-Kazzak^Sboss^SThe~`Council~`of~`Blood^t^t^t^^ RAID Tankzorx-Kazzak", -- [515]
-			"<20:40:18><INFO>	 Autopassed on:  |cffa335ee|Hitem:182983::::::::60:262::6:4:7187:6652:1498:6646:1:28:753:::|h[Stoneguard Attendant's Boots]|h|r", -- [516]
-			"<20:40:18><INFO>	 GetPlayersGear |cffa335ee|Hitem:182983::::::::60:262::6:4:7187:6652:1498:6646:1:28:753:::|h[Stoneguard Attendant's Boots]|h|r INVTYPE_FEET", -- [517]
-			"<20:40:18><INFO>	 GetPlayersGear |cffa335ee|Hitem:183039::::::::60:262::6:5:7187:6652:7193:1498:6646:1:28:753:::|h[Noble's Birthstone Pendant]|h|r INVTYPE_NECK", -- [518]
-			"<20:40:18><INFO>	 GetPlayersGear |cffa335ee|Hitem:184024::::::::60:262::6:4:7187:6652:1498:6646:1:28:753:::|h[Macabre Sheet Music]|h|r INVTYPE_TRINKET", -- [519]
-			"<20:40:18><INFO>	 GetPlayersGear |cffa335ee|Hitem:184024::::::::60:262::6:4:7187:6652:1498:6646:1:28:753:::|h[Macabre Sheet Music]|h|r INVTYPE_TRINKET", -- [520]
-			"<20:40:18><INFO>	 LootFrame:Start 4 nil", -- [521]
-			"<20:40:18><DEBUG>	 LootFrame: |cffa335ee|Hitem:184024::::::::60:262::6:4:7187:6652:1498:6646:1:28:753:::|h[Macabre Sheet Music]|h|r is a dublicate of |cffa335ee|Hitem:184024::::::::60:262::6:4:7187:6652:1498:6646:1:28:753:::|h[Macabre Sheet Music]|h|r", -- [522]
-			"<20:40:18><DEBUG>	 Restoring entry: default 1", -- [523]
-			"<20:40:18><DEBUG>	 GetButtons default", -- [524]
-			"<20:40:18><DEBUG>	 Restoring entry: default 1", -- [525]
-			"<20:40:18><DEBUG>	 GetButtons default", -- [526]
-			"<20:40:18><Comm>	 ^1^SlootAck^T^N1^N70^N2^N226.0625^N3^T^Sresponse^T^t^Sdiff^T^N1^N0^N2^N0^N3^N6^N4^N6^t^Sgear1^T^N1^S183027::::::::60:70::6:4:7187:6652:1498:6646^N2^S178827::173128::::::60:70::35:6:7214:6652:1501:5884:6646:6935^N3^S178386::::::::60:70::14:3:6625:1492:6646:1:28:807^N4^S178386::::::::60:70::14:3:6625:1492:6646:1:28:807^t^Sgear2^T^N3^S175921::::::::60:70::14:3:6625:1492:6646:1:28:807^N4^S175921::::::::60:70::14:3:6625:1492:6646:1:28:807^t^t^t^^ RAID Creo-Kazzak", -- [527]
-			"<20:40:18><Comm>	 ^1^SlootAck^T^N1^N102^N2^N225.9375^N3^T^Sresponse^T^N1^B^t^Sdiff^T^N1^N-9^N2^N0^N3^N32^N4^N32^t^Sgear1^T^N1^S172315::::::::60:102::65:5:7107:6649:6648:6758:1532^N2^S183039::173130::::::60:102::6:5:7187:6652:1498:6646:6935:1:28:753^N3^S184842::::::::60:102::27:4:6652:1472:5891:6646^N4^S184842::::::::60:102::27:4:6652:1472:5891:6646^t^Sgear2^T^N3^S178386::::::::60:102::14:3:6625:1492:6646:1:28:807^N4^S178386::::::::60:102::14:3:6625:1492:6646:1:28:807^t^t^t^^ RAID Nited-Kazzak", -- [528]
-			"<20:40:18><Comm>	 ^1^SlootAck^T^N1^N72^N2^N226.625^N3^T^Sresponse^T^t^Sdiff^T^N1^N0^N2^N0^N3^N0^N4^N0^t^Sgear1^T^N1^S183027::::::::60:72::6:4:7187:6652:1498:6646:1:28:753^N2^S183040::173128::::::60:72::6:5:7187:6652:1498:6646:6935:1:28:753^N3^S184027::::::::60:72::85:4:7187:6652:1498:6646:1:28:753^N4^S184027::::::::60:72::85:4:7187:6652:1498:6646:1:28:753^t^Sgear2^T^N3^S184016::::::::60:72::6:4:7187:6652:1498:6646^N4^S184016::::::::60:72::6:4:7187:6652:1498:6646^t^t^t^^ RAID Sacraa-Kazzak", -- [529]
-			"<20:40:18><Comm>	 ^1^SlootAck^T^N1^N105^N2^N227.875^N3^T^Sresponse^T^N1^B^t^Sdiff^T^N1^N0^N2^N0^N3^N0^N4^N0^t^Sgear1^T^N1^S178361::::::::60:105::14:3:6623:1498:6646:1:28:807^N2^S183040::::::::60:105::6:5:7187:6652:7194:1498:6646:1:28:753^N3^S178708::::::::60:105::35:6:7214:6652:1501:5884:6646:6917^N4^S178708::::::::60:105::35:6:7214:6652:1501:5884:6646:6917^t^Sgear2^T^N3^S178386::::::::60:105::14:3:6623:1498:6646:1:28:807^N4^S178386::::::::60:105::14:3:6623:1498:6646:1:28:807^t^t^t^^ RAID Arookie-Kazzak", -- [530]
-			"<20:40:18><Comm>	 ^1^SlootAck^T^N1^N262^N2^N229.1875^N3^T^Sresponse^T^N1^B^t^Sdiff^T^N1^N0^N2^N0^N3^N-7^N4^N-7^t^Sgear1^T^N1^S182990:6207:::::::60:262::6:4:7187:6652:1498:6646:1:28:753^N2^S175922::173128::::::60:262::14:4:6621:1498:6646:6935:1:28:807^N3^S184030::::::::60:262::85:4:7187:6652:1498:6646:1:28:753^N4^S184030::::::::60:262::85:4:7187:6652:1498:6646:1:28:753^t^Sgear2^T^N3^S184028::::::::60:262::85:4:7187:6652:1498:6646^N4^S184028::::::::60:262::85:4:7187:6652:1498:6646^t^t^t^^ RAID Rentaki-Kazzak", -- [531]
-			"<20:40:18><Comm>	 ^1^SlootAck^T^N1^N256^N2^N227.875^N3^T^Sresponse^T^N1^B^t^Sdiff^T^N1^N0^N2^N0^N3^N0^N4^N0^t^Sgear1^T^N1^S182979::::::::60:256::6:4:7187:42:1498:6646^N2^S183040::::::::60:256::6:5:7187:6652:7193:1498:6646:1:28:753^N3^S178386::::::::60:256::14:3:6623:1498:6646:1:28:807^N4^S178386::::::::60:256::14:3:6623:1498:6646:1:28:807^t^Sgear2^T^N3^S175921::::::::60:256::14:3:6623:1498:6646:1:28:807^N4^S175921::::::::60:256::14:3:6623:1498:6646:1:28:807^t^t^t^^ RAID Vapee-Kazzak", -- [532]
-			"<20:40:18><Comm>	 ^1^SlootAck^T^N1^N252^N2^N227.3125^N3^T^Sresponse^T^t^Sdiff^T^N1^N0^N2^N0^N3^N16^N4^N16^t^Sgear1^T^N1^S183027::::::::60:252::6:4:7187:6652:1498:6646:1:28:753^N2^S183039::173130::::::60:252::6:5:7187:6652:1498:6646:6935:1:28:753^N3^S184027::::::::60:252::85:4:7187:6652:1498:6646:1:28:753^N4^S184027::::::::60:252::85:4:7187:6652:1498:6646:1:28:753^t^Sgear2^T^N3^S179350::::::::60:252::16:5:7214:6652:1501:5868:6646:1:28:1279^N4^S179350::::::::60:252::16:5:7214:6652:1501:5868:6646:1:28:1279^t^t^t^^ RAID Tokzik-Kazzak", -- [533]
-			"<20:40:18><Comm>	 ^1^SlootAck^T^N1^N577^N2^N228.5625^N3^T^Sresponse^T^t^Sdiff^T^N1^N0^N2^N1^N3^N-7^N4^N-7^t^Sgear1^T^N1^S178361:6211:::::::60:577::14:3:6623:1498:6646:1:28:807^N2^S178927::::::::60:577::65:6:7043:6718:7194:6649:6648:1522^N3^S184030::::::::60:577::85:4:7187:6652:1498:6646^N4^S184030::::::::60:577::85:4:7187:6652:1498:6646^t^Sgear2^T^N3^S184027::::::::60:577::85:4:7187:6652:1498:6646:1:28:753^N4^S184027::::::::60:577::85:4:7187:6652:1498:6646:1:28:753^t^t^t^^ RAID Bevv-Kazzak", -- [534]
-			"<20:40:18><Comm>	 ^1^SlootAck^T^N1^N268^N2^N226.6875^N3^T^Sresponse^T^N1^B^t^Sdiff^T^N1^N-9^N2^N6^N3^N0^N4^N0^t^Sgear1^T^N1^S172315:6211:::::::60:268::63:5:7076:6650:6647:6758:1532^N2^S178387::173127::::::60:268::14:4:6620:1492:6646:6935:1:28:807^N3^S184026::::::::60:268::6:4:7187:6652:1498:6646:1:28:753^N4^S184026::::::::60:268::6:4:7187:6652:1498:6646:1:28:753^t^Sgear2^T^N3^S178861::::::::60:268::35:5:7214:42:1501:5884:6646^N4^S178861::::::::60:268::35:5:7214:42:1501:5884:6646^t^t^t^^ RAID Misêry-Kazzak", -- [535]
-			"<20:40:18><Comm>	 ^1^SlootAck^T^N1^N254^N2^N229.1875^N3^T^Sresponse^T^N1^B^t^Sdiff^T^N1^N0^N2^N0^N3^N0^N4^N0^t^Sgear1^T^N1^S182990:6211:::::::60:254::6:4:7187:6652:1498:6646:1:28:753^N2^S183040::173127::::::60:254::6:5:7187:6652:6935:1498:6646^N3^S175921::::::::60:254::14:3:6623:1498:6646:1:28:807^N4^S175921::::::::60:254::14:3:6623:1498:6646:1:28:807^t^Sgear2^T^N3^S184027::::::::60:254::85:4:7187:6652:1498:6646:1:28:753^N4^S184027::::::::60:254::85:4:7187:6652:1498:6646:1:28:753^t^t^t^^ RAID Adrenalynz-Kazzak", -- [536]
-			"<20:40:18><Comm>	 ^1^SlootAck^T^N1^N65^N2^N227.3125^N3^T^Sresponse^T^t^Sdiff^T^N1^N-9^N2^N0^N3^N6^N4^N6^t^Sgear1^T^N1^S171413:6207:::::::60:65::64:5:7059:6649:6648:6758:1532^N2^S183040::::::::60:65::6:5:7187:6652:7194:1498:6646:1:28:753^N3^S184028::::::::60:65::84:4:7188:6652:1485:6646:1:28:752^N4^S184028::::::::60:65::84:4:7188:6652:1485:6646:1:28:752^t^Sgear2^T^N3^S178386::::::::60:65::14:3:6623:1498:6646:1:28:807^N4^S178386::::::::60:65::14:3:6623:1498:6646:1:28:807^t^t^t^^ RAID Kvaernp-Kazzak", -- [537]
-			"<20:40:18><Comm>	 ^1^SlootAck^T^N1^N254^N2^N227.9375^N3^T^Sresponse^T^N1^B^t^Sdiff^T^N1^N0^N2^N0^N3^N0^N4^N0^t^Sgear1^T^N1^S183006:6211:::::::60:254::6:4:7187:6652:1498:6646:1:28:753^N2^S183039::173127::::::60:254::6:5:7187:6652:1498:6646:6935:1:28:753^N3^S180116::::::::60:254::35:5:7213:6652:1501:5884:6646^N4^S180116::::::::60:254::35:5:7213:6652:1501:5884:6646^t^Sgear2^T^N3^S184027::::::::60:254::85:4:7187:42:1498:6646:1:28:753^N4^S184027::::::::60:254::85:4:7187:42:1498:6646:1:28:753^t^t^t^^ RAID Ceases-Kazzak", -- [538]
-			"<20:40:18><Comm>	 ^1^SlootAck^T^N1^N72^N2^N227.4375^N3^T^Sresponse^T^t^Sdiff^T^N1^N0^N2^N0^N3^N0^N4^N0^t^Sgear1^T^N1^S182983::::::::60:72::6:4:7187:6652:1498:6646:1:28:753^N2^S178827::173128::::::60:72::35:6:7214:6652:1501:5884:6646:6935^N3^S178386::::::::60:72::14:3:6623:1498:6646:1:28:807^N4^S178386::::::::60:72::14:3:6623:1498:6646:1:28:807^t^Sgear2^T^N3^S184027::::::::60:72::85:4:7187:6652:1498:6646^N4^S184027::::::::60:72::85:4:7187:6652:1498:6646^t^t^t^^ RAID Riworra-Kazzak", -- [539]
-			"<20:40:18><Comm>	 ^1^SlootAck^T^N1^N102^N2^N226.1875^N3^T^Sresponse^T^t^Sdiff^T^N1^N-9^N2^N0^N3^N6^N4^N6^t^Sgear1^T^N1^S172315::::::::60:102::66:5:7107:6758:6649:6648:1532^N2^S183040::::::::60:102::6:5:7187:6652:7194:1498:6646:1:28:753^N3^S175921::::::::60:102::14:3:6625:1492:6646:1:28:807^N4^S175921::::::::60:102::14:3:6625:1492:6646:1:28:807^t^Sgear2^T^N3^S178386::::::::60:102::14:3:6623:1498:6646:1:28:807^N4^S178386::::::::60:102::14:3:6623:1498:6646:1:28:807^t^t^t^^ RAID Tradushuffle-Kazzak", -- [540]
-			"<20:40:18><Comm>	 ^1^SlootAck^T^N1^N102^N2^N226.375^N3^T^Sresponse^T^N1^B^t^Sdiff^T^N1^N-9^N2^N0^N3^N32^N4^N32^t^Sgear1^T^N1^S172315::::::::60:102::63:5:7107:6648:6650:6758:1532^N2^S183039::173130::::::60:102::6:5:7187:6652:1498:6646:6935:1:28:753^N3^S184028::::::::60:102::84:4:7188:6652:1485:6646:1:28:752^N4^S184028::::::::60:102::84:4:7188:6652:1485:6646:1:28:752^t^Sgear2^T^N3^S184842::::::::60:102::27:4:6652:1472:5891:6646^N4^S184842::::::::60:102::27:4:6652:1472:5891:6646^t^t^t^^ RAID Macuc-Kazzak", -- [541]
-			"<20:40:18><Comm>	 ^1^SlootAck^T^N1^N265^N2^N229.1875^N3^T^Sresponse^T^N1^B^t^Sdiff^T^N1^N0^N2^N0^N3^N0^N4^N0^t^Sgear1^T^N1^S182979:6207:::::::60:265::6:4:7187:6652:1498:6646^N2^S183040::173128::::::60:265::6:5:7187:6652:1498:6646:6935:1:28:753^N3^S175921::::::::60:265::14:3:6623:1498:6646:1:28:807^N4^S175921::::::::60:265::14:3:6623:1498:6646:1:28:807^t^Sgear2^T^N3^S184028::::::::60:265::85:4:7187:6652:1498:6646^N4^S184028::::::::60:265::85:4:7187:6652:1498:6646^t^t^t^^ RAID Neveh-Kazzak", -- [542]
-			"<20:40:18><Comm>	 ^1^SlootAck^T^N1^N63^N2^N229.1875^N3^T^Sresponse^T^N1^B^t^Sdiff^T^N1^N0^N2^N0^N3^N0^N4^N0^t^Sgear1^T^N1^S175894::::::::60:63::14:3:6623:1498:6646:1:28:807^N2^S183040::173128::::::60:63::6:5:7187:6652:1498:6646:6935:1:28:753^N3^S184028::::::::60:63::85:4:7187:6652:1498:6646^N4^S184028::::::::60:63::85:4:7187:6652:1498:6646^t^Sgear2^T^N3^S175921::::::::60:63::14:3:6623:1498:6646:1:28:807^N4^S175921::::::::60:63::14:3:6623:1498:6646:1:28:807^t^t^t^^ RAID Skonheden-Kazzak", -- [543]
-			"<20:40:18><Comm>	 ^1^SlootAck^T^N1^N254^N2^N227.875^N3^T^Sresponse^T^N1^B^t^Sdiff^T^N1^N0^N2^N0^N3^N0^N4^N0^t^Sgear1^T^N1^S183006:6211:::::::60:254::6:4:7187:6652:1498:6646^N2^S183039::173127::::::60:254::6:5:7187:6652:1498:6646:6935:1:28:753^N3^S180116::::::::60:254::35:5:7214:6652:1501:5884:6646^N4^S180116::::::::60:254::35:5:7214:6652:1501:5884:6646^t^Sgear2^T^N3^S184027::::::::60:254::85:4:7187:6652:1498:6646^N4^S184027::::::::60:254::85:4:7187:6652:1498:6646^t^t^t^^ RAID Sanshot-Kazzak", -- [544]
-			"<20:40:18><Comm>	 ^1^SlootAck^T^N1^N264^N2^N229.1875^N3^T^Sresponse^T^N1^B^t^Sdiff^T^N1^N0^N2^N0^N3^N-7^N4^N-7^t^Sgear1^T^N1^S183006::::::::60:264::6:4:7187:6652:1498:6646^N2^S183039::173127::::::60:264::6:5:7187:6652:1498:6646:6935:1:28:753^N3^S184028::::::::60:264::85:4:7187:6652:1498:6646^N4^S184028::::::::60:264::85:4:7187:6652:1498:6646^t^Sgear2^T^N3^S184029::::::::60:264::85:4:7187:6652:1498:6646:1:28:753^N4^S184029::::::::60:264::85:4:7187:6652:1498:6646:1:28:753^t^t^t^^ RAID Seksixeny-Kazzak", -- [545]
-			"<20:40:18><Comm>	 ^1^SlootAck^T^N1^N259^N2^N225.625^N3^T^Sresponse^T^N1^B^t^Sdiff^T^N1^N0^N2^N0^N3^N0^N4^N0^t^Sgear1^T^N1^S183010:6211:::::::60:259::6:4:7187:43:1498:6646:1:28:753^N2^S178387::173128::::::60:259::14:4:6935:6621:1498:6646:1:28:807^N3^S184026::::::::60:259::6:4:7187:6652:1498:6646:1:28:753^N4^S184026::::::::60:259::6:4:7187:6652:1498:6646:1:28:753^t^Sgear2^T^N3^S184030::::::::60:259::85:4:7187:6652:1498:6646^N4^S184030::::::::60:259::85:4:7187:6652:1498:6646^t^t^t^^ RAID Kessrogue-Kazzak", -- [546]
-			"<20:40:18><Comm>	 ^1^SlootAck^T^N1^N254^N2^N221.375^N3^T^Sresponse^T^N1^B^t^Sdiff^T^N1^N6^N2^N0^N3^N32^N4^N32^t^Sgear1^T^N1^S179345:6211:::::::60:254::35:5:7209:6652:1501:5878:6646^N2^S183039::173127::::::60:254::6:5:7187:6652:1498:6646:6935:1:28:753^N3^S178769::::::::60:254::35:5:7213:6652:1501:5884:6646^N4^S178769::::::::60:254::35:5:7213:6652:1501:5884:6646^t^Sgear2^T^N3^S181457::::::::60:254::26:4:6652:1472:5891:6646:1:28:2060^N4^S181457::::::::60:254::26:4:6652:1472:5891:6646:1:28:2060^t^t^t^^ RAID Memescoper-Kazzak", -- [547]
-			"<20:40:18><Comm>	 ^1^SlootAck^T^N1^N65^N2^N227.5^N3^T^Sresponse^T^t^Sdiff^T^N1^N0^N2^N0^N3^N0^N4^N0^t^Sgear1^T^N1^S183027::::::::60:65::6:4:7187:6652:1498:6646^N2^S178827::173128::::::60:65::35:6:7213:41:6935:1501:5884:6646^N3^S178386::::::::60:65::40:4:41:6623:1498:6646^N4^S178386::::::::60:65::40:4:41:6623:1498:6646^t^Sgear2^T^N3^S184029::::::::60:65::85:4:7187:6652:1498:6646:1:28:753^N4^S184029::::::::60:65::85:4:7187:6652:1498:6646:1:28:753^t^t^t^^ RAID Tankzorx-Kazzak", -- [548]
-			"<20:40:18><Comm>	 ^1^SlootAck^T^N1^N250^N2^N227.4375^N3^T^Sresponse^T^t^Sdiff^T^N1^N0^N2^N0^N3^N0^N4^N0^t^Sgear1^T^N1^S175893::::::::60:250::14:3:6623:1498:6646:1:28:807^N2^S175922::173129::::::60:250::14:4:6621:1498:6646:6935:1:28:807^N3^S179331::::::::60:250::35:5:7214:6652:1501:5884:6646^N4^S179331::::::::60:250::35:5:7214:6652:1501:5884:6646^t^Sgear2^T^N3^S184027::::::::60:250::85:4:7187:6652:1498:6646:1:28:753^N4^S184027::::::::60:250::85:4:7187:6652:1498:6646:1:28:753^t^t^t^^ RAID Unholydeathh-Kazzak", -- [549]
-			"<20:40:21><Comm>	 ^1^Sresponse^T^N1^N2^N2^T^Sresponse^SPASS^t^t^^ RAID Nited-Kazzak", -- [550]
-			"<20:40:21><Comm>	 ^1^Sresponse^T^N1^N3^N2^T^Sresponse^SPASS^t^t^^ RAID Nited-Kazzak", -- [551]
-			"<20:40:21><Comm>	 ^1^Sresponse^T^N1^N4^N2^T^Sresponse^SPASS^t^t^^ RAID Nited-Kazzak", -- [552]
-			"<20:40:22><Comm>	 ^1^Sresponse^T^N1^N1^N2^T^Sresponse^SPASS^t^t^^ RAID Riworra-Kazzak", -- [553]
-			"<20:40:23><Comm>	 ^1^Sresponse^T^N1^N2^N2^T^Sresponse^SPASS^t^t^^ RAID Ceases-Kazzak", -- [554]
-			"<20:40:23><Comm>	 ^1^Sresponse^T^N1^N1^N2^T^Sresponse^SPASS^t^t^^ RAID Tradushuffle-Kazzak", -- [555]
-			"<20:40:23><Comm>	 ^1^Sresponse^T^N1^N3^N2^T^Sresponse^N4^t^t^^ RAID Seksixeny-Kazzak", -- [556]
-			"<20:40:23><Comm>	 ^1^Sresponse^T^N1^N4^N2^T^Sresponse^N4^t^t^^ RAID Seksixeny-Kazzak", -- [557]
-			"<20:40:23><Comm>	 ^1^Sresponse^T^N1^N2^N2^T^Sresponse^SPASS^t^t^^ RAID Arookie-Kazzak", -- [558]
-			"<20:40:23><Comm>	 ^1^Sresponse^T^N1^N2^N2^T^Sresponse^SPASS^t^t^^ RAID Tradushuffle-Kazzak", -- [559]
-			"<20:40:23><Comm>	 ^1^Sresponse^T^N1^N3^N2^T^Sresponse^SPASS^t^t^^ RAID Ceases-Kazzak", -- [560]
-			"<20:40:23><Comm>	 ^1^Sresponse^T^N1^N4^N2^T^Sresponse^SPASS^t^t^^ RAID Ceases-Kazzak", -- [561]
-			"<20:40:23><Comm>	 ^1^Sresponse^T^N1^N2^N2^T^Sresponse^SPASS^t^t^^ RAID Neveh-Kazzak", -- [562]
-			"<20:40:23><Comm>	 ^1^Sresponse^T^N1^N3^N2^T^Sresponse^SPASS^t^t^^ RAID Tradushuffle-Kazzak", -- [563]
-			"<20:40:23><Comm>	 ^1^Sresponse^T^N1^N4^N2^T^Sresponse^SPASS^t^t^^ RAID Tradushuffle-Kazzak", -- [564]
-			"<20:40:23><Comm>	 ^1^Sresponse^T^N1^N3^N2^T^Sresponse^SPASS^t^t^^ RAID Arookie-Kazzak", -- [565]
-			"<20:40:23><Comm>	 ^1^Sresponse^T^N1^N4^N2^T^Sresponse^SPASS^t^t^^ RAID Arookie-Kazzak", -- [566]
-			"<20:40:23><Comm>	 ^1^Sresponse^T^N1^N3^N2^T^Sresponse^SPASS^t^t^^ RAID Neveh-Kazzak", -- [567]
-			"<20:40:23><Comm>	 ^1^Sresponse^T^N1^N4^N2^T^Sresponse^SPASS^t^t^^ RAID Neveh-Kazzak", -- [568]
-			"<20:40:24><Comm>	 ^1^Sresponse^T^N1^N2^N2^T^Sresponse^SPASS^t^t^^ RAID Adrenalynz-Kazzak", -- [569]
-			"<20:40:24><Comm>	 ^1^Sresponse^T^N1^N3^N2^T^Sresponse^SPASS^t^t^^ RAID Adrenalynz-Kazzak", -- [570]
-			"<20:40:24><Comm>	 ^1^Sresponse^T^N1^N4^N2^T^Sresponse^SPASS^t^t^^ RAID Adrenalynz-Kazzak", -- [571]
-			"<20:40:25><Comm>	 ^1^Sresponse^T^N1^N3^N2^T^Sresponse^SPASS^t^t^^ RAID Tankzorx-Kazzak", -- [572]
-			"<20:40:25><Comm>	 ^1^Sresponse^T^N1^N4^N2^T^Sresponse^SPASS^t^t^^ RAID Tankzorx-Kazzak", -- [573]
-			"<20:40:25><Comm>	 ^1^Sresponse^T^N1^N1^N2^T^Sresponse^SPASS^t^t^^ RAID Unholydeathh-Kazzak", -- [574]
-			"<20:40:25><Comm>	 ^1^Sresponse^T^N1^N2^N2^T^Sresponse^SPASS^t^t^^ RAID Vapee-Kazzak", -- [575]
-			"<20:40:25><Comm>	 ^1^Sresponse^T^N1^N2^N2^T^Sresponse^SPASS^t^t^^ RAID Seksixeny-Kazzak", -- [576]
-			"<20:40:25><Comm>	 ^1^Sresponse^T^N1^N1^N2^T^Sresponse^N5^t^t^^ RAID Creo-Kazzak", -- [577]
-			"<20:40:26><Comm>	 ^1^Sresponse^T^N1^N2^N2^T^Sresponse^SPASS^t^t^^ RAID Unholydeathh-Kazzak", -- [578]
-			"<20:40:26><Comm>	 ^1^Sresponse^T^N1^N3^N2^T^Sresponse^SPASS^t^t^^ RAID Vapee-Kazzak", -- [579]
-			"<20:40:26><Comm>	 ^1^Sresponse^T^N1^N4^N2^T^Sresponse^SPASS^t^t^^ RAID Vapee-Kazzak", -- [580]
-			"<20:40:26><DEBUG>	 LootFrame:Response PASS Response: Pass", -- [581]
-			"<20:40:26><DEBUG>	 SendResponse group 2 PASS nil nil nil nil nil nil nil nil nil nil", -- [582]
-			"<20:40:26><DEBUG>	 Trashing entry: 1 |cffa335ee|Hitem:183039::::::::60:262::6:5:7187:6652:7193:1498:6646:1:28:753:::|h[Noble's Birthstone Pendant]|h|r", -- [583]
-			"<20:40:26><Comm>	 ^1^Sresponse^T^N1^N2^N2^T^Sresponse^SPASS^t^t^^ RAID Rentaki-Kazzak", -- [584]
-			"<20:40:26><Comm>	 ^1^Sresponse^T^N1^N3^N2^T^Sresponse^SPASS^t^t^^ RAID Unholydeathh-Kazzak", -- [585]
-			"<20:40:26><Comm>	 ^1^Sresponse^T^N1^N4^N2^T^Sresponse^SPASS^t^t^^ RAID Unholydeathh-Kazzak", -- [586]
-			"<20:40:26><DEBUG>	 LootFrame:Response PASS Response: Pass", -- [587]
-			"<20:40:26><DEBUG>	 SendResponse group 3 PASS nil nil nil nil nil nil nil nil nil nil", -- [588]
-			"<20:40:26><DEBUG>	 SendResponse group 4 PASS nil nil nil nil nil nil nil nil nil nil", -- [589]
-			"<20:40:26><DEBUG>	 Trashing entry: 1 |cffa335ee|Hitem:184024::::::::60:262::6:4:7187:6652:1498:6646:1:28:753:::|h[Macabre Sheet Music]|h|r", -- [590]
-			"<20:40:26><Comm>	 ^1^Sresponse^T^N1^N3^N2^T^Sresponse^SPASS^t^t^^ RAID Rentaki-Kazzak", -- [591]
-			"<20:40:26><Comm>	 ^1^Sresponse^T^N1^N4^N2^T^Sresponse^SPASS^t^t^^ RAID Rentaki-Kazzak", -- [592]
-			"<20:40:26><Comm>	 ^1^Sresponse^T^N1^N2^N2^T^Sresponse^SPASS^t^t^^ RAID Skonheden-Kazzak", -- [593]
-			"<20:40:27><Comm>	 ^1^Sresponse^T^N1^N2^N2^T^Sresponse^SPASS^t^t^^ RAID Kessrogue-Kazzak", -- [594]
-			"<20:40:27><Comm>	 ^1^Sresponse^T^N1^N1^N2^T^Sresponse^SPASS^t^t^^ RAID Kvaernp-Kazzak", -- [595]
-			"<20:40:27><Comm>	 ^1^Sresponse^T^N1^N3^N2^T^Sresponse^SPASS^t^t^^ RAID Kessrogue-Kazzak", -- [596]
-			"<20:40:27><Comm>	 ^1^Sresponse^T^N1^N4^N2^T^Sresponse^SPASS^t^t^^ RAID Kessrogue-Kazzak", -- [597]
-			"<20:40:27><Comm>	 ^1^Sresponse^T^N1^N1^N2^T^Sresponse^SPASS^t^t^^ RAID Tokzik-Kazzak", -- [598]
-			"<20:40:28><Comm>	 ^1^Sresponse^T^N1^N1^N2^T^Snote^Sarms^Sresponse^N4^t^t^^ RAID Sacraa-Kazzak", -- [599]
-			"<20:40:28><Comm>	 ^1^Sresponse^T^N1^N2^N2^T^Sresponse^SPASS^t^t^^ RAID Tokzik-Kazzak", -- [600]
-			"<20:40:29><Comm>	 ^1^Sresponse^T^N1^N2^N2^T^Sresponse^SPASS^t^t^^ RAID Creo-Kazzak", -- [601]
-			"<20:40:29><Comm>	 ^1^Sresponse^T^N1^N3^N2^T^Sresponse^N2^t^t^^ RAID Memescoper-Kazzak", -- [602]
-			"<20:40:29><Comm>	 ^1^Sresponse^T^N1^N4^N2^T^Sresponse^N2^t^t^^ RAID Memescoper-Kazzak", -- [603]
-			"<20:40:29><Comm>	 ^1^Sresponse^T^N1^N3^N2^T^Sresponse^SPASS^t^t^^ RAID Tokzik-Kazzak", -- [604]
-			"<20:40:29><Comm>	 ^1^Sresponse^T^N1^N4^N2^T^Sresponse^SPASS^t^t^^ RAID Tokzik-Kazzak", -- [605]
-			"<20:40:30><Comm>	 ^1^Sresponse^T^N1^N2^N2^T^Sresponse^SPASS^t^t^^ RAID Kvaernp-Kazzak", -- [606]
-			"<20:40:31><Comm>	 ^1^Sresponse^T^N1^N2^N2^T^Sresponse^SPASS^t^t^^ RAID Memescoper-Kazzak", -- [607]
-			"<20:40:31><Comm>	 ^1^Soffline_timer^T^t^^ RAID Tankzorx-Kazzak", -- [608]
-			"<20:40:31><Comm>	 ^1^Sresponse^T^N1^N1^N2^T^Sresponse^SPASS^t^t^^ RAID Bevv-Kazzak", -- [609]
-			"<20:40:32><Comm>	 ^1^Sresponse^T^N1^N3^N2^T^Sresponse^SPASS^t^t^^ RAID Misêry-Kazzak", -- [610]
-			"<20:40:32><Comm>	 ^1^Sresponse^T^N1^N4^N2^T^Sresponse^SPASS^t^t^^ RAID Misêry-Kazzak", -- [611]
-			"<20:40:32><Comm>	 ^1^Sresponse^T^N1^N2^N2^T^Sresponse^SPASS^t^t^^ RAID Bevv-Kazzak", -- [612]
-			"<20:40:32><Comm>	 ^1^Sresponse^T^N1^N2^N2^T^Sresponse^SPASS^t^t^^ RAID Misêry-Kazzak", -- [613]
-			"<20:40:32><Comm>	 ^1^Sresponse^T^N1^N2^N2^T^Sresponse^SPASS^t^t^^ RAID Riworra-Kazzak", -- [614]
-			"<20:40:32><Comm>	 ^1^Sresponse^T^N1^N3^N2^T^Sresponse^SPASS^t^t^^ RAID Bevv-Kazzak", -- [615]
-			"<20:40:32><Comm>	 ^1^Sresponse^T^N1^N4^N2^T^Sresponse^SPASS^t^t^^ RAID Bevv-Kazzak", -- [616]
-			"<20:40:32><Comm>	 ^1^Sresponse^T^N1^N3^N2^T^Sresponse^SPASS^t^t^^ RAID Kvaernp-Kazzak", -- [617]
-			"<20:40:32><Comm>	 ^1^Sresponse^T^N1^N4^N2^T^Sresponse^SPASS^t^t^^ RAID Kvaernp-Kazzak", -- [618]
-			"<20:40:32><Comm>	 ^1^Sresponse^T^N1^N3^N2^T^Sresponse^SPASS^t^t^^ RAID Creo-Kazzak", -- [619]
-			"<20:40:32><Comm>	 ^1^Sresponse^T^N1^N4^N2^T^Sresponse^SPASS^t^t^^ RAID Creo-Kazzak", -- [620]
-			"<20:40:32><Comm>	 ^1^Sresponse^T^N1^N2^N2^T^Sresponse^SPASS^t^t^^ RAID Sanshot-Kazzak", -- [621]
-			"<20:40:33><Comm>	 ^1^Sresponse^T^N1^N2^N2^T^Sresponse^SPASS^t^t^^ RAID Tankzorx-Kazzak", -- [622]
-			"<20:40:33><Comm>	 ^1^Sresponse^T^N1^N3^N2^T^Sresponse^SPASS^t^t^^ RAID Sanshot-Kazzak", -- [623]
-			"<20:40:33><Comm>	 ^1^Sresponse^T^N1^N4^N2^T^Sresponse^SPASS^t^t^^ RAID Sanshot-Kazzak", -- [624]
-			"<20:40:35><Comm>	 ^1^Sresponse^T^N1^N1^N2^T^Sresponse^SPASS^t^t^^ RAID Tankzorx-Kazzak", -- [625]
-			"<20:40:36><Comm>	 ^1^Sresponse^T^N1^N3^N2^T^Sresponse^SPASS^t^t^^ RAID Skonheden-Kazzak", -- [626]
-			"<20:40:36><Comm>	 ^1^Sresponse^T^N1^N4^N2^T^Sresponse^SPASS^t^t^^ RAID Skonheden-Kazzak", -- [627]
-			"<20:40:37><Comm>	 ^1^Sresponse^T^N1^N2^N2^T^Snote^Sarms^Sresponse^N4^t^t^^ RAID Sacraa-Kazzak", -- [628]
-			"<20:40:38><Comm>	 ^1^Sresponse^T^N1^N3^N2^T^Sresponse^SPASS^t^t^^ RAID Riworra-Kazzak", -- [629]
-			"<20:40:38><Comm>	 ^1^Sresponse^T^N1^N4^N2^T^Sresponse^SPASS^t^t^^ RAID Riworra-Kazzak", -- [630]
-			"<20:40:38><Comm>	 ^1^Sresponse^T^N1^N3^N2^T^Sresponse^SPASS^t^t^^ RAID Sacraa-Kazzak", -- [631]
-			"<20:40:38><Comm>	 ^1^Sresponse^T^N1^N4^N2^T^Sresponse^SPASS^t^t^^ RAID Sacraa-Kazzak", -- [632]
-			"<20:40:39><Comm>	 ^1^Sresponse^T^N1^N2^N2^T^Sresponse^SPASS^t^t^^ RAID Macuc-Kazzak", -- [633]
-			"<20:40:40><Comm>	 ^1^Sresponse^T^N1^N3^N2^T^Sresponse^SPASS^t^t^^ RAID Macuc-Kazzak", -- [634]
-			"<20:40:40><Comm>	 ^1^Sresponse^T^N1^N4^N2^T^Sresponse^SPASS^t^t^^ RAID Macuc-Kazzak", -- [635]
-			"<20:40:47><Comm>	 ^1^Shistory^T^N1^SSacraa-Kazzak^N2^T^SmapID^N2296^Sdate^S10/03/21^Sclass^SWARRIOR^SgroupSize^N20^Svotes^N0^Stime^S20:40:49^SitemReplaced1^S|cffa335ee|Hitem:183027::::::::60:65::6:4:7187:6652:1498:6646:1:28:753:::|h[Errant~`Crusader's~`Greaves]|h|r^Sinstance^SCastle~`Nathria-Mythic^Sowner^SKvaernp-Kazzak^StypeCode^Sdefault^Sresponse^SOffspec^Sid^S1615401649-25^SdifficultyID^N16^SlootWon^S|cffa335ee|Hitem:182983::::::::60:65::6:4:7187:6652:1498:6646:1:28:753:::|h[Stoneguard~`Attendant's~`Boots]|h|r^Snote^Sarms^SisAwardReason^b^SresponseID^N4^Sboss^SThe~`Council~`of~`Blood^Scolor^T^N1^N0.7^N2^N0.43^N3^N0.17^N4^N1^t^t^t^^ RAID Tankzorx-Kazzak", -- [636]
-			"<20:40:47><Comm>	 ^1^Sawarded^T^N1^N1^N2^SSacraa-Kazzak^N3^SKvaernp-Kazzak^t^^ RAID Tankzorx-Kazzak", -- [637]
-			"<20:40:51><Comm>	 ^1^Shistory^T^N1^SSacraa-Kazzak^N2^T^SmapID^N2296^Sdate^S10/03/21^Sclass^SWARRIOR^SgroupSize^N20^Svotes^N0^Stime^S20:40:52^SitemReplaced1^S|cffa335ee|Hitem:183040::173128::::::60:65::6:5:7187:6652:1498:6646:6935:1:28:753:::|h[Charm~`of~`Eternal~`Winter]|h|r^Sinstance^SCastle~`Nathria-Mythic^Sowner^SAdrenalynz-Kazzak^StypeCode^Sdefault^Sresponse^SOffspec^Sid^S1615401652-26^SdifficultyID^N16^SlootWon^S|cffa335ee|Hitem:183039::::::::60:65::6:5:7187:6652:7193:1498:6646:1:28:753:::|h[Noble's~`Birthstone~`Pendant]|h|r^Snote^Sarms^SisAwardReason^b^SresponseID^N4^Sboss^SThe~`Council~`of~`Blood^Scolor^T^N1^N0.7^N2^N0.43^N3^N0.17^N4^N1^t^t^t^^ RAID Tankzorx-Kazzak", -- [638]
-			"<20:40:51><Comm>	 ^1^Sawarded^T^N1^N2^N2^SSacraa-Kazzak^N3^SAdrenalynz-Kazzak^t^^ RAID Tankzorx-Kazzak", -- [639]
-			"<20:40:55><Comm>	 ^1^Strade_WrongWinner^T^N1^S|cffa335ee|Hitem:182983::::::::60:65::6:4:7187:6652:1498:6646:1:28:753:::|h[Stoneguard~`Attendant's~`Boots]|h|r^N2^STankzorx-Kazzak^N3^SKvaernp-Kazzak^N4^SSacraa-Kazzak^t^^ RAID Kvaernp-Kazzak", -- [640]
-			"<20:41:08><Comm>	 ^1^Shistory^T^N1^SMemescoper-Kazzak^N2^T^SmapID^N2296^Sdate^S10/03/21^Sclass^SHUNTER^SgroupSize^N20^Sboss^SThe~`Council~`of~`Blood^Stime^S20:41:09^SitemReplaced1^S|cffa335ee|Hitem:178769::::::::60:65::35:5:7213:6652:1501:5884:6646::::|h[Infinitely~`Divisible~`Ooze]|h|r^StypeCode^Sdefault^Sinstance^SCastle~`Nathria-Mythic^Sowner^SCreo-Kazzak^Sid^S1615401669-27^Sresponse^SNeed~`not~`BIS^SdifficultyID^N16^SlootWon^S|cffa335ee|Hitem:184024::::::::60:65::6:4:7187:6652:1498:6646:1:28:753:::|h[Macabre~`Sheet~`Music]|h|r^SisAwardReason^b^Scolor^T^N1^N0.54^N2^N1^N3^N0.12^N4^N1^t^SresponseID^N2^SitemReplaced2^S|cffa335ee|Hitem:181457::::::::60:65::26:4:6652:1472:5891:6646:1:28:2060:::|h[Wakener's~`Frond]|h|r^Svotes^N0^t^t^^ RAID Tankzorx-Kazzak", -- [641]
-			"<20:41:08><Comm>	 ^1^Sawarded^T^N1^N3^N2^SMemescoper-Kazzak^N3^SCreo-Kazzak^t^^ RAID Tankzorx-Kazzak", -- [642]
-			"<20:41:10><Comm>	 ^1^Shistory^T^N1^SSeksixeny-Kazzak^N2^T^SmapID^N2296^Sdate^S10/03/21^Sclass^SSHAMAN^SgroupSize^N20^Sboss^SThe~`Council~`of~`Blood^Stime^S20:41:12^SitemReplaced1^S|cffa335ee|Hitem:184028::::::::60:65::85:4:7187:6652:1498:6646::::|h[Cabalist's~`Hymnal]|h|r^StypeCode^Sdefault^Sinstance^SCastle~`Nathria-Mythic^Sowner^SRiworra-Kazzak^Sid^S1615401672-28^Sresponse^SOffspec^SdifficultyID^N16^SlootWon^S|cffa335ee|Hitem:184024::::::::60:65::6:4:7187:6652:1498:6646:1:28:753:::|h[Macabre~`Sheet~`Music]|h|r^SisAwardReason^b^Scolor^T^N1^N0.7^N2^N0.43^N3^N0.17^N4^N1^t^SresponseID^N4^SitemReplaced2^S|cffa335ee|Hitem:184029::::::::60:65::85:4:7187:6652:1498:6646:1:28:753:::|h[Manabound~`Mirror]|h|r^Svotes^N0^t^t^^ RAID Tankzorx-Kazzak", -- [643]
-			"<20:41:10><Comm>	 ^1^Sawarded^T^N1^N4^N2^SSeksixeny-Kazzak^N3^SRiworra-Kazzak^t^^ RAID Tankzorx-Kazzak", -- [644]
-			"<20:41:11><Comm>	 ^1^Ssession_end^T^t^^ RAID Tankzorx-Kazzak", -- [645]
-			"<20:41:15><Comm>	 ^1^Strade_complete^T^N1^S|cffa335ee|Hitem:184024::::::::60:72::6:4:7187:6652:1498:6646:1:28:753:::|h[Macabre~`Sheet~`Music]|h|r^N2^SSeksixeny-Kazzak^N3^SRiworra-Kazzak^t^^ RAID Riworra-Kazzak", -- [646]
-			"<20:41:17><Comm>	 ^1^Strade_complete^T^N1^S|cffa335ee|Hitem:183039::::::::60:254::6:5:7187:6652:7193:1498:6646:1:28:753:::|h[Noble's~`Birthstone~`Pendant]|h|r^N2^SSacraa-Kazzak^N3^SAdrenalynz-Kazzak^t^^ RAID Adrenalynz-Kazzak", -- [647]
-			"<20:41:19><Comm>	 ^1^Strade_WrongWinner^T^N1^S|cffa335ee|Hitem:184024::::::::60:70::6:4:7187:6652:1498:6646:1:28:753:::|h[Macabre~`Sheet~`Music]|h|r^N2^SKessrogue-Kazzak^N3^SCreo-Kazzak^N4^SMemescoper-Kazzak^t^^ RAID Creo-Kazzak", -- [648]
-			"<20:42:16><DEBUG>	 Event: RAID_INSTANCE_WELCOME Castle Nathria (Mythic) 559063 1 0", -- [649]
-			"<20:42:17><DEBUG>	 Event: PLAYER_ENTERING_WORLD false false", -- [650]
-			"<20:42:19><DEBUG>	 GetML()", -- [651]
-			"<20:44:38><DEBUG>	 Event: ENCOUNTER_START 2399 Sludgefist 16 20", -- [652]
-			"<20:44:38><INFO>	 UpdatePlayersData()", -- [653]
-			"<20:49:23><DEBUG>	 Event: ENCOUNTER_END 2399 Sludgefist 16 20 0", -- [654]
-			"<20:51:15><DEBUG>	 Event: ENCOUNTER_START 2399 Sludgefist 16 20", -- [655]
-			"<20:51:15><INFO>	 UpdatePlayersData()", -- [656]
-			"<20:52:06><Comm>	 ^1^Sv^T^N1^S3.1.4^t^^ GUILD Magearñ-Kazzak", -- [657]
-			"<20:52:06><Comm>	 ^1^Sr^T^N1^S3.1.3^N3^T^t^t^^ GUILD Kessrogue-Kazzak", -- [658]
-			"<20:53:55><DEBUG>	 Event: ENCOUNTER_END 2399 Sludgefist 16 20 0", -- [659]
-			"<20:55:31><DEBUG>	 Event: ENCOUNTER_START 2399 Sludgefist 16 20", -- [660]
-			"<20:55:31><INFO>	 UpdatePlayersData()", -- [661]
-			"<21:01:03><DEBUG>	 Event: ENCOUNTER_END 2399 Sludgefist 16 20 0", -- [662]
-			"<21:03:04><DEBUG>	 Event: ENCOUNTER_START 2399 Sludgefist 16 20", -- [663]
-			"<21:03:04><INFO>	 UpdatePlayersData()", -- [664]
-			"<21:08:14><DEBUG>	 Event: ENCOUNTER_END 2399 Sludgefist 16 20 1", -- [665]
-			"<21:08:16><Comm>	 ^1^Sl^T^N1^S164407^t^^ RAID Tokzik-Kazzak", -- [666]
-			"<21:08:16><Comm>	 ^1^Sl^T^N1^S164407^t^^ RAID Tokzik-Kazzak", -- [667]
-			"<21:08:16><Comm>	 ^1^Sl^T^N1^S164407^t^^ RAID Misêry-Kazzak", -- [668]
-			"<21:08:16><Comm>	 ^1^Sl^T^N1^S164407^t^^ RAID Misêry-Kazzak", -- [669]
-			"<21:08:17><Comm>	 ^1^Sl^T^N1^S164407^t^^ RAID Bevv-Kazzak", -- [670]
-			"<21:08:17><Comm>	 ^1^Sl^T^N1^S164407^t^^ RAID Bevv-Kazzak", -- [671]
-			"<21:08:17><Comm>	 ^1^Sl^T^N1^S164407^t^^ RAID Riworra-Kazzak", -- [672]
-			"<21:08:17><Comm>	 ^1^Sl^T^N1^S164407^t^^ RAID Riworra-Kazzak", -- [673]
-			"<21:08:17><DEBUG>	 Event: LOOT_READY true", -- [674]
-			"<21:08:17><DEBUG>	 Adding to self.lootSlotInfo 1 nil 1 0 Creature-0-4253-2296-4475-164407-000049259E 748350", -- [675]
-			"<21:08:17><DEBUG>	 Event: ENCOUNTER_LOOT_RECEIVED 2399 184286 |cff0070dd|Hitem:184286::::::::60:262:::::::|h[Extinguished Soul Anima]|h|r 3 Rentaki SHAMAN", -- [676]
-			"<21:08:17><DEBUG>	 OnLootSlotCleared() 1 nil 1", -- [677]
-			"<21:08:17><DEBUG>	 Event: LOOT_CLOSED", -- [678]
-			"<21:08:17><DEBUG>	 Event: LOOT_CLOSED", -- [679]
-			"<21:08:17><Comm>	 ^1^Sl^T^N1^S164407^t^^ RAID Rentaki-Kazzak", -- [680]
-			"<21:08:17><Comm>	 ^1^Sl^T^N1^S164407^t^^ RAID Rentaki-Kazzak", -- [681]
-			"<21:08:18><Comm>	 ^1^Sl^T^N1^S164407^t^^ RAID Ceases-Kazzak", -- [682]
-			"<21:08:18><DEBUG>	 Event: ENCOUNTER_LOOT_RECEIVED 2399 183499 |cffa335ee|Hitem:183499::::::::60:262::6:2:1553:7245:2:28:753:37:7:::|h[Quick Decisions]|h|r 1 Kessrogue ROGUE", -- [683]
-			"<21:08:18><Comm>	 ^1^Sl^T^N1^S164407^t^^ RAID Kessrogue-Kazzak", -- [684]
-			"<21:08:18><Comm>	 ^1^Sl^T^N1^S164407^t^^ RAID Kessrogue-Kazzak", -- [685]
-			"<21:08:18><Comm>	 ^1^Sl^T^N1^S164407^t^^ RAID Adrenalynz-Kazzak", -- [686]
-			"<21:08:18><Comm>	 ^1^Sl^T^N1^S164407^t^^ RAID Adrenalynz-Kazzak", -- [687]
-			"<21:08:19><DEBUG>	 Event: ENCOUNTER_LOOT_RECEIVED 2399 183484 |cffa335ee|Hitem:183484::::::::60:262::6:2:1553:7245:2:28:753:37:7:::|h[Unchecked Aggression]|h|r 1 Tradushuffle DRUID", -- [688]
-			"<21:08:19><Comm>	 ^1^Sl^T^N1^S164407^t^^ RAID Sanshot-Kazzak", -- [689]
-			"<21:08:19><Comm>	 ^1^Sl^T^N1^S164407^t^^ RAID Sanshot-Kazzak", -- [690]
-			"<21:08:19><Comm>	 ^1^Sl^T^N1^S164407^t^^ RAID Skonheden-Kazzak", -- [691]
-			"<21:08:19><Comm>	 ^1^Sl^T^N1^S164407^t^^ RAID Skonheden-Kazzak", -- [692]
-			"<21:08:19><Comm>	 ^1^Sl^T^N1^S164407^t^^ RAID Tankzorx-Kazzak", -- [693]
-			"<21:08:19><Comm>	 ^1^Sl^T^N1^S164407^t^^ RAID Neveh-Kazzak", -- [694]
-			"<21:08:19><DEBUG>	 Event: ENCOUNTER_LOOT_RECEIVED 2399 182981 |cffa335ee|Hitem:182981::::::::60:262::6:4:7187:6652:1498:6646:1:28:753:::|h[Leggings of Lethal Reverberations]|h|r 1 Neveh WARLOCK", -- [695]
-			"<21:08:19><Comm>	 ^1^Sl^T^N1^S164407^t^^ RAID Seksixeny-Kazzak", -- [696]
-			"<21:08:19><Comm>	 ^1^Sl^T^N1^S164407^t^^ RAID Seksixeny-Kazzak", -- [697]
-			"<21:08:19><Comm>	 ^1^Sl^T^N1^S164407^t^^ RAID Tradushuffle-Kazzak", -- [698]
-			"<21:08:19><Comm>	 ^1^Sl^T^N1^S164407^t^^ RAID Tradushuffle-Kazzak", -- [699]
-			"<21:08:19><Comm>	 ^1^Sl^T^N1^S164407^t^^ RAID Macuc-Kazzak", -- [700]
-			"<21:08:19><Comm>	 ^1^Sl^T^N1^S164407^t^^ RAID Macuc-Kazzak", -- [701]
-			"<21:08:20><Comm>	 ^1^Sl^T^N1^S164407^t^^ RAID Tankzorx-Kazzak", -- [702]
-			"<21:08:20><Comm>	 ^1^Sl^T^N1^S164407^t^^ RAID Tankzorx-Kazzak", -- [703]
-			"<21:08:21><DEBUG>	 Event: ENCOUNTER_LOOT_RECEIVED 2399 182981 |cffa335ee|Hitem:182981::::::::60:262::6:4:7187:6652:1498:6646:1:28:753:::|h[Leggings of Lethal Reverberations]|h|r 1 Vapee PRIEST", -- [704]
-			"<21:08:21><Comm>	 ^1^Stradable^T^N1^S|cffa335ee|Hitem:182981::::::::60:265::6:4:7187:6652:1498:6646:1:28:753:::|h[Leggings~`of~`Lethal~`Reverberations]|h|r^N2^S164407^t^^ RAID Neveh-Kazzak", -- [705]
-			"<21:08:21><Comm>	 ^1^Sl^T^N1^S164407^t^^ RAID Vapee-Kazzak", -- [706]
-			"<21:08:21><Comm>	 ^1^Sl^T^N1^S164407^t^^ RAID Vapee-Kazzak", -- [707]
-			"<21:08:23><Comm>	 ^1^Sl^T^N1^S164407^t^^ RAID Memescoper-Kazzak", -- [708]
-			"<21:08:23><Comm>	 ^1^Sl^T^N1^S164407^t^^ RAID Memescoper-Kazzak", -- [709]
-			"<21:08:24><Comm>	 ^1^Stradable^T^N1^S|cffa335ee|Hitem:182981::::::::60:256::6:4:7187:6652:1498:6646:1:28:753:::|h[Leggings~`of~`Lethal~`Reverberations]|h|r^N2^S164407^t^^ RAID Vapee-Kazzak", -- [710]
-			"<21:08:30><Comm>	 ^1^SlootTable^T^N1^T^N1^T^Sstring^S182981:::::::::::6:4:7187:6652:1498:6646:1:28:753^StypeCode^Sdefault^Sowner^SNeveh-Kazzak^Sboss^SSludgefist^t^N2^T^Sstring^S182981:::::::::::6:4:7187:6652:1498:6646:1:28:753^StypeCode^Sdefault^Sowner^SVapee-Kazzak^Sboss^SSludgefist^t^t^t^^ RAID Tankzorx-Kazzak", -- [711]
-			"<21:08:30><INFO>	 Autopassed on:  |cffa335ee|Hitem:182981::::::::60:262::6:4:7187:6652:1498:6646:1:28:753:::|h[Leggings of Lethal Reverberations]|h|r", -- [712]
-			"<21:08:30><INFO>	 Autopassed on:  |cffa335ee|Hitem:182981::::::::60:262::6:4:7187:6652:1498:6646:1:28:753:::|h[Leggings of Lethal Reverberations]|h|r", -- [713]
-			"<21:08:30><INFO>	 GetPlayersGear |cffa335ee|Hitem:182981::::::::60:262::6:4:7187:6652:1498:6646:1:28:753:::|h[Leggings of Lethal Reverberations]|h|r INVTYPE_LEGS", -- [714]
-			"<21:08:30><INFO>	 GetPlayersGear |cffa335ee|Hitem:182981::::::::60:262::6:4:7187:6652:1498:6646:1:28:753:::|h[Leggings of Lethal Reverberations]|h|r INVTYPE_LEGS", -- [715]
-			"<21:08:30><INFO>	 LootFrame:Start 2 nil", -- [716]
-			"<21:08:30><Comm>	 ^1^SlootAck^T^N1^N65^N2^N227.3125^N3^T^Sresponse^T^t^Sdiff^T^N1^N0^N2^N0^t^Sgear1^T^N1^S178369::::::::60:65::44:4:6634:6652:1498:6646^N2^S178369::::::::60:65::44:4:6634:6652:1498:6646^t^Sgear2^T^t^t^t^^ RAID Kvaernp-Kazzak", -- [717]
-			"<21:08:30><Comm>	 ^1^SlootAck^T^N1^N250^N2^N227.4375^N3^T^Sresponse^T^N1^B^N2^B^t^Sdiff^T^N1^N0^N2^N0^t^Sgear1^T^N1^S175904::::::::60:250::14:3:6634:1498:6646:1:28:807^N2^S175904::::::::60:250::14:3:6634:1498:6646:1:28:807^t^Sgear2^T^t^t^t^^ RAID Unholydeathh-Kazzak", -- [718]
-			"<21:08:30><Comm>	 ^1^SlootAck^T^N1^N254^N2^N229.1875^N3^T^Sresponse^T^N1^B^N2^B^t^Sdiff^T^N1^N0^N2^N0^t^Sgear1^T^N1^S183012::::::::60:254::6:4:7187:6652:1498:6646:1:28:753^N2^S183012::::::::60:254::6:4:7187:6652:1498:6646:1:28:753^t^Sgear2^T^t^t^t^^ RAID Adrenalynz-Kazzak", -- [719]
-			"<21:08:30><Comm>	 ^1^SlootAck^T^N1^N102^N2^N225.125^N3^T^Sresponse^T^N1^B^N2^B^t^Sdiff^T^N1^N0^N2^N0^t^Sgear1^T^N1^S183024::::::::60:102::6:4:7187:6652:1498:6646:1:28:753^N2^S183024::::::::60:102::6:4:7187:6652:1498:6646:1:28:753^t^Sgear2^T^t^t^t^^ RAID Nited-Kazzak", -- [720]
-			"<21:08:30><Comm>	 ^1^SlootAck^T^N1^N72^N2^N227.4375^N3^T^Sresponse^T^N1^B^N2^B^t^Sdiff^T^N1^N0^N2^N0^t^Sgear1^T^N1^S178800::::::::60:72::35:5:7214:6652:1501:5884:6646^N2^S178800::::::::60:72::35:5:7214:6652:1501:5884:6646^t^Sgear2^T^t^t^t^^ RAID Riworra-Kazzak", -- [721]
-			"<21:08:30><Comm>	 ^1^SlootAck^T^N1^N581^N2^N228.75^N3^T^Sresponse^T^t^Sdiff^T^N1^N0^N2^N0^t^Sgear1^T^N1^S183024::::::::60:581::6:4:7187:6652:1498:6646:1:28:753^N2^S183024::::::::60:581::6:4:7187:6652:1498:6646:1:28:753^t^Sgear2^T^t^t^t^^ RAID Bevv-Kazzak", -- [722]
-			"<21:08:30><Comm>	 ^1^SlootAck^T^N1^N268^N2^N226.6875^N3^T^Sresponse^T^N1^B^N2^B^t^Sdiff^T^N1^N0^N2^N0^t^Sgear1^T^N1^S182993::::::::60:268::6:4:7187:41:1498:6646^N2^S182993::::::::60:268::6:4:7187:41:1498:6646^t^Sgear2^T^t^t^t^^ RAID Misêry-Kazzak", -- [723]
-			"<21:08:30><Comm>	 ^1^SlootAck^T^N1^N102^N2^N226.1875^N3^T^Sresponse^T^t^Sdiff^T^N1^N0^N2^N0^t^Sgear1^T^N1^S182993::::::::60:102::6:4:7187:6652:1498:6646:1:28:753^N2^S182993::::::::60:102::6:4:7187:6652:1498:6646:1:28:753^t^Sgear2^T^t^t^t^^ RAID Tradushuffle-Kazzak", -- [724]
-			"<21:08:30><Comm>	 ^1^SlootAck^T^N1^N262^N2^N228.75^N3^T^Sresponse^T^N1^B^N2^B^t^Sdiff^T^N1^N0^N2^N0^t^Sgear1^T^N1^S182985::::::::60:262::6:4:7187:6652:1498:6646^N2^S182985::::::::60:262::6:4:7187:6652:1498:6646^t^Sgear2^T^t^t^t^^ RAID Rentaki-Kazzak", -- [725]
-			"<21:08:30><Comm>	 ^1^SlootAck^T^N1^N256^N2^N227.875^N3^T^Sresponse^T^t^Sdiff^T^N1^N0^N2^N0^t^Sgear1^T^N1^S182981::::::::60:256::6:4:7187:6652:1498:6646:1:28:753^N2^S182981::::::::60:256::6:4:7187:6652:1498:6646:1:28:753^t^Sgear2^T^t^t^t^^ RAID Vapee-Kazzak", -- [726]
-			"<21:08:30><Comm>	 ^1^SlootAck^T^N1^N265^N2^N228.75^N3^T^Sresponse^T^t^Sdiff^T^N1^N0^N2^N0^t^Sgear1^T^N1^S183011::::::::60:265::6:4:7187:6652:1498:6646:1:28:753^N2^S183011::::::::60:265::6:4:7187:6652:1498:6646:1:28:753^t^Sgear2^T^t^t^t^^ RAID Neveh-Kazzak", -- [727]
-			"<21:08:30><Comm>	 ^1^SlootAck^T^N1^N102^N2^N225.75^N3^T^Sresponse^T^N1^B^N2^B^t^Sdiff^T^N1^N0^N2^N0^t^Sgear1^T^N1^S182993::::::::60:102::6:4:7187:6652:1498:6646:1:28:753^N2^S182993::::::::60:102::6:4:7187:6652:1498:6646:1:28:753^t^Sgear2^T^t^t^t^^ RAID Macuc-Kazzak", -- [728]
-			"<21:08:30><Comm>	 ^1^SlootAck^T^N1^N72^N2^N226.625^N3^T^Sresponse^T^N1^B^N2^B^t^Sdiff^T^N1^N0^N2^N0^t^Sgear1^T^N1^S178701::::::::60:72::35:5:7213:6652:1501:5884:6646^N2^S178701::::::::60:72::35:5:7213:6652:1501:5884:6646^t^Sgear2^T^t^t^t^^ RAID Sacraa-Kazzak", -- [729]
-			"<21:08:30><Comm>	 ^1^SlootAck^T^N1^N252^N2^N227.875^N3^T^Sresponse^T^N1^B^N2^B^t^Sdiff^T^N1^N-9^N2^N-9^t^Sgear1^T^N1^S171416::::::::60:252::63:5:6950:6649:6648:6758:1532^N2^S171416::::::::60:252::63:5:6950:6649:6648:6758:1532^t^Sgear2^T^t^t^t^^ RAID Tokzik-Kazzak", -- [730]
-			"<21:08:30><Comm>	 ^1^SlootAck^T^N1^N105^N2^N227.875^N3^T^Sresponse^T^N1^B^N2^B^t^Sdiff^T^N1^N0^N2^N0^t^Sgear1^T^N1^S178819::::::::60:105::35:5:7214:6652:1501:5884:6646^N2^S178819::::::::60:105::35:5:7214:6652:1501:5884:6646^t^Sgear2^T^t^t^t^^ RAID Arookie-Kazzak", -- [731]
-			"<21:08:30><Comm>	 ^1^SlootAck^T^N1^N254^N2^N227.9375^N3^T^Sresponse^T^N1^B^N2^B^t^Sdiff^T^N1^N0^N2^N0^t^Sgear1^T^N1^S183012::::::::60:254::6:4:7187:42:1498:6646:1:28:753^N2^S183012::::::::60:254::6:4:7187:42:1498:6646:1:28:753^t^Sgear2^T^t^t^t^^ RAID Ceases-Kazzak", -- [732]
-			"<21:08:30><Comm>	 ^1^SlootAck^T^N1^N254^N2^N227.875^N3^T^Sresponse^T^N1^B^N2^B^t^Sdiff^T^N1^N0^N2^N0^t^Sgear1^T^N1^S183012::::::::60:254::6:4:7187:6652:1498:6646:1:28:753^N2^S183012::::::::60:254::6:4:7187:6652:1498:6646:1:28:753^t^Sgear2^T^t^t^t^^ RAID Sanshot-Kazzak", -- [733]
-			"<21:08:30><Comm>	 ^1^SlootAck^T^N1^N63^N2^N229.1875^N3^T^Sresponse^T^t^Sdiff^T^N1^N0^N2^N0^t^Sgear1^T^N1^S175905::::::::60:63::14:3:6634:1498:6646:1:28:807^N2^S175905::::::::60:63::14:3:6634:1498:6646:1:28:807^t^Sgear2^T^t^t^t^^ RAID Skonheden-Kazzak", -- [734]
-			"<21:08:30><Comm>	 ^1^SlootAck^T^N1^N264^N2^N229.1875^N3^T^Sresponse^T^N1^B^N2^B^t^Sdiff^T^N1^N0^N2^N0^t^Sgear1^T^N1^S183012::::::::60:264::6:4:7187:6652:1498:6646:1:28:753^N2^S183012::::::::60:264::6:4:7187:6652:1498:6646:1:28:753^t^Sgear2^T^t^t^t^^ RAID Seksixeny-Kazzak", -- [735]
-			"<21:08:30><Comm>	 ^1^SlootAck^T^N1^N259^N2^N225.625^N3^T^Sresponse^T^N1^B^N2^B^t^Sdiff^T^N1^N0^N2^N0^t^Sgear1^T^N1^S178801::::::::60:259::35:5:7214:6652:1501:5884:6646^N2^S178801::::::::60:259::35:5:7214:6652:1501:5884:6646^t^Sgear2^T^t^t^t^^ RAID Kessrogue-Kazzak", -- [736]
-			"<21:08:30><Comm>	 ^1^SlootAck^T^N1^N254^N2^N221.375^N3^T^Sresponse^T^N1^B^N2^B^t^Sdiff^T^N1^N0^N2^N0^t^Sgear1^T^N1^S183012::::::::60:254::6:4:7187:6652:1498:6646:1:28:753^N2^S183012::::::::60:254::6:4:7187:6652:1498:6646:1:28:753^t^Sgear2^T^t^t^t^^ RAID Memescoper-Kazzak", -- [737]
-			"<21:08:30><Comm>	 ^1^SlootAck^T^N1^N65^N2^N227.5^N3^T^Sresponse^T^N1^B^N2^B^t^Sdiff^T^N1^N-9^N2^N-9^t^Sgear1^T^N1^S171416::::::::60:65::63:5:7059:6649:6650:6758:1532^N2^S171416::::::::60:65::63:5:7059:6649:6650:6758:1532^t^Sgear2^T^t^t^t^^ RAID Tankzorx-Kazzak", -- [738]
-			"<21:08:31><Comm>	 ^1^Sl^T^N1^S164407^t^^ RAID Arookie-Kazzak", -- [739]
-			"<21:08:31><Comm>	 ^1^Sl^T^N1^S164407^t^^ RAID Arookie-Kazzak", -- [740]
-			"<21:08:33><Comm>	 ^1^Sresponse^T^N1^N1^N2^T^Sresponse^SPASS^t^t^^ RAID Neveh-Kazzak", -- [741]
-			"<21:08:33><Comm>	 ^1^Sresponse^T^N1^N2^N2^T^Sresponse^SPASS^t^t^^ RAID Neveh-Kazzak", -- [742]
-			"<21:08:33><Comm>	 ^1^Sresponse^T^N1^N1^N2^T^Sresponse^SPASS^t^t^^ RAID Kvaernp-Kazzak", -- [743]
-			"<21:08:33><Comm>	 ^1^Sresponse^T^N1^N2^N2^T^Sresponse^SPASS^t^t^^ RAID Kvaernp-Kazzak", -- [744]
-			"<21:08:34><Comm>	 ^1^Sresponse^T^N1^N1^N2^T^Sresponse^N5^t^t^^ RAID Skonheden-Kazzak", -- [745]
-			"<21:08:34><Comm>	 ^1^Sresponse^T^N1^N2^N2^T^Sresponse^N5^t^t^^ RAID Skonheden-Kazzak", -- [746]
-			"<21:08:37><Comm>	 ^1^Sresponse^T^N1^N1^N2^T^Sresponse^SPASS^t^t^^ RAID Tradushuffle-Kazzak", -- [747]
-			"<21:08:37><Comm>	 ^1^Sresponse^T^N1^N2^N2^T^Sresponse^SPASS^t^t^^ RAID Tradushuffle-Kazzak", -- [748]
-			"<21:08:37><DEBUG>	 Event: ENCOUNTER_LOOT_RECEIVED 2399 183005 |cffa335ee|Hitem:183005::::::::60:262::6:5:7187:6652:7194:1498:6646:1:28:753:::|h[Heedless Pugilist's Harness]|h|r 1 Nited DRUID", -- [749]
-			"<21:08:37><Comm>	 ^1^Sl^T^N1^S164407^t^^ RAID Nited-Kazzak", -- [750]
-			"<21:08:38><Comm>	 ^1^Sresponse^T^N1^N1^N2^T^Sresponse^SPASS^t^t^^ RAID Vapee-Kazzak", -- [751]
-			"<21:08:38><Comm>	 ^1^Sresponse^T^N1^N2^N2^T^Sresponse^SPASS^t^t^^ RAID Vapee-Kazzak", -- [752]
-			"<21:08:40><Comm>	 ^1^Stradable^T^N1^S|cffa335ee|Hitem:183005::::::::60:102::6:5:7187:6652:7194:1498:6646:1:28:753:::|h[Heedless~`Pugilist's~`Harness]|h|r^N2^S164407^t^^ RAID Nited-Kazzak", -- [753]
-			"<21:08:42><Comm>	 ^1^Soffline_timer^T^t^^ RAID Tankzorx-Kazzak", -- [754]
-			"<21:08:43><Comm>	 ^1^Slt_add^T^N1^T^N3^T^Sstring^S183005:::::::::::6:5:7187:6652:7194:1498:6646:1:28:753^StypeCode^Sdefault^Sowner^SNited-Kazzak^Sboss^SSludgefist^t^t^t^^ RAID Tankzorx-Kazzak", -- [755]
-			"<21:08:43><INFO>	 Autopassed on:  |cffa335ee|Hitem:183005::::::::60:262::6:5:7187:6652:7194:1498:6646:1:28:753:::|h[Heedless Pugilist's Harness]|h|r", -- [756]
-			"<21:08:43><INFO>	 GetPlayersGear |cffa335ee|Hitem:183005::::::::60:262::6:5:7187:6652:7194:1498:6646:1:28:753:::|h[Heedless Pugilist's Harness]|h|r INVTYPE_WAIST", -- [757]
-			"<21:08:43><DEBUG>	 LootFrame:AddSingleItem |cffa335ee|Hitem:183005::::::::60:262::6:5:7187:6652:7194:1498:6646:1:28:753:::|h[Heedless Pugilist's Harness]|h|r 0", -- [758]
-			"<21:08:43><Comm>	 ^1^SlootAck^T^N1^N65^N2^N227.3125^N3^T^Sresponse^T^t^Sdiff^T^N3^N0^t^Sgear1^T^N3^S183025::::::::60:65::6:5:7187:6652:7193:1498:6646:1:28:753^t^Sgear2^T^t^t^t^^ RAID Kvaernp-Kazzak", -- [759]
-			"<21:08:43><Comm>	 ^1^SlootAck^T^N1^N250^N2^N227.4375^N3^T^Sresponse^T^N3^B^t^Sdiff^T^N3^N0^t^Sgear1^T^N3^S183025::173129::::::60:250::6:5:7187:6652:6935:1498:6646:1:28:753^t^Sgear2^T^t^t^t^^ RAID Unholydeathh-Kazzak", -- [760]
-			"<21:08:43><Comm>	 ^1^SlootAck^T^N1^N72^N2^N226.625^N3^T^Sresponse^T^N3^B^t^Sdiff^T^N3^N0^t^Sgear1^T^N3^S183015::173128::::::60:72::6:5:7187:6652:1498:6646:6935:1:28:753^t^Sgear2^T^t^t^t^^ RAID Sacraa-Kazzak", -- [761]
-			"<21:08:43><Comm>	 ^1^SlootAck^T^N1^N268^N2^N226.6875^N3^T^Sresponse^T^t^Sdiff^T^N3^N0^t^Sgear1^T^N3^S183005::173127::::::60:268::6:5:7187:6652:1498:6646:6935:1:28:753^t^Sgear2^T^t^t^t^^ RAID Misêry-Kazzak", -- [762]
-			"<21:08:43><Comm>	 ^1^SlootAck^T^N1^N102^N2^N225.125^N3^T^Sresponse^T^t^Sdiff^T^N3^N0^t^Sgear1^T^N3^S183005::::::::60:102::6:5:7187:6652:7194:1498:6646:1:28:753^t^Sgear2^T^t^t^t^^ RAID Nited-Kazzak", -- [763]
-			"<21:08:43><Comm>	 ^1^SlootAck^T^N1^N265^N2^N228.75^N3^T^Sresponse^T^N3^B^t^Sdiff^T^N3^N0^t^Sgear1^T^N3^S183004::173130::::::60:265::6:5:7187:6652:1498:6646:6935^t^Sgear2^T^t^t^t^^ RAID Neveh-Kazzak", -- [764]
-			"<21:08:43><Comm>	 ^1^SlootAck^T^N1^N254^N2^N229.1875^N3^T^Sresponse^T^N3^B^t^Sdiff^T^N3^N0^t^Sgear1^T^N3^S182976::173127::::::60:254::6:5:7187:6652:1498:6646:6935:1:28:753^t^Sgear2^T^t^t^t^^ RAID Adrenalynz-Kazzak", -- [765]
-			"<21:08:43><Comm>	 ^1^SlootAck^T^N1^N252^N2^N227.875^N3^T^Sresponse^T^N3^B^t^Sdiff^T^N3^N0^t^Sgear1^T^N3^S183025::173130::::::60:252::6:5:7187:6652:1498:6646:6935^t^Sgear2^T^t^t^t^^ RAID Tokzik-Kazzak", -- [766]
-			"<21:08:43><Comm>	 ^1^SlootAck^T^N1^N581^N2^N228.75^N3^T^Sresponse^T^t^Sdiff^T^N3^N0^t^Sgear1^T^N3^S183005::173128::::::60:581::6:5:7187:6652:1498:6646:6935^t^Sgear2^T^t^t^t^^ RAID Bevv-Kazzak", -- [767]
-			"<21:08:43><Comm>	 ^1^SlootAck^T^N1^N254^N2^N221.375^N3^T^Sresponse^T^N3^B^t^Sdiff^T^N3^N0^t^Sgear1^T^N3^S182976::173127::::::60:254::6:5:7187:43:6935:1498:6646:1:28:753^t^Sgear2^T^t^t^t^^ RAID Memescoper-Kazzak", -- [768]
-			"<21:08:43><Comm>	 ^1^SlootAck^T^N1^N262^N2^N228.75^N3^T^Sresponse^T^N3^B^t^Sdiff^T^N3^N0^t^Sgear1^T^N3^S175914::173127::::::60:262::44:5:6623:6652:1498:6646:6935^t^Sgear2^T^t^t^t^^ RAID Rentaki-Kazzak", -- [769]
-			"<21:08:43><Comm>	 ^1^SlootAck^T^N1^N72^N2^N227.4375^N3^T^Sresponse^T^N3^B^t^Sdiff^T^N3^N0^t^Sgear1^T^N3^S183025::173128::::::60:72::6:5:7187:6652:1498:6646:6935:1:28:753^t^Sgear2^T^t^t^t^^ RAID Riworra-Kazzak", -- [770]
-			"<21:08:43><Comm>	 ^1^SlootAck^T^N1^N254^N2^N227.875^N3^T^Sresponse^T^N3^B^t^Sdiff^T^N3^N0^t^Sgear1^T^N3^S182976::173127::::::60:254::6:5:7187:6652:1498:6646:6935:1:28:753^t^Sgear2^T^t^t^t^^ RAID Sanshot-Kazzak", -- [771]
-			"<21:08:43><Comm>	 ^1^SlootAck^T^N1^N105^N2^N227.875^N3^T^Sresponse^T^t^Sdiff^T^N3^N0^t^Sgear1^T^N3^S183005::173128::::::60:105::6:5:7187:41:1498:6646:6935^t^Sgear2^T^t^t^t^^ RAID Arookie-Kazzak", -- [772]
-			"<21:08:43><Comm>	 ^1^SlootAck^T^N1^N254^N2^N227.9375^N3^T^Sresponse^T^N3^B^t^Sdiff^T^N3^N13^t^Sgear1^T^N3^S183016::173127::::::60:254::5:5:7188:6652:6935:1485:6646:1:28:752^t^Sgear2^T^t^t^t^^ RAID Ceases-Kazzak", -- [773]
-			"<21:08:43><Comm>	 ^1^SlootAck^T^N1^N102^N2^N225.75^N3^T^Sresponse^T^t^Sdiff^T^N3^N0^t^Sgear1^T^N3^S183005::173127::::::60:102::6:5:7187:6652:1498:6646:6935^t^Sgear2^T^t^t^t^^ RAID Macuc-Kazzak", -- [774]
-			"<21:08:43><Comm>	 ^1^SlootAck^T^N1^N65^N2^N227.5^N3^T^Sresponse^T^N3^B^t^Sdiff^T^N3^N0^t^Sgear1^T^N3^S175912::173128::::::60:65::44:5:6623:41:1498:6646:6935^t^Sgear2^T^t^t^t^^ RAID Tankzorx-Kazzak", -- [775]
-			"<21:08:43><Comm>	 ^1^SlootAck^T^N1^N256^N2^N227.875^N3^T^Sresponse^T^N3^B^t^Sdiff^T^N3^N0^t^Sgear1^T^N3^S183004::173128::::::60:256::6:5:7187:6652:6935:1498:6646:1:28:753^t^Sgear2^T^t^t^t^^ RAID Vapee-Kazzak", -- [776]
-			"<21:08:43><Comm>	 ^1^SlootAck^T^N1^N102^N2^N226.1875^N3^T^Sresponse^T^t^Sdiff^T^N3^N0^t^Sgear1^T^N3^S178823::::::::60:102::35:6:7214:40:7193:1501:5884:6646^t^Sgear2^T^t^t^t^^ RAID Tradushuffle-Kazzak", -- [777]
-			"<21:08:43><Comm>	 ^1^SlootAck^T^N1^N63^N2^N229.1875^N3^T^Sresponse^T^N3^B^t^Sdiff^T^N3^N0^t^Sgear1^T^N3^S183028::173128::::::60:63::6:5:7187:6652:1498:6646:6935:1:28:753^t^Sgear2^T^t^t^t^^ RAID Skonheden-Kazzak", -- [778]
-			"<21:08:43><Comm>	 ^1^SlootAck^T^N1^N264^N2^N229.1875^N3^T^Sresponse^T^N3^B^t^Sdiff^T^N3^N0^t^Sgear1^T^N3^S178932::173127::::::60:264::35:6:7213:6652:1501:5884:6646:6935^t^Sgear2^T^t^t^t^^ RAID Seksixeny-Kazzak", -- [779]
-			"<21:08:43><Comm>	 ^1^SlootAck^T^N1^N259^N2^N225.625^N3^T^Sresponse^T^t^Sdiff^T^N3^N0^t^Sgear1^T^N3^S182995::173128::::::60:259::6:5:7187:43:1498:6646:6935:1:28:753^t^Sgear2^T^t^t^t^^ RAID Kessrogue-Kazzak", -- [780]
-			"<21:08:45><Comm>	 ^1^Sresponse^T^N1^N3^N2^T^Sresponse^SPASS^t^t^^ RAID Kvaernp-Kazzak", -- [781]
-			"<21:08:45><Comm>	 ^1^Sresponse^T^N1^N3^N2^T^Sresponse^SPASS^t^t^^ RAID Nited-Kazzak", -- [782]
-			"<21:08:46><Comm>	 ^1^Sresponse^T^N1^N1^N2^T^Sresponse^SPASS^t^t^^ RAID Bevv-Kazzak", -- [783]
-			"<21:08:46><Comm>	 ^1^Sresponse^T^N1^N2^N2^T^Sresponse^SPASS^t^t^^ RAID Bevv-Kazzak", -- [784]
-			"<21:08:46><Comm>	 ^1^Sresponse^T^N1^N3^N2^T^Sresponse^SPASS^t^t^^ RAID Misêry-Kazzak", -- [785]
-			"<21:08:47><Comm>	 ^1^Sresponse^T^N1^N3^N2^T^Sresponse^SPASS^t^t^^ RAID Bevv-Kazzak", -- [786]
-			"<21:08:50><Comm>	 ^1^Sresponse^T^N1^N3^N2^T^Sresponse^SPASS^t^t^^ RAID Arookie-Kazzak", -- [787]
-			"<21:08:50><Comm>	 ^1^Sresponse^T^N1^N3^N2^T^Sresponse^SPASS^t^t^^ RAID Macuc-Kazzak", -- [788]
-			"<21:08:54><Comm>	 ^1^Sresponse^T^N1^N3^N2^T^Sresponse^SPASS^t^t^^ RAID Tradushuffle-Kazzak", -- [789]
-			"<21:09:01><Comm>	 ^1^Sresponse^T^N1^N3^N2^T^Sresponse^SPASS^t^t^^ RAID Kessrogue-Kazzak", -- [790]
-			"<21:09:02><Comm>	 ^1^Shistory^T^N1^SMijyn-TwistingNether^N2^T^SmapID^N2296^Scolor^T^N1^N0.5^N2^N0.5^N3^N0.5^N4^N1^t^Sclass^SMAGE^SgroupSize^N20^Sboss^SSludgefist^Stime^S21:09:03^Sinstance^SCastle~`Nathria-Mythic^Sowner^SNeveh-Kazzak^Sresponse^SOffline~`or~`RCLootCouncil~`not~`installed^StypeCode^Sdefault^SdifficultyID^N16^SlootWon^S|cffa335ee|Hitem:182981::::::::60:65::6:4:7187:6652:1498:6646:1:28:753:::|h[Leggings~`of~`Lethal~`Reverberations]|h|r^Sid^S1615403343-29^Sdate^S10/03/21^SresponseID^SNOTHING^Svotes^N0^SisAwardReason^b^t^t^^ RAID Tankzorx-Kazzak", -- [791]
-			"<21:09:02><Comm>	 ^1^Sawarded^T^N1^N1^N2^SMijyn-TwistingNether^N3^SNeveh-Kazzak^t^^ RAID Tankzorx-Kazzak", -- [792]
-			"<21:09:04><Comm>	 ^1^Shistory^T^N1^SSkonheden-Kazzak^N2^T^SmapID^N2296^Scolor^T^N1^N0.7^N2^N0.18^N3^N0.1^N4^N1^t^Sclass^SMAGE^SgroupSize^N20^Sboss^SSludgefist^Stime^S21:09:05^SitemReplaced1^S|cffa335ee|Hitem:175905::::::::60:65::14:3:6634:1498:6646:1:28:807:::|h[Sinful~`Gladiator's~`Silk~`Leggings]|h|r^Sinstance^SCastle~`Nathria-Mythic^Sowner^SVapee-Kazzak^Sresponse^STransmog^StypeCode^Sdefault^SdifficultyID^N16^SlootWon^S|cffa335ee|Hitem:182981::::::::60:65::6:4:7187:6652:1498:6646:1:28:753:::|h[Leggings~`of~`Lethal~`Reverberations]|h|r^Sid^S1615403345-30^Sdate^S10/03/21^SresponseID^N5^Svotes^N0^SisAwardReason^b^t^t^^ RAID Tankzorx-Kazzak", -- [793]
-			"<21:09:04><Comm>	 ^1^Sawarded^T^N1^N2^N2^SSkonheden-Kazzak^N3^SVapee-Kazzak^t^^ RAID Tankzorx-Kazzak", -- [794]
-			"<21:09:09><Comm>	 ^1^Shistory^T^N1^SNited-Kazzak^N2^T^SmapID^N2296^Scolor^T^N1^N0.7^N2^N0.7^N3^N0.7^N4^N1^t^Sclass^SDRUID^SgroupSize^N20^Sboss^SSludgefist^Stime^S21:09:10^SitemReplaced1^S|cffa335ee|Hitem:183005::::::::60:65::6:5:7187:6652:7194:1498:6646:1:28:753:::|h[Heedless~`Pugilist's~`Harness]|h|r^Sinstance^SCastle~`Nathria-Mythic^Sowner^SNited-Kazzak^Sresponse^SPass^StypeCode^Sdefault^SdifficultyID^N16^SlootWon^S|cffa335ee|Hitem:183005::::::::60:65::6:5:7187:6652:7194:1498:6646:1:28:753:::|h[Heedless~`Pugilist's~`Harness]|h|r^Sid^S1615403350-31^Sdate^S10/03/21^SresponseID^SPASS^Svotes^N0^SisAwardReason^b^t^t^^ RAID Tankzorx-Kazzak", -- [795]
-			"<21:09:09><Comm>	 ^1^Sawarded^T^N1^N3^N2^SNited-Kazzak^N3^SNited-Kazzak^t^^ RAID Tankzorx-Kazzak", -- [796]
-			"<21:09:10><Comm>	 ^1^Ssession_end^T^t^^ RAID Tankzorx-Kazzak", -- [797]
-			"<21:10:09><Comm>	 ^1^Sl^T^N1^S173280^t^^ RAID Kessrogue-Kazzak", -- [798]
-			"<21:10:38><Comm>	 ^1^Sl^T^N1^S173276^t^^ RAID Tradushuffle-Kazzak", -- [799]
-			"<21:10:38><Comm>	 ^1^Sl^T^N1^S173276^t^^ RAID Tradushuffle-Kazzak", -- [800]
-			"<21:10:38><Comm>	 ^1^Sl^T^N1^S173280^t^^ RAID Nited-Kazzak", -- [801]
-			"<21:10:38><Comm>	 ^1^Sl^T^N1^S173280^t^^ RAID Nited-Kazzak", -- [802]
-			"<21:10:40><Comm>	 ^1^Sl^T^N1^S173276^t^^ RAID Seksixeny-Kazzak", -- [803]
-			"<21:10:40><Comm>	 ^1^Sl^T^N1^S173276^t^^ RAID Sanshot-Kazzak", -- [804]
-			"<21:10:40><Comm>	 ^1^Sl^T^N1^S173276^t^^ RAID Sanshot-Kazzak", -- [805]
-			"<21:10:41><Comm>	 ^1^Sl^T^N1^S173276^t^^ RAID Neveh-Kazzak", -- [806]
-			"<21:10:41><Comm>	 ^1^Sl^T^N1^S173276^t^^ RAID Neveh-Kazzak", -- [807]
-			"<21:10:42><Comm>	 ^1^Sl^T^N1^S173280^t^^ RAID Memescoper-Kazzak", -- [808]
-			"<21:10:42><Comm>	 ^1^Sl^T^N1^S173280^t^^ RAID Memescoper-Kazzak", -- [809]
-			"<21:10:58><Comm>	 ^1^Sl^T^N1^S173280^t^^ RAID Macuc-Kazzak", -- [810]
-			"<21:10:58><Comm>	 ^1^Sl^T^N1^S173280^t^^ RAID Macuc-Kazzak", -- [811]
-			"<21:11:03><Comm>	 ^1^Strade_WrongWinner^T^N1^S|cffa335ee|Hitem:182981::::::::60:256::6:4:7187:6652:1498:6646:1:28:753:::|h[Leggings~`of~`Lethal~`Reverberations]|h|r^N2^SMijyn-TwistingNether^N3^SVapee-Kazzak^N4^SSkonheden-Kazzak^t^^ RAID Vapee-Kazzak", -- [812]
-			"<21:11:15><Comm>	 ^1^Sl^T^N1^S173276^t^^ RAID Tankzorx-Kazzak", -- [813]
-			"<21:11:15><Comm>	 ^1^Sl^T^N1^S173276^t^^ RAID Tankzorx-Kazzak", -- [814]
-			"<21:12:16><Comm>	 ^1^Sl^T^N1^S173280^t^^ RAID Kessrogue-Kazzak", -- [815]
-			"<21:12:16><Comm>	 ^1^Sl^T^N1^S173280^t^^ RAID Kessrogue-Kazzak", -- [816]
-			"<21:12:45><Comm>	 ^1^Sl^T^N1^S173280^t^^ RAID Vapee-Kazzak", -- [817]
-			"<21:12:45><Comm>	 ^1^Sl^T^N1^S173280^t^^ RAID Vapee-Kazzak", -- [818]
-			"<21:17:27><Comm>	 ^1^Sxrealm^T^N1^STankzorx-Kazzak^N2^SMLdb_request^t^^ RAID Seksixeny-Kazzak", -- [819]
-			"<21:17:27><Comm>	 ^1^Sxrealm^T^N1^STankzorx-Kazzak^N2^Scouncil_request^t^^ RAID Seksixeny-Kazzak", -- [820]
-			"<21:17:27><Comm>	 ^1^Smldb^T^N1^T^S|8^T^SAZERITE^T^N1^T^S|15^Smainspec^t^N2^T^S|15^Sresiduum^t^N3^T^S|15^Soffspec^t^t^S|14^T^N1^T^S|15^SNeed~`BIS^t^N2^T^S|15^SNeed~`not~`BIS^t^N4^T^S|15^SOffspec^t^N5^T^S|15^STransmog^t^S|5^N5^t^t^S|12^N60^S|11^T^SAZERITE^T^N1^T^S|15^Smainspec^S|4^N1^S|16^T^N1^N0^N2^N1^N3^N0.05^N4^N1^t^t^N2^T^S|15^Sresiduum^S|4^N2^S|16^T^N1^N0.04^N2^N0.08^N3^N1^N4^N1^t^t^N3^T^S|15^Soffspec^S|4^N3^S|16^T^N1^N1^N2^N0.07^N3^N0^N4^N1^t^t^t^S|14^T^N1^T^S|15^SNeed~`BIS^S|4^N1^S|16^T^N1^N0^N2^N1^N3^N0^N4^N1^t^t^N2^T^S|15^SNeed~`not~`BIS^S|4^N2^S|16^T^N1^N0.54^N2^N1^N3^N0.12^N4^N1^t^t^N3^T^S|15^SMinor~`Upgrade^S|4^N3^S|16^T^N1^N0.63^N2^N0.7^N3^N0.22^N4^N1^t^t^N4^T^S|15^SOffspec^S|4^N4^S|16^T^N1^N0.7^N2^N0.43^N3^N0.17^N4^N1^t^t^N5^T^S|15^STransmog^S|4^N5^S|16^T^N1^N0.7^N2^N0.18^N3^N0.1^N4^N1^t^t^t^t^S|1^B^S|5^N5^S|2^B^t^t^^ RAID Tankzorx-Kazzak", -- [821]
-			"<21:17:27><INFO>	 OnMLDBReceived", -- [822]
-			"<21:17:27><Comm>	 ^1^Scouncil^T^N1^T^S1305-0AFC367F^B^S1305-0B0DCA21^B^S1305-0B0E3079^B^S1305-0B30094D^B^t^t^^ RAID Tankzorx-Kazzak", -- [823]
-			"<21:17:27><DEBUG>	 isCouncil false", -- [824]
-			"<21:21:01><Comm>	 ^1^Sxrealm^T^N1^STankzorx-Kazzak^N2^SMLdb_request^t^^ RAID Tokzik-Kazzak", -- [825]
-			"<21:21:01><Comm>	 ^1^Sxrealm^T^N1^STankzorx-Kazzak^N2^Scouncil_request^t^^ RAID Tokzik-Kazzak", -- [826]
-			"<21:21:01><Comm>	 ^1^Smldb^T^N1^T^S|8^T^SAZERITE^T^N1^T^S|15^Smainspec^t^N2^T^S|15^Sresiduum^t^N3^T^S|15^Soffspec^t^t^S|14^T^N1^T^S|15^SNeed~`BIS^t^N2^T^S|15^SNeed~`not~`BIS^t^N4^T^S|15^SOffspec^t^N5^T^S|15^STransmog^t^S|5^N5^t^t^S|12^N60^S|11^T^SAZERITE^T^N1^T^S|15^Smainspec^S|4^N1^S|16^T^N1^N0^N2^N1^N3^N0.05^N4^N1^t^t^N2^T^S|15^Sresiduum^S|4^N2^S|16^T^N1^N0.04^N2^N0.08^N3^N1^N4^N1^t^t^N3^T^S|15^Soffspec^S|4^N3^S|16^T^N1^N1^N2^N0.07^N3^N0^N4^N1^t^t^t^S|14^T^N1^T^S|15^SNeed~`BIS^S|4^N1^S|16^T^N1^N0^N2^N1^N3^N0^N4^N1^t^t^N2^T^S|15^SNeed~`not~`BIS^S|4^N2^S|16^T^N1^N0.54^N2^N1^N3^N0.12^N4^N1^t^t^N3^T^S|15^SMinor~`Upgrade^S|4^N3^S|16^T^N1^N0.63^N2^N0.7^N3^N0.22^N4^N1^t^t^N4^T^S|15^SOffspec^S|4^N4^S|16^T^N1^N0.7^N2^N0.43^N3^N0.17^N4^N1^t^t^N5^T^S|15^STransmog^S|4^N5^S|16^T^N1^N0.7^N2^N0.18^N3^N0.1^N4^N1^t^t^t^t^S|1^B^S|5^N5^S|2^B^t^t^^ RAID Tankzorx-Kazzak", -- [827]
-			"<21:21:01><INFO>	 OnMLDBReceived", -- [828]
-			"<21:21:01><Comm>	 ^1^Scouncil^T^N1^T^S1305-0AFC367F^B^S1305-0B0DCA21^B^S1305-0B0E3079^B^S1305-0B30094D^B^t^t^^ RAID Tankzorx-Kazzak", -- [829]
-			"<21:21:01><DEBUG>	 isCouncil false", -- [830]
-			"<21:21:55><Comm>	 ^1^Sxrealm^T^N1^STankzorx-Kazzak^N2^SMLdb_request^t^^ RAID Seksixeny-Kazzak", -- [831]
-			"<21:21:55><Comm>	 ^1^Sxrealm^T^N1^STankzorx-Kazzak^N2^Scouncil_request^t^^ RAID Seksixeny-Kazzak", -- [832]
-			"<21:21:55><Comm>	 ^1^Smldb^T^N1^T^S|8^T^SAZERITE^T^N1^T^S|15^Smainspec^t^N2^T^S|15^Sresiduum^t^N3^T^S|15^Soffspec^t^t^S|14^T^N1^T^S|15^SNeed~`BIS^t^N2^T^S|15^SNeed~`not~`BIS^t^N4^T^S|15^SOffspec^t^N5^T^S|15^STransmog^t^S|5^N5^t^t^S|12^N60^S|11^T^SAZERITE^T^N1^T^S|15^Smainspec^S|4^N1^S|16^T^N1^N0^N2^N1^N3^N0.05^N4^N1^t^t^N2^T^S|15^Sresiduum^S|4^N2^S|16^T^N1^N0.04^N2^N0.08^N3^N1^N4^N1^t^t^N3^T^S|15^Soffspec^S|4^N3^S|16^T^N1^N1^N2^N0.07^N3^N0^N4^N1^t^t^t^S|14^T^N1^T^S|15^SNeed~`BIS^S|4^N1^S|16^T^N1^N0^N2^N1^N3^N0^N4^N1^t^t^N2^T^S|15^SNeed~`not~`BIS^S|4^N2^S|16^T^N1^N0.54^N2^N1^N3^N0.12^N4^N1^t^t^N3^T^S|15^SMinor~`Upgrade^S|4^N3^S|16^T^N1^N0.63^N2^N0.7^N3^N0.22^N4^N1^t^t^N4^T^S|15^SOffspec^S|4^N4^S|16^T^N1^N0.7^N2^N0.43^N3^N0.17^N4^N1^t^t^N5^T^S|15^STransmog^S|4^N5^S|16^T^N1^N0.7^N2^N0.18^N3^N0.1^N4^N1^t^t^t^t^S|1^B^S|5^N5^S|2^B^t^t^^ RAID Tankzorx-Kazzak", -- [833]
-			"<21:21:55><INFO>	 OnMLDBReceived", -- [834]
-			"<21:21:55><Comm>	 ^1^Scouncil^T^N1^T^S1305-0AFC367F^B^S1305-0B0DCA21^B^S1305-0B0E3079^B^S1305-0B30094D^B^t^t^^ RAID Tankzorx-Kazzak", -- [835]
-			"<21:21:55><DEBUG>	 isCouncil false", -- [836]
-			"<21:25:00><Comm>	 ^1^Sxrealm^T^N1^STankzorx-Kazzak^N2^SMLdb_request^t^^ RAID Seksixeny-Kazzak", -- [837]
-			"<21:25:00><Comm>	 ^1^Sxrealm^T^N1^STankzorx-Kazzak^N2^Scouncil_request^t^^ RAID Seksixeny-Kazzak", -- [838]
-			"<21:25:01><Comm>	 ^1^Smldb^T^N1^T^S|8^T^SAZERITE^T^N1^T^S|15^Smainspec^t^N2^T^S|15^Sresiduum^t^N3^T^S|15^Soffspec^t^t^S|14^T^N1^T^S|15^SNeed~`BIS^t^N2^T^S|15^SNeed~`not~`BIS^t^N4^T^S|15^SOffspec^t^N5^T^S|15^STransmog^t^S|5^N5^t^t^S|12^N60^S|11^T^SAZERITE^T^N1^T^S|15^Smainspec^S|4^N1^S|16^T^N1^N0^N2^N1^N3^N0.05^N4^N1^t^t^N2^T^S|15^Sresiduum^S|4^N2^S|16^T^N1^N0.04^N2^N0.08^N3^N1^N4^N1^t^t^N3^T^S|15^Soffspec^S|4^N3^S|16^T^N1^N1^N2^N0.07^N3^N0^N4^N1^t^t^t^S|14^T^N1^T^S|15^SNeed~`BIS^S|4^N1^S|16^T^N1^N0^N2^N1^N3^N0^N4^N1^t^t^N2^T^S|15^SNeed~`not~`BIS^S|4^N2^S|16^T^N1^N0.54^N2^N1^N3^N0.12^N4^N1^t^t^N3^T^S|15^SMinor~`Upgrade^S|4^N3^S|16^T^N1^N0.63^N2^N0.7^N3^N0.22^N4^N1^t^t^N4^T^S|15^SOffspec^S|4^N4^S|16^T^N1^N0.7^N2^N0.43^N3^N0.17^N4^N1^t^t^N5^T^S|15^STransmog^S|4^N5^S|16^T^N1^N0.7^N2^N0.18^N3^N0.1^N4^N1^t^t^t^t^S|1^B^S|5^N5^S|2^B^t^t^^ RAID Tankzorx-Kazzak", -- [839]
-			"<21:25:01><INFO>	 OnMLDBReceived", -- [840]
-			"<21:25:01><Comm>	 ^1^Scouncil^T^N1^T^S1305-0AFC367F^B^S1305-0B0DCA21^B^S1305-0B0E3079^B^S1305-0B30094D^B^t^t^^ RAID Tankzorx-Kazzak", -- [841]
-			"<21:25:01><DEBUG>	 isCouncil false", -- [842]
-			"<21:26:12><Comm>	 ^1^Sxrealm^T^N1^STankzorx-Kazzak^N2^SMLdb_request^t^^ RAID Unholydeathh-Kazzak", -- [843]
-			"<21:26:12><Comm>	 ^1^Smldb^T^N1^T^S|8^T^SAZERITE^T^N1^T^S|15^Smainspec^t^N2^T^S|15^Sresiduum^t^N3^T^S|15^Soffspec^t^t^S|14^T^N1^T^S|15^SNeed~`BIS^t^N2^T^S|15^SNeed~`not~`BIS^t^N4^T^S|15^SOffspec^t^N5^T^S|15^STransmog^t^S|5^N5^t^t^S|12^N60^S|11^T^SAZERITE^T^N1^T^S|15^Smainspec^S|4^N1^S|16^T^N1^N0^N2^N1^N3^N0.05^N4^N1^t^t^N2^T^S|15^Sresiduum^S|4^N2^S|16^T^N1^N0.04^N2^N0.08^N3^N1^N4^N1^t^t^N3^T^S|15^Soffspec^S|4^N3^S|16^T^N1^N1^N2^N0.07^N3^N0^N4^N1^t^t^t^S|14^T^N1^T^S|15^SNeed~`BIS^S|4^N1^S|16^T^N1^N0^N2^N1^N3^N0^N4^N1^t^t^N2^T^S|15^SNeed~`not~`BIS^S|4^N2^S|16^T^N1^N0.54^N2^N1^N3^N0.12^N4^N1^t^t^N3^T^S|15^SMinor~`Upgrade^S|4^N3^S|16^T^N1^N0.63^N2^N0.7^N3^N0.22^N4^N1^t^t^N4^T^S|15^SOffspec^S|4^N4^S|16^T^N1^N0.7^N2^N0.43^N3^N0.17^N4^N1^t^t^N5^T^S|15^STransmog^S|4^N5^S|16^T^N1^N0.7^N2^N0.18^N3^N0.1^N4^N1^t^t^t^t^S|1^B^S|5^N5^S|2^B^t^t^^ RAID Tankzorx-Kazzak", -- [844]
-			"<21:26:12><INFO>	 OnMLDBReceived", -- [845]
-			"<21:28:53><DEBUG>	 Event: PARTY_LEADER_CHANGED", -- [846]
-			"<21:28:55><DEBUG>	 GetML()", -- [847]
-			"<21:28:55><DEBUG>	 Resetting council as we have a new ML!", -- [848]
-			"<21:28:55><INFO>	 MasterLooter =  Unholydeathh-Kazzak", -- [849]
-			"<21:28:56><Comm>	 ^1^SStopHandleLoot^T^t^^ RAID Tankzorx-Kazzak", -- [850]
-			"<21:28:56><Comm>	 ^1^SplayerInfoRequest^T^t^^ RAID Unholydeathh-Kazzak", -- [851]
-			"<21:28:56><Comm>	 ^1^Smldb^T^N1^T^S|8^T^S|14^T^N1^T^S|15^SNeed~`(BIS~`stats)^t^N2^T^S|15^SNeed~`(Not~`BiS~`stats)^t^N3^T^S|15^SVery~`Minor^t^N4^T^S|15^SResiduum^t^N5^T^S|15^SOffspecxd^t^N6^T^S|15^STRANSMOG~`X~`D^t^S|5^N6^t^t^S|12^N60^S|11^T^S|14^T^N1^T^S|15^SNeed~`(BIS~`stats)^S|4^N1^S|16^T^N1^N1^N2^N0.53^N3^N0^N4^N1^t^t^N2^T^S|15^SNeed~`(Not~`BiS~`stats)^S|4^N2^S|16^T^N1^N0.04^N2^N0.14^N3^N1^N4^N1^t^t^N3^T^S|15^SVery~`Minor~`(if~`noone~`else)^S|4^N3^S|16^T^N1^N0.07^N2^N0.7^N3^N0.07^N4^N1^t^t^N4^T^S|15^SResiduum^S|4^N4^S|16^T^N1^N0.25^N2^N0.7^N3^N0.7^N4^N1^t^t^N5^T^S|15^SOffspecxd^S|4^N5^S|16^T^N1^N0.7^N2^N0.67^N3^N0^N4^N1^t^t^N6^T^S|15^STRANSMOG~`XD^S|4^N6^S|16^T^N1^N0.69^N2^N0.02^N3^N0.66^N4^N1^t^t^t^t^S|6^B^S|5^N6^t^t^^ RAID Unholydeathh-Kazzak", -- [852]
-			"<21:28:56><INFO>	 OnMLDBReceived", -- [853]
-			"<21:28:56><Comm>	 ^1^Sxrealm^T^N1^SUnholydeathh-Kazzak^N2^SpI^N3^SDAMAGER^N4^SMike~`Pence^N5^B^N6^N115^N7^N221.375^N8^N254^t^^ RAID Memescoper-Kazzak", -- [854]
-			"<21:28:56><Comm>	 ^1^Sxrealm^T^N1^SUnholydeathh-Kazzak^N2^SpI^N3^SDAMAGER^N4^SCitizen^N6^N0^N7^N229.1875^N8^N254^t^^ RAID Adrenalynz-Kazzak", -- [855]
-			"<21:28:56><Comm>	 ^1^Sxrealm^T^N1^SUnholydeathh-Kazzak^N2^SpI^N3^SDAMAGER^N4^SUndocumented^N6^N0^N7^N225.9375^N8^N102^t^^ RAID Nited-Kazzak", -- [856]
-			"<21:28:56><Comm>	 ^1^Sxrealm^T^N1^SUnholydeathh-Kazzak^N2^SpI^N3^SDAMAGER^N4^SCitizen^N6^N0^N7^N226.625^N8^N72^t^^ RAID Sacraa-Kazzak", -- [857]
-			"<21:28:56><Comm>	 ^1^Sxrealm^T^N1^SUnholydeathh-Kazzak^N2^SpI^N3^SDAMAGER^N4^SCitizen^N6^N0^N7^N229.1875^N8^N262^t^^ RAID Rentaki-Kazzak", -- [858]
-			"<21:28:56><Comm>	 ^1^Sxrealm^T^N1^SUnholydeathh-Kazzak^N2^SpI^N3^SDAMAGER^N4^SCitizen^N6^N0^N7^N226.4375^N8^N252^t^^ RAID Tokzik-Kazzak", -- [859]
-			"<21:28:56><Comm>	 ^1^Sxrealm^T^N1^SUnholydeathh-Kazzak^N2^SpI^N3^SHEALER^N4^SMike~`Pence^N6^N0^N7^N227.875^N8^N256^t^^ RAID Vapee-Kazzak", -- [860]
-			"<21:28:56><Comm>	 ^1^Sxrealm^T^N1^SUnholydeathh-Kazzak^N2^SpI^N3^SDAMAGER^N4^SCitizen^N6^N0^N7^N228.75^N8^N265^t^^ RAID Neveh-Kazzak", -- [861]
-			"<21:28:56><Comm>	 ^1^Sxrealm^T^N1^SUnholydeathh-Kazzak^N2^SpI^N3^SDAMAGER^N4^SCitizen^N6^N0^N7^N228.75^N8^N581^t^^ RAID Bevv-Kazzak", -- [862]
-			"<21:28:56><Comm>	 ^1^Sxrealm^T^N1^SUnholydeathh-Kazzak^N2^SpI^N3^SHEALER^N4^SMike~`Pence^N6^N0^N7^N227.5^N8^N65^t^^ RAID Tankzorx-Kazzak", -- [863]
-			"<21:28:56><Comm>	 ^1^Sxrealm^T^N1^SUnholydeathh-Kazzak^N2^SpI^N3^SDAMAGER^N4^SCitizen^N6^N0^N7^N227.9375^N8^N254^t^^ RAID Ceases-Kazzak", -- [864]
-			"<21:28:56><Comm>	 ^1^Sxrealm^T^N1^SUnholydeathh-Kazzak^N2^SpI^N3^STANK^N4^SCitizen^N6^N0^N7^N227.125^N8^N268^t^^ RAID Misêry-Kazzak", -- [865]
-			"<21:28:56><Comm>	 ^1^Sxrealm^T^N1^SUnholydeathh-Kazzak^N2^SpI^N3^SHEALER^N4^SVisa~`Visitor^N5^B^N6^N35^N7^N227.3125^N8^N65^t^^ RAID Kvaernp-Kazzak", -- [866]
-			"<21:28:56><Comm>	 ^1^Sxrealm^T^N1^SUnholydeathh-Kazzak^N2^SpI^N3^STANK^N4^STRUMP^N6^N0^N7^N227.4375^N8^N250^t^^ RAID Unholydeathh-Kazzak", -- [867]
-			"<21:28:56><Comm>	 ^1^Sxrealm^T^N1^SUnholydeathh-Kazzak^N2^SpI^N3^SHEALER^N4^SCitizen^N6^N0^N7^N227.875^N8^N105^t^^ RAID Arookie-Kazzak", -- [868]
-			"<21:28:56><Comm>	 ^1^Sxrealm^T^N1^SUnholydeathh-Kazzak^N2^SpI^N3^SDAMAGER^N4^SCitizen^N6^N0^N7^N227.875^N8^N254^t^^ RAID Sanshot-Kazzak", -- [869]
-			"<21:28:56><Comm>	 ^1^Sxrealm^T^N1^SUnholydeathh-Kazzak^N2^SpI^N3^SDAMAGER^N4^SCitizen^N5^B^N6^N115^N7^N227.4375^N8^N72^t^^ RAID Riworra-Kazzak", -- [870]
-			"<21:28:56><Comm>	 ^1^Sxrealm^T^N1^SUnholydeathh-Kazzak^N2^SpI^N3^SDAMAGER^N4^SCitizen^N6^N0^N7^N226.375^N8^N102^t^^ RAID Macuc-Kazzak", -- [871]
-			"<21:28:56><Comm>	 ^1^Sxrealm^T^N1^SUnholydeathh-Kazzak^N2^SpI^N3^SDAMAGER^N4^SCitizen^N6^N0^N7^N229.1875^N8^N63^t^^ RAID Skonheden-Kazzak", -- [872]
-			"<21:28:56><Comm>	 ^1^Sxrealm^T^N1^SUnholydeathh-Kazzak^N2^SpI^N3^SHEALER^N4^SCitizen^N6^N0^N7^N229.1875^N8^N264^t^^ RAID Seksixeny-Kazzak", -- [873]
-			"<21:28:56><Comm>	 ^1^Sxrealm^T^N1^SUnholydeathh-Kazzak^N2^SpI^N3^SDAMAGER^N4^SVisa~`Visitor^N6^N0^N7^N225.625^N8^N70^t^^ RAID Creo-Kazzak", -- [874]
-			"<21:28:58><Comm>	 ^1^SStartHandleLoot^T^t^^ RAID Unholydeathh-Kazzak", -- [875]
-			"<21:28:58><Comm>	 ^1^Scouncil^T^N1^T^S1305-0AFC367F^B^S1305-0B0DCA21^B^S1305-0B0E3079^B^t^t^^ RAID Unholydeathh-Kazzak", -- [876]
-			"<21:28:58><DEBUG>	 isCouncil false", -- [877]
-			"<21:29:10><DEBUG>	 Timer MLdb_check passed", -- [878]
-			"<21:30:26><DEBUG>	 Event: ENCOUNTER_START 2417 Stone Legion Generals 16 20", -- [879]
-			"<21:30:26><INFO>	 UpdatePlayersData()", -- [880]
-			"<21:37:19><Comm>	 ^1^Sv^T^N1^S3.1.4^t^^ GUILD Magearñ-Kazzak", -- [881]
-			"<21:37:19><Comm>	 ^1^Sr^T^N1^S3.1.3^N3^T^t^t^^ GUILD Kessrogue-Kazzak", -- [882]
-			"<21:37:48><DEBUG>	 Event: ENCOUNTER_END 2417 Stone Legion Generals 16 20 0", -- [883]
-			"<21:39:29><DEBUG>	 Event: ENCOUNTER_START 2417 Stone Legion Generals 16 20", -- [884]
-			"<21:39:29><INFO>	 UpdatePlayersData()", -- [885]
-			"<21:47:09><DEBUG>	 Event: ENCOUNTER_END 2417 Stone Legion Generals 16 20 0", -- [886]
-			"<21:48:35><DEBUG>	 Event: ENCOUNTER_START 2417 Stone Legion Generals 16 20", -- [887]
-			"<21:48:35><INFO>	 UpdatePlayersData()", -- [888]
-			"<21:52:00><DEBUG>	 Event: ENCOUNTER_END 2417 Stone Legion Generals 16 20 0", -- [889]
-			"<21:53:19><Comm>	 ^1^Sv^T^N1^S3.1.4^t^^ GUILD Kvaernp-Kazzak", -- [890]
-			"<21:53:19><Comm>	 ^1^Sr^T^N1^S3.1.3^N3^T^t^t^^ GUILD Kessrogue-Kazzak", -- [891]
-			"<21:53:34><Comm>	 ^1^Sxrealm^T^N1^SUnholydeathh-Kazzak^N2^SMLdb_request^t^^ RAID Kvaernp-Kazzak", -- [892]
-			"<21:53:34><Comm>	 ^1^Sxrealm^T^N1^SUnholydeathh-Kazzak^N2^Scouncil_request^t^^ RAID Kvaernp-Kazzak", -- [893]
-			"<21:53:34><Comm>	 ^1^Smldb^T^N1^T^S|8^T^S|14^T^N1^T^S|15^SNeed~`(BIS~`stats)^t^N2^T^S|15^SNeed~`(Not~`BiS~`stats)^t^N3^T^S|15^SVery~`Minor^t^N4^T^S|15^SResiduum^t^N5^T^S|15^SOffspecxd^t^N6^T^S|15^STRANSMOG~`X~`D^t^S|5^N6^t^t^S|12^N60^S|11^T^S|14^T^N1^T^S|15^SNeed~`(BIS~`stats)^S|4^N1^S|16^T^N1^N1^N2^N0.53^N3^N0^N4^N1^t^t^N2^T^S|15^SNeed~`(Not~`BiS~`stats)^S|4^N2^S|16^T^N1^N0.04^N2^N0.14^N3^N1^N4^N1^t^t^N3^T^S|15^SVery~`Minor~`(if~`noone~`else)^S|4^N3^S|16^T^N1^N0.07^N2^N0.7^N3^N0.07^N4^N1^t^t^N4^T^S|15^SResiduum^S|4^N4^S|16^T^N1^N0.25^N2^N0.7^N3^N0.7^N4^N1^t^t^N5^T^S|15^SOffspecxd^S|4^N5^S|16^T^N1^N0.7^N2^N0.67^N3^N0^N4^N1^t^t^N6^T^S|15^STRANSMOG~`XD^S|4^N6^S|16^T^N1^N0.69^N2^N0.02^N3^N0.66^N4^N1^t^t^t^t^S|6^B^S|5^N6^t^t^^ RAID Unholydeathh-Kazzak", -- [894]
-			"<21:53:34><INFO>	 OnMLDBReceived", -- [895]
-			"<21:53:34><Comm>	 ^1^Scouncil^T^N1^T^S1305-0AFC367F^B^S1305-0B0DCA21^B^S1305-0B0E3079^B^t^t^^ RAID Unholydeathh-Kazzak", -- [896]
-			"<21:53:34><DEBUG>	 isCouncil false", -- [897]
-			"<21:53:46><DEBUG>	 Event: ENCOUNTER_START 2417 Stone Legion Generals 16 20", -- [898]
-			"<21:53:46><INFO>	 UpdatePlayersData()", -- [899]
-			"<22:00:47><DEBUG>	 Event: ENCOUNTER_END 2417 Stone Legion Generals 16 20 0", -- [900]
-			"<22:02:15><DEBUG>	 Event: ENCOUNTER_START 2417 Stone Legion Generals 16 20", -- [901]
-			"<22:02:15><INFO>	 UpdatePlayersData()", -- [902]
-			"<22:05:52><DEBUG>	 Event: ENCOUNTER_END 2417 Stone Legion Generals 16 20 0", -- [903]
-			"<22:07:48><DEBUG>	 Event: ENCOUNTER_START 2417 Stone Legion Generals 16 20", -- [904]
-			"<22:07:48><INFO>	 UpdatePlayersData()", -- [905]
-			"<22:17:52><DEBUG>	 Event: ENCOUNTER_END 2417 Stone Legion Generals 16 20 1", -- [906]
-			"<22:17:54><DEBUG>	 Event: LOOT_READY true", -- [907]
-			"<22:17:54><DEBUG>	 Adding to self.lootSlotInfo 1 nil 1 0 Vehicle-0-4253-2296-4475-168112-00004934CF 733773", -- [908]
-			"<22:17:54><DEBUG>	 Event: LOOT_READY true", -- [909]
-			"<22:17:54><DEBUG>	 Adding to self.lootSlotInfo 1 nil 1 0 Vehicle-0-4253-2296-4475-168112-00004934CF 733773", -- [910]
-			"<22:17:54><DEBUG>	 Event: ENCOUNTER_LOOT_RECEIVED 2417 184286 |cff0070dd|Hitem:184286::::::::60:262:::::::|h[Extinguished Soul Anima]|h|r 5 Rentaki SHAMAN", -- [911]
-			"<22:17:54><DEBUG>	 Event: ENCOUNTER_LOOT_RECEIVED 2417 182134 |cffa335ee|Hitem:182134::::::::60:262::6:2:1553:7245:2:28:753:37:7:::|h[Unruly Winds]|h|r 1 Rentaki SHAMAN", -- [912]
-			"<22:17:54><DEBUG>	 OnLootSlotCleared() 1 nil 1", -- [913]
-			"<22:17:54><DEBUG>	 Event: LOOT_CLOSED", -- [914]
-			"<22:17:54><DEBUG>	 Event: LOOT_CLOSED", -- [915]
-			"<22:17:55><Comm>	 ^1^Sl^T^N1^S168112^t^^ RAID Rentaki-Kazzak", -- [916]
-			"<22:17:55><Comm>	 ^1^Sl^T^N1^S168112^t^^ RAID Rentaki-Kazzak", -- [917]
-			"<22:17:55><Comm>	 ^1^Sl^T^N1^S168112^t^^ RAID Vapee-Kazzak", -- [918]
-			"<22:17:55><Comm>	 ^1^Sl^T^N1^S168112^t^^ RAID Vapee-Kazzak", -- [919]
-			"<22:17:55><Comm>	 ^1^Sl^T^N1^S168112^t^^ RAID Skonheden-Kazzak", -- [920]
-			"<22:17:55><Comm>	 ^1^Sl^T^N1^S168112^t^^ RAID Skonheden-Kazzak", -- [921]
-			"<22:17:55><Comm>	 ^1^Sl^T^N1^S168112^t^^ RAID Nited-Kazzak", -- [922]
-			"<22:17:55><Comm>	 ^1^Sl^T^N1^S168112^t^^ RAID Ceases-Kazzak", -- [923]
-			"<22:17:55><DEBUG>	 Event: ENCOUNTER_LOOT_RECEIVED 2417 183167 |cffa335ee|Hitem:183167::::::::60:262::6:2:1553:7245:2:28:753:37:7:::|h[Strength of the Pack]|h|r 1 Ceases HUNTER", -- [924]
-			"<22:17:55><DEBUG>	 Event: ENCOUNTER_LOOT_RECEIVED 2417 182464 |cffa335ee|Hitem:182464::::::::60:262::6:2:1553:7245:2:28:753:37:7:::|h[Harmony of the Tortollan]|h|r 1 Adrenalynz HUNTER", -- [925]
-			"<22:17:56><Comm>	 ^1^Sl^T^N1^S168112^t^^ RAID Adrenalynz-Kazzak", -- [926]
-			"<22:17:56><Comm>	 ^1^Sl^T^N1^S168112^t^^ RAID Adrenalynz-Kazzak", -- [927]
-			"<22:17:56><Comm>	 ^1^Sl^T^N1^S168112^t^^ RAID Kvaernp-Kazzak", -- [928]
-			"<22:17:56><Comm>	 ^1^Sl^T^N1^S168112^t^^ RAID Kvaernp-Kazzak", -- [929]
-			"<22:17:56><Comm>	 ^1^Sl^T^N1^S168112^t^^ RAID Misêry-Kazzak", -- [930]
-			"<22:17:56><Comm>	 ^1^Sl^T^N1^S168112^t^^ RAID Misêry-Kazzak", -- [931]
-			"<22:17:57><Comm>	 ^1^Sl^T^N1^S168112^t^^ RAID Arookie-Kazzak", -- [932]
-			"<22:17:57><Comm>	 ^1^Sl^T^N1^S168112^t^^ RAID Arookie-Kazzak", -- [933]
-			"<22:17:57><Comm>	 ^1^Sl^T^N1^S168112^t^^ RAID Unholydeathh-Kazzak", -- [934]
-			"<22:17:57><Comm>	 ^1^Sl^T^N1^S168112^t^^ RAID Unholydeathh-Kazzak", -- [935]
-			"<22:17:58><Comm>	 ^1^Sl^T^N1^S168112^t^^ RAID Seksixeny-Kazzak", -- [936]
-			"<22:17:58><Comm>	 ^1^Sl^T^N1^S168112^t^^ RAID Seksixeny-Kazzak", -- [937]
-			"<22:17:58><DEBUG>	 Event: ENCOUNTER_LOOT_RECEIVED 2417 183894 |cffa335ee|Hitem:183894::::::::60:262::85:3:7187:1498:6646:1:28:753:::|h[Thaumaturgic Anima Bead]|h|r 1 Macuc DRUID", -- [938]
-			"<22:17:59><Comm>	 ^1^Sl^T^N1^S168112^t^^ RAID Macuc-Kazzak", -- [939]
-			"<22:17:59><Comm>	 ^1^Sl^T^N1^S168112^t^^ RAID Macuc-Kazzak", -- [940]
-			"<22:18:00><Comm>	 ^1^Sl^T^N1^S168112^t^^ RAID Bevv-Kazzak", -- [941]
-			"<22:18:00><Comm>	 ^1^Sl^T^N1^S168112^t^^ RAID Bevv-Kazzak", -- [942]
-			"<22:18:01><Comm>	 ^1^Sl^T^N1^S168112^t^^ RAID Tokzik-Kazzak", -- [943]
-			"<22:18:01><Comm>	 ^1^Sl^T^N1^S168112^t^^ RAID Tokzik-Kazzak", -- [944]
-			"<22:18:01><Comm>	 ^1^Sn_t^T^N1^S|cffa335ee|Hitem:183894::::::::60:102::85:3:7187:1498:6646:1:28:753:::|h[Thaumaturgic~`Anima~`Bead]|h|r^N2^S168112^t^^ RAID Macuc-Kazzak", -- [945]
-			"<22:18:02><Comm>	 ^1^Shistory^T^N1^SMacuc-Kazzak^N2^T^SmapID^N2296^Sowner^SMacuc-Kazzak^Sid^S1615407484-0^Sinstance^SCastle~`Nathria-Mythic^Sclass^SDRUID^Sdate^S10/03/21^Sresponse^SPersonal~`Loot~`-~`Non~`tradeable^SgroupSize^N20^SisAwardReason^b^SlootWon^S|cffa335ee|Hitem:183894::::::::60:102::85:3:7187:1498:6646:1:28:753:::|h[Thaumaturgic~`Anima~`Bead]|h|r^SdifficultyID^N16^Sboss^SStone~`Legion~`Generals^SresponseID^SPL^Stime^S22:18:04^Scolor^T^N1^N1^N2^N0.6^N3^N0^N4^N1^t^t^t^^ RAID Unholydeathh-Kazzak", -- [946]
-			"<22:18:06><Comm>	 ^1^SfakeLoot^T^N1^S|cffa335ee|Hitem:183032::::::::60:65::85:4:7187:6652:1498:6646:1:28:753:::|h[Crest~`of~`the~`Legionnaire~`General]|h|r^N2^S168112^t^^ RAID Tankzorx-Kazzak", -- [947]
-			"<22:18:07><DEBUG>	 Event: ENCOUNTER_LOOT_RECEIVED 2417 183032 |cffa335ee|Hitem:183032::::::::60:262::85:4:7187:6652:1498:6646:1:28:753:::|h[Crest of the Legionnaire General]|h|r 1 Tankzorx PALADIN", -- [948]
-			"<22:18:08><Comm>	 ^1^Sl^T^N1^S168112^t^^ RAID Tankzorx-Kazzak", -- [949]
-			"<22:18:08><Comm>	 ^1^Sl^T^N1^S168112^t^^ RAID Tankzorx-Kazzak", -- [950]
-			"<22:18:10><Comm>	 ^1^Sn_t^T^N1^S|cffa335ee|Hitem:183032::::::::60:65::85:4:7187:6652:1498:6646:1:28:753:::|h[Crest~`of~`the~`Legionnaire~`General]|h|r^N2^S168112^t^^ RAID Tankzorx-Kazzak", -- [951]
-			"<22:18:11><Comm>	 ^1^Shistory^T^N1^STankzorx-Kazzak^N2^T^SmapID^N2296^Sowner^STankzorx-Kazzak^Sid^S1615407493-1^Sinstance^SCastle~`Nathria-Mythic^Sclass^SPALADIN^Sdate^S10/03/21^Sresponse^SPersonal~`Loot~`-~`Non~`tradeable^SgroupSize^N20^SisAwardReason^b^SlootWon^S|cffa335ee|Hitem:183032::::::::60:65::85:4:7187:6652:1498:6646:1:28:753:::|h[Crest~`of~`the~`Legionnaire~`General]|h|r^SdifficultyID^N16^Sboss^SStone~`Legion~`Generals^SresponseID^SPL^Stime^S22:18:13^Scolor^T^N1^N1^N2^N0.6^N3^N0^N4^N1^t^t^t^^ RAID Unholydeathh-Kazzak", -- [952]
-			"<22:18:11><Comm>	 ^1^Sl^T^N1^S168112^t^^ RAID Kessrogue-Kazzak", -- [953]
-			"<22:18:11><Comm>	 ^1^Sl^T^N1^S168112^t^^ RAID Kessrogue-Kazzak", -- [954]
-			"<22:18:13><Comm>	 ^1^Sl^T^N1^S168112^t^^ RAID Neveh-Kazzak", -- [955]
-			"<22:18:13><Comm>	 ^1^Sl^T^N1^S168112^t^^ RAID Neveh-Kazzak", -- [956]
-			"<22:18:14><DEBUG>	 Event: ENCOUNTER_LOOT_RECEIVED 2417 183002 |cffa335ee|Hitem:183002::::::::60:262::85:4:7187:6652:1498:6646:1:28:753:::|h[Ceremonial Parade Legguards]|h|r 1 Sacraa WARRIOR", -- [957]
-			"<22:18:15><Comm>	 ^1^Sl^T^N1^S168112^t^^ RAID Sacraa-Kazzak", -- [958]
-			"<22:18:17><Comm>	 ^1^Sn_t^T^N1^S|cffa335ee|Hitem:183002::::::::60:72::85:4:7187:6652:1498:6646:1:28:753:::|h[Ceremonial~`Parade~`Legguards]|h|r^N2^S168112^t^^ RAID Sacraa-Kazzak", -- [959]
-			"<22:18:17><Comm>	 ^1^Shistory^T^N1^SSacraa-Kazzak^N2^T^SmapID^N2296^Sowner^SSacraa-Kazzak^Sid^S1615407500-2^Sinstance^SCastle~`Nathria-Mythic^Sclass^SWARRIOR^Sdate^S10/03/21^Sresponse^SPersonal~`Loot~`-~`Non~`tradeable^SgroupSize^N20^SisAwardReason^b^SlootWon^S|cffa335ee|Hitem:183002::::::::60:72::85:4:7187:6652:1498:6646:1:28:753:::|h[Ceremonial~`Parade~`Legguards]|h|r^SdifficultyID^N16^Sboss^SStone~`Legion~`Generals^SresponseID^SPL^Stime^S22:18:20^Scolor^T^N1^N1^N2^N0.6^N3^N0^N4^N1^t^t^t^^ RAID Unholydeathh-Kazzak", -- [960]
-			"<22:18:20><Comm>	 ^1^Sl^T^N1^S168112^t^^ RAID Sanshot-Kazzak", -- [961]
-			"<22:18:20><Comm>	 ^1^Sl^T^N1^S168112^t^^ RAID Sanshot-Kazzak", -- [962]
-			"<22:18:21><DEBUG>	 Event: ENCOUNTER_LOOT_RECEIVED 2417 184027 |cffa335ee|Hitem:184027::::::::60:262::85:4:7187:6652:1498:6646:1:28:753:::|h[Stone Legion Heraldry]|h|r 1 Riworra WARRIOR", -- [963]
-			"<22:18:21><DEBUG>	 Event: ENCOUNTER_LOOT_RECEIVED 2417 180842 |cffa335ee|Hitem:180842::::::::60:262::6:2:1553:7245:2:28:753:37:7:::|h[Stalwart Guardian]|h|r 1 Riworra WARRIOR", -- [964]
-			"<22:18:22><Comm>	 ^1^Sl^T^N1^S168112^t^^ RAID Riworra-Kazzak", -- [965]
-			"<22:18:22><Comm>	 ^1^Sl^T^N1^S168112^t^^ RAID Riworra-Kazzak", -- [966]
-			"<22:18:24><Comm>	 ^1^Stradable^T^N1^S|cffa335ee|Hitem:184027::::::::60:72::85:4:7187:6652:1498:6646:1:28:753:::|h[Stone~`Legion~`Heraldry]|h|r^N2^S168112^t^^ RAID Riworra-Kazzak", -- [967]
-			"<22:18:26><Comm>	 ^1^SlootTable^T^N1^T^N1^T^Sstring^S184027:::::::::::85:4:7187:6652:1498:6646:1:28:753^StypeCode^Sdefault^Sowner^SRiworra-Kazzak^Sboss^SStone~`Legion~`Generals^t^t^t^^ RAID Unholydeathh-Kazzak", -- [968]
-			"<22:18:26><INFO>	 GetPlayersGear |cffa335ee|Hitem:184027::::::::60:262::85:4:7187:6652:1498:6646:1:28:753:::|h[Stone Legion Heraldry]|h|r INVTYPE_TRINKET", -- [969]
-			"<22:18:26><INFO>	 LootFrame:Start 1 nil", -- [970]
-			"<22:18:26><DEBUG>	 Restoring entry: default 1", -- [971]
-			"<22:18:26><DEBUG>	 GetButtons default", -- [972]
-			"<22:18:26><Comm>	 ^1^SlootAck^T^N1^N252^N2^N226.4375^N3^T^Sresponse^T^t^Sdiff^T^N1^N23^t^Sgear1^T^N1^S175921::::::::60:252::14:3:6623:1498:6646:1:28:807^t^Sgear2^T^N1^S179350::::::::60:252::16:5:7214:6652:1501:5868:6646:1:28:1279^t^t^t^^ RAID Tokzik-Kazzak", -- [973]
-			"<22:18:27><Comm>	 ^1^SlootAck^T^N1^N256^N2^N227.875^N3^T^Sresponse^T^t^Sdiff^T^N1^N7^t^Sgear1^T^N1^S178386::::::::60:256::14:3:6623:1498:6646:1:28:807^t^Sgear2^T^N1^S175921::::::::60:256::14:3:6623:1498:6646:1:28:807^t^t^t^^ RAID Vapee-Kazzak", -- [974]
-			"<22:18:27><Comm>	 ^1^SlootAck^T^N1^N268^N2^N227.125^N3^T^Sresponse^T^t^Sdiff^T^N1^N0^t^Sgear1^T^N1^S184018::::::::60:268::6:4:7187:6652:1498:6646^t^Sgear2^T^N1^S184027::::::::60:268::85:4:7187:6652:1498:6646:1:28:753^t^t^t^^ RAID Misêry-Kazzak", -- [975]
-			"<22:18:27><Comm>	 ^1^SlootAck^T^N1^N102^N2^N225.9375^N3^T^Sresponse^T^t^Sdiff^T^N1^N39^t^Sgear1^T^N1^S184842::::::::60:102::27:4:6652:1472:5891:6646^t^Sgear2^T^N1^S178386::::::::60:102::14:3:6625:1492:6646:1:28:807^t^t^t^^ RAID Nited-Kazzak", -- [976]
-			"<22:18:27><Comm>	 ^1^SlootAck^T^N1^N254^N2^N229.1875^N3^T^Sresponse^T^t^Sdiff^T^N1^N0^t^Sgear1^T^N1^S175921::::::::60:254::14:3:6623:1498:6646:1:28:807^t^Sgear2^T^N1^S184027::::::::60:254::85:4:7187:6652:1498:6646:1:28:753^t^t^t^^ RAID Adrenalynz-Kazzak", -- [977]
-			"<22:18:27><Comm>	 ^1^SlootAck^T^N1^N72^N2^N227.4375^N3^T^Sresponse^T^t^Sdiff^T^N1^N0^t^Sgear1^T^N1^S178386::::::::60:72::14:3:6623:1498:6646:1:28:807^t^Sgear2^T^N1^S184027::::::::60:72::85:4:7187:6652:1498:6646^t^t^t^^ RAID Riworra-Kazzak", -- [978]
-			"<22:18:27><Comm>	 ^1^SlootAck^T^N1^N65^N2^N227.3125^N3^T^Sresponse^T^t^Sdiff^T^N1^N13^t^Sgear1^T^N1^S184028::::::::60:65::84:4:7188:6652:1485:6646:1:28:752^t^Sgear2^T^N1^S178386::::::::60:65::14:3:6623:1498:6646:1:28:807^t^t^t^^ RAID Kvaernp-Kazzak", -- [979]
-			"<22:18:27><Comm>	 ^1^SlootAck^T^N1^N577^N2^N228.5625^N3^T^Sresponse^T^t^Sdiff^T^N1^N0^t^Sgear1^T^N1^S184030::::::::60:577::85:4:7187:6652:1498:6646^t^Sgear2^T^N1^S184027::::::::60:577::85:4:7187:6652:1498:6646:1:28:753^t^t^t^^ RAID Bevv-Kazzak", -- [980]
-			"<22:18:27><Comm>	 ^1^SlootAck^T^N1^N262^N2^N229.1875^N3^T^Sresponse^T^t^Sdiff^T^N1^N0^t^Sgear1^T^N1^S184030::::::::60:262::85:4:7187:6652:1498:6646:1:28:753^t^Sgear2^T^N1^S184028::::::::60:262::85:4:7187:6652:1498:6646^t^t^t^^ RAID Rentaki-Kazzak", -- [981]
-			"<22:18:27><Comm>	 ^1^SlootAck^T^N1^N265^N2^N228.75^N3^T^Sresponse^T^t^Sdiff^T^N1^N7^t^Sgear1^T^N1^S175921::::::::60:265::14:3:6623:1498:6646:1:28:807^t^Sgear2^T^N1^S178386::::::::60:265::14:3:6623:1498:6646:1:28:807^t^t^t^^ RAID Neveh-Kazzak", -- [982]
-			"<22:18:27><Comm>	 ^1^SlootAck^T^N1^N72^N2^N226.625^N3^T^Sresponse^T^t^Sdiff^T^N1^N0^t^Sgear1^T^N1^S184027::::::::60:72::85:4:7187:6652:1498:6646:1:28:753^t^Sgear2^T^N1^S184016::::::::60:72::6:4:7187:6652:1498:6646^t^t^t^^ RAID Sacraa-Kazzak", -- [983]
-			"<22:18:27><Comm>	 ^1^SlootAck^T^N1^N102^N2^N226.375^N3^T^Sresponse^T^t^Sdiff^T^N1^N39^t^Sgear1^T^N1^S184028::::::::60:102::84:4:7188:6652:1485:6646:1:28:752^t^Sgear2^T^N1^S184842::::::::60:102::27:4:6652:1472:5891:6646^t^t^t^^ RAID Macuc-Kazzak", -- [984]
-			"<22:18:27><Comm>	 ^1^SlootAck^T^N1^N63^N2^N229.1875^N3^T^Sresponse^T^t^Sdiff^T^N1^N7^t^Sgear1^T^N1^S184028::::::::60:63::85:4:7187:6652:1498:6646^t^Sgear2^T^N1^S175921::::::::60:63::14:3:6623:1498:6646:1:28:807^t^t^t^^ RAID Skonheden-Kazzak", -- [985]
-			"<22:18:27><Comm>	 ^1^SlootAck^T^N1^N105^N2^N227.875^N3^T^Sresponse^T^t^Sdiff^T^N1^N7^t^Sgear1^T^N1^S178708::::::::60:105::35:6:7214:6652:1501:5884:6646:6917^t^Sgear2^T^N1^S178386::::::::60:105::14:3:6623:1498:6646:1:28:807^t^t^t^^ RAID Arookie-Kazzak", -- [986]
-			"<22:18:27><Comm>	 ^1^SlootAck^T^N1^N254^N2^N227.875^N3^T^Sresponse^T^t^Sdiff^T^N1^N0^t^Sgear1^T^N1^S180116::::::::60:254::35:5:7214:6652:1501:5884:6646^t^Sgear2^T^N1^S184027::::::::60:254::85:4:7187:6652:1498:6646^t^t^t^^ RAID Sanshot-Kazzak", -- [987]
-			"<22:18:27><Comm>	 ^1^SlootAck^T^N1^N65^N2^N227.5^N3^T^Sresponse^T^t^Sdiff^T^N1^N7^t^Sgear1^T^N1^S178386::::::::60:65::40:4:41:6623:1498:6646^t^Sgear2^T^N1^S184029::::::::60:65::85:4:7187:6652:1498:6646:1:28:753^t^t^t^^ RAID Tankzorx-Kazzak", -- [988]
-			"<22:18:27><Comm>	 ^1^SlootAck^T^N1^N259^N2^N225.625^N3^T^Sresponse^T^t^Sdiff^T^N1^N7^t^Sgear1^T^N1^S184026::::::::60:259::6:4:7187:6652:1498:6646:1:28:753^t^Sgear2^T^N1^S184030::::::::60:259::85:4:7187:6652:1498:6646^t^t^t^^ RAID Kessrogue-Kazzak", -- [989]
-			"<22:18:27><Comm>	 ^1^SlootAck^T^N1^N264^N2^N229.1875^N3^T^Sresponse^T^t^Sdiff^T^N1^N0^t^Sgear1^T^N1^S184028::::::::60:264::85:4:7187:6652:1498:6646^t^Sgear2^T^N1^S184029::::::::60:264::85:4:7187:6652:1498:6646:1:28:753^t^t^t^^ RAID Seksixeny-Kazzak", -- [990]
-			"<22:18:27><Comm>	 ^1^SlootAck^T^N1^N254^N2^N227.9375^N3^T^Sresponse^T^t^Sdiff^T^N1^N0^t^Sgear1^T^N1^S180116::::::::60:254::35:5:7213:6652:1501:5884:6646^t^Sgear2^T^N1^S184027::::::::60:254::85:4:7187:42:1498:6646:1:28:753^t^t^t^^ RAID Ceases-Kazzak", -- [991]
-			"<22:18:27><Comm>	 ^1^SlootAck^T^N1^N250^N2^N227.4375^N3^T^Sresponse^T^t^Sdiff^T^N1^N0^t^Sgear1^T^N1^S179331::::::::60:250::35:5:7214:6652:1501:5884:6646^t^Sgear2^T^N1^S184027::::::::60:250::85:4:7187:6652:1498:6646:1:28:753^t^t^t^^ RAID Unholydeathh-Kazzak", -- [992]
-			"<22:18:28><Comm>	 ^1^Sresponse^T^N1^N1^N2^T^Sresponse^SPASS^t^t^^ RAID Nited-Kazzak", -- [993]
-			"<22:18:28><Comm>	 ^1^Sresponse^T^N1^N1^N2^T^Sresponse^SPASS^t^t^^ RAID Kessrogue-Kazzak", -- [994]
-			"<22:18:28><Comm>	 ^1^Sresponse^T^N1^N1^N2^T^Sresponse^SPASS^t^t^^ RAID Kvaernp-Kazzak", -- [995]
-			"<22:18:29><Comm>	 ^1^Sresponse^T^N1^N1^N2^T^Sresponse^SPASS^t^t^^ RAID Tokzik-Kazzak", -- [996]
-			"<22:18:29><Comm>	 ^1^Sresponse^T^N1^N1^N2^T^Sresponse^SPASS^t^t^^ RAID Adrenalynz-Kazzak", -- [997]
-			"<22:18:29><Comm>	 ^1^Sresponse^T^N1^N1^N2^T^Sresponse^SPASS^t^t^^ RAID Skonheden-Kazzak", -- [998]
-			"<22:18:30><Comm>	 ^1^Sresponse^T^N1^N1^N2^T^Snote^b^Sresponse^SPASS^t^t^^ RAID Neveh-Kazzak", -- [999]
-			"<22:18:30><Comm>	 ^1^Sresponse^T^N1^N1^N2^T^Sresponse^SPASS^t^t^^ RAID Sacraa-Kazzak", -- [1000]
-			"<22:18:30><Comm>	 ^1^Sresponse^T^N1^N1^N2^T^Sresponse^SPASS^t^t^^ RAID Bevv-Kazzak", -- [1001]
-			"<22:18:30><Comm>	 ^1^Sresponse^T^N1^N1^N2^T^Sresponse^N6^t^t^^ RAID Misêry-Kazzak", -- [1002]
-			"<22:18:30><Comm>	 ^1^Sresponse^T^N1^N1^N2^T^Sresponse^N5^t^t^^ RAID Tankzorx-Kazzak", -- [1003]
-			"<22:18:31><Comm>	 ^1^Sresponse^T^N1^N1^N2^T^Sresponse^SPASS^t^t^^ RAID Ceases-Kazzak", -- [1004]
-			"<22:18:31><DEBUG>	 LootFrame:Response 5 Response: Offspecxd", -- [1005]
-			"<22:18:31><DEBUG>	 SendResponse group 1 5 nil nil nil nil nil nil nil nil nil nil", -- [1006]
-			"<22:18:31><DEBUG>	 Trashing entry: 1 |cffa335ee|Hitem:184027::::::::60:262::85:4:7187:6652:1498:6646:1:28:753:::|h[Stone Legion Heraldry]|h|r", -- [1007]
-			"<22:18:31><Comm>	 ^1^Sresponse^T^N1^N1^N2^T^Sresponse^N5^t^t^^ RAID Rentaki-Kazzak", -- [1008]
-			"<22:18:32><Comm>	 ^1^Sresponse^T^N1^N1^N2^T^Sresponse^N5^t^t^^ RAID Macuc-Kazzak", -- [1009]
-			"<22:18:32><Comm>	 ^1^Sresponse^T^N1^N1^N2^T^Sresponse^SPASS^t^t^^ RAID Unholydeathh-Kazzak", -- [1010]
-			"<22:18:32><Comm>	 ^1^Sresponse^T^N1^N1^N2^T^Sresponse^N5^t^t^^ RAID Seksixeny-Kazzak", -- [1011]
-			"<22:18:34><Comm>	 ^1^Sresponse^T^N1^N1^N2^T^Sresponse^SPASS^t^t^^ RAID Riworra-Kazzak", -- [1012]
-			"<22:18:37><Comm>	 ^1^Sresponse^T^N1^N1^N2^T^Sresponse^SPASS^t^t^^ RAID Arookie-Kazzak", -- [1013]
-			"<22:18:38><Comm>	 ^1^Soffline_timer^T^t^^ RAID Unholydeathh-Kazzak", -- [1014]
-			"<22:18:51><Comm>	 ^1^Sresponse^T^N1^N1^N2^T^Sresponse^SPASS^t^t^^ RAID Vapee-Kazzak", -- [1015]
-			"<22:18:52><Comm>	 ^1^Sresponse^T^N1^N1^N2^T^Sresponse^SPASS^t^t^^ RAID Sanshot-Kazzak", -- [1016]
-			"<22:19:41><Comm>	 ^1^Ssession_end^T^t^^ RAID Unholydeathh-Kazzak", -- [1017]
-			"<22:19:58><Comm>	 ^1^Sxrealm^T^N1^SUnholydeathh-Kazzak^N2^SMLdb_request^t^^ RAID Memescoper-Kazzak", -- [1018]
-			"<22:19:58><Comm>	 ^1^Sxrealm^T^N1^SUnholydeathh-Kazzak^N2^Scouncil_request^t^^ RAID Memescoper-Kazzak", -- [1019]
-			"<22:19:58><Comm>	 ^1^Smldb^T^N1^T^S|8^T^S|14^T^N1^T^S|15^SNeed~`(BIS~`stats)^t^N2^T^S|15^SNeed~`(Not~`BiS~`stats)^t^N3^T^S|15^SVery~`Minor^t^N4^T^S|15^SResiduum^t^N5^T^S|15^SOffspecxd^t^N6^T^S|15^STRANSMOG~`X~`D^t^S|5^N6^t^t^S|12^N60^S|11^T^S|14^T^N1^T^S|15^SNeed~`(BIS~`stats)^S|4^N1^S|16^T^N1^N1^N2^N0.53^N3^N0^N4^N1^t^t^N2^T^S|15^SNeed~`(Not~`BiS~`stats)^S|4^N2^S|16^T^N1^N0.04^N2^N0.14^N3^N1^N4^N1^t^t^N3^T^S|15^SVery~`Minor~`(if~`noone~`else)^S|4^N3^S|16^T^N1^N0.07^N2^N0.7^N3^N0.07^N4^N1^t^t^N4^T^S|15^SResiduum^S|4^N4^S|16^T^N1^N0.25^N2^N0.7^N3^N0.7^N4^N1^t^t^N5^T^S|15^SOffspecxd^S|4^N5^S|16^T^N1^N0.7^N2^N0.67^N3^N0^N4^N1^t^t^N6^T^S|15^STRANSMOG~`XD^S|4^N6^S|16^T^N1^N0.69^N2^N0.02^N3^N0.66^N4^N1^t^t^t^t^S|6^B^S|5^N6^t^t^^ RAID Unholydeathh-Kazzak", -- [1020]
-			"<22:19:58><INFO>	 OnMLDBReceived", -- [1021]
-			"<22:19:58><Comm>	 ^1^Scouncil^T^N1^T^S1305-0AFC367F^B^S1305-0B0DCA21^B^S1305-0B0E3079^B^t^t^^ RAID Unholydeathh-Kazzak", -- [1022]
-			"<22:19:58><DEBUG>	 isCouncil false", -- [1023]
-			"<22:22:19><DEBUG>	 TradeUI: Traded item(s) to Misêry-Kazzak", -- [1024]
-			"<22:22:19><DEBUG>	 TradeUI:Hide()", -- [1025]
-			"<22:23:42><Comm>	 ^1^SStartHandleLoot^T^t^^ RAID Unholydeathh-Kazzak", -- [1026]
-			"<22:25:29><DEBUG>	 TradeUI: Traded item(s) to Misêry-Kazzak", -- [1027]
-			"<22:25:29><DEBUG>	 TradeUI:Hide()", -- [1028]
-			"<22:26:49><DEBUG>	 Event: ENCOUNTER_START 2407 Sire Denathrius 16 20", -- [1029]
-			"<22:26:49><INFO>	 UpdatePlayersData()", -- [1030]
-			"<22:35:28><Comm>	 ^1^Sxrealm^T^N1^SUnholydeathh-Kazzak^N2^SMLdb_request^t^^ RAID Misêry-Kazzak", -- [1031]
-			"<22:35:28><Comm>	 ^1^Sxrealm^T^N1^SUnholydeathh-Kazzak^N2^Scouncil_request^t^^ RAID Misêry-Kazzak", -- [1032]
-			"<22:35:28><Comm>	 ^1^Smldb^T^N1^T^S|8^T^S|14^T^N1^T^S|15^SNeed~`(BIS~`stats)^t^N2^T^S|15^SNeed~`(Not~`BiS~`stats)^t^N3^T^S|15^SVery~`Minor^t^N4^T^S|15^SResiduum^t^N5^T^S|15^SOffspecxd^t^N6^T^S|15^STRANSMOG~`X~`D^t^S|5^N6^t^t^S|12^N60^S|11^T^S|14^T^N1^T^S|15^SNeed~`(BIS~`stats)^S|4^N1^S|16^T^N1^N1^N2^N0.53^N3^N0^N4^N1^t^t^N2^T^S|15^SNeed~`(Not~`BiS~`stats)^S|4^N2^S|16^T^N1^N0.04^N2^N0.14^N3^N1^N4^N1^t^t^N3^T^S|15^SVery~`Minor~`(if~`noone~`else)^S|4^N3^S|16^T^N1^N0.07^N2^N0.7^N3^N0.07^N4^N1^t^t^N4^T^S|15^SResiduum^S|4^N4^S|16^T^N1^N0.25^N2^N0.7^N3^N0.7^N4^N1^t^t^N5^T^S|15^SOffspecxd^S|4^N5^S|16^T^N1^N0.7^N2^N0.67^N3^N0^N4^N1^t^t^N6^T^S|15^STRANSMOG~`XD^S|4^N6^S|16^T^N1^N0.69^N2^N0.02^N3^N0.66^N4^N1^t^t^t^t^S|6^B^S|5^N6^t^t^^ RAID Unholydeathh-Kazzak", -- [1033]
-			"<22:35:28><INFO>	 OnMLDBReceived", -- [1034]
-			"<22:35:28><Comm>	 ^1^Scouncil^T^N1^T^S1305-0AFC367F^B^S1305-0B0DCA21^B^S1305-0B0E3079^B^t^t^^ RAID Unholydeathh-Kazzak", -- [1035]
-			"<22:35:28><DEBUG>	 isCouncil false", -- [1036]
-			"<22:35:59><DEBUG>	 Event: ENCOUNTER_END 2407 Sire Denathrius 16 20 0", -- [1037]
-			"<22:37:53><DEBUG>	 Event: ENCOUNTER_START 2407 Sire Denathrius 16 20", -- [1038]
-			"<22:37:53><INFO>	 UpdatePlayersData()", -- [1039]
-			"<22:42:37><DEBUG>	 Event: ENCOUNTER_END 2407 Sire Denathrius 16 20 0", -- [1040]
-			"<22:44:04><DEBUG>	 Event: ENCOUNTER_START 2407 Sire Denathrius 16 20", -- [1041]
-			"<22:44:04><INFO>	 UpdatePlayersData()", -- [1042]
-			"<22:47:36><DEBUG>	 Event: ENCOUNTER_END 2407 Sire Denathrius 16 20 0", -- [1043]
-			"<22:49:13><DEBUG>	 Event: ENCOUNTER_START 2407 Sire Denathrius 16 20", -- [1044]
-			"<22:49:13><INFO>	 UpdatePlayersData()", -- [1045]
-			"<22:59:11><DEBUG>	 Event: ENCOUNTER_END 2407 Sire Denathrius 16 20 1", -- [1046]
-			"<22:59:50><DEBUG>	 Event: LOOT_READY false", -- [1047]
-			"<22:59:50><DEBUG>	 Adding to self.lootSlotInfo 1 nil 1 0 Creature-0-4253-2296-4475-167406-0000493E97 744891", -- [1048]
-			"<22:59:51><DEBUG>	 Event: ENCOUNTER_LOOT_RECEIVED 2407 181539 |cffa335ee|Hitem:181539::::::::60:262::6:2:1553:7245:2:28:753:37:7:::|h[Discipline of the Grove]|h|r 1 Skonheden MAGE", -- [1049]
-			"<22:59:51><DEBUG>	 Event: ENCOUNTER_LOOT_RECEIVED 2407 184029 |cffa335ee|Hitem:184029::::::::60:262::85:4:7187:6652:1498:6646:1:28:753:::|h[Manabound Mirror]|h|r 1 Seksixeny SHAMAN", -- [1050]
-			"<22:59:51><Comm>	 ^1^Sl^T^N1^S167406^t^^ RAID Skonheden-Kazzak", -- [1051]
-			"<22:59:51><Comm>	 ^1^Sl^T^N1^S167406^t^^ RAID Skonheden-Kazzak", -- [1052]
-			"<22:59:51><Comm>	 ^1^Sl^T^N1^S167406^t^^ RAID Adrenalynz-Kazzak", -- [1053]
-			"<22:59:51><Comm>	 ^1^Sl^T^N1^S167406^t^^ RAID Adrenalynz-Kazzak", -- [1054]
-			"<22:59:51><Comm>	 ^1^Sl^T^N1^S167406^t^^ RAID Misêry-Kazzak", -- [1055]
-			"<22:59:51><Comm>	 ^1^Sl^T^N1^S167406^t^^ RAID Misêry-Kazzak", -- [1056]
-			"<22:59:51><Comm>	 ^1^Sl^T^N1^S167406^t^^ RAID Seksixeny-Kazzak", -- [1057]
-			"<22:59:51><Comm>	 ^1^Sl^T^N1^S167406^t^^ RAID Seksixeny-Kazzak", -- [1058]
-			"<22:59:51><DEBUG>	 OnLootSlotCleared() 1 nil 1", -- [1059]
-			"<22:59:51><DEBUG>	 Event: ENCOUNTER_LOOT_RECEIVED 2407 183495 |cffa335ee|Hitem:183495::::::::60:262::6:2:1553:7245:2:28:753:37:7:::|h[Lashing Scars]|h|r 1 Kessrogue ROGUE", -- [1060]
-			"<22:59:52><Comm>	 ^1^Sl^T^N1^S167406^t^^ RAID Ceases-Kazzak", -- [1061]
-			"<22:59:52><DEBUG>	 Event: LOOT_CLOSED", -- [1062]
-			"<22:59:52><DEBUG>	 Event: LOOT_CLOSED", -- [1063]
-			"<22:59:52><DEBUG>	 Event: ENCOUNTER_LOOT_RECEIVED 2407 184286 |cff0070dd|Hitem:184286::::::::60:262:::::::|h[Extinguished Soul Anima]|h|r 5 Rentaki SHAMAN", -- [1064]
-			"<22:59:52><DEBUG>	 Event: ENCOUNTER_LOOT_RECEIVED 2407 183473 |cffa335ee|Hitem:183473::::::::60:262::6:2:1553:7245:2:28:753:37:7:::|h[Conflux of Elements]|h|r 1 Macuc DRUID", -- [1065]
-			"<22:59:52><Comm>	 ^1^Sl^T^N1^S167406^t^^ RAID Rentaki-Kazzak", -- [1066]
-			"<22:59:52><Comm>	 ^1^Sl^T^N1^S167406^t^^ RAID Rentaki-Kazzak", -- [1067]
-			"<22:59:52><Comm>	 ^1^Sl^T^N1^S167406^t^^ RAID Kessrogue-Kazzak", -- [1068]
-			"<22:59:52><Comm>	 ^1^Sl^T^N1^S167406^t^^ RAID Kessrogue-Kazzak", -- [1069]
-			"<22:59:52><Comm>	 ^1^Sl^T^N1^S167406^t^^ RAID Arookie-Kazzak", -- [1070]
-			"<22:59:52><Comm>	 ^1^Sl^T^N1^S167406^t^^ RAID Arookie-Kazzak", -- [1071]
-			"<22:59:52><Comm>	 ^1^Sl^T^N1^S167406^t^^ RAID Neveh-Kazzak", -- [1072]
-			"<22:59:52><Comm>	 ^1^Sl^T^N1^S167406^t^^ RAID Neveh-Kazzak", -- [1073]
-			"<22:59:52><Comm>	 ^1^Sl^T^N1^S167406^t^^ RAID Riworra-Kazzak", -- [1074]
-			"<22:59:52><Comm>	 ^1^Sl^T^N1^S167406^t^^ RAID Riworra-Kazzak", -- [1075]
-			"<22:59:52><Comm>	 ^1^Sl^T^N1^S167406^t^^ RAID Macuc-Kazzak", -- [1076]
-			"<22:59:52><Comm>	 ^1^Sl^T^N1^S167406^t^^ RAID Macuc-Kazzak", -- [1077]
-			"<22:59:53><Comm>	 ^1^Sl^T^N1^S167406^t^^ RAID Nited-Kazzak", -- [1078]
-			"<22:59:53><Comm>	 ^1^Sl^T^N1^S167406^t^^ RAID Nited-Kazzak", -- [1079]
-			"<22:59:53><Comm>	 ^1^Sl^T^N1^S167406^t^^ RAID Sacraa-Kazzak", -- [1080]
-			"<22:59:53><Comm>	 ^1^Sl^T^N1^S167406^t^^ RAID Sacraa-Kazzak", -- [1081]
-			"<22:59:53><Comm>	 ^1^Sl^T^N1^S167406^t^^ RAID Sanshot-Kazzak", -- [1082]
-			"<22:59:53><Comm>	 ^1^Sl^T^N1^S167406^t^^ RAID Sanshot-Kazzak", -- [1083]
-			"<22:59:53><DEBUG>	 Event: ENCOUNTER_LOOT_RECEIVED 2407 183896 |cffa335ee|Hitem:183896::::::::60:262::85:3:7187:1498:6646:1:28:753:::|h[Abominable Anima Spherule]|h|r 1 Unholydeathh DEATHKNIGHT", -- [1084]
-			"<22:59:54><Comm>	 ^1^Sl^T^N1^S167406^t^^ RAID Unholydeathh-Kazzak", -- [1085]
-			"<22:59:54><Comm>	 ^1^Sl^T^N1^S167406^t^^ RAID Unholydeathh-Kazzak", -- [1086]
-			"<22:59:54><Comm>	 ^1^Stradable^T^N1^S|cffa335ee|Hitem:184029::::::::60:264::85:4:7187:6652:1498:6646:1:28:753:::|h[Manabound~`Mirror]|h|r^N2^S167406^t^^ RAID Seksixeny-Kazzak", -- [1087]
-			"<22:59:54><DEBUG>	 Event: ENCOUNTER_LOOT_RECEIVED 2407 183036 |cffa335ee|Hitem:183036::::::::60:262::85:5:7187:6652:7193:1498:6646:1:28:753:::|h[Most Regal Signet of Sire Denathrius]|h|r 1 Bevv DEMONHUNTER", -- [1088]
-			"<22:59:54><Comm>	 ^1^Sl^T^N1^S167406^t^^ RAID Tankzorx-Kazzak", -- [1089]
-			"<22:59:54><Comm>	 ^1^Sl^T^N1^S167406^t^^ RAID Tankzorx-Kazzak", -- [1090]
-			"<22:59:54><Comm>	 ^1^Sl^T^N1^S167406^t^^ RAID Bevv-Kazzak", -- [1091]
-			"<22:59:54><Comm>	 ^1^Sl^T^N1^S167406^t^^ RAID Bevv-Kazzak", -- [1092]
-			"<22:59:55><DEBUG>	 Event: ENCOUNTER_LOOT_RECEIVED 2407 182130 |cffa335ee|Hitem:182130::::::::60:262::6:2:1553:7245:2:28:753:37:7:::|h[Shattered Perceptions]|h|r 1 Vapee PRIEST", -- [1093]
-			"<22:59:55><Comm>	 ^1^Sl^T^N1^S167406^t^^ RAID Vapee-Kazzak", -- [1094]
-			"<22:59:55><Comm>	 ^1^Sl^T^N1^S167406^t^^ RAID Vapee-Kazzak", -- [1095]
-			"<22:59:57><Comm>	 ^1^Sn_t^T^N1^S|cffa335ee|Hitem:183896::::::::60:252::85:3:7187:1498:6646:1:28:753:::|h[Abominable~`Anima~`Spherule]|h|r^N2^S167406^t^^ RAID Unholydeathh-Kazzak", -- [1096]
-			"<22:59:57><Comm>	 ^1^Shistory^T^N1^SUnholydeathh-Kazzak^N2^T^SmapID^N2296^Sowner^SUnholydeathh-Kazzak^Sid^S1615409999-3^Sinstance^SCastle~`Nathria-Mythic^Sclass^SDEATHKNIGHT^Sdate^S10/03/21^Sresponse^SPersonal~`Loot~`-~`Non~`tradeable^SgroupSize^N20^SisAwardReason^b^SlootWon^S|cffa335ee|Hitem:183896::::::::60:252::85:3:7187:1498:6646:1:28:753:::|h[Abominable~`Anima~`Spherule]|h|r^SdifficultyID^N16^Sboss^SSire~`Denathrius^SresponseID^SPL^Stime^S22:59:59^Scolor^T^N1^N1^N2^N0.6^N3^N0^N4^N1^t^t^t^^ RAID Unholydeathh-Kazzak", -- [1097]
-			"<22:59:57><Comm>	 ^1^Sn_t^T^N1^S|cffa335ee|Hitem:183036::::::::60:581::85:5:7187:6652:7193:1498:6646:1:28:753:::|h[Most~`Regal~`Signet~`of~`Sire~`Denathrius]|h|r^N2^S167406^t^^ RAID Bevv-Kazzak", -- [1098]
-			"<22:59:57><Comm>	 ^1^Shistory^T^N1^SBevv-Kazzak^N2^T^SmapID^N2296^Sowner^SBevv-Kazzak^Sid^S1615409999-4^Sinstance^SCastle~`Nathria-Mythic^Sclass^SDEMONHUNTER^Sdate^S10/03/21^Sresponse^SPersonal~`Loot~`-~`Non~`tradeable^SgroupSize^N20^SisAwardReason^b^SlootWon^S|cffa335ee|Hitem:183036::::::::60:581::85:5:7187:6652:7193:1498:6646:1:28:753:::|h[Most~`Regal~`Signet~`of~`Sire~`Denathrius]|h|r^SdifficultyID^N16^Sboss^SSire~`Denathrius^SresponseID^SPL^Stime^S22:59:59^Scolor^T^N1^N1^N2^N0.6^N3^N0^N4^N1^t^t^t^^ RAID Unholydeathh-Kazzak", -- [1099]
-			"<22:59:59><Comm>	 ^1^SlootTable^T^N1^T^N1^T^Sstring^S184029:::::::::::85:4:7187:6652:1498:6646:1:28:753^StypeCode^Sdefault^Sowner^SSeksixeny-Kazzak^Sboss^SSire~`Denathrius^t^t^t^^ RAID Unholydeathh-Kazzak", -- [1100]
-			"<22:59:59><INFO>	 GetPlayersGear |cffa335ee|Hitem:184029::::::::60:262::85:4:7187:6652:1498:6646:1:28:753:::|h[Manabound Mirror]|h|r INVTYPE_TRINKET", -- [1101]
-			"<22:59:59><INFO>	 LootFrame:Start 1 nil", -- [1102]
-			"<22:59:59><DEBUG>	 Restoring entry: default 1", -- [1103]
-			"<22:59:59><DEBUG>	 GetButtons default", -- [1104]
-			"<23:00:00><Comm>	 ^1^SlootAck^T^N1^N254^N2^N229.1875^N3^T^Sresponse^T^t^Sdiff^T^N1^N7^t^Sgear1^T^N1^S175921::::::::60:254::14:3:6623:1498:6646:1:28:807^t^Sgear2^T^N1^S184027::::::::60:254::85:4:7187:6652:1498:6646:1:28:753^t^t^t^^ RAID Adrenalynz-Kazzak", -- [1105]
-			"<23:00:00><Comm>	 ^1^SlootAck^T^N1^N102^N2^N225.9375^N3^T^Sresponse^T^t^Sdiff^T^N1^N39^t^Sgear1^T^N1^S184842::::::::60:102::27:4:6652:1472:5891:6646^t^Sgear2^T^N1^S178386::::::::60:102::14:3:6625:1492:6646:1:28:807^t^t^t^^ RAID Nited-Kazzak", -- [1106]
-			"<23:00:00><Comm>	 ^1^SlootAck^T^N1^N268^N2^N227.125^N3^T^Sresponse^T^t^Sdiff^T^N1^N7^t^Sgear1^T^N1^S184027::::::::60:268::85:4:7187:6652:1498:6646:1:28:753^t^Sgear2^T^N1^S184018::::::::60:268::6:4:7187:6652:1498:6646^t^t^t^^ RAID Misêry-Kazzak", -- [1107]
-			"<23:00:00><Comm>	 ^1^SlootAck^T^N1^N72^N2^N227.4375^N3^T^Sresponse^T^t^Sdiff^T^N1^N7^t^Sgear1^T^N1^S178386::::::::60:72::14:3:6623:1498:6646:1:28:807^t^Sgear2^T^N1^S184027::::::::60:72::85:4:7187:6652:1498:6646^t^t^t^^ RAID Riworra-Kazzak", -- [1108]
-			"<23:00:00><Comm>	 ^1^SlootAck^T^N1^N262^N2^N229.1875^N3^T^Sresponse^T^t^Sdiff^T^N1^N0^t^Sgear1^T^N1^S184030::::::::60:262::85:4:7187:6652:1498:6646:1:28:753^t^Sgear2^T^N1^S184028::::::::60:262::85:4:7187:6652:1498:6646^t^t^t^^ RAID Rentaki-Kazzak", -- [1109]
-			"<23:00:00><Comm>	 ^1^SlootAck^T^N1^N254^N2^N227.9375^N3^T^Sresponse^T^t^Sdiff^T^N1^N7^t^Sgear1^T^N1^S180116::::::::60:254::35:5:7213:6652:1501:5884:6646^t^Sgear2^T^N1^S184027::::::::60:254::85:4:7187:42:1498:6646:1:28:753^t^t^t^^ RAID Ceases-Kazzak", -- [1110]
-			"<23:00:00><Comm>	 ^1^SlootAck^T^N1^N265^N2^N229.1875^N3^T^Sresponse^T^t^Sdiff^T^N1^N7^t^Sgear1^T^N1^S175921::::::::60:265::14:3:6623:1498:6646:1:28:807^t^Sgear2^T^N1^S184028::::::::60:265::85:4:7187:6652:1498:6646^t^t^t^^ RAID Neveh-Kazzak", -- [1111]
-			"<23:00:00><Comm>	 ^1^SlootAck^T^N1^N254^N2^N227.875^N3^T^Sresponse^T^t^Sdiff^T^N1^N7^t^Sgear1^T^N1^S180116::::::::60:254::35:5:7214:6652:1501:5884:6646^t^Sgear2^T^N1^S184027::::::::60:254::85:4:7187:6652:1498:6646^t^t^t^^ RAID Sanshot-Kazzak", -- [1112]
-			"<23:00:00><Comm>	 ^1^SlootAck^T^N1^N254^N2^N221.375^N3^T^Sresponse^T^t^Sdiff^T^N1^N39^t^Sgear1^T^N1^S178769::::::::60:254::35:5:7213:6652:1501:5884:6646^t^Sgear2^T^N1^S181457::::::::60:254::26:4:6652:1472:5891:6646:1:28:2060^t^t^t^^ RAID Memescoper-Kazzak", -- [1113]
-			"<23:00:00><Comm>	 ^1^SlootAck^T^N1^N72^N2^N226.625^N3^T^Sresponse^T^t^Sdiff^T^N1^N7^t^Sgear1^T^N1^S184027::::::::60:72::85:4:7187:6652:1498:6646:1:28:753^t^Sgear2^T^N1^S184016::::::::60:72::6:4:7187:6652:1498:6646^t^t^t^^ RAID Sacraa-Kazzak", -- [1114]
-			"<23:00:00><Comm>	 ^1^SlootAck^T^N1^N105^N2^N227.875^N3^T^Sresponse^T^t^Sdiff^T^N1^N7^t^Sgear1^T^N1^S178708::::::::60:105::35:6:7214:6652:1501:5884:6646:6917^t^Sgear2^T^N1^S178386::::::::60:105::14:3:6623:1498:6646:1:28:807^t^t^t^^ RAID Arookie-Kazzak", -- [1115]
-			"<23:00:00><Comm>	 ^1^SlootAck^T^N1^N256^N2^N227.875^N3^T^Sresponse^T^t^Sdiff^T^N1^N7^t^Sgear1^T^N1^S178386::::::::60:256::14:3:6623:1498:6646:1:28:807^t^Sgear2^T^N1^S175921::::::::60:256::14:3:6623:1498:6646:1:28:807^t^t^t^^ RAID Vapee-Kazzak", -- [1116]
-			"<23:00:00><Comm>	 ^1^SlootAck^T^N1^N264^N2^N229.1875^N3^T^Sresponse^T^t^Sdiff^T^N1^N0^t^Sgear1^T^N1^S184028::::::::60:264::85:4:7187:6652:1498:6646^t^Sgear2^T^N1^S184029::::::::60:264::85:4:7187:6652:1498:6646:1:28:753^t^t^t^^ RAID Seksixeny-Kazzak", -- [1117]
-			"<23:00:00><Comm>	 ^1^SlootAck^T^N1^N102^N2^N226.375^N3^T^Sresponse^T^t^Sdiff^T^N1^N39^t^Sgear1^T^N1^S184028::::::::60:102::84:4:7188:6652:1485:6646:1:28:752^t^Sgear2^T^N1^S184842::::::::60:102::27:4:6652:1472:5891:6646^t^t^t^^ RAID Macuc-Kazzak", -- [1118]
-			"<23:00:00><Comm>	 ^1^SlootAck^T^N1^N63^N2^N229.1875^N3^T^Sresponse^T^t^Sdiff^T^N1^N7^t^Sgear1^T^N1^S184028::::::::60:63::85:4:7187:6652:1498:6646^t^Sgear2^T^N1^S175921::::::::60:63::14:3:6623:1498:6646:1:28:807^t^t^t^^ RAID Skonheden-Kazzak", -- [1119]
-			"<23:00:00><Comm>	 ^1^SlootAck^T^N1^N259^N2^N225.625^N3^T^Sresponse^T^t^Sdiff^T^N1^N7^t^Sgear1^T^N1^S184026::::::::60:259::6:4:7187:6652:1498:6646:1:28:753^t^Sgear2^T^N1^S184030::::::::60:259::85:4:7187:6652:1498:6646^t^t^t^^ RAID Kessrogue-Kazzak", -- [1120]
-			"<23:00:00><Comm>	 ^1^SlootAck^T^N1^N252^N2^N226.875^N3^T^Sresponse^T^t^Sdiff^T^N1^N23^t^Sgear1^T^N1^S184027::::::::60:252::85:4:7187:6652:1498:6646:1:28:753^t^Sgear2^T^N1^S179350::::::::60:252::16:5:7214:6652:1501:5868:6646:1:28:1279^t^t^t^^ RAID Tokzik-Kazzak", -- [1121]
-			"<23:00:00><Comm>	 ^1^SlootAck^T^N1^N581^N2^N228.5625^N3^T^Sresponse^T^t^Sdiff^T^N1^N0^t^Sgear1^T^N1^S184030::::::::60:581::85:4:7187:6652:1498:6646^t^Sgear2^T^N1^S184027::::::::60:581::85:4:7187:6652:1498:6646:1:28:753^t^t^t^^ RAID Bevv-Kazzak", -- [1122]
-			"<23:00:00><Comm>	 ^1^SlootAck^T^N1^N252^N2^N227.0625^N3^T^Sresponse^T^t^Sdiff^T^N1^N13^t^Sgear1^T^N1^S175921::::::::60:252::14:3:6625:1492:6646:1:28:807^t^Sgear2^T^N1^S184027::::::::60:252::85:4:7187:6652:1498:6646:1:28:753^t^t^t^^ RAID Unholydeathh-Kazzak", -- [1123]
-			"<23:00:00><Comm>	 ^1^SlootAck^T^N1^N65^N2^N228.3125^N3^T^Sresponse^T^t^Sdiff^T^N1^N0^t^Sgear1^T^N1^S178386::::::::60:65::40:4:41:6623:1498:6646^t^Sgear2^T^N1^S184029::::::::60:65::85:4:7187:6652:1498:6646:1:28:753^t^t^t^^ RAID Tankzorx-Kazzak", -- [1124]
-			"<23:00:02><Comm>	 ^1^Sresponse^T^N1^N1^N2^T^Sresponse^SPASS^t^t^^ RAID Skonheden-Kazzak", -- [1125]
-			"<23:00:02><Comm>	 ^1^Sresponse^T^N1^N1^N2^T^Sresponse^SPASS^t^t^^ RAID Tankzorx-Kazzak", -- [1126]
-			"<23:00:02><Comm>	 ^1^Sresponse^T^N1^N1^N2^T^Sresponse^SPASS^t^t^^ RAID Sacraa-Kazzak", -- [1127]
-			"<23:00:02><Comm>	 ^1^Sresponse^T^N1^N1^N2^T^Sresponse^SPASS^t^t^^ RAID Ceases-Kazzak", -- [1128]
-			"<23:00:02><Comm>	 ^1^Sresponse^T^N1^N1^N2^T^Sresponse^SPASS^t^t^^ RAID Neveh-Kazzak", -- [1129]
-			"<23:00:03><Comm>	 ^1^Sresponse^T^N1^N1^N2^T^Sresponse^SPASS^t^t^^ RAID Adrenalynz-Kazzak", -- [1130]
-			"<23:00:03><Comm>	 ^1^Sl^T^N1^S167406^t^^ RAID Tokzik-Kazzak", -- [1131]
-			"<23:00:03><Comm>	 ^1^Sl^T^N1^S167406^t^^ RAID Tokzik-Kazzak", -- [1132]
-			"<23:00:05><Comm>	 ^1^Sresponse^T^N1^N1^N2^T^Sresponse^SPASS^t^t^^ RAID Nited-Kazzak", -- [1133]
-			"<23:00:07><Comm>	 ^1^Sresponse^T^N1^N1^N2^T^Sresponse^N5^t^t^^ RAID Misêry-Kazzak", -- [1134]
-			"<23:00:08><Comm>	 ^1^Sresponse^T^N1^N1^N2^T^Sresponse^SPASS^t^t^^ RAID Seksixeny-Kazzak", -- [1135]
-			"<23:00:08><Comm>	 ^1^Sresponse^T^N1^N1^N2^T^Sresponse^SPASS^t^t^^ RAID Kessrogue-Kazzak", -- [1136]
-			"<23:00:10><Comm>	 ^1^Sresponse^T^N1^N1^N2^T^Sresponse^SPASS^t^t^^ RAID Tokzik-Kazzak", -- [1137]
-			"<23:00:10><Comm>	 ^1^Sresponse^T^N1^N1^N2^T^Sresponse^SPASS^t^t^^ RAID Riworra-Kazzak", -- [1138]
-			"<23:00:11><Comm>	 ^1^Soffline_timer^T^t^^ RAID Unholydeathh-Kazzak", -- [1139]
-			"<23:00:12><Comm>	 ^1^Sresponse^T^N1^N1^N2^T^Sresponse^SPASS^t^t^^ RAID Sanshot-Kazzak", -- [1140]
-			"<23:00:12><Comm>	 ^1^Sresponse^T^N1^N1^N2^T^Sresponse^SPASS^t^t^^ RAID Memescoper-Kazzak", -- [1141]
-			"<23:00:14><Comm>	 ^1^Sresponse^T^N1^N1^N2^T^Sresponse^N5^t^t^^ RAID Macuc-Kazzak", -- [1142]
-			"<23:00:18><Comm>	 ^1^Sresponse^T^N1^N1^N2^T^Sresponse^SPASS^t^t^^ RAID Unholydeathh-Kazzak", -- [1143]
-			"<23:00:29><DEBUG>	 GetButtons default", -- [1144]
-			"<23:00:31><DEBUG>	 LootFrame:Response 5 Response: Offspecxd", -- [1145]
-			"<23:00:31><DEBUG>	 SendResponse group 1 5 nil nil is this good? nil nil nil nil nil nil nil", -- [1146]
-			"<23:00:31><DEBUG>	 Trashing entry: 1 |cffa335ee|Hitem:184029::::::::60:262::85:4:7187:6652:1498:6646:1:28:753:::|h[Manabound Mirror]|h|r", -- [1147]
-			"<23:00:31><Comm>	 ^1^Sresponse^T^N1^N1^N2^T^Snote^Sis~`this~`good?^Sresponse^N5^t^t^^ RAID Rentaki-Kazzak", -- [1148]
-			"<23:00:33><DEBUG>	 Event: ENCOUNTER_LOOT_RECEIVED 2407 184030 |cffa335ee|Hitem:184030::::::::60:262::85:4:7187:6652:1498:6646:1:28:753:::|h[Dreadfire Vessel]|h|r 1 Memescoper HUNTER", -- [1149]
-			"<23:00:35><DEBUG>	 Event: ENCOUNTER_LOOT_RECEIVED 2407 184587 |cffa335ee|Hitem:184587::::::::60:262::6:2:1553:7245:2:28:753:37:7:::|h[Ambuscade]|h|r 1 Memescoper HUNTER", -- [1150]
-			"<23:00:36><Comm>	 ^1^Sn_t^T^N1^S|cffa335ee|Hitem:184030::::::::60:254::85:4:7187:6652:1498:6646:1:28:753:::|h[Dreadfire~`Vessel]|h|r^N2^S167406^t^^ RAID Memescoper-Kazzak", -- [1151]
-			"<23:00:36><Comm>	 ^1^Shistory^T^N1^SMemescoper-Kazzak^N2^T^SmapID^N2222^Sowner^SMemescoper-Kazzak^Sid^S1615410038-5^Sinstance^SThe~`Shadowlands-^Sclass^SHUNTER^Sdate^S10/03/21^Sresponse^SPersonal~`Loot~`-~`Non~`tradeable^SgroupSize^N0^SisAwardReason^b^SlootWon^S|cffa335ee|Hitem:184030::::::::60:254::85:4:7187:6652:1498:6646:1:28:753:::|h[Dreadfire~`Vessel]|h|r^SdifficultyID^N0^Sboss^SSire~`Denathrius^SresponseID^SPL^Stime^S23:00:38^Scolor^T^N1^N1^N2^N0.6^N3^N0^N4^N1^t^t^t^^ RAID Unholydeathh-Kazzak", -- [1152]
-			"<23:00:36><DEBUG>	 Event: ENCOUNTER_LOOT_RECEIVED 2407 182335 |cffa335ee|Hitem:182335::::::::60:262::6:2:1553:7245:2:28:753:37:7:::|h[Spirit Attunement]|h|r 1 Memescoper HUNTER", -- [1153]
-			"<23:00:37><Comm>	 ^1^Sl^T^N1^S167406^t^^ RAID Memescoper-Kazzak", -- [1154]
-			"<23:00:37><Comm>	 ^1^Sl^T^N1^S167406^t^^ RAID Memescoper-Kazzak", -- [1155]
-			"<23:00:39><Comm>	 ^1^Sresponse^T^N1^N1^N2^T^Snote^b^Sresponse^N1^t^t^^ RAID Arookie-Kazzak", -- [1156]
-			"<23:00:53><Comm>	 ^1^Sresponse^T^N1^N1^N2^T^Sresponse^SPASS^t^t^^ RAID Bevv-Kazzak", -- [1157]
-			"<23:00:59><Comm>	 ^1^Sresponse^T^N1^N1^N2^T^Sresponse^SPASS^t^t^^ RAID Vapee-Kazzak", -- [1158]
-			"<23:01:16><Comm>	 ^1^Shistory^T^N1^SArookie-Kazzak^N2^T^SmapID^N2222^Sdate^S10/03/21^Sclass^SDRUID^SgroupSize^N0^Sboss^SSire~`Denathrius^Stime^S23:01:16^SitemReplaced1^S|cffa335ee|Hitem:178708::::::::60:252::35:6:7214:6652:1501:5884:6646:6917::::|h[Unbound~`Changeling]|h|r^StypeCode^Sdefault^Sinstance^SThe~`Shadowlands-^Sowner^SSeksixeny-Kazzak^Sid^S1615410076-6^Sresponse^SNeed~`(BIS~`stats)^Snote^b^SdifficultyID^N0^SlootWon^S|cffa335ee|Hitem:184029::::::::60:252::85:4:7187:6652:1498:6646:1:28:753:::|h[Manabound~`Mirror]|h|r^SisAwardReason^b^Scolor^T^N1^N1^N2^N0.53^N3^N0^N4^N1^t^SresponseID^N1^SitemReplaced2^S|cffa335ee|Hitem:178386::::::::60:252::14:3:6623:1498:6646:1:28:807:::|h[Sinful~`Gladiator's~`Insignia~`of~`Alacrity]|h|r^Svotes^N0^t^t^^ RAID Unholydeathh-Kazzak", -- [1159]
-			"<23:01:16><Comm>	 ^1^Sawarded^T^N1^N1^N2^SArookie-Kazzak^N3^SSeksixeny-Kazzak^t^^ RAID Unholydeathh-Kazzak", -- [1160]
-			"<23:01:16><Comm>	 ^1^Ssession_end^T^t^^ RAID Unholydeathh-Kazzak", -- [1161]
-			"<23:01:16><DEBUG>	 Event: PLAYER_ENTERING_WORLD false false", -- [1162]
-			"<23:01:18><DEBUG>	 GetML()", -- [1163]
-			"<23:01:21><Comm>	 ^1^Strade_WrongWinner^T^N1^S|cffa335ee|Hitem:184029::::::::60:264::85:4:7187:6652:1498:6646:1:28:753:::|h[Manabound~`Mirror]|h|r^N2^SNeveh-Kazzak^N3^SSeksixeny-Kazzak^N4^SArookie-Kazzak^t^^ RAID Seksixeny-Kazzak", -- [1164]
-			"<23:03:15><Comm>	 ^1^Sxrealm^T^N1^SUnholydeathh-Kazzak^N2^SMLdb_request^t^^ RAID Tradushuffle-Kazzak", -- [1165]
-			"<23:03:15><Comm>	 ^1^Sxrealm^T^N1^SUnholydeathh-Kazzak^N2^Scouncil_request^t^^ RAID Tradushuffle-Kazzak", -- [1166]
-			"<23:03:15><Comm>	 ^1^Smldb^T^N1^T^S|8^T^S|14^T^N1^T^S|15^SNeed~`(BIS~`stats)^t^N2^T^S|15^SNeed~`(Not~`BiS~`stats)^t^N3^T^S|15^SVery~`Minor^t^N4^T^S|15^SResiduum^t^N5^T^S|15^SOffspecxd^t^N6^T^S|15^STRANSMOG~`X~`D^t^S|5^N6^t^t^S|12^N60^S|11^T^S|14^T^N1^T^S|15^SNeed~`(BIS~`stats)^S|4^N1^S|16^T^N1^N1^N2^N0.53^N3^N0^N4^N1^t^t^N2^T^S|15^SNeed~`(Not~`BiS~`stats)^S|4^N2^S|16^T^N1^N0.04^N2^N0.14^N3^N1^N4^N1^t^t^N3^T^S|15^SVery~`Minor~`(if~`noone~`else)^S|4^N3^S|16^T^N1^N0.07^N2^N0.7^N3^N0.07^N4^N1^t^t^N4^T^S|15^SResiduum^S|4^N4^S|16^T^N1^N0.25^N2^N0.7^N3^N0.7^N4^N1^t^t^N5^T^S|15^SOffspecxd^S|4^N5^S|16^T^N1^N0.7^N2^N0.67^N3^N0^N4^N1^t^t^N6^T^S|15^STRANSMOG~`XD^S|4^N6^S|16^T^N1^N0.69^N2^N0.02^N3^N0.66^N4^N1^t^t^t^t^S|6^B^S|5^N6^t^t^^ RAID Unholydeathh-Kazzak", -- [1167]
-			"<23:03:15><INFO>	 OnMLDBReceived", -- [1168]
-			"<23:03:15><Comm>	 ^1^Scouncil^T^N1^T^S1305-0AFC367F^B^S1305-0B0DCA21^B^S1305-0B0E3079^B^t^t^^ RAID Unholydeathh-Kazzak", -- [1169]
-			"<23:03:15><DEBUG>	 isCouncil false", -- [1170]
-			"<23:03:28><DEBUG>	 Event: PARTY_LEADER_CHANGED", -- [1171]
-			"<23:03:30><DEBUG>	 GetML()", -- [1172]
-			"<23:03:30><DEBUG>	 Resetting council as we have a new ML!", -- [1173]
-			"<23:03:30><INFO>	 MasterLooter =  Tankzorx-Kazzak", -- [1174]
-			"<23:03:30><Comm>	 ^1^SplayerInfoRequest^T^t^^ RAID Tankzorx-Kazzak", -- [1175]
-			"<23:03:30><Comm>	 ^1^Smldb^T^N1^T^S|8^T^SAZERITE^T^N1^T^S|15^Smainspec^t^N2^T^S|15^Sresiduum^t^N3^T^S|15^Soffspec^t^t^S|14^T^N1^T^S|15^SNeed~`BIS^t^N2^T^S|15^SNeed~`not~`BIS^t^N4^T^S|15^SOffspec^t^N5^T^S|15^STransmog^t^S|5^N5^t^t^S|12^N60^S|11^T^SAZERITE^T^N1^T^S|15^Smainspec^S|4^N1^S|16^T^N1^N0^N2^N1^N3^N0.05^N4^N1^t^t^N2^T^S|15^Sresiduum^S|4^N2^S|16^T^N1^N0.04^N2^N0.08^N3^N1^N4^N1^t^t^N3^T^S|15^Soffspec^S|4^N3^S|16^T^N1^N1^N2^N0.07^N3^N0^N4^N1^t^t^t^S|14^T^N1^T^S|15^SNeed~`BIS^S|4^N1^S|16^T^N1^N0^N2^N1^N3^N0^N4^N1^t^t^N2^T^S|15^SNeed~`not~`BIS^S|4^N2^S|16^T^N1^N0.54^N2^N1^N3^N0.12^N4^N1^t^t^N3^T^S|15^SMinor~`Upgrade^S|4^N3^S|16^T^N1^N0.63^N2^N0.7^N3^N0.22^N4^N1^t^t^N4^T^S|15^SOffspec^S|4^N4^S|16^T^N1^N0.7^N2^N0.43^N3^N0.17^N4^N1^t^t^N5^T^S|15^STransmog^S|4^N5^S|16^T^N1^N0.7^N2^N0.18^N3^N0.1^N4^N1^t^t^t^t^S|1^B^S|5^N5^S|2^B^t^t^^ RAID Tankzorx-Kazzak", -- [1176]
-			"<23:03:30><INFO>	 OnMLDBReceived", -- [1177]
-			"<23:03:30><Comm>	 ^1^Sxrealm^T^N1^STankzorx-Kazzak^N2^SpI^N3^SDAMAGER^N4^SCitizen^N6^N0^N7^N229.1875^N8^N262^t^^ RAID Rentaki-Kazzak", -- [1178]
-			"<23:03:30><Comm>	 ^1^Sxrealm^T^N1^STankzorx-Kazzak^N2^SpI^N3^SDAMAGER^N4^SCitizen^N6^N0^N7^N226.625^N8^N72^t^^ RAID Sacraa-Kazzak", -- [1179]
-			"<23:03:30><Comm>	 ^1^Sxrealm^T^N1^STankzorx-Kazzak^N2^SpI^N3^SHEALER^N4^SMike~`Pence^N6^N0^N7^N228.3125^N8^N65^t^^ RAID Tankzorx-Kazzak", -- [1180]
-			"<23:03:30><Comm>	 ^1^Sxrealm^T^N1^STankzorx-Kazzak^N2^SpI^N3^SDAMAGER^N4^SCitizen^N6^N0^N7^N226.875^N8^N252^t^^ RAID Tokzik-Kazzak", -- [1181]
-			"<23:03:30><Comm>	 ^1^Sxrealm^T^N1^STankzorx-Kazzak^N2^SpI^N3^SDAMAGER^N4^STHE~`WALL^N6^N0^N7^N226.1875^N8^N102^t^^ RAID Tradushuffle-Kazzak", -- [1182]
-			"<23:03:30><Comm>	 ^1^Sxrealm^T^N1^STankzorx-Kazzak^N2^SpI^N3^STANK^N4^SCitizen^N6^N0^N7^N228.5625^N8^N581^t^^ RAID Bevv-Kazzak", -- [1183]
-			"<23:03:30><Comm>	 ^1^Sxrealm^T^N1^STankzorx-Kazzak^N2^SpI^N3^SHEALER^N4^SCitizen^N6^N0^N7^N228.3125^N8^N105^t^^ RAID Arookie-Kazzak", -- [1184]
-			"<23:03:30><Comm>	 ^1^Sxrealm^T^N1^STankzorx-Kazzak^N2^SpI^N3^SDAMAGER^N4^SCitizen^N5^B^N6^N115^N7^N227.4375^N8^N72^t^^ RAID Riworra-Kazzak", -- [1185]
-			"<23:03:30><Comm>	 ^1^Sxrealm^T^N1^STankzorx-Kazzak^N2^SpI^N3^SHEALER^N4^SMike~`Pence^N6^N0^N7^N227.875^N8^N256^t^^ RAID Vapee-Kazzak", -- [1186]
-			"<23:03:30><Comm>	 ^1^Sxrealm^T^N1^STankzorx-Kazzak^N2^SpI^N3^SDAMAGER^N4^SCitizen^N6^N0^N7^N229.1875^N8^N265^t^^ RAID Neveh-Kazzak", -- [1187]
-			"<23:03:30><Comm>	 ^1^Sxrealm^T^N1^STankzorx-Kazzak^N2^SpI^N3^SDAMAGER^N4^SCitizen^N6^N0^N7^N227.875^N8^N254^t^^ RAID Sanshot-Kazzak", -- [1188]
-			"<23:03:30><Comm>	 ^1^Sxrealm^T^N1^STankzorx-Kazzak^N2^SpI^N3^SDAMAGER^N4^SCitizen^N6^N0^N7^N229.1875^N8^N63^t^^ RAID Skonheden-Kazzak", -- [1189]
-			"<23:03:30><Comm>	 ^1^Sxrealm^T^N1^STankzorx-Kazzak^N2^SpI^N3^SDAMAGER^N4^SMike~`Pence^N5^B^N6^N115^N7^N221.375^N8^N254^t^^ RAID Memescoper-Kazzak", -- [1190]
-			"<23:03:32><Comm>	 ^1^Scouncil^T^N1^T^S1305-0B0DCA21^B^S1305-0B0E3079^B^S1305-0B30094D^B^t^t^^ RAID Tankzorx-Kazzak", -- [1191]
-			"<23:03:32><DEBUG>	 isCouncil false", -- [1192]
-			"<23:03:45><DEBUG>	 Timer MLdb_check passed", -- [1193]
-			"<23:04:46><DEBUG>	 Event: PLAYER_ENTERING_WORLD false false", -- [1194]
-			"<23:04:47><DEBUG>	 GetML()", -- [1195]
-			"<23:06:52><Comm>	 ^1^Sxrealm^T^N1^STankzorx-Kazzak^N2^SMLdb_request^t^^ RAID Neveh-Kazzak", -- [1196]
-			"<23:06:52><Comm>	 ^1^Sxrealm^T^N1^STankzorx-Kazzak^N2^Scouncil_request^t^^ RAID Neveh-Kazzak", -- [1197]
-			"<23:06:52><Comm>	 ^1^Smldb^T^N1^T^S|8^T^SAZERITE^T^N1^T^S|15^Smainspec^t^N2^T^S|15^Sresiduum^t^N3^T^S|15^Soffspec^t^t^S|14^T^N1^T^S|15^SNeed~`BIS^t^N2^T^S|15^SNeed~`not~`BIS^t^N4^T^S|15^SOffspec^t^N5^T^S|15^STransmog^t^S|5^N5^t^t^S|12^N60^S|11^T^SAZERITE^T^N1^T^S|15^Smainspec^S|4^N1^S|16^T^N1^N0^N2^N1^N3^N0.05^N4^N1^t^t^N2^T^S|15^Sresiduum^S|4^N2^S|16^T^N1^N0.04^N2^N0.08^N3^N1^N4^N1^t^t^N3^T^S|15^Soffspec^S|4^N3^S|16^T^N1^N1^N2^N0.07^N3^N0^N4^N1^t^t^t^S|14^T^N1^T^S|15^SNeed~`BIS^S|4^N1^S|16^T^N1^N0^N2^N1^N3^N0^N4^N1^t^t^N2^T^S|15^SNeed~`not~`BIS^S|4^N2^S|16^T^N1^N0.54^N2^N1^N3^N0.12^N4^N1^t^t^N3^T^S|15^SMinor~`Upgrade^S|4^N3^S|16^T^N1^N0.63^N2^N0.7^N3^N0.22^N4^N1^t^t^N4^T^S|15^SOffspec^S|4^N4^S|16^T^N1^N0.7^N2^N0.43^N3^N0.17^N4^N1^t^t^N5^T^S|15^STransmog^S|4^N5^S|16^T^N1^N0.7^N2^N0.18^N3^N0.1^N4^N1^t^t^t^t^S|1^B^S|5^N5^S|2^B^t^t^^ RAID Tankzorx-Kazzak", -- [1198]
-			"<23:06:52><INFO>	 OnMLDBReceived", -- [1199]
-			"<23:06:52><Comm>	 ^1^Scouncil^T^N1^T^S1305-0B0DCA21^B^S1305-0B0E3079^B^S1305-0B30094D^B^t^t^^ RAID Tankzorx-Kazzak", -- [1200]
-			"<23:06:52><DEBUG>	 isCouncil false", -- [1201]
-			"<23:07:28><DEBUG>	 Event: GROUP_LEFT 1 Party-1305-1-000054D5CAAE", -- [1202]
-			"<23:07:28><DEBUG>	 GetML()", -- [1203]
-			"<23:23:59><INFO>	 Logged In", -- [1204]
-			"<23:23:59>[ML]<INFO>	 Init", -- [1205]
-			"<23:23:59><INFO>	 RCLootCouncil TradeUI enabled", -- [1206]
-			"<23:24:01><INFO>	 Rentaki-Kazzak 3.1.4 nil", -- [1207]
-			"<23:24:01><DEBUG>	 ActivateSkin bfa", -- [1208]
-			"<23:24:02><DEBUG>	 Event: PLAYER_ENTERING_WORLD false true", -- [1209]
-			"<23:24:02><INFO>	 UpdatePlayersData()", -- [1210]
-			"<23:24:03><DEBUG>	 GetPlayersGuildRank()", -- [1211]
-			"<23:24:03><DEBUG>	 Found Guild Rank: Citizen", -- [1212]
-			"<23:24:03><DEBUG>	 GetML()", -- [1213]
-			"<23:24:03><Comm>	 ^1^Sv^T^N1^S3.1.4^t^^ GUILD Rentaki-Kazzak", -- [1214]
-			"<23:24:04><Comm>	 ^1^Sr^T^N1^S3.1.3^N3^T^t^t^^ GUILD Kessrogue-Kazzak", -- [1215]
-			"<23:24:55><INFO>	 Logged In", -- [1216]
-			"<23:24:55>[ML]<INFO>	 Init", -- [1217]
-			"<23:24:55><INFO>	 RCLootCouncil TradeUI enabled", -- [1218]
-			"<23:24:57><INFO>	 Rentaki-Kazzak 3.1.4 nil", -- [1219]
-			"<23:24:57><DEBUG>	 ActivateSkin bfa", -- [1220]
-			"<23:24:59><DEBUG>	 Event: PLAYER_ENTERING_WORLD false true", -- [1221]
-			"<23:24:59><INFO>	 UpdatePlayersData()", -- [1222]
-			"<23:24:59><DEBUG>	 GetPlayersGuildRank()", -- [1223]
-			"<23:24:59><DEBUG>	 Found Guild Rank: Citizen", -- [1224]
-			"<23:24:59><DEBUG>	 GetML()", -- [1225]
-			"<23:24:59><Comm>	 ^1^Sv^T^N1^S3.1.4^t^^ GUILD Rentaki-Kazzak", -- [1226]
-			"<23:24:59><Comm>	 ^1^Sr^T^N1^S3.1.3^N3^T^t^t^^ GUILD Kessrogue-Kazzak", -- [1227]
-			"<23:25:53><INFO>	 Logged In", -- [1228]
-			"<23:25:53>[ML]<INFO>	 Init", -- [1229]
-			"<23:25:53><INFO>	 RCLootCouncil TradeUI enabled", -- [1230]
-			"<23:25:55><INFO>	 Rentaki-Kazzak 3.1.4 nil", -- [1231]
-			"<23:25:55><DEBUG>	 ActivateSkin bfa", -- [1232]
-			"<23:25:56><DEBUG>	 Event: PLAYER_ENTERING_WORLD false true", -- [1233]
-			"<23:25:56><INFO>	 UpdatePlayersData()", -- [1234]
-			"<23:25:56><DEBUG>	 GetPlayersGuildRank()", -- [1235]
-			"<23:25:56><DEBUG>	 Found Guild Rank: Citizen", -- [1236]
-			"<23:25:56><DEBUG>	 GetML()", -- [1237]
-			"<23:25:56><Comm>	 ^1^Sv^T^N1^S3.1.4^t^^ GUILD Rentaki-Kazzak", -- [1238]
-			"<23:25:57><Comm>	 ^1^Sr^T^N1^S3.1.3^N3^T^t^t^^ GUILD Kessrogue-Kazzak", -- [1239]
-			"<23:26:29><INFO>	 Logged In", -- [1240]
-			"<23:26:29>[ML]<INFO>	 Init", -- [1241]
-			"<23:26:29><INFO>	 RCLootCouncil TradeUI enabled", -- [1242]
-			"<23:26:31><INFO>	 Rentaki-Kazzak 3.1.4 nil", -- [1243]
-			"<23:26:31><DEBUG>	 ActivateSkin bfa", -- [1244]
-			"<23:26:32><DEBUG>	 Event: PLAYER_ENTERING_WORLD false true", -- [1245]
-			"<23:26:32><INFO>	 UpdatePlayersData()", -- [1246]
-			"<23:26:33><DEBUG>	 GetPlayersGuildRank()", -- [1247]
-			"<23:26:33><DEBUG>	 Found Guild Rank: Citizen", -- [1248]
-			"<23:26:33><DEBUG>	 GetML()", -- [1249]
-			"<23:26:33><Comm>	 ^1^Sv^T^N1^S3.1.4^t^^ GUILD Rentaki-Kazzak", -- [1250]
-			"<23:26:33><Comm>	 ^1^Sr^T^N1^S3.1.3^N3^T^t^t^^ GUILD Kessrogue-Kazzak", -- [1251]
-			"<23:27:04><INFO>	 Logged In", -- [1252]
-			"<23:27:04>[ML]<INFO>	 Init", -- [1253]
-			"<23:27:04><INFO>	 RCLootCouncil TradeUI enabled", -- [1254]
-			"<23:27:06><INFO>	 Rentaki-Kazzak 3.1.4 nil", -- [1255]
-			"<23:27:06><DEBUG>	 ActivateSkin bfa", -- [1256]
-			"<23:27:07><DEBUG>	 Event: PLAYER_ENTERING_WORLD false true", -- [1257]
-			"<23:27:07><INFO>	 UpdatePlayersData()", -- [1258]
-			"<23:27:08><DEBUG>	 GetPlayersGuildRank()", -- [1259]
-			"<23:27:08><DEBUG>	 Found Guild Rank: Citizen", -- [1260]
-			"<23:27:08><DEBUG>	 GetML()", -- [1261]
-			"<23:27:08><Comm>	 ^1^Sv^T^N1^S3.1.4^t^^ GUILD Rentaki-Kazzak", -- [1262]
-			"<23:27:08><Comm>	 ^1^Sr^T^N1^S3.1.3^N3^T^t^t^^ GUILD Kessrogue-Kazzak", -- [1263]
-			"<23:28:29><INFO>	 Logged In", -- [1264]
-			"<23:28:29>[ML]<INFO>	 Init", -- [1265]
-			"<23:28:29><INFO>	 RCLootCouncil TradeUI enabled", -- [1266]
-			"<23:28:31><INFO>	 Rentaki-Kazzak 3.1.4 nil", -- [1267]
-			"<23:28:31><DEBUG>	 ActivateSkin bfa", -- [1268]
-			"<23:28:32><DEBUG>	 Event: PLAYER_ENTERING_WORLD false true", -- [1269]
-			"<23:28:32><INFO>	 UpdatePlayersData()", -- [1270]
-			"<23:28:32><DEBUG>	 GetPlayersGuildRank()", -- [1271]
-			"<23:28:32><DEBUG>	 Found Guild Rank: Citizen", -- [1272]
-			"<23:28:33><DEBUG>	 GetML()", -- [1273]
-			"<23:28:33><Comm>	 ^1^Sv^T^N1^S3.1.4^t^^ GUILD Rentaki-Kazzak", -- [1274]
-			"<23:28:33><Comm>	 ^1^Sr^T^N1^S3.1.3^N3^T^t^t^^ GUILD Kessrogue-Kazzak", -- [1275]
-			"<23:34:18><INFO>	 Logged In", -- [1276]
-			"<23:34:18>[ML]<INFO>	 Init", -- [1277]
-			"<23:34:18><INFO>	 RCLootCouncil TradeUI enabled", -- [1278]
-			"<23:34:20><INFO>	 Rentaki-Kazzak 3.1.4 nil", -- [1279]
-			"<23:34:20><DEBUG>	 ActivateSkin bfa", -- [1280]
-			"<23:34:21><DEBUG>	 Event: PLAYER_ENTERING_WORLD false true", -- [1281]
-			"<23:34:21><INFO>	 UpdatePlayersData()", -- [1282]
-			"<23:34:22><DEBUG>	 GetPlayersGuildRank()", -- [1283]
-			"<23:34:22><DEBUG>	 Found Guild Rank: Citizen", -- [1284]
-			"<23:34:22><DEBUG>	 GetML()", -- [1285]
-			"<23:34:22><Comm>	 ^1^Sv^T^N1^S3.1.4^t^^ GUILD Rentaki-Kazzak", -- [1286]
-			"<23:34:23><Comm>	 ^1^Sr^T^N1^S3.1.3^N3^T^t^t^^ GUILD Kessrogue-Kazzak", -- [1287]
-			"<23:54:46><INFO>	 Logged In", -- [1288]
-			"<23:54:46>[ML]<INFO>	 Init", -- [1289]
-			"<23:54:46><INFO>	 RCLootCouncil TradeUI enabled", -- [1290]
-			"<23:54:48><INFO>	 Rentaki-Kazzak 3.1.4 nil", -- [1291]
-			"<23:54:48><DEBUG>	 ActivateSkin bfa", -- [1292]
-			"<23:54:50><DEBUG>	 Event: PLAYER_ENTERING_WORLD false true", -- [1293]
-			"<23:54:50><INFO>	 UpdatePlayersData()", -- [1294]
-			"<23:54:50><DEBUG>	 GetPlayersGuildRank()", -- [1295]
-			"<23:54:50><DEBUG>	 Found Guild Rank: Citizen", -- [1296]
-			"<23:54:50><DEBUG>	 GetML()", -- [1297]
-			"<23:54:50><Comm>	 ^1^Sv^T^N1^S3.1.4^t^^ GUILD Rentaki-Kazzak", -- [1298]
-			"<23:54:51><Comm>	 ^1^Sr^T^N1^S3.1.3^N3^T^t^t^^ GUILD Kessrogue-Kazzak", -- [1299]
-			"<23:56:15><INFO>	 Logged In", -- [1300]
-			"<23:56:15>[ML]<INFO>	 Init", -- [1301]
-			"<23:56:15><INFO>	 RCLootCouncil TradeUI enabled", -- [1302]
-			"<23:56:18><INFO>	 Rentaki-Kazzak 3.1.4 nil", -- [1303]
-			"<23:56:18><DEBUG>	 ActivateSkin bfa", -- [1304]
-			"<23:56:19><DEBUG>	 Event: PLAYER_ENTERING_WORLD false true", -- [1305]
-			"<23:56:19><INFO>	 UpdatePlayersData()", -- [1306]
-			"<23:56:20><DEBUG>	 GetPlayersGuildRank()", -- [1307]
-			"<23:56:20><DEBUG>	 Found Guild Rank: Citizen", -- [1308]
-			"<23:56:20><DEBUG>	 GetML()", -- [1309]
-			"<23:56:20><Comm>	 ^1^Sv^T^N1^S3.1.4^t^^ GUILD Rentaki-Kazzak", -- [1310]
-			"<23:56:20><Comm>	 ^1^Sr^T^N1^S3.1.3^N3^T^t^t^^ GUILD Kessrogue-Kazzak", -- [1311]
-			"<23:56:34><INFO>	 Logged In", -- [1312]
-			"<23:56:34>[ML]<INFO>	 Init", -- [1313]
-			"<23:56:34><INFO>	 RCLootCouncil TradeUI enabled", -- [1314]
-			"<23:56:37><INFO>	 Rentaki-Kazzak 3.1.4 nil", -- [1315]
-			"<23:56:37><DEBUG>	 ActivateSkin bfa", -- [1316]
-			"<23:56:38><DEBUG>	 Event: PLAYER_ENTERING_WORLD false true", -- [1317]
-			"<23:56:38><INFO>	 UpdatePlayersData()", -- [1318]
-			"<23:56:38><DEBUG>	 GetPlayersGuildRank()", -- [1319]
-			"<23:56:38><DEBUG>	 Found Guild Rank: Citizen", -- [1320]
-			"<23:56:38><DEBUG>	 GetML()", -- [1321]
-			"<23:56:39><Comm>	 ^1^Sv^T^N1^S3.1.4^t^^ GUILD Rentaki-Kazzak", -- [1322]
-			"<23:56:39><Comm>	 ^1^Sr^T^N1^S3.1.3^N3^T^t^t^^ GUILD Kessrogue-Kazzak", -- [1323]
-			"<00:01:54><Comm>	 ^1^Sv^T^N1^S3.1.4^t^^ GUILD Aruki-Kazzak", -- [1324]
-			"<00:01:55><Comm>	 ^1^Sr^T^N1^S3.1.3^N3^T^t^t^^ GUILD Kessrogue-Kazzak", -- [1325]
-			"<00:22:06><INFO>	 Logged In", -- [1326]
-			"<00:22:06>[ML]<INFO>	 Init", -- [1327]
-			"<00:22:06><INFO>	 RCLootCouncil TradeUI enabled", -- [1328]
-			"<00:22:08><INFO>	 Rentaki-Kazzak 3.1.4 nil", -- [1329]
-			"<00:22:08><DEBUG>	 ActivateSkin bfa", -- [1330]
-			"<00:22:10><DEBUG>	 Event: PLAYER_ENTERING_WORLD false true", -- [1331]
-			"<00:22:10><INFO>	 UpdatePlayersData()", -- [1332]
-			"<00:22:10><DEBUG>	 GetPlayersGuildRank()", -- [1333]
-			"<00:22:10><DEBUG>	 Found Guild Rank: Citizen", -- [1334]
-			"<00:22:10><DEBUG>	 GetML()", -- [1335]
-			"<00:22:10><Comm>	 ^1^Sv^T^N1^S3.1.4^t^^ GUILD Rentaki-Kazzak", -- [1336]
-			"<00:22:11><Comm>	 ^1^Sr^T^N1^S3.1.3^N3^T^t^t^^ GUILD Kessrogue-Kazzak", -- [1337]
-			"<00:31:01><INFO>	 Logged In", -- [1338]
-			"<00:31:01>[ML]<INFO>	 Init", -- [1339]
-			"<00:31:01><INFO>	 RCLootCouncil TradeUI enabled", -- [1340]
-			"<00:31:03><INFO>	 Rentaki-Kazzak 3.1.4 nil", -- [1341]
-			"<00:31:03><DEBUG>	 ActivateSkin bfa", -- [1342]
-			"<00:31:04><DEBUG>	 Event: PLAYER_ENTERING_WORLD false true", -- [1343]
-			"<00:31:04><INFO>	 UpdatePlayersData()", -- [1344]
-			"<00:31:05><DEBUG>	 GetPlayersGuildRank()", -- [1345]
-			"<00:31:05><DEBUG>	 Found Guild Rank: Citizen", -- [1346]
-			"<00:31:05><DEBUG>	 GetML()", -- [1347]
-			"<00:31:05><Comm>	 ^1^Sv^T^N1^S3.1.4^t^^ GUILD Rentaki-Kazzak", -- [1348]
-			"<00:31:06><Comm>	 ^1^Sr^T^N1^S3.1.3^N3^T^t^t^^ GUILD Kessrogue-Kazzak", -- [1349]
-			"<06:17:50><INFO>	 Logged In", -- [1350]
-			"<06:17:50>[ML]<INFO>	 Init", -- [1351]
-			"<06:17:50><INFO>	 RCLootCouncil TradeUI enabled", -- [1352]
-			"<06:17:57><INFO>	 Rentaki-Kazzak 3.1.4 nil", -- [1353]
-			"<06:17:57><DEBUG>	 ActivateSkin bfa", -- [1354]
-			"<06:17:59><DEBUG>	 Event: PLAYER_ENTERING_WORLD true false", -- [1355]
-			"<06:17:59><INFO>	 UpdatePlayersData()", -- [1356]
-			"<06:18:00><DEBUG>	 GetPlayersGuildRank()", -- [1357]
-			"<06:18:00><DEBUG>	 GetPlayersGuildRank()", -- [1358]
-			"<06:18:00><DEBUG>	 Found Guild Rank: Citizen", -- [1359]
-			"<06:18:03><DEBUG>	 GetML()", -- [1360]
-			"<06:19:48><INFO>	 Logged In", -- [1361]
-			"<06:19:48>[ML]<INFO>	 Init", -- [1362]
-			"<06:19:48><INFO>	 RCLootCouncil TradeUI enabled", -- [1363]
-			"<06:19:51><INFO>	 Rentaki-Kazzak 3.1.4 nil", -- [1364]
-			"<06:19:51><DEBUG>	 ActivateSkin bfa", -- [1365]
-			"<06:19:52><DEBUG>	 Event: PLAYER_ENTERING_WORLD false true", -- [1366]
-			"<06:19:52><INFO>	 UpdatePlayersData()", -- [1367]
-			"<06:19:52><DEBUG>	 GetPlayersGuildRank()", -- [1368]
-			"<06:19:52><DEBUG>	 Found Guild Rank: Citizen", -- [1369]
-			"<06:19:53><DEBUG>	 GetML()", -- [1370]
-			"<06:19:53><Comm>	 ^1^Sv^T^N1^S3.1.4^t^^ GUILD Rentaki-Kazzak", -- [1371]
-			"<06:32:50><DEBUG>	 Event: PLAYER_ENTERING_WORLD false false", -- [1372]
-			"<06:32:52><DEBUG>	 GetML()", -- [1373]
-			"<06:40:15><DEBUG>	 Event: PLAYER_ENTERING_WORLD false false", -- [1374]
-			"<06:40:17><DEBUG>	 GetML()", -- [1375]
-			"<06:41:43><INFO>	 Logged In", -- [1376]
-			"<06:41:43>[ML]<INFO>	 Init", -- [1377]
-			"<06:41:43><INFO>	 RCLootCouncil TradeUI enabled", -- [1378]
-			"<06:41:49><INFO>	 Rentaki-Kazzak 3.1.4 nil", -- [1379]
-			"<06:41:49><DEBUG>	 ActivateSkin bfa", -- [1380]
-			"<06:41:50><DEBUG>	 Event: PLAYER_ENTERING_WORLD true false", -- [1381]
-			"<06:41:50><INFO>	 UpdatePlayersData()", -- [1382]
-			"<06:41:51><DEBUG>	 GetPlayersGuildRank()", -- [1383]
-			"<06:41:51><DEBUG>	 GetPlayersGuildRank()", -- [1384]
-			"<06:41:51><DEBUG>	 Found Guild Rank: Citizen", -- [1385]
-			"<06:41:54><DEBUG>	 GetML()", -- [1386]
-			"<06:46:12><DEBUG>	 Event: PLAYER_ENTERING_WORLD false false", -- [1387]
-			"<06:46:13><DEBUG>	 GetML()", -- [1388]
-			"<06:51:58><INFO>	 Logged In", -- [1389]
-			"<06:51:58>[ML]<INFO>	 Init", -- [1390]
-			"<06:51:58><INFO>	 RCLootCouncil TradeUI enabled", -- [1391]
-			"<06:52:03><INFO>	 Rentaki-Kazzak 3.1.4 nil", -- [1392]
-			"<06:52:03><DEBUG>	 ActivateSkin bfa", -- [1393]
-			"<06:52:04><DEBUG>	 Event: PLAYER_ENTERING_WORLD true false", -- [1394]
-			"<06:52:04><INFO>	 UpdatePlayersData()", -- [1395]
-			"<06:52:06><DEBUG>	 GetPlayersGuildRank()", -- [1396]
-			"<06:52:06><DEBUG>	 Found Guild Rank: Citizen", -- [1397]
-			"<06:52:08><DEBUG>	 GetML()", -- [1398]
-			"<07:03:56><INFO>	 Logged In", -- [1399]
-			"<07:03:56>[ML]<INFO>	 Init", -- [1400]
-			"<07:03:56><INFO>	 RCLootCouncil TradeUI enabled", -- [1401]
-			"<07:04:02><INFO>	 Rentaki-Kazzak 3.1.4 nil", -- [1402]
-			"<07:04:02><DEBUG>	 ActivateSkin bfa", -- [1403]
-			"<07:04:03><DEBUG>	 Event: PLAYER_ENTERING_WORLD true false", -- [1404]
-			"<07:04:03><INFO>	 UpdatePlayersData()", -- [1405]
-			"<07:04:03><DEBUG>	 GetPlayersGuildRank()", -- [1406]
-			"<07:04:04><DEBUG>	 GetPlayersGuildRank()", -- [1407]
-			"<07:04:04><DEBUG>	 Found Guild Rank: Citizen", -- [1408]
-			"<07:04:08><DEBUG>	 GetML()", -- [1409]
-			"<07:11:57><DEBUG>	 Event: PLAYER_ENTERING_WORLD false false", -- [1410]
-			"<07:11:59><DEBUG>	 GetML()", -- [1411]
-			"<07:22:49><INFO>	 Logged In", -- [1412]
-			"<07:22:49>[ML]<INFO>	 Init", -- [1413]
-			"<07:22:49><INFO>	 RCLootCouncil TradeUI enabled", -- [1414]
-			"<07:22:55><INFO>	 Rentaki-Kazzak 3.1.4 nil", -- [1415]
-			"<07:22:55><DEBUG>	 ActivateSkin bfa", -- [1416]
-			"<07:22:56><DEBUG>	 Event: PLAYER_ENTERING_WORLD true false", -- [1417]
-			"<07:22:56><INFO>	 UpdatePlayersData()", -- [1418]
-			"<07:22:57><DEBUG>	 GetPlayersGuildRank()", -- [1419]
-			"<07:22:57><DEBUG>	 GetPlayersGuildRank()", -- [1420]
-			"<07:22:57><DEBUG>	 Found Guild Rank: Citizen", -- [1421]
-			"<07:22:59><DEBUG>	 GetML()", -- [1422]
-			"<19:12:43><INFO>	 Logged In", -- [1423]
-			"<19:12:43>[ML]<INFO>	 Init", -- [1424]
-			"<19:12:43><INFO>	 RCLootCouncil TradeUI enabled", -- [1425]
-			"<19:12:51><INFO>	 Rentaki-Kazzak 3.1.4 nil", -- [1426]
-			"<19:12:51><DEBUG>	 ActivateSkin bfa", -- [1427]
-			"<19:12:53><DEBUG>	 Event: PLAYER_ENTERING_WORLD true false", -- [1428]
-			"<19:12:53><INFO>	 UpdatePlayersData()", -- [1429]
-			"<19:12:54><DEBUG>	 GetPlayersGuildRank()", -- [1430]
-			"<19:12:54><DEBUG>	 Found Guild Rank: Citizen", -- [1431]
-			"<19:12:57><DEBUG>	 GetML()", -- [1432]
-			"<19:14:02><DEBUG>	 Event: PARTY_LEADER_CHANGED", -- [1433]
-			"<19:14:04><DEBUG>	 GetML()", -- [1434]
-			"<19:14:04><DEBUG>	 Resetting council as we have a new ML!", -- [1435]
-			"<19:14:04><INFO>	 MasterLooter =  Mímou-Kazzak", -- [1436]
-			"<19:14:19><DEBUG>	 Timer MLdb_check passed", -- [1437]
-			"<19:14:19><Comm>	 ^1^Sxrealm^T^N1^SMímou-Kazzak^N2^SMLdb_request^t^^ PARTY Rentaki-Kazzak", -- [1438]
-			"<19:14:19><Comm>	 ^1^Sxrealm^T^N1^SMímou-Kazzak^N2^Scouncil_request^t^^ PARTY Rentaki-Kazzak", -- [1439]
-			"<19:18:24><Comm>	 ^1^Sxrealm^T^N1^SMímou-Kazzak^N2^SMLdb_request^t^^ PARTY Skonheden-Kazzak", -- [1440]
-			"<19:18:24><Comm>	 ^1^Sxrealm^T^N1^SMímou-Kazzak^N2^Scouncil_request^t^^ PARTY Skonheden-Kazzak", -- [1441]
-			"<19:18:50><DEBUG>	 Event: PLAYER_ENTERING_WORLD false false", -- [1442]
-			"<19:18:52><DEBUG>	 GetML()", -- [1443]
-			"<19:24:09><DEBUG>	 Event: PLAYER_ENTERING_WORLD false false", -- [1444]
-			"<19:24:10><DEBUG>	 GetML()", -- [1445]
-			"<19:25:39><Comm>	 ^1^Sxrealm^T^N1^SMímou-Kazzak^N2^SMLdb_request^t^^ PARTY Nited-Kazzak", -- [1446]
-			"<19:25:39><Comm>	 ^1^Sxrealm^T^N1^SMímou-Kazzak^N2^Scouncil_request^t^^ PARTY Nited-Kazzak", -- [1447]
-			"<19:31:15><DEBUG>	 Event: PARTY_LEADER_CHANGED", -- [1448]
-			"<19:31:17><DEBUG>	 GetML()", -- [1449]
-			"<19:31:18><DEBUG>	 Event: PLAYER_ENTERING_WORLD false false", -- [1450]
-			"<19:31:20><DEBUG>	 GetML()", -- [1451]
-			"<19:31:47><DEBUG>	 Event: GROUP_LEFT 2 Party-1461-1-0000578C6FDD", -- [1452]
-			"<19:31:47><DEBUG>	 GetML()", -- [1453]
-			"<19:31:47><DEBUG>	 Resetting council as we have a new ML!", -- [1454]
-			"<19:31:47><INFO>	 MasterLooter =  Mímou-Kazzak", -- [1455]
-			"<19:31:50><DEBUG>	 Event: PLAYER_ENTERING_WORLD false false", -- [1456]
-			"<19:31:52><DEBUG>	 GetML()", -- [1457]
-			"<19:32:02><DEBUG>	 Timer MLdb_check passed", -- [1458]
-			"<19:32:02><Comm>	 ^1^Sxrealm^T^N1^SMímou-Kazzak^N2^SMLdb_request^t^^ PARTY Rentaki-Kazzak", -- [1459]
-			"<19:32:02><Comm>	 ^1^Sxrealm^T^N1^SMímou-Kazzak^N2^Scouncil_request^t^^ PARTY Rentaki-Kazzak", -- [1460]
-			"<19:33:37><DEBUG>	 Event: PLAYER_ENTERING_WORLD false false", -- [1461]
-			"<19:33:38><DEBUG>	 GetML()", -- [1462]
-			"<19:33:52><DEBUG>	 Event: RAID_INSTANCE_WELCOME De Other Side (Mythic) 476767 0 0", -- [1463]
-			"<19:33:53><DEBUG>	 Event: PLAYER_ENTERING_WORLD false false", -- [1464]
-			"<19:33:54><DEBUG>	 GetML()", -- [1465]
-			"<19:35:12><DEBUG>	 TradeUI: Traded item(s) to Mímou-Kazzak", -- [1466]
-			"<19:35:12><DEBUG>	 Storage:RemoveItem |cffffffff|Hitem:171276::::::::60:262:::::::|h[Spectral Flask of Power]|h|r", -- [1467]
-			"<19:35:12><ERROR>	 Couldn't remove item nil nil", -- [1468]
-			"<19:35:12><DEBUG>	 TradeUI:Show() nil", -- [1469]
-			"<19:35:12><DEBUG>	 TradeUI:Hide()", -- [1470]
-			"<19:35:37><DEBUG>	 Event: PARTY_LEADER_CHANGED", -- [1471]
-			"<19:35:39><DEBUG>	 GetML()", -- [1472]
-			"<19:35:39><DEBUG>	 Resetting council as we have a new ML!", -- [1473]
-			"<19:35:39><INFO>	 MasterLooter =  Nited-Kazzak", -- [1474]
-			"<19:35:39><Comm>	 ^1^SplayerInfoRequest^T^t^^ PARTY Nited-Kazzak", -- [1475]
-			"<19:35:39><Comm>	 ^1^Smldb^T^N1^T^S|8^T^S|14^T^S|5^N3^t^t^S|12^N60^S|11^T^S|14^T^t^t^S|1^B^S|5^N3^S|2^B^t^t^^ PARTY Nited-Kazzak", -- [1476]
-			"<19:35:39><INFO>	 OnMLDBReceived", -- [1477]
-			"<19:35:40><Comm>	 ^1^Sxrealm^T^N1^SNited-Kazzak^N2^SpI^N3^STANK^N4^SUndocumented^N6^N0^N7^N222.0625^N8^N102^t^^ PARTY Nited-Kazzak", -- [1478]
-			"<19:35:40><Comm>	 ^1^Sxrealm^T^N1^SNited-Kazzak^N2^SpI^N3^SDAMAGER^N4^SCitizen^N6^N0^N7^N229.1875^N8^N262^t^^ PARTY Rentaki-Kazzak", -- [1479]
-			"<19:35:40><Comm>	 ^1^Sxrealm^T^N1^SNited-Kazzak^N2^SpI^N3^SDAMAGER^N4^SCitizen^N6^N0^N7^N226.375^N8^N102^t^^ PARTY Macuc-Kazzak", -- [1480]
-			"<19:35:40><Comm>	 ^1^Sxrealm^T^N1^SNited-Kazzak^N2^SpI^N3^SDAMAGER^N4^SCitizen^N6^N0^N7^N229.1875^N8^N63^t^^ PARTY Skonheden-Kazzak", -- [1481]
-			"<19:35:41><Comm>	 ^1^Scouncil^T^N1^T^S1305-0B07CCD2^B^t^t^^ PARTY Nited-Kazzak", -- [1482]
-			"<19:35:41><DEBUG>	 isCouncil false", -- [1483]
-			"<19:35:54><DEBUG>	 Timer MLdb_check passed", -- [1484]
-			"<19:45:52><DEBUG>	 Event: ENCOUNTER_START 2395 Hakkar, the Soulflayer 8 5", -- [1485]
-			"<19:45:52><INFO>	 UpdatePlayersData()", -- [1486]
-			"<19:47:45><DEBUG>	 Event: ENCOUNTER_END 2395 Hakkar, the Soulflayer 8 5 1", -- [1487]
-			"<19:56:12><DEBUG>	 Event: ENCOUNTER_START 2394 The Manastorms 8 5", -- [1488]
-			"<19:56:12><INFO>	 UpdatePlayersData()", -- [1489]
-			"<19:58:39><DEBUG>	 Event: ENCOUNTER_END 2394 The Manastorms 8 5 1", -- [1490]
-			"<20:08:34><DEBUG>	 Event: ENCOUNTER_START 2400 Dealer Xy'exa 8 5", -- [1491]
-			"<20:08:34><INFO>	 UpdatePlayersData()", -- [1492]
-			"<20:09:46><DEBUG>	 Event: ENCOUNTER_END 2400 Dealer Xy'exa 8 5 1", -- [1493]
-			"<20:10:54><DEBUG>	 Event: ENCOUNTER_START 2396 Mueh'zala 8 5", -- [1494]
-			"<20:10:54><INFO>	 UpdatePlayersData()", -- [1495]
-			"<20:13:46><DEBUG>	 Event: ENCOUNTER_END 2396 Mueh'zala 8 5 1", -- [1496]
-			"<20:13:55><Comm>	 ^1^Sl^T^N1^S354985^t^^ PARTY Macuc-Kazzak", -- [1497]
-			"<20:13:55><Comm>	 ^1^Sl^T^N1^S354985^t^^ PARTY Macuc-Kazzak", -- [1498]
-			"<20:13:55><DEBUG>	 Event: ENCOUNTER_LOOT_RECEIVED 2396 179324 |cffa335ee|Hitem:179324::::::::60:262::16:5:7349:7359:6652:1524:6646:1:28:1279:::|h[Soulfeather Breeches]|h|r 1 Nited DRUID", -- [1499]
-			"<20:13:55><Comm>	 ^1^Sl^T^N1^S354985^t^^ PARTY Nited-Kazzak", -- [1500]
-			"<20:13:57><DEBUG>	 Event: LOOT_READY true", -- [1501]
-			"<20:13:57><DEBUG>	 Adding to self.lootSlotInfo 1 nil 1 0 GameObject-0-3102-2291-16371-354985-00004A6BEC 521921", -- [1502]
-			"<20:13:57><DEBUG>	 Ignoring |cffa335ee|Hcurrency:1191:135|h[Valor]|h|r as it's a currency", -- [1503]
-			"<20:13:57><DEBUG>	 Adding to self.lootSlotInfo 4 |cffa335ee|Hitem:179345::::::::60:262::33:5:7370:7359:6652:1524:6646:1:28:1279:::|h[Spatial Rift Striders]|h|r 4 1 GameObject-0-3102-2291-16371-354985-00004A6BEC 1", -- [1504]
-			"<20:13:57><DEBUG>	 OnLootSlotCleared() 4 |cffa335ee|Hitem:179345::::::::60:262::33:5:7370:7359:6652:1524:6646:1:28:1279:::|h[Spatial Rift Striders]|h|r 4", -- [1505]
-			"<20:13:57><DEBUG>	 Event: LOOT_READY true", -- [1506]
-			"<20:13:57><DEBUG>	 Adding to self.lootSlotInfo 1 nil 1 0 GameObject-0-3102-2291-16371-354985-00004A6BEC 521921", -- [1507]
-			"<20:13:57><DEBUG>	 Ignoring |cffa335ee|Hcurrency:1191:135|h[Valor]|h|r as it's a currency", -- [1508]
-			"<20:13:58><Comm>	 ^1^Sl^T^N1^S354985^t^^ PARTY Skonheden-Kazzak", -- [1509]
-			"<20:13:58><Comm>	 ^1^Sl^T^N1^S354985^t^^ PARTY Skonheden-Kazzak", -- [1510]
-			"<20:13:58><DEBUG>	 Event: ENCOUNTER_LOOT_RECEIVED 2396 179345 |cffa335ee|Hitem:179345::::::::60:262::33:5:7370:7359:6652:1524:6646:1:28:1279:::|h[Spatial Rift Striders]|h|r 1 Rentaki SHAMAN", -- [1511]
-			"<20:13:58><DEBUG>	 Event: ENCOUNTER_LOOT_RECEIVED 2396 181479 |cff0070dd|Hitem:181479::::::::60:262:::::::|h[Starlight Catcher]|h|r 3 Rentaki SHAMAN", -- [1512]
-			"<20:13:58><DEBUG>	 OnLootSlotCleared() 1 nil 1", -- [1513]
-			"<20:13:58><DEBUG>	 Event: LOOT_CLOSED", -- [1514]
-			"<20:13:58><DEBUG>	 Event: LOOT_CLOSED", -- [1515]
-			"<20:13:58><Comm>	 ^1^Stradable^T^N1^S|cffa335ee|Hitem:179324::::::::60:104::16:5:7349:7359:6652:1524:6646:1:28:1279:::|h[Soulfeather~`Breeches]|h|r^N2^S354985^t^^ PARTY Nited-Kazzak", -- [1516]
-			"<20:13:58><Comm>	 ^1^Sl^T^N1^S354985^t^^ PARTY Rentaki-Kazzak", -- [1517]
-			"<20:13:58><Comm>	 ^1^Sl^T^N1^S354985^t^^ PARTY Rentaki-Kazzak", -- [1518]
-			"<20:13:59><DEBUG>	 Storage:New |cffa335ee|Hitem:179345::::::::60:262::33:5:7370:7359:6652:1524:6646:1:28:1279:::|h[Spatial Rift Striders]|h|r temp", -- [1519]
-			"<20:13:59><DEBUG>	 Storage: searching for item: ||cffa335ee||Hitem:179345::::::::60:262::33:5:7370:7359:6652:1524:6646:1:28:1279:::||h[Spatial Rift Striders]||h||r 5", -- [1520]
-			"<20:13:59><DEBUG>	 Found item at 0 3", -- [1521]
-			"<20:14:00><DEBUG>	 Storage: searching for item: ||cffa335ee||Hitem:179345::::::::60:262::33:5:7370:7359:6652:1524:6646:1:28:1279:::||h[Spatial Rift Striders]||h||r 5", -- [1522]
-			"<20:14:00><DEBUG>	 Found item at 0 3", -- [1523]
-			"<20:14:00><Comm>	 ^1^Stradable^T^N1^S|cffa335ee|Hitem:179345::::::::60:262::33:5:7370:7359:6652:1524:6646:1:28:1279:::|h[Spatial~`Rift~`Striders]|h|r^N2^S354985^t^^ PARTY Rentaki-Kazzak", -- [1524]
-			"<20:14:09><DEBUG>	 Event: ENCOUNTER_LOOT_RECEIVED 2396 179349 |cffa335ee|Hitem:179349::::::::60:262::33:5:7384:7359:6652:1524:6646:1:28:1279:::|h[Dealer Xy'exa's Cape]|h|r 1 Mímou PRIEST", -- [1525]
-			"<20:15:03><DEBUG>	 Event: PLAYER_ENTERING_WORLD false false", -- [1526]
-			"<20:15:05><DEBUG>	 GetML()", -- [1527]
-			"<20:15:35><DEBUG>	 Event: RAID_INSTANCE_WELCOME De Other Side (Mythic) 474264 0 0", -- [1528]
-			"<20:15:35><DEBUG>	 Event: PLAYER_ENTERING_WORLD false false", -- [1529]
-			"<20:15:37><DEBUG>	 GetML()", -- [1530]
-			"<20:29:18><DEBUG>	 Event: ENCOUNTER_START 2395 Hakkar, the Soulflayer 8 5", -- [1531]
-			"<20:29:18><INFO>	 UpdatePlayersData()", -- [1532]
-			"<20:30:43><DEBUG>	 Event: ENCOUNTER_END 2395 Hakkar, the Soulflayer 8 5 1", -- [1533]
-			"<20:38:20><DEBUG>	 Event: ENCOUNTER_START 2394 The Manastorms 8 5", -- [1534]
-			"<20:38:20><INFO>	 UpdatePlayersData()", -- [1535]
-			"<20:40:52><DEBUG>	 Event: ENCOUNTER_END 2394 The Manastorms 8 5 1", -- [1536]
-			"<20:51:01><DEBUG>	 Event: ENCOUNTER_START 2400 Dealer Xy'exa 8 5", -- [1537]
-			"<20:51:01><INFO>	 UpdatePlayersData()", -- [1538]
-			"<20:52:13><DEBUG>	 Event: ENCOUNTER_END 2400 Dealer Xy'exa 8 5 1", -- [1539]
-			"<20:53:22><DEBUG>	 Event: ENCOUNTER_START 2396 Mueh'zala 8 5", -- [1540]
-			"<20:53:22><INFO>	 UpdatePlayersData()", -- [1541]
-			"<20:56:37><DEBUG>	 Event: ENCOUNTER_END 2396 Mueh'zala 8 5 1", -- [1542]
-			"<20:56:47><Comm>	 ^1^Sl^T^N1^S354985^t^^ PARTY Macuc-Kazzak", -- [1543]
-			"<20:56:47><Comm>	 ^1^Sl^T^N1^S354985^t^^ PARTY Macuc-Kazzak", -- [1544]
-			"<20:56:47><Comm>	 ^1^Sl^T^N1^S354985^t^^ PARTY Nited-Kazzak", -- [1545]
-			"<20:56:47><Comm>	 ^1^Sl^T^N1^S354985^t^^ PARTY Nited-Kazzak", -- [1546]
-			"<20:56:48><DEBUG>	 Event: ENCOUNTER_LOOT_RECEIVED 2396 179339 |cffa335ee|Hitem:179339::::::::60:262::33:5:7412:7359:6652:1524:6646:1:28:1279:::|h[Whizblast Walking Stick]|h|r 1 Skonheden MAGE", -- [1547]
-			"<20:56:48><Comm>	 ^1^Sl^T^N1^S354985^t^^ PARTY Skonheden-Kazzak", -- [1548]
-			"<20:56:48><Comm>	 ^1^Sl^T^N1^S354985^t^^ PARTY Skonheden-Kazzak", -- [1549]
-			"<20:56:51><DEBUG>	 Event: LOOT_READY false", -- [1550]
-			"<20:56:51><DEBUG>	 Adding to self.lootSlotInfo 1 nil 1 0 GameObject-0-3102-2291-18350-354985-00004A75F7 515819", -- [1551]
-			"<20:56:51><DEBUG>	 Ignoring |cffa335ee|Hcurrency:1191:135|h[Valor]|h|r as it's a currency", -- [1552]
-			"<20:56:51><DEBUG>	 Adding to self.lootSlotInfo 4 |cffa335ee|Hitem:179337::::::::60:262::33:5:7349:7359:6652:1524:6646:1:28:1279:::|h[Techno-Coil Legguards]|h|r 4 1 GameObject-0-3102-2291-18350-354985-00004A75F7 1", -- [1553]
-			"<20:56:52><Comm>	 ^1^Stradable^T^N1^S|cffa335ee|Hitem:179339::::::::60:63::33:5:7412:7359:6652:1524:6646:1:28:1279:::|h[Whizblast~`Walking~`Stick]|h|r^N2^S354985^t^^ PARTY Skonheden-Kazzak", -- [1554]
-			"<20:56:52><DEBUG>	 OnLootSlotCleared() 4 |cffa335ee|Hitem:179337::::::::60:262::33:5:7349:7359:6652:1524:6646:1:28:1279:::|h[Techno-Coil Legguards]|h|r 4", -- [1555]
-			"<20:56:53><DEBUG>	 Event: ENCOUNTER_LOOT_RECEIVED 2396 179337 |cffa335ee|Hitem:179337::::::::60:262::33:5:7349:7359:6652:1524:6646:1:28:1279:::|h[Techno-Coil Legguards]|h|r 1 Rentaki SHAMAN", -- [1556]
-			"<20:56:53><DEBUG>	 Event: ENCOUNTER_LOOT_RECEIVED 2396 184383 |cff0070dd|Hitem:184383::::::::60:262:::::::|h[Duskfall Tuber]|h|r 3 Rentaki SHAMAN", -- [1557]
-			"<20:56:54><DEBUG>	 OnLootSlotCleared() 1 nil 1", -- [1558]
-			"<20:56:54><DEBUG>	 Event: LOOT_CLOSED", -- [1559]
-			"<20:56:54><DEBUG>	 Event: LOOT_CLOSED", -- [1560]
-			"<20:56:54><Comm>	 ^1^Sl^T^N1^S354985^t^^ PARTY Rentaki-Kazzak", -- [1561]
-			"<20:56:54><Comm>	 ^1^Sl^T^N1^S354985^t^^ PARTY Rentaki-Kazzak", -- [1562]
-			"<20:56:54><DEBUG>	 Storage:New |cffa335ee|Hitem:179337::::::::60:262::33:5:7349:7359:6652:1524:6646:1:28:1279:::|h[Techno-Coil Legguards]|h|r temp", -- [1563]
-			"<20:56:54><DEBUG>	 Storage: searching for item: ||cffa335ee||Hitem:179337::::::::60:262::33:5:7349:7359:6652:1524:6646:1:28:1279:::||h[Techno-Coil Legguards]||h||r 5", -- [1564]
-			"<20:56:54><DEBUG>	 Found item at 0 8", -- [1565]
-			"<20:56:55><DEBUG>	 Storage: searching for item: ||cffa335ee||Hitem:179337::::::::60:262::33:5:7349:7359:6652:1524:6646:1:28:1279:::||h[Techno-Coil Legguards]||h||r 5", -- [1566]
-			"<20:56:55><DEBUG>	 Found item at 0 8", -- [1567]
-			"<20:56:56><Comm>	 ^1^Stradable^T^N1^S|cffa335ee|Hitem:179337::::::::60:262::33:5:7349:7359:6652:1524:6646:1:28:1279:::|h[Techno-Coil~`Legguards]|h|r^N2^S354985^t^^ PARTY Rentaki-Kazzak", -- [1568]
-			"<20:57:00><DEBUG>	 Event: ENCOUNTER_LOOT_RECEIVED 2396 179350 |cffa335ee|Hitem:179350::::::::60:262::16:5:7370:7359:6652:1524:6646:1:28:1279:::|h[Inscrutable Quantum Device]|h|r 1 Mímou PRIEST", -- [1569]
-			"<20:58:18><DEBUG>	 Event: PLAYER_ENTERING_WORLD false false", -- [1570]
-			"<20:58:20><DEBUG>	 GetML()", -- [1571]
-			"<21:08:46><DEBUG>	 Event: PLAYER_ENTERING_WORLD false false", -- [1572]
-			"<21:08:47><DEBUG>	 GetML()", -- [1573]
-			"<21:09:30><DEBUG>	 Event: RAID_INSTANCE_WELCOME Mists of Tirna Scithe (Mythic) 471029 0 0", -- [1574]
-			"<21:09:30><DEBUG>	 Event: PLAYER_ENTERING_WORLD false false", -- [1575]
-			"<21:09:32><DEBUG>	 GetML()", -- [1576]
-			"<21:14:55><DEBUG>	 Event: ENCOUNTER_START 2397 Ingra Maloch 8 5", -- [1577]
-			"<21:14:55><INFO>	 UpdatePlayersData()", -- [1578]
-			"<21:17:00><DEBUG>	 Event: ENCOUNTER_END 2397 Ingra Maloch 8 5 1", -- [1579]
-			"<21:21:39><DEBUG>	 Event: ENCOUNTER_START 2392 Mistcaller 8 5", -- [1580]
-			"<21:21:39><INFO>	 UpdatePlayersData()", -- [1581]
-			"<21:24:30><DEBUG>	 Event: ENCOUNTER_END 2392 Mistcaller 8 5 1", -- [1582]
-			"<21:31:24><DEBUG>	 Event: ENCOUNTER_START 2393 Tred'ova 8 5", -- [1583]
-			"<21:31:24><INFO>	 UpdatePlayersData()", -- [1584]
-			"<21:33:18><DEBUG>	 Event: ENCOUNTER_END 2393 Tred'ova 8 5 1", -- [1585]
-			"<21:33:23><Comm>	 ^1^Sl^T^N1^S354972^t^^ PARTY Nited-Kazzak", -- [1586]
-			"<21:33:26><DEBUG>	 Event: LOOT_READY false", -- [1587]
-			"<21:33:26><DEBUG>	 Adding to self.lootSlotInfo 1 nil 1 0 GameObject-0-4234-2290-7481-354972-00004A7E8F 540910", -- [1588]
-			"<21:33:26><DEBUG>	 Ignoring |cffa335ee|Hcurrency:1191:135|h[Valor]|h|r as it's a currency", -- [1589]
-			"<21:33:26><DEBUG>	 Adding to self.lootSlotInfo 5 |cffa335ee|Hitem:178712::::::::60:262::33:5:7426:7359:6652:1524:6646:1:28:1279:::|h[Acidslough Bulwark]|h|r 4 1 GameObject-0-4234-2290-7481-354972-00004A7E8F 1", -- [1590]
-			"<21:33:28><DEBUG>	 OnLootSlotCleared() 1 nil 1", -- [1591]
-			"<21:33:29><DEBUG>	 Event: ENCOUNTER_LOOT_RECEIVED 2393 184382 |cff0070dd|Hitem:184382::::::::60:262:::::::|h[Luminous Sylberry]|h|r 3 Rentaki SHAMAN", -- [1592]
-			"<21:33:30><DEBUG>	 OnLootSlotCleared() 5 |cffa335ee|Hitem:178712::::::::60:262::33:5:7426:7359:6652:1524:6646:1:28:1279:::|h[Acidslough Bulwark]|h|r 4", -- [1593]
-			"<21:33:30><DEBUG>	 Event: LOOT_CLOSED", -- [1594]
-			"<21:33:30><DEBUG>	 Event: LOOT_CLOSED", -- [1595]
-			"<21:33:30><DEBUG>	 Event: ENCOUNTER_LOOT_RECEIVED 2393 178712 |cffa335ee|Hitem:178712::::::::60:262::33:5:7426:7359:6652:1524:6646:1:28:1279:::|h[Acidslough Bulwark]|h|r 1 Rentaki SHAMAN", -- [1596]
-			"<21:33:30><DEBUG>	 Event: ENCOUNTER_LOOT_RECEIVED 2393 178691 |cffa335ee|Hitem:178691::::::::60:262::16:6:7349:7359:6652:7193:1524:6646:1:28:1279:::|h[Hood of the Hidden Path]|h|r 1 Macuc DRUID", -- [1597]
-			"<21:33:30><Comm>	 ^1^Sl^T^N1^S354972^t^^ PARTY Rentaki-Kazzak", -- [1598]
-			"<21:33:30><Comm>	 ^1^Sl^T^N1^S354972^t^^ PARTY Rentaki-Kazzak", -- [1599]
-			"<21:33:31><Comm>	 ^1^Sl^T^N1^S354972^t^^ PARTY Macuc-Kazzak", -- [1600]
-			"<21:33:31><Comm>	 ^1^Sl^T^N1^S354972^t^^ PARTY Macuc-Kazzak", -- [1601]
-			"<21:33:32><DEBUG>	 Storage:New |cffa335ee|Hitem:178712::::::::60:262::33:5:7426:7359:6652:1524:6646:1:28:1279:::|h[Acidslough Bulwark]|h|r temp", -- [1602]
-			"<21:33:32><DEBUG>	 Storage: searching for item: ||cffa335ee||Hitem:178712::::::::60:262::33:5:7426:7359:6652:1524:6646:1:28:1279:::||h[Acidslough Bulwark]||h||r 5", -- [1603]
-			"<21:33:32><DEBUG>	 Found item at 2 24", -- [1604]
-			"<21:33:32><Comm>	 ^1^Sl^T^N1^S354972^t^^ PARTY Skonheden-Kazzak", -- [1605]
-			"<21:33:32><Comm>	 ^1^Sl^T^N1^S354972^t^^ PARTY Skonheden-Kazzak", -- [1606]
-			"<21:33:33><DEBUG>	 Storage: searching for item: ||cffa335ee||Hitem:178712::::::::60:262::33:5:7426:7359:6652:1524:6646:1:28:1279:::||h[Acidslough Bulwark]||h||r 5", -- [1607]
-			"<21:33:33><DEBUG>	 Found item at 2 24", -- [1608]
-			"<21:33:33><Comm>	 ^1^Stradable^T^N1^S|cffa335ee|Hitem:178712::::::::60:262::33:5:7426:7359:6652:1524:6646:1:28:1279:::|h[Acidslough~`Bulwark]|h|r^N2^S354972^t^^ PARTY Rentaki-Kazzak", -- [1609]
-			"<21:33:33><Comm>	 ^1^Stradable^T^N1^S|cffa335ee|Hitem:178691::::::::60:102::16:6:7349:7359:6652:7193:1524:6646:1:28:1279:::|h[Hood~`of~`the~`Hidden~`Path]|h|r^N2^S354972^t^^ PARTY Macuc-Kazzak", -- [1610]
-			"<21:34:23><DEBUG>	 Event: PLAYER_ENTERING_WORLD false false", -- [1611]
-			"<21:34:25><DEBUG>	 GetML()", -- [1612]
-			"<21:46:08><DEBUG>	 Event: GROUP_LEFT 1 Party-1305-1-000054DD2374", -- [1613]
-			"<21:46:08><DEBUG>	 GetML()", -- [1614]
-			"<22:02:11><DEBUG>	 Event: PLAYER_ENTERING_WORLD false false", -- [1615]
-			"<22:02:13><DEBUG>	 GetML()", -- [1616]
-			"<22:10:17><DEBUG>	 Event: LOOT_READY true", -- [1617]
-			"<22:10:18><DEBUG>	 Event: LOOT_READY true", -- [1618]
-			"<22:16:15><INFO>	 Logged In", -- [1619]
-			"<22:16:15>[ML]<INFO>	 Init", -- [1620]
-			"<22:16:15><INFO>	 RCLootCouncil TradeUI enabled", -- [1621]
-			"<22:16:17><INFO>	 Rentaki-Kazzak 3.1.4 nil", -- [1622]
-			"<22:16:17><DEBUG>	 ActivateSkin bfa", -- [1623]
-			"<22:16:19><DEBUG>	 Event: PLAYER_ENTERING_WORLD false true", -- [1624]
-			"<22:16:19><INFO>	 UpdatePlayersData()", -- [1625]
-			"<22:16:19><DEBUG>	 GetPlayersGuildRank()", -- [1626]
-			"<22:16:19><DEBUG>	 Found Guild Rank: Citizen", -- [1627]
-			"<22:16:20><DEBUG>	 GetML()", -- [1628]
-			"<22:16:20><DEBUG>	 Storage:New |cffa335ee|Hitem:179345::::::::60:262::33:5:7370:7359:6652:1524:6646:1:28:1279:::|h[Spatial Rift Striders]|h|r temp restored table: 0000022AF8D94EA0", -- [1629]
-			"<22:16:20><DEBUG>	 Storage: searching for item: ||cffa335ee||Hitem:179345::::::::60:262::33:5:7370:7359:6652:1524:6646:1:28:1279:::||h[Spatial Rift Striders]||h||r 5", -- [1630]
-			"<22:16:20><DEBUG>	 Found: nil nil nil", -- [1631]
-			"<22:16:20><WARNING>	 ItemStorage, db item no longer in bags |cffa335ee|Hitem:179345::::::::60:262::33:5:7370:7359:6652:1524:6646:1:28:1279:::|h[Spatial Rift Striders]|h|r", -- [1632]
-			"<22:16:20><DEBUG>	 Storage:RemoveItem |cffa335ee|Hitem:179345::::::::60:262::33:5:7370:7359:6652:1524:6646:1:28:1279:::|h[Spatial Rift Striders]|h|r", -- [1633]
-			"<22:16:20><DEBUG>	 Storage:New |cffa335ee|Hitem:178712::::::::60:262::33:5:7426:7359:6652:1524:6646:1:28:1279:::|h[Acidslough Bulwark]|h|r temp restored table: 0000022AF8D94FE0", -- [1634]
-			"<22:16:20><DEBUG>	 Storage: searching for item: ||cffa335ee||Hitem:178712::::::::60:262::33:5:7426:7359:6652:1524:6646:1:28:1279:::||h[Acidslough Bulwark]||h||r 5", -- [1635]
-			"<22:16:20><DEBUG>	 Found item at 2 24", -- [1636]
-			"<22:16:20><Comm>	 ^1^Sv^T^N1^S3.1.4^t^^ GUILD Rentaki-Kazzak", -- [1637]
-			"<22:16:20><Comm>	 ^1^Sr^T^N1^S3.1.3^N3^T^t^t^^ GUILD Kessrogue-Kazzak", -- [1638]
-			"<22:42:59><INFO>	 Logged In", -- [1639]
-			"<22:42:59>[ML]<INFO>	 Init", -- [1640]
-			"<22:42:59><INFO>	 RCLootCouncil TradeUI enabled", -- [1641]
-			"<22:43:07><INFO>	 Rentaki-Kazzak 3.1.4 nil", -- [1642]
-			"<22:43:07><DEBUG>	 ActivateSkin bfa", -- [1643]
-			"<22:43:08><DEBUG>	 Event: PLAYER_ENTERING_WORLD true false", -- [1644]
-			"<22:43:08><INFO>	 UpdatePlayersData()", -- [1645]
-			"<22:43:09><DEBUG>	 GetPlayersGuildRank()", -- [1646]
-			"<22:43:09><DEBUG>	 Found Guild Rank: Citizen", -- [1647]
-			"<22:43:11><DEBUG>	 GetML()", -- [1648]
-			"<22:43:11><DEBUG>	 Storage:New |cffa335ee|Hitem:179337::::::::60:262::33:5:7349:7359:6652:1524:6646:1:28:1279:::|h[Techno-Coil Legguards]|h|r temp restored table: 0000016747EDBBA0", -- [1649]
-			"<22:43:11><DEBUG>	 Storage: searching for item: ||cffa335ee||Hitem:179337::::::::60:262::33:5:7349:7359:6652:1524:6646:1:28:1279:::||h[Techno-Coil Legguards]||h||r 5", -- [1650]
-			"<22:43:11><DEBUG>	 Found item at 0 8", -- [1651]
-			"<22:43:11><DEBUG>	 Storage:New |cffa335ee|Hitem:178712::::::::60:262::33:5:7426:7359:6652:1524:6646:1:28:1279:::|h[Acidslough Bulwark]|h|r temp restored table: 0000016747EDBC40", -- [1652]
-			"<22:43:11><DEBUG>	 Storage: searching for item: ||cffa335ee||Hitem:178712::::::::60:262::33:5:7426:7359:6652:1524:6646:1:28:1279:::||h[Acidslough Bulwark]||h||r 5", -- [1653]
-			"<22:43:11><DEBUG>	 Found item at 2 24", -- [1654]
-			"<22:44:57><DEBUG>	 Event: PLAYER_ENTERING_WORLD false false", -- [1655]
-			"<22:44:59><DEBUG>	 GetML()", -- [1656]
-			"<22:47:15><DEBUG>	 Event: RAID_INSTANCE_WELCOME Tomb of Sargeras (Mythic) 465164 0 0", -- [1657]
-			"<22:47:16><DEBUG>	 Event: PLAYER_ENTERING_WORLD false false", -- [1658]
-			"<22:47:17><DEBUG>	 GetML()", -- [1659]
-			"<22:49:02><DEBUG>	 Event: ENCOUNTER_START 2032 Goroth 16 20", -- [1660]
-			"<22:49:02><INFO>	 UpdatePlayersData()", -- [1661]
-			"<22:49:42><DEBUG>	 Event: ENCOUNTER_END 2032 Goroth 16 20 1", -- [1662]
-			"<22:50:00><DEBUG>	 Event: LOOT_READY false", -- [1663]
-			"<22:50:00><DEBUG>	 Adding to self.lootSlotInfo 1 nil 1 0 Vehicle-0-3151-1676-23870-115844-00004A901F 270104", -- [1664]
-			"<22:50:00><DEBUG>	 Adding to self.lootSlotInfo 2 |cffa335ee|Hitem:147076::::::::60:262::6:3:3563:1472:3528:1:28:498:::|h[Charred Hymnal of the Moon]|h|r 4 1 Vehicle-0-3151-1676-23870-115844-00004A901F 1", -- [1665]
-			"<22:50:00><DEBUG>	 Adding to self.lootSlotInfo 3 |cffa335ee|Hitem:147065::::::::60:262::6:3:3563:1472:3528:1:28:498:::|h[Lava-Slough Legguards]|h|r 4 1 Vehicle-0-3151-1676-23870-115844-00004A901F 1", -- [1666]
-			"<22:50:00><DEBUG>	 Adding to self.lootSlotInfo 4 |cffa335ee|Hitem:146992::::::::60:262::6:3:3563:1472:3528:1:28:498:::|h[Legwraps of Fused Loathing]|h|r 4 1 Vehicle-0-3151-1676-23870-115844-00004A901F 1", -- [1667]
-			"<22:50:00><DEBUG>	 Adding to self.lootSlotInfo 5 |cffa335ee|Hitem:147039::::::::60:262::6:3:3563:1472:3528:1:28:498:::|h[Cinch of Sizzling Flesh]|h|r 4 1 Vehicle-0-3151-1676-23870-115844-00004A901F 1", -- [1668]
-			"<22:50:00><DEBUG>	 Adding to self.lootSlotInfo 6 |cffa335ee|Hitem:147055::::::::60:262::6:4:3563:1472:5855:3336:1:28:498:::|h[Belt of Screaming Slag]|h|r 4 1 Vehicle-0-3151-1676-23870-115844-00004A901F 1", -- [1669]
-			"<22:50:02><DEBUG>	 OnLootSlotCleared() 6 |cffa335ee|Hitem:147055::::::::60:262::6:4:3563:1472:5855:3336:1:28:498:::|h[Belt of Screaming Slag]|h|r 4", -- [1670]
-			"<22:50:02><DEBUG>	 Event: ENCOUNTER_LOOT_RECEIVED 2032 147055 |cffa335ee|Hitem:147055::::::::60:262::6:4:3563:1472:5855:3336:1:28:498:::|h[Belt of Screaming Slag]|h|r 1 Rentaki SHAMAN", -- [1671]
-			"<22:50:04><DEBUG>	 OnLootSlotCleared() 2 |cffa335ee|Hitem:147076::::::::60:262::6:3:3563:1472:3528:1:28:498:::|h[Charred Hymnal of the Moon]|h|r 4", -- [1672]
-			"<22:50:04><DEBUG>	 Event: ENCOUNTER_LOOT_RECEIVED 2032 147076 |cffa335ee|Hitem:147076::::::::60:262::6:3:3563:1472:3528:1:28:498:::|h[Charred Hymnal of the Moon]|h|r 1 Rentaki SHAMAN", -- [1673]
-			"<22:50:04><DEBUG>	 Event: LOOT_CLOSED", -- [1674]
-			"<22:50:04><Comm>	 ^1^SfakeLoot^T^N1^S|cffa335ee|Hitem:147065::::::::60:262::6:3:3563:1472:3528:1:28:498:::|h[Lava-Slough~`Legguards]|h|r^N2^S115844^t^^ WHISPER Rentaki-Kazzak", -- [1675]
-			"<22:50:04><DEBUG>	 Event: LOOT_READY true", -- [1676]
-			"<22:50:04><DEBUG>	 Adding to self.lootSlotInfo 1 nil 1 0 Vehicle-0-3151-1676-23870-115844-00004A901F 270104", -- [1677]
-			"<22:50:04><DEBUG>	 Adding to self.lootSlotInfo 2 |cffa335ee|Hitem:146992::::::::60:262::6:3:3563:1472:3528:1:28:498:::|h[Legwraps of Fused Loathing]|h|r 4 1 Vehicle-0-3151-1676-23870-115844-00004A901F 1", -- [1678]
-			"<22:50:04><DEBUG>	 Adding to self.lootSlotInfo 3 |cffa335ee|Hitem:147039::::::::60:262::6:3:3563:1472:3528:1:28:498:::|h[Cinch of Sizzling Flesh]|h|r 4 1 Vehicle-0-3151-1676-23870-115844-00004A901F 1", -- [1679]
-			"<22:50:04><DEBUG>	 Adding to self.lootSlotInfo 4 |cffa335ee|Hitem:147065::::::::60:262::6:3:3563:1472:3528:1:28:498:::|h[Lava-Slough Legguards]|h|r 4 1 Vehicle-0-3151-1676-23870-115844-00004A901F 1", -- [1680]
-			"<22:50:04><DEBUG>	 OnLootSlotCleared() 4 |cffa335ee|Hitem:147065::::::::60:262::6:3:3563:1472:3528:1:28:498:::|h[Lava-Slough Legguards]|h|r 4", -- [1681]
-			"<22:50:04><DEBUG>	 OnLootSlotCleared() 3 |cffa335ee|Hitem:147039::::::::60:262::6:3:3563:1472:3528:1:28:498:::|h[Cinch of Sizzling Flesh]|h|r 4", -- [1682]
-			"<22:50:04><DEBUG>	 Storage:New |cffa335ee|Hitem:147055::::::::60:262::6:4:3563:1472:5855:3336:1:28:498:::|h[Belt of Screaming Slag]|h|r temp", -- [1683]
-			"<22:50:04><DEBUG>	 Storage: searching for item: ||cffa335ee||Hitem:147055::::::::60:262::6:4:3563:1472:5855:3336:1:28:498:::||h[Belt of Screaming Slag]||h||r 5", -- [1684]
-			"<22:50:04><DEBUG>	 Found item at 2 25", -- [1685]
-			"<22:50:04><DEBUG>	 Found: 2 25 0", -- [1686]
-			"<22:50:04><DEBUG>	 OnLootSlotCleared() 2 |cffa335ee|Hitem:146992::::::::60:262::6:3:3563:1472:3528:1:28:498:::|h[Legwraps of Fused Loathing]|h|r 4", -- [1687]
-			"<22:50:04><DEBUG>	 Event: LOOT_READY true", -- [1688]
-			"<22:50:04><DEBUG>	 Adding to self.lootSlotInfo 1 nil 1 0 Vehicle-0-3151-1676-23870-115844-00004A901F 270104", -- [1689]
-			"<22:50:05><DEBUG>	 Event: LOOT_CLOSED", -- [1690]
-			"<22:50:05><DEBUG>	 Event: ENCOUNTER_LOOT_RECEIVED 2032 147065 |cffa335ee|Hitem:147065::::::::60:262::6:3:3563:1472:3528:1:28:498:::|h[Lava-Slough Legguards]|h|r 1 Rentaki SHAMAN", -- [1691]
-			"<22:50:05><DEBUG>	 Event: ENCOUNTER_LOOT_RECEIVED 2032 147039 |cffa335ee|Hitem:147039::::::::60:262::6:3:3563:1472:3528:1:28:498:::|h[Cinch of Sizzling Flesh]|h|r 1 Rentaki SHAMAN", -- [1692]
-			"<22:50:05><DEBUG>	 Event: ENCOUNTER_LOOT_RECEIVED 2032 146992 |cffa335ee|Hitem:146992::::::::60:262::6:3:3563:1472:3528:1:28:498:::|h[Legwraps of Fused Loathing]|h|r 1 Rentaki SHAMAN", -- [1693]
-			"<22:50:05><Comm>	 ^1^Sl^T^N1^S115844^t^^ WHISPER Rentaki-Kazzak", -- [1694]
-			"<22:50:05><DEBUG>	 Storage: searching for item: ||cffa335ee||Hitem:147055::::::::60:262::6:4:3563:1472:5855:3336:1:28:498:::||h[Belt of Screaming Slag]||h||r 5", -- [1695]
-			"<22:50:05><DEBUG>	 Found item at 2 25", -- [1696]
-			"<22:50:05><DEBUG>	 Found: 2 25 0", -- [1697]
-			"<22:50:06><Comm>	 ^1^Sn_t^T^N1^S|cffa335ee|Hitem:147055::::::::60:262::6:4:3563:1472:5855:3336:1:28:498:::|h[Belt~`of~`Screaming~`Slag]|h|r^N2^S115844^t^^ WHISPER Rentaki-Kazzak", -- [1698]
-			"<22:50:06><DEBUG>	 Storage:New |cffa335ee|Hitem:147076::::::::60:262::6:3:3563:1472:3528:1:28:498:::|h[Charred Hymnal of the Moon]|h|r temp", -- [1699]
-			"<22:50:06><DEBUG>	 Storage: searching for item: ||cffa335ee||Hitem:147076::::::::60:262::6:3:3563:1472:3528:1:28:498:::||h[Charred Hymnal of the Moon]||h||r 5", -- [1700]
-			"<22:50:06><DEBUG>	 Found item at 2 26", -- [1701]
-			"<22:50:06><DEBUG>	 Found: 2 26 0", -- [1702]
-			"<22:50:06><DEBUG>	 Storage:New |cffa335ee|Hitem:147065::::::::60:262::6:3:3563:1472:3528:1:28:498:::|h[Lava-Slough Legguards]|h|r temp", -- [1703]
-			"<22:50:06><DEBUG>	 Storage: searching for item: ||cffa335ee||Hitem:147065::::::::60:262::6:3:3563:1472:3528:1:28:498:::||h[Lava-Slough Legguards]||h||r 5", -- [1704]
-			"<22:50:06><DEBUG>	 Found item at 2 27", -- [1705]
-			"<22:50:06><DEBUG>	 Found: 2 27 0", -- [1706]
-			"<22:50:06><DEBUG>	 Storage:New |cffa335ee|Hitem:147039::::::::60:262::6:3:3563:1472:3528:1:28:498:::|h[Cinch of Sizzling Flesh]|h|r temp", -- [1707]
-			"<22:50:06><DEBUG>	 Storage: searching for item: ||cffa335ee||Hitem:147039::::::::60:262::6:3:3563:1472:3528:1:28:498:::||h[Cinch of Sizzling Flesh]||h||r 5", -- [1708]
-			"<22:50:06><DEBUG>	 Found item at 2 28", -- [1709]
-			"<22:50:06><DEBUG>	 Found: 2 28 0", -- [1710]
-			"<22:50:06><DEBUG>	 Storage:New |cffa335ee|Hitem:146992::::::::60:262::6:3:3563:1472:3528:1:28:498:::|h[Legwraps of Fused Loathing]|h|r temp", -- [1711]
-			"<22:50:06><DEBUG>	 Storage: searching for item: ||cffa335ee||Hitem:146992::::::::60:262::6:3:3563:1472:3528:1:28:498:::||h[Legwraps of Fused Loathing]||h||r 5", -- [1712]
-			"<22:50:06><DEBUG>	 Found item at 2 29", -- [1713]
-			"<22:50:06><DEBUG>	 Found: 2 29 0", -- [1714]
-			"<22:50:07><DEBUG>	 Storage: searching for item: ||cffa335ee||Hitem:147076::::::::60:262::6:3:3563:1472:3528:1:28:498:::||h[Charred Hymnal of the Moon]||h||r 5", -- [1715]
-			"<22:50:07><DEBUG>	 Found item at 2 26", -- [1716]
-			"<22:50:07><DEBUG>	 Found: 2 26 0", -- [1717]
-			"<22:50:07><Comm>	 ^1^Sn_t^T^N1^S|cffa335ee|Hitem:147076::::::::60:262::6:3:3563:1472:3528:1:28:498:::|h[Charred~`Hymnal~`of~`the~`Moon]|h|r^N2^S115844^t^^ WHISPER Rentaki-Kazzak", -- [1718]
-			"<22:50:07><DEBUG>	 Storage: searching for item: ||cffa335ee||Hitem:147065::::::::60:262::6:3:3563:1472:3528:1:28:498:::||h[Lava-Slough Legguards]||h||r 5", -- [1719]
-			"<22:50:07><DEBUG>	 Found item at 2 27", -- [1720]
-			"<22:50:07><DEBUG>	 Found: 2 27 0", -- [1721]
-			"<22:50:07><DEBUG>	 Storage: searching for item: ||cffa335ee||Hitem:147039::::::::60:262::6:3:3563:1472:3528:1:28:498:::||h[Cinch of Sizzling Flesh]||h||r 5", -- [1722]
-			"<22:50:07><DEBUG>	 Found item at 2 28", -- [1723]
-			"<22:50:07><DEBUG>	 Found: 2 28 0", -- [1724]
-			"<22:50:07><Comm>	 ^1^Sn_t^T^N1^S|cffa335ee|Hitem:147065::::::::60:262::6:3:3563:1472:3528:1:28:498:::|h[Lava-Slough~`Legguards]|h|r^N2^S115844^t^^ WHISPER Rentaki-Kazzak", -- [1725]
-			"<22:50:07><DEBUG>	 Storage: searching for item: ||cffa335ee||Hitem:146992::::::::60:262::6:3:3563:1472:3528:1:28:498:::||h[Legwraps of Fused Loathing]||h||r 5", -- [1726]
-			"<22:50:07><DEBUG>	 Found item at 2 29", -- [1727]
-			"<22:50:07><DEBUG>	 Found: 2 29 0", -- [1728]
-			"<22:50:08><Comm>	 ^1^Sn_t^T^N1^S|cffa335ee|Hitem:147039::::::::60:262::6:3:3563:1472:3528:1:28:498:::|h[Cinch~`of~`Sizzling~`Flesh]|h|r^N2^S115844^t^^ WHISPER Rentaki-Kazzak", -- [1729]
-			"<22:50:08><Comm>	 ^1^Sn_t^T^N1^S|cffa335ee|Hitem:146992::::::::60:262::6:3:3563:1472:3528:1:28:498:::|h[Legwraps~`of~`Fused~`Loathing]|h|r^N2^S115844^t^^ WHISPER Rentaki-Kazzak", -- [1730]
-			"<22:51:02><DEBUG>	 Event: PLAYER_ENTERING_WORLD false false", -- [1731]
-			"<22:51:04><DEBUG>	 GetML()", -- [1732]
-			"<23:11:41><DEBUG>	 Event: PLAYER_ENTERING_WORLD false false", -- [1733]
-			"<23:11:43><DEBUG>	 GetML()", -- [1734]
-			"<23:11:56><DEBUG>	 Event: PLAYER_ENTERING_WORLD false false", -- [1735]
-			"<23:11:57><DEBUG>	 GetML()", -- [1736]
-			"<23:13:11><DEBUG>	 Event: PLAYER_ENTERING_WORLD false false", -- [1737]
-			"<23:13:13><DEBUG>	 GetML()", -- [1738]
-			"<23:14:23><DEBUG>	 Event: PLAYER_ENTERING_WORLD false false", -- [1739]
-			"<23:14:25><DEBUG>	 GetML()", -- [1740]
-			"<23:14:46><DEBUG>	 Event: ENCOUNTER_START 2113 Heartsbane Triad 1 5", -- [1741]
-			"<23:14:46><INFO>	 UpdatePlayersData()", -- [1742]
-			"<23:15:13><DEBUG>	 Event: LOOT_READY true", -- [1743]
-			"<23:15:13><DEBUG>	 Adding to self.lootSlotInfo 1 nil 1 0 Creature-0-4233-1862-832-131585-00004A963E 33552", -- [1744]
-			"<23:15:13><DEBUG>	 Adding to self.lootSlotInfo 2 |cff9d9d9d|Hitem:154802::::::::60:262::1:1:6657:1:28:1222:::|h[Notched Handaxe]|h|r 0 1 Creature-0-4233-1862-832-131585-00004A963E 1", -- [1745]
-			"<23:15:13><DEBUG>	 OnLootSlotCleared() 2 |cff9d9d9d|Hitem:154802::::::::60:262::1:1:6657:1:28:1222:::|h[Notched Handaxe]|h|r 0", -- [1746]
-			"<23:15:13><DEBUG>	 OnLootSlotCleared() 1 nil 1", -- [1747]
-			"<23:15:13><DEBUG>	 Event: LOOT_CLOSED", -- [1748]
-			"<23:15:13><DEBUG>	 Event: LOOT_CLOSED", -- [1749]
-			"<23:15:13><Comm>	 ^1^Sl^T^N1^S131585^t^^ WHISPER Rentaki-Kazzak", -- [1750]
-			"<23:15:13><Comm>	 ^1^Sl^T^N1^S131585^t^^ WHISPER Rentaki-Kazzak", -- [1751]
-			"<23:15:30><DEBUG>	 Event: ENCOUNTER_END 2113 Heartsbane Triad 1 5 1", -- [1752]
-			"<23:15:32><DEBUG>	 Event: LOOT_READY false", -- [1753]
-			"<23:15:32><DEBUG>	 Adding to self.lootSlotInfo 1 nil 1 0 Creature-0-4233-1862-832-131824-00004A963E 59298", -- [1754]
-			"<23:15:32><DEBUG>	 OnLootSlotCleared() 1 nil 1", -- [1755]
-			"<23:15:32><DEBUG>	 Event: LOOT_CLOSED", -- [1756]
-			"<23:15:32><DEBUG>	 Event: LOOT_CLOSED", -- [1757]
-			"<23:15:33><Comm>	 ^1^Sl^T^N1^S131824^t^^ WHISPER Rentaki-Kazzak", -- [1758]
-			"<23:15:33><Comm>	 ^1^Sl^T^N1^S131824^t^^ WHISPER Rentaki-Kazzak", -- [1759]
-			"<23:16:32><DEBUG>	 Event: LOOT_CLOSED", -- [1760]
-			"<23:16:32><Comm>	 ^1^Sl^T^N1^S131824^t^^ WHISPER Rentaki-Kazzak", -- [1761]
-			"<23:16:32><DEBUG>	 Event: LOOT_READY false", -- [1762]
-			"<23:16:32><DEBUG>	 Adding to self.lootSlotInfo 1 nil 1 0 Creature-0-4233-1862-832-131666-00004A963E 20238 Creature-0-4233-1862-832-131585-0002CA963E 36853 Creature-0-4233-1862-832-131587-00014A963E 27244 Creature-0-4233-1862-832-131666-0000CA963E 16813 Creature-0-4233-1862-832-131666-0002CA963E 36900 Creature-0-4233-1862-832-131670-0000CA9642 20446 Creature-0-4233-1862-832-131677-0000CA9642 10418 Creature-0-4233-1862-832-134041-00014A963E 19152 Creature-0-4233-1862-832-135048-00014A963E 17693 Creature-0-4233-1862-832-135048-0001CA963E 35447", -- [1763]
-			"<23:16:32><DEBUG>	 Adding to self.lootSlotInfo 2 |cff9d9d9d|Hitem:154784::::::::60:262::1:1:6656:1:28:1222:::|h[Ruptured Plate Breastplate]|h|r 0 1 Creature-0-4233-1862-832-131587-00014A963E 1", -- [1764]
-			"<23:16:32><DEBUG>	 Adding to self.lootSlotInfo 3 |cff9d9d9d|Hitem:158857::::::::60:262:::::::|h[Untainted Wicker]|h|r 0 1 Creature-0-4233-1862-832-131858-00004A963E 1", -- [1765]
-			"<23:16:32><DEBUG>	 Adding to self.lootSlotInfo 4 |cff9d9d9d|Hitem:155598::::::::60:262:::::::|h[Severed Mandible]|h|r 0 5 Creature-0-4233-1862-832-134024-0004CA963E 1 Creature-0-4233-1862-832-134024-00054A963E 1 Creature-0-4233-1862-832-134024-0005CA963E 1 Creature-0-4233-1862-832-134024-00084A963E 1 Creature-0-4233-1862-832-134024-0008CA963E 1", -- [1766]
-			"<23:16:32><DEBUG>	 Adding to self.lootSlotInfo 5 |cff9d9d9d|Hitem:158863::::::::60:262:::::::|h[Chitinous Exoskeleton]|h|r 0 1 Creature-0-4233-1862-832-134024-0007CA963E 1", -- [1767]
-			"<23:16:32><DEBUG>	 Adding to self.lootSlotInfo 6 |cff1eff00|Hitem:154855::::::::60:262:::2:6654:1694:1:28:1222:::|h[Crimsonwood Mantle of the Fireflash]|h|r 2 1 Creature-0-4233-1862-832-135329-00004A963E 1", -- [1768]
-			"<23:16:32><DEBUG>	 Adding to self.lootSlotInfo 7 |cff9d9d9d|Hitem:158771::::::::60:262:::::::|h[Spirit Ichor]|h|r 0 1 Creature-0-4233-1862-832-135329-00004A963E 1", -- [1769]
-			"<23:16:32><DEBUG>	 Adding to self.lootSlotInfo 8 |cff9d9d9d|Hitem:155608::::::::60:262:::::::|h[Defiled Bone]|h|r 0 1 Creature-0-4233-1862-832-137830-00004A963E 1", -- [1770]
-			"<23:16:32><DEBUG>	 Adding to self.lootSlotInfo 9 |cff9d9d9d|Hitem:158773::::::::60:262:::::::|h[Wriggling Goop]|h|r 0 1 Creature-0-4233-1862-832-137830-0000CA963E 1", -- [1771]
-			"<23:16:34><DEBUG>	 Event: LOOT_CLOSED", -- [1772]
-			"<23:16:34><Comm>	 ^1^SfakeLoot^T^N1^S|cff9d9d9d|Hitem:154784::::::::60:262::1:1:6656:1:28:1222:::|h[Ruptured~`Plate~`Breastplate]|h|r^N2^S131587^t^^ WHISPER Rentaki-Kazzak", -- [1773]
-			"<23:16:34><DEBUG>	 Event: LOOT_READY true", -- [1774]
-			"<23:16:34><DEBUG>	 Adding to self.lootSlotInfo 1 nil 1 0 Creature-0-4233-1862-832-131666-0002CA963E 36900 Creature-0-4233-1862-832-131585-0002CA963E 36853 Creature-0-4233-1862-832-131587-00014A963E 27244 Creature-0-4233-1862-832-131666-00004A963E 20238 Creature-0-4233-1862-832-131666-0000CA963E 16813 Creature-0-4233-1862-832-131670-0000CA9642 20446 Creature-0-4233-1862-832-131677-0000CA9642 10418 Creature-0-4233-1862-832-134041-00014A963E 19152 Creature-0-4233-1862-832-135048-00014A963E 17693 Creature-0-4233-1862-832-135048-0001CA963E 35447", -- [1775]
-			"<23:16:34><DEBUG>	 Adding to self.lootSlotInfo 2 |cff9d9d9d|Hitem:154784::::::::60:262::1:1:6656:1:28:1222:::|h[Ruptured Plate Breastplate]|h|r 0 1 Creature-0-4233-1862-832-131587-00014A963E 1", -- [1776]
-			"<23:16:34><DEBUG>	 Adding to self.lootSlotInfo 3 |cff9d9d9d|Hitem:158857::::::::60:262:::::::|h[Untainted Wicker]|h|r 0 1 Creature-0-4233-1862-832-131858-00004A963E 1", -- [1777]
-			"<23:16:34><DEBUG>	 Adding to self.lootSlotInfo 4 |cff9d9d9d|Hitem:155598::::::::60:262:::::::|h[Severed Mandible]|h|r 0 5 Creature-0-4233-1862-832-134024-0004CA963E 1 Creature-0-4233-1862-832-134024-00054A963E 1 Creature-0-4233-1862-832-134024-0005CA963E 1 Creature-0-4233-1862-832-134024-00084A963E 1 Creature-0-4233-1862-832-134024-0008CA963E 1", -- [1778]
-			"<23:16:34><DEBUG>	 Adding to self.lootSlotInfo 5 |cff9d9d9d|Hitem:158863::::::::60:262:::::::|h[Chitinous Exoskeleton]|h|r 0 1 Creature-0-4233-1862-832-134024-0007CA963E 1", -- [1779]
-			"<23:16:34><DEBUG>	 Adding to self.lootSlotInfo 6 |cff1eff00|Hitem:154855::::::::60:262:::2:6654:1694:1:28:1222:::|h[Crimsonwood Mantle of the Fireflash]|h|r 2 1 Creature-0-4233-1862-832-135329-00004A963E 1", -- [1780]
-			"<23:16:34><DEBUG>	 Adding to self.lootSlotInfo 7 |cff9d9d9d|Hitem:158771::::::::60:262:::::::|h[Spirit Ichor]|h|r 0 1 Creature-0-4233-1862-832-135329-00004A963E 1", -- [1781]
-			"<23:16:34><DEBUG>	 Adding to self.lootSlotInfo 8 |cff9d9d9d|Hitem:155608::::::::60:262:::::::|h[Defiled Bone]|h|r 0 1 Creature-0-4233-1862-832-137830-00004A963E 1", -- [1782]
-			"<23:16:34><DEBUG>	 Adding to self.lootSlotInfo 9 |cff9d9d9d|Hitem:158773::::::::60:262:::::::|h[Wriggling Goop]|h|r 0 1 Creature-0-4233-1862-832-137830-0000CA963E 1", -- [1783]
-			"<23:16:34><DEBUG>	 OnLootSlotCleared() 9 |cff9d9d9d|Hitem:158773::::::::60:262:::::::|h[Wriggling Goop]|h|r 0", -- [1784]
-			"<23:16:34><DEBUG>	 OnLootSlotCleared() 8 |cff9d9d9d|Hitem:155608::::::::60:262:::::::|h[Defiled Bone]|h|r 0", -- [1785]
-			"<23:16:34><DEBUG>	 OnLootSlotCleared() 7 |cff9d9d9d|Hitem:158771::::::::60:262:::::::|h[Spirit Ichor]|h|r 0", -- [1786]
-			"<23:16:34><DEBUG>	 OnLootSlotCleared() 6 |cff1eff00|Hitem:154855::::::::60:262:::2:6654:1694:1:28:1222:::|h[Crimsonwood Mantle of the Fireflash]|h|r 2", -- [1787]
-			"<23:16:34><DEBUG>	 Event: LOOT_READY true", -- [1788]
-			"<23:16:34><DEBUG>	 Adding to self.lootSlotInfo 1 nil 1 0 Creature-0-4233-1862-832-131666-0002CA963E 36900 Creature-0-4233-1862-832-131585-0002CA963E 36853 Creature-0-4233-1862-832-131587-00014A963E 27244 Creature-0-4233-1862-832-131666-00004A963E 20238 Creature-0-4233-1862-832-131666-0000CA963E 16813 Creature-0-4233-1862-832-131670-0000CA9642 20446 Creature-0-4233-1862-832-131677-0000CA9642 10418 Creature-0-4233-1862-832-134041-00014A963E 19152 Creature-0-4233-1862-832-135048-00014A963E 17693 Creature-0-4233-1862-832-135048-0001CA963E 35447", -- [1789]
-			"<23:16:34><DEBUG>	 Adding to self.lootSlotInfo 2 |cff9d9d9d|Hitem:154784::::::::60:262::1:1:6656:1:28:1222:::|h[Ruptured Plate Breastplate]|h|r 0 1 Creature-0-4233-1862-832-131587-00014A963E 1", -- [1790]
-			"<23:16:34><DEBUG>	 Adding to self.lootSlotInfo 3 |cff9d9d9d|Hitem:158857::::::::60:262:::::::|h[Untainted Wicker]|h|r 0 1 Creature-0-4233-1862-832-131858-00004A963E 1", -- [1791]
-			"<23:16:34><DEBUG>	 Adding to self.lootSlotInfo 4 |cff9d9d9d|Hitem:155598::::::::60:262:::::::|h[Severed Mandible]|h|r 0 5 Creature-0-4233-1862-832-134024-0004CA963E 1 Creature-0-4233-1862-832-134024-00054A963E 1 Creature-0-4233-1862-832-134024-0005CA963E 1 Creature-0-4233-1862-832-134024-00084A963E 1 Creature-0-4233-1862-832-134024-0008CA963E 1", -- [1792]
-			"<23:16:34><DEBUG>	 Adding to self.lootSlotInfo 5 |cff9d9d9d|Hitem:158863::::::::60:262:::::::|h[Chitinous Exoskeleton]|h|r 0 1 Creature-0-4233-1862-832-134024-0007CA963E 1", -- [1793]
-			"<23:16:34><DEBUG>	 OnLootSlotCleared() 5 |cff9d9d9d|Hitem:158863::::::::60:262:::::::|h[Chitinous Exoskeleton]|h|r 0", -- [1794]
-			"<23:16:34><DEBUG>	 OnLootSlotCleared() 4 |cff9d9d9d|Hitem:155598::::::::60:262:::::::|h[Severed Mandible]|h|r 0", -- [1795]
-			"<23:16:35><DEBUG>	 OnLootSlotCleared() 3 |cff9d9d9d|Hitem:158857::::::::60:262:::::::|h[Untainted Wicker]|h|r 0", -- [1796]
-			"<23:16:35><DEBUG>	 OnLootSlotCleared() 2 |cff9d9d9d|Hitem:154784::::::::60:262::1:1:6656:1:28:1222:::|h[Ruptured Plate Breastplate]|h|r 0", -- [1797]
-			"<23:16:35><DEBUG>	 OnLootSlotCleared() 1 nil 1", -- [1798]
-			"<23:16:35><DEBUG>	 Event: LOOT_CLOSED", -- [1799]
-			"<23:16:35><DEBUG>	 Event: LOOT_CLOSED", -- [1800]
-			"<23:16:35><Comm>	 ^1^Sl^T^N1^S134024^t^^ WHISPER Rentaki-Kazzak", -- [1801]
-			"<23:16:35><Comm>	 ^1^Sl^T^N1^S134024^t^^ WHISPER Rentaki-Kazzak", -- [1802]
-			"<23:16:36><DEBUG>	 Storage:New |cff1eff00|Hitem:154855::::::::60:262:::2:6654:1694:1:28:1222:::|h[Crimsonwood Mantle of the Fireflash]|h|r temp", -- [1803]
-			"<23:16:36><DEBUG>	 Storage: searching for item: ||cff1eff00||Hitem:154855::::::::60:262:::2:6654:1694:1:28:1222:::||h[Crimsonwood Mantle of the Fireflash]||h||r 5", -- [1804]
-			"<23:16:36><DEBUG>	 Found: nil nil nil", -- [1805]
-			"<23:16:37><DEBUG>	 Storage: searching for item: ||cff1eff00||Hitem:154855::::::::60:262:::2:6654:1694:1:28:1222:::||h[Crimsonwood Mantle of the Fireflash]||h||r 5", -- [1806]
-			"<23:16:37><DEBUG>	 Found: nil nil nil", -- [1807]
-			"<23:16:38><DEBUG>	 Storage: searching for item: ||cff1eff00||Hitem:154855::::::::60:262:::2:6654:1694:1:28:1222:::||h[Crimsonwood Mantle of the Fireflash]||h||r 5", -- [1808]
-			"<23:16:38><DEBUG>	 Found: nil nil nil", -- [1809]
-			"<23:16:39><DEBUG>	 Storage: searching for item: ||cff1eff00||Hitem:154855::::::::60:262:::2:6654:1694:1:28:1222:::||h[Crimsonwood Mantle of the Fireflash]||h||r 5", -- [1810]
-			"<23:16:39><DEBUG>	 Found: nil nil nil", -- [1811]
-			"<23:16:39><ERROR>	 UpdateAndSendRecentTradableItem: |cff1eff00|Hitem:154855::::::::60:262:::2:6654:1694:1:28:1222:::|h[Crimsonwood Mantle of the Fireflash]|h|r not found in bags", -- [1812]
-			"<23:16:52><DEBUG>	 Event: ENCOUNTER_START 2114 Soulbound Goliath 1 5", -- [1813]
-			"<23:16:52><INFO>	 UpdatePlayersData()", -- [1814]
-			"<23:17:34><DEBUG>	 Event: ENCOUNTER_END 2114 Soulbound Goliath 1 5 1", -- [1815]
-			"<23:17:34><DEBUG>	 Event: LOOT_READY true", -- [1816]
-			"<23:17:34><DEBUG>	 Adding to self.lootSlotInfo 1 nil 1 0 Creature-0-4233-1862-832-131667-00004A963E 58678 Creature-0-4233-1862-832-131666-00014A963E 11951", -- [1817]
-			"<23:17:34><DEBUG>	 Adding to self.lootSlotInfo 3 |cff9d9d9d|Hitem:155598::::::::60:262:::::::|h[Severed Mandible]|h|r 0 3 Creature-0-4233-1862-832-134024-00004A96C0 1 Creature-0-4233-1862-832-134024-0000CA96C0 1 Creature-0-4233-1862-832-134024-00014A96C0 1", -- [1818]
-			"<23:17:34><DEBUG>	 OnLootSlotCleared() 3 |cff9d9d9d|Hitem:155598::::::::60:262:::::::|h[Severed Mandible]|h|r 0", -- [1819]
-			"<23:17:34><DEBUG>	 OnLootSlotCleared() 1 nil 1", -- [1820]
-			"<23:17:34><DEBUG>	 Event: LOOT_CLOSED", -- [1821]
-			"<23:17:34><DEBUG>	 Event: LOOT_CLOSED", -- [1822]
-			"<23:17:35><Comm>	 ^1^Sl^T^N1^S134024^t^^ WHISPER Rentaki-Kazzak", -- [1823]
-			"<23:17:35><Comm>	 ^1^Sl^T^N1^S134024^t^^ WHISPER Rentaki-Kazzak", -- [1824]
-			"<23:17:56><DEBUG>	 Event: ENCOUNTER_START 2115 Raal the Gluttonous 1 5", -- [1825]
-			"<23:17:56><INFO>	 UpdatePlayersData()", -- [1826]
-			"<23:18:31><DEBUG>	 Event: ENCOUNTER_END 2115 Raal the Gluttonous 1 5 1", -- [1827]
-			"<23:18:34><DEBUG>	 Event: LOOT_READY true", -- [1828]
-			"<23:18:34><DEBUG>	 Adding to self.lootSlotInfo 1 nil 1 0 Creature-0-4233-1862-832-135048-0003CA963E 21753 Creature-0-4233-1862-832-131586-00004A963E 35135 Creature-0-4233-1862-832-131586-0000CA963E 21767 Creature-0-4233-1862-832-131847-0000CA963E 7412 Creature-0-4233-1862-832-131847-00014A963E 5235 Creature-0-4233-1862-832-131847-0001CA963E 5948 Creature-0-4233-1862-832-131847-00024A963E 12714 Creature-0-4233-1862-832-135048-0002CA963E 25594 Creature-0-4233-1862-832-135048-00034A963E 35146 Creature-0-4233-1862-832-131863-00004A963E 55253", -- [1829]
-			"<23:18:34><DEBUG>	 Adding to self.lootSlotInfo 3 |cff9d9d9d|Hitem:155608::::::::60:262:::::::|h[Defiled Bone]|h|r 0 2 Creature-0-4233-1862-832-137830-0001CA963E 1 Creature-0-4233-1862-832-137830-00024A963E 1", -- [1830]
-			"<23:18:34><DEBUG>	 OnLootSlotCleared() 3 |cff9d9d9d|Hitem:155608::::::::60:262:::::::|h[Defiled Bone]|h|r 0", -- [1831]
-			"<23:18:34><DEBUG>	 OnLootSlotCleared() 1 nil 1", -- [1832]
-			"<23:18:34><DEBUG>	 Event: LOOT_CLOSED", -- [1833]
-			"<23:18:34><DEBUG>	 Event: LOOT_CLOSED", -- [1834]
-			"<23:18:34><Comm>	 ^1^Sl^T^N1^S137830^t^^ WHISPER Rentaki-Kazzak", -- [1835]
-			"<23:18:34><Comm>	 ^1^Sl^T^N1^S137830^t^^ WHISPER Rentaki-Kazzak", -- [1836]
-			"<23:19:37><DEBUG>	 Event: ENCOUNTER_START 2116 Lord and Lady Waycrest 1 5", -- [1837]
-			"<23:19:37><INFO>	 UpdatePlayersData()", -- [1838]
-			"<23:20:21><DEBUG>	 Event: ENCOUNTER_END 2116 Lord and Lady Waycrest 1 5 1", -- [1839]
-			"<23:20:22><DEBUG>	 Event: LOOT_READY true", -- [1840]
-			"<23:20:22><DEBUG>	 Adding to self.lootSlotInfo 1 nil 1 0 Creature-0-4233-1862-832-131527-00004A963E 56086 Creature-0-4233-1862-832-131812-00004A9742 14255 Creature-0-4233-1862-832-131819-00004A9742 17120", -- [1841]
-			"<23:20:22><DEBUG>	 Adding to self.lootSlotInfo 3 |cff9d9d9d|Hitem:158771::::::::60:262:::::::|h[Spirit Ichor]|h|r 0 3 Creature-0-4233-1862-832-135240-00004A9742 1 Creature-0-4233-1862-832-135240-0000CA9742 1 Creature-0-4233-1862-832-135240-00014A9742 1", -- [1842]
-			"<23:20:22><DEBUG>	 Adding to self.lootSlotInfo 4 |cff9d9d9d|Hitem:158865::::::::60:262:::::::|h[Ghastly Ooze]|h|r 0 1 Creature-0-4233-1862-832-135240-0001CA9742 1", -- [1843]
-			"<23:20:22><DEBUG>	 OnLootSlotCleared() 4 |cff9d9d9d|Hitem:158865::::::::60:262:::::::|h[Ghastly Ooze]|h|r 0", -- [1844]
-			"<23:20:22><DEBUG>	 Event: LOOT_READY true", -- [1845]
-			"<23:20:22><DEBUG>	 Adding to self.lootSlotInfo 1 nil 1 0 Creature-0-4233-1862-832-131527-00004A963E 56086 Creature-0-4233-1862-832-131812-00004A9742 14255 Creature-0-4233-1862-832-131819-00004A9742 17120", -- [1846]
-			"<23:20:22><DEBUG>	 Adding to self.lootSlotInfo 3 |cff9d9d9d|Hitem:158771::::::::60:262:::::::|h[Spirit Ichor]|h|r 0 3 Creature-0-4233-1862-832-135240-00004A9742 1 Creature-0-4233-1862-832-135240-0000CA9742 1 Creature-0-4233-1862-832-135240-00014A9742 1", -- [1847]
-			"<23:20:22><DEBUG>	 OnLootSlotCleared() 3 |cff9d9d9d|Hitem:158771::::::::60:262:::::::|h[Spirit Ichor]|h|r 0", -- [1848]
-			"<23:20:22><DEBUG>	 OnLootSlotCleared() 1 nil 1", -- [1849]
-			"<23:20:22><DEBUG>	 Event: LOOT_CLOSED", -- [1850]
-			"<23:20:22><DEBUG>	 Event: LOOT_CLOSED", -- [1851]
-			"<23:20:22><Comm>	 ^1^Sl^T^N1^S135240^t^^ WHISPER Rentaki-Kazzak", -- [1852]
-			"<23:20:22><Comm>	 ^1^Sl^T^N1^S135240^t^^ WHISPER Rentaki-Kazzak", -- [1853]
-			"<23:20:49><DEBUG>	 Event: LOOT_READY true", -- [1854]
-			"<23:20:49><DEBUG>	 Adding to self.lootSlotInfo 1 |cff9d9d9d|Hitem:155610::::::::60:262:::::::|h[Stinging Nettle]|h|r 0 4 Creature-0-4233-1862-832-139269-0000CA97A5 1 Creature-0-4233-1862-832-139269-00004A97A5 1 Creature-0-4233-1862-832-139269-00014A97A5 1 Creature-0-4233-1862-832-139269-0001CA97A5 1", -- [1855]
-			"<23:20:49><DEBUG>	 Adding to self.lootSlotInfo 2 |cff1eff00|Hitem:154853::::::::60:262:::2:6654:1707:1:28:1222:::|h[Crimsonwood Cowl of the Aurora]|h|r 2 1 Creature-0-4233-1862-832-139269-0000CA97A5 1", -- [1856]
-			"<23:20:49><DEBUG>	 OnLootSlotCleared() 2 |cff1eff00|Hitem:154853::::::::60:262:::2:6654:1707:1:28:1222:::|h[Crimsonwood Cowl of the Aurora]|h|r 2", -- [1857]
-			"<23:20:49><DEBUG>	 OnLootSlotCleared() 1 |cff9d9d9d|Hitem:155610::::::::60:262:::::::|h[Stinging Nettle]|h|r 0", -- [1858]
-			"<23:20:49><DEBUG>	 Event: LOOT_CLOSED", -- [1859]
-			"<23:20:49><DEBUG>	 Event: LOOT_CLOSED", -- [1860]
-			"<23:20:50><Comm>	 ^1^Sl^T^N1^S139269^t^^ WHISPER Rentaki-Kazzak", -- [1861]
-			"<23:20:50><Comm>	 ^1^Sl^T^N1^S139269^t^^ WHISPER Rentaki-Kazzak", -- [1862]
-			"<23:20:51><DEBUG>	 Storage:New |cff1eff00|Hitem:154853::::::::60:262:::2:6654:1707:1:28:1222:::|h[Crimsonwood Cowl of the Aurora]|h|r temp", -- [1863]
-			"<23:20:51><DEBUG>	 Storage: searching for item: ||cff1eff00||Hitem:154853::::::::60:262:::2:6654:1707:1:28:1222:::||h[Crimsonwood Cowl of the Aurora]||h||r 5", -- [1864]
-			"<23:20:51><DEBUG>	 Found: nil nil nil", -- [1865]
-			"<23:20:52><DEBUG>	 Storage: searching for item: ||cff1eff00||Hitem:154853::::::::60:262:::2:6654:1707:1:28:1222:::||h[Crimsonwood Cowl of the Aurora]||h||r 5", -- [1866]
-			"<23:20:52><DEBUG>	 Found: nil nil nil", -- [1867]
-			"<23:20:53><DEBUG>	 Storage: searching for item: ||cff1eff00||Hitem:154853::::::::60:262:::2:6654:1707:1:28:1222:::||h[Crimsonwood Cowl of the Aurora]||h||r 5", -- [1868]
-			"<23:20:53><DEBUG>	 Found: nil nil nil", -- [1869]
-			"<23:20:54><DEBUG>	 Storage: searching for item: ||cff1eff00||Hitem:154853::::::::60:262:::2:6654:1707:1:28:1222:::||h[Crimsonwood Cowl of the Aurora]||h||r 5", -- [1870]
-			"<23:20:54><DEBUG>	 Found: nil nil nil", -- [1871]
-			"<23:20:54><ERROR>	 UpdateAndSendRecentTradableItem: |cff1eff00|Hitem:154853::::::::60:262:::2:6654:1707:1:28:1222:::|h[Crimsonwood Cowl of the Aurora]|h|r not found in bags", -- [1872]
-			"<23:21:00><DEBUG>	 Event: ENCOUNTER_START 2117 Gorak Tul 1 5", -- [1873]
-			"<23:21:00><INFO>	 UpdatePlayersData()", -- [1874]
-			"<23:21:10><DEBUG>	 Event: ENCOUNTER_END 2117 Gorak Tul 1 5 1", -- [1875]
-			"<23:21:12><DEBUG>	 Event: LOOT_READY false", -- [1876]
-			"<23:21:12><DEBUG>	 Adding to self.lootSlotInfo 1 nil 1 0 Creature-0-4233-1862-832-131864-00004A963E 128248", -- [1877]
-			"<23:21:12><DEBUG>	 Ignoring |cff1eff00|Hcurrency:1553:30|h[Tiny Azerite Splinter]|h|r as it's a currency", -- [1878]
-			"<23:21:12><DEBUG>	 Adding to self.lootSlotInfo 3 |cff0070dd|Hitem:159398::::::::60:262::1:4:4817:1485:4785:6258:1:28:1222:::|h[Soulscarred Headgear]|h|r 3 1 Creature-0-4233-1862-832-131864-00004A963E 1", -- [1879]
-			"<23:21:15><DEBUG>	 OnLootSlotCleared() 3 |cff0070dd|Hitem:159398::::::::60:262::1:4:4817:1485:4785:6258:1:28:1222:::|h[Soulscarred Headgear]|h|r 3", -- [1880]
-			"<23:21:15><DEBUG>	 Event: ENCOUNTER_LOOT_RECEIVED 2117 159398 |cff0070dd|Hitem:159398::::::::60:262::1:4:4817:1485:4785:6258:1:28:1222:::|h[Soulscarred Headgear]|h|r 1 Rentaki SHAMAN", -- [1881]
-			"<23:21:15><DEBUG>	 OnLootSlotCleared() 1 nil 1", -- [1882]
-			"<23:21:15><DEBUG>	 Event: LOOT_CLOSED", -- [1883]
-			"<23:21:15><DEBUG>	 Event: LOOT_CLOSED", -- [1884]
-			"<23:21:16><Comm>	 ^1^Sl^T^N1^S131864^t^^ WHISPER Rentaki-Kazzak", -- [1885]
-			"<23:21:16><Comm>	 ^1^Sl^T^N1^S131864^t^^ WHISPER Rentaki-Kazzak", -- [1886]
-			"<23:21:17><DEBUG>	 Storage:New |cff0070dd|Hitem:159398::::::::60:262::1:4:4817:1485:4785:6258:1:28:1222:::|h[Soulscarred Headgear]|h|r temp", -- [1887]
-			"<23:21:17><DEBUG>	 Storage: searching for item: ||cff0070dd||Hitem:159398::::::::60:262::1:4:4817:1485:4785:6258:1:28:1222:::||h[Soulscarred Headgear]||h||r 5", -- [1888]
-			"<23:21:17><DEBUG>	 Found item at 3 11", -- [1889]
-			"<23:21:17><DEBUG>	 Found: 3 11 0", -- [1890]
-			"<23:21:18><DEBUG>	 Storage: searching for item: ||cff0070dd||Hitem:159398::::::::60:262::1:4:4817:1485:4785:6258:1:28:1222:::||h[Soulscarred Headgear]||h||r 5", -- [1891]
-			"<23:21:18><DEBUG>	 Found item at 3 11", -- [1892]
-			"<23:21:18><DEBUG>	 Found: 3 11 0", -- [1893]
-			"<23:21:18><Comm>	 ^1^Sn_t^T^N1^S|cff0070dd|Hitem:159398::::::::60:262::1:4:4817:1485:4785:6258:1:28:1222:::|h[Soulscarred~`Headgear]|h|r^N2^S131864^t^^ WHISPER Rentaki-Kazzak", -- [1894]
-			"<23:22:21><DEBUG>	 Event: PLAYER_ENTERING_WORLD false false", -- [1895]
-			"<23:22:23><DEBUG>	 GetML()", -- [1896]
-			"<23:31:03><DEBUG>	 Event: PLAYER_ENTERING_WORLD false false", -- [1897]
-			"<23:31:05><DEBUG>	 GetML()", -- [1898]
-			"<23:34:47><DEBUG>	 Event: LOOT_READY false", -- [1899]
-			"<23:34:48><DEBUG>	 Event: LOOT_READY false", -- [1900]
-			"<23:35:24><DEBUG>	 Event: PLAYER_ENTERING_WORLD false false", -- [1901]
-			"<23:35:26><DEBUG>	 GetML()", -- [1902]
-			"<23:42:24><INFO>	 Logged In", -- [1903]
-			"<23:42:24>[ML]<INFO>	 Init", -- [1904]
-			"<23:42:24><INFO>	 RCLootCouncil TradeUI enabled", -- [1905]
-			"<23:42:26><INFO>	 Rentaki-Kazzak 3.1.4 nil", -- [1906]
-			"<23:42:26><DEBUG>	 ActivateSkin bfa", -- [1907]
-			"<23:42:28><DEBUG>	 Event: PLAYER_ENTERING_WORLD false true", -- [1908]
-			"<23:42:28><INFO>	 UpdatePlayersData()", -- [1909]
-			"<23:42:28><DEBUG>	 GetPlayersGuildRank()", -- [1910]
-			"<23:42:28><DEBUG>	 Found Guild Rank: Citizen", -- [1911]
-			"<23:42:28><DEBUG>	 GetML()", -- [1912]
-			"<23:42:28><DEBUG>	 Storage:New |cffa335ee|Hitem:179337::::::::60:262::33:5:7349:7359:6652:1524:6646:1:28:1279:::|h[Techno-Coil Legguards]|h|r temp restored table: 000001674E7C8420", -- [1913]
-			"<23:42:28><DEBUG>	 Storage: searching for item: ||cffa335ee||Hitem:179337::::::::60:262::33:5:7349:7359:6652:1524:6646:1:28:1279:::||h[Techno-Coil Legguards]||h||r 5", -- [1914]
-			"<23:42:28><DEBUG>	 Found item at 0 8", -- [1915]
-			"<23:42:28><DEBUG>	 Found: 0 8 0", -- [1916]
-			"<23:42:28><DEBUG>	 Storage:New |cffa335ee|Hitem:178712::::::::60:262::33:5:7426:7359:6652:1524:6646:1:28:1279:::|h[Acidslough Bulwark]|h|r temp restored table: 000001674E7C84C0", -- [1917]
-			"<23:42:28><DEBUG>	 Storage: searching for item: ||cffa335ee||Hitem:178712::::::::60:262::33:5:7426:7359:6652:1524:6646:1:28:1279:::||h[Acidslough Bulwark]||h||r 5", -- [1918]
-			"<23:42:28><DEBUG>	 Found item at 2 24", -- [1919]
-			"<23:42:28><Comm>	 ^1^Sv^T^N1^S3.1.4^t^^ GUILD Rentaki-Kazzak", -- [1920]
-			"<23:42:41><INFO>	 Logged In", -- [1921]
-			"<23:42:41>[ML]<INFO>	 Init", -- [1922]
-			"<23:42:41><INFO>	 RCLootCouncil TradeUI enabled", -- [1923]
-			"<23:42:43><INFO>	 Rentaki-Kazzak 3.1.4 nil", -- [1924]
-			"<23:42:43><DEBUG>	 ActivateSkin bfa", -- [1925]
-			"<23:42:45><DEBUG>	 Event: PLAYER_ENTERING_WORLD false true", -- [1926]
-			"<23:42:45><INFO>	 UpdatePlayersData()", -- [1927]
-			"<23:42:45><DEBUG>	 GetPlayersGuildRank()", -- [1928]
-			"<23:42:45><DEBUG>	 Found Guild Rank: Citizen", -- [1929]
-			"<23:42:46><DEBUG>	 GetML()", -- [1930]
-			"<23:42:46><DEBUG>	 Storage:New |cffa335ee|Hitem:179337::::::::60:262::33:5:7349:7359:6652:1524:6646:1:28:1279:::|h[Techno-Coil Legguards]|h|r temp restored table: 000001675B078140", -- [1931]
-			"<23:42:46><DEBUG>	 Storage: searching for item: ||cffa335ee||Hitem:179337::::::::60:262::33:5:7349:7359:6652:1524:6646:1:28:1279:::||h[Techno-Coil Legguards]||h||r 5", -- [1932]
-			"<23:42:46><DEBUG>	 Found item at 0 8", -- [1933]
-			"<23:42:46><DEBUG>	 Found: 0 8 0", -- [1934]
-			"<23:42:46><DEBUG>	 Storage:New |cffa335ee|Hitem:178712::::::::60:262::33:5:7426:7359:6652:1524:6646:1:28:1279:::|h[Acidslough Bulwark]|h|r temp restored table: 000001675B0781E0", -- [1935]
-			"<23:42:46><DEBUG>	 Storage: searching for item: ||cffa335ee||Hitem:178712::::::::60:262::33:5:7426:7359:6652:1524:6646:1:28:1279:::||h[Acidslough Bulwark]||h||r 5", -- [1936]
-			"<23:42:46><DEBUG>	 Found item at 2 24", -- [1937]
-			"<23:42:46><Comm>	 ^1^Sv^T^N1^S3.1.4^t^^ GUILD Rentaki-Kazzak", -- [1938]
-			"<23:54:31><INFO>	 Logged In", -- [1939]
-			"<23:54:31>[ML]<INFO>	 Init", -- [1940]
-			"<23:54:31><INFO>	 RCLootCouncil TradeUI enabled", -- [1941]
-			"<23:54:33><INFO>	 Rentaki-Kazzak 3.1.4 nil", -- [1942]
-			"<23:54:33><DEBUG>	 ActivateSkin bfa", -- [1943]
-			"<23:54:34><DEBUG>	 Event: PLAYER_ENTERING_WORLD false true", -- [1944]
-			"<23:54:34><INFO>	 UpdatePlayersData()", -- [1945]
-			"<23:54:35><DEBUG>	 GetPlayersGuildRank()", -- [1946]
-			"<23:54:35><DEBUG>	 Found Guild Rank: Citizen", -- [1947]
-			"<23:54:35><DEBUG>	 GetML()", -- [1948]
-			"<23:54:35><DEBUG>	 Storage:New |cffa335ee|Hitem:179337::::::::60:262::33:5:7349:7359:6652:1524:6646:1:28:1279:::|h[Techno-Coil Legguards]|h|r temp restored table: 0000016778838810", -- [1949]
-			"<23:54:35><DEBUG>	 Storage: searching for item: ||cffa335ee||Hitem:179337::::::::60:262::33:5:7349:7359:6652:1524:6646:1:28:1279:::||h[Techno-Coil Legguards]||h||r 5", -- [1950]
-			"<23:54:35><DEBUG>	 Found item at 0 8", -- [1951]
-			"<23:54:35><DEBUG>	 Found: 0 8 0", -- [1952]
-			"<23:54:35><DEBUG>	 Storage:New |cffa335ee|Hitem:178712::::::::60:262::33:5:7426:7359:6652:1524:6646:1:28:1279:::|h[Acidslough Bulwark]|h|r temp restored table: 00000167788388B0", -- [1953]
-			"<23:54:35><DEBUG>	 Storage: searching for item: ||cffa335ee||Hitem:178712::::::::60:262::33:5:7426:7359:6652:1524:6646:1:28:1279:::||h[Acidslough Bulwark]||h||r 5", -- [1954]
-			"<23:54:35><DEBUG>	 Found item at 2 24", -- [1955]
-			"<23:54:35><Comm>	 ^1^Sv^T^N1^S3.1.4^t^^ GUILD Rentaki-Kazzak", -- [1956]
-			"<23:56:19><INFO>	 Logged In", -- [1957]
-			"<23:56:19>[ML]<INFO>	 Init", -- [1958]
-			"<23:56:19><INFO>	 RCLootCouncil TradeUI enabled", -- [1959]
-			"<23:56:26><INFO>	 Rentaki-Kazzak 3.1.4 nil", -- [1960]
-			"<23:56:26><DEBUG>	 ActivateSkin bfa", -- [1961]
-			"<23:56:27><DEBUG>	 Event: PLAYER_ENTERING_WORLD true false", -- [1962]
-			"<23:56:27><INFO>	 UpdatePlayersData()", -- [1963]
-			"<23:56:29><DEBUG>	 GetPlayersGuildRank()", -- [1964]
-			"<23:56:29><DEBUG>	 GetPlayersGuildRank()", -- [1965]
-			"<23:56:29><DEBUG>	 Found Guild Rank: Citizen", -- [1966]
-			"<23:56:32><DEBUG>	 GetML()", -- [1967]
-			"<23:56:32><DEBUG>	 Storage:New |cffa335ee|Hitem:179337::::::::60:262::33:5:7349:7359:6652:1524:6646:1:28:1279:::|h[Techno-Coil Legguards]|h|r temp restored table: 000001E74940F060", -- [1968]
-			"<23:56:32><DEBUG>	 Storage: searching for item: ||cffa335ee||Hitem:179337::::::::60:262::33:5:7349:7359:6652:1524:6646:1:28:1279:::||h[Techno-Coil Legguards]||h||r 5", -- [1969]
-			"<23:56:32><DEBUG>	 Found item at 0 8", -- [1970]
-			"<23:56:32><DEBUG>	 Found: 0 8 0", -- [1971]
-			"<23:56:32><DEBUG>	 Storage:New |cffa335ee|Hitem:178712::::::::60:262::33:5:7426:7359:6652:1524:6646:1:28:1279:::|h[Acidslough Bulwark]|h|r temp restored table: 000001E74940F100", -- [1972]
-			"<23:56:32><DEBUG>	 Storage: searching for item: ||cffa335ee||Hitem:178712::::::::60:262::33:5:7426:7359:6652:1524:6646:1:28:1279:::||h[Acidslough Bulwark]||h||r 5", -- [1973]
-			"<23:56:32><DEBUG>	 Found item at 2 24", -- [1974]
-			"<23:58:28><DEBUG>	 Event: PLAYER_ENTERING_WORLD false false", -- [1975]
-			"<23:58:29><DEBUG>	 GetML()", -- [1976]
-			"<00:00:19><DEBUG>	 Event: PLAYER_ENTERING_WORLD false false", -- [1977]
-			"<00:00:21><DEBUG>	 GetML()", -- [1978]
-			"<00:00:35><DEBUG>	 Event: PLAYER_ENTERING_WORLD false false", -- [1979]
-			"<00:00:36><DEBUG>	 GetML()", -- [1980]
-			"<00:10:13><INFO>	 Logged In", -- [1981]
-			"<00:10:13>[ML]<INFO>	 Init", -- [1982]
-			"<00:10:13><INFO>	 RCLootCouncil TradeUI enabled", -- [1983]
-			"<00:10:18><INFO>	 Rentaki-Kazzak 3.1.4 nil", -- [1984]
-			"<00:10:18><DEBUG>	 ActivateSkin bfa", -- [1985]
-			"<00:10:19><DEBUG>	 Event: PLAYER_ENTERING_WORLD true false", -- [1986]
-			"<00:10:19><INFO>	 UpdatePlayersData()", -- [1987]
-			"<00:10:22><DEBUG>	 GetPlayersGuildRank()", -- [1988]
-			"<00:10:22><DEBUG>	 GetPlayersGuildRank()", -- [1989]
-			"<00:10:22><DEBUG>	 Found Guild Rank: Citizen", -- [1990]
-			"<00:10:23><DEBUG>	 GetML()", -- [1991]
-			"<00:10:23><DEBUG>	 Storage:New |cffa335ee|Hitem:179337::::::::60:262::33:5:7349:7359:6652:1524:6646:1:28:1279:::|h[Techno-Coil Legguards]|h|r temp restored table: 000001E72DF4ECB0", -- [1992]
-			"<00:10:23><DEBUG>	 Storage: searching for item: ||cffa335ee||Hitem:179337::::::::60:262::33:5:7349:7359:6652:1524:6646:1:28:1279:::||h[Techno-Coil Legguards]||h||r 5", -- [1993]
-			"<00:10:23><DEBUG>	 Found item at 0 8", -- [1994]
-			"<00:10:23><DEBUG>	 Found: 0 8 0", -- [1995]
-			"<00:10:23><DEBUG>	 Storage:New |cffa335ee|Hitem:178712::::::::60:262::33:5:7426:7359:6652:1524:6646:1:28:1279:::|h[Acidslough Bulwark]|h|r temp restored table: 000001E72DF4ED50", -- [1996]
-			"<00:10:23><DEBUG>	 Storage: searching for item: ||cffa335ee||Hitem:178712::::::::60:262::33:5:7426:7359:6652:1524:6646:1:28:1279:::||h[Acidslough Bulwark]||h||r 5", -- [1997]
-			"<00:10:23><DEBUG>	 Found: nil nil nil", -- [1998]
-			"<00:10:23><WARNING>	 ItemStorage, db item no longer in bags |cffa335ee|Hitem:178712::::::::60:262::33:5:7426:7359:6652:1524:6646:1:28:1279:::|h[Acidslough Bulwark]|h|r", -- [1999]
-			"<00:10:23><DEBUG>	 Storage:RemoveItem |cffa335ee|Hitem:178712::::::::60:262::33:5:7426:7359:6652:1524:6646:1:28:1279:::|h[Acidslough Bulwark]|h|r", -- [2000]
+			"<20:05:40><DEBUG>	 OnAwardReceived table: 000001C333607A30 1 Rentaki-Kazzak Rentaki-Kazzak", -- [1]
+			"<20:05:40><DEBUG>	 Found item as temp", -- [2]
+			"<20:05:40><DEBUG>	 Storage:RemoveItem |cffa335ee|Hitem:183012::::::::60:262::6:4:7187:6652:1498:6646:1:28:753:::|h[Greaves of Enigmatic Energies]|h|r", -- [3]
+			"<20:05:40><DEBUG>	 TradeUI:Show() nil", -- [4]
+			"<20:05:40><DEBUG>	 TradeUI:Hide()", -- [5]
+			"<20:05:41><Comm>	 ^1^Sresponse^T^N1^N1^N2^T^Sresponse^SPASS^t^t^^ RAID Bevv-Kazzak", -- [6]
+			"<20:05:41><Comm>	 ^1^Sresponse^T^N1^N2^N2^T^Sresponse^SPASS^t^t^^ RAID Arookie-Kazzak", -- [7]
+			"<20:05:41><Comm>	 ^1^Sresponse^T^N1^N2^N2^T^Sresponse^SPASS^t^t^^ RAID Bevv-Kazzak", -- [8]
+			"<20:05:41><Comm>	 ^1^Sresponse^T^N1^N3^N2^T^Sresponse^SPASS^t^t^^ RAID Bevv-Kazzak", -- [9]
+			"<20:05:41><Comm>	 ^1^Sresponse^T^N1^N3^N2^T^Sresponse^SPASS^t^t^^ RAID Arookie-Kazzak", -- [10]
+			"<20:05:42><Comm>	 ^1^Sresponse^T^N1^N4^N2^T^Sresponse^SPASS^t^t^^ RAID Bevv-Kazzak", -- [11]
+			"<20:05:42><Comm>	 ^1^Sresponse^T^N1^N4^N2^T^Sresponse^SPASS^t^t^^ RAID Arookie-Kazzak", -- [12]
+			"<20:05:42><Comm>	 ^1^Sresponse^T^N1^N1^N2^T^Sresponse^SPASS^t^t^^ RAID Tradushuffle-Kazzak", -- [13]
+			"<20:05:43><Comm>	 ^1^Sresponse^T^N1^N2^N2^T^Sresponse^SPASS^t^t^^ RAID Tradushuffle-Kazzak", -- [14]
+			"<20:05:43><Comm>	 ^1^Sresponse^T^N1^N3^N2^T^Sresponse^SPASS^t^t^^ RAID Tradushuffle-Kazzak", -- [15]
+			"<20:05:43><Comm>	 ^1^Sresponse^T^N1^N4^N2^T^Sresponse^SPASS^t^t^^ RAID Tradushuffle-Kazzak", -- [16]
+			"<20:05:46><Comm>	 ^1^Sresponse^T^N1^N4^N2^T^Sresponse^SPASS^t^t^^ RAID Nited-Kazzak", -- [17]
+			"<20:05:46><Comm>	 ^1^Sresponse^T^N1^N4^N2^T^Sresponse^SPASS^t^t^^ RAID Macuc-Kazzak", -- [18]
+			"<20:05:47><Comm>	 ^1^Sresponse^T^N1^N3^N2^T^Sresponse^SPASS^t^t^^ RAID Nited-Kazzak", -- [19]
+			"<20:05:47><Comm>	 ^1^Sresponse^T^N1^N4^N2^T^Sresponse^N1^t^t^^ RAID Misêry-Kazzak", -- [20]
+			"<20:05:47><Comm>	 ^1^Sresponse^T^N1^N2^N2^T^Sresponse^SPASS^t^t^^ RAID Nited-Kazzak", -- [21]
+			"<20:05:49><Comm>	 ^1^Sresponse^T^N1^N2^N2^T^Sresponse^SPASS^t^t^^ RAID Macuc-Kazzak", -- [22]
+			"<20:05:50><Comm>	 ^1^Sresponse^T^N1^N3^N2^T^Sresponse^SPASS^t^t^^ RAID Macuc-Kazzak", -- [23]
+			"<20:05:53><Comm>	 ^1^Sresponse^T^N1^N4^N2^T^Sresponse^N4^t^t^^ RAID Kessrogue-Kazzak", -- [24]
+			"<20:06:04><Comm>	 ^1^Sresponse^T^N1^N2^N2^T^Snote^SAvoidance~`so~`when~`someone~`taunts~`sludgefist~`maybe~`i~`live~`idk~`^Sresponse^N2^t^t^^ RAID Tokzik-Kazzak", -- [25]
+			"<20:06:09><Comm>	 ^1^Sresponse^T^N1^N3^N2^T^Sresponse^SPASS^t^t^^ RAID Tokzik-Kazzak", -- [26]
+			"<20:06:20><Comm>	 ^1^Sresponse^T^N1^N3^N2^T^Sresponse^STIMEOUT^t^t^^ RAID Kvaernp-Kazzak", -- [27]
+			"<20:06:20><Comm>	 ^1^Sresponse^T^N1^N2^N2^T^Sresponse^STIMEOUT^t^t^^ RAID Kvaernp-Kazzak", -- [28]
+			"<20:06:20><Comm>	 ^1^Sresponse^T^N1^N1^N2^T^Sresponse^STIMEOUT^t^t^^ RAID Kvaernp-Kazzak", -- [29]
+			"<20:06:31><Comm>	 ^1^Sresponse^T^N1^N4^N2^T^Sresponse^STIMEOUT^t^t^^ RAID Kvaernp-Kazzak", -- [30]
+			"<20:06:36><Comm>	 ^1^Shistory^T^N1^SCreo-Kazzak^N2^T^SmapID^N2296^Sdate^S10/03/21^Sclass^SPALADIN^SgroupSize^N20^Sboss^SArtificer~`Xy'mox^Stime^S20:06:38^SitemReplaced1^S|cffff8000|Hitem:178926:6168:173128::::::60:65::66:6:7056:6758:6648:6649:1532:6935::::|h[The~`Magistrate's~`Judgment]|h|r^StypeCode^Sdefault^Sinstance^SCastle~`Nathria-Mythic^Sowner^SKessrogue-Kazzak^Sid^S1615399598-18^Sresponse^STransmog^SdifficultyID^N16^SlootWon^S|cffa335ee|Hitem:183038::::::::60:65::6:5:7187:6652:7193:1498:6646:1:28:753:::|h[Hyperlight~`Band]|h|r^SisAwardReason^b^Scolor^T^N1^N0.7^N2^N0.18^N3^N0.1^N4^N1^t^SresponseID^N5^SitemReplaced2^S|cffa335ee|Hitem:179355:6166:173128::::::60:65::35:6:7213:6652:1501:5884:6646:6935::::|h[Death~`God's~`Signet]|h|r^Svotes^N0^t^t^^ RAID Tankzorx-Kazzak", -- [31]
+			"<20:06:36><Comm>	 ^1^Sawarded^T^N1^N3^N2^SCreo-Kazzak^N3^SKessrogue-Kazzak^t^^ RAID Tankzorx-Kazzak", -- [32]
+			"<20:06:39><Comm>	 ^1^Sl^T^N1^S165479^t^^ RAID Riworra-Kazzak", -- [33]
+			"<20:06:39><Comm>	 ^1^Sl^T^N1^S165479^t^^ RAID Riworra-Kazzak", -- [34]
+			"<20:06:42><Comm>	 ^1^Shistory^T^N1^SMisêry-Kazzak^N2^T^SmapID^N2296^Scolor^T^N1^N0^N2^N1^N3^N0^N4^N1^t^Sclass^SMONK^SgroupSize^N20^Sboss^SArtificer~`Xy'mox^Stime^S20:06:43^SitemReplaced1^S|cffa335ee|Hitem:182978:6220:173127::::::60:65::6:5:7187:6652:1498:6646:6935:1:28:753:::|h[Barkweave~`Wristwraps]|h|r^Sinstance^SCastle~`Nathria-Mythic^Sowner^SMacuc-Kazzak^Sresponse^SNeed~`BIS^StypeCode^Sdefault^SdifficultyID^N16^SlootWon^S|cffa335ee|Hitem:183019::::::::60:65::6:5:7187:6652:6935:1498:6646:1:28:753:::|h[Precisely~`Calibrated~`Chronometer]|h|r^Sid^S1615399603-19^Sdate^S10/03/21^SresponseID^N1^Svotes^N0^SisAwardReason^b^t^t^^ RAID Tankzorx-Kazzak", -- [35]
+			"<20:06:42><Comm>	 ^1^Sawarded^T^N1^N4^N2^SMisêry-Kazzak^N3^SMacuc-Kazzak^t^^ RAID Tankzorx-Kazzak", -- [36]
+			"<20:06:46><Comm>	 ^1^Strade_WrongWinner^T^N1^S|cffa335ee|Hitem:183038::::::::60:259::6:5:7187:6652:7193:1498:6646:1:28:753:::|h[Hyperlight~`Band]|h|r^N2^SBevv-Kazzak^N3^SKessrogue-Kazzak^N4^SCreo-Kazzak^t^^ RAID Kessrogue-Kazzak", -- [37]
+			"<20:07:23><Comm>	 ^1^Sl^T^N1^S165479^t^^ RAID Unholydeathh-Kazzak", -- [38]
+			"<20:07:23><Comm>	 ^1^Sl^T^N1^S165479^t^^ RAID Unholydeathh-Kazzak", -- [39]
+			"<20:07:24><Comm>	 ^1^Sl^T^N1^S173802^t^^ RAID Tokzik-Kazzak", -- [40]
+			"<20:07:26><Comm>	 ^1^Sl^T^N1^S165479^t^^ RAID Riworra-Kazzak", -- [41]
+			"<20:07:26><Comm>	 ^1^Sl^T^N1^S165479^t^^ RAID Riworra-Kazzak", -- [42]
+			"<20:07:55><Comm>	 ^1^Shistory^T^N1^SRiworra-Kazzak^N2^T^SmapID^N2296^Sdate^S10/03/21^Sclass^SWARRIOR^SgroupSize^N20^Sboss^SArtificer~`Xy'mox^Stime^S20:07:57^SitemReplaced1^S|cffa335ee|Hitem:178869:6166:173128::::::60:65::35:6:7213:6652:1501:5884:6646:6935::::|h[Fleshfused~`Circle]|h|r^StypeCode^Sdefault^Sinstance^SCastle~`Nathria-Mythic^Sowner^SSanshot-Kazzak^Sid^S1615399677-20^Sresponse^SMinor~`Upgrade^Snote^Spvp~`avoidance^SdifficultyID^N16^SlootWon^S|cffa335ee|Hitem:183038::::::::60:65::6:5:7187:40:7193:1498:6646:1:28:753:::|h[Hyperlight~`Band]|h|r^SisAwardReason^b^Scolor^T^N1^N0.63^N2^N0.7^N3^N0.22^N4^N1^t^SresponseID^N3^SitemReplaced2^S|cffff8000|Hitem:178926:6166:173128::::::60:65::63:6:6959:6649:6648:6758:1532:6935::::|h[Signet~`of~`Tormented~`Kings]|h|r^Svotes^N0^t^t^^ RAID Tankzorx-Kazzak", -- [43]
+			"<20:07:55><Comm>	 ^1^Sawarded^T^N1^N2^N2^SRiworra-Kazzak^N3^SSanshot-Kazzak^t^^ RAID Tankzorx-Kazzak", -- [44]
+			"<20:07:56><Comm>	 ^1^Ssession_end^T^t^^ RAID Tankzorx-Kazzak", -- [45]
+			"<20:08:10><Comm>	 ^1^Strade_WrongWinner^T^N1^S|cffa335ee|Hitem:183019::::::::60:102::6:5:7187:6652:6935:1498:6646:1:28:753:::|h[Precisely~`Calibrated~`Chronometer]|h|r^N2^SSnaxxie-Kazzak^N3^SMacuc-Kazzak^N4^SMisêry-Kazzak^t^^ RAID Macuc-Kazzak", -- [46]
+			"<20:08:12><Comm>	 ^1^Strade_WrongWinner^T^N1^S|cffa335ee|Hitem:183038::::::::60:254::6:5:7187:40:7193:1498:6646:1:28:753:::|h[Hyperlight~`Band]|h|r^N2^SMemescoper-Kazzak^N3^SSanshot-Kazzak^N4^SRiworra-Kazzak^t^^ RAID Sanshot-Kazzak", -- [47]
+			"<20:08:45><DEBUG>	 TradeUI: Traded item(s) to Misêry-Kazzak", -- [48]
+			"<20:08:45><DEBUG>	 Storage:RemoveItem |cff0070dd|Hitem:173127::::::::60:262:::::::|h[Deadly Jewel Cluster]|h|r", -- [49]
+			"<20:08:45><ERROR>	 Couldn't remove item nil nil", -- [50]
+			"<20:08:45><DEBUG>	 TradeUI:Hide()", -- [51]
+			"<20:09:27><Comm>	 ^1^Sv^T^N1^S3.1.4^t^^ GUILD Bevv-Kazzak", -- [52]
+			"<20:09:27><Comm>	 ^1^Sr^T^N1^S3.1.3^N3^T^t^t^^ GUILD Kessrogue-Kazzak", -- [53]
+			"<20:09:41><Comm>	 ^1^Sxrealm^T^N1^STankzorx-Kazzak^N2^SMLdb_request^t^^ RAID Bevv-Kazzak", -- [54]
+			"<20:09:41><Comm>	 ^1^Sxrealm^T^N1^STankzorx-Kazzak^N2^Scouncil_request^t^^ RAID Bevv-Kazzak", -- [55]
+			"<20:09:42><Comm>	 ^1^Smldb^T^N1^T^S|8^T^SAZERITE^T^N1^T^S|15^Smainspec^t^N2^T^S|15^Sresiduum^t^N3^T^S|15^Soffspec^t^t^S|14^T^N1^T^S|15^SNeed~`BIS^t^N2^T^S|15^SNeed~`not~`BIS^t^N4^T^S|15^SOffspec^t^N5^T^S|15^STransmog^t^S|5^N5^t^t^S|12^N60^S|11^T^SAZERITE^T^N1^T^S|15^Smainspec^S|4^N1^S|16^T^N1^N0^N2^N1^N3^N0.05^N4^N1^t^t^N2^T^S|15^Sresiduum^S|4^N2^S|16^T^N1^N0.04^N2^N0.08^N3^N1^N4^N1^t^t^N3^T^S|15^Soffspec^S|4^N3^S|16^T^N1^N1^N2^N0.07^N3^N0^N4^N1^t^t^t^S|14^T^N1^T^S|15^SNeed~`BIS^S|4^N1^S|16^T^N1^N0^N2^N1^N3^N0^N4^N1^t^t^N2^T^S|15^SNeed~`not~`BIS^S|4^N2^S|16^T^N1^N0.54^N2^N1^N3^N0.12^N4^N1^t^t^N3^T^S|15^SMinor~`Upgrade^S|4^N3^S|16^T^N1^N0.63^N2^N0.7^N3^N0.22^N4^N1^t^t^N4^T^S|15^SOffspec^S|4^N4^S|16^T^N1^N0.7^N2^N0.43^N3^N0.17^N4^N1^t^t^N5^T^S|15^STransmog^S|4^N5^S|16^T^N1^N0.7^N2^N0.18^N3^N0.1^N4^N1^t^t^t^t^S|1^B^S|5^N5^S|2^B^t^t^^ RAID Tankzorx-Kazzak", -- [56]
+			"<20:09:42><INFO>	 OnMLDBReceived", -- [57]
+			"<20:09:42><Comm>	 ^1^Scouncil^T^N1^T^S1305-0AFC367F^B^S1305-0B0DCA21^B^S1305-0B0E3079^B^S1305-0B30094D^B^t^t^^ RAID Tankzorx-Kazzak", -- [58]
+			"<20:09:42><DEBUG>	 isCouncil false", -- [59]
+			"<20:13:04><DEBUG>	 Event: ENCOUNTER_START 2402 Sun King's Salvation 16 20", -- [60]
+			"<20:13:04><INFO>	 UpdatePlayersData()", -- [61]
+			"<20:16:28><DEBUG>	 Event: ENCOUNTER_END 2402 Sun King's Salvation 16 20 0", -- [62]
+			"<20:18:05><DEBUG>	 Event: ENCOUNTER_START 2402 Sun King's Salvation 16 20", -- [63]
+			"<20:18:05><INFO>	 UpdatePlayersData()", -- [64]
+			"<20:24:31><DEBUG>	 Event: ENCOUNTER_END 2402 Sun King's Salvation 16 20 1", -- [65]
+			"<20:24:37><DEBUG>	 Event: LOOT_READY true", -- [66]
+			"<20:24:37><DEBUG>	 Adding to self.lootSlotInfo 1 nil 1 0 GameObject-0-4253-2296-4475-357752-0000491CF0 732529", -- [67]
+			"<20:24:37><DEBUG>	 Event: ENCOUNTER_LOOT_RECEIVED 2402 184286 |cff0070dd|Hitem:184286::::::::60:262:::::::|h[Extinguished Soul Anima]|h|r 3 Rentaki SHAMAN", -- [68]
+			"<20:24:37><DEBUG>	 OnLootSlotCleared() 1 nil 1", -- [69]
+			"<20:24:37><DEBUG>	 Event: LOOT_CLOSED", -- [70]
+			"<20:24:37><DEBUG>	 Event: LOOT_CLOSED", -- [71]
+			"<20:24:37><Comm>	 ^1^Sl^T^N1^S357752^t^^ RAID Rentaki-Kazzak", -- [72]
+			"<20:24:37><Comm>	 ^1^Sl^T^N1^S357752^t^^ RAID Rentaki-Kazzak", -- [73]
+			"<20:24:37><Comm>	 ^1^Sl^T^N1^S357752^t^^ RAID Creo-Kazzak", -- [74]
+			"<20:24:37><Comm>	 ^1^Sl^T^N1^S357752^t^^ RAID Creo-Kazzak", -- [75]
+			"<20:24:38><Comm>	 ^1^Sl^T^N1^S357752^t^^ RAID Skonheden-Kazzak", -- [76]
+			"<20:24:38><Comm>	 ^1^Sl^T^N1^S357752^t^^ RAID Skonheden-Kazzak", -- [77]
+			"<20:24:38><Comm>	 ^1^Sl^T^N1^S357752^t^^ RAID Bevv-Kazzak", -- [78]
+			"<20:24:38><Comm>	 ^1^Sl^T^N1^S357752^t^^ RAID Bevv-Kazzak", -- [79]
+			"<20:24:39><Comm>	 ^1^Sl^T^N1^S357752^t^^ RAID Seksixeny-Kazzak", -- [80]
+			"<20:24:39><Comm>	 ^1^Sl^T^N1^S357752^t^^ RAID Seksixeny-Kazzak", -- [81]
+			"<20:24:39><Comm>	 ^1^Sl^T^N1^S357752^t^^ RAID Unholydeathh-Kazzak", -- [82]
+			"<20:24:39><Comm>	 ^1^Sl^T^N1^S357752^t^^ RAID Unholydeathh-Kazzak", -- [83]
+			"<20:24:39><Comm>	 ^1^Sl^T^N1^S357752^t^^ RAID Tradushuffle-Kazzak", -- [84]
+			"<20:24:39><Comm>	 ^1^Sl^T^N1^S357752^t^^ RAID Tradushuffle-Kazzak", -- [85]
+			"<20:24:39><Comm>	 ^1^Sl^T^N1^S357752^t^^ RAID Ceases-Kazzak", -- [86]
+			"<20:24:39><Comm>	 ^1^Sl^T^N1^S357752^t^^ RAID Nited-Kazzak", -- [87]
+			"<20:24:39><Comm>	 ^1^Sl^T^N1^S357752^t^^ RAID Nited-Kazzak", -- [88]
+			"<20:24:39><DEBUG>	 Event: ENCOUNTER_LOOT_RECEIVED 2402 183893 |cffa335ee|Hitem:183893::::::::60:262::6:3:7187:1498:6646:1:28:753:::|h[Abominable Anima Spherule]|h|r 1 Tokzik DEATHKNIGHT", -- [89]
+			"<20:24:40><Comm>	 ^1^Sl^T^N1^S357752^t^^ RAID Tokzik-Kazzak", -- [90]
+			"<20:24:40><Comm>	 ^1^Sl^T^N1^S357752^t^^ RAID Tokzik-Kazzak", -- [91]
+			"<20:24:40><Comm>	 ^1^Sl^T^N1^S357752^t^^ RAID Frawztie-Kazzak", -- [92]
+			"<20:24:40><Comm>	 ^1^Sl^T^N1^S357752^t^^ RAID Frawztie-Kazzak", -- [93]
+			"<20:24:40><DEBUG>	 Event: ENCOUNTER_LOOT_RECEIVED 2402 183007 |cffa335ee|Hitem:183007::::::::60:262::6:4:7187:6652:1498:6646:1:28:753:::|h[Bleakwing Assassin's Grips]|h|r 1 Misêry MONK", -- [94]
+			"<20:24:40><Comm>	 ^1^Sl^T^N1^S357752^t^^ RAID Misêry-Kazzak", -- [95]
+			"<20:24:40><Comm>	 ^1^Sl^T^N1^S357752^t^^ RAID Misêry-Kazzak", -- [96]
+			"<20:24:41><Comm>	 ^1^Sl^T^N1^S357752^t^^ RAID Sacraa-Kazzak", -- [97]
+			"<20:24:41><Comm>	 ^1^Sl^T^N1^S357752^t^^ RAID Sacraa-Kazzak", -- [98]
+			"<20:24:41><Comm>	 ^1^Sl^T^N1^S357752^t^^ RAID Riworra-Kazzak", -- [99]
+			"<20:24:41><Comm>	 ^1^Sl^T^N1^S357752^t^^ RAID Riworra-Kazzak", -- [100]
+			"<20:24:41><Comm>	 ^1^Sl^T^N1^S357752^t^^ RAID Arookie-Kazzak", -- [101]
+			"<20:24:41><Comm>	 ^1^Sl^T^N1^S357752^t^^ RAID Arookie-Kazzak", -- [102]
+			"<20:24:42><DEBUG>	 Event: ENCOUNTER_LOOT_RECEIVED 2402 184020 |cffa335ee|Hitem:184020::::::::60:262::6:4:7187:6652:1498:6646:1:28:753:::|h[Tuft of Smoldering Plumage]|h|r 1 Arookie DRUID", -- [103]
+			"<20:24:42><DEBUG>	 Event: ENCOUNTER_LOOT_RECEIVED 2402 182584 |cffa335ee|Hitem:182584::::::::60:262::6:2:1553:7245:2:28:753:37:7:::|h[Cheetah's Vigor]|h|r 1 Memescoper HUNTER", -- [104]
+			"<20:24:43><Comm>	 ^1^Stradable^T^N1^S|cffa335ee|Hitem:183893::::::::60:252::6:3:7187:1498:6646:1:28:753:::|h[Abominable~`Anima~`Spherule]|h|r^N2^S357752^t^^ RAID Tokzik-Kazzak", -- [105]
+			"<20:24:43><Comm>	 ^1^Sl^T^N1^S357752^t^^ RAID Memescoper-Kazzak", -- [106]
+			"<20:24:43><Comm>	 ^1^Sl^T^N1^S357752^t^^ RAID Memescoper-Kazzak", -- [107]
+			"<20:24:43><DEBUG>	 Event: ENCOUNTER_LOOT_RECEIVED 2402 183025 |cffa335ee|Hitem:183025::::::::60:262::6:5:7187:6652:7194:1498:6646:1:28:753:::|h[Stoic Guardsman's Belt]|h|r 1 Tankzorx PALADIN", -- [108]
+			"<20:24:43><Comm>	 ^1^Stradable^T^N1^S|cffa335ee|Hitem:183007::::::::60:268::6:4:7187:6652:1498:6646:1:28:753:::|h[Bleakwing~`Assassin's~`Grips]|h|r^N2^S357752^t^^ RAID Misêry-Kazzak", -- [109]
+			"<20:24:44><DEBUG>	 Event: ENCOUNTER_LOOT_RECEIVED 2402 182677 |cffa335ee|Hitem:182677::::::::60:262::6:2:1553:7245:2:28:753:37:7:::|h[Punish the Guilty]|h|r 1 Tankzorx PALADIN", -- [110]
+			"<20:24:44><Comm>	 ^1^Stradable^T^N1^S|cffa335ee|Hitem:184020::::::::60:105::6:4:7187:6652:1498:6646:1:28:753:::|h[Tuft~`of~`Smoldering~`Plumage]|h|r^N2^S357752^t^^ RAID Arookie-Kazzak", -- [111]
+			"<20:24:45><Comm>	 ^1^Sl^T^N1^S357752^t^^ RAID Tankzorx-Kazzak", -- [112]
+			"<20:24:45><Comm>	 ^1^Sl^T^N1^S357752^t^^ RAID Tankzorx-Kazzak", -- [113]
+			"<20:24:46><Comm>	 ^1^Sl^T^N1^S357752^t^^ RAID Kvaernp-Kazzak", -- [114]
+			"<20:24:46><Comm>	 ^1^Sl^T^N1^S357752^t^^ RAID Kvaernp-Kazzak", -- [115]
+			"<20:24:46><Comm>	 ^1^Stradable^T^N1^S|cffa335ee|Hitem:183025::::::::60:65::6:5:7187:6652:7194:1498:6646:1:28:753:::|h[Stoic~`Guardsman's~`Belt]|h|r^N2^S357752^t^^ RAID Tankzorx-Kazzak", -- [116]
+			"<20:24:47><Comm>	 ^1^Sl^T^N1^S357752^t^^ RAID Neveh-Kazzak", -- [117]
+			"<20:24:47><Comm>	 ^1^Sl^T^N1^S357752^t^^ RAID Neveh-Kazzak", -- [118]
+			"<20:24:58><Comm>	 ^1^SlootTable^T^N1^T^N1^T^Sstring^S183025:::::::::::6:5:7187:6652:7194:1498:6646:1:28:753^StypeCode^Sdefault^Sowner^STankzorx-Kazzak^Sboss^SSun~`King's~`Salvation^t^N2^T^Sstring^S183007:::::::::::6:4:7187:6652:1498:6646:1:28:753^StypeCode^Sdefault^Sowner^SMisêry-Kazzak^Sboss^SSun~`King's~`Salvation^t^N3^T^Sstring^S184020:::::::::::6:4:7187:6652:1498:6646:1:28:753^StypeCode^Sdefault^Sowner^SArookie-Kazzak^Sboss^SSun~`King's~`Salvation^t^N4^T^Sstring^S183893:::::::::::6:3:7187:1498:6646:1:28:753^StypeCode^Sdefault^Sowner^STokzik-Kazzak^Sboss^SSun~`King's~`Salvation^t^t^t^^ RAID Tankzorx-Kazzak", -- [119]
+			"<20:24:58><INFO>	 Autopassed on:  |cffa335ee|Hitem:183025::::::::60:262::6:5:7187:6652:7194:1498:6646:1:28:753:::|h[Stoic Guardsman's Belt]|h|r", -- [120]
+			"<20:24:58><INFO>	 Autopassed on:  |cffa335ee|Hitem:183007::::::::60:262::6:4:7187:6652:1498:6646:1:28:753:::|h[Bleakwing Assassin's Grips]|h|r", -- [121]
+			"<20:24:58><INFO>	 Autopassed on:  |cffa335ee|Hitem:183893::::::::60:262::6:3:7187:1498:6646:1:28:753:::|h[Abominable Anima Spherule]|h|r", -- [122]
+			"<20:24:58><INFO>	 GetPlayersGear |cffa335ee|Hitem:183025::::::::60:262::6:5:7187:6652:7194:1498:6646:1:28:753:::|h[Stoic Guardsman's Belt]|h|r INVTYPE_WAIST", -- [123]
+			"<20:24:58><INFO>	 GetPlayersGear |cffa335ee|Hitem:183007::::::::60:262::6:4:7187:6652:1498:6646:1:28:753:::|h[Bleakwing Assassin's Grips]|h|r INVTYPE_HAND", -- [124]
+			"<20:24:58><INFO>	 GetPlayersGear |cffa335ee|Hitem:184020::::::::60:262::6:4:7187:6652:1498:6646:1:28:753:::|h[Tuft of Smoldering Plumage]|h|r INVTYPE_TRINKET", -- [125]
+			"<20:24:58><INFO>	 GetPlayersGear |cffa335ee|Hitem:183893::::::::60:262::6:3:7187:1498:6646:1:28:753:::|h[Abominable Anima Spherule]|h|r ", -- [126]
+			"<20:24:58><INFO>	 LootFrame:Start 4 nil", -- [127]
+			"<20:24:58><DEBUG>	 Restoring entry: default 1", -- [128]
+			"<20:24:58><DEBUG>	 GetButtons default", -- [129]
+			"<20:24:58><Comm>	 ^1^SlootAck^T^N1^N65^N2^N227.3125^N3^T^Sresponse^T^t^Sdiff^T^N1^N0^N2^N0^N3^N6^N4^N-7^t^Sgear1^T^N1^S183025::::::::60:65::6:5:7187:6652:7193:1498:6646:1:28:753^N2^S183013::::::::60:65::6:4:7187:41:1498:6646:1:28:753^N3^S184028::::::::60:65::84:4:7188:6652:1485:6646:1:28:752^N4^S177851:6229:::::::60:65::14:3:7230:1505:6646:1:28:807^t^Sgear2^T^N3^S178386::::::::60:65::14:3:6623:1498:6646:1:28:807^N4^S174311::::::::60:65::14:3:7136:1505:6646:1:28:807^t^t^t^^ RAID Kvaernp-Kazzak", -- [130]
+			"<20:24:58><Comm>	 ^1^SlootAck^T^N1^N265^N2^N228.5625^N3^T^Sresponse^T^N1^B^N2^B^t^Sdiff^T^N1^N0^N2^N0^N3^N0^N4^N-7^t^Sgear1^T^N1^S183004::173130::::::60:265::6:5:7187:6652:1498:6646:6935^N2^S183022::::::::60:265::6:4:7187:6652:1498:6646:1:28:753^N3^S175921::::::::60:265::14:3:6623:1498:6646:1:28:807^N4^S180002:6229:::::::60:265::85:4:7187:6652:1531:6646:1:28:807^t^Sgear2^T^N3^S184028::::::::60:265::85:4:7187:6652:1498:6646^t^t^t^^ RAID Neveh-Kazzak", -- [131]
+			"<20:24:58><Comm>	 ^1^SlootAck^T^N1^N72^N2^N227.4375^N3^T^Sresponse^T^N2^B^N4^B^t^Sdiff^T^N1^N0^N2^N0^N3^N0^N4^N0^t^Sgear1^T^N1^S183025::173128::::::60:72::6:5:7187:6652:1498:6646:6935:1:28:753^N2^S182984:6210:::::::60:72::6:4:7187:6652:1498:6646:1:28:753^N3^S178386::::::::60:72::14:3:6623:1498:6646:1:28:807^N4^S178713:6229:::::::60:72::35:5:7214:6652:1501:5884:6646^t^Sgear2^T^N3^S184027::::::::60:72::85:4:7187:6652:1498:6646^N4^S178713:6228:::::::60:72::35:4:7214:1501:5884:6646^t^t^t^^ RAID Riworra-Kazzak", -- [132]
+			"<20:24:58><Comm>	 ^1^SlootAck^T^N1^N102^N2^N226.375^N3^T^Sresponse^T^N1^B^N4^B^t^Sdiff^T^N1^N0^N2^N0^N3^N32^N4^N-7^t^Sgear1^T^N1^S183005::173127::::::60:102::6:5:7187:6652:1498:6646:6935^N2^S175897:6205:::::::60:102::14:3:6623:1498:6646:1:28:807^N3^S184028::::::::60:102::84:4:7188:6652:1485:6646:1:28:752^N4^S180004:6229:::::::60:102::44:4:6652:6643:1505:6646^t^Sgear2^T^N3^S184842::::::::60:102::27:4:6652:1472:5891:6646^t^t^t^^ RAID Macuc-Kazzak", -- [133]
+			"<20:24:58><Comm>	 ^1^SlootAck^T^N1^N254^N2^N227.875^N3^T^Sresponse^T^N1^B^N2^B^N4^B^t^Sdiff^T^N1^N0^N2^N-7^N3^N0^N4^N0^t^Sgear1^T^N1^S182976::173127::::::60:254::6:5:7187:6652:1498:6646:6935:1:28:753^N2^S182991::::::::60:254::85:4:7187:40:1498:6646:1:28:753^N3^S180116::::::::60:254::35:5:7214:6652:1501:5884:6646^N4^S180073:6228:::::::60:254::6:4:7187:6652:1524:6646:1:28:807^t^Sgear2^T^N3^S184027::::::::60:254::85:4:7187:6652:1498:6646^t^t^t^^ RAID Sanshot-Kazzak", -- [134]
+			"<20:24:58><Comm>	 ^1^SlootAck^T^N1^N264^N2^N229.1875^N3^T^Sresponse^T^N1^B^N2^B^N4^B^t^Sdiff^T^N1^N0^N2^N-7^N3^N-7^N4^N-7^t^Sgear1^T^N1^S178932::173127::::::60:264::35:6:7213:6652:1501:5884:6646:6935^N2^S182991::::::::60:264::85:4:7187:6652:1498:6646^N3^S184028::::::::60:264::85:4:7187:6652:1498:6646^N4^S184266:6229:::::::60:264::85:4:7187:6652:1531:6646:1:28:2060^t^Sgear2^T^N3^S184029::::::::60:264::85:4:7187:6652:1498:6646:1:28:753^N4^S184257::::::::60:264::85:4:7187:6652:1531:6646:1:28:2060^t^t^t^^ RAID Seksixeny-Kazzak", -- [135]
+			"<20:24:58><Comm>	 ^1^SlootAck^T^N1^N250^N2^N227.4375^N3^T^Sresponse^T^N2^B^t^Sdiff^T^N1^N0^N2^N0^N3^N0^N4^N0^t^Sgear1^T^N1^S183025::173129::::::60:250::6:5:7187:6652:6935:1498:6646:1:28:753^N2^S178706:6210:::::::60:250::35:5:7213:6652:1501:5884:6646^N3^S179331::::::::60:250::35:5:7214:6652:1501:5884:6646^N4^S180312:3368:::::::60:250::6:4:7187:6652:1524:6646:1:28:807^t^Sgear2^T^N3^S184027::::::::60:250::85:4:7187:6652:1498:6646:1:28:753^t^t^t^^ RAID Unholydeathh-Kazzak", -- [136]
+			"<20:24:58><Comm>	 ^1^SlootAck^T^N1^N254^N2^N221.375^N3^T^Sresponse^T^N1^B^N2^B^N4^B^t^Sdiff^T^N1^N0^N2^N13^N3^N32^N4^N0^t^Sgear1^T^N1^S182976::173127::::::60:254::6:5:7187:43:6935:1498:6646:1:28:753^N2^S183014::::::::60:254::5:4:7188:6652:1485:6646:1:28:752^N3^S178769::::::::60:254::35:5:7213:6652:1501:5884:6646^N4^S180073:6228:::::::60:254::6:4:7187:6652:1524:6646:1:28:807^t^Sgear2^T^N3^S181457::::::::60:254::26:4:6652:1472:5891:6646:1:28:2060^t^t^t^^ RAID Memescoper-Kazzak", -- [137]
+			"<20:24:58><Comm>	 ^1^SlootAck^T^N1^N65^N2^N227.5^N3^T^Sresponse^T^N2^B^N4^B^t^Sdiff^T^N1^N0^N2^N0^N3^N0^N4^N0^t^Sgear1^T^N1^S175912::173128::::::60:65::44:5:6623:41:1498:6646:6935^N2^S182984::::::::60:65::6:4:7187:6652:1498:6646:1:28:753^N3^S178386::::::::60:65::40:4:41:6623:1498:6646^N4^S177855:6229:::::::60:65::85:4:7187:6652:1531:6646:1:28:807^t^Sgear2^T^N3^S184029::::::::60:65::85:4:7187:6652:1498:6646:1:28:753^N4^S174310::::::::60:65::6:4:7187:6652:1524:6646:1:28:807^t^t^t^^ RAID Tankzorx-Kazzak", -- [138]
+			"<20:24:58><Comm>	 ^1^SlootAck^T^N1^N254^N2^N229.1875^N3^T^Sresponse^T^N1^B^N2^B^N4^B^t^Sdiff^T^N1^N0^N2^N-7^N3^N0^N4^N-7^t^Sgear1^T^N1^S182976::173127::::::60:254::6:5:7187:6652:1498:6646:6935:1:28:753^N2^S182991::::::::60:254::85:4:7187:6652:1498:6646^N3^S175921::::::::60:254::14:3:6623:1498:6646:1:28:807^N4^S180081:6228:::::::60:254::44:4:6652:6643:1505:6646^t^Sgear2^T^N3^S184027::::::::60:254::85:4:7187:6652:1498:6646:1:28:753^t^t^t^^ RAID Adrenalynz-Kazzak", -- [139]
+			"<20:24:58><Comm>	 ^1^SlootAck^T^N1^N102^N2^N225.9375^N3^T^Sresponse^T^N1^B^N4^B^t^Sdiff^T^N1^N0^N2^N0^N3^N32^N4^N0^t^Sgear1^T^N1^S183005::::::::60:102::6:5:7187:6652:7194:1498:6646:1:28:753^N2^S183026::::::::60:102::6:4:7187:6652:1498:6646:1:28:753^N3^S184842::::::::60:102::27:4:6652:1472:5891:6646^N4^S178714:6229:::::::60:102::35:5:7214:6652:1501:5884:6646^t^Sgear2^T^N3^S178386::::::::60:102::14:3:6625:1492:6646:1:28:807^t^t^t^^ RAID Nited-Kazzak", -- [140]
+			"<20:24:58><Comm>	 ^1^SlootAck^T^N1^N268^N2^N227.125^N3^T^Sresponse^T^N1^B^N4^B^t^Sdiff^T^N1^N0^N2^N-9^N3^N0^N4^N0^t^Sgear1^T^N1^S183005::173127::::::60:268::6:5:7187:6652:1498:6646:6935:1:28:753^N2^S172316::::::::60:268::63:5:7077:6647:6650:6758:1532^N3^S184027::::::::60:268::85:4:7187:6652:1498:6646:1:28:753^N4^S177849:6223:::::::60:268::85:4:7187:6652:1531:6646:1:28:807^t^Sgear2^T^N3^S184018::::::::60:268::6:4:7187:6652:1498:6646^N4^S178834:6228:::::::60:268::35:5:7214:6652:1501:5884:6646^t^t^t^^ RAID Misêry-Kazzak", -- [141]
+			"<20:24:58><Comm>	 ^1^SlootAck^T^N1^N252^N2^N227.3125^N3^T^Sresponse^T^N2^B^t^Sdiff^T^N1^N0^N2^N0^N3^N16^N4^N0^t^Sgear1^T^N1^S183025::173130::::::60:252::6:5:7187:6652:1498:6646:6935^N2^S183013:6210:::::::60:252::6:4:7187:6652:1498:6646:1:28:753^N3^S184027::::::::60:252::85:4:7187:6652:1498:6646:1:28:753^N4^S184251:3368:::::::60:252::6:4:7187:6652:1524:6646:1:28:2060^t^Sgear2^T^N3^S179350::::::::60:252::16:5:7214:6652:1501:5868:6646:1:28:1279^t^t^t^^ RAID Tokzik-Kazzak", -- [142]
+			"<20:24:58><Comm>	 ^1^SlootAck^T^N1^N256^N2^N227.875^N3^T^Sresponse^T^N1^B^N2^B^N4^B^t^Sdiff^T^N1^N0^N2^N0^N3^N0^N4^N-7^t^Sgear1^T^N1^S183004::173128::::::60:256::6:5:7187:6652:6935:1498:6646:1:28:753^N2^S183008::::::::60:256::6:4:7187:6652:1498:6646:1:28:753^N3^S178386::::::::60:256::14:3:6623:1498:6646:1:28:807^N4^S182392:6229:::::::60:256::85:4:7187:6652:1531:6646:1:28:837^t^Sgear2^T^N3^S175921::::::::60:256::14:3:6623:1498:6646:1:28:807^t^t^t^^ RAID Vapee-Kazzak", -- [143]
+			"<20:24:58><Comm>	 ^1^SlootAck^T^N1^N102^N2^N226.1875^N3^T^Sresponse^T^t^Sdiff^T^N1^N0^N2^N0^N3^N6^N4^N0^t^Sgear1^T^N1^S178823::::::::60:102::35:6:7214:40:7193:1501:5884:6646^N2^S183026::::::::60:102::6:4:7187:6652:1498:6646:1:28:753^N3^S175921::::::::60:102::14:3:6625:1492:6646:1:28:807^N4^S179559:6229:::::::60:102::14:3:7229:1498:6646:1:28:807^t^Sgear2^T^N3^S178386::::::::60:102::14:3:6623:1498:6646:1:28:807^N4^S179569::::::::60:102::14:3:7135:1498:6646:1:28:807^t^t^t^^ RAID Tradushuffle-Kazzak", -- [144]
+			"<20:24:58><Comm>	 ^1^SlootAck^T^N1^N577^N2^N228.5625^N3^T^Sresponse^T^t^Sdiff^T^N1^N0^N2^N0^N3^N-7^N4^N0^t^Sgear1^T^N1^S183005::173128::::::60:577::6:5:7187:6652:1498:6646:6935^N2^S183007::::::::60:577::6:4:7187:6652:1498:6646:1:28:753^N3^S184030::::::::60:577::85:4:7187:6652:1498:6646^N4^S179579:6228:::::::60:577::85:4:7187:6652:1531:6646:1:28:807^t^Sgear2^T^N3^S184027::::::::60:577::85:4:7187:6652:1498:6646:1:28:753^N4^S179578:6229:::::::60:577::44:4:7142:6652:1498:6646^t^t^t^^ RAID Bevv-Kazzak", -- [145]
+			"<20:24:58><Comm>	 ^1^SlootAck^T^N1^N262^N2^N229.1875^N3^T^Sresponse^T^N1^B^N2^B^N4^B^t^Sdiff^T^N1^N0^N2^N-7^N3^N-7^N4^N-7^t^Sgear1^T^N1^S175914::173127::::::60:262::44:5:6623:6652:1498:6646:6935^N2^S182991:6205:::::::60:262::85:4:7187:6652:1498:6646:1:28:753^N3^S184030::::::::60:262::85:4:7187:6652:1498:6646:1:28:753^N4^S184261:6229:::::::60:262::85:4:7187:6652:1531:6646:1:28:2060^t^Sgear2^T^N3^S184028::::::::60:262::85:4:7187:6652:1498:6646^t^t^t^^ RAID Rentaki-Kazzak", -- [146]
+			"<20:24:58><Comm>	 ^1^SlootAck^T^N1^N72^N2^N226.625^N3^T^Sresponse^T^N2^B^N4^B^t^Sdiff^T^N1^N0^N2^N0^N3^N0^N4^N6^t^Sgear1^T^N1^S183015::173128::::::60:72::6:5:7187:6652:1498:6646:6935:1:28:753^N2^S180104:6210:::::::60:72::35:5:7213:6652:1501:5884:6646^N3^S184027::::::::60:72::85:4:7187:6652:1498:6646:1:28:753^N4^S178866:6228:::::::60:72::35:5:7213:6652:1501:5884:6646^t^Sgear2^T^N3^S184016::::::::60:72::6:4:7187:6652:1498:6646^N4^S182402:6229:::::::60:72::14:3:6641:1492:6646:1:28:807^t^t^t^^ RAID Sacraa-Kazzak", -- [147]
+			"<20:24:58><Comm>	 ^1^SlootAck^T^N1^N70^N2^N226.0625^N3^T^Sresponse^T^N2^B^N4^B^t^Sdiff^T^N1^N0^N2^N0^N3^N6^N4^N0^t^Sgear1^T^N1^S183025::173128::::::60:70::6:5:7187:6652:6935:1498:6646:1:28:753^N2^S178840:6210:::::::60:70::35:5:7214:6652:1501:5884:6646^N3^S178386::::::::60:70::14:3:6625:1492:6646:1:28:807^N4^S179330:6228:::::::60:70::35:5:7213:6652:1501:5884:6646^t^Sgear2^T^N3^S175921::::::::60:70::14:3:6625:1492:6646:1:28:807^t^t^t^^ RAID Creo-Kazzak", -- [148]
+			"<20:24:58><Comm>	 ^1^SlootAck^T^N1^N63^N2^N229.1875^N3^T^Sresponse^T^N1^B^N2^B^N4^B^t^Sdiff^T^N1^N0^N2^N0^N3^N0^N4^N-7^t^Sgear1^T^N1^S183028::173128::::::60:63::6:5:7187:6652:1498:6646:6935:1:28:753^N2^S183022::::::::60:63::6:4:7187:6652:1498:6646:1:28:753^N3^S184028::::::::60:63::85:4:7187:6652:1498:6646^N4^S180002:6228:::::::60:63::85:4:7187:6652:1531:6646:1:28:807^t^Sgear2^T^N3^S175921::::::::60:63::14:3:6623:1498:6646:1:28:807^t^t^t^^ RAID Skonheden-Kazzak", -- [149]
+			"<20:24:58><Comm>	 ^1^SlootAck^T^N1^N254^N2^N227.9375^N3^T^Sresponse^T^N1^B^N2^B^N4^B^t^Sdiff^T^N1^N13^N2^N0^N3^N0^N4^N-7^t^Sgear1^T^N1^S183016::173127::::::60:254::5:5:7188:6652:6935:1485:6646:1:28:752^N2^S179325::::::::60:254::35:5:7214:6652:1501:5884:6646^N3^S180116::::::::60:254::35:5:7213:6652:1501:5884:6646^N4^S180071:6228:::::::60:254::85:4:7187:6652:1531:6646:1:28:807^t^Sgear2^T^N3^S184027::::::::60:254::85:4:7187:42:1498:6646:1:28:753^t^t^t^^ RAID Ceases-Kazzak", -- [150]
+			"<20:24:58><Comm>	 ^1^SlootAck^T^N1^N105^N2^N227.875^N3^T^Sresponse^T^N1^B^N4^B^t^Sdiff^T^N1^N0^N2^N0^N3^N0^N4^N-7^t^Sgear1^T^N1^S183005::173128::::::60:105::6:5:7187:41:1498:6646:6935^N2^S183007:6205:::::::60:105::6:4:7187:6652:1498:6646^N3^S178708::::::::60:105::35:6:7214:6652:1501:5884:6646:6917^N4^S180002:6229:::::::60:105::85:4:7187:6652:1531:6646:1:28:807^t^Sgear2^T^N3^S178386::::::::60:105::14:3:6623:1498:6646:1:28:807^t^t^t^^ RAID Arookie-Kazzak", -- [151]
+			"<20:24:58><Comm>	 ^1^SlootAck^T^N1^N259^N2^N225.625^N3^T^Sresponse^T^N1^B^N4^B^t^Sdiff^T^N1^N0^N2^N1^N3^N0^N4^N0^t^Sgear1^T^N1^S182995::173128::::::60:259::6:5:7187:43:1498:6646:6935:1:28:753^N2^S172316::::::::60:259::63:5:7116:6650:6649:6718:1522^N3^S184026::::::::60:259::6:4:7187:6652:1498:6646:1:28:753^t^Sgear2^T^N3^S184030::::::::60:259::85:4:7187:6652:1498:6646^t^t^t^^ RAID Kessrogue-Kazzak", -- [152]
+			"<20:24:58><Comm>	 ^1^SlootAck^T^N1^N63^N2^N228.3125^N3^T^Sresponse^T^N1^B^N2^B^N4^B^t^Sdiff^T^N1^N0^N2^N0^N3^N0^N4^N-7^t^Sgear1^T^N1^S183004::173128::::::60:63::6:5:7187:6652:1498:6646:6935:1:28:753^N2^S183022::::::::60:63::6:4:7187:40:1498:6646:1:28:753^N3^S175921::::::::60:63::14:3:6623:1498:6646:1:28:807^N4^S180002:6228:::::::60:63::85:4:7187:6652:1531:6646:1:28:807^t^Sgear2^T^N3^S178708::::::::60:63::35:6:7214:6652:1501:5884:6646:6917^t^t^t^^ RAID Frawztie-Kazzak", -- [153]
+			"<20:25:00><Comm>	 ^1^Sresponse^T^N1^N1^N2^T^Sresponse^SPASS^t^t^^ RAID Unholydeathh-Kazzak", -- [154]
+			"<20:25:00><Comm>	 ^1^Sresponse^T^N1^N2^N2^T^Sresponse^SPASS^t^t^^ RAID Macuc-Kazzak", -- [155]
+			"<20:25:00><Comm>	 ^1^Sresponse^T^N1^N3^N2^T^Sresponse^SPASS^t^t^^ RAID Unholydeathh-Kazzak", -- [156]
+			"<20:25:00><Comm>	 ^1^Sresponse^T^N1^N2^N2^T^Sresponse^SPASS^t^t^^ RAID Nited-Kazzak", -- [157]
+			"<20:25:01><Comm>	 ^1^Sresponse^T^N1^N3^N2^T^Sresponse^SPASS^t^t^^ RAID Macuc-Kazzak", -- [158]
+			"<20:25:01><Comm>	 ^1^Sresponse^T^N1^N3^N2^T^Sresponse^SPASS^t^t^^ RAID Nited-Kazzak", -- [159]
+			"<20:25:01><Comm>	 ^1^Sresponse^T^N1^N4^N2^T^Sresponse^SPASS^t^t^^ RAID Kvaernp-Kazzak", -- [160]
+			"<20:25:01><Comm>	 ^1^Sresponse^T^N1^N3^N2^T^Sresponse^SPASS^t^t^^ RAID Skonheden-Kazzak", -- [161]
+			"<20:25:01><Comm>	 ^1^Sresponse^T^N1^N3^N2^T^Sresponse^SPASS^t^t^^ RAID Ceases-Kazzak", -- [162]
+			"<20:25:02><Comm>	 ^1^Sresponse^T^N1^N4^N2^T^Sresponse^SPASS^t^t^^ RAID Tradushuffle-Kazzak", -- [163]
+			"<20:25:02><Comm>	 ^1^Sresponse^T^N1^N2^N2^T^Sresponse^SPASS^t^t^^ RAID Kessrogue-Kazzak", -- [164]
+			"<20:25:03><Comm>	 ^1^Sresponse^T^N1^N3^N2^T^Sresponse^SPASS^t^t^^ RAID Kessrogue-Kazzak", -- [165]
+			"<20:25:03><Comm>	 ^1^Sresponse^T^N1^N2^N2^T^Sresponse^N2^t^t^^ RAID Misêry-Kazzak", -- [166]
+			"<20:25:03><Comm>	 ^1^Sresponse^T^N1^N4^N2^T^Sresponse^N4^t^t^^ RAID Unholydeathh-Kazzak", -- [167]
+			"<20:25:04><Comm>	 ^1^Sresponse^T^N1^N1^N2^T^Sresponse^SPASS^t^t^^ RAID Sacraa-Kazzak", -- [168]
+			"<20:25:04><Comm>	 ^1^Sresponse^T^N1^N3^N2^T^Sresponse^SPASS^t^t^^ RAID Sacraa-Kazzak", -- [169]
+			"<20:25:04><Comm>	 ^1^Sresponse^T^N1^N3^N2^T^Sresponse^N4^t^t^^ RAID Tradushuffle-Kazzak", -- [170]
+			"<20:25:04><Comm>	 ^1^Sresponse^T^N1^N3^N2^T^Sresponse^SPASS^t^t^^ RAID Neveh-Kazzak", -- [171]
+			"<20:25:05><Comm>	 ^1^Sresponse^T^N1^N4^N2^T^Sresponse^SPASS^t^t^^ RAID Neveh-Kazzak", -- [172]
+			"<20:25:05><Comm>	 ^1^Sresponse^T^N1^N3^N2^T^Sresponse^N4^t^t^^ RAID Misêry-Kazzak", -- [173]
+			"<20:25:06><Comm>	 ^1^Sresponse^T^N1^N1^N2^T^Sresponse^SPASS^t^t^^ RAID Kvaernp-Kazzak", -- [174]
+			"<20:25:07><Comm>	 ^1^Sresponse^T^N1^N1^N2^T^Sresponse^SPASS^t^t^^ RAID Tradushuffle-Kazzak", -- [175]
+			"<20:25:07><Comm>	 ^1^Sresponse^T^N1^N3^N2^T^Sresponse^SPASS^t^t^^ RAID Vapee-Kazzak", -- [176]
+			"<20:25:08><Comm>	 ^1^Sresponse^T^N1^N2^N2^T^Sresponse^SPASS^t^t^^ RAID Kvaernp-Kazzak", -- [177]
+			"<20:25:09><Comm>	 ^1^Sresponse^T^N1^N3^N2^T^Sresponse^SPASS^t^t^^ RAID Kvaernp-Kazzak", -- [178]
+			"<20:25:09><Comm>	 ^1^Sresponse^T^N1^N3^N2^T^Snote^Sm+~`/~`spot~`heal~`trinket^Sresponse^N2^t^t^^ RAID Seksixeny-Kazzak", -- [179]
+			"<20:25:09><Comm>	 ^1^Sresponse^T^N1^N3^N2^T^Sresponse^SPASS^t^t^^ RAID Riworra-Kazzak", -- [180]
+			"<20:25:10><Comm>	 ^1^Sresponse^T^N1^N1^N2^T^Sresponse^SPASS^t^t^^ RAID Creo-Kazzak", -- [181]
+			"<20:25:10><Comm>	 ^1^Sresponse^T^N1^N3^N2^T^Sresponse^SPASS^t^t^^ RAID Creo-Kazzak", -- [182]
+			"<20:25:11><Comm>	 ^1^Soffline_timer^T^t^^ RAID Tankzorx-Kazzak", -- [183]
+			"<20:25:11><Comm>	 ^1^Sresponse^T^N1^N3^N2^T^Snote^SM+^Sresponse^N2^t^t^^ RAID Arookie-Kazzak", -- [184]
+			"<20:25:13><Comm>	 ^1^Sresponse^T^N1^N1^N2^T^Sresponse^SPASS^t^t^^ RAID Riworra-Kazzak", -- [185]
+			"<20:25:14><Comm>	 ^1^Sresponse^T^N1^N3^N2^T^Sresponse^SPASS^t^t^^ RAID Frawztie-Kazzak", -- [186]
+			"<20:25:16><Comm>	 ^1^Sresponse^T^N1^N2^N2^T^Sresponse^SPASS^t^t^^ RAID Arookie-Kazzak", -- [187]
+			"<20:25:19><Comm>	 ^1^Sresponse^T^N1^N1^N2^T^Sresponse^SPASS^t^t^^ RAID Tankzorx-Kazzak", -- [188]
+			"<20:25:19><Comm>	 ^1^Sresponse^T^N1^N4^N2^T^Snote^SFROST~`^Sresponse^N1^t^t^^ RAID Tokzik-Kazzak", -- [189]
+			"<20:25:19><Comm>	 ^1^Sresponse^T^N1^N3^N2^T^Sresponse^SPASS^t^t^^ RAID Tankzorx-Kazzak", -- [190]
+			"<20:25:20><Comm>	 ^1^Sresponse^T^N1^N1^N2^T^Sresponse^SPASS^t^t^^ RAID Tokzik-Kazzak", -- [191]
+			"<20:25:21><Comm>	 ^1^Sresponse^T^N1^N3^N2^T^Sresponse^SPASS^t^t^^ RAID Tokzik-Kazzak", -- [192]
+			"<20:25:22><Comm>	 ^1^Sresponse^T^N1^N4^N2^T^Sresponse^N5^t^t^^ RAID Bevv-Kazzak", -- [193]
+			"<20:25:23><Comm>	 ^1^Sresponse^T^N1^N3^N2^T^Sresponse^SPASS^t^t^^ RAID Memescoper-Kazzak", -- [194]
+			"<20:25:23><DEBUG>	 LootFrame:Response PASS Response: Pass", -- [195]
+			"<20:25:23><DEBUG>	 SendResponse group 3 PASS nil nil nil nil nil nil nil nil nil nil", -- [196]
+			"<20:25:23><DEBUG>	 Trashing entry: 1 |cffa335ee|Hitem:184020::::::::60:262::6:4:7187:6652:1498:6646:1:28:753:::|h[Tuft of Smoldering Plumage]|h|r", -- [197]
+			"<20:25:23><Comm>	 ^1^Sresponse^T^N1^N3^N2^T^Sresponse^SPASS^t^t^^ RAID Rentaki-Kazzak", -- [198]
+			"<20:25:25><Comm>	 ^1^Sresponse^T^N1^N3^N2^T^Sresponse^SPASS^t^t^^ RAID Bevv-Kazzak", -- [199]
+			"<20:25:25><Comm>	 ^1^Sresponse^T^N1^N2^N2^T^Sresponse^SPASS^t^t^^ RAID Bevv-Kazzak", -- [200]
+			"<20:25:26><Comm>	 ^1^Sresponse^T^N1^N1^N2^T^Sresponse^SPASS^t^t^^ RAID Bevv-Kazzak", -- [201]
+			"<20:25:26><Comm>	 ^1^Sresponse^T^N1^N2^N2^T^Snote^b^Sresponse^SPASS^t^t^^ RAID Tradushuffle-Kazzak", -- [202]
+			"<20:25:39><Comm>	 ^1^Shistory^T^N1^SMisêry-Kazzak^N2^T^SmapID^N2296^Scolor^T^N1^N0.54^N2^N1^N3^N0.12^N4^N1^t^Sclass^SMONK^SgroupSize^N20^Sboss^SSun~`King's~`Salvation^Stime^S20:25:40^SitemReplaced1^S|cffff8000|Hitem:172316::::::::60:65::63:5:7077:6647:6650:6758:1532::::|h[Stormstout's~`Last~`Keg]|h|r^Sinstance^SCastle~`Nathria-Mythic^Sowner^SMisêry-Kazzak^Sresponse^SNeed~`not~`BIS^StypeCode^Sdefault^SdifficultyID^N16^SlootWon^S|cffa335ee|Hitem:183007::::::::60:65::6:4:7187:6652:1498:6646:1:28:753:::|h[Bleakwing~`Assassin's~`Grips]|h|r^Sid^S1615400740-21^Sdate^S10/03/21^SresponseID^N2^Svotes^N0^SisAwardReason^b^t^t^^ RAID Tankzorx-Kazzak", -- [203]
+			"<20:25:39><Comm>	 ^1^Sawarded^T^N1^N2^N2^SMisêry-Kazzak^N3^SMisêry-Kazzak^t^^ RAID Tankzorx-Kazzak", -- [204]
+			"<20:25:52><Comm>	 ^1^Shistory^T^N1^SArookie-Kazzak^N2^T^SmapID^N2296^Sdate^S10/03/21^Sclass^SDRUID^SgroupSize^N20^Sboss^SSun~`King's~`Salvation^Stime^S20:25:53^SitemReplaced1^S|cffa335ee|Hitem:178708::::::::60:65::35:6:7214:6652:1501:5884:6646:6917::::|h[Unbound~`Changeling]|h|r^StypeCode^Sdefault^Sinstance^SCastle~`Nathria-Mythic^Sowner^SArookie-Kazzak^Sid^S1615400753-22^Sresponse^SNeed~`not~`BIS^Snote^SM+^SdifficultyID^N16^SlootWon^S|cffa335ee|Hitem:184020::::::::60:65::6:4:7187:6652:1498:6646:1:28:753:::|h[Tuft~`of~`Smoldering~`Plumage]|h|r^SisAwardReason^b^Scolor^T^N1^N0.54^N2^N1^N3^N0.12^N4^N1^t^SresponseID^N2^SitemReplaced2^S|cffa335ee|Hitem:178386::::::::60:65::14:3:6623:1498:6646:1:28:807:::|h[Sinful~`Gladiator's~`Insignia~`of~`Alacrity]|h|r^Svotes^N0^t^t^^ RAID Tankzorx-Kazzak", -- [205]
+			"<20:25:52><Comm>	 ^1^Sawarded^T^N1^N3^N2^SArookie-Kazzak^N3^SArookie-Kazzak^t^^ RAID Tankzorx-Kazzak", -- [206]
+			"<20:25:53><Comm>	 ^1^Sresponse^T^N1^N3^N2^T^Sresponse^SPASS^t^t^^ RAID Sanshot-Kazzak", -- [207]
+			"<20:25:57><Comm>	 ^1^Shistory^T^N1^STankzorx-Kazzak^N2^T^SmapID^N2296^Scolor^T^N1^N0.7^N2^N0.7^N3^N0.7^N4^N1^t^Sclass^SPALADIN^SgroupSize^N20^Sboss^SSun~`King's~`Salvation^Stime^S20:25:58^SitemReplaced1^S|cffa335ee|Hitem:175912::173128::::::60:65::44:5:6623:41:1498:6646:6935::::|h[Sinful~`Gladiator's~`Plate~`Girdle]|h|r^Sinstance^SCastle~`Nathria-Mythic^Sowner^STankzorx-Kazzak^Sresponse^SPass^StypeCode^Sdefault^SdifficultyID^N16^SlootWon^S|cffa335ee|Hitem:183025::::::::60:65::6:5:7187:6652:7194:1498:6646:1:28:753:::|h[Stoic~`Guardsman's~`Belt]|h|r^Sid^S1615400758-23^Sdate^S10/03/21^SresponseID^SPASS^Svotes^N0^SisAwardReason^b^t^t^^ RAID Tankzorx-Kazzak", -- [208]
+			"<20:25:57><Comm>	 ^1^Sawarded^T^N1^N1^N2^STankzorx-Kazzak^N3^STankzorx-Kazzak^t^^ RAID Tankzorx-Kazzak", -- [209]
+			"<20:25:58><Comm>	 ^1^Sresponse^T^N1^N3^N2^T^Sresponse^STIMEOUT^t^t^^ RAID Adrenalynz-Kazzak", -- [210]
+			"<20:26:08><Comm>	 ^1^Shistory^T^N1^STokzik-Kazzak^N2^T^SmapID^N2296^Sdate^S10/03/21^Sclass^SDEATHKNIGHT^SgroupSize^N20^Svotes^N0^Stime^S20:26:10^SitemReplaced1^S|cffa335ee|Hitem:184251:3368:::::::60:65::6:4:7187:6652:1524:6646:1:28:2060:::|h[Ossified~`Broadaxe]|h|r^Sinstance^SCastle~`Nathria-Mythic^Sowner^STokzik-Kazzak^StypeCode^Sdefault^Sresponse^SNeed~`BIS^Sid^S1615400770-24^SdifficultyID^N16^SlootWon^S|cffa335ee|Hitem:183893::::::::60:65::6:3:7187:1498:6646:1:28:753:::|h[Abominable~`Anima~`Spherule]|h|r^Snote^SFROST~`^SisAwardReason^b^SresponseID^N1^Sboss^SSun~`King's~`Salvation^Scolor^T^N1^N0^N2^N1^N3^N0^N4^N1^t^t^t^^ RAID Tankzorx-Kazzak", -- [211]
+			"<20:26:08><Comm>	 ^1^Sawarded^T^N1^N4^N2^STokzik-Kazzak^N3^STokzik-Kazzak^t^^ RAID Tankzorx-Kazzak", -- [212]
+			"<20:26:09><Comm>	 ^1^Ssession_end^T^t^^ RAID Tankzorx-Kazzak", -- [213]
+			"<20:27:01><Comm>	 ^1^Sl^T^N1^S174842^t^^ RAID Tokzik-Kazzak", -- [214]
+			"<20:27:09><Comm>	 ^1^Sl^T^N1^S165470^t^^ RAID Creo-Kazzak", -- [215]
+			"<20:27:09><Comm>	 ^1^Sl^T^N1^S165470^t^^ RAID Creo-Kazzak", -- [216]
+			"<20:27:12><Comm>	 ^1^Sl^T^N1^S174842^t^^ RAID Riworra-Kazzak", -- [217]
+			"<20:27:12><Comm>	 ^1^Sl^T^N1^S174843^t^^ RAID Ceases-Kazzak", -- [218]
+			"<20:27:12><Comm>	 ^1^Sl^T^N1^S165471^t^^ RAID Tradushuffle-Kazzak", -- [219]
+			"<20:27:12><Comm>	 ^1^Sl^T^N1^S165471^t^^ RAID Tradushuffle-Kazzak", -- [220]
+			"<20:27:18><DEBUG>	 Event: LOOT_READY true", -- [221]
+			"<20:27:18><DEBUG>	 Adding to self.lootSlotInfo 1 nil 1 0 Creature-0-4253-2296-4475-174842-0000C906D8 40083 Creature-0-4253-2296-4475-165470-0000C906D8 63008 Creature-0-4253-2296-4475-165481-00004906D8 64917 Creature-0-4253-2296-4475-174842-00024906D8 39826", -- [222]
+			"<20:27:18><DEBUG>	 OnLootSlotCleared() 1 nil 1", -- [223]
+			"<20:27:18><DEBUG>	 Event: LOOT_CLOSED", -- [224]
+			"<20:27:18><DEBUG>	 Event: LOOT_CLOSED", -- [225]
+			"<20:27:18><Comm>	 ^1^Sl^T^N1^S165472^t^^ RAID Seksixeny-Kazzak", -- [226]
+			"<20:27:18><Comm>	 ^1^Sl^T^N1^S165472^t^^ RAID Seksixeny-Kazzak", -- [227]
+			"<20:27:18><Comm>	 ^1^Sl^T^N1^S174842^t^^ RAID Rentaki-Kazzak", -- [228]
+			"<20:27:18><Comm>	 ^1^Sl^T^N1^S174842^t^^ RAID Rentaki-Kazzak", -- [229]
+			"<20:27:20><Comm>	 ^1^Sl^T^N1^S174842^t^^ RAID Skonheden-Kazzak", -- [230]
+			"<20:27:20><Comm>	 ^1^Sl^T^N1^S174842^t^^ RAID Skonheden-Kazzak", -- [231]
+			"<20:27:21><Comm>	 ^1^Sl^T^N1^S174843^t^^ RAID Bevv-Kazzak", -- [232]
+			"<20:27:21><Comm>	 ^1^Sl^T^N1^S174843^t^^ RAID Bevv-Kazzak", -- [233]
+			"<20:27:22><Comm>	 ^1^Sl^T^N1^S165481^t^^ RAID Nited-Kazzak", -- [234]
+			"<20:27:22><Comm>	 ^1^Sl^T^N1^S174842^t^^ RAID Memescoper-Kazzak", -- [235]
+			"<20:27:22><Comm>	 ^1^Sl^T^N1^S174842^t^^ RAID Memescoper-Kazzak", -- [236]
+			"<20:27:22><DEBUG>	 Event: ENCOUNTER_LOOT_RECEIVED 0 182990 |cffa335ee|Hitem:182990::::::::60:262::6:4:7187:6652:1498:6646:1:28:753:::|h[Legionnaire's Bloodstained Sabatons]|h|r 1 Memescoper HUNTER", -- [237]
+			"<20:27:23><Comm>	 ^1^Sl^T^N1^S165470^t^^ RAID Misêry-Kazzak", -- [238]
+			"<20:27:23><Comm>	 ^1^Sl^T^N1^S165470^t^^ RAID Misêry-Kazzak", -- [239]
+			"<20:27:25><Comm>	 ^1^Stradable^T^N1^S|cffa335ee|Hitem:182990::::::::60:254::6:4:7187:6652:1498:6646:1:28:753:::|h[Legionnaire's~`Bloodstained~`Sabatons]|h|r^N2^S174842^t^^ RAID Memescoper-Kazzak", -- [240]
+			"<20:27:25><Comm>	 ^1^Sl^T^N1^S165471^t^^ RAID Sacraa-Kazzak", -- [241]
+			"<20:27:25><Comm>	 ^1^Sl^T^N1^S165471^t^^ RAID Sacraa-Kazzak", -- [242]
+			"<20:27:26><Comm>	 ^1^Sl^T^N1^S165471^t^^ RAID Arookie-Kazzak", -- [243]
+			"<20:27:26><Comm>	 ^1^Sl^T^N1^S165471^t^^ RAID Arookie-Kazzak", -- [244]
+			"<20:27:27><Comm>	 ^1^Sl^T^N1^S174842^t^^ RAID Kvaernp-Kazzak", -- [245]
+			"<20:27:27><Comm>	 ^1^Sl^T^N1^S174842^t^^ RAID Kvaernp-Kazzak", -- [246]
+			"<20:27:27><Comm>	 ^1^Sl^T^N1^S165481^t^^ RAID Tankzorx-Kazzak", -- [247]
+			"<20:27:27><Comm>	 ^1^Sl^T^N1^S165481^t^^ RAID Tankzorx-Kazzak", -- [248]
+			"<20:27:36><DEBUG>	 Event: ENCOUNTER_START 2412 The Council of Blood 16 20", -- [249]
+			"<20:27:36><INFO>	 UpdatePlayersData()", -- [250]
+			"<20:27:43><Comm>	 ^1^Sl^T^N1^S165479^t^^ RAID Unholydeathh-Kazzak", -- [251]
+			"<20:27:43><Comm>	 ^1^Sl^T^N1^S165479^t^^ RAID Unholydeathh-Kazzak", -- [252]
+			"<20:27:48><DEBUG>	 Event: ENCOUNTER_END 2412 The Council of Blood 16 20 0", -- [253]
+			"<20:28:27><DEBUG>	 Event: PLAYER_ENTERING_WORLD false false", -- [254]
+			"<20:28:29><DEBUG>	 GetML()", -- [255]
+			"<20:35:14><Comm>	 ^1^Sv^T^N1^S3.1.4^t^^ GUILD Magearñ-Kazzak", -- [256]
+			"<20:35:14><Comm>	 ^1^Sr^T^N1^S3.1.3^N3^T^t^t^^ GUILD Kessrogue-Kazzak", -- [257]
+			"<20:39:28><Comm>	 ^1^Sl^T^N1^S166969^t^^ RAID Creo-Kazzak", -- [258]
+			"<20:39:28><Comm>	 ^1^Sl^T^N1^S166969^t^^ RAID Creo-Kazzak", -- [259]
+			"<20:39:29><Comm>	 ^1^Sl^T^N1^S166969^t^^ RAID Skonheden-Kazzak", -- [260]
+			"<20:39:29><Comm>	 ^1^Sl^T^N1^S166969^t^^ RAID Skonheden-Kazzak", -- [261]
+			"<20:39:30><Comm>	 ^1^Sl^T^N1^S166969^t^^ RAID Riworra-Kazzak", -- [262]
+			"<20:39:30><Comm>	 ^1^Sl^T^N1^S166969^t^^ RAID Riworra-Kazzak", -- [263]
+			"<20:39:30><Comm>	 ^1^Sl^T^N1^S166969^t^^ RAID Ceases-Kazzak", -- [264]
+			"<20:39:30><Comm>	 ^1^Sl^T^N1^S166969^t^^ RAID Kessrogue-Kazzak", -- [265]
+			"<20:39:30><Comm>	 ^1^Sl^T^N1^S166969^t^^ RAID Kessrogue-Kazzak", -- [266]
+			"<20:39:31><Comm>	 ^1^Sl^T^N1^S166969^t^^ RAID Nited-Kazzak", -- [267]
+			"<20:39:31><Comm>	 ^1^Sl^T^N1^S166969^t^^ RAID Nited-Kazzak", -- [268]
+			"<20:39:31><Comm>	 ^1^Stradable^T^N1^S|cffa335ee|Hitem:184024::::::::60:70::6:4:7187:6652:1498:6646:1:28:753:::|h[Macabre~`Sheet~`Music]|h|r^N2^S166969^t^^ RAID Creo-Kazzak", -- [269]
+			"<20:39:33><Comm>	 ^1^Stradable^T^N1^S|cffa335ee|Hitem:184024::::::::60:72::6:4:7187:6652:1498:6646:1:28:753:::|h[Macabre~`Sheet~`Music]|h|r^N2^S166969^t^^ RAID Riworra-Kazzak", -- [270]
+			"<20:39:33><Comm>	 ^1^Sl^T^N1^S166969^t^^ RAID Tokzik-Kazzak", -- [271]
+			"<20:39:33><Comm>	 ^1^Sl^T^N1^S166969^t^^ RAID Tokzik-Kazzak", -- [272]
+			"<20:39:33><Comm>	 ^1^Sl^T^N1^S166969^t^^ RAID Vapee-Kazzak", -- [273]
+			"<20:39:33><Comm>	 ^1^Sl^T^N1^S166969^t^^ RAID Vapee-Kazzak", -- [274]
+			"<20:39:33><Comm>	 ^1^Sl^T^N1^S166969^t^^ RAID Sanshot-Kazzak", -- [275]
+			"<20:39:33><Comm>	 ^1^Sl^T^N1^S166969^t^^ RAID Sanshot-Kazzak", -- [276]
+			"<20:39:33><Comm>	 ^1^Sl^T^N1^S166969^t^^ RAID Seksixeny-Kazzak", -- [277]
+			"<20:39:33><Comm>	 ^1^Sl^T^N1^S166969^t^^ RAID Seksixeny-Kazzak", -- [278]
+			"<20:39:34><Comm>	 ^1^Sl^T^N1^S166969^t^^ RAID Macuc-Kazzak", -- [279]
+			"<20:39:34><Comm>	 ^1^Sl^T^N1^S166969^t^^ RAID Macuc-Kazzak", -- [280]
+			"<20:39:35><Comm>	 ^1^Sl^T^N1^S166969^t^^ RAID Adrenalynz-Kazzak", -- [281]
+			"<20:39:35><Comm>	 ^1^Sl^T^N1^S166969^t^^ RAID Adrenalynz-Kazzak", -- [282]
+			"<20:39:36><Comm>	 ^1^Sl^T^N1^S166969^t^^ RAID Sacraa-Kazzak", -- [283]
+			"<20:39:36><Comm>	 ^1^Sl^T^N1^S166969^t^^ RAID Sacraa-Kazzak", -- [284]
+			"<20:39:36><Comm>	 ^1^Sl^T^N1^S166969^t^^ RAID Neveh-Kazzak", -- [285]
+			"<20:39:36><Comm>	 ^1^Sl^T^N1^S166969^t^^ RAID Neveh-Kazzak", -- [286]
+			"<20:39:37><Comm>	 ^1^Stradable^T^N1^S|cffa335ee|Hitem:183039::::::::60:254::6:5:7187:6652:7193:1498:6646:1:28:753:::|h[Noble's~`Birthstone~`Pendant]|h|r^N2^S166969^t^^ RAID Adrenalynz-Kazzak", -- [287]
+			"<20:39:46><Comm>	 ^1^Sl^T^N1^S166969^t^^ RAID Bevv-Kazzak", -- [288]
+			"<20:39:46><Comm>	 ^1^Sl^T^N1^S166969^t^^ RAID Bevv-Kazzak", -- [289]
+			"<20:39:47><Comm>	 ^1^Sl^T^N1^S166969^t^^ RAID Kvaernp-Kazzak", -- [290]
+			"<20:39:47><Comm>	 ^1^Sl^T^N1^S166969^t^^ RAID Kvaernp-Kazzak", -- [291]
+			"<20:39:49><Comm>	 ^1^Sl^T^N1^S166969^t^^ RAID Misêry-Kazzak", -- [292]
+			"<20:39:49><Comm>	 ^1^Sl^T^N1^S166969^t^^ RAID Misêry-Kazzak", -- [293]
+			"<20:39:50><Comm>	 ^1^Stradable^T^N1^S|cffa335ee|Hitem:182983::::::::60:65::6:4:7187:6652:1498:6646:1:28:753:::|h[Stoneguard~`Attendant's~`Boots]|h|r^N2^S166969^t^^ RAID Kvaernp-Kazzak", -- [294]
+			"<20:39:50><Comm>	 ^1^Sl^T^N1^S166969^t^^ RAID Tankzorx-Kazzak", -- [295]
+			"<20:39:50><Comm>	 ^1^Sl^T^N1^S166969^t^^ RAID Tankzorx-Kazzak", -- [296]
+			"<20:40:18><Comm>	 ^1^SlootTable^T^N1^T^N1^T^Sstring^S182983:::::::::::6:4:7187:6652:1498:6646:1:28:753^StypeCode^Sdefault^Sowner^SKvaernp-Kazzak^Sboss^SThe~`Council~`of~`Blood^t^N2^T^Sstring^S183039:::::::::::6:5:7187:6652:7193:1498:6646:1:28:753^StypeCode^Sdefault^Sowner^SAdrenalynz-Kazzak^Sboss^SThe~`Council~`of~`Blood^t^N3^T^Sstring^S184024:::::::::::6:4:7187:6652:1498:6646:1:28:753^StypeCode^Sdefault^Sowner^SCreo-Kazzak^Sboss^SThe~`Council~`of~`Blood^t^N4^T^Sstring^S184024:::::::::::6:4:7187:6652:1498:6646:1:28:753^StypeCode^Sdefault^Sowner^SRiworra-Kazzak^Sboss^SThe~`Council~`of~`Blood^t^t^t^^ RAID Tankzorx-Kazzak", -- [297]
+			"<20:40:18><INFO>	 Autopassed on:  |cffa335ee|Hitem:182983::::::::60:262::6:4:7187:6652:1498:6646:1:28:753:::|h[Stoneguard Attendant's Boots]|h|r", -- [298]
+			"<20:40:18><INFO>	 GetPlayersGear |cffa335ee|Hitem:182983::::::::60:262::6:4:7187:6652:1498:6646:1:28:753:::|h[Stoneguard Attendant's Boots]|h|r INVTYPE_FEET", -- [299]
+			"<20:40:18><INFO>	 GetPlayersGear |cffa335ee|Hitem:183039::::::::60:262::6:5:7187:6652:7193:1498:6646:1:28:753:::|h[Noble's Birthstone Pendant]|h|r INVTYPE_NECK", -- [300]
+			"<20:40:18><INFO>	 GetPlayersGear |cffa335ee|Hitem:184024::::::::60:262::6:4:7187:6652:1498:6646:1:28:753:::|h[Macabre Sheet Music]|h|r INVTYPE_TRINKET", -- [301]
+			"<20:40:18><INFO>	 GetPlayersGear |cffa335ee|Hitem:184024::::::::60:262::6:4:7187:6652:1498:6646:1:28:753:::|h[Macabre Sheet Music]|h|r INVTYPE_TRINKET", -- [302]
+			"<20:40:18><INFO>	 LootFrame:Start 4 nil", -- [303]
+			"<20:40:18><DEBUG>	 LootFrame: |cffa335ee|Hitem:184024::::::::60:262::6:4:7187:6652:1498:6646:1:28:753:::|h[Macabre Sheet Music]|h|r is a dublicate of |cffa335ee|Hitem:184024::::::::60:262::6:4:7187:6652:1498:6646:1:28:753:::|h[Macabre Sheet Music]|h|r", -- [304]
+			"<20:40:18><DEBUG>	 Restoring entry: default 1", -- [305]
+			"<20:40:18><DEBUG>	 GetButtons default", -- [306]
+			"<20:40:18><DEBUG>	 Restoring entry: default 1", -- [307]
+			"<20:40:18><DEBUG>	 GetButtons default", -- [308]
+			"<20:40:18><Comm>	 ^1^SlootAck^T^N1^N70^N2^N226.0625^N3^T^Sresponse^T^t^Sdiff^T^N1^N0^N2^N0^N3^N6^N4^N6^t^Sgear1^T^N1^S183027::::::::60:70::6:4:7187:6652:1498:6646^N2^S178827::173128::::::60:70::35:6:7214:6652:1501:5884:6646:6935^N3^S178386::::::::60:70::14:3:6625:1492:6646:1:28:807^N4^S178386::::::::60:70::14:3:6625:1492:6646:1:28:807^t^Sgear2^T^N3^S175921::::::::60:70::14:3:6625:1492:6646:1:28:807^N4^S175921::::::::60:70::14:3:6625:1492:6646:1:28:807^t^t^t^^ RAID Creo-Kazzak", -- [309]
+			"<20:40:18><Comm>	 ^1^SlootAck^T^N1^N102^N2^N225.9375^N3^T^Sresponse^T^N1^B^t^Sdiff^T^N1^N-9^N2^N0^N3^N32^N4^N32^t^Sgear1^T^N1^S172315::::::::60:102::65:5:7107:6649:6648:6758:1532^N2^S183039::173130::::::60:102::6:5:7187:6652:1498:6646:6935:1:28:753^N3^S184842::::::::60:102::27:4:6652:1472:5891:6646^N4^S184842::::::::60:102::27:4:6652:1472:5891:6646^t^Sgear2^T^N3^S178386::::::::60:102::14:3:6625:1492:6646:1:28:807^N4^S178386::::::::60:102::14:3:6625:1492:6646:1:28:807^t^t^t^^ RAID Nited-Kazzak", -- [310]
+			"<20:40:18><Comm>	 ^1^SlootAck^T^N1^N72^N2^N226.625^N3^T^Sresponse^T^t^Sdiff^T^N1^N0^N2^N0^N3^N0^N4^N0^t^Sgear1^T^N1^S183027::::::::60:72::6:4:7187:6652:1498:6646:1:28:753^N2^S183040::173128::::::60:72::6:5:7187:6652:1498:6646:6935:1:28:753^N3^S184027::::::::60:72::85:4:7187:6652:1498:6646:1:28:753^N4^S184027::::::::60:72::85:4:7187:6652:1498:6646:1:28:753^t^Sgear2^T^N3^S184016::::::::60:72::6:4:7187:6652:1498:6646^N4^S184016::::::::60:72::6:4:7187:6652:1498:6646^t^t^t^^ RAID Sacraa-Kazzak", -- [311]
+			"<20:40:18><Comm>	 ^1^SlootAck^T^N1^N105^N2^N227.875^N3^T^Sresponse^T^N1^B^t^Sdiff^T^N1^N0^N2^N0^N3^N0^N4^N0^t^Sgear1^T^N1^S178361::::::::60:105::14:3:6623:1498:6646:1:28:807^N2^S183040::::::::60:105::6:5:7187:6652:7194:1498:6646:1:28:753^N3^S178708::::::::60:105::35:6:7214:6652:1501:5884:6646:6917^N4^S178708::::::::60:105::35:6:7214:6652:1501:5884:6646:6917^t^Sgear2^T^N3^S178386::::::::60:105::14:3:6623:1498:6646:1:28:807^N4^S178386::::::::60:105::14:3:6623:1498:6646:1:28:807^t^t^t^^ RAID Arookie-Kazzak", -- [312]
+			"<20:40:18><Comm>	 ^1^SlootAck^T^N1^N262^N2^N229.1875^N3^T^Sresponse^T^N1^B^t^Sdiff^T^N1^N0^N2^N0^N3^N-7^N4^N-7^t^Sgear1^T^N1^S182990:6207:::::::60:262::6:4:7187:6652:1498:6646:1:28:753^N2^S175922::173128::::::60:262::14:4:6621:1498:6646:6935:1:28:807^N3^S184030::::::::60:262::85:4:7187:6652:1498:6646:1:28:753^N4^S184030::::::::60:262::85:4:7187:6652:1498:6646:1:28:753^t^Sgear2^T^N3^S184028::::::::60:262::85:4:7187:6652:1498:6646^N4^S184028::::::::60:262::85:4:7187:6652:1498:6646^t^t^t^^ RAID Rentaki-Kazzak", -- [313]
+			"<20:40:18><Comm>	 ^1^SlootAck^T^N1^N256^N2^N227.875^N3^T^Sresponse^T^N1^B^t^Sdiff^T^N1^N0^N2^N0^N3^N0^N4^N0^t^Sgear1^T^N1^S182979::::::::60:256::6:4:7187:42:1498:6646^N2^S183040::::::::60:256::6:5:7187:6652:7193:1498:6646:1:28:753^N3^S178386::::::::60:256::14:3:6623:1498:6646:1:28:807^N4^S178386::::::::60:256::14:3:6623:1498:6646:1:28:807^t^Sgear2^T^N3^S175921::::::::60:256::14:3:6623:1498:6646:1:28:807^N4^S175921::::::::60:256::14:3:6623:1498:6646:1:28:807^t^t^t^^ RAID Vapee-Kazzak", -- [314]
+			"<20:40:18><Comm>	 ^1^SlootAck^T^N1^N252^N2^N227.3125^N3^T^Sresponse^T^t^Sdiff^T^N1^N0^N2^N0^N3^N16^N4^N16^t^Sgear1^T^N1^S183027::::::::60:252::6:4:7187:6652:1498:6646:1:28:753^N2^S183039::173130::::::60:252::6:5:7187:6652:1498:6646:6935:1:28:753^N3^S184027::::::::60:252::85:4:7187:6652:1498:6646:1:28:753^N4^S184027::::::::60:252::85:4:7187:6652:1498:6646:1:28:753^t^Sgear2^T^N3^S179350::::::::60:252::16:5:7214:6652:1501:5868:6646:1:28:1279^N4^S179350::::::::60:252::16:5:7214:6652:1501:5868:6646:1:28:1279^t^t^t^^ RAID Tokzik-Kazzak", -- [315]
+			"<20:40:18><Comm>	 ^1^SlootAck^T^N1^N577^N2^N228.5625^N3^T^Sresponse^T^t^Sdiff^T^N1^N0^N2^N1^N3^N-7^N4^N-7^t^Sgear1^T^N1^S178361:6211:::::::60:577::14:3:6623:1498:6646:1:28:807^N2^S178927::::::::60:577::65:6:7043:6718:7194:6649:6648:1522^N3^S184030::::::::60:577::85:4:7187:6652:1498:6646^N4^S184030::::::::60:577::85:4:7187:6652:1498:6646^t^Sgear2^T^N3^S184027::::::::60:577::85:4:7187:6652:1498:6646:1:28:753^N4^S184027::::::::60:577::85:4:7187:6652:1498:6646:1:28:753^t^t^t^^ RAID Bevv-Kazzak", -- [316]
+			"<20:40:18><Comm>	 ^1^SlootAck^T^N1^N268^N2^N226.6875^N3^T^Sresponse^T^N1^B^t^Sdiff^T^N1^N-9^N2^N6^N3^N0^N4^N0^t^Sgear1^T^N1^S172315:6211:::::::60:268::63:5:7076:6650:6647:6758:1532^N2^S178387::173127::::::60:268::14:4:6620:1492:6646:6935:1:28:807^N3^S184026::::::::60:268::6:4:7187:6652:1498:6646:1:28:753^N4^S184026::::::::60:268::6:4:7187:6652:1498:6646:1:28:753^t^Sgear2^T^N3^S178861::::::::60:268::35:5:7214:42:1501:5884:6646^N4^S178861::::::::60:268::35:5:7214:42:1501:5884:6646^t^t^t^^ RAID Misêry-Kazzak", -- [317]
+			"<20:40:18><Comm>	 ^1^SlootAck^T^N1^N254^N2^N229.1875^N3^T^Sresponse^T^N1^B^t^Sdiff^T^N1^N0^N2^N0^N3^N0^N4^N0^t^Sgear1^T^N1^S182990:6211:::::::60:254::6:4:7187:6652:1498:6646:1:28:753^N2^S183040::173127::::::60:254::6:5:7187:6652:6935:1498:6646^N3^S175921::::::::60:254::14:3:6623:1498:6646:1:28:807^N4^S175921::::::::60:254::14:3:6623:1498:6646:1:28:807^t^Sgear2^T^N3^S184027::::::::60:254::85:4:7187:6652:1498:6646:1:28:753^N4^S184027::::::::60:254::85:4:7187:6652:1498:6646:1:28:753^t^t^t^^ RAID Adrenalynz-Kazzak", -- [318]
+			"<20:40:18><Comm>	 ^1^SlootAck^T^N1^N65^N2^N227.3125^N3^T^Sresponse^T^t^Sdiff^T^N1^N-9^N2^N0^N3^N6^N4^N6^t^Sgear1^T^N1^S171413:6207:::::::60:65::64:5:7059:6649:6648:6758:1532^N2^S183040::::::::60:65::6:5:7187:6652:7194:1498:6646:1:28:753^N3^S184028::::::::60:65::84:4:7188:6652:1485:6646:1:28:752^N4^S184028::::::::60:65::84:4:7188:6652:1485:6646:1:28:752^t^Sgear2^T^N3^S178386::::::::60:65::14:3:6623:1498:6646:1:28:807^N4^S178386::::::::60:65::14:3:6623:1498:6646:1:28:807^t^t^t^^ RAID Kvaernp-Kazzak", -- [319]
+			"<20:40:18><Comm>	 ^1^SlootAck^T^N1^N254^N2^N227.9375^N3^T^Sresponse^T^N1^B^t^Sdiff^T^N1^N0^N2^N0^N3^N0^N4^N0^t^Sgear1^T^N1^S183006:6211:::::::60:254::6:4:7187:6652:1498:6646:1:28:753^N2^S183039::173127::::::60:254::6:5:7187:6652:1498:6646:6935:1:28:753^N3^S180116::::::::60:254::35:5:7213:6652:1501:5884:6646^N4^S180116::::::::60:254::35:5:7213:6652:1501:5884:6646^t^Sgear2^T^N3^S184027::::::::60:254::85:4:7187:42:1498:6646:1:28:753^N4^S184027::::::::60:254::85:4:7187:42:1498:6646:1:28:753^t^t^t^^ RAID Ceases-Kazzak", -- [320]
+			"<20:40:18><Comm>	 ^1^SlootAck^T^N1^N72^N2^N227.4375^N3^T^Sresponse^T^t^Sdiff^T^N1^N0^N2^N0^N3^N0^N4^N0^t^Sgear1^T^N1^S182983::::::::60:72::6:4:7187:6652:1498:6646:1:28:753^N2^S178827::173128::::::60:72::35:6:7214:6652:1501:5884:6646:6935^N3^S178386::::::::60:72::14:3:6623:1498:6646:1:28:807^N4^S178386::::::::60:72::14:3:6623:1498:6646:1:28:807^t^Sgear2^T^N3^S184027::::::::60:72::85:4:7187:6652:1498:6646^N4^S184027::::::::60:72::85:4:7187:6652:1498:6646^t^t^t^^ RAID Riworra-Kazzak", -- [321]
+			"<20:40:18><Comm>	 ^1^SlootAck^T^N1^N102^N2^N226.1875^N3^T^Sresponse^T^t^Sdiff^T^N1^N-9^N2^N0^N3^N6^N4^N6^t^Sgear1^T^N1^S172315::::::::60:102::66:5:7107:6758:6649:6648:1532^N2^S183040::::::::60:102::6:5:7187:6652:7194:1498:6646:1:28:753^N3^S175921::::::::60:102::14:3:6625:1492:6646:1:28:807^N4^S175921::::::::60:102::14:3:6625:1492:6646:1:28:807^t^Sgear2^T^N3^S178386::::::::60:102::14:3:6623:1498:6646:1:28:807^N4^S178386::::::::60:102::14:3:6623:1498:6646:1:28:807^t^t^t^^ RAID Tradushuffle-Kazzak", -- [322]
+			"<20:40:18><Comm>	 ^1^SlootAck^T^N1^N102^N2^N226.375^N3^T^Sresponse^T^N1^B^t^Sdiff^T^N1^N-9^N2^N0^N3^N32^N4^N32^t^Sgear1^T^N1^S172315::::::::60:102::63:5:7107:6648:6650:6758:1532^N2^S183039::173130::::::60:102::6:5:7187:6652:1498:6646:6935:1:28:753^N3^S184028::::::::60:102::84:4:7188:6652:1485:6646:1:28:752^N4^S184028::::::::60:102::84:4:7188:6652:1485:6646:1:28:752^t^Sgear2^T^N3^S184842::::::::60:102::27:4:6652:1472:5891:6646^N4^S184842::::::::60:102::27:4:6652:1472:5891:6646^t^t^t^^ RAID Macuc-Kazzak", -- [323]
+			"<20:40:18><Comm>	 ^1^SlootAck^T^N1^N265^N2^N229.1875^N3^T^Sresponse^T^N1^B^t^Sdiff^T^N1^N0^N2^N0^N3^N0^N4^N0^t^Sgear1^T^N1^S182979:6207:::::::60:265::6:4:7187:6652:1498:6646^N2^S183040::173128::::::60:265::6:5:7187:6652:1498:6646:6935:1:28:753^N3^S175921::::::::60:265::14:3:6623:1498:6646:1:28:807^N4^S175921::::::::60:265::14:3:6623:1498:6646:1:28:807^t^Sgear2^T^N3^S184028::::::::60:265::85:4:7187:6652:1498:6646^N4^S184028::::::::60:265::85:4:7187:6652:1498:6646^t^t^t^^ RAID Neveh-Kazzak", -- [324]
+			"<20:40:18><Comm>	 ^1^SlootAck^T^N1^N63^N2^N229.1875^N3^T^Sresponse^T^N1^B^t^Sdiff^T^N1^N0^N2^N0^N3^N0^N4^N0^t^Sgear1^T^N1^S175894::::::::60:63::14:3:6623:1498:6646:1:28:807^N2^S183040::173128::::::60:63::6:5:7187:6652:1498:6646:6935:1:28:753^N3^S184028::::::::60:63::85:4:7187:6652:1498:6646^N4^S184028::::::::60:63::85:4:7187:6652:1498:6646^t^Sgear2^T^N3^S175921::::::::60:63::14:3:6623:1498:6646:1:28:807^N4^S175921::::::::60:63::14:3:6623:1498:6646:1:28:807^t^t^t^^ RAID Skonheden-Kazzak", -- [325]
+			"<20:40:18><Comm>	 ^1^SlootAck^T^N1^N254^N2^N227.875^N3^T^Sresponse^T^N1^B^t^Sdiff^T^N1^N0^N2^N0^N3^N0^N4^N0^t^Sgear1^T^N1^S183006:6211:::::::60:254::6:4:7187:6652:1498:6646^N2^S183039::173127::::::60:254::6:5:7187:6652:1498:6646:6935:1:28:753^N3^S180116::::::::60:254::35:5:7214:6652:1501:5884:6646^N4^S180116::::::::60:254::35:5:7214:6652:1501:5884:6646^t^Sgear2^T^N3^S184027::::::::60:254::85:4:7187:6652:1498:6646^N4^S184027::::::::60:254::85:4:7187:6652:1498:6646^t^t^t^^ RAID Sanshot-Kazzak", -- [326]
+			"<20:40:18><Comm>	 ^1^SlootAck^T^N1^N264^N2^N229.1875^N3^T^Sresponse^T^N1^B^t^Sdiff^T^N1^N0^N2^N0^N3^N-7^N4^N-7^t^Sgear1^T^N1^S183006::::::::60:264::6:4:7187:6652:1498:6646^N2^S183039::173127::::::60:264::6:5:7187:6652:1498:6646:6935:1:28:753^N3^S184028::::::::60:264::85:4:7187:6652:1498:6646^N4^S184028::::::::60:264::85:4:7187:6652:1498:6646^t^Sgear2^T^N3^S184029::::::::60:264::85:4:7187:6652:1498:6646:1:28:753^N4^S184029::::::::60:264::85:4:7187:6652:1498:6646:1:28:753^t^t^t^^ RAID Seksixeny-Kazzak", -- [327]
+			"<20:40:18><Comm>	 ^1^SlootAck^T^N1^N259^N2^N225.625^N3^T^Sresponse^T^N1^B^t^Sdiff^T^N1^N0^N2^N0^N3^N0^N4^N0^t^Sgear1^T^N1^S183010:6211:::::::60:259::6:4:7187:43:1498:6646:1:28:753^N2^S178387::173128::::::60:259::14:4:6935:6621:1498:6646:1:28:807^N3^S184026::::::::60:259::6:4:7187:6652:1498:6646:1:28:753^N4^S184026::::::::60:259::6:4:7187:6652:1498:6646:1:28:753^t^Sgear2^T^N3^S184030::::::::60:259::85:4:7187:6652:1498:6646^N4^S184030::::::::60:259::85:4:7187:6652:1498:6646^t^t^t^^ RAID Kessrogue-Kazzak", -- [328]
+			"<20:40:18><Comm>	 ^1^SlootAck^T^N1^N254^N2^N221.375^N3^T^Sresponse^T^N1^B^t^Sdiff^T^N1^N6^N2^N0^N3^N32^N4^N32^t^Sgear1^T^N1^S179345:6211:::::::60:254::35:5:7209:6652:1501:5878:6646^N2^S183039::173127::::::60:254::6:5:7187:6652:1498:6646:6935:1:28:753^N3^S178769::::::::60:254::35:5:7213:6652:1501:5884:6646^N4^S178769::::::::60:254::35:5:7213:6652:1501:5884:6646^t^Sgear2^T^N3^S181457::::::::60:254::26:4:6652:1472:5891:6646:1:28:2060^N4^S181457::::::::60:254::26:4:6652:1472:5891:6646:1:28:2060^t^t^t^^ RAID Memescoper-Kazzak", -- [329]
+			"<20:40:18><Comm>	 ^1^SlootAck^T^N1^N65^N2^N227.5^N3^T^Sresponse^T^t^Sdiff^T^N1^N0^N2^N0^N3^N0^N4^N0^t^Sgear1^T^N1^S183027::::::::60:65::6:4:7187:6652:1498:6646^N2^S178827::173128::::::60:65::35:6:7213:41:6935:1501:5884:6646^N3^S178386::::::::60:65::40:4:41:6623:1498:6646^N4^S178386::::::::60:65::40:4:41:6623:1498:6646^t^Sgear2^T^N3^S184029::::::::60:65::85:4:7187:6652:1498:6646:1:28:753^N4^S184029::::::::60:65::85:4:7187:6652:1498:6646:1:28:753^t^t^t^^ RAID Tankzorx-Kazzak", -- [330]
+			"<20:40:18><Comm>	 ^1^SlootAck^T^N1^N250^N2^N227.4375^N3^T^Sresponse^T^t^Sdiff^T^N1^N0^N2^N0^N3^N0^N4^N0^t^Sgear1^T^N1^S175893::::::::60:250::14:3:6623:1498:6646:1:28:807^N2^S175922::173129::::::60:250::14:4:6621:1498:6646:6935:1:28:807^N3^S179331::::::::60:250::35:5:7214:6652:1501:5884:6646^N4^S179331::::::::60:250::35:5:7214:6652:1501:5884:6646^t^Sgear2^T^N3^S184027::::::::60:250::85:4:7187:6652:1498:6646:1:28:753^N4^S184027::::::::60:250::85:4:7187:6652:1498:6646:1:28:753^t^t^t^^ RAID Unholydeathh-Kazzak", -- [331]
+			"<20:40:21><Comm>	 ^1^Sresponse^T^N1^N2^N2^T^Sresponse^SPASS^t^t^^ RAID Nited-Kazzak", -- [332]
+			"<20:40:21><Comm>	 ^1^Sresponse^T^N1^N3^N2^T^Sresponse^SPASS^t^t^^ RAID Nited-Kazzak", -- [333]
+			"<20:40:21><Comm>	 ^1^Sresponse^T^N1^N4^N2^T^Sresponse^SPASS^t^t^^ RAID Nited-Kazzak", -- [334]
+			"<20:40:22><Comm>	 ^1^Sresponse^T^N1^N1^N2^T^Sresponse^SPASS^t^t^^ RAID Riworra-Kazzak", -- [335]
+			"<20:40:23><Comm>	 ^1^Sresponse^T^N1^N2^N2^T^Sresponse^SPASS^t^t^^ RAID Ceases-Kazzak", -- [336]
+			"<20:40:23><Comm>	 ^1^Sresponse^T^N1^N1^N2^T^Sresponse^SPASS^t^t^^ RAID Tradushuffle-Kazzak", -- [337]
+			"<20:40:23><Comm>	 ^1^Sresponse^T^N1^N3^N2^T^Sresponse^N4^t^t^^ RAID Seksixeny-Kazzak", -- [338]
+			"<20:40:23><Comm>	 ^1^Sresponse^T^N1^N4^N2^T^Sresponse^N4^t^t^^ RAID Seksixeny-Kazzak", -- [339]
+			"<20:40:23><Comm>	 ^1^Sresponse^T^N1^N2^N2^T^Sresponse^SPASS^t^t^^ RAID Arookie-Kazzak", -- [340]
+			"<20:40:23><Comm>	 ^1^Sresponse^T^N1^N2^N2^T^Sresponse^SPASS^t^t^^ RAID Tradushuffle-Kazzak", -- [341]
+			"<20:40:23><Comm>	 ^1^Sresponse^T^N1^N3^N2^T^Sresponse^SPASS^t^t^^ RAID Ceases-Kazzak", -- [342]
+			"<20:40:23><Comm>	 ^1^Sresponse^T^N1^N4^N2^T^Sresponse^SPASS^t^t^^ RAID Ceases-Kazzak", -- [343]
+			"<20:40:23><Comm>	 ^1^Sresponse^T^N1^N2^N2^T^Sresponse^SPASS^t^t^^ RAID Neveh-Kazzak", -- [344]
+			"<20:40:23><Comm>	 ^1^Sresponse^T^N1^N3^N2^T^Sresponse^SPASS^t^t^^ RAID Tradushuffle-Kazzak", -- [345]
+			"<20:40:23><Comm>	 ^1^Sresponse^T^N1^N4^N2^T^Sresponse^SPASS^t^t^^ RAID Tradushuffle-Kazzak", -- [346]
+			"<20:40:23><Comm>	 ^1^Sresponse^T^N1^N3^N2^T^Sresponse^SPASS^t^t^^ RAID Arookie-Kazzak", -- [347]
+			"<20:40:23><Comm>	 ^1^Sresponse^T^N1^N4^N2^T^Sresponse^SPASS^t^t^^ RAID Arookie-Kazzak", -- [348]
+			"<20:40:23><Comm>	 ^1^Sresponse^T^N1^N3^N2^T^Sresponse^SPASS^t^t^^ RAID Neveh-Kazzak", -- [349]
+			"<20:40:23><Comm>	 ^1^Sresponse^T^N1^N4^N2^T^Sresponse^SPASS^t^t^^ RAID Neveh-Kazzak", -- [350]
+			"<20:40:24><Comm>	 ^1^Sresponse^T^N1^N2^N2^T^Sresponse^SPASS^t^t^^ RAID Adrenalynz-Kazzak", -- [351]
+			"<20:40:24><Comm>	 ^1^Sresponse^T^N1^N3^N2^T^Sresponse^SPASS^t^t^^ RAID Adrenalynz-Kazzak", -- [352]
+			"<20:40:24><Comm>	 ^1^Sresponse^T^N1^N4^N2^T^Sresponse^SPASS^t^t^^ RAID Adrenalynz-Kazzak", -- [353]
+			"<20:40:25><Comm>	 ^1^Sresponse^T^N1^N3^N2^T^Sresponse^SPASS^t^t^^ RAID Tankzorx-Kazzak", -- [354]
+			"<20:40:25><Comm>	 ^1^Sresponse^T^N1^N4^N2^T^Sresponse^SPASS^t^t^^ RAID Tankzorx-Kazzak", -- [355]
+			"<20:40:25><Comm>	 ^1^Sresponse^T^N1^N1^N2^T^Sresponse^SPASS^t^t^^ RAID Unholydeathh-Kazzak", -- [356]
+			"<20:40:25><Comm>	 ^1^Sresponse^T^N1^N2^N2^T^Sresponse^SPASS^t^t^^ RAID Vapee-Kazzak", -- [357]
+			"<20:40:25><Comm>	 ^1^Sresponse^T^N1^N2^N2^T^Sresponse^SPASS^t^t^^ RAID Seksixeny-Kazzak", -- [358]
+			"<20:40:25><Comm>	 ^1^Sresponse^T^N1^N1^N2^T^Sresponse^N5^t^t^^ RAID Creo-Kazzak", -- [359]
+			"<20:40:26><Comm>	 ^1^Sresponse^T^N1^N2^N2^T^Sresponse^SPASS^t^t^^ RAID Unholydeathh-Kazzak", -- [360]
+			"<20:40:26><Comm>	 ^1^Sresponse^T^N1^N3^N2^T^Sresponse^SPASS^t^t^^ RAID Vapee-Kazzak", -- [361]
+			"<20:40:26><Comm>	 ^1^Sresponse^T^N1^N4^N2^T^Sresponse^SPASS^t^t^^ RAID Vapee-Kazzak", -- [362]
+			"<20:40:26><DEBUG>	 LootFrame:Response PASS Response: Pass", -- [363]
+			"<20:40:26><DEBUG>	 SendResponse group 2 PASS nil nil nil nil nil nil nil nil nil nil", -- [364]
+			"<20:40:26><DEBUG>	 Trashing entry: 1 |cffa335ee|Hitem:183039::::::::60:262::6:5:7187:6652:7193:1498:6646:1:28:753:::|h[Noble's Birthstone Pendant]|h|r", -- [365]
+			"<20:40:26><Comm>	 ^1^Sresponse^T^N1^N2^N2^T^Sresponse^SPASS^t^t^^ RAID Rentaki-Kazzak", -- [366]
+			"<20:40:26><Comm>	 ^1^Sresponse^T^N1^N3^N2^T^Sresponse^SPASS^t^t^^ RAID Unholydeathh-Kazzak", -- [367]
+			"<20:40:26><Comm>	 ^1^Sresponse^T^N1^N4^N2^T^Sresponse^SPASS^t^t^^ RAID Unholydeathh-Kazzak", -- [368]
+			"<20:40:26><DEBUG>	 LootFrame:Response PASS Response: Pass", -- [369]
+			"<20:40:26><DEBUG>	 SendResponse group 3 PASS nil nil nil nil nil nil nil nil nil nil", -- [370]
+			"<20:40:26><DEBUG>	 SendResponse group 4 PASS nil nil nil nil nil nil nil nil nil nil", -- [371]
+			"<20:40:26><DEBUG>	 Trashing entry: 1 |cffa335ee|Hitem:184024::::::::60:262::6:4:7187:6652:1498:6646:1:28:753:::|h[Macabre Sheet Music]|h|r", -- [372]
+			"<20:40:26><Comm>	 ^1^Sresponse^T^N1^N3^N2^T^Sresponse^SPASS^t^t^^ RAID Rentaki-Kazzak", -- [373]
+			"<20:40:26><Comm>	 ^1^Sresponse^T^N1^N4^N2^T^Sresponse^SPASS^t^t^^ RAID Rentaki-Kazzak", -- [374]
+			"<20:40:26><Comm>	 ^1^Sresponse^T^N1^N2^N2^T^Sresponse^SPASS^t^t^^ RAID Skonheden-Kazzak", -- [375]
+			"<20:40:27><Comm>	 ^1^Sresponse^T^N1^N2^N2^T^Sresponse^SPASS^t^t^^ RAID Kessrogue-Kazzak", -- [376]
+			"<20:40:27><Comm>	 ^1^Sresponse^T^N1^N1^N2^T^Sresponse^SPASS^t^t^^ RAID Kvaernp-Kazzak", -- [377]
+			"<20:40:27><Comm>	 ^1^Sresponse^T^N1^N3^N2^T^Sresponse^SPASS^t^t^^ RAID Kessrogue-Kazzak", -- [378]
+			"<20:40:27><Comm>	 ^1^Sresponse^T^N1^N4^N2^T^Sresponse^SPASS^t^t^^ RAID Kessrogue-Kazzak", -- [379]
+			"<20:40:27><Comm>	 ^1^Sresponse^T^N1^N1^N2^T^Sresponse^SPASS^t^t^^ RAID Tokzik-Kazzak", -- [380]
+			"<20:40:28><Comm>	 ^1^Sresponse^T^N1^N1^N2^T^Snote^Sarms^Sresponse^N4^t^t^^ RAID Sacraa-Kazzak", -- [381]
+			"<20:40:28><Comm>	 ^1^Sresponse^T^N1^N2^N2^T^Sresponse^SPASS^t^t^^ RAID Tokzik-Kazzak", -- [382]
+			"<20:40:29><Comm>	 ^1^Sresponse^T^N1^N2^N2^T^Sresponse^SPASS^t^t^^ RAID Creo-Kazzak", -- [383]
+			"<20:40:29><Comm>	 ^1^Sresponse^T^N1^N3^N2^T^Sresponse^N2^t^t^^ RAID Memescoper-Kazzak", -- [384]
+			"<20:40:29><Comm>	 ^1^Sresponse^T^N1^N4^N2^T^Sresponse^N2^t^t^^ RAID Memescoper-Kazzak", -- [385]
+			"<20:40:29><Comm>	 ^1^Sresponse^T^N1^N3^N2^T^Sresponse^SPASS^t^t^^ RAID Tokzik-Kazzak", -- [386]
+			"<20:40:29><Comm>	 ^1^Sresponse^T^N1^N4^N2^T^Sresponse^SPASS^t^t^^ RAID Tokzik-Kazzak", -- [387]
+			"<20:40:30><Comm>	 ^1^Sresponse^T^N1^N2^N2^T^Sresponse^SPASS^t^t^^ RAID Kvaernp-Kazzak", -- [388]
+			"<20:40:31><Comm>	 ^1^Sresponse^T^N1^N2^N2^T^Sresponse^SPASS^t^t^^ RAID Memescoper-Kazzak", -- [389]
+			"<20:40:31><Comm>	 ^1^Soffline_timer^T^t^^ RAID Tankzorx-Kazzak", -- [390]
+			"<20:40:31><Comm>	 ^1^Sresponse^T^N1^N1^N2^T^Sresponse^SPASS^t^t^^ RAID Bevv-Kazzak", -- [391]
+			"<20:40:32><Comm>	 ^1^Sresponse^T^N1^N3^N2^T^Sresponse^SPASS^t^t^^ RAID Misêry-Kazzak", -- [392]
+			"<20:40:32><Comm>	 ^1^Sresponse^T^N1^N4^N2^T^Sresponse^SPASS^t^t^^ RAID Misêry-Kazzak", -- [393]
+			"<20:40:32><Comm>	 ^1^Sresponse^T^N1^N2^N2^T^Sresponse^SPASS^t^t^^ RAID Bevv-Kazzak", -- [394]
+			"<20:40:32><Comm>	 ^1^Sresponse^T^N1^N2^N2^T^Sresponse^SPASS^t^t^^ RAID Misêry-Kazzak", -- [395]
+			"<20:40:32><Comm>	 ^1^Sresponse^T^N1^N2^N2^T^Sresponse^SPASS^t^t^^ RAID Riworra-Kazzak", -- [396]
+			"<20:40:32><Comm>	 ^1^Sresponse^T^N1^N3^N2^T^Sresponse^SPASS^t^t^^ RAID Bevv-Kazzak", -- [397]
+			"<20:40:32><Comm>	 ^1^Sresponse^T^N1^N4^N2^T^Sresponse^SPASS^t^t^^ RAID Bevv-Kazzak", -- [398]
+			"<20:40:32><Comm>	 ^1^Sresponse^T^N1^N3^N2^T^Sresponse^SPASS^t^t^^ RAID Kvaernp-Kazzak", -- [399]
+			"<20:40:32><Comm>	 ^1^Sresponse^T^N1^N4^N2^T^Sresponse^SPASS^t^t^^ RAID Kvaernp-Kazzak", -- [400]
+			"<20:40:32><Comm>	 ^1^Sresponse^T^N1^N3^N2^T^Sresponse^SPASS^t^t^^ RAID Creo-Kazzak", -- [401]
+			"<20:40:32><Comm>	 ^1^Sresponse^T^N1^N4^N2^T^Sresponse^SPASS^t^t^^ RAID Creo-Kazzak", -- [402]
+			"<20:40:32><Comm>	 ^1^Sresponse^T^N1^N2^N2^T^Sresponse^SPASS^t^t^^ RAID Sanshot-Kazzak", -- [403]
+			"<20:40:33><Comm>	 ^1^Sresponse^T^N1^N2^N2^T^Sresponse^SPASS^t^t^^ RAID Tankzorx-Kazzak", -- [404]
+			"<20:40:33><Comm>	 ^1^Sresponse^T^N1^N3^N2^T^Sresponse^SPASS^t^t^^ RAID Sanshot-Kazzak", -- [405]
+			"<20:40:33><Comm>	 ^1^Sresponse^T^N1^N4^N2^T^Sresponse^SPASS^t^t^^ RAID Sanshot-Kazzak", -- [406]
+			"<20:40:35><Comm>	 ^1^Sresponse^T^N1^N1^N2^T^Sresponse^SPASS^t^t^^ RAID Tankzorx-Kazzak", -- [407]
+			"<20:40:36><Comm>	 ^1^Sresponse^T^N1^N3^N2^T^Sresponse^SPASS^t^t^^ RAID Skonheden-Kazzak", -- [408]
+			"<20:40:36><Comm>	 ^1^Sresponse^T^N1^N4^N2^T^Sresponse^SPASS^t^t^^ RAID Skonheden-Kazzak", -- [409]
+			"<20:40:37><Comm>	 ^1^Sresponse^T^N1^N2^N2^T^Snote^Sarms^Sresponse^N4^t^t^^ RAID Sacraa-Kazzak", -- [410]
+			"<20:40:38><Comm>	 ^1^Sresponse^T^N1^N3^N2^T^Sresponse^SPASS^t^t^^ RAID Riworra-Kazzak", -- [411]
+			"<20:40:38><Comm>	 ^1^Sresponse^T^N1^N4^N2^T^Sresponse^SPASS^t^t^^ RAID Riworra-Kazzak", -- [412]
+			"<20:40:38><Comm>	 ^1^Sresponse^T^N1^N3^N2^T^Sresponse^SPASS^t^t^^ RAID Sacraa-Kazzak", -- [413]
+			"<20:40:38><Comm>	 ^1^Sresponse^T^N1^N4^N2^T^Sresponse^SPASS^t^t^^ RAID Sacraa-Kazzak", -- [414]
+			"<20:40:39><Comm>	 ^1^Sresponse^T^N1^N2^N2^T^Sresponse^SPASS^t^t^^ RAID Macuc-Kazzak", -- [415]
+			"<20:40:40><Comm>	 ^1^Sresponse^T^N1^N3^N2^T^Sresponse^SPASS^t^t^^ RAID Macuc-Kazzak", -- [416]
+			"<20:40:40><Comm>	 ^1^Sresponse^T^N1^N4^N2^T^Sresponse^SPASS^t^t^^ RAID Macuc-Kazzak", -- [417]
+			"<20:40:47><Comm>	 ^1^Shistory^T^N1^SSacraa-Kazzak^N2^T^SmapID^N2296^Sdate^S10/03/21^Sclass^SWARRIOR^SgroupSize^N20^Svotes^N0^Stime^S20:40:49^SitemReplaced1^S|cffa335ee|Hitem:183027::::::::60:65::6:4:7187:6652:1498:6646:1:28:753:::|h[Errant~`Crusader's~`Greaves]|h|r^Sinstance^SCastle~`Nathria-Mythic^Sowner^SKvaernp-Kazzak^StypeCode^Sdefault^Sresponse^SOffspec^Sid^S1615401649-25^SdifficultyID^N16^SlootWon^S|cffa335ee|Hitem:182983::::::::60:65::6:4:7187:6652:1498:6646:1:28:753:::|h[Stoneguard~`Attendant's~`Boots]|h|r^Snote^Sarms^SisAwardReason^b^SresponseID^N4^Sboss^SThe~`Council~`of~`Blood^Scolor^T^N1^N0.7^N2^N0.43^N3^N0.17^N4^N1^t^t^t^^ RAID Tankzorx-Kazzak", -- [418]
+			"<20:40:47><Comm>	 ^1^Sawarded^T^N1^N1^N2^SSacraa-Kazzak^N3^SKvaernp-Kazzak^t^^ RAID Tankzorx-Kazzak", -- [419]
+			"<20:40:51><Comm>	 ^1^Shistory^T^N1^SSacraa-Kazzak^N2^T^SmapID^N2296^Sdate^S10/03/21^Sclass^SWARRIOR^SgroupSize^N20^Svotes^N0^Stime^S20:40:52^SitemReplaced1^S|cffa335ee|Hitem:183040::173128::::::60:65::6:5:7187:6652:1498:6646:6935:1:28:753:::|h[Charm~`of~`Eternal~`Winter]|h|r^Sinstance^SCastle~`Nathria-Mythic^Sowner^SAdrenalynz-Kazzak^StypeCode^Sdefault^Sresponse^SOffspec^Sid^S1615401652-26^SdifficultyID^N16^SlootWon^S|cffa335ee|Hitem:183039::::::::60:65::6:5:7187:6652:7193:1498:6646:1:28:753:::|h[Noble's~`Birthstone~`Pendant]|h|r^Snote^Sarms^SisAwardReason^b^SresponseID^N4^Sboss^SThe~`Council~`of~`Blood^Scolor^T^N1^N0.7^N2^N0.43^N3^N0.17^N4^N1^t^t^t^^ RAID Tankzorx-Kazzak", -- [420]
+			"<20:40:51><Comm>	 ^1^Sawarded^T^N1^N2^N2^SSacraa-Kazzak^N3^SAdrenalynz-Kazzak^t^^ RAID Tankzorx-Kazzak", -- [421]
+			"<20:40:55><Comm>	 ^1^Strade_WrongWinner^T^N1^S|cffa335ee|Hitem:182983::::::::60:65::6:4:7187:6652:1498:6646:1:28:753:::|h[Stoneguard~`Attendant's~`Boots]|h|r^N2^STankzorx-Kazzak^N3^SKvaernp-Kazzak^N4^SSacraa-Kazzak^t^^ RAID Kvaernp-Kazzak", -- [422]
+			"<20:41:08><Comm>	 ^1^Shistory^T^N1^SMemescoper-Kazzak^N2^T^SmapID^N2296^Sdate^S10/03/21^Sclass^SHUNTER^SgroupSize^N20^Sboss^SThe~`Council~`of~`Blood^Stime^S20:41:09^SitemReplaced1^S|cffa335ee|Hitem:178769::::::::60:65::35:5:7213:6652:1501:5884:6646::::|h[Infinitely~`Divisible~`Ooze]|h|r^StypeCode^Sdefault^Sinstance^SCastle~`Nathria-Mythic^Sowner^SCreo-Kazzak^Sid^S1615401669-27^Sresponse^SNeed~`not~`BIS^SdifficultyID^N16^SlootWon^S|cffa335ee|Hitem:184024::::::::60:65::6:4:7187:6652:1498:6646:1:28:753:::|h[Macabre~`Sheet~`Music]|h|r^SisAwardReason^b^Scolor^T^N1^N0.54^N2^N1^N3^N0.12^N4^N1^t^SresponseID^N2^SitemReplaced2^S|cffa335ee|Hitem:181457::::::::60:65::26:4:6652:1472:5891:6646:1:28:2060:::|h[Wakener's~`Frond]|h|r^Svotes^N0^t^t^^ RAID Tankzorx-Kazzak", -- [423]
+			"<20:41:08><Comm>	 ^1^Sawarded^T^N1^N3^N2^SMemescoper-Kazzak^N3^SCreo-Kazzak^t^^ RAID Tankzorx-Kazzak", -- [424]
+			"<20:41:10><Comm>	 ^1^Shistory^T^N1^SSeksixeny-Kazzak^N2^T^SmapID^N2296^Sdate^S10/03/21^Sclass^SSHAMAN^SgroupSize^N20^Sboss^SThe~`Council~`of~`Blood^Stime^S20:41:12^SitemReplaced1^S|cffa335ee|Hitem:184028::::::::60:65::85:4:7187:6652:1498:6646::::|h[Cabalist's~`Hymnal]|h|r^StypeCode^Sdefault^Sinstance^SCastle~`Nathria-Mythic^Sowner^SRiworra-Kazzak^Sid^S1615401672-28^Sresponse^SOffspec^SdifficultyID^N16^SlootWon^S|cffa335ee|Hitem:184024::::::::60:65::6:4:7187:6652:1498:6646:1:28:753:::|h[Macabre~`Sheet~`Music]|h|r^SisAwardReason^b^Scolor^T^N1^N0.7^N2^N0.43^N3^N0.17^N4^N1^t^SresponseID^N4^SitemReplaced2^S|cffa335ee|Hitem:184029::::::::60:65::85:4:7187:6652:1498:6646:1:28:753:::|h[Manabound~`Mirror]|h|r^Svotes^N0^t^t^^ RAID Tankzorx-Kazzak", -- [425]
+			"<20:41:10><Comm>	 ^1^Sawarded^T^N1^N4^N2^SSeksixeny-Kazzak^N3^SRiworra-Kazzak^t^^ RAID Tankzorx-Kazzak", -- [426]
+			"<20:41:11><Comm>	 ^1^Ssession_end^T^t^^ RAID Tankzorx-Kazzak", -- [427]
+			"<20:41:15><Comm>	 ^1^Strade_complete^T^N1^S|cffa335ee|Hitem:184024::::::::60:72::6:4:7187:6652:1498:6646:1:28:753:::|h[Macabre~`Sheet~`Music]|h|r^N2^SSeksixeny-Kazzak^N3^SRiworra-Kazzak^t^^ RAID Riworra-Kazzak", -- [428]
+			"<20:41:17><Comm>	 ^1^Strade_complete^T^N1^S|cffa335ee|Hitem:183039::::::::60:254::6:5:7187:6652:7193:1498:6646:1:28:753:::|h[Noble's~`Birthstone~`Pendant]|h|r^N2^SSacraa-Kazzak^N3^SAdrenalynz-Kazzak^t^^ RAID Adrenalynz-Kazzak", -- [429]
+			"<20:41:19><Comm>	 ^1^Strade_WrongWinner^T^N1^S|cffa335ee|Hitem:184024::::::::60:70::6:4:7187:6652:1498:6646:1:28:753:::|h[Macabre~`Sheet~`Music]|h|r^N2^SKessrogue-Kazzak^N3^SCreo-Kazzak^N4^SMemescoper-Kazzak^t^^ RAID Creo-Kazzak", -- [430]
+			"<20:42:16><DEBUG>	 Event: RAID_INSTANCE_WELCOME Castle Nathria (Mythic) 559063 1 0", -- [431]
+			"<20:42:17><DEBUG>	 Event: PLAYER_ENTERING_WORLD false false", -- [432]
+			"<20:42:19><DEBUG>	 GetML()", -- [433]
+			"<20:44:38><DEBUG>	 Event: ENCOUNTER_START 2399 Sludgefist 16 20", -- [434]
+			"<20:44:38><INFO>	 UpdatePlayersData()", -- [435]
+			"<20:49:23><DEBUG>	 Event: ENCOUNTER_END 2399 Sludgefist 16 20 0", -- [436]
+			"<20:51:15><DEBUG>	 Event: ENCOUNTER_START 2399 Sludgefist 16 20", -- [437]
+			"<20:51:15><INFO>	 UpdatePlayersData()", -- [438]
+			"<20:52:06><Comm>	 ^1^Sv^T^N1^S3.1.4^t^^ GUILD Magearñ-Kazzak", -- [439]
+			"<20:52:06><Comm>	 ^1^Sr^T^N1^S3.1.3^N3^T^t^t^^ GUILD Kessrogue-Kazzak", -- [440]
+			"<20:53:55><DEBUG>	 Event: ENCOUNTER_END 2399 Sludgefist 16 20 0", -- [441]
+			"<20:55:31><DEBUG>	 Event: ENCOUNTER_START 2399 Sludgefist 16 20", -- [442]
+			"<20:55:31><INFO>	 UpdatePlayersData()", -- [443]
+			"<21:01:03><DEBUG>	 Event: ENCOUNTER_END 2399 Sludgefist 16 20 0", -- [444]
+			"<21:03:04><DEBUG>	 Event: ENCOUNTER_START 2399 Sludgefist 16 20", -- [445]
+			"<21:03:04><INFO>	 UpdatePlayersData()", -- [446]
+			"<21:08:14><DEBUG>	 Event: ENCOUNTER_END 2399 Sludgefist 16 20 1", -- [447]
+			"<21:08:16><Comm>	 ^1^Sl^T^N1^S164407^t^^ RAID Tokzik-Kazzak", -- [448]
+			"<21:08:16><Comm>	 ^1^Sl^T^N1^S164407^t^^ RAID Tokzik-Kazzak", -- [449]
+			"<21:08:16><Comm>	 ^1^Sl^T^N1^S164407^t^^ RAID Misêry-Kazzak", -- [450]
+			"<21:08:16><Comm>	 ^1^Sl^T^N1^S164407^t^^ RAID Misêry-Kazzak", -- [451]
+			"<21:08:17><Comm>	 ^1^Sl^T^N1^S164407^t^^ RAID Bevv-Kazzak", -- [452]
+			"<21:08:17><Comm>	 ^1^Sl^T^N1^S164407^t^^ RAID Bevv-Kazzak", -- [453]
+			"<21:08:17><Comm>	 ^1^Sl^T^N1^S164407^t^^ RAID Riworra-Kazzak", -- [454]
+			"<21:08:17><Comm>	 ^1^Sl^T^N1^S164407^t^^ RAID Riworra-Kazzak", -- [455]
+			"<21:08:17><DEBUG>	 Event: LOOT_READY true", -- [456]
+			"<21:08:17><DEBUG>	 Adding to self.lootSlotInfo 1 nil 1 0 Creature-0-4253-2296-4475-164407-000049259E 748350", -- [457]
+			"<21:08:17><DEBUG>	 Event: ENCOUNTER_LOOT_RECEIVED 2399 184286 |cff0070dd|Hitem:184286::::::::60:262:::::::|h[Extinguished Soul Anima]|h|r 3 Rentaki SHAMAN", -- [458]
+			"<21:08:17><DEBUG>	 OnLootSlotCleared() 1 nil 1", -- [459]
+			"<21:08:17><DEBUG>	 Event: LOOT_CLOSED", -- [460]
+			"<21:08:17><DEBUG>	 Event: LOOT_CLOSED", -- [461]
+			"<21:08:17><Comm>	 ^1^Sl^T^N1^S164407^t^^ RAID Rentaki-Kazzak", -- [462]
+			"<21:08:17><Comm>	 ^1^Sl^T^N1^S164407^t^^ RAID Rentaki-Kazzak", -- [463]
+			"<21:08:18><Comm>	 ^1^Sl^T^N1^S164407^t^^ RAID Ceases-Kazzak", -- [464]
+			"<21:08:18><DEBUG>	 Event: ENCOUNTER_LOOT_RECEIVED 2399 183499 |cffa335ee|Hitem:183499::::::::60:262::6:2:1553:7245:2:28:753:37:7:::|h[Quick Decisions]|h|r 1 Kessrogue ROGUE", -- [465]
+			"<21:08:18><Comm>	 ^1^Sl^T^N1^S164407^t^^ RAID Kessrogue-Kazzak", -- [466]
+			"<21:08:18><Comm>	 ^1^Sl^T^N1^S164407^t^^ RAID Kessrogue-Kazzak", -- [467]
+			"<21:08:18><Comm>	 ^1^Sl^T^N1^S164407^t^^ RAID Adrenalynz-Kazzak", -- [468]
+			"<21:08:18><Comm>	 ^1^Sl^T^N1^S164407^t^^ RAID Adrenalynz-Kazzak", -- [469]
+			"<21:08:19><DEBUG>	 Event: ENCOUNTER_LOOT_RECEIVED 2399 183484 |cffa335ee|Hitem:183484::::::::60:262::6:2:1553:7245:2:28:753:37:7:::|h[Unchecked Aggression]|h|r 1 Tradushuffle DRUID", -- [470]
+			"<21:08:19><Comm>	 ^1^Sl^T^N1^S164407^t^^ RAID Sanshot-Kazzak", -- [471]
+			"<21:08:19><Comm>	 ^1^Sl^T^N1^S164407^t^^ RAID Sanshot-Kazzak", -- [472]
+			"<21:08:19><Comm>	 ^1^Sl^T^N1^S164407^t^^ RAID Skonheden-Kazzak", -- [473]
+			"<21:08:19><Comm>	 ^1^Sl^T^N1^S164407^t^^ RAID Skonheden-Kazzak", -- [474]
+			"<21:08:19><Comm>	 ^1^Sl^T^N1^S164407^t^^ RAID Tankzorx-Kazzak", -- [475]
+			"<21:08:19><Comm>	 ^1^Sl^T^N1^S164407^t^^ RAID Neveh-Kazzak", -- [476]
+			"<21:08:19><DEBUG>	 Event: ENCOUNTER_LOOT_RECEIVED 2399 182981 |cffa335ee|Hitem:182981::::::::60:262::6:4:7187:6652:1498:6646:1:28:753:::|h[Leggings of Lethal Reverberations]|h|r 1 Neveh WARLOCK", -- [477]
+			"<21:08:19><Comm>	 ^1^Sl^T^N1^S164407^t^^ RAID Seksixeny-Kazzak", -- [478]
+			"<21:08:19><Comm>	 ^1^Sl^T^N1^S164407^t^^ RAID Seksixeny-Kazzak", -- [479]
+			"<21:08:19><Comm>	 ^1^Sl^T^N1^S164407^t^^ RAID Tradushuffle-Kazzak", -- [480]
+			"<21:08:19><Comm>	 ^1^Sl^T^N1^S164407^t^^ RAID Tradushuffle-Kazzak", -- [481]
+			"<21:08:19><Comm>	 ^1^Sl^T^N1^S164407^t^^ RAID Macuc-Kazzak", -- [482]
+			"<21:08:19><Comm>	 ^1^Sl^T^N1^S164407^t^^ RAID Macuc-Kazzak", -- [483]
+			"<21:08:20><Comm>	 ^1^Sl^T^N1^S164407^t^^ RAID Tankzorx-Kazzak", -- [484]
+			"<21:08:20><Comm>	 ^1^Sl^T^N1^S164407^t^^ RAID Tankzorx-Kazzak", -- [485]
+			"<21:08:21><DEBUG>	 Event: ENCOUNTER_LOOT_RECEIVED 2399 182981 |cffa335ee|Hitem:182981::::::::60:262::6:4:7187:6652:1498:6646:1:28:753:::|h[Leggings of Lethal Reverberations]|h|r 1 Vapee PRIEST", -- [486]
+			"<21:08:21><Comm>	 ^1^Stradable^T^N1^S|cffa335ee|Hitem:182981::::::::60:265::6:4:7187:6652:1498:6646:1:28:753:::|h[Leggings~`of~`Lethal~`Reverberations]|h|r^N2^S164407^t^^ RAID Neveh-Kazzak", -- [487]
+			"<21:08:21><Comm>	 ^1^Sl^T^N1^S164407^t^^ RAID Vapee-Kazzak", -- [488]
+			"<21:08:21><Comm>	 ^1^Sl^T^N1^S164407^t^^ RAID Vapee-Kazzak", -- [489]
+			"<21:08:23><Comm>	 ^1^Sl^T^N1^S164407^t^^ RAID Memescoper-Kazzak", -- [490]
+			"<21:08:23><Comm>	 ^1^Sl^T^N1^S164407^t^^ RAID Memescoper-Kazzak", -- [491]
+			"<21:08:24><Comm>	 ^1^Stradable^T^N1^S|cffa335ee|Hitem:182981::::::::60:256::6:4:7187:6652:1498:6646:1:28:753:::|h[Leggings~`of~`Lethal~`Reverberations]|h|r^N2^S164407^t^^ RAID Vapee-Kazzak", -- [492]
+			"<21:08:30><Comm>	 ^1^SlootTable^T^N1^T^N1^T^Sstring^S182981:::::::::::6:4:7187:6652:1498:6646:1:28:753^StypeCode^Sdefault^Sowner^SNeveh-Kazzak^Sboss^SSludgefist^t^N2^T^Sstring^S182981:::::::::::6:4:7187:6652:1498:6646:1:28:753^StypeCode^Sdefault^Sowner^SVapee-Kazzak^Sboss^SSludgefist^t^t^t^^ RAID Tankzorx-Kazzak", -- [493]
+			"<21:08:30><INFO>	 Autopassed on:  |cffa335ee|Hitem:182981::::::::60:262::6:4:7187:6652:1498:6646:1:28:753:::|h[Leggings of Lethal Reverberations]|h|r", -- [494]
+			"<21:08:30><INFO>	 Autopassed on:  |cffa335ee|Hitem:182981::::::::60:262::6:4:7187:6652:1498:6646:1:28:753:::|h[Leggings of Lethal Reverberations]|h|r", -- [495]
+			"<21:08:30><INFO>	 GetPlayersGear |cffa335ee|Hitem:182981::::::::60:262::6:4:7187:6652:1498:6646:1:28:753:::|h[Leggings of Lethal Reverberations]|h|r INVTYPE_LEGS", -- [496]
+			"<21:08:30><INFO>	 GetPlayersGear |cffa335ee|Hitem:182981::::::::60:262::6:4:7187:6652:1498:6646:1:28:753:::|h[Leggings of Lethal Reverberations]|h|r INVTYPE_LEGS", -- [497]
+			"<21:08:30><INFO>	 LootFrame:Start 2 nil", -- [498]
+			"<21:08:30><Comm>	 ^1^SlootAck^T^N1^N65^N2^N227.3125^N3^T^Sresponse^T^t^Sdiff^T^N1^N0^N2^N0^t^Sgear1^T^N1^S178369::::::::60:65::44:4:6634:6652:1498:6646^N2^S178369::::::::60:65::44:4:6634:6652:1498:6646^t^Sgear2^T^t^t^t^^ RAID Kvaernp-Kazzak", -- [499]
+			"<21:08:30><Comm>	 ^1^SlootAck^T^N1^N250^N2^N227.4375^N3^T^Sresponse^T^N1^B^N2^B^t^Sdiff^T^N1^N0^N2^N0^t^Sgear1^T^N1^S175904::::::::60:250::14:3:6634:1498:6646:1:28:807^N2^S175904::::::::60:250::14:3:6634:1498:6646:1:28:807^t^Sgear2^T^t^t^t^^ RAID Unholydeathh-Kazzak", -- [500]
+			"<21:08:30><Comm>	 ^1^SlootAck^T^N1^N254^N2^N229.1875^N3^T^Sresponse^T^N1^B^N2^B^t^Sdiff^T^N1^N0^N2^N0^t^Sgear1^T^N1^S183012::::::::60:254::6:4:7187:6652:1498:6646:1:28:753^N2^S183012::::::::60:254::6:4:7187:6652:1498:6646:1:28:753^t^Sgear2^T^t^t^t^^ RAID Adrenalynz-Kazzak", -- [501]
+			"<21:08:30><Comm>	 ^1^SlootAck^T^N1^N102^N2^N225.125^N3^T^Sresponse^T^N1^B^N2^B^t^Sdiff^T^N1^N0^N2^N0^t^Sgear1^T^N1^S183024::::::::60:102::6:4:7187:6652:1498:6646:1:28:753^N2^S183024::::::::60:102::6:4:7187:6652:1498:6646:1:28:753^t^Sgear2^T^t^t^t^^ RAID Nited-Kazzak", -- [502]
+			"<21:08:30><Comm>	 ^1^SlootAck^T^N1^N72^N2^N227.4375^N3^T^Sresponse^T^N1^B^N2^B^t^Sdiff^T^N1^N0^N2^N0^t^Sgear1^T^N1^S178800::::::::60:72::35:5:7214:6652:1501:5884:6646^N2^S178800::::::::60:72::35:5:7214:6652:1501:5884:6646^t^Sgear2^T^t^t^t^^ RAID Riworra-Kazzak", -- [503]
+			"<21:08:30><Comm>	 ^1^SlootAck^T^N1^N581^N2^N228.75^N3^T^Sresponse^T^t^Sdiff^T^N1^N0^N2^N0^t^Sgear1^T^N1^S183024::::::::60:581::6:4:7187:6652:1498:6646:1:28:753^N2^S183024::::::::60:581::6:4:7187:6652:1498:6646:1:28:753^t^Sgear2^T^t^t^t^^ RAID Bevv-Kazzak", -- [504]
+			"<21:08:30><Comm>	 ^1^SlootAck^T^N1^N268^N2^N226.6875^N3^T^Sresponse^T^N1^B^N2^B^t^Sdiff^T^N1^N0^N2^N0^t^Sgear1^T^N1^S182993::::::::60:268::6:4:7187:41:1498:6646^N2^S182993::::::::60:268::6:4:7187:41:1498:6646^t^Sgear2^T^t^t^t^^ RAID Misêry-Kazzak", -- [505]
+			"<21:08:30><Comm>	 ^1^SlootAck^T^N1^N102^N2^N226.1875^N3^T^Sresponse^T^t^Sdiff^T^N1^N0^N2^N0^t^Sgear1^T^N1^S182993::::::::60:102::6:4:7187:6652:1498:6646:1:28:753^N2^S182993::::::::60:102::6:4:7187:6652:1498:6646:1:28:753^t^Sgear2^T^t^t^t^^ RAID Tradushuffle-Kazzak", -- [506]
+			"<21:08:30><Comm>	 ^1^SlootAck^T^N1^N262^N2^N228.75^N3^T^Sresponse^T^N1^B^N2^B^t^Sdiff^T^N1^N0^N2^N0^t^Sgear1^T^N1^S182985::::::::60:262::6:4:7187:6652:1498:6646^N2^S182985::::::::60:262::6:4:7187:6652:1498:6646^t^Sgear2^T^t^t^t^^ RAID Rentaki-Kazzak", -- [507]
+			"<21:08:30><Comm>	 ^1^SlootAck^T^N1^N256^N2^N227.875^N3^T^Sresponse^T^t^Sdiff^T^N1^N0^N2^N0^t^Sgear1^T^N1^S182981::::::::60:256::6:4:7187:6652:1498:6646:1:28:753^N2^S182981::::::::60:256::6:4:7187:6652:1498:6646:1:28:753^t^Sgear2^T^t^t^t^^ RAID Vapee-Kazzak", -- [508]
+			"<21:08:30><Comm>	 ^1^SlootAck^T^N1^N265^N2^N228.75^N3^T^Sresponse^T^t^Sdiff^T^N1^N0^N2^N0^t^Sgear1^T^N1^S183011::::::::60:265::6:4:7187:6652:1498:6646:1:28:753^N2^S183011::::::::60:265::6:4:7187:6652:1498:6646:1:28:753^t^Sgear2^T^t^t^t^^ RAID Neveh-Kazzak", -- [509]
+			"<21:08:30><Comm>	 ^1^SlootAck^T^N1^N102^N2^N225.75^N3^T^Sresponse^T^N1^B^N2^B^t^Sdiff^T^N1^N0^N2^N0^t^Sgear1^T^N1^S182993::::::::60:102::6:4:7187:6652:1498:6646:1:28:753^N2^S182993::::::::60:102::6:4:7187:6652:1498:6646:1:28:753^t^Sgear2^T^t^t^t^^ RAID Macuc-Kazzak", -- [510]
+			"<21:08:30><Comm>	 ^1^SlootAck^T^N1^N72^N2^N226.625^N3^T^Sresponse^T^N1^B^N2^B^t^Sdiff^T^N1^N0^N2^N0^t^Sgear1^T^N1^S178701::::::::60:72::35:5:7213:6652:1501:5884:6646^N2^S178701::::::::60:72::35:5:7213:6652:1501:5884:6646^t^Sgear2^T^t^t^t^^ RAID Sacraa-Kazzak", -- [511]
+			"<21:08:30><Comm>	 ^1^SlootAck^T^N1^N252^N2^N227.875^N3^T^Sresponse^T^N1^B^N2^B^t^Sdiff^T^N1^N-9^N2^N-9^t^Sgear1^T^N1^S171416::::::::60:252::63:5:6950:6649:6648:6758:1532^N2^S171416::::::::60:252::63:5:6950:6649:6648:6758:1532^t^Sgear2^T^t^t^t^^ RAID Tokzik-Kazzak", -- [512]
+			"<21:08:30><Comm>	 ^1^SlootAck^T^N1^N105^N2^N227.875^N3^T^Sresponse^T^N1^B^N2^B^t^Sdiff^T^N1^N0^N2^N0^t^Sgear1^T^N1^S178819::::::::60:105::35:5:7214:6652:1501:5884:6646^N2^S178819::::::::60:105::35:5:7214:6652:1501:5884:6646^t^Sgear2^T^t^t^t^^ RAID Arookie-Kazzak", -- [513]
+			"<21:08:30><Comm>	 ^1^SlootAck^T^N1^N254^N2^N227.9375^N3^T^Sresponse^T^N1^B^N2^B^t^Sdiff^T^N1^N0^N2^N0^t^Sgear1^T^N1^S183012::::::::60:254::6:4:7187:42:1498:6646:1:28:753^N2^S183012::::::::60:254::6:4:7187:42:1498:6646:1:28:753^t^Sgear2^T^t^t^t^^ RAID Ceases-Kazzak", -- [514]
+			"<21:08:30><Comm>	 ^1^SlootAck^T^N1^N254^N2^N227.875^N3^T^Sresponse^T^N1^B^N2^B^t^Sdiff^T^N1^N0^N2^N0^t^Sgear1^T^N1^S183012::::::::60:254::6:4:7187:6652:1498:6646:1:28:753^N2^S183012::::::::60:254::6:4:7187:6652:1498:6646:1:28:753^t^Sgear2^T^t^t^t^^ RAID Sanshot-Kazzak", -- [515]
+			"<21:08:30><Comm>	 ^1^SlootAck^T^N1^N63^N2^N229.1875^N3^T^Sresponse^T^t^Sdiff^T^N1^N0^N2^N0^t^Sgear1^T^N1^S175905::::::::60:63::14:3:6634:1498:6646:1:28:807^N2^S175905::::::::60:63::14:3:6634:1498:6646:1:28:807^t^Sgear2^T^t^t^t^^ RAID Skonheden-Kazzak", -- [516]
+			"<21:08:30><Comm>	 ^1^SlootAck^T^N1^N264^N2^N229.1875^N3^T^Sresponse^T^N1^B^N2^B^t^Sdiff^T^N1^N0^N2^N0^t^Sgear1^T^N1^S183012::::::::60:264::6:4:7187:6652:1498:6646:1:28:753^N2^S183012::::::::60:264::6:4:7187:6652:1498:6646:1:28:753^t^Sgear2^T^t^t^t^^ RAID Seksixeny-Kazzak", -- [517]
+			"<21:08:30><Comm>	 ^1^SlootAck^T^N1^N259^N2^N225.625^N3^T^Sresponse^T^N1^B^N2^B^t^Sdiff^T^N1^N0^N2^N0^t^Sgear1^T^N1^S178801::::::::60:259::35:5:7214:6652:1501:5884:6646^N2^S178801::::::::60:259::35:5:7214:6652:1501:5884:6646^t^Sgear2^T^t^t^t^^ RAID Kessrogue-Kazzak", -- [518]
+			"<21:08:30><Comm>	 ^1^SlootAck^T^N1^N254^N2^N221.375^N3^T^Sresponse^T^N1^B^N2^B^t^Sdiff^T^N1^N0^N2^N0^t^Sgear1^T^N1^S183012::::::::60:254::6:4:7187:6652:1498:6646:1:28:753^N2^S183012::::::::60:254::6:4:7187:6652:1498:6646:1:28:753^t^Sgear2^T^t^t^t^^ RAID Memescoper-Kazzak", -- [519]
+			"<21:08:30><Comm>	 ^1^SlootAck^T^N1^N65^N2^N227.5^N3^T^Sresponse^T^N1^B^N2^B^t^Sdiff^T^N1^N-9^N2^N-9^t^Sgear1^T^N1^S171416::::::::60:65::63:5:7059:6649:6650:6758:1532^N2^S171416::::::::60:65::63:5:7059:6649:6650:6758:1532^t^Sgear2^T^t^t^t^^ RAID Tankzorx-Kazzak", -- [520]
+			"<21:08:31><Comm>	 ^1^Sl^T^N1^S164407^t^^ RAID Arookie-Kazzak", -- [521]
+			"<21:08:31><Comm>	 ^1^Sl^T^N1^S164407^t^^ RAID Arookie-Kazzak", -- [522]
+			"<21:08:33><Comm>	 ^1^Sresponse^T^N1^N1^N2^T^Sresponse^SPASS^t^t^^ RAID Neveh-Kazzak", -- [523]
+			"<21:08:33><Comm>	 ^1^Sresponse^T^N1^N2^N2^T^Sresponse^SPASS^t^t^^ RAID Neveh-Kazzak", -- [524]
+			"<21:08:33><Comm>	 ^1^Sresponse^T^N1^N1^N2^T^Sresponse^SPASS^t^t^^ RAID Kvaernp-Kazzak", -- [525]
+			"<21:08:33><Comm>	 ^1^Sresponse^T^N1^N2^N2^T^Sresponse^SPASS^t^t^^ RAID Kvaernp-Kazzak", -- [526]
+			"<21:08:34><Comm>	 ^1^Sresponse^T^N1^N1^N2^T^Sresponse^N5^t^t^^ RAID Skonheden-Kazzak", -- [527]
+			"<21:08:34><Comm>	 ^1^Sresponse^T^N1^N2^N2^T^Sresponse^N5^t^t^^ RAID Skonheden-Kazzak", -- [528]
+			"<21:08:37><Comm>	 ^1^Sresponse^T^N1^N1^N2^T^Sresponse^SPASS^t^t^^ RAID Tradushuffle-Kazzak", -- [529]
+			"<21:08:37><Comm>	 ^1^Sresponse^T^N1^N2^N2^T^Sresponse^SPASS^t^t^^ RAID Tradushuffle-Kazzak", -- [530]
+			"<21:08:37><DEBUG>	 Event: ENCOUNTER_LOOT_RECEIVED 2399 183005 |cffa335ee|Hitem:183005::::::::60:262::6:5:7187:6652:7194:1498:6646:1:28:753:::|h[Heedless Pugilist's Harness]|h|r 1 Nited DRUID", -- [531]
+			"<21:08:37><Comm>	 ^1^Sl^T^N1^S164407^t^^ RAID Nited-Kazzak", -- [532]
+			"<21:08:38><Comm>	 ^1^Sresponse^T^N1^N1^N2^T^Sresponse^SPASS^t^t^^ RAID Vapee-Kazzak", -- [533]
+			"<21:08:38><Comm>	 ^1^Sresponse^T^N1^N2^N2^T^Sresponse^SPASS^t^t^^ RAID Vapee-Kazzak", -- [534]
+			"<21:08:40><Comm>	 ^1^Stradable^T^N1^S|cffa335ee|Hitem:183005::::::::60:102::6:5:7187:6652:7194:1498:6646:1:28:753:::|h[Heedless~`Pugilist's~`Harness]|h|r^N2^S164407^t^^ RAID Nited-Kazzak", -- [535]
+			"<21:08:42><Comm>	 ^1^Soffline_timer^T^t^^ RAID Tankzorx-Kazzak", -- [536]
+			"<21:08:43><Comm>	 ^1^Slt_add^T^N1^T^N3^T^Sstring^S183005:::::::::::6:5:7187:6652:7194:1498:6646:1:28:753^StypeCode^Sdefault^Sowner^SNited-Kazzak^Sboss^SSludgefist^t^t^t^^ RAID Tankzorx-Kazzak", -- [537]
+			"<21:08:43><INFO>	 Autopassed on:  |cffa335ee|Hitem:183005::::::::60:262::6:5:7187:6652:7194:1498:6646:1:28:753:::|h[Heedless Pugilist's Harness]|h|r", -- [538]
+			"<21:08:43><INFO>	 GetPlayersGear |cffa335ee|Hitem:183005::::::::60:262::6:5:7187:6652:7194:1498:6646:1:28:753:::|h[Heedless Pugilist's Harness]|h|r INVTYPE_WAIST", -- [539]
+			"<21:08:43><DEBUG>	 LootFrame:AddSingleItem |cffa335ee|Hitem:183005::::::::60:262::6:5:7187:6652:7194:1498:6646:1:28:753:::|h[Heedless Pugilist's Harness]|h|r 0", -- [540]
+			"<21:08:43><Comm>	 ^1^SlootAck^T^N1^N65^N2^N227.3125^N3^T^Sresponse^T^t^Sdiff^T^N3^N0^t^Sgear1^T^N3^S183025::::::::60:65::6:5:7187:6652:7193:1498:6646:1:28:753^t^Sgear2^T^t^t^t^^ RAID Kvaernp-Kazzak", -- [541]
+			"<21:08:43><Comm>	 ^1^SlootAck^T^N1^N250^N2^N227.4375^N3^T^Sresponse^T^N3^B^t^Sdiff^T^N3^N0^t^Sgear1^T^N3^S183025::173129::::::60:250::6:5:7187:6652:6935:1498:6646:1:28:753^t^Sgear2^T^t^t^t^^ RAID Unholydeathh-Kazzak", -- [542]
+			"<21:08:43><Comm>	 ^1^SlootAck^T^N1^N72^N2^N226.625^N3^T^Sresponse^T^N3^B^t^Sdiff^T^N3^N0^t^Sgear1^T^N3^S183015::173128::::::60:72::6:5:7187:6652:1498:6646:6935:1:28:753^t^Sgear2^T^t^t^t^^ RAID Sacraa-Kazzak", -- [543]
+			"<21:08:43><Comm>	 ^1^SlootAck^T^N1^N268^N2^N226.6875^N3^T^Sresponse^T^t^Sdiff^T^N3^N0^t^Sgear1^T^N3^S183005::173127::::::60:268::6:5:7187:6652:1498:6646:6935:1:28:753^t^Sgear2^T^t^t^t^^ RAID Misêry-Kazzak", -- [544]
+			"<21:08:43><Comm>	 ^1^SlootAck^T^N1^N102^N2^N225.125^N3^T^Sresponse^T^t^Sdiff^T^N3^N0^t^Sgear1^T^N3^S183005::::::::60:102::6:5:7187:6652:7194:1498:6646:1:28:753^t^Sgear2^T^t^t^t^^ RAID Nited-Kazzak", -- [545]
+			"<21:08:43><Comm>	 ^1^SlootAck^T^N1^N265^N2^N228.75^N3^T^Sresponse^T^N3^B^t^Sdiff^T^N3^N0^t^Sgear1^T^N3^S183004::173130::::::60:265::6:5:7187:6652:1498:6646:6935^t^Sgear2^T^t^t^t^^ RAID Neveh-Kazzak", -- [546]
+			"<21:08:43><Comm>	 ^1^SlootAck^T^N1^N254^N2^N229.1875^N3^T^Sresponse^T^N3^B^t^Sdiff^T^N3^N0^t^Sgear1^T^N3^S182976::173127::::::60:254::6:5:7187:6652:1498:6646:6935:1:28:753^t^Sgear2^T^t^t^t^^ RAID Adrenalynz-Kazzak", -- [547]
+			"<21:08:43><Comm>	 ^1^SlootAck^T^N1^N252^N2^N227.875^N3^T^Sresponse^T^N3^B^t^Sdiff^T^N3^N0^t^Sgear1^T^N3^S183025::173130::::::60:252::6:5:7187:6652:1498:6646:6935^t^Sgear2^T^t^t^t^^ RAID Tokzik-Kazzak", -- [548]
+			"<21:08:43><Comm>	 ^1^SlootAck^T^N1^N581^N2^N228.75^N3^T^Sresponse^T^t^Sdiff^T^N3^N0^t^Sgear1^T^N3^S183005::173128::::::60:581::6:5:7187:6652:1498:6646:6935^t^Sgear2^T^t^t^t^^ RAID Bevv-Kazzak", -- [549]
+			"<21:08:43><Comm>	 ^1^SlootAck^T^N1^N254^N2^N221.375^N3^T^Sresponse^T^N3^B^t^Sdiff^T^N3^N0^t^Sgear1^T^N3^S182976::173127::::::60:254::6:5:7187:43:6935:1498:6646:1:28:753^t^Sgear2^T^t^t^t^^ RAID Memescoper-Kazzak", -- [550]
+			"<21:08:43><Comm>	 ^1^SlootAck^T^N1^N262^N2^N228.75^N3^T^Sresponse^T^N3^B^t^Sdiff^T^N3^N0^t^Sgear1^T^N3^S175914::173127::::::60:262::44:5:6623:6652:1498:6646:6935^t^Sgear2^T^t^t^t^^ RAID Rentaki-Kazzak", -- [551]
+			"<21:08:43><Comm>	 ^1^SlootAck^T^N1^N72^N2^N227.4375^N3^T^Sresponse^T^N3^B^t^Sdiff^T^N3^N0^t^Sgear1^T^N3^S183025::173128::::::60:72::6:5:7187:6652:1498:6646:6935:1:28:753^t^Sgear2^T^t^t^t^^ RAID Riworra-Kazzak", -- [552]
+			"<21:08:43><Comm>	 ^1^SlootAck^T^N1^N254^N2^N227.875^N3^T^Sresponse^T^N3^B^t^Sdiff^T^N3^N0^t^Sgear1^T^N3^S182976::173127::::::60:254::6:5:7187:6652:1498:6646:6935:1:28:753^t^Sgear2^T^t^t^t^^ RAID Sanshot-Kazzak", -- [553]
+			"<21:08:43><Comm>	 ^1^SlootAck^T^N1^N105^N2^N227.875^N3^T^Sresponse^T^t^Sdiff^T^N3^N0^t^Sgear1^T^N3^S183005::173128::::::60:105::6:5:7187:41:1498:6646:6935^t^Sgear2^T^t^t^t^^ RAID Arookie-Kazzak", -- [554]
+			"<21:08:43><Comm>	 ^1^SlootAck^T^N1^N254^N2^N227.9375^N3^T^Sresponse^T^N3^B^t^Sdiff^T^N3^N13^t^Sgear1^T^N3^S183016::173127::::::60:254::5:5:7188:6652:6935:1485:6646:1:28:752^t^Sgear2^T^t^t^t^^ RAID Ceases-Kazzak", -- [555]
+			"<21:08:43><Comm>	 ^1^SlootAck^T^N1^N102^N2^N225.75^N3^T^Sresponse^T^t^Sdiff^T^N3^N0^t^Sgear1^T^N3^S183005::173127::::::60:102::6:5:7187:6652:1498:6646:6935^t^Sgear2^T^t^t^t^^ RAID Macuc-Kazzak", -- [556]
+			"<21:08:43><Comm>	 ^1^SlootAck^T^N1^N65^N2^N227.5^N3^T^Sresponse^T^N3^B^t^Sdiff^T^N3^N0^t^Sgear1^T^N3^S175912::173128::::::60:65::44:5:6623:41:1498:6646:6935^t^Sgear2^T^t^t^t^^ RAID Tankzorx-Kazzak", -- [557]
+			"<21:08:43><Comm>	 ^1^SlootAck^T^N1^N256^N2^N227.875^N3^T^Sresponse^T^N3^B^t^Sdiff^T^N3^N0^t^Sgear1^T^N3^S183004::173128::::::60:256::6:5:7187:6652:6935:1498:6646:1:28:753^t^Sgear2^T^t^t^t^^ RAID Vapee-Kazzak", -- [558]
+			"<21:08:43><Comm>	 ^1^SlootAck^T^N1^N102^N2^N226.1875^N3^T^Sresponse^T^t^Sdiff^T^N3^N0^t^Sgear1^T^N3^S178823::::::::60:102::35:6:7214:40:7193:1501:5884:6646^t^Sgear2^T^t^t^t^^ RAID Tradushuffle-Kazzak", -- [559]
+			"<21:08:43><Comm>	 ^1^SlootAck^T^N1^N63^N2^N229.1875^N3^T^Sresponse^T^N3^B^t^Sdiff^T^N3^N0^t^Sgear1^T^N3^S183028::173128::::::60:63::6:5:7187:6652:1498:6646:6935:1:28:753^t^Sgear2^T^t^t^t^^ RAID Skonheden-Kazzak", -- [560]
+			"<21:08:43><Comm>	 ^1^SlootAck^T^N1^N264^N2^N229.1875^N3^T^Sresponse^T^N3^B^t^Sdiff^T^N3^N0^t^Sgear1^T^N3^S178932::173127::::::60:264::35:6:7213:6652:1501:5884:6646:6935^t^Sgear2^T^t^t^t^^ RAID Seksixeny-Kazzak", -- [561]
+			"<21:08:43><Comm>	 ^1^SlootAck^T^N1^N259^N2^N225.625^N3^T^Sresponse^T^t^Sdiff^T^N3^N0^t^Sgear1^T^N3^S182995::173128::::::60:259::6:5:7187:43:1498:6646:6935:1:28:753^t^Sgear2^T^t^t^t^^ RAID Kessrogue-Kazzak", -- [562]
+			"<21:08:45><Comm>	 ^1^Sresponse^T^N1^N3^N2^T^Sresponse^SPASS^t^t^^ RAID Kvaernp-Kazzak", -- [563]
+			"<21:08:45><Comm>	 ^1^Sresponse^T^N1^N3^N2^T^Sresponse^SPASS^t^t^^ RAID Nited-Kazzak", -- [564]
+			"<21:08:46><Comm>	 ^1^Sresponse^T^N1^N1^N2^T^Sresponse^SPASS^t^t^^ RAID Bevv-Kazzak", -- [565]
+			"<21:08:46><Comm>	 ^1^Sresponse^T^N1^N2^N2^T^Sresponse^SPASS^t^t^^ RAID Bevv-Kazzak", -- [566]
+			"<21:08:46><Comm>	 ^1^Sresponse^T^N1^N3^N2^T^Sresponse^SPASS^t^t^^ RAID Misêry-Kazzak", -- [567]
+			"<21:08:47><Comm>	 ^1^Sresponse^T^N1^N3^N2^T^Sresponse^SPASS^t^t^^ RAID Bevv-Kazzak", -- [568]
+			"<21:08:50><Comm>	 ^1^Sresponse^T^N1^N3^N2^T^Sresponse^SPASS^t^t^^ RAID Arookie-Kazzak", -- [569]
+			"<21:08:50><Comm>	 ^1^Sresponse^T^N1^N3^N2^T^Sresponse^SPASS^t^t^^ RAID Macuc-Kazzak", -- [570]
+			"<21:08:54><Comm>	 ^1^Sresponse^T^N1^N3^N2^T^Sresponse^SPASS^t^t^^ RAID Tradushuffle-Kazzak", -- [571]
+			"<21:09:01><Comm>	 ^1^Sresponse^T^N1^N3^N2^T^Sresponse^SPASS^t^t^^ RAID Kessrogue-Kazzak", -- [572]
+			"<21:09:02><Comm>	 ^1^Shistory^T^N1^SMijyn-TwistingNether^N2^T^SmapID^N2296^Scolor^T^N1^N0.5^N2^N0.5^N3^N0.5^N4^N1^t^Sclass^SMAGE^SgroupSize^N20^Sboss^SSludgefist^Stime^S21:09:03^Sinstance^SCastle~`Nathria-Mythic^Sowner^SNeveh-Kazzak^Sresponse^SOffline~`or~`RCLootCouncil~`not~`installed^StypeCode^Sdefault^SdifficultyID^N16^SlootWon^S|cffa335ee|Hitem:182981::::::::60:65::6:4:7187:6652:1498:6646:1:28:753:::|h[Leggings~`of~`Lethal~`Reverberations]|h|r^Sid^S1615403343-29^Sdate^S10/03/21^SresponseID^SNOTHING^Svotes^N0^SisAwardReason^b^t^t^^ RAID Tankzorx-Kazzak", -- [573]
+			"<21:09:02><Comm>	 ^1^Sawarded^T^N1^N1^N2^SMijyn-TwistingNether^N3^SNeveh-Kazzak^t^^ RAID Tankzorx-Kazzak", -- [574]
+			"<21:09:04><Comm>	 ^1^Shistory^T^N1^SSkonheden-Kazzak^N2^T^SmapID^N2296^Scolor^T^N1^N0.7^N2^N0.18^N3^N0.1^N4^N1^t^Sclass^SMAGE^SgroupSize^N20^Sboss^SSludgefist^Stime^S21:09:05^SitemReplaced1^S|cffa335ee|Hitem:175905::::::::60:65::14:3:6634:1498:6646:1:28:807:::|h[Sinful~`Gladiator's~`Silk~`Leggings]|h|r^Sinstance^SCastle~`Nathria-Mythic^Sowner^SVapee-Kazzak^Sresponse^STransmog^StypeCode^Sdefault^SdifficultyID^N16^SlootWon^S|cffa335ee|Hitem:182981::::::::60:65::6:4:7187:6652:1498:6646:1:28:753:::|h[Leggings~`of~`Lethal~`Reverberations]|h|r^Sid^S1615403345-30^Sdate^S10/03/21^SresponseID^N5^Svotes^N0^SisAwardReason^b^t^t^^ RAID Tankzorx-Kazzak", -- [575]
+			"<21:09:04><Comm>	 ^1^Sawarded^T^N1^N2^N2^SSkonheden-Kazzak^N3^SVapee-Kazzak^t^^ RAID Tankzorx-Kazzak", -- [576]
+			"<21:09:09><Comm>	 ^1^Shistory^T^N1^SNited-Kazzak^N2^T^SmapID^N2296^Scolor^T^N1^N0.7^N2^N0.7^N3^N0.7^N4^N1^t^Sclass^SDRUID^SgroupSize^N20^Sboss^SSludgefist^Stime^S21:09:10^SitemReplaced1^S|cffa335ee|Hitem:183005::::::::60:65::6:5:7187:6652:7194:1498:6646:1:28:753:::|h[Heedless~`Pugilist's~`Harness]|h|r^Sinstance^SCastle~`Nathria-Mythic^Sowner^SNited-Kazzak^Sresponse^SPass^StypeCode^Sdefault^SdifficultyID^N16^SlootWon^S|cffa335ee|Hitem:183005::::::::60:65::6:5:7187:6652:7194:1498:6646:1:28:753:::|h[Heedless~`Pugilist's~`Harness]|h|r^Sid^S1615403350-31^Sdate^S10/03/21^SresponseID^SPASS^Svotes^N0^SisAwardReason^b^t^t^^ RAID Tankzorx-Kazzak", -- [577]
+			"<21:09:09><Comm>	 ^1^Sawarded^T^N1^N3^N2^SNited-Kazzak^N3^SNited-Kazzak^t^^ RAID Tankzorx-Kazzak", -- [578]
+			"<21:09:10><Comm>	 ^1^Ssession_end^T^t^^ RAID Tankzorx-Kazzak", -- [579]
+			"<21:10:09><Comm>	 ^1^Sl^T^N1^S173280^t^^ RAID Kessrogue-Kazzak", -- [580]
+			"<21:10:38><Comm>	 ^1^Sl^T^N1^S173276^t^^ RAID Tradushuffle-Kazzak", -- [581]
+			"<21:10:38><Comm>	 ^1^Sl^T^N1^S173276^t^^ RAID Tradushuffle-Kazzak", -- [582]
+			"<21:10:38><Comm>	 ^1^Sl^T^N1^S173280^t^^ RAID Nited-Kazzak", -- [583]
+			"<21:10:38><Comm>	 ^1^Sl^T^N1^S173280^t^^ RAID Nited-Kazzak", -- [584]
+			"<21:10:40><Comm>	 ^1^Sl^T^N1^S173276^t^^ RAID Seksixeny-Kazzak", -- [585]
+			"<21:10:40><Comm>	 ^1^Sl^T^N1^S173276^t^^ RAID Sanshot-Kazzak", -- [586]
+			"<21:10:40><Comm>	 ^1^Sl^T^N1^S173276^t^^ RAID Sanshot-Kazzak", -- [587]
+			"<21:10:41><Comm>	 ^1^Sl^T^N1^S173276^t^^ RAID Neveh-Kazzak", -- [588]
+			"<21:10:41><Comm>	 ^1^Sl^T^N1^S173276^t^^ RAID Neveh-Kazzak", -- [589]
+			"<21:10:42><Comm>	 ^1^Sl^T^N1^S173280^t^^ RAID Memescoper-Kazzak", -- [590]
+			"<21:10:42><Comm>	 ^1^Sl^T^N1^S173280^t^^ RAID Memescoper-Kazzak", -- [591]
+			"<21:10:58><Comm>	 ^1^Sl^T^N1^S173280^t^^ RAID Macuc-Kazzak", -- [592]
+			"<21:10:58><Comm>	 ^1^Sl^T^N1^S173280^t^^ RAID Macuc-Kazzak", -- [593]
+			"<21:11:03><Comm>	 ^1^Strade_WrongWinner^T^N1^S|cffa335ee|Hitem:182981::::::::60:256::6:4:7187:6652:1498:6646:1:28:753:::|h[Leggings~`of~`Lethal~`Reverberations]|h|r^N2^SMijyn-TwistingNether^N3^SVapee-Kazzak^N4^SSkonheden-Kazzak^t^^ RAID Vapee-Kazzak", -- [594]
+			"<21:11:15><Comm>	 ^1^Sl^T^N1^S173276^t^^ RAID Tankzorx-Kazzak", -- [595]
+			"<21:11:15><Comm>	 ^1^Sl^T^N1^S173276^t^^ RAID Tankzorx-Kazzak", -- [596]
+			"<21:12:16><Comm>	 ^1^Sl^T^N1^S173280^t^^ RAID Kessrogue-Kazzak", -- [597]
+			"<21:12:16><Comm>	 ^1^Sl^T^N1^S173280^t^^ RAID Kessrogue-Kazzak", -- [598]
+			"<21:12:45><Comm>	 ^1^Sl^T^N1^S173280^t^^ RAID Vapee-Kazzak", -- [599]
+			"<21:12:45><Comm>	 ^1^Sl^T^N1^S173280^t^^ RAID Vapee-Kazzak", -- [600]
+			"<21:17:27><Comm>	 ^1^Sxrealm^T^N1^STankzorx-Kazzak^N2^SMLdb_request^t^^ RAID Seksixeny-Kazzak", -- [601]
+			"<21:17:27><Comm>	 ^1^Sxrealm^T^N1^STankzorx-Kazzak^N2^Scouncil_request^t^^ RAID Seksixeny-Kazzak", -- [602]
+			"<21:17:27><Comm>	 ^1^Smldb^T^N1^T^S|8^T^SAZERITE^T^N1^T^S|15^Smainspec^t^N2^T^S|15^Sresiduum^t^N3^T^S|15^Soffspec^t^t^S|14^T^N1^T^S|15^SNeed~`BIS^t^N2^T^S|15^SNeed~`not~`BIS^t^N4^T^S|15^SOffspec^t^N5^T^S|15^STransmog^t^S|5^N5^t^t^S|12^N60^S|11^T^SAZERITE^T^N1^T^S|15^Smainspec^S|4^N1^S|16^T^N1^N0^N2^N1^N3^N0.05^N4^N1^t^t^N2^T^S|15^Sresiduum^S|4^N2^S|16^T^N1^N0.04^N2^N0.08^N3^N1^N4^N1^t^t^N3^T^S|15^Soffspec^S|4^N3^S|16^T^N1^N1^N2^N0.07^N3^N0^N4^N1^t^t^t^S|14^T^N1^T^S|15^SNeed~`BIS^S|4^N1^S|16^T^N1^N0^N2^N1^N3^N0^N4^N1^t^t^N2^T^S|15^SNeed~`not~`BIS^S|4^N2^S|16^T^N1^N0.54^N2^N1^N3^N0.12^N4^N1^t^t^N3^T^S|15^SMinor~`Upgrade^S|4^N3^S|16^T^N1^N0.63^N2^N0.7^N3^N0.22^N4^N1^t^t^N4^T^S|15^SOffspec^S|4^N4^S|16^T^N1^N0.7^N2^N0.43^N3^N0.17^N4^N1^t^t^N5^T^S|15^STransmog^S|4^N5^S|16^T^N1^N0.7^N2^N0.18^N3^N0.1^N4^N1^t^t^t^t^S|1^B^S|5^N5^S|2^B^t^t^^ RAID Tankzorx-Kazzak", -- [603]
+			"<21:17:27><INFO>	 OnMLDBReceived", -- [604]
+			"<21:17:27><Comm>	 ^1^Scouncil^T^N1^T^S1305-0AFC367F^B^S1305-0B0DCA21^B^S1305-0B0E3079^B^S1305-0B30094D^B^t^t^^ RAID Tankzorx-Kazzak", -- [605]
+			"<21:17:27><DEBUG>	 isCouncil false", -- [606]
+			"<21:21:01><Comm>	 ^1^Sxrealm^T^N1^STankzorx-Kazzak^N2^SMLdb_request^t^^ RAID Tokzik-Kazzak", -- [607]
+			"<21:21:01><Comm>	 ^1^Sxrealm^T^N1^STankzorx-Kazzak^N2^Scouncil_request^t^^ RAID Tokzik-Kazzak", -- [608]
+			"<21:21:01><Comm>	 ^1^Smldb^T^N1^T^S|8^T^SAZERITE^T^N1^T^S|15^Smainspec^t^N2^T^S|15^Sresiduum^t^N3^T^S|15^Soffspec^t^t^S|14^T^N1^T^S|15^SNeed~`BIS^t^N2^T^S|15^SNeed~`not~`BIS^t^N4^T^S|15^SOffspec^t^N5^T^S|15^STransmog^t^S|5^N5^t^t^S|12^N60^S|11^T^SAZERITE^T^N1^T^S|15^Smainspec^S|4^N1^S|16^T^N1^N0^N2^N1^N3^N0.05^N4^N1^t^t^N2^T^S|15^Sresiduum^S|4^N2^S|16^T^N1^N0.04^N2^N0.08^N3^N1^N4^N1^t^t^N3^T^S|15^Soffspec^S|4^N3^S|16^T^N1^N1^N2^N0.07^N3^N0^N4^N1^t^t^t^S|14^T^N1^T^S|15^SNeed~`BIS^S|4^N1^S|16^T^N1^N0^N2^N1^N3^N0^N4^N1^t^t^N2^T^S|15^SNeed~`not~`BIS^S|4^N2^S|16^T^N1^N0.54^N2^N1^N3^N0.12^N4^N1^t^t^N3^T^S|15^SMinor~`Upgrade^S|4^N3^S|16^T^N1^N0.63^N2^N0.7^N3^N0.22^N4^N1^t^t^N4^T^S|15^SOffspec^S|4^N4^S|16^T^N1^N0.7^N2^N0.43^N3^N0.17^N4^N1^t^t^N5^T^S|15^STransmog^S|4^N5^S|16^T^N1^N0.7^N2^N0.18^N3^N0.1^N4^N1^t^t^t^t^S|1^B^S|5^N5^S|2^B^t^t^^ RAID Tankzorx-Kazzak", -- [609]
+			"<21:21:01><INFO>	 OnMLDBReceived", -- [610]
+			"<21:21:01><Comm>	 ^1^Scouncil^T^N1^T^S1305-0AFC367F^B^S1305-0B0DCA21^B^S1305-0B0E3079^B^S1305-0B30094D^B^t^t^^ RAID Tankzorx-Kazzak", -- [611]
+			"<21:21:01><DEBUG>	 isCouncil false", -- [612]
+			"<21:21:55><Comm>	 ^1^Sxrealm^T^N1^STankzorx-Kazzak^N2^SMLdb_request^t^^ RAID Seksixeny-Kazzak", -- [613]
+			"<21:21:55><Comm>	 ^1^Sxrealm^T^N1^STankzorx-Kazzak^N2^Scouncil_request^t^^ RAID Seksixeny-Kazzak", -- [614]
+			"<21:21:55><Comm>	 ^1^Smldb^T^N1^T^S|8^T^SAZERITE^T^N1^T^S|15^Smainspec^t^N2^T^S|15^Sresiduum^t^N3^T^S|15^Soffspec^t^t^S|14^T^N1^T^S|15^SNeed~`BIS^t^N2^T^S|15^SNeed~`not~`BIS^t^N4^T^S|15^SOffspec^t^N5^T^S|15^STransmog^t^S|5^N5^t^t^S|12^N60^S|11^T^SAZERITE^T^N1^T^S|15^Smainspec^S|4^N1^S|16^T^N1^N0^N2^N1^N3^N0.05^N4^N1^t^t^N2^T^S|15^Sresiduum^S|4^N2^S|16^T^N1^N0.04^N2^N0.08^N3^N1^N4^N1^t^t^N3^T^S|15^Soffspec^S|4^N3^S|16^T^N1^N1^N2^N0.07^N3^N0^N4^N1^t^t^t^S|14^T^N1^T^S|15^SNeed~`BIS^S|4^N1^S|16^T^N1^N0^N2^N1^N3^N0^N4^N1^t^t^N2^T^S|15^SNeed~`not~`BIS^S|4^N2^S|16^T^N1^N0.54^N2^N1^N3^N0.12^N4^N1^t^t^N3^T^S|15^SMinor~`Upgrade^S|4^N3^S|16^T^N1^N0.63^N2^N0.7^N3^N0.22^N4^N1^t^t^N4^T^S|15^SOffspec^S|4^N4^S|16^T^N1^N0.7^N2^N0.43^N3^N0.17^N4^N1^t^t^N5^T^S|15^STransmog^S|4^N5^S|16^T^N1^N0.7^N2^N0.18^N3^N0.1^N4^N1^t^t^t^t^S|1^B^S|5^N5^S|2^B^t^t^^ RAID Tankzorx-Kazzak", -- [615]
+			"<21:21:55><INFO>	 OnMLDBReceived", -- [616]
+			"<21:21:55><Comm>	 ^1^Scouncil^T^N1^T^S1305-0AFC367F^B^S1305-0B0DCA21^B^S1305-0B0E3079^B^S1305-0B30094D^B^t^t^^ RAID Tankzorx-Kazzak", -- [617]
+			"<21:21:55><DEBUG>	 isCouncil false", -- [618]
+			"<21:25:00><Comm>	 ^1^Sxrealm^T^N1^STankzorx-Kazzak^N2^SMLdb_request^t^^ RAID Seksixeny-Kazzak", -- [619]
+			"<21:25:00><Comm>	 ^1^Sxrealm^T^N1^STankzorx-Kazzak^N2^Scouncil_request^t^^ RAID Seksixeny-Kazzak", -- [620]
+			"<21:25:01><Comm>	 ^1^Smldb^T^N1^T^S|8^T^SAZERITE^T^N1^T^S|15^Smainspec^t^N2^T^S|15^Sresiduum^t^N3^T^S|15^Soffspec^t^t^S|14^T^N1^T^S|15^SNeed~`BIS^t^N2^T^S|15^SNeed~`not~`BIS^t^N4^T^S|15^SOffspec^t^N5^T^S|15^STransmog^t^S|5^N5^t^t^S|12^N60^S|11^T^SAZERITE^T^N1^T^S|15^Smainspec^S|4^N1^S|16^T^N1^N0^N2^N1^N3^N0.05^N4^N1^t^t^N2^T^S|15^Sresiduum^S|4^N2^S|16^T^N1^N0.04^N2^N0.08^N3^N1^N4^N1^t^t^N3^T^S|15^Soffspec^S|4^N3^S|16^T^N1^N1^N2^N0.07^N3^N0^N4^N1^t^t^t^S|14^T^N1^T^S|15^SNeed~`BIS^S|4^N1^S|16^T^N1^N0^N2^N1^N3^N0^N4^N1^t^t^N2^T^S|15^SNeed~`not~`BIS^S|4^N2^S|16^T^N1^N0.54^N2^N1^N3^N0.12^N4^N1^t^t^N3^T^S|15^SMinor~`Upgrade^S|4^N3^S|16^T^N1^N0.63^N2^N0.7^N3^N0.22^N4^N1^t^t^N4^T^S|15^SOffspec^S|4^N4^S|16^T^N1^N0.7^N2^N0.43^N3^N0.17^N4^N1^t^t^N5^T^S|15^STransmog^S|4^N5^S|16^T^N1^N0.7^N2^N0.18^N3^N0.1^N4^N1^t^t^t^t^S|1^B^S|5^N5^S|2^B^t^t^^ RAID Tankzorx-Kazzak", -- [621]
+			"<21:25:01><INFO>	 OnMLDBReceived", -- [622]
+			"<21:25:01><Comm>	 ^1^Scouncil^T^N1^T^S1305-0AFC367F^B^S1305-0B0DCA21^B^S1305-0B0E3079^B^S1305-0B30094D^B^t^t^^ RAID Tankzorx-Kazzak", -- [623]
+			"<21:25:01><DEBUG>	 isCouncil false", -- [624]
+			"<21:26:12><Comm>	 ^1^Sxrealm^T^N1^STankzorx-Kazzak^N2^SMLdb_request^t^^ RAID Unholydeathh-Kazzak", -- [625]
+			"<21:26:12><Comm>	 ^1^Smldb^T^N1^T^S|8^T^SAZERITE^T^N1^T^S|15^Smainspec^t^N2^T^S|15^Sresiduum^t^N3^T^S|15^Soffspec^t^t^S|14^T^N1^T^S|15^SNeed~`BIS^t^N2^T^S|15^SNeed~`not~`BIS^t^N4^T^S|15^SOffspec^t^N5^T^S|15^STransmog^t^S|5^N5^t^t^S|12^N60^S|11^T^SAZERITE^T^N1^T^S|15^Smainspec^S|4^N1^S|16^T^N1^N0^N2^N1^N3^N0.05^N4^N1^t^t^N2^T^S|15^Sresiduum^S|4^N2^S|16^T^N1^N0.04^N2^N0.08^N3^N1^N4^N1^t^t^N3^T^S|15^Soffspec^S|4^N3^S|16^T^N1^N1^N2^N0.07^N3^N0^N4^N1^t^t^t^S|14^T^N1^T^S|15^SNeed~`BIS^S|4^N1^S|16^T^N1^N0^N2^N1^N3^N0^N4^N1^t^t^N2^T^S|15^SNeed~`not~`BIS^S|4^N2^S|16^T^N1^N0.54^N2^N1^N3^N0.12^N4^N1^t^t^N3^T^S|15^SMinor~`Upgrade^S|4^N3^S|16^T^N1^N0.63^N2^N0.7^N3^N0.22^N4^N1^t^t^N4^T^S|15^SOffspec^S|4^N4^S|16^T^N1^N0.7^N2^N0.43^N3^N0.17^N4^N1^t^t^N5^T^S|15^STransmog^S|4^N5^S|16^T^N1^N0.7^N2^N0.18^N3^N0.1^N4^N1^t^t^t^t^S|1^B^S|5^N5^S|2^B^t^t^^ RAID Tankzorx-Kazzak", -- [626]
+			"<21:26:12><INFO>	 OnMLDBReceived", -- [627]
+			"<21:28:53><DEBUG>	 Event: PARTY_LEADER_CHANGED", -- [628]
+			"<21:28:55><DEBUG>	 GetML()", -- [629]
+			"<21:28:55><DEBUG>	 Resetting council as we have a new ML!", -- [630]
+			"<21:28:55><INFO>	 MasterLooter =  Unholydeathh-Kazzak", -- [631]
+			"<21:28:56><Comm>	 ^1^SStopHandleLoot^T^t^^ RAID Tankzorx-Kazzak", -- [632]
+			"<21:28:56><Comm>	 ^1^SplayerInfoRequest^T^t^^ RAID Unholydeathh-Kazzak", -- [633]
+			"<21:28:56><Comm>	 ^1^Smldb^T^N1^T^S|8^T^S|14^T^N1^T^S|15^SNeed~`(BIS~`stats)^t^N2^T^S|15^SNeed~`(Not~`BiS~`stats)^t^N3^T^S|15^SVery~`Minor^t^N4^T^S|15^SResiduum^t^N5^T^S|15^SOffspecxd^t^N6^T^S|15^STRANSMOG~`X~`D^t^S|5^N6^t^t^S|12^N60^S|11^T^S|14^T^N1^T^S|15^SNeed~`(BIS~`stats)^S|4^N1^S|16^T^N1^N1^N2^N0.53^N3^N0^N4^N1^t^t^N2^T^S|15^SNeed~`(Not~`BiS~`stats)^S|4^N2^S|16^T^N1^N0.04^N2^N0.14^N3^N1^N4^N1^t^t^N3^T^S|15^SVery~`Minor~`(if~`noone~`else)^S|4^N3^S|16^T^N1^N0.07^N2^N0.7^N3^N0.07^N4^N1^t^t^N4^T^S|15^SResiduum^S|4^N4^S|16^T^N1^N0.25^N2^N0.7^N3^N0.7^N4^N1^t^t^N5^T^S|15^SOffspecxd^S|4^N5^S|16^T^N1^N0.7^N2^N0.67^N3^N0^N4^N1^t^t^N6^T^S|15^STRANSMOG~`XD^S|4^N6^S|16^T^N1^N0.69^N2^N0.02^N3^N0.66^N4^N1^t^t^t^t^S|6^B^S|5^N6^t^t^^ RAID Unholydeathh-Kazzak", -- [634]
+			"<21:28:56><INFO>	 OnMLDBReceived", -- [635]
+			"<21:28:56><Comm>	 ^1^Sxrealm^T^N1^SUnholydeathh-Kazzak^N2^SpI^N3^SDAMAGER^N4^SMike~`Pence^N5^B^N6^N115^N7^N221.375^N8^N254^t^^ RAID Memescoper-Kazzak", -- [636]
+			"<21:28:56><Comm>	 ^1^Sxrealm^T^N1^SUnholydeathh-Kazzak^N2^SpI^N3^SDAMAGER^N4^SCitizen^N6^N0^N7^N229.1875^N8^N254^t^^ RAID Adrenalynz-Kazzak", -- [637]
+			"<21:28:56><Comm>	 ^1^Sxrealm^T^N1^SUnholydeathh-Kazzak^N2^SpI^N3^SDAMAGER^N4^SUndocumented^N6^N0^N7^N225.9375^N8^N102^t^^ RAID Nited-Kazzak", -- [638]
+			"<21:28:56><Comm>	 ^1^Sxrealm^T^N1^SUnholydeathh-Kazzak^N2^SpI^N3^SDAMAGER^N4^SCitizen^N6^N0^N7^N226.625^N8^N72^t^^ RAID Sacraa-Kazzak", -- [639]
+			"<21:28:56><Comm>	 ^1^Sxrealm^T^N1^SUnholydeathh-Kazzak^N2^SpI^N3^SDAMAGER^N4^SCitizen^N6^N0^N7^N229.1875^N8^N262^t^^ RAID Rentaki-Kazzak", -- [640]
+			"<21:28:56><Comm>	 ^1^Sxrealm^T^N1^SUnholydeathh-Kazzak^N2^SpI^N3^SDAMAGER^N4^SCitizen^N6^N0^N7^N226.4375^N8^N252^t^^ RAID Tokzik-Kazzak", -- [641]
+			"<21:28:56><Comm>	 ^1^Sxrealm^T^N1^SUnholydeathh-Kazzak^N2^SpI^N3^SHEALER^N4^SMike~`Pence^N6^N0^N7^N227.875^N8^N256^t^^ RAID Vapee-Kazzak", -- [642]
+			"<21:28:56><Comm>	 ^1^Sxrealm^T^N1^SUnholydeathh-Kazzak^N2^SpI^N3^SDAMAGER^N4^SCitizen^N6^N0^N7^N228.75^N8^N265^t^^ RAID Neveh-Kazzak", -- [643]
+			"<21:28:56><Comm>	 ^1^Sxrealm^T^N1^SUnholydeathh-Kazzak^N2^SpI^N3^SDAMAGER^N4^SCitizen^N6^N0^N7^N228.75^N8^N581^t^^ RAID Bevv-Kazzak", -- [644]
+			"<21:28:56><Comm>	 ^1^Sxrealm^T^N1^SUnholydeathh-Kazzak^N2^SpI^N3^SHEALER^N4^SMike~`Pence^N6^N0^N7^N227.5^N8^N65^t^^ RAID Tankzorx-Kazzak", -- [645]
+			"<21:28:56><Comm>	 ^1^Sxrealm^T^N1^SUnholydeathh-Kazzak^N2^SpI^N3^SDAMAGER^N4^SCitizen^N6^N0^N7^N227.9375^N8^N254^t^^ RAID Ceases-Kazzak", -- [646]
+			"<21:28:56><Comm>	 ^1^Sxrealm^T^N1^SUnholydeathh-Kazzak^N2^SpI^N3^STANK^N4^SCitizen^N6^N0^N7^N227.125^N8^N268^t^^ RAID Misêry-Kazzak", -- [647]
+			"<21:28:56><Comm>	 ^1^Sxrealm^T^N1^SUnholydeathh-Kazzak^N2^SpI^N3^SHEALER^N4^SVisa~`Visitor^N5^B^N6^N35^N7^N227.3125^N8^N65^t^^ RAID Kvaernp-Kazzak", -- [648]
+			"<21:28:56><Comm>	 ^1^Sxrealm^T^N1^SUnholydeathh-Kazzak^N2^SpI^N3^STANK^N4^STRUMP^N6^N0^N7^N227.4375^N8^N250^t^^ RAID Unholydeathh-Kazzak", -- [649]
+			"<21:28:56><Comm>	 ^1^Sxrealm^T^N1^SUnholydeathh-Kazzak^N2^SpI^N3^SHEALER^N4^SCitizen^N6^N0^N7^N227.875^N8^N105^t^^ RAID Arookie-Kazzak", -- [650]
+			"<21:28:56><Comm>	 ^1^Sxrealm^T^N1^SUnholydeathh-Kazzak^N2^SpI^N3^SDAMAGER^N4^SCitizen^N6^N0^N7^N227.875^N8^N254^t^^ RAID Sanshot-Kazzak", -- [651]
+			"<21:28:56><Comm>	 ^1^Sxrealm^T^N1^SUnholydeathh-Kazzak^N2^SpI^N3^SDAMAGER^N4^SCitizen^N5^B^N6^N115^N7^N227.4375^N8^N72^t^^ RAID Riworra-Kazzak", -- [652]
+			"<21:28:56><Comm>	 ^1^Sxrealm^T^N1^SUnholydeathh-Kazzak^N2^SpI^N3^SDAMAGER^N4^SCitizen^N6^N0^N7^N226.375^N8^N102^t^^ RAID Macuc-Kazzak", -- [653]
+			"<21:28:56><Comm>	 ^1^Sxrealm^T^N1^SUnholydeathh-Kazzak^N2^SpI^N3^SDAMAGER^N4^SCitizen^N6^N0^N7^N229.1875^N8^N63^t^^ RAID Skonheden-Kazzak", -- [654]
+			"<21:28:56><Comm>	 ^1^Sxrealm^T^N1^SUnholydeathh-Kazzak^N2^SpI^N3^SHEALER^N4^SCitizen^N6^N0^N7^N229.1875^N8^N264^t^^ RAID Seksixeny-Kazzak", -- [655]
+			"<21:28:56><Comm>	 ^1^Sxrealm^T^N1^SUnholydeathh-Kazzak^N2^SpI^N3^SDAMAGER^N4^SVisa~`Visitor^N6^N0^N7^N225.625^N8^N70^t^^ RAID Creo-Kazzak", -- [656]
+			"<21:28:58><Comm>	 ^1^SStartHandleLoot^T^t^^ RAID Unholydeathh-Kazzak", -- [657]
+			"<21:28:58><Comm>	 ^1^Scouncil^T^N1^T^S1305-0AFC367F^B^S1305-0B0DCA21^B^S1305-0B0E3079^B^t^t^^ RAID Unholydeathh-Kazzak", -- [658]
+			"<21:28:58><DEBUG>	 isCouncil false", -- [659]
+			"<21:29:10><DEBUG>	 Timer MLdb_check passed", -- [660]
+			"<21:30:26><DEBUG>	 Event: ENCOUNTER_START 2417 Stone Legion Generals 16 20", -- [661]
+			"<21:30:26><INFO>	 UpdatePlayersData()", -- [662]
+			"<21:37:19><Comm>	 ^1^Sv^T^N1^S3.1.4^t^^ GUILD Magearñ-Kazzak", -- [663]
+			"<21:37:19><Comm>	 ^1^Sr^T^N1^S3.1.3^N3^T^t^t^^ GUILD Kessrogue-Kazzak", -- [664]
+			"<21:37:48><DEBUG>	 Event: ENCOUNTER_END 2417 Stone Legion Generals 16 20 0", -- [665]
+			"<21:39:29><DEBUG>	 Event: ENCOUNTER_START 2417 Stone Legion Generals 16 20", -- [666]
+			"<21:39:29><INFO>	 UpdatePlayersData()", -- [667]
+			"<21:47:09><DEBUG>	 Event: ENCOUNTER_END 2417 Stone Legion Generals 16 20 0", -- [668]
+			"<21:48:35><DEBUG>	 Event: ENCOUNTER_START 2417 Stone Legion Generals 16 20", -- [669]
+			"<21:48:35><INFO>	 UpdatePlayersData()", -- [670]
+			"<21:52:00><DEBUG>	 Event: ENCOUNTER_END 2417 Stone Legion Generals 16 20 0", -- [671]
+			"<21:53:19><Comm>	 ^1^Sv^T^N1^S3.1.4^t^^ GUILD Kvaernp-Kazzak", -- [672]
+			"<21:53:19><Comm>	 ^1^Sr^T^N1^S3.1.3^N3^T^t^t^^ GUILD Kessrogue-Kazzak", -- [673]
+			"<21:53:34><Comm>	 ^1^Sxrealm^T^N1^SUnholydeathh-Kazzak^N2^SMLdb_request^t^^ RAID Kvaernp-Kazzak", -- [674]
+			"<21:53:34><Comm>	 ^1^Sxrealm^T^N1^SUnholydeathh-Kazzak^N2^Scouncil_request^t^^ RAID Kvaernp-Kazzak", -- [675]
+			"<21:53:34><Comm>	 ^1^Smldb^T^N1^T^S|8^T^S|14^T^N1^T^S|15^SNeed~`(BIS~`stats)^t^N2^T^S|15^SNeed~`(Not~`BiS~`stats)^t^N3^T^S|15^SVery~`Minor^t^N4^T^S|15^SResiduum^t^N5^T^S|15^SOffspecxd^t^N6^T^S|15^STRANSMOG~`X~`D^t^S|5^N6^t^t^S|12^N60^S|11^T^S|14^T^N1^T^S|15^SNeed~`(BIS~`stats)^S|4^N1^S|16^T^N1^N1^N2^N0.53^N3^N0^N4^N1^t^t^N2^T^S|15^SNeed~`(Not~`BiS~`stats)^S|4^N2^S|16^T^N1^N0.04^N2^N0.14^N3^N1^N4^N1^t^t^N3^T^S|15^SVery~`Minor~`(if~`noone~`else)^S|4^N3^S|16^T^N1^N0.07^N2^N0.7^N3^N0.07^N4^N1^t^t^N4^T^S|15^SResiduum^S|4^N4^S|16^T^N1^N0.25^N2^N0.7^N3^N0.7^N4^N1^t^t^N5^T^S|15^SOffspecxd^S|4^N5^S|16^T^N1^N0.7^N2^N0.67^N3^N0^N4^N1^t^t^N6^T^S|15^STRANSMOG~`XD^S|4^N6^S|16^T^N1^N0.69^N2^N0.02^N3^N0.66^N4^N1^t^t^t^t^S|6^B^S|5^N6^t^t^^ RAID Unholydeathh-Kazzak", -- [676]
+			"<21:53:34><INFO>	 OnMLDBReceived", -- [677]
+			"<21:53:34><Comm>	 ^1^Scouncil^T^N1^T^S1305-0AFC367F^B^S1305-0B0DCA21^B^S1305-0B0E3079^B^t^t^^ RAID Unholydeathh-Kazzak", -- [678]
+			"<21:53:34><DEBUG>	 isCouncil false", -- [679]
+			"<21:53:46><DEBUG>	 Event: ENCOUNTER_START 2417 Stone Legion Generals 16 20", -- [680]
+			"<21:53:46><INFO>	 UpdatePlayersData()", -- [681]
+			"<22:00:47><DEBUG>	 Event: ENCOUNTER_END 2417 Stone Legion Generals 16 20 0", -- [682]
+			"<22:02:15><DEBUG>	 Event: ENCOUNTER_START 2417 Stone Legion Generals 16 20", -- [683]
+			"<22:02:15><INFO>	 UpdatePlayersData()", -- [684]
+			"<22:05:52><DEBUG>	 Event: ENCOUNTER_END 2417 Stone Legion Generals 16 20 0", -- [685]
+			"<22:07:48><DEBUG>	 Event: ENCOUNTER_START 2417 Stone Legion Generals 16 20", -- [686]
+			"<22:07:48><INFO>	 UpdatePlayersData()", -- [687]
+			"<22:17:52><DEBUG>	 Event: ENCOUNTER_END 2417 Stone Legion Generals 16 20 1", -- [688]
+			"<22:17:54><DEBUG>	 Event: LOOT_READY true", -- [689]
+			"<22:17:54><DEBUG>	 Adding to self.lootSlotInfo 1 nil 1 0 Vehicle-0-4253-2296-4475-168112-00004934CF 733773", -- [690]
+			"<22:17:54><DEBUG>	 Event: LOOT_READY true", -- [691]
+			"<22:17:54><DEBUG>	 Adding to self.lootSlotInfo 1 nil 1 0 Vehicle-0-4253-2296-4475-168112-00004934CF 733773", -- [692]
+			"<22:17:54><DEBUG>	 Event: ENCOUNTER_LOOT_RECEIVED 2417 184286 |cff0070dd|Hitem:184286::::::::60:262:::::::|h[Extinguished Soul Anima]|h|r 5 Rentaki SHAMAN", -- [693]
+			"<22:17:54><DEBUG>	 Event: ENCOUNTER_LOOT_RECEIVED 2417 182134 |cffa335ee|Hitem:182134::::::::60:262::6:2:1553:7245:2:28:753:37:7:::|h[Unruly Winds]|h|r 1 Rentaki SHAMAN", -- [694]
+			"<22:17:54><DEBUG>	 OnLootSlotCleared() 1 nil 1", -- [695]
+			"<22:17:54><DEBUG>	 Event: LOOT_CLOSED", -- [696]
+			"<22:17:54><DEBUG>	 Event: LOOT_CLOSED", -- [697]
+			"<22:17:55><Comm>	 ^1^Sl^T^N1^S168112^t^^ RAID Rentaki-Kazzak", -- [698]
+			"<22:17:55><Comm>	 ^1^Sl^T^N1^S168112^t^^ RAID Rentaki-Kazzak", -- [699]
+			"<22:17:55><Comm>	 ^1^Sl^T^N1^S168112^t^^ RAID Vapee-Kazzak", -- [700]
+			"<22:17:55><Comm>	 ^1^Sl^T^N1^S168112^t^^ RAID Vapee-Kazzak", -- [701]
+			"<22:17:55><Comm>	 ^1^Sl^T^N1^S168112^t^^ RAID Skonheden-Kazzak", -- [702]
+			"<22:17:55><Comm>	 ^1^Sl^T^N1^S168112^t^^ RAID Skonheden-Kazzak", -- [703]
+			"<22:17:55><Comm>	 ^1^Sl^T^N1^S168112^t^^ RAID Nited-Kazzak", -- [704]
+			"<22:17:55><Comm>	 ^1^Sl^T^N1^S168112^t^^ RAID Ceases-Kazzak", -- [705]
+			"<22:17:55><DEBUG>	 Event: ENCOUNTER_LOOT_RECEIVED 2417 183167 |cffa335ee|Hitem:183167::::::::60:262::6:2:1553:7245:2:28:753:37:7:::|h[Strength of the Pack]|h|r 1 Ceases HUNTER", -- [706]
+			"<22:17:55><DEBUG>	 Event: ENCOUNTER_LOOT_RECEIVED 2417 182464 |cffa335ee|Hitem:182464::::::::60:262::6:2:1553:7245:2:28:753:37:7:::|h[Harmony of the Tortollan]|h|r 1 Adrenalynz HUNTER", -- [707]
+			"<22:17:56><Comm>	 ^1^Sl^T^N1^S168112^t^^ RAID Adrenalynz-Kazzak", -- [708]
+			"<22:17:56><Comm>	 ^1^Sl^T^N1^S168112^t^^ RAID Adrenalynz-Kazzak", -- [709]
+			"<22:17:56><Comm>	 ^1^Sl^T^N1^S168112^t^^ RAID Kvaernp-Kazzak", -- [710]
+			"<22:17:56><Comm>	 ^1^Sl^T^N1^S168112^t^^ RAID Kvaernp-Kazzak", -- [711]
+			"<22:17:56><Comm>	 ^1^Sl^T^N1^S168112^t^^ RAID Misêry-Kazzak", -- [712]
+			"<22:17:56><Comm>	 ^1^Sl^T^N1^S168112^t^^ RAID Misêry-Kazzak", -- [713]
+			"<22:17:57><Comm>	 ^1^Sl^T^N1^S168112^t^^ RAID Arookie-Kazzak", -- [714]
+			"<22:17:57><Comm>	 ^1^Sl^T^N1^S168112^t^^ RAID Arookie-Kazzak", -- [715]
+			"<22:17:57><Comm>	 ^1^Sl^T^N1^S168112^t^^ RAID Unholydeathh-Kazzak", -- [716]
+			"<22:17:57><Comm>	 ^1^Sl^T^N1^S168112^t^^ RAID Unholydeathh-Kazzak", -- [717]
+			"<22:17:58><Comm>	 ^1^Sl^T^N1^S168112^t^^ RAID Seksixeny-Kazzak", -- [718]
+			"<22:17:58><Comm>	 ^1^Sl^T^N1^S168112^t^^ RAID Seksixeny-Kazzak", -- [719]
+			"<22:17:58><DEBUG>	 Event: ENCOUNTER_LOOT_RECEIVED 2417 183894 |cffa335ee|Hitem:183894::::::::60:262::85:3:7187:1498:6646:1:28:753:::|h[Thaumaturgic Anima Bead]|h|r 1 Macuc DRUID", -- [720]
+			"<22:17:59><Comm>	 ^1^Sl^T^N1^S168112^t^^ RAID Macuc-Kazzak", -- [721]
+			"<22:17:59><Comm>	 ^1^Sl^T^N1^S168112^t^^ RAID Macuc-Kazzak", -- [722]
+			"<22:18:00><Comm>	 ^1^Sl^T^N1^S168112^t^^ RAID Bevv-Kazzak", -- [723]
+			"<22:18:00><Comm>	 ^1^Sl^T^N1^S168112^t^^ RAID Bevv-Kazzak", -- [724]
+			"<22:18:01><Comm>	 ^1^Sl^T^N1^S168112^t^^ RAID Tokzik-Kazzak", -- [725]
+			"<22:18:01><Comm>	 ^1^Sl^T^N1^S168112^t^^ RAID Tokzik-Kazzak", -- [726]
+			"<22:18:01><Comm>	 ^1^Sn_t^T^N1^S|cffa335ee|Hitem:183894::::::::60:102::85:3:7187:1498:6646:1:28:753:::|h[Thaumaturgic~`Anima~`Bead]|h|r^N2^S168112^t^^ RAID Macuc-Kazzak", -- [727]
+			"<22:18:02><Comm>	 ^1^Shistory^T^N1^SMacuc-Kazzak^N2^T^SmapID^N2296^Sowner^SMacuc-Kazzak^Sid^S1615407484-0^Sinstance^SCastle~`Nathria-Mythic^Sclass^SDRUID^Sdate^S10/03/21^Sresponse^SPersonal~`Loot~`-~`Non~`tradeable^SgroupSize^N20^SisAwardReason^b^SlootWon^S|cffa335ee|Hitem:183894::::::::60:102::85:3:7187:1498:6646:1:28:753:::|h[Thaumaturgic~`Anima~`Bead]|h|r^SdifficultyID^N16^Sboss^SStone~`Legion~`Generals^SresponseID^SPL^Stime^S22:18:04^Scolor^T^N1^N1^N2^N0.6^N3^N0^N4^N1^t^t^t^^ RAID Unholydeathh-Kazzak", -- [728]
+			"<22:18:06><Comm>	 ^1^SfakeLoot^T^N1^S|cffa335ee|Hitem:183032::::::::60:65::85:4:7187:6652:1498:6646:1:28:753:::|h[Crest~`of~`the~`Legionnaire~`General]|h|r^N2^S168112^t^^ RAID Tankzorx-Kazzak", -- [729]
+			"<22:18:07><DEBUG>	 Event: ENCOUNTER_LOOT_RECEIVED 2417 183032 |cffa335ee|Hitem:183032::::::::60:262::85:4:7187:6652:1498:6646:1:28:753:::|h[Crest of the Legionnaire General]|h|r 1 Tankzorx PALADIN", -- [730]
+			"<22:18:08><Comm>	 ^1^Sl^T^N1^S168112^t^^ RAID Tankzorx-Kazzak", -- [731]
+			"<22:18:08><Comm>	 ^1^Sl^T^N1^S168112^t^^ RAID Tankzorx-Kazzak", -- [732]
+			"<22:18:10><Comm>	 ^1^Sn_t^T^N1^S|cffa335ee|Hitem:183032::::::::60:65::85:4:7187:6652:1498:6646:1:28:753:::|h[Crest~`of~`the~`Legionnaire~`General]|h|r^N2^S168112^t^^ RAID Tankzorx-Kazzak", -- [733]
+			"<22:18:11><Comm>	 ^1^Shistory^T^N1^STankzorx-Kazzak^N2^T^SmapID^N2296^Sowner^STankzorx-Kazzak^Sid^S1615407493-1^Sinstance^SCastle~`Nathria-Mythic^Sclass^SPALADIN^Sdate^S10/03/21^Sresponse^SPersonal~`Loot~`-~`Non~`tradeable^SgroupSize^N20^SisAwardReason^b^SlootWon^S|cffa335ee|Hitem:183032::::::::60:65::85:4:7187:6652:1498:6646:1:28:753:::|h[Crest~`of~`the~`Legionnaire~`General]|h|r^SdifficultyID^N16^Sboss^SStone~`Legion~`Generals^SresponseID^SPL^Stime^S22:18:13^Scolor^T^N1^N1^N2^N0.6^N3^N0^N4^N1^t^t^t^^ RAID Unholydeathh-Kazzak", -- [734]
+			"<22:18:11><Comm>	 ^1^Sl^T^N1^S168112^t^^ RAID Kessrogue-Kazzak", -- [735]
+			"<22:18:11><Comm>	 ^1^Sl^T^N1^S168112^t^^ RAID Kessrogue-Kazzak", -- [736]
+			"<22:18:13><Comm>	 ^1^Sl^T^N1^S168112^t^^ RAID Neveh-Kazzak", -- [737]
+			"<22:18:13><Comm>	 ^1^Sl^T^N1^S168112^t^^ RAID Neveh-Kazzak", -- [738]
+			"<22:18:14><DEBUG>	 Event: ENCOUNTER_LOOT_RECEIVED 2417 183002 |cffa335ee|Hitem:183002::::::::60:262::85:4:7187:6652:1498:6646:1:28:753:::|h[Ceremonial Parade Legguards]|h|r 1 Sacraa WARRIOR", -- [739]
+			"<22:18:15><Comm>	 ^1^Sl^T^N1^S168112^t^^ RAID Sacraa-Kazzak", -- [740]
+			"<22:18:17><Comm>	 ^1^Sn_t^T^N1^S|cffa335ee|Hitem:183002::::::::60:72::85:4:7187:6652:1498:6646:1:28:753:::|h[Ceremonial~`Parade~`Legguards]|h|r^N2^S168112^t^^ RAID Sacraa-Kazzak", -- [741]
+			"<22:18:17><Comm>	 ^1^Shistory^T^N1^SSacraa-Kazzak^N2^T^SmapID^N2296^Sowner^SSacraa-Kazzak^Sid^S1615407500-2^Sinstance^SCastle~`Nathria-Mythic^Sclass^SWARRIOR^Sdate^S10/03/21^Sresponse^SPersonal~`Loot~`-~`Non~`tradeable^SgroupSize^N20^SisAwardReason^b^SlootWon^S|cffa335ee|Hitem:183002::::::::60:72::85:4:7187:6652:1498:6646:1:28:753:::|h[Ceremonial~`Parade~`Legguards]|h|r^SdifficultyID^N16^Sboss^SStone~`Legion~`Generals^SresponseID^SPL^Stime^S22:18:20^Scolor^T^N1^N1^N2^N0.6^N3^N0^N4^N1^t^t^t^^ RAID Unholydeathh-Kazzak", -- [742]
+			"<22:18:20><Comm>	 ^1^Sl^T^N1^S168112^t^^ RAID Sanshot-Kazzak", -- [743]
+			"<22:18:20><Comm>	 ^1^Sl^T^N1^S168112^t^^ RAID Sanshot-Kazzak", -- [744]
+			"<22:18:21><DEBUG>	 Event: ENCOUNTER_LOOT_RECEIVED 2417 184027 |cffa335ee|Hitem:184027::::::::60:262::85:4:7187:6652:1498:6646:1:28:753:::|h[Stone Legion Heraldry]|h|r 1 Riworra WARRIOR", -- [745]
+			"<22:18:21><DEBUG>	 Event: ENCOUNTER_LOOT_RECEIVED 2417 180842 |cffa335ee|Hitem:180842::::::::60:262::6:2:1553:7245:2:28:753:37:7:::|h[Stalwart Guardian]|h|r 1 Riworra WARRIOR", -- [746]
+			"<22:18:22><Comm>	 ^1^Sl^T^N1^S168112^t^^ RAID Riworra-Kazzak", -- [747]
+			"<22:18:22><Comm>	 ^1^Sl^T^N1^S168112^t^^ RAID Riworra-Kazzak", -- [748]
+			"<22:18:24><Comm>	 ^1^Stradable^T^N1^S|cffa335ee|Hitem:184027::::::::60:72::85:4:7187:6652:1498:6646:1:28:753:::|h[Stone~`Legion~`Heraldry]|h|r^N2^S168112^t^^ RAID Riworra-Kazzak", -- [749]
+			"<22:18:26><Comm>	 ^1^SlootTable^T^N1^T^N1^T^Sstring^S184027:::::::::::85:4:7187:6652:1498:6646:1:28:753^StypeCode^Sdefault^Sowner^SRiworra-Kazzak^Sboss^SStone~`Legion~`Generals^t^t^t^^ RAID Unholydeathh-Kazzak", -- [750]
+			"<22:18:26><INFO>	 GetPlayersGear |cffa335ee|Hitem:184027::::::::60:262::85:4:7187:6652:1498:6646:1:28:753:::|h[Stone Legion Heraldry]|h|r INVTYPE_TRINKET", -- [751]
+			"<22:18:26><INFO>	 LootFrame:Start 1 nil", -- [752]
+			"<22:18:26><DEBUG>	 Restoring entry: default 1", -- [753]
+			"<22:18:26><DEBUG>	 GetButtons default", -- [754]
+			"<22:18:26><Comm>	 ^1^SlootAck^T^N1^N252^N2^N226.4375^N3^T^Sresponse^T^t^Sdiff^T^N1^N23^t^Sgear1^T^N1^S175921::::::::60:252::14:3:6623:1498:6646:1:28:807^t^Sgear2^T^N1^S179350::::::::60:252::16:5:7214:6652:1501:5868:6646:1:28:1279^t^t^t^^ RAID Tokzik-Kazzak", -- [755]
+			"<22:18:27><Comm>	 ^1^SlootAck^T^N1^N256^N2^N227.875^N3^T^Sresponse^T^t^Sdiff^T^N1^N7^t^Sgear1^T^N1^S178386::::::::60:256::14:3:6623:1498:6646:1:28:807^t^Sgear2^T^N1^S175921::::::::60:256::14:3:6623:1498:6646:1:28:807^t^t^t^^ RAID Vapee-Kazzak", -- [756]
+			"<22:18:27><Comm>	 ^1^SlootAck^T^N1^N268^N2^N227.125^N3^T^Sresponse^T^t^Sdiff^T^N1^N0^t^Sgear1^T^N1^S184018::::::::60:268::6:4:7187:6652:1498:6646^t^Sgear2^T^N1^S184027::::::::60:268::85:4:7187:6652:1498:6646:1:28:753^t^t^t^^ RAID Misêry-Kazzak", -- [757]
+			"<22:18:27><Comm>	 ^1^SlootAck^T^N1^N102^N2^N225.9375^N3^T^Sresponse^T^t^Sdiff^T^N1^N39^t^Sgear1^T^N1^S184842::::::::60:102::27:4:6652:1472:5891:6646^t^Sgear2^T^N1^S178386::::::::60:102::14:3:6625:1492:6646:1:28:807^t^t^t^^ RAID Nited-Kazzak", -- [758]
+			"<22:18:27><Comm>	 ^1^SlootAck^T^N1^N254^N2^N229.1875^N3^T^Sresponse^T^t^Sdiff^T^N1^N0^t^Sgear1^T^N1^S175921::::::::60:254::14:3:6623:1498:6646:1:28:807^t^Sgear2^T^N1^S184027::::::::60:254::85:4:7187:6652:1498:6646:1:28:753^t^t^t^^ RAID Adrenalynz-Kazzak", -- [759]
+			"<22:18:27><Comm>	 ^1^SlootAck^T^N1^N72^N2^N227.4375^N3^T^Sresponse^T^t^Sdiff^T^N1^N0^t^Sgear1^T^N1^S178386::::::::60:72::14:3:6623:1498:6646:1:28:807^t^Sgear2^T^N1^S184027::::::::60:72::85:4:7187:6652:1498:6646^t^t^t^^ RAID Riworra-Kazzak", -- [760]
+			"<22:18:27><Comm>	 ^1^SlootAck^T^N1^N65^N2^N227.3125^N3^T^Sresponse^T^t^Sdiff^T^N1^N13^t^Sgear1^T^N1^S184028::::::::60:65::84:4:7188:6652:1485:6646:1:28:752^t^Sgear2^T^N1^S178386::::::::60:65::14:3:6623:1498:6646:1:28:807^t^t^t^^ RAID Kvaernp-Kazzak", -- [761]
+			"<22:18:27><Comm>	 ^1^SlootAck^T^N1^N577^N2^N228.5625^N3^T^Sresponse^T^t^Sdiff^T^N1^N0^t^Sgear1^T^N1^S184030::::::::60:577::85:4:7187:6652:1498:6646^t^Sgear2^T^N1^S184027::::::::60:577::85:4:7187:6652:1498:6646:1:28:753^t^t^t^^ RAID Bevv-Kazzak", -- [762]
+			"<22:18:27><Comm>	 ^1^SlootAck^T^N1^N262^N2^N229.1875^N3^T^Sresponse^T^t^Sdiff^T^N1^N0^t^Sgear1^T^N1^S184030::::::::60:262::85:4:7187:6652:1498:6646:1:28:753^t^Sgear2^T^N1^S184028::::::::60:262::85:4:7187:6652:1498:6646^t^t^t^^ RAID Rentaki-Kazzak", -- [763]
+			"<22:18:27><Comm>	 ^1^SlootAck^T^N1^N265^N2^N228.75^N3^T^Sresponse^T^t^Sdiff^T^N1^N7^t^Sgear1^T^N1^S175921::::::::60:265::14:3:6623:1498:6646:1:28:807^t^Sgear2^T^N1^S178386::::::::60:265::14:3:6623:1498:6646:1:28:807^t^t^t^^ RAID Neveh-Kazzak", -- [764]
+			"<22:18:27><Comm>	 ^1^SlootAck^T^N1^N72^N2^N226.625^N3^T^Sresponse^T^t^Sdiff^T^N1^N0^t^Sgear1^T^N1^S184027::::::::60:72::85:4:7187:6652:1498:6646:1:28:753^t^Sgear2^T^N1^S184016::::::::60:72::6:4:7187:6652:1498:6646^t^t^t^^ RAID Sacraa-Kazzak", -- [765]
+			"<22:18:27><Comm>	 ^1^SlootAck^T^N1^N102^N2^N226.375^N3^T^Sresponse^T^t^Sdiff^T^N1^N39^t^Sgear1^T^N1^S184028::::::::60:102::84:4:7188:6652:1485:6646:1:28:752^t^Sgear2^T^N1^S184842::::::::60:102::27:4:6652:1472:5891:6646^t^t^t^^ RAID Macuc-Kazzak", -- [766]
+			"<22:18:27><Comm>	 ^1^SlootAck^T^N1^N63^N2^N229.1875^N3^T^Sresponse^T^t^Sdiff^T^N1^N7^t^Sgear1^T^N1^S184028::::::::60:63::85:4:7187:6652:1498:6646^t^Sgear2^T^N1^S175921::::::::60:63::14:3:6623:1498:6646:1:28:807^t^t^t^^ RAID Skonheden-Kazzak", -- [767]
+			"<22:18:27><Comm>	 ^1^SlootAck^T^N1^N105^N2^N227.875^N3^T^Sresponse^T^t^Sdiff^T^N1^N7^t^Sgear1^T^N1^S178708::::::::60:105::35:6:7214:6652:1501:5884:6646:6917^t^Sgear2^T^N1^S178386::::::::60:105::14:3:6623:1498:6646:1:28:807^t^t^t^^ RAID Arookie-Kazzak", -- [768]
+			"<22:18:27><Comm>	 ^1^SlootAck^T^N1^N254^N2^N227.875^N3^T^Sresponse^T^t^Sdiff^T^N1^N0^t^Sgear1^T^N1^S180116::::::::60:254::35:5:7214:6652:1501:5884:6646^t^Sgear2^T^N1^S184027::::::::60:254::85:4:7187:6652:1498:6646^t^t^t^^ RAID Sanshot-Kazzak", -- [769]
+			"<22:18:27><Comm>	 ^1^SlootAck^T^N1^N65^N2^N227.5^N3^T^Sresponse^T^t^Sdiff^T^N1^N7^t^Sgear1^T^N1^S178386::::::::60:65::40:4:41:6623:1498:6646^t^Sgear2^T^N1^S184029::::::::60:65::85:4:7187:6652:1498:6646:1:28:753^t^t^t^^ RAID Tankzorx-Kazzak", -- [770]
+			"<22:18:27><Comm>	 ^1^SlootAck^T^N1^N259^N2^N225.625^N3^T^Sresponse^T^t^Sdiff^T^N1^N7^t^Sgear1^T^N1^S184026::::::::60:259::6:4:7187:6652:1498:6646:1:28:753^t^Sgear2^T^N1^S184030::::::::60:259::85:4:7187:6652:1498:6646^t^t^t^^ RAID Kessrogue-Kazzak", -- [771]
+			"<22:18:27><Comm>	 ^1^SlootAck^T^N1^N264^N2^N229.1875^N3^T^Sresponse^T^t^Sdiff^T^N1^N0^t^Sgear1^T^N1^S184028::::::::60:264::85:4:7187:6652:1498:6646^t^Sgear2^T^N1^S184029::::::::60:264::85:4:7187:6652:1498:6646:1:28:753^t^t^t^^ RAID Seksixeny-Kazzak", -- [772]
+			"<22:18:27><Comm>	 ^1^SlootAck^T^N1^N254^N2^N227.9375^N3^T^Sresponse^T^t^Sdiff^T^N1^N0^t^Sgear1^T^N1^S180116::::::::60:254::35:5:7213:6652:1501:5884:6646^t^Sgear2^T^N1^S184027::::::::60:254::85:4:7187:42:1498:6646:1:28:753^t^t^t^^ RAID Ceases-Kazzak", -- [773]
+			"<22:18:27><Comm>	 ^1^SlootAck^T^N1^N250^N2^N227.4375^N3^T^Sresponse^T^t^Sdiff^T^N1^N0^t^Sgear1^T^N1^S179331::::::::60:250::35:5:7214:6652:1501:5884:6646^t^Sgear2^T^N1^S184027::::::::60:250::85:4:7187:6652:1498:6646:1:28:753^t^t^t^^ RAID Unholydeathh-Kazzak", -- [774]
+			"<22:18:28><Comm>	 ^1^Sresponse^T^N1^N1^N2^T^Sresponse^SPASS^t^t^^ RAID Nited-Kazzak", -- [775]
+			"<22:18:28><Comm>	 ^1^Sresponse^T^N1^N1^N2^T^Sresponse^SPASS^t^t^^ RAID Kessrogue-Kazzak", -- [776]
+			"<22:18:28><Comm>	 ^1^Sresponse^T^N1^N1^N2^T^Sresponse^SPASS^t^t^^ RAID Kvaernp-Kazzak", -- [777]
+			"<22:18:29><Comm>	 ^1^Sresponse^T^N1^N1^N2^T^Sresponse^SPASS^t^t^^ RAID Tokzik-Kazzak", -- [778]
+			"<22:18:29><Comm>	 ^1^Sresponse^T^N1^N1^N2^T^Sresponse^SPASS^t^t^^ RAID Adrenalynz-Kazzak", -- [779]
+			"<22:18:29><Comm>	 ^1^Sresponse^T^N1^N1^N2^T^Sresponse^SPASS^t^t^^ RAID Skonheden-Kazzak", -- [780]
+			"<22:18:30><Comm>	 ^1^Sresponse^T^N1^N1^N2^T^Snote^b^Sresponse^SPASS^t^t^^ RAID Neveh-Kazzak", -- [781]
+			"<22:18:30><Comm>	 ^1^Sresponse^T^N1^N1^N2^T^Sresponse^SPASS^t^t^^ RAID Sacraa-Kazzak", -- [782]
+			"<22:18:30><Comm>	 ^1^Sresponse^T^N1^N1^N2^T^Sresponse^SPASS^t^t^^ RAID Bevv-Kazzak", -- [783]
+			"<22:18:30><Comm>	 ^1^Sresponse^T^N1^N1^N2^T^Sresponse^N6^t^t^^ RAID Misêry-Kazzak", -- [784]
+			"<22:18:30><Comm>	 ^1^Sresponse^T^N1^N1^N2^T^Sresponse^N5^t^t^^ RAID Tankzorx-Kazzak", -- [785]
+			"<22:18:31><Comm>	 ^1^Sresponse^T^N1^N1^N2^T^Sresponse^SPASS^t^t^^ RAID Ceases-Kazzak", -- [786]
+			"<22:18:31><DEBUG>	 LootFrame:Response 5 Response: Offspecxd", -- [787]
+			"<22:18:31><DEBUG>	 SendResponse group 1 5 nil nil nil nil nil nil nil nil nil nil", -- [788]
+			"<22:18:31><DEBUG>	 Trashing entry: 1 |cffa335ee|Hitem:184027::::::::60:262::85:4:7187:6652:1498:6646:1:28:753:::|h[Stone Legion Heraldry]|h|r", -- [789]
+			"<22:18:31><Comm>	 ^1^Sresponse^T^N1^N1^N2^T^Sresponse^N5^t^t^^ RAID Rentaki-Kazzak", -- [790]
+			"<22:18:32><Comm>	 ^1^Sresponse^T^N1^N1^N2^T^Sresponse^N5^t^t^^ RAID Macuc-Kazzak", -- [791]
+			"<22:18:32><Comm>	 ^1^Sresponse^T^N1^N1^N2^T^Sresponse^SPASS^t^t^^ RAID Unholydeathh-Kazzak", -- [792]
+			"<22:18:32><Comm>	 ^1^Sresponse^T^N1^N1^N2^T^Sresponse^N5^t^t^^ RAID Seksixeny-Kazzak", -- [793]
+			"<22:18:34><Comm>	 ^1^Sresponse^T^N1^N1^N2^T^Sresponse^SPASS^t^t^^ RAID Riworra-Kazzak", -- [794]
+			"<22:18:37><Comm>	 ^1^Sresponse^T^N1^N1^N2^T^Sresponse^SPASS^t^t^^ RAID Arookie-Kazzak", -- [795]
+			"<22:18:38><Comm>	 ^1^Soffline_timer^T^t^^ RAID Unholydeathh-Kazzak", -- [796]
+			"<22:18:51><Comm>	 ^1^Sresponse^T^N1^N1^N2^T^Sresponse^SPASS^t^t^^ RAID Vapee-Kazzak", -- [797]
+			"<22:18:52><Comm>	 ^1^Sresponse^T^N1^N1^N2^T^Sresponse^SPASS^t^t^^ RAID Sanshot-Kazzak", -- [798]
+			"<22:19:41><Comm>	 ^1^Ssession_end^T^t^^ RAID Unholydeathh-Kazzak", -- [799]
+			"<22:19:58><Comm>	 ^1^Sxrealm^T^N1^SUnholydeathh-Kazzak^N2^SMLdb_request^t^^ RAID Memescoper-Kazzak", -- [800]
+			"<22:19:58><Comm>	 ^1^Sxrealm^T^N1^SUnholydeathh-Kazzak^N2^Scouncil_request^t^^ RAID Memescoper-Kazzak", -- [801]
+			"<22:19:58><Comm>	 ^1^Smldb^T^N1^T^S|8^T^S|14^T^N1^T^S|15^SNeed~`(BIS~`stats)^t^N2^T^S|15^SNeed~`(Not~`BiS~`stats)^t^N3^T^S|15^SVery~`Minor^t^N4^T^S|15^SResiduum^t^N5^T^S|15^SOffspecxd^t^N6^T^S|15^STRANSMOG~`X~`D^t^S|5^N6^t^t^S|12^N60^S|11^T^S|14^T^N1^T^S|15^SNeed~`(BIS~`stats)^S|4^N1^S|16^T^N1^N1^N2^N0.53^N3^N0^N4^N1^t^t^N2^T^S|15^SNeed~`(Not~`BiS~`stats)^S|4^N2^S|16^T^N1^N0.04^N2^N0.14^N3^N1^N4^N1^t^t^N3^T^S|15^SVery~`Minor~`(if~`noone~`else)^S|4^N3^S|16^T^N1^N0.07^N2^N0.7^N3^N0.07^N4^N1^t^t^N4^T^S|15^SResiduum^S|4^N4^S|16^T^N1^N0.25^N2^N0.7^N3^N0.7^N4^N1^t^t^N5^T^S|15^SOffspecxd^S|4^N5^S|16^T^N1^N0.7^N2^N0.67^N3^N0^N4^N1^t^t^N6^T^S|15^STRANSMOG~`XD^S|4^N6^S|16^T^N1^N0.69^N2^N0.02^N3^N0.66^N4^N1^t^t^t^t^S|6^B^S|5^N6^t^t^^ RAID Unholydeathh-Kazzak", -- [802]
+			"<22:19:58><INFO>	 OnMLDBReceived", -- [803]
+			"<22:19:58><Comm>	 ^1^Scouncil^T^N1^T^S1305-0AFC367F^B^S1305-0B0DCA21^B^S1305-0B0E3079^B^t^t^^ RAID Unholydeathh-Kazzak", -- [804]
+			"<22:19:58><DEBUG>	 isCouncil false", -- [805]
+			"<22:22:19><DEBUG>	 TradeUI: Traded item(s) to Misêry-Kazzak", -- [806]
+			"<22:22:19><DEBUG>	 TradeUI:Hide()", -- [807]
+			"<22:23:42><Comm>	 ^1^SStartHandleLoot^T^t^^ RAID Unholydeathh-Kazzak", -- [808]
+			"<22:25:29><DEBUG>	 TradeUI: Traded item(s) to Misêry-Kazzak", -- [809]
+			"<22:25:29><DEBUG>	 TradeUI:Hide()", -- [810]
+			"<22:26:49><DEBUG>	 Event: ENCOUNTER_START 2407 Sire Denathrius 16 20", -- [811]
+			"<22:26:49><INFO>	 UpdatePlayersData()", -- [812]
+			"<22:35:28><Comm>	 ^1^Sxrealm^T^N1^SUnholydeathh-Kazzak^N2^SMLdb_request^t^^ RAID Misêry-Kazzak", -- [813]
+			"<22:35:28><Comm>	 ^1^Sxrealm^T^N1^SUnholydeathh-Kazzak^N2^Scouncil_request^t^^ RAID Misêry-Kazzak", -- [814]
+			"<22:35:28><Comm>	 ^1^Smldb^T^N1^T^S|8^T^S|14^T^N1^T^S|15^SNeed~`(BIS~`stats)^t^N2^T^S|15^SNeed~`(Not~`BiS~`stats)^t^N3^T^S|15^SVery~`Minor^t^N4^T^S|15^SResiduum^t^N5^T^S|15^SOffspecxd^t^N6^T^S|15^STRANSMOG~`X~`D^t^S|5^N6^t^t^S|12^N60^S|11^T^S|14^T^N1^T^S|15^SNeed~`(BIS~`stats)^S|4^N1^S|16^T^N1^N1^N2^N0.53^N3^N0^N4^N1^t^t^N2^T^S|15^SNeed~`(Not~`BiS~`stats)^S|4^N2^S|16^T^N1^N0.04^N2^N0.14^N3^N1^N4^N1^t^t^N3^T^S|15^SVery~`Minor~`(if~`noone~`else)^S|4^N3^S|16^T^N1^N0.07^N2^N0.7^N3^N0.07^N4^N1^t^t^N4^T^S|15^SResiduum^S|4^N4^S|16^T^N1^N0.25^N2^N0.7^N3^N0.7^N4^N1^t^t^N5^T^S|15^SOffspecxd^S|4^N5^S|16^T^N1^N0.7^N2^N0.67^N3^N0^N4^N1^t^t^N6^T^S|15^STRANSMOG~`XD^S|4^N6^S|16^T^N1^N0.69^N2^N0.02^N3^N0.66^N4^N1^t^t^t^t^S|6^B^S|5^N6^t^t^^ RAID Unholydeathh-Kazzak", -- [815]
+			"<22:35:28><INFO>	 OnMLDBReceived", -- [816]
+			"<22:35:28><Comm>	 ^1^Scouncil^T^N1^T^S1305-0AFC367F^B^S1305-0B0DCA21^B^S1305-0B0E3079^B^t^t^^ RAID Unholydeathh-Kazzak", -- [817]
+			"<22:35:28><DEBUG>	 isCouncil false", -- [818]
+			"<22:35:59><DEBUG>	 Event: ENCOUNTER_END 2407 Sire Denathrius 16 20 0", -- [819]
+			"<22:37:53><DEBUG>	 Event: ENCOUNTER_START 2407 Sire Denathrius 16 20", -- [820]
+			"<22:37:53><INFO>	 UpdatePlayersData()", -- [821]
+			"<22:42:37><DEBUG>	 Event: ENCOUNTER_END 2407 Sire Denathrius 16 20 0", -- [822]
+			"<22:44:04><DEBUG>	 Event: ENCOUNTER_START 2407 Sire Denathrius 16 20", -- [823]
+			"<22:44:04><INFO>	 UpdatePlayersData()", -- [824]
+			"<22:47:36><DEBUG>	 Event: ENCOUNTER_END 2407 Sire Denathrius 16 20 0", -- [825]
+			"<22:49:13><DEBUG>	 Event: ENCOUNTER_START 2407 Sire Denathrius 16 20", -- [826]
+			"<22:49:13><INFO>	 UpdatePlayersData()", -- [827]
+			"<22:59:11><DEBUG>	 Event: ENCOUNTER_END 2407 Sire Denathrius 16 20 1", -- [828]
+			"<22:59:50><DEBUG>	 Event: LOOT_READY false", -- [829]
+			"<22:59:50><DEBUG>	 Adding to self.lootSlotInfo 1 nil 1 0 Creature-0-4253-2296-4475-167406-0000493E97 744891", -- [830]
+			"<22:59:51><DEBUG>	 Event: ENCOUNTER_LOOT_RECEIVED 2407 181539 |cffa335ee|Hitem:181539::::::::60:262::6:2:1553:7245:2:28:753:37:7:::|h[Discipline of the Grove]|h|r 1 Skonheden MAGE", -- [831]
+			"<22:59:51><DEBUG>	 Event: ENCOUNTER_LOOT_RECEIVED 2407 184029 |cffa335ee|Hitem:184029::::::::60:262::85:4:7187:6652:1498:6646:1:28:753:::|h[Manabound Mirror]|h|r 1 Seksixeny SHAMAN", -- [832]
+			"<22:59:51><Comm>	 ^1^Sl^T^N1^S167406^t^^ RAID Skonheden-Kazzak", -- [833]
+			"<22:59:51><Comm>	 ^1^Sl^T^N1^S167406^t^^ RAID Skonheden-Kazzak", -- [834]
+			"<22:59:51><Comm>	 ^1^Sl^T^N1^S167406^t^^ RAID Adrenalynz-Kazzak", -- [835]
+			"<22:59:51><Comm>	 ^1^Sl^T^N1^S167406^t^^ RAID Adrenalynz-Kazzak", -- [836]
+			"<22:59:51><Comm>	 ^1^Sl^T^N1^S167406^t^^ RAID Misêry-Kazzak", -- [837]
+			"<22:59:51><Comm>	 ^1^Sl^T^N1^S167406^t^^ RAID Misêry-Kazzak", -- [838]
+			"<22:59:51><Comm>	 ^1^Sl^T^N1^S167406^t^^ RAID Seksixeny-Kazzak", -- [839]
+			"<22:59:51><Comm>	 ^1^Sl^T^N1^S167406^t^^ RAID Seksixeny-Kazzak", -- [840]
+			"<22:59:51><DEBUG>	 OnLootSlotCleared() 1 nil 1", -- [841]
+			"<22:59:51><DEBUG>	 Event: ENCOUNTER_LOOT_RECEIVED 2407 183495 |cffa335ee|Hitem:183495::::::::60:262::6:2:1553:7245:2:28:753:37:7:::|h[Lashing Scars]|h|r 1 Kessrogue ROGUE", -- [842]
+			"<22:59:52><Comm>	 ^1^Sl^T^N1^S167406^t^^ RAID Ceases-Kazzak", -- [843]
+			"<22:59:52><DEBUG>	 Event: LOOT_CLOSED", -- [844]
+			"<22:59:52><DEBUG>	 Event: LOOT_CLOSED", -- [845]
+			"<22:59:52><DEBUG>	 Event: ENCOUNTER_LOOT_RECEIVED 2407 184286 |cff0070dd|Hitem:184286::::::::60:262:::::::|h[Extinguished Soul Anima]|h|r 5 Rentaki SHAMAN", -- [846]
+			"<22:59:52><DEBUG>	 Event: ENCOUNTER_LOOT_RECEIVED 2407 183473 |cffa335ee|Hitem:183473::::::::60:262::6:2:1553:7245:2:28:753:37:7:::|h[Conflux of Elements]|h|r 1 Macuc DRUID", -- [847]
+			"<22:59:52><Comm>	 ^1^Sl^T^N1^S167406^t^^ RAID Rentaki-Kazzak", -- [848]
+			"<22:59:52><Comm>	 ^1^Sl^T^N1^S167406^t^^ RAID Rentaki-Kazzak", -- [849]
+			"<22:59:52><Comm>	 ^1^Sl^T^N1^S167406^t^^ RAID Kessrogue-Kazzak", -- [850]
+			"<22:59:52><Comm>	 ^1^Sl^T^N1^S167406^t^^ RAID Kessrogue-Kazzak", -- [851]
+			"<22:59:52><Comm>	 ^1^Sl^T^N1^S167406^t^^ RAID Arookie-Kazzak", -- [852]
+			"<22:59:52><Comm>	 ^1^Sl^T^N1^S167406^t^^ RAID Arookie-Kazzak", -- [853]
+			"<22:59:52><Comm>	 ^1^Sl^T^N1^S167406^t^^ RAID Neveh-Kazzak", -- [854]
+			"<22:59:52><Comm>	 ^1^Sl^T^N1^S167406^t^^ RAID Neveh-Kazzak", -- [855]
+			"<22:59:52><Comm>	 ^1^Sl^T^N1^S167406^t^^ RAID Riworra-Kazzak", -- [856]
+			"<22:59:52><Comm>	 ^1^Sl^T^N1^S167406^t^^ RAID Riworra-Kazzak", -- [857]
+			"<22:59:52><Comm>	 ^1^Sl^T^N1^S167406^t^^ RAID Macuc-Kazzak", -- [858]
+			"<22:59:52><Comm>	 ^1^Sl^T^N1^S167406^t^^ RAID Macuc-Kazzak", -- [859]
+			"<22:59:53><Comm>	 ^1^Sl^T^N1^S167406^t^^ RAID Nited-Kazzak", -- [860]
+			"<22:59:53><Comm>	 ^1^Sl^T^N1^S167406^t^^ RAID Nited-Kazzak", -- [861]
+			"<22:59:53><Comm>	 ^1^Sl^T^N1^S167406^t^^ RAID Sacraa-Kazzak", -- [862]
+			"<22:59:53><Comm>	 ^1^Sl^T^N1^S167406^t^^ RAID Sacraa-Kazzak", -- [863]
+			"<22:59:53><Comm>	 ^1^Sl^T^N1^S167406^t^^ RAID Sanshot-Kazzak", -- [864]
+			"<22:59:53><Comm>	 ^1^Sl^T^N1^S167406^t^^ RAID Sanshot-Kazzak", -- [865]
+			"<22:59:53><DEBUG>	 Event: ENCOUNTER_LOOT_RECEIVED 2407 183896 |cffa335ee|Hitem:183896::::::::60:262::85:3:7187:1498:6646:1:28:753:::|h[Abominable Anima Spherule]|h|r 1 Unholydeathh DEATHKNIGHT", -- [866]
+			"<22:59:54><Comm>	 ^1^Sl^T^N1^S167406^t^^ RAID Unholydeathh-Kazzak", -- [867]
+			"<22:59:54><Comm>	 ^1^Sl^T^N1^S167406^t^^ RAID Unholydeathh-Kazzak", -- [868]
+			"<22:59:54><Comm>	 ^1^Stradable^T^N1^S|cffa335ee|Hitem:184029::::::::60:264::85:4:7187:6652:1498:6646:1:28:753:::|h[Manabound~`Mirror]|h|r^N2^S167406^t^^ RAID Seksixeny-Kazzak", -- [869]
+			"<22:59:54><DEBUG>	 Event: ENCOUNTER_LOOT_RECEIVED 2407 183036 |cffa335ee|Hitem:183036::::::::60:262::85:5:7187:6652:7193:1498:6646:1:28:753:::|h[Most Regal Signet of Sire Denathrius]|h|r 1 Bevv DEMONHUNTER", -- [870]
+			"<22:59:54><Comm>	 ^1^Sl^T^N1^S167406^t^^ RAID Tankzorx-Kazzak", -- [871]
+			"<22:59:54><Comm>	 ^1^Sl^T^N1^S167406^t^^ RAID Tankzorx-Kazzak", -- [872]
+			"<22:59:54><Comm>	 ^1^Sl^T^N1^S167406^t^^ RAID Bevv-Kazzak", -- [873]
+			"<22:59:54><Comm>	 ^1^Sl^T^N1^S167406^t^^ RAID Bevv-Kazzak", -- [874]
+			"<22:59:55><DEBUG>	 Event: ENCOUNTER_LOOT_RECEIVED 2407 182130 |cffa335ee|Hitem:182130::::::::60:262::6:2:1553:7245:2:28:753:37:7:::|h[Shattered Perceptions]|h|r 1 Vapee PRIEST", -- [875]
+			"<22:59:55><Comm>	 ^1^Sl^T^N1^S167406^t^^ RAID Vapee-Kazzak", -- [876]
+			"<22:59:55><Comm>	 ^1^Sl^T^N1^S167406^t^^ RAID Vapee-Kazzak", -- [877]
+			"<22:59:57><Comm>	 ^1^Sn_t^T^N1^S|cffa335ee|Hitem:183896::::::::60:252::85:3:7187:1498:6646:1:28:753:::|h[Abominable~`Anima~`Spherule]|h|r^N2^S167406^t^^ RAID Unholydeathh-Kazzak", -- [878]
+			"<22:59:57><Comm>	 ^1^Shistory^T^N1^SUnholydeathh-Kazzak^N2^T^SmapID^N2296^Sowner^SUnholydeathh-Kazzak^Sid^S1615409999-3^Sinstance^SCastle~`Nathria-Mythic^Sclass^SDEATHKNIGHT^Sdate^S10/03/21^Sresponse^SPersonal~`Loot~`-~`Non~`tradeable^SgroupSize^N20^SisAwardReason^b^SlootWon^S|cffa335ee|Hitem:183896::::::::60:252::85:3:7187:1498:6646:1:28:753:::|h[Abominable~`Anima~`Spherule]|h|r^SdifficultyID^N16^Sboss^SSire~`Denathrius^SresponseID^SPL^Stime^S22:59:59^Scolor^T^N1^N1^N2^N0.6^N3^N0^N4^N1^t^t^t^^ RAID Unholydeathh-Kazzak", -- [879]
+			"<22:59:57><Comm>	 ^1^Sn_t^T^N1^S|cffa335ee|Hitem:183036::::::::60:581::85:5:7187:6652:7193:1498:6646:1:28:753:::|h[Most~`Regal~`Signet~`of~`Sire~`Denathrius]|h|r^N2^S167406^t^^ RAID Bevv-Kazzak", -- [880]
+			"<22:59:57><Comm>	 ^1^Shistory^T^N1^SBevv-Kazzak^N2^T^SmapID^N2296^Sowner^SBevv-Kazzak^Sid^S1615409999-4^Sinstance^SCastle~`Nathria-Mythic^Sclass^SDEMONHUNTER^Sdate^S10/03/21^Sresponse^SPersonal~`Loot~`-~`Non~`tradeable^SgroupSize^N20^SisAwardReason^b^SlootWon^S|cffa335ee|Hitem:183036::::::::60:581::85:5:7187:6652:7193:1498:6646:1:28:753:::|h[Most~`Regal~`Signet~`of~`Sire~`Denathrius]|h|r^SdifficultyID^N16^Sboss^SSire~`Denathrius^SresponseID^SPL^Stime^S22:59:59^Scolor^T^N1^N1^N2^N0.6^N3^N0^N4^N1^t^t^t^^ RAID Unholydeathh-Kazzak", -- [881]
+			"<22:59:59><Comm>	 ^1^SlootTable^T^N1^T^N1^T^Sstring^S184029:::::::::::85:4:7187:6652:1498:6646:1:28:753^StypeCode^Sdefault^Sowner^SSeksixeny-Kazzak^Sboss^SSire~`Denathrius^t^t^t^^ RAID Unholydeathh-Kazzak", -- [882]
+			"<22:59:59><INFO>	 GetPlayersGear |cffa335ee|Hitem:184029::::::::60:262::85:4:7187:6652:1498:6646:1:28:753:::|h[Manabound Mirror]|h|r INVTYPE_TRINKET", -- [883]
+			"<22:59:59><INFO>	 LootFrame:Start 1 nil", -- [884]
+			"<22:59:59><DEBUG>	 Restoring entry: default 1", -- [885]
+			"<22:59:59><DEBUG>	 GetButtons default", -- [886]
+			"<23:00:00><Comm>	 ^1^SlootAck^T^N1^N254^N2^N229.1875^N3^T^Sresponse^T^t^Sdiff^T^N1^N7^t^Sgear1^T^N1^S175921::::::::60:254::14:3:6623:1498:6646:1:28:807^t^Sgear2^T^N1^S184027::::::::60:254::85:4:7187:6652:1498:6646:1:28:753^t^t^t^^ RAID Adrenalynz-Kazzak", -- [887]
+			"<23:00:00><Comm>	 ^1^SlootAck^T^N1^N102^N2^N225.9375^N3^T^Sresponse^T^t^Sdiff^T^N1^N39^t^Sgear1^T^N1^S184842::::::::60:102::27:4:6652:1472:5891:6646^t^Sgear2^T^N1^S178386::::::::60:102::14:3:6625:1492:6646:1:28:807^t^t^t^^ RAID Nited-Kazzak", -- [888]
+			"<23:00:00><Comm>	 ^1^SlootAck^T^N1^N268^N2^N227.125^N3^T^Sresponse^T^t^Sdiff^T^N1^N7^t^Sgear1^T^N1^S184027::::::::60:268::85:4:7187:6652:1498:6646:1:28:753^t^Sgear2^T^N1^S184018::::::::60:268::6:4:7187:6652:1498:6646^t^t^t^^ RAID Misêry-Kazzak", -- [889]
+			"<23:00:00><Comm>	 ^1^SlootAck^T^N1^N72^N2^N227.4375^N3^T^Sresponse^T^t^Sdiff^T^N1^N7^t^Sgear1^T^N1^S178386::::::::60:72::14:3:6623:1498:6646:1:28:807^t^Sgear2^T^N1^S184027::::::::60:72::85:4:7187:6652:1498:6646^t^t^t^^ RAID Riworra-Kazzak", -- [890]
+			"<23:00:00><Comm>	 ^1^SlootAck^T^N1^N262^N2^N229.1875^N3^T^Sresponse^T^t^Sdiff^T^N1^N0^t^Sgear1^T^N1^S184030::::::::60:262::85:4:7187:6652:1498:6646:1:28:753^t^Sgear2^T^N1^S184028::::::::60:262::85:4:7187:6652:1498:6646^t^t^t^^ RAID Rentaki-Kazzak", -- [891]
+			"<23:00:00><Comm>	 ^1^SlootAck^T^N1^N254^N2^N227.9375^N3^T^Sresponse^T^t^Sdiff^T^N1^N7^t^Sgear1^T^N1^S180116::::::::60:254::35:5:7213:6652:1501:5884:6646^t^Sgear2^T^N1^S184027::::::::60:254::85:4:7187:42:1498:6646:1:28:753^t^t^t^^ RAID Ceases-Kazzak", -- [892]
+			"<23:00:00><Comm>	 ^1^SlootAck^T^N1^N265^N2^N229.1875^N3^T^Sresponse^T^t^Sdiff^T^N1^N7^t^Sgear1^T^N1^S175921::::::::60:265::14:3:6623:1498:6646:1:28:807^t^Sgear2^T^N1^S184028::::::::60:265::85:4:7187:6652:1498:6646^t^t^t^^ RAID Neveh-Kazzak", -- [893]
+			"<23:00:00><Comm>	 ^1^SlootAck^T^N1^N254^N2^N227.875^N3^T^Sresponse^T^t^Sdiff^T^N1^N7^t^Sgear1^T^N1^S180116::::::::60:254::35:5:7214:6652:1501:5884:6646^t^Sgear2^T^N1^S184027::::::::60:254::85:4:7187:6652:1498:6646^t^t^t^^ RAID Sanshot-Kazzak", -- [894]
+			"<23:00:00><Comm>	 ^1^SlootAck^T^N1^N254^N2^N221.375^N3^T^Sresponse^T^t^Sdiff^T^N1^N39^t^Sgear1^T^N1^S178769::::::::60:254::35:5:7213:6652:1501:5884:6646^t^Sgear2^T^N1^S181457::::::::60:254::26:4:6652:1472:5891:6646:1:28:2060^t^t^t^^ RAID Memescoper-Kazzak", -- [895]
+			"<23:00:00><Comm>	 ^1^SlootAck^T^N1^N72^N2^N226.625^N3^T^Sresponse^T^t^Sdiff^T^N1^N7^t^Sgear1^T^N1^S184027::::::::60:72::85:4:7187:6652:1498:6646:1:28:753^t^Sgear2^T^N1^S184016::::::::60:72::6:4:7187:6652:1498:6646^t^t^t^^ RAID Sacraa-Kazzak", -- [896]
+			"<23:00:00><Comm>	 ^1^SlootAck^T^N1^N105^N2^N227.875^N3^T^Sresponse^T^t^Sdiff^T^N1^N7^t^Sgear1^T^N1^S178708::::::::60:105::35:6:7214:6652:1501:5884:6646:6917^t^Sgear2^T^N1^S178386::::::::60:105::14:3:6623:1498:6646:1:28:807^t^t^t^^ RAID Arookie-Kazzak", -- [897]
+			"<23:00:00><Comm>	 ^1^SlootAck^T^N1^N256^N2^N227.875^N3^T^Sresponse^T^t^Sdiff^T^N1^N7^t^Sgear1^T^N1^S178386::::::::60:256::14:3:6623:1498:6646:1:28:807^t^Sgear2^T^N1^S175921::::::::60:256::14:3:6623:1498:6646:1:28:807^t^t^t^^ RAID Vapee-Kazzak", -- [898]
+			"<23:00:00><Comm>	 ^1^SlootAck^T^N1^N264^N2^N229.1875^N3^T^Sresponse^T^t^Sdiff^T^N1^N0^t^Sgear1^T^N1^S184028::::::::60:264::85:4:7187:6652:1498:6646^t^Sgear2^T^N1^S184029::::::::60:264::85:4:7187:6652:1498:6646:1:28:753^t^t^t^^ RAID Seksixeny-Kazzak", -- [899]
+			"<23:00:00><Comm>	 ^1^SlootAck^T^N1^N102^N2^N226.375^N3^T^Sresponse^T^t^Sdiff^T^N1^N39^t^Sgear1^T^N1^S184028::::::::60:102::84:4:7188:6652:1485:6646:1:28:752^t^Sgear2^T^N1^S184842::::::::60:102::27:4:6652:1472:5891:6646^t^t^t^^ RAID Macuc-Kazzak", -- [900]
+			"<23:00:00><Comm>	 ^1^SlootAck^T^N1^N63^N2^N229.1875^N3^T^Sresponse^T^t^Sdiff^T^N1^N7^t^Sgear1^T^N1^S184028::::::::60:63::85:4:7187:6652:1498:6646^t^Sgear2^T^N1^S175921::::::::60:63::14:3:6623:1498:6646:1:28:807^t^t^t^^ RAID Skonheden-Kazzak", -- [901]
+			"<23:00:00><Comm>	 ^1^SlootAck^T^N1^N259^N2^N225.625^N3^T^Sresponse^T^t^Sdiff^T^N1^N7^t^Sgear1^T^N1^S184026::::::::60:259::6:4:7187:6652:1498:6646:1:28:753^t^Sgear2^T^N1^S184030::::::::60:259::85:4:7187:6652:1498:6646^t^t^t^^ RAID Kessrogue-Kazzak", -- [902]
+			"<23:00:00><Comm>	 ^1^SlootAck^T^N1^N252^N2^N226.875^N3^T^Sresponse^T^t^Sdiff^T^N1^N23^t^Sgear1^T^N1^S184027::::::::60:252::85:4:7187:6652:1498:6646:1:28:753^t^Sgear2^T^N1^S179350::::::::60:252::16:5:7214:6652:1501:5868:6646:1:28:1279^t^t^t^^ RAID Tokzik-Kazzak", -- [903]
+			"<23:00:00><Comm>	 ^1^SlootAck^T^N1^N581^N2^N228.5625^N3^T^Sresponse^T^t^Sdiff^T^N1^N0^t^Sgear1^T^N1^S184030::::::::60:581::85:4:7187:6652:1498:6646^t^Sgear2^T^N1^S184027::::::::60:581::85:4:7187:6652:1498:6646:1:28:753^t^t^t^^ RAID Bevv-Kazzak", -- [904]
+			"<23:00:00><Comm>	 ^1^SlootAck^T^N1^N252^N2^N227.0625^N3^T^Sresponse^T^t^Sdiff^T^N1^N13^t^Sgear1^T^N1^S175921::::::::60:252::14:3:6625:1492:6646:1:28:807^t^Sgear2^T^N1^S184027::::::::60:252::85:4:7187:6652:1498:6646:1:28:753^t^t^t^^ RAID Unholydeathh-Kazzak", -- [905]
+			"<23:00:00><Comm>	 ^1^SlootAck^T^N1^N65^N2^N228.3125^N3^T^Sresponse^T^t^Sdiff^T^N1^N0^t^Sgear1^T^N1^S178386::::::::60:65::40:4:41:6623:1498:6646^t^Sgear2^T^N1^S184029::::::::60:65::85:4:7187:6652:1498:6646:1:28:753^t^t^t^^ RAID Tankzorx-Kazzak", -- [906]
+			"<23:00:02><Comm>	 ^1^Sresponse^T^N1^N1^N2^T^Sresponse^SPASS^t^t^^ RAID Skonheden-Kazzak", -- [907]
+			"<23:00:02><Comm>	 ^1^Sresponse^T^N1^N1^N2^T^Sresponse^SPASS^t^t^^ RAID Tankzorx-Kazzak", -- [908]
+			"<23:00:02><Comm>	 ^1^Sresponse^T^N1^N1^N2^T^Sresponse^SPASS^t^t^^ RAID Sacraa-Kazzak", -- [909]
+			"<23:00:02><Comm>	 ^1^Sresponse^T^N1^N1^N2^T^Sresponse^SPASS^t^t^^ RAID Ceases-Kazzak", -- [910]
+			"<23:00:02><Comm>	 ^1^Sresponse^T^N1^N1^N2^T^Sresponse^SPASS^t^t^^ RAID Neveh-Kazzak", -- [911]
+			"<23:00:03><Comm>	 ^1^Sresponse^T^N1^N1^N2^T^Sresponse^SPASS^t^t^^ RAID Adrenalynz-Kazzak", -- [912]
+			"<23:00:03><Comm>	 ^1^Sl^T^N1^S167406^t^^ RAID Tokzik-Kazzak", -- [913]
+			"<23:00:03><Comm>	 ^1^Sl^T^N1^S167406^t^^ RAID Tokzik-Kazzak", -- [914]
+			"<23:00:05><Comm>	 ^1^Sresponse^T^N1^N1^N2^T^Sresponse^SPASS^t^t^^ RAID Nited-Kazzak", -- [915]
+			"<23:00:07><Comm>	 ^1^Sresponse^T^N1^N1^N2^T^Sresponse^N5^t^t^^ RAID Misêry-Kazzak", -- [916]
+			"<23:00:08><Comm>	 ^1^Sresponse^T^N1^N1^N2^T^Sresponse^SPASS^t^t^^ RAID Seksixeny-Kazzak", -- [917]
+			"<23:00:08><Comm>	 ^1^Sresponse^T^N1^N1^N2^T^Sresponse^SPASS^t^t^^ RAID Kessrogue-Kazzak", -- [918]
+			"<23:00:10><Comm>	 ^1^Sresponse^T^N1^N1^N2^T^Sresponse^SPASS^t^t^^ RAID Tokzik-Kazzak", -- [919]
+			"<23:00:10><Comm>	 ^1^Sresponse^T^N1^N1^N2^T^Sresponse^SPASS^t^t^^ RAID Riworra-Kazzak", -- [920]
+			"<23:00:11><Comm>	 ^1^Soffline_timer^T^t^^ RAID Unholydeathh-Kazzak", -- [921]
+			"<23:00:12><Comm>	 ^1^Sresponse^T^N1^N1^N2^T^Sresponse^SPASS^t^t^^ RAID Sanshot-Kazzak", -- [922]
+			"<23:00:12><Comm>	 ^1^Sresponse^T^N1^N1^N2^T^Sresponse^SPASS^t^t^^ RAID Memescoper-Kazzak", -- [923]
+			"<23:00:14><Comm>	 ^1^Sresponse^T^N1^N1^N2^T^Sresponse^N5^t^t^^ RAID Macuc-Kazzak", -- [924]
+			"<23:00:18><Comm>	 ^1^Sresponse^T^N1^N1^N2^T^Sresponse^SPASS^t^t^^ RAID Unholydeathh-Kazzak", -- [925]
+			"<23:00:29><DEBUG>	 GetButtons default", -- [926]
+			"<23:00:31><DEBUG>	 LootFrame:Response 5 Response: Offspecxd", -- [927]
+			"<23:00:31><DEBUG>	 SendResponse group 1 5 nil nil is this good? nil nil nil nil nil nil nil", -- [928]
+			"<23:00:31><DEBUG>	 Trashing entry: 1 |cffa335ee|Hitem:184029::::::::60:262::85:4:7187:6652:1498:6646:1:28:753:::|h[Manabound Mirror]|h|r", -- [929]
+			"<23:00:31><Comm>	 ^1^Sresponse^T^N1^N1^N2^T^Snote^Sis~`this~`good?^Sresponse^N5^t^t^^ RAID Rentaki-Kazzak", -- [930]
+			"<23:00:33><DEBUG>	 Event: ENCOUNTER_LOOT_RECEIVED 2407 184030 |cffa335ee|Hitem:184030::::::::60:262::85:4:7187:6652:1498:6646:1:28:753:::|h[Dreadfire Vessel]|h|r 1 Memescoper HUNTER", -- [931]
+			"<23:00:35><DEBUG>	 Event: ENCOUNTER_LOOT_RECEIVED 2407 184587 |cffa335ee|Hitem:184587::::::::60:262::6:2:1553:7245:2:28:753:37:7:::|h[Ambuscade]|h|r 1 Memescoper HUNTER", -- [932]
+			"<23:00:36><Comm>	 ^1^Sn_t^T^N1^S|cffa335ee|Hitem:184030::::::::60:254::85:4:7187:6652:1498:6646:1:28:753:::|h[Dreadfire~`Vessel]|h|r^N2^S167406^t^^ RAID Memescoper-Kazzak", -- [933]
+			"<23:00:36><Comm>	 ^1^Shistory^T^N1^SMemescoper-Kazzak^N2^T^SmapID^N2222^Sowner^SMemescoper-Kazzak^Sid^S1615410038-5^Sinstance^SThe~`Shadowlands-^Sclass^SHUNTER^Sdate^S10/03/21^Sresponse^SPersonal~`Loot~`-~`Non~`tradeable^SgroupSize^N0^SisAwardReason^b^SlootWon^S|cffa335ee|Hitem:184030::::::::60:254::85:4:7187:6652:1498:6646:1:28:753:::|h[Dreadfire~`Vessel]|h|r^SdifficultyID^N0^Sboss^SSire~`Denathrius^SresponseID^SPL^Stime^S23:00:38^Scolor^T^N1^N1^N2^N0.6^N3^N0^N4^N1^t^t^t^^ RAID Unholydeathh-Kazzak", -- [934]
+			"<23:00:36><DEBUG>	 Event: ENCOUNTER_LOOT_RECEIVED 2407 182335 |cffa335ee|Hitem:182335::::::::60:262::6:2:1553:7245:2:28:753:37:7:::|h[Spirit Attunement]|h|r 1 Memescoper HUNTER", -- [935]
+			"<23:00:37><Comm>	 ^1^Sl^T^N1^S167406^t^^ RAID Memescoper-Kazzak", -- [936]
+			"<23:00:37><Comm>	 ^1^Sl^T^N1^S167406^t^^ RAID Memescoper-Kazzak", -- [937]
+			"<23:00:39><Comm>	 ^1^Sresponse^T^N1^N1^N2^T^Snote^b^Sresponse^N1^t^t^^ RAID Arookie-Kazzak", -- [938]
+			"<23:00:53><Comm>	 ^1^Sresponse^T^N1^N1^N2^T^Sresponse^SPASS^t^t^^ RAID Bevv-Kazzak", -- [939]
+			"<23:00:59><Comm>	 ^1^Sresponse^T^N1^N1^N2^T^Sresponse^SPASS^t^t^^ RAID Vapee-Kazzak", -- [940]
+			"<23:01:16><Comm>	 ^1^Shistory^T^N1^SArookie-Kazzak^N2^T^SmapID^N2222^Sdate^S10/03/21^Sclass^SDRUID^SgroupSize^N0^Sboss^SSire~`Denathrius^Stime^S23:01:16^SitemReplaced1^S|cffa335ee|Hitem:178708::::::::60:252::35:6:7214:6652:1501:5884:6646:6917::::|h[Unbound~`Changeling]|h|r^StypeCode^Sdefault^Sinstance^SThe~`Shadowlands-^Sowner^SSeksixeny-Kazzak^Sid^S1615410076-6^Sresponse^SNeed~`(BIS~`stats)^Snote^b^SdifficultyID^N0^SlootWon^S|cffa335ee|Hitem:184029::::::::60:252::85:4:7187:6652:1498:6646:1:28:753:::|h[Manabound~`Mirror]|h|r^SisAwardReason^b^Scolor^T^N1^N1^N2^N0.53^N3^N0^N4^N1^t^SresponseID^N1^SitemReplaced2^S|cffa335ee|Hitem:178386::::::::60:252::14:3:6623:1498:6646:1:28:807:::|h[Sinful~`Gladiator's~`Insignia~`of~`Alacrity]|h|r^Svotes^N0^t^t^^ RAID Unholydeathh-Kazzak", -- [941]
+			"<23:01:16><Comm>	 ^1^Sawarded^T^N1^N1^N2^SArookie-Kazzak^N3^SSeksixeny-Kazzak^t^^ RAID Unholydeathh-Kazzak", -- [942]
+			"<23:01:16><Comm>	 ^1^Ssession_end^T^t^^ RAID Unholydeathh-Kazzak", -- [943]
+			"<23:01:16><DEBUG>	 Event: PLAYER_ENTERING_WORLD false false", -- [944]
+			"<23:01:18><DEBUG>	 GetML()", -- [945]
+			"<23:01:21><Comm>	 ^1^Strade_WrongWinner^T^N1^S|cffa335ee|Hitem:184029::::::::60:264::85:4:7187:6652:1498:6646:1:28:753:::|h[Manabound~`Mirror]|h|r^N2^SNeveh-Kazzak^N3^SSeksixeny-Kazzak^N4^SArookie-Kazzak^t^^ RAID Seksixeny-Kazzak", -- [946]
+			"<23:03:15><Comm>	 ^1^Sxrealm^T^N1^SUnholydeathh-Kazzak^N2^SMLdb_request^t^^ RAID Tradushuffle-Kazzak", -- [947]
+			"<23:03:15><Comm>	 ^1^Sxrealm^T^N1^SUnholydeathh-Kazzak^N2^Scouncil_request^t^^ RAID Tradushuffle-Kazzak", -- [948]
+			"<23:03:15><Comm>	 ^1^Smldb^T^N1^T^S|8^T^S|14^T^N1^T^S|15^SNeed~`(BIS~`stats)^t^N2^T^S|15^SNeed~`(Not~`BiS~`stats)^t^N3^T^S|15^SVery~`Minor^t^N4^T^S|15^SResiduum^t^N5^T^S|15^SOffspecxd^t^N6^T^S|15^STRANSMOG~`X~`D^t^S|5^N6^t^t^S|12^N60^S|11^T^S|14^T^N1^T^S|15^SNeed~`(BIS~`stats)^S|4^N1^S|16^T^N1^N1^N2^N0.53^N3^N0^N4^N1^t^t^N2^T^S|15^SNeed~`(Not~`BiS~`stats)^S|4^N2^S|16^T^N1^N0.04^N2^N0.14^N3^N1^N4^N1^t^t^N3^T^S|15^SVery~`Minor~`(if~`noone~`else)^S|4^N3^S|16^T^N1^N0.07^N2^N0.7^N3^N0.07^N4^N1^t^t^N4^T^S|15^SResiduum^S|4^N4^S|16^T^N1^N0.25^N2^N0.7^N3^N0.7^N4^N1^t^t^N5^T^S|15^SOffspecxd^S|4^N5^S|16^T^N1^N0.7^N2^N0.67^N3^N0^N4^N1^t^t^N6^T^S|15^STRANSMOG~`XD^S|4^N6^S|16^T^N1^N0.69^N2^N0.02^N3^N0.66^N4^N1^t^t^t^t^S|6^B^S|5^N6^t^t^^ RAID Unholydeathh-Kazzak", -- [949]
+			"<23:03:15><INFO>	 OnMLDBReceived", -- [950]
+			"<23:03:15><Comm>	 ^1^Scouncil^T^N1^T^S1305-0AFC367F^B^S1305-0B0DCA21^B^S1305-0B0E3079^B^t^t^^ RAID Unholydeathh-Kazzak", -- [951]
+			"<23:03:15><DEBUG>	 isCouncil false", -- [952]
+			"<23:03:28><DEBUG>	 Event: PARTY_LEADER_CHANGED", -- [953]
+			"<23:03:30><DEBUG>	 GetML()", -- [954]
+			"<23:03:30><DEBUG>	 Resetting council as we have a new ML!", -- [955]
+			"<23:03:30><INFO>	 MasterLooter =  Tankzorx-Kazzak", -- [956]
+			"<23:03:30><Comm>	 ^1^SplayerInfoRequest^T^t^^ RAID Tankzorx-Kazzak", -- [957]
+			"<23:03:30><Comm>	 ^1^Smldb^T^N1^T^S|8^T^SAZERITE^T^N1^T^S|15^Smainspec^t^N2^T^S|15^Sresiduum^t^N3^T^S|15^Soffspec^t^t^S|14^T^N1^T^S|15^SNeed~`BIS^t^N2^T^S|15^SNeed~`not~`BIS^t^N4^T^S|15^SOffspec^t^N5^T^S|15^STransmog^t^S|5^N5^t^t^S|12^N60^S|11^T^SAZERITE^T^N1^T^S|15^Smainspec^S|4^N1^S|16^T^N1^N0^N2^N1^N3^N0.05^N4^N1^t^t^N2^T^S|15^Sresiduum^S|4^N2^S|16^T^N1^N0.04^N2^N0.08^N3^N1^N4^N1^t^t^N3^T^S|15^Soffspec^S|4^N3^S|16^T^N1^N1^N2^N0.07^N3^N0^N4^N1^t^t^t^S|14^T^N1^T^S|15^SNeed~`BIS^S|4^N1^S|16^T^N1^N0^N2^N1^N3^N0^N4^N1^t^t^N2^T^S|15^SNeed~`not~`BIS^S|4^N2^S|16^T^N1^N0.54^N2^N1^N3^N0.12^N4^N1^t^t^N3^T^S|15^SMinor~`Upgrade^S|4^N3^S|16^T^N1^N0.63^N2^N0.7^N3^N0.22^N4^N1^t^t^N4^T^S|15^SOffspec^S|4^N4^S|16^T^N1^N0.7^N2^N0.43^N3^N0.17^N4^N1^t^t^N5^T^S|15^STransmog^S|4^N5^S|16^T^N1^N0.7^N2^N0.18^N3^N0.1^N4^N1^t^t^t^t^S|1^B^S|5^N5^S|2^B^t^t^^ RAID Tankzorx-Kazzak", -- [958]
+			"<23:03:30><INFO>	 OnMLDBReceived", -- [959]
+			"<23:03:30><Comm>	 ^1^Sxrealm^T^N1^STankzorx-Kazzak^N2^SpI^N3^SDAMAGER^N4^SCitizen^N6^N0^N7^N229.1875^N8^N262^t^^ RAID Rentaki-Kazzak", -- [960]
+			"<23:03:30><Comm>	 ^1^Sxrealm^T^N1^STankzorx-Kazzak^N2^SpI^N3^SDAMAGER^N4^SCitizen^N6^N0^N7^N226.625^N8^N72^t^^ RAID Sacraa-Kazzak", -- [961]
+			"<23:03:30><Comm>	 ^1^Sxrealm^T^N1^STankzorx-Kazzak^N2^SpI^N3^SHEALER^N4^SMike~`Pence^N6^N0^N7^N228.3125^N8^N65^t^^ RAID Tankzorx-Kazzak", -- [962]
+			"<23:03:30><Comm>	 ^1^Sxrealm^T^N1^STankzorx-Kazzak^N2^SpI^N3^SDAMAGER^N4^SCitizen^N6^N0^N7^N226.875^N8^N252^t^^ RAID Tokzik-Kazzak", -- [963]
+			"<23:03:30><Comm>	 ^1^Sxrealm^T^N1^STankzorx-Kazzak^N2^SpI^N3^SDAMAGER^N4^STHE~`WALL^N6^N0^N7^N226.1875^N8^N102^t^^ RAID Tradushuffle-Kazzak", -- [964]
+			"<23:03:30><Comm>	 ^1^Sxrealm^T^N1^STankzorx-Kazzak^N2^SpI^N3^STANK^N4^SCitizen^N6^N0^N7^N228.5625^N8^N581^t^^ RAID Bevv-Kazzak", -- [965]
+			"<23:03:30><Comm>	 ^1^Sxrealm^T^N1^STankzorx-Kazzak^N2^SpI^N3^SHEALER^N4^SCitizen^N6^N0^N7^N228.3125^N8^N105^t^^ RAID Arookie-Kazzak", -- [966]
+			"<23:03:30><Comm>	 ^1^Sxrealm^T^N1^STankzorx-Kazzak^N2^SpI^N3^SDAMAGER^N4^SCitizen^N5^B^N6^N115^N7^N227.4375^N8^N72^t^^ RAID Riworra-Kazzak", -- [967]
+			"<23:03:30><Comm>	 ^1^Sxrealm^T^N1^STankzorx-Kazzak^N2^SpI^N3^SHEALER^N4^SMike~`Pence^N6^N0^N7^N227.875^N8^N256^t^^ RAID Vapee-Kazzak", -- [968]
+			"<23:03:30><Comm>	 ^1^Sxrealm^T^N1^STankzorx-Kazzak^N2^SpI^N3^SDAMAGER^N4^SCitizen^N6^N0^N7^N229.1875^N8^N265^t^^ RAID Neveh-Kazzak", -- [969]
+			"<23:03:30><Comm>	 ^1^Sxrealm^T^N1^STankzorx-Kazzak^N2^SpI^N3^SDAMAGER^N4^SCitizen^N6^N0^N7^N227.875^N8^N254^t^^ RAID Sanshot-Kazzak", -- [970]
+			"<23:03:30><Comm>	 ^1^Sxrealm^T^N1^STankzorx-Kazzak^N2^SpI^N3^SDAMAGER^N4^SCitizen^N6^N0^N7^N229.1875^N8^N63^t^^ RAID Skonheden-Kazzak", -- [971]
+			"<23:03:30><Comm>	 ^1^Sxrealm^T^N1^STankzorx-Kazzak^N2^SpI^N3^SDAMAGER^N4^SMike~`Pence^N5^B^N6^N115^N7^N221.375^N8^N254^t^^ RAID Memescoper-Kazzak", -- [972]
+			"<23:03:32><Comm>	 ^1^Scouncil^T^N1^T^S1305-0B0DCA21^B^S1305-0B0E3079^B^S1305-0B30094D^B^t^t^^ RAID Tankzorx-Kazzak", -- [973]
+			"<23:03:32><DEBUG>	 isCouncil false", -- [974]
+			"<23:03:45><DEBUG>	 Timer MLdb_check passed", -- [975]
+			"<23:04:46><DEBUG>	 Event: PLAYER_ENTERING_WORLD false false", -- [976]
+			"<23:04:47><DEBUG>	 GetML()", -- [977]
+			"<23:06:52><Comm>	 ^1^Sxrealm^T^N1^STankzorx-Kazzak^N2^SMLdb_request^t^^ RAID Neveh-Kazzak", -- [978]
+			"<23:06:52><Comm>	 ^1^Sxrealm^T^N1^STankzorx-Kazzak^N2^Scouncil_request^t^^ RAID Neveh-Kazzak", -- [979]
+			"<23:06:52><Comm>	 ^1^Smldb^T^N1^T^S|8^T^SAZERITE^T^N1^T^S|15^Smainspec^t^N2^T^S|15^Sresiduum^t^N3^T^S|15^Soffspec^t^t^S|14^T^N1^T^S|15^SNeed~`BIS^t^N2^T^S|15^SNeed~`not~`BIS^t^N4^T^S|15^SOffspec^t^N5^T^S|15^STransmog^t^S|5^N5^t^t^S|12^N60^S|11^T^SAZERITE^T^N1^T^S|15^Smainspec^S|4^N1^S|16^T^N1^N0^N2^N1^N3^N0.05^N4^N1^t^t^N2^T^S|15^Sresiduum^S|4^N2^S|16^T^N1^N0.04^N2^N0.08^N3^N1^N4^N1^t^t^N3^T^S|15^Soffspec^S|4^N3^S|16^T^N1^N1^N2^N0.07^N3^N0^N4^N1^t^t^t^S|14^T^N1^T^S|15^SNeed~`BIS^S|4^N1^S|16^T^N1^N0^N2^N1^N3^N0^N4^N1^t^t^N2^T^S|15^SNeed~`not~`BIS^S|4^N2^S|16^T^N1^N0.54^N2^N1^N3^N0.12^N4^N1^t^t^N3^T^S|15^SMinor~`Upgrade^S|4^N3^S|16^T^N1^N0.63^N2^N0.7^N3^N0.22^N4^N1^t^t^N4^T^S|15^SOffspec^S|4^N4^S|16^T^N1^N0.7^N2^N0.43^N3^N0.17^N4^N1^t^t^N5^T^S|15^STransmog^S|4^N5^S|16^T^N1^N0.7^N2^N0.18^N3^N0.1^N4^N1^t^t^t^t^S|1^B^S|5^N5^S|2^B^t^t^^ RAID Tankzorx-Kazzak", -- [980]
+			"<23:06:52><INFO>	 OnMLDBReceived", -- [981]
+			"<23:06:52><Comm>	 ^1^Scouncil^T^N1^T^S1305-0B0DCA21^B^S1305-0B0E3079^B^S1305-0B30094D^B^t^t^^ RAID Tankzorx-Kazzak", -- [982]
+			"<23:06:52><DEBUG>	 isCouncil false", -- [983]
+			"<23:07:28><DEBUG>	 Event: GROUP_LEFT 1 Party-1305-1-000054D5CAAE", -- [984]
+			"<23:07:28><DEBUG>	 GetML()", -- [985]
+			"<23:23:59><INFO>	 Logged In", -- [986]
+			"<23:23:59>[ML]<INFO>	 Init", -- [987]
+			"<23:23:59><INFO>	 RCLootCouncil TradeUI enabled", -- [988]
+			"<23:24:01><INFO>	 Rentaki-Kazzak 3.1.4 nil", -- [989]
+			"<23:24:01><DEBUG>	 ActivateSkin bfa", -- [990]
+			"<23:24:02><DEBUG>	 Event: PLAYER_ENTERING_WORLD false true", -- [991]
+			"<23:24:02><INFO>	 UpdatePlayersData()", -- [992]
+			"<23:24:03><DEBUG>	 GetPlayersGuildRank()", -- [993]
+			"<23:24:03><DEBUG>	 Found Guild Rank: Citizen", -- [994]
+			"<23:24:03><DEBUG>	 GetML()", -- [995]
+			"<23:24:03><Comm>	 ^1^Sv^T^N1^S3.1.4^t^^ GUILD Rentaki-Kazzak", -- [996]
+			"<23:24:04><Comm>	 ^1^Sr^T^N1^S3.1.3^N3^T^t^t^^ GUILD Kessrogue-Kazzak", -- [997]
+			"<23:24:55><INFO>	 Logged In", -- [998]
+			"<23:24:55>[ML]<INFO>	 Init", -- [999]
+			"<23:24:55><INFO>	 RCLootCouncil TradeUI enabled", -- [1000]
+			"<23:24:57><INFO>	 Rentaki-Kazzak 3.1.4 nil", -- [1001]
+			"<23:24:57><DEBUG>	 ActivateSkin bfa", -- [1002]
+			"<23:24:59><DEBUG>	 Event: PLAYER_ENTERING_WORLD false true", -- [1003]
+			"<23:24:59><INFO>	 UpdatePlayersData()", -- [1004]
+			"<23:24:59><DEBUG>	 GetPlayersGuildRank()", -- [1005]
+			"<23:24:59><DEBUG>	 Found Guild Rank: Citizen", -- [1006]
+			"<23:24:59><DEBUG>	 GetML()", -- [1007]
+			"<23:24:59><Comm>	 ^1^Sv^T^N1^S3.1.4^t^^ GUILD Rentaki-Kazzak", -- [1008]
+			"<23:24:59><Comm>	 ^1^Sr^T^N1^S3.1.3^N3^T^t^t^^ GUILD Kessrogue-Kazzak", -- [1009]
+			"<23:25:53><INFO>	 Logged In", -- [1010]
+			"<23:25:53>[ML]<INFO>	 Init", -- [1011]
+			"<23:25:53><INFO>	 RCLootCouncil TradeUI enabled", -- [1012]
+			"<23:25:55><INFO>	 Rentaki-Kazzak 3.1.4 nil", -- [1013]
+			"<23:25:55><DEBUG>	 ActivateSkin bfa", -- [1014]
+			"<23:25:56><DEBUG>	 Event: PLAYER_ENTERING_WORLD false true", -- [1015]
+			"<23:25:56><INFO>	 UpdatePlayersData()", -- [1016]
+			"<23:25:56><DEBUG>	 GetPlayersGuildRank()", -- [1017]
+			"<23:25:56><DEBUG>	 Found Guild Rank: Citizen", -- [1018]
+			"<23:25:56><DEBUG>	 GetML()", -- [1019]
+			"<23:25:56><Comm>	 ^1^Sv^T^N1^S3.1.4^t^^ GUILD Rentaki-Kazzak", -- [1020]
+			"<23:25:57><Comm>	 ^1^Sr^T^N1^S3.1.3^N3^T^t^t^^ GUILD Kessrogue-Kazzak", -- [1021]
+			"<23:26:29><INFO>	 Logged In", -- [1022]
+			"<23:26:29>[ML]<INFO>	 Init", -- [1023]
+			"<23:26:29><INFO>	 RCLootCouncil TradeUI enabled", -- [1024]
+			"<23:26:31><INFO>	 Rentaki-Kazzak 3.1.4 nil", -- [1025]
+			"<23:26:31><DEBUG>	 ActivateSkin bfa", -- [1026]
+			"<23:26:32><DEBUG>	 Event: PLAYER_ENTERING_WORLD false true", -- [1027]
+			"<23:26:32><INFO>	 UpdatePlayersData()", -- [1028]
+			"<23:26:33><DEBUG>	 GetPlayersGuildRank()", -- [1029]
+			"<23:26:33><DEBUG>	 Found Guild Rank: Citizen", -- [1030]
+			"<23:26:33><DEBUG>	 GetML()", -- [1031]
+			"<23:26:33><Comm>	 ^1^Sv^T^N1^S3.1.4^t^^ GUILD Rentaki-Kazzak", -- [1032]
+			"<23:26:33><Comm>	 ^1^Sr^T^N1^S3.1.3^N3^T^t^t^^ GUILD Kessrogue-Kazzak", -- [1033]
+			"<23:27:04><INFO>	 Logged In", -- [1034]
+			"<23:27:04>[ML]<INFO>	 Init", -- [1035]
+			"<23:27:04><INFO>	 RCLootCouncil TradeUI enabled", -- [1036]
+			"<23:27:06><INFO>	 Rentaki-Kazzak 3.1.4 nil", -- [1037]
+			"<23:27:06><DEBUG>	 ActivateSkin bfa", -- [1038]
+			"<23:27:07><DEBUG>	 Event: PLAYER_ENTERING_WORLD false true", -- [1039]
+			"<23:27:07><INFO>	 UpdatePlayersData()", -- [1040]
+			"<23:27:08><DEBUG>	 GetPlayersGuildRank()", -- [1041]
+			"<23:27:08><DEBUG>	 Found Guild Rank: Citizen", -- [1042]
+			"<23:27:08><DEBUG>	 GetML()", -- [1043]
+			"<23:27:08><Comm>	 ^1^Sv^T^N1^S3.1.4^t^^ GUILD Rentaki-Kazzak", -- [1044]
+			"<23:27:08><Comm>	 ^1^Sr^T^N1^S3.1.3^N3^T^t^t^^ GUILD Kessrogue-Kazzak", -- [1045]
+			"<23:28:29><INFO>	 Logged In", -- [1046]
+			"<23:28:29>[ML]<INFO>	 Init", -- [1047]
+			"<23:28:29><INFO>	 RCLootCouncil TradeUI enabled", -- [1048]
+			"<23:28:31><INFO>	 Rentaki-Kazzak 3.1.4 nil", -- [1049]
+			"<23:28:31><DEBUG>	 ActivateSkin bfa", -- [1050]
+			"<23:28:32><DEBUG>	 Event: PLAYER_ENTERING_WORLD false true", -- [1051]
+			"<23:28:32><INFO>	 UpdatePlayersData()", -- [1052]
+			"<23:28:32><DEBUG>	 GetPlayersGuildRank()", -- [1053]
+			"<23:28:32><DEBUG>	 Found Guild Rank: Citizen", -- [1054]
+			"<23:28:33><DEBUG>	 GetML()", -- [1055]
+			"<23:28:33><Comm>	 ^1^Sv^T^N1^S3.1.4^t^^ GUILD Rentaki-Kazzak", -- [1056]
+			"<23:28:33><Comm>	 ^1^Sr^T^N1^S3.1.3^N3^T^t^t^^ GUILD Kessrogue-Kazzak", -- [1057]
+			"<23:34:18><INFO>	 Logged In", -- [1058]
+			"<23:34:18>[ML]<INFO>	 Init", -- [1059]
+			"<23:34:18><INFO>	 RCLootCouncil TradeUI enabled", -- [1060]
+			"<23:34:20><INFO>	 Rentaki-Kazzak 3.1.4 nil", -- [1061]
+			"<23:34:20><DEBUG>	 ActivateSkin bfa", -- [1062]
+			"<23:34:21><DEBUG>	 Event: PLAYER_ENTERING_WORLD false true", -- [1063]
+			"<23:34:21><INFO>	 UpdatePlayersData()", -- [1064]
+			"<23:34:22><DEBUG>	 GetPlayersGuildRank()", -- [1065]
+			"<23:34:22><DEBUG>	 Found Guild Rank: Citizen", -- [1066]
+			"<23:34:22><DEBUG>	 GetML()", -- [1067]
+			"<23:34:22><Comm>	 ^1^Sv^T^N1^S3.1.4^t^^ GUILD Rentaki-Kazzak", -- [1068]
+			"<23:34:23><Comm>	 ^1^Sr^T^N1^S3.1.3^N3^T^t^t^^ GUILD Kessrogue-Kazzak", -- [1069]
+			"<23:54:46><INFO>	 Logged In", -- [1070]
+			"<23:54:46>[ML]<INFO>	 Init", -- [1071]
+			"<23:54:46><INFO>	 RCLootCouncil TradeUI enabled", -- [1072]
+			"<23:54:48><INFO>	 Rentaki-Kazzak 3.1.4 nil", -- [1073]
+			"<23:54:48><DEBUG>	 ActivateSkin bfa", -- [1074]
+			"<23:54:50><DEBUG>	 Event: PLAYER_ENTERING_WORLD false true", -- [1075]
+			"<23:54:50><INFO>	 UpdatePlayersData()", -- [1076]
+			"<23:54:50><DEBUG>	 GetPlayersGuildRank()", -- [1077]
+			"<23:54:50><DEBUG>	 Found Guild Rank: Citizen", -- [1078]
+			"<23:54:50><DEBUG>	 GetML()", -- [1079]
+			"<23:54:50><Comm>	 ^1^Sv^T^N1^S3.1.4^t^^ GUILD Rentaki-Kazzak", -- [1080]
+			"<23:54:51><Comm>	 ^1^Sr^T^N1^S3.1.3^N3^T^t^t^^ GUILD Kessrogue-Kazzak", -- [1081]
+			"<23:56:15><INFO>	 Logged In", -- [1082]
+			"<23:56:15>[ML]<INFO>	 Init", -- [1083]
+			"<23:56:15><INFO>	 RCLootCouncil TradeUI enabled", -- [1084]
+			"<23:56:18><INFO>	 Rentaki-Kazzak 3.1.4 nil", -- [1085]
+			"<23:56:18><DEBUG>	 ActivateSkin bfa", -- [1086]
+			"<23:56:19><DEBUG>	 Event: PLAYER_ENTERING_WORLD false true", -- [1087]
+			"<23:56:19><INFO>	 UpdatePlayersData()", -- [1088]
+			"<23:56:20><DEBUG>	 GetPlayersGuildRank()", -- [1089]
+			"<23:56:20><DEBUG>	 Found Guild Rank: Citizen", -- [1090]
+			"<23:56:20><DEBUG>	 GetML()", -- [1091]
+			"<23:56:20><Comm>	 ^1^Sv^T^N1^S3.1.4^t^^ GUILD Rentaki-Kazzak", -- [1092]
+			"<23:56:20><Comm>	 ^1^Sr^T^N1^S3.1.3^N3^T^t^t^^ GUILD Kessrogue-Kazzak", -- [1093]
+			"<23:56:34><INFO>	 Logged In", -- [1094]
+			"<23:56:34>[ML]<INFO>	 Init", -- [1095]
+			"<23:56:34><INFO>	 RCLootCouncil TradeUI enabled", -- [1096]
+			"<23:56:37><INFO>	 Rentaki-Kazzak 3.1.4 nil", -- [1097]
+			"<23:56:37><DEBUG>	 ActivateSkin bfa", -- [1098]
+			"<23:56:38><DEBUG>	 Event: PLAYER_ENTERING_WORLD false true", -- [1099]
+			"<23:56:38><INFO>	 UpdatePlayersData()", -- [1100]
+			"<23:56:38><DEBUG>	 GetPlayersGuildRank()", -- [1101]
+			"<23:56:38><DEBUG>	 Found Guild Rank: Citizen", -- [1102]
+			"<23:56:38><DEBUG>	 GetML()", -- [1103]
+			"<23:56:39><Comm>	 ^1^Sv^T^N1^S3.1.4^t^^ GUILD Rentaki-Kazzak", -- [1104]
+			"<23:56:39><Comm>	 ^1^Sr^T^N1^S3.1.3^N3^T^t^t^^ GUILD Kessrogue-Kazzak", -- [1105]
+			"<00:01:54><Comm>	 ^1^Sv^T^N1^S3.1.4^t^^ GUILD Aruki-Kazzak", -- [1106]
+			"<00:01:55><Comm>	 ^1^Sr^T^N1^S3.1.3^N3^T^t^t^^ GUILD Kessrogue-Kazzak", -- [1107]
+			"<00:22:06><INFO>	 Logged In", -- [1108]
+			"<00:22:06>[ML]<INFO>	 Init", -- [1109]
+			"<00:22:06><INFO>	 RCLootCouncil TradeUI enabled", -- [1110]
+			"<00:22:08><INFO>	 Rentaki-Kazzak 3.1.4 nil", -- [1111]
+			"<00:22:08><DEBUG>	 ActivateSkin bfa", -- [1112]
+			"<00:22:10><DEBUG>	 Event: PLAYER_ENTERING_WORLD false true", -- [1113]
+			"<00:22:10><INFO>	 UpdatePlayersData()", -- [1114]
+			"<00:22:10><DEBUG>	 GetPlayersGuildRank()", -- [1115]
+			"<00:22:10><DEBUG>	 Found Guild Rank: Citizen", -- [1116]
+			"<00:22:10><DEBUG>	 GetML()", -- [1117]
+			"<00:22:10><Comm>	 ^1^Sv^T^N1^S3.1.4^t^^ GUILD Rentaki-Kazzak", -- [1118]
+			"<00:22:11><Comm>	 ^1^Sr^T^N1^S3.1.3^N3^T^t^t^^ GUILD Kessrogue-Kazzak", -- [1119]
+			"<00:31:01><INFO>	 Logged In", -- [1120]
+			"<00:31:01>[ML]<INFO>	 Init", -- [1121]
+			"<00:31:01><INFO>	 RCLootCouncil TradeUI enabled", -- [1122]
+			"<00:31:03><INFO>	 Rentaki-Kazzak 3.1.4 nil", -- [1123]
+			"<00:31:03><DEBUG>	 ActivateSkin bfa", -- [1124]
+			"<00:31:04><DEBUG>	 Event: PLAYER_ENTERING_WORLD false true", -- [1125]
+			"<00:31:04><INFO>	 UpdatePlayersData()", -- [1126]
+			"<00:31:05><DEBUG>	 GetPlayersGuildRank()", -- [1127]
+			"<00:31:05><DEBUG>	 Found Guild Rank: Citizen", -- [1128]
+			"<00:31:05><DEBUG>	 GetML()", -- [1129]
+			"<00:31:05><Comm>	 ^1^Sv^T^N1^S3.1.4^t^^ GUILD Rentaki-Kazzak", -- [1130]
+			"<00:31:06><Comm>	 ^1^Sr^T^N1^S3.1.3^N3^T^t^t^^ GUILD Kessrogue-Kazzak", -- [1131]
+			"<06:17:50><INFO>	 Logged In", -- [1132]
+			"<06:17:50>[ML]<INFO>	 Init", -- [1133]
+			"<06:17:50><INFO>	 RCLootCouncil TradeUI enabled", -- [1134]
+			"<06:17:57><INFO>	 Rentaki-Kazzak 3.1.4 nil", -- [1135]
+			"<06:17:57><DEBUG>	 ActivateSkin bfa", -- [1136]
+			"<06:17:59><DEBUG>	 Event: PLAYER_ENTERING_WORLD true false", -- [1137]
+			"<06:17:59><INFO>	 UpdatePlayersData()", -- [1138]
+			"<06:18:00><DEBUG>	 GetPlayersGuildRank()", -- [1139]
+			"<06:18:00><DEBUG>	 GetPlayersGuildRank()", -- [1140]
+			"<06:18:00><DEBUG>	 Found Guild Rank: Citizen", -- [1141]
+			"<06:18:03><DEBUG>	 GetML()", -- [1142]
+			"<06:19:48><INFO>	 Logged In", -- [1143]
+			"<06:19:48>[ML]<INFO>	 Init", -- [1144]
+			"<06:19:48><INFO>	 RCLootCouncil TradeUI enabled", -- [1145]
+			"<06:19:51><INFO>	 Rentaki-Kazzak 3.1.4 nil", -- [1146]
+			"<06:19:51><DEBUG>	 ActivateSkin bfa", -- [1147]
+			"<06:19:52><DEBUG>	 Event: PLAYER_ENTERING_WORLD false true", -- [1148]
+			"<06:19:52><INFO>	 UpdatePlayersData()", -- [1149]
+			"<06:19:52><DEBUG>	 GetPlayersGuildRank()", -- [1150]
+			"<06:19:52><DEBUG>	 Found Guild Rank: Citizen", -- [1151]
+			"<06:19:53><DEBUG>	 GetML()", -- [1152]
+			"<06:19:53><Comm>	 ^1^Sv^T^N1^S3.1.4^t^^ GUILD Rentaki-Kazzak", -- [1153]
+			"<06:32:50><DEBUG>	 Event: PLAYER_ENTERING_WORLD false false", -- [1154]
+			"<06:32:52><DEBUG>	 GetML()", -- [1155]
+			"<06:40:15><DEBUG>	 Event: PLAYER_ENTERING_WORLD false false", -- [1156]
+			"<06:40:17><DEBUG>	 GetML()", -- [1157]
+			"<06:41:43><INFO>	 Logged In", -- [1158]
+			"<06:41:43>[ML]<INFO>	 Init", -- [1159]
+			"<06:41:43><INFO>	 RCLootCouncil TradeUI enabled", -- [1160]
+			"<06:41:49><INFO>	 Rentaki-Kazzak 3.1.4 nil", -- [1161]
+			"<06:41:49><DEBUG>	 ActivateSkin bfa", -- [1162]
+			"<06:41:50><DEBUG>	 Event: PLAYER_ENTERING_WORLD true false", -- [1163]
+			"<06:41:50><INFO>	 UpdatePlayersData()", -- [1164]
+			"<06:41:51><DEBUG>	 GetPlayersGuildRank()", -- [1165]
+			"<06:41:51><DEBUG>	 GetPlayersGuildRank()", -- [1166]
+			"<06:41:51><DEBUG>	 Found Guild Rank: Citizen", -- [1167]
+			"<06:41:54><DEBUG>	 GetML()", -- [1168]
+			"<06:46:12><DEBUG>	 Event: PLAYER_ENTERING_WORLD false false", -- [1169]
+			"<06:46:13><DEBUG>	 GetML()", -- [1170]
+			"<06:51:58><INFO>	 Logged In", -- [1171]
+			"<06:51:58>[ML]<INFO>	 Init", -- [1172]
+			"<06:51:58><INFO>	 RCLootCouncil TradeUI enabled", -- [1173]
+			"<06:52:03><INFO>	 Rentaki-Kazzak 3.1.4 nil", -- [1174]
+			"<06:52:03><DEBUG>	 ActivateSkin bfa", -- [1175]
+			"<06:52:04><DEBUG>	 Event: PLAYER_ENTERING_WORLD true false", -- [1176]
+			"<06:52:04><INFO>	 UpdatePlayersData()", -- [1177]
+			"<06:52:06><DEBUG>	 GetPlayersGuildRank()", -- [1178]
+			"<06:52:06><DEBUG>	 Found Guild Rank: Citizen", -- [1179]
+			"<06:52:08><DEBUG>	 GetML()", -- [1180]
+			"<07:03:56><INFO>	 Logged In", -- [1181]
+			"<07:03:56>[ML]<INFO>	 Init", -- [1182]
+			"<07:03:56><INFO>	 RCLootCouncil TradeUI enabled", -- [1183]
+			"<07:04:02><INFO>	 Rentaki-Kazzak 3.1.4 nil", -- [1184]
+			"<07:04:02><DEBUG>	 ActivateSkin bfa", -- [1185]
+			"<07:04:03><DEBUG>	 Event: PLAYER_ENTERING_WORLD true false", -- [1186]
+			"<07:04:03><INFO>	 UpdatePlayersData()", -- [1187]
+			"<07:04:03><DEBUG>	 GetPlayersGuildRank()", -- [1188]
+			"<07:04:04><DEBUG>	 GetPlayersGuildRank()", -- [1189]
+			"<07:04:04><DEBUG>	 Found Guild Rank: Citizen", -- [1190]
+			"<07:04:08><DEBUG>	 GetML()", -- [1191]
+			"<07:11:57><DEBUG>	 Event: PLAYER_ENTERING_WORLD false false", -- [1192]
+			"<07:11:59><DEBUG>	 GetML()", -- [1193]
+			"<07:22:49><INFO>	 Logged In", -- [1194]
+			"<07:22:49>[ML]<INFO>	 Init", -- [1195]
+			"<07:22:49><INFO>	 RCLootCouncil TradeUI enabled", -- [1196]
+			"<07:22:55><INFO>	 Rentaki-Kazzak 3.1.4 nil", -- [1197]
+			"<07:22:55><DEBUG>	 ActivateSkin bfa", -- [1198]
+			"<07:22:56><DEBUG>	 Event: PLAYER_ENTERING_WORLD true false", -- [1199]
+			"<07:22:56><INFO>	 UpdatePlayersData()", -- [1200]
+			"<07:22:57><DEBUG>	 GetPlayersGuildRank()", -- [1201]
+			"<07:22:57><DEBUG>	 GetPlayersGuildRank()", -- [1202]
+			"<07:22:57><DEBUG>	 Found Guild Rank: Citizen", -- [1203]
+			"<07:22:59><DEBUG>	 GetML()", -- [1204]
+			"<19:12:43><INFO>	 Logged In", -- [1205]
+			"<19:12:43>[ML]<INFO>	 Init", -- [1206]
+			"<19:12:43><INFO>	 RCLootCouncil TradeUI enabled", -- [1207]
+			"<19:12:51><INFO>	 Rentaki-Kazzak 3.1.4 nil", -- [1208]
+			"<19:12:51><DEBUG>	 ActivateSkin bfa", -- [1209]
+			"<19:12:53><DEBUG>	 Event: PLAYER_ENTERING_WORLD true false", -- [1210]
+			"<19:12:53><INFO>	 UpdatePlayersData()", -- [1211]
+			"<19:12:54><DEBUG>	 GetPlayersGuildRank()", -- [1212]
+			"<19:12:54><DEBUG>	 Found Guild Rank: Citizen", -- [1213]
+			"<19:12:57><DEBUG>	 GetML()", -- [1214]
+			"<19:14:02><DEBUG>	 Event: PARTY_LEADER_CHANGED", -- [1215]
+			"<19:14:04><DEBUG>	 GetML()", -- [1216]
+			"<19:14:04><DEBUG>	 Resetting council as we have a new ML!", -- [1217]
+			"<19:14:04><INFO>	 MasterLooter =  Mímou-Kazzak", -- [1218]
+			"<19:14:19><DEBUG>	 Timer MLdb_check passed", -- [1219]
+			"<19:14:19><Comm>	 ^1^Sxrealm^T^N1^SMímou-Kazzak^N2^SMLdb_request^t^^ PARTY Rentaki-Kazzak", -- [1220]
+			"<19:14:19><Comm>	 ^1^Sxrealm^T^N1^SMímou-Kazzak^N2^Scouncil_request^t^^ PARTY Rentaki-Kazzak", -- [1221]
+			"<19:18:24><Comm>	 ^1^Sxrealm^T^N1^SMímou-Kazzak^N2^SMLdb_request^t^^ PARTY Skonheden-Kazzak", -- [1222]
+			"<19:18:24><Comm>	 ^1^Sxrealm^T^N1^SMímou-Kazzak^N2^Scouncil_request^t^^ PARTY Skonheden-Kazzak", -- [1223]
+			"<19:18:50><DEBUG>	 Event: PLAYER_ENTERING_WORLD false false", -- [1224]
+			"<19:18:52><DEBUG>	 GetML()", -- [1225]
+			"<19:24:09><DEBUG>	 Event: PLAYER_ENTERING_WORLD false false", -- [1226]
+			"<19:24:10><DEBUG>	 GetML()", -- [1227]
+			"<19:25:39><Comm>	 ^1^Sxrealm^T^N1^SMímou-Kazzak^N2^SMLdb_request^t^^ PARTY Nited-Kazzak", -- [1228]
+			"<19:25:39><Comm>	 ^1^Sxrealm^T^N1^SMímou-Kazzak^N2^Scouncil_request^t^^ PARTY Nited-Kazzak", -- [1229]
+			"<19:31:15><DEBUG>	 Event: PARTY_LEADER_CHANGED", -- [1230]
+			"<19:31:17><DEBUG>	 GetML()", -- [1231]
+			"<19:31:18><DEBUG>	 Event: PLAYER_ENTERING_WORLD false false", -- [1232]
+			"<19:31:20><DEBUG>	 GetML()", -- [1233]
+			"<19:31:47><DEBUG>	 Event: GROUP_LEFT 2 Party-1461-1-0000578C6FDD", -- [1234]
+			"<19:31:47><DEBUG>	 GetML()", -- [1235]
+			"<19:31:47><DEBUG>	 Resetting council as we have a new ML!", -- [1236]
+			"<19:31:47><INFO>	 MasterLooter =  Mímou-Kazzak", -- [1237]
+			"<19:31:50><DEBUG>	 Event: PLAYER_ENTERING_WORLD false false", -- [1238]
+			"<19:31:52><DEBUG>	 GetML()", -- [1239]
+			"<19:32:02><DEBUG>	 Timer MLdb_check passed", -- [1240]
+			"<19:32:02><Comm>	 ^1^Sxrealm^T^N1^SMímou-Kazzak^N2^SMLdb_request^t^^ PARTY Rentaki-Kazzak", -- [1241]
+			"<19:32:02><Comm>	 ^1^Sxrealm^T^N1^SMímou-Kazzak^N2^Scouncil_request^t^^ PARTY Rentaki-Kazzak", -- [1242]
+			"<19:33:37><DEBUG>	 Event: PLAYER_ENTERING_WORLD false false", -- [1243]
+			"<19:33:38><DEBUG>	 GetML()", -- [1244]
+			"<19:33:52><DEBUG>	 Event: RAID_INSTANCE_WELCOME De Other Side (Mythic) 476767 0 0", -- [1245]
+			"<19:33:53><DEBUG>	 Event: PLAYER_ENTERING_WORLD false false", -- [1246]
+			"<19:33:54><DEBUG>	 GetML()", -- [1247]
+			"<19:35:12><DEBUG>	 TradeUI: Traded item(s) to Mímou-Kazzak", -- [1248]
+			"<19:35:12><DEBUG>	 Storage:RemoveItem |cffffffff|Hitem:171276::::::::60:262:::::::|h[Spectral Flask of Power]|h|r", -- [1249]
+			"<19:35:12><ERROR>	 Couldn't remove item nil nil", -- [1250]
+			"<19:35:12><DEBUG>	 TradeUI:Show() nil", -- [1251]
+			"<19:35:12><DEBUG>	 TradeUI:Hide()", -- [1252]
+			"<19:35:37><DEBUG>	 Event: PARTY_LEADER_CHANGED", -- [1253]
+			"<19:35:39><DEBUG>	 GetML()", -- [1254]
+			"<19:35:39><DEBUG>	 Resetting council as we have a new ML!", -- [1255]
+			"<19:35:39><INFO>	 MasterLooter =  Nited-Kazzak", -- [1256]
+			"<19:35:39><Comm>	 ^1^SplayerInfoRequest^T^t^^ PARTY Nited-Kazzak", -- [1257]
+			"<19:35:39><Comm>	 ^1^Smldb^T^N1^T^S|8^T^S|14^T^S|5^N3^t^t^S|12^N60^S|11^T^S|14^T^t^t^S|1^B^S|5^N3^S|2^B^t^t^^ PARTY Nited-Kazzak", -- [1258]
+			"<19:35:39><INFO>	 OnMLDBReceived", -- [1259]
+			"<19:35:40><Comm>	 ^1^Sxrealm^T^N1^SNited-Kazzak^N2^SpI^N3^STANK^N4^SUndocumented^N6^N0^N7^N222.0625^N8^N102^t^^ PARTY Nited-Kazzak", -- [1260]
+			"<19:35:40><Comm>	 ^1^Sxrealm^T^N1^SNited-Kazzak^N2^SpI^N3^SDAMAGER^N4^SCitizen^N6^N0^N7^N229.1875^N8^N262^t^^ PARTY Rentaki-Kazzak", -- [1261]
+			"<19:35:40><Comm>	 ^1^Sxrealm^T^N1^SNited-Kazzak^N2^SpI^N3^SDAMAGER^N4^SCitizen^N6^N0^N7^N226.375^N8^N102^t^^ PARTY Macuc-Kazzak", -- [1262]
+			"<19:35:40><Comm>	 ^1^Sxrealm^T^N1^SNited-Kazzak^N2^SpI^N3^SDAMAGER^N4^SCitizen^N6^N0^N7^N229.1875^N8^N63^t^^ PARTY Skonheden-Kazzak", -- [1263]
+			"<19:35:41><Comm>	 ^1^Scouncil^T^N1^T^S1305-0B07CCD2^B^t^t^^ PARTY Nited-Kazzak", -- [1264]
+			"<19:35:41><DEBUG>	 isCouncil false", -- [1265]
+			"<19:35:54><DEBUG>	 Timer MLdb_check passed", -- [1266]
+			"<19:45:52><DEBUG>	 Event: ENCOUNTER_START 2395 Hakkar, the Soulflayer 8 5", -- [1267]
+			"<19:45:52><INFO>	 UpdatePlayersData()", -- [1268]
+			"<19:47:45><DEBUG>	 Event: ENCOUNTER_END 2395 Hakkar, the Soulflayer 8 5 1", -- [1269]
+			"<19:56:12><DEBUG>	 Event: ENCOUNTER_START 2394 The Manastorms 8 5", -- [1270]
+			"<19:56:12><INFO>	 UpdatePlayersData()", -- [1271]
+			"<19:58:39><DEBUG>	 Event: ENCOUNTER_END 2394 The Manastorms 8 5 1", -- [1272]
+			"<20:08:34><DEBUG>	 Event: ENCOUNTER_START 2400 Dealer Xy'exa 8 5", -- [1273]
+			"<20:08:34><INFO>	 UpdatePlayersData()", -- [1274]
+			"<20:09:46><DEBUG>	 Event: ENCOUNTER_END 2400 Dealer Xy'exa 8 5 1", -- [1275]
+			"<20:10:54><DEBUG>	 Event: ENCOUNTER_START 2396 Mueh'zala 8 5", -- [1276]
+			"<20:10:54><INFO>	 UpdatePlayersData()", -- [1277]
+			"<20:13:46><DEBUG>	 Event: ENCOUNTER_END 2396 Mueh'zala 8 5 1", -- [1278]
+			"<20:13:55><Comm>	 ^1^Sl^T^N1^S354985^t^^ PARTY Macuc-Kazzak", -- [1279]
+			"<20:13:55><Comm>	 ^1^Sl^T^N1^S354985^t^^ PARTY Macuc-Kazzak", -- [1280]
+			"<20:13:55><DEBUG>	 Event: ENCOUNTER_LOOT_RECEIVED 2396 179324 |cffa335ee|Hitem:179324::::::::60:262::16:5:7349:7359:6652:1524:6646:1:28:1279:::|h[Soulfeather Breeches]|h|r 1 Nited DRUID", -- [1281]
+			"<20:13:55><Comm>	 ^1^Sl^T^N1^S354985^t^^ PARTY Nited-Kazzak", -- [1282]
+			"<20:13:57><DEBUG>	 Event: LOOT_READY true", -- [1283]
+			"<20:13:57><DEBUG>	 Adding to self.lootSlotInfo 1 nil 1 0 GameObject-0-3102-2291-16371-354985-00004A6BEC 521921", -- [1284]
+			"<20:13:57><DEBUG>	 Ignoring |cffa335ee|Hcurrency:1191:135|h[Valor]|h|r as it's a currency", -- [1285]
+			"<20:13:57><DEBUG>	 Adding to self.lootSlotInfo 4 |cffa335ee|Hitem:179345::::::::60:262::33:5:7370:7359:6652:1524:6646:1:28:1279:::|h[Spatial Rift Striders]|h|r 4 1 GameObject-0-3102-2291-16371-354985-00004A6BEC 1", -- [1286]
+			"<20:13:57><DEBUG>	 OnLootSlotCleared() 4 |cffa335ee|Hitem:179345::::::::60:262::33:5:7370:7359:6652:1524:6646:1:28:1279:::|h[Spatial Rift Striders]|h|r 4", -- [1287]
+			"<20:13:57><DEBUG>	 Event: LOOT_READY true", -- [1288]
+			"<20:13:57><DEBUG>	 Adding to self.lootSlotInfo 1 nil 1 0 GameObject-0-3102-2291-16371-354985-00004A6BEC 521921", -- [1289]
+			"<20:13:57><DEBUG>	 Ignoring |cffa335ee|Hcurrency:1191:135|h[Valor]|h|r as it's a currency", -- [1290]
+			"<20:13:58><Comm>	 ^1^Sl^T^N1^S354985^t^^ PARTY Skonheden-Kazzak", -- [1291]
+			"<20:13:58><Comm>	 ^1^Sl^T^N1^S354985^t^^ PARTY Skonheden-Kazzak", -- [1292]
+			"<20:13:58><DEBUG>	 Event: ENCOUNTER_LOOT_RECEIVED 2396 179345 |cffa335ee|Hitem:179345::::::::60:262::33:5:7370:7359:6652:1524:6646:1:28:1279:::|h[Spatial Rift Striders]|h|r 1 Rentaki SHAMAN", -- [1293]
+			"<20:13:58><DEBUG>	 Event: ENCOUNTER_LOOT_RECEIVED 2396 181479 |cff0070dd|Hitem:181479::::::::60:262:::::::|h[Starlight Catcher]|h|r 3 Rentaki SHAMAN", -- [1294]
+			"<20:13:58><DEBUG>	 OnLootSlotCleared() 1 nil 1", -- [1295]
+			"<20:13:58><DEBUG>	 Event: LOOT_CLOSED", -- [1296]
+			"<20:13:58><DEBUG>	 Event: LOOT_CLOSED", -- [1297]
+			"<20:13:58><Comm>	 ^1^Stradable^T^N1^S|cffa335ee|Hitem:179324::::::::60:104::16:5:7349:7359:6652:1524:6646:1:28:1279:::|h[Soulfeather~`Breeches]|h|r^N2^S354985^t^^ PARTY Nited-Kazzak", -- [1298]
+			"<20:13:58><Comm>	 ^1^Sl^T^N1^S354985^t^^ PARTY Rentaki-Kazzak", -- [1299]
+			"<20:13:58><Comm>	 ^1^Sl^T^N1^S354985^t^^ PARTY Rentaki-Kazzak", -- [1300]
+			"<20:13:59><DEBUG>	 Storage:New |cffa335ee|Hitem:179345::::::::60:262::33:5:7370:7359:6652:1524:6646:1:28:1279:::|h[Spatial Rift Striders]|h|r temp", -- [1301]
+			"<20:13:59><DEBUG>	 Storage: searching for item: ||cffa335ee||Hitem:179345::::::::60:262::33:5:7370:7359:6652:1524:6646:1:28:1279:::||h[Spatial Rift Striders]||h||r 5", -- [1302]
+			"<20:13:59><DEBUG>	 Found item at 0 3", -- [1303]
+			"<20:14:00><DEBUG>	 Storage: searching for item: ||cffa335ee||Hitem:179345::::::::60:262::33:5:7370:7359:6652:1524:6646:1:28:1279:::||h[Spatial Rift Striders]||h||r 5", -- [1304]
+			"<20:14:00><DEBUG>	 Found item at 0 3", -- [1305]
+			"<20:14:00><Comm>	 ^1^Stradable^T^N1^S|cffa335ee|Hitem:179345::::::::60:262::33:5:7370:7359:6652:1524:6646:1:28:1279:::|h[Spatial~`Rift~`Striders]|h|r^N2^S354985^t^^ PARTY Rentaki-Kazzak", -- [1306]
+			"<20:14:09><DEBUG>	 Event: ENCOUNTER_LOOT_RECEIVED 2396 179349 |cffa335ee|Hitem:179349::::::::60:262::33:5:7384:7359:6652:1524:6646:1:28:1279:::|h[Dealer Xy'exa's Cape]|h|r 1 Mímou PRIEST", -- [1307]
+			"<20:15:03><DEBUG>	 Event: PLAYER_ENTERING_WORLD false false", -- [1308]
+			"<20:15:05><DEBUG>	 GetML()", -- [1309]
+			"<20:15:35><DEBUG>	 Event: RAID_INSTANCE_WELCOME De Other Side (Mythic) 474264 0 0", -- [1310]
+			"<20:15:35><DEBUG>	 Event: PLAYER_ENTERING_WORLD false false", -- [1311]
+			"<20:15:37><DEBUG>	 GetML()", -- [1312]
+			"<20:29:18><DEBUG>	 Event: ENCOUNTER_START 2395 Hakkar, the Soulflayer 8 5", -- [1313]
+			"<20:29:18><INFO>	 UpdatePlayersData()", -- [1314]
+			"<20:30:43><DEBUG>	 Event: ENCOUNTER_END 2395 Hakkar, the Soulflayer 8 5 1", -- [1315]
+			"<20:38:20><DEBUG>	 Event: ENCOUNTER_START 2394 The Manastorms 8 5", -- [1316]
+			"<20:38:20><INFO>	 UpdatePlayersData()", -- [1317]
+			"<20:40:52><DEBUG>	 Event: ENCOUNTER_END 2394 The Manastorms 8 5 1", -- [1318]
+			"<20:51:01><DEBUG>	 Event: ENCOUNTER_START 2400 Dealer Xy'exa 8 5", -- [1319]
+			"<20:51:01><INFO>	 UpdatePlayersData()", -- [1320]
+			"<20:52:13><DEBUG>	 Event: ENCOUNTER_END 2400 Dealer Xy'exa 8 5 1", -- [1321]
+			"<20:53:22><DEBUG>	 Event: ENCOUNTER_START 2396 Mueh'zala 8 5", -- [1322]
+			"<20:53:22><INFO>	 UpdatePlayersData()", -- [1323]
+			"<20:56:37><DEBUG>	 Event: ENCOUNTER_END 2396 Mueh'zala 8 5 1", -- [1324]
+			"<20:56:47><Comm>	 ^1^Sl^T^N1^S354985^t^^ PARTY Macuc-Kazzak", -- [1325]
+			"<20:56:47><Comm>	 ^1^Sl^T^N1^S354985^t^^ PARTY Macuc-Kazzak", -- [1326]
+			"<20:56:47><Comm>	 ^1^Sl^T^N1^S354985^t^^ PARTY Nited-Kazzak", -- [1327]
+			"<20:56:47><Comm>	 ^1^Sl^T^N1^S354985^t^^ PARTY Nited-Kazzak", -- [1328]
+			"<20:56:48><DEBUG>	 Event: ENCOUNTER_LOOT_RECEIVED 2396 179339 |cffa335ee|Hitem:179339::::::::60:262::33:5:7412:7359:6652:1524:6646:1:28:1279:::|h[Whizblast Walking Stick]|h|r 1 Skonheden MAGE", -- [1329]
+			"<20:56:48><Comm>	 ^1^Sl^T^N1^S354985^t^^ PARTY Skonheden-Kazzak", -- [1330]
+			"<20:56:48><Comm>	 ^1^Sl^T^N1^S354985^t^^ PARTY Skonheden-Kazzak", -- [1331]
+			"<20:56:51><DEBUG>	 Event: LOOT_READY false", -- [1332]
+			"<20:56:51><DEBUG>	 Adding to self.lootSlotInfo 1 nil 1 0 GameObject-0-3102-2291-18350-354985-00004A75F7 515819", -- [1333]
+			"<20:56:51><DEBUG>	 Ignoring |cffa335ee|Hcurrency:1191:135|h[Valor]|h|r as it's a currency", -- [1334]
+			"<20:56:51><DEBUG>	 Adding to self.lootSlotInfo 4 |cffa335ee|Hitem:179337::::::::60:262::33:5:7349:7359:6652:1524:6646:1:28:1279:::|h[Techno-Coil Legguards]|h|r 4 1 GameObject-0-3102-2291-18350-354985-00004A75F7 1", -- [1335]
+			"<20:56:52><Comm>	 ^1^Stradable^T^N1^S|cffa335ee|Hitem:179339::::::::60:63::33:5:7412:7359:6652:1524:6646:1:28:1279:::|h[Whizblast~`Walking~`Stick]|h|r^N2^S354985^t^^ PARTY Skonheden-Kazzak", -- [1336]
+			"<20:56:52><DEBUG>	 OnLootSlotCleared() 4 |cffa335ee|Hitem:179337::::::::60:262::33:5:7349:7359:6652:1524:6646:1:28:1279:::|h[Techno-Coil Legguards]|h|r 4", -- [1337]
+			"<20:56:53><DEBUG>	 Event: ENCOUNTER_LOOT_RECEIVED 2396 179337 |cffa335ee|Hitem:179337::::::::60:262::33:5:7349:7359:6652:1524:6646:1:28:1279:::|h[Techno-Coil Legguards]|h|r 1 Rentaki SHAMAN", -- [1338]
+			"<20:56:53><DEBUG>	 Event: ENCOUNTER_LOOT_RECEIVED 2396 184383 |cff0070dd|Hitem:184383::::::::60:262:::::::|h[Duskfall Tuber]|h|r 3 Rentaki SHAMAN", -- [1339]
+			"<20:56:54><DEBUG>	 OnLootSlotCleared() 1 nil 1", -- [1340]
+			"<20:56:54><DEBUG>	 Event: LOOT_CLOSED", -- [1341]
+			"<20:56:54><DEBUG>	 Event: LOOT_CLOSED", -- [1342]
+			"<20:56:54><Comm>	 ^1^Sl^T^N1^S354985^t^^ PARTY Rentaki-Kazzak", -- [1343]
+			"<20:56:54><Comm>	 ^1^Sl^T^N1^S354985^t^^ PARTY Rentaki-Kazzak", -- [1344]
+			"<20:56:54><DEBUG>	 Storage:New |cffa335ee|Hitem:179337::::::::60:262::33:5:7349:7359:6652:1524:6646:1:28:1279:::|h[Techno-Coil Legguards]|h|r temp", -- [1345]
+			"<20:56:54><DEBUG>	 Storage: searching for item: ||cffa335ee||Hitem:179337::::::::60:262::33:5:7349:7359:6652:1524:6646:1:28:1279:::||h[Techno-Coil Legguards]||h||r 5", -- [1346]
+			"<20:56:54><DEBUG>	 Found item at 0 8", -- [1347]
+			"<20:56:55><DEBUG>	 Storage: searching for item: ||cffa335ee||Hitem:179337::::::::60:262::33:5:7349:7359:6652:1524:6646:1:28:1279:::||h[Techno-Coil Legguards]||h||r 5", -- [1348]
+			"<20:56:55><DEBUG>	 Found item at 0 8", -- [1349]
+			"<20:56:56><Comm>	 ^1^Stradable^T^N1^S|cffa335ee|Hitem:179337::::::::60:262::33:5:7349:7359:6652:1524:6646:1:28:1279:::|h[Techno-Coil~`Legguards]|h|r^N2^S354985^t^^ PARTY Rentaki-Kazzak", -- [1350]
+			"<20:57:00><DEBUG>	 Event: ENCOUNTER_LOOT_RECEIVED 2396 179350 |cffa335ee|Hitem:179350::::::::60:262::16:5:7370:7359:6652:1524:6646:1:28:1279:::|h[Inscrutable Quantum Device]|h|r 1 Mímou PRIEST", -- [1351]
+			"<20:58:18><DEBUG>	 Event: PLAYER_ENTERING_WORLD false false", -- [1352]
+			"<20:58:20><DEBUG>	 GetML()", -- [1353]
+			"<21:08:46><DEBUG>	 Event: PLAYER_ENTERING_WORLD false false", -- [1354]
+			"<21:08:47><DEBUG>	 GetML()", -- [1355]
+			"<21:09:30><DEBUG>	 Event: RAID_INSTANCE_WELCOME Mists of Tirna Scithe (Mythic) 471029 0 0", -- [1356]
+			"<21:09:30><DEBUG>	 Event: PLAYER_ENTERING_WORLD false false", -- [1357]
+			"<21:09:32><DEBUG>	 GetML()", -- [1358]
+			"<21:14:55><DEBUG>	 Event: ENCOUNTER_START 2397 Ingra Maloch 8 5", -- [1359]
+			"<21:14:55><INFO>	 UpdatePlayersData()", -- [1360]
+			"<21:17:00><DEBUG>	 Event: ENCOUNTER_END 2397 Ingra Maloch 8 5 1", -- [1361]
+			"<21:21:39><DEBUG>	 Event: ENCOUNTER_START 2392 Mistcaller 8 5", -- [1362]
+			"<21:21:39><INFO>	 UpdatePlayersData()", -- [1363]
+			"<21:24:30><DEBUG>	 Event: ENCOUNTER_END 2392 Mistcaller 8 5 1", -- [1364]
+			"<21:31:24><DEBUG>	 Event: ENCOUNTER_START 2393 Tred'ova 8 5", -- [1365]
+			"<21:31:24><INFO>	 UpdatePlayersData()", -- [1366]
+			"<21:33:18><DEBUG>	 Event: ENCOUNTER_END 2393 Tred'ova 8 5 1", -- [1367]
+			"<21:33:23><Comm>	 ^1^Sl^T^N1^S354972^t^^ PARTY Nited-Kazzak", -- [1368]
+			"<21:33:26><DEBUG>	 Event: LOOT_READY false", -- [1369]
+			"<21:33:26><DEBUG>	 Adding to self.lootSlotInfo 1 nil 1 0 GameObject-0-4234-2290-7481-354972-00004A7E8F 540910", -- [1370]
+			"<21:33:26><DEBUG>	 Ignoring |cffa335ee|Hcurrency:1191:135|h[Valor]|h|r as it's a currency", -- [1371]
+			"<21:33:26><DEBUG>	 Adding to self.lootSlotInfo 5 |cffa335ee|Hitem:178712::::::::60:262::33:5:7426:7359:6652:1524:6646:1:28:1279:::|h[Acidslough Bulwark]|h|r 4 1 GameObject-0-4234-2290-7481-354972-00004A7E8F 1", -- [1372]
+			"<21:33:28><DEBUG>	 OnLootSlotCleared() 1 nil 1", -- [1373]
+			"<21:33:29><DEBUG>	 Event: ENCOUNTER_LOOT_RECEIVED 2393 184382 |cff0070dd|Hitem:184382::::::::60:262:::::::|h[Luminous Sylberry]|h|r 3 Rentaki SHAMAN", -- [1374]
+			"<21:33:30><DEBUG>	 OnLootSlotCleared() 5 |cffa335ee|Hitem:178712::::::::60:262::33:5:7426:7359:6652:1524:6646:1:28:1279:::|h[Acidslough Bulwark]|h|r 4", -- [1375]
+			"<21:33:30><DEBUG>	 Event: LOOT_CLOSED", -- [1376]
+			"<21:33:30><DEBUG>	 Event: LOOT_CLOSED", -- [1377]
+			"<21:33:30><DEBUG>	 Event: ENCOUNTER_LOOT_RECEIVED 2393 178712 |cffa335ee|Hitem:178712::::::::60:262::33:5:7426:7359:6652:1524:6646:1:28:1279:::|h[Acidslough Bulwark]|h|r 1 Rentaki SHAMAN", -- [1378]
+			"<21:33:30><DEBUG>	 Event: ENCOUNTER_LOOT_RECEIVED 2393 178691 |cffa335ee|Hitem:178691::::::::60:262::16:6:7349:7359:6652:7193:1524:6646:1:28:1279:::|h[Hood of the Hidden Path]|h|r 1 Macuc DRUID", -- [1379]
+			"<21:33:30><Comm>	 ^1^Sl^T^N1^S354972^t^^ PARTY Rentaki-Kazzak", -- [1380]
+			"<21:33:30><Comm>	 ^1^Sl^T^N1^S354972^t^^ PARTY Rentaki-Kazzak", -- [1381]
+			"<21:33:31><Comm>	 ^1^Sl^T^N1^S354972^t^^ PARTY Macuc-Kazzak", -- [1382]
+			"<21:33:31><Comm>	 ^1^Sl^T^N1^S354972^t^^ PARTY Macuc-Kazzak", -- [1383]
+			"<21:33:32><DEBUG>	 Storage:New |cffa335ee|Hitem:178712::::::::60:262::33:5:7426:7359:6652:1524:6646:1:28:1279:::|h[Acidslough Bulwark]|h|r temp", -- [1384]
+			"<21:33:32><DEBUG>	 Storage: searching for item: ||cffa335ee||Hitem:178712::::::::60:262::33:5:7426:7359:6652:1524:6646:1:28:1279:::||h[Acidslough Bulwark]||h||r 5", -- [1385]
+			"<21:33:32><DEBUG>	 Found item at 2 24", -- [1386]
+			"<21:33:32><Comm>	 ^1^Sl^T^N1^S354972^t^^ PARTY Skonheden-Kazzak", -- [1387]
+			"<21:33:32><Comm>	 ^1^Sl^T^N1^S354972^t^^ PARTY Skonheden-Kazzak", -- [1388]
+			"<21:33:33><DEBUG>	 Storage: searching for item: ||cffa335ee||Hitem:178712::::::::60:262::33:5:7426:7359:6652:1524:6646:1:28:1279:::||h[Acidslough Bulwark]||h||r 5", -- [1389]
+			"<21:33:33><DEBUG>	 Found item at 2 24", -- [1390]
+			"<21:33:33><Comm>	 ^1^Stradable^T^N1^S|cffa335ee|Hitem:178712::::::::60:262::33:5:7426:7359:6652:1524:6646:1:28:1279:::|h[Acidslough~`Bulwark]|h|r^N2^S354972^t^^ PARTY Rentaki-Kazzak", -- [1391]
+			"<21:33:33><Comm>	 ^1^Stradable^T^N1^S|cffa335ee|Hitem:178691::::::::60:102::16:6:7349:7359:6652:7193:1524:6646:1:28:1279:::|h[Hood~`of~`the~`Hidden~`Path]|h|r^N2^S354972^t^^ PARTY Macuc-Kazzak", -- [1392]
+			"<21:34:23><DEBUG>	 Event: PLAYER_ENTERING_WORLD false false", -- [1393]
+			"<21:34:25><DEBUG>	 GetML()", -- [1394]
+			"<21:46:08><DEBUG>	 Event: GROUP_LEFT 1 Party-1305-1-000054DD2374", -- [1395]
+			"<21:46:08><DEBUG>	 GetML()", -- [1396]
+			"<22:02:11><DEBUG>	 Event: PLAYER_ENTERING_WORLD false false", -- [1397]
+			"<22:02:13><DEBUG>	 GetML()", -- [1398]
+			"<22:10:17><DEBUG>	 Event: LOOT_READY true", -- [1399]
+			"<22:10:18><DEBUG>	 Event: LOOT_READY true", -- [1400]
+			"<22:16:15><INFO>	 Logged In", -- [1401]
+			"<22:16:15>[ML]<INFO>	 Init", -- [1402]
+			"<22:16:15><INFO>	 RCLootCouncil TradeUI enabled", -- [1403]
+			"<22:16:17><INFO>	 Rentaki-Kazzak 3.1.4 nil", -- [1404]
+			"<22:16:17><DEBUG>	 ActivateSkin bfa", -- [1405]
+			"<22:16:19><DEBUG>	 Event: PLAYER_ENTERING_WORLD false true", -- [1406]
+			"<22:16:19><INFO>	 UpdatePlayersData()", -- [1407]
+			"<22:16:19><DEBUG>	 GetPlayersGuildRank()", -- [1408]
+			"<22:16:19><DEBUG>	 Found Guild Rank: Citizen", -- [1409]
+			"<22:16:20><DEBUG>	 GetML()", -- [1410]
+			"<22:16:20><DEBUG>	 Storage:New |cffa335ee|Hitem:179345::::::::60:262::33:5:7370:7359:6652:1524:6646:1:28:1279:::|h[Spatial Rift Striders]|h|r temp restored table: 0000022AF8D94EA0", -- [1411]
+			"<22:16:20><DEBUG>	 Storage: searching for item: ||cffa335ee||Hitem:179345::::::::60:262::33:5:7370:7359:6652:1524:6646:1:28:1279:::||h[Spatial Rift Striders]||h||r 5", -- [1412]
+			"<22:16:20><DEBUG>	 Found: nil nil nil", -- [1413]
+			"<22:16:20><WARNING>	 ItemStorage, db item no longer in bags |cffa335ee|Hitem:179345::::::::60:262::33:5:7370:7359:6652:1524:6646:1:28:1279:::|h[Spatial Rift Striders]|h|r", -- [1414]
+			"<22:16:20><DEBUG>	 Storage:RemoveItem |cffa335ee|Hitem:179345::::::::60:262::33:5:7370:7359:6652:1524:6646:1:28:1279:::|h[Spatial Rift Striders]|h|r", -- [1415]
+			"<22:16:20><DEBUG>	 Storage:New |cffa335ee|Hitem:178712::::::::60:262::33:5:7426:7359:6652:1524:6646:1:28:1279:::|h[Acidslough Bulwark]|h|r temp restored table: 0000022AF8D94FE0", -- [1416]
+			"<22:16:20><DEBUG>	 Storage: searching for item: ||cffa335ee||Hitem:178712::::::::60:262::33:5:7426:7359:6652:1524:6646:1:28:1279:::||h[Acidslough Bulwark]||h||r 5", -- [1417]
+			"<22:16:20><DEBUG>	 Found item at 2 24", -- [1418]
+			"<22:16:20><Comm>	 ^1^Sv^T^N1^S3.1.4^t^^ GUILD Rentaki-Kazzak", -- [1419]
+			"<22:16:20><Comm>	 ^1^Sr^T^N1^S3.1.3^N3^T^t^t^^ GUILD Kessrogue-Kazzak", -- [1420]
+			"<22:42:59><INFO>	 Logged In", -- [1421]
+			"<22:42:59>[ML]<INFO>	 Init", -- [1422]
+			"<22:42:59><INFO>	 RCLootCouncil TradeUI enabled", -- [1423]
+			"<22:43:07><INFO>	 Rentaki-Kazzak 3.1.4 nil", -- [1424]
+			"<22:43:07><DEBUG>	 ActivateSkin bfa", -- [1425]
+			"<22:43:08><DEBUG>	 Event: PLAYER_ENTERING_WORLD true false", -- [1426]
+			"<22:43:08><INFO>	 UpdatePlayersData()", -- [1427]
+			"<22:43:09><DEBUG>	 GetPlayersGuildRank()", -- [1428]
+			"<22:43:09><DEBUG>	 Found Guild Rank: Citizen", -- [1429]
+			"<22:43:11><DEBUG>	 GetML()", -- [1430]
+			"<22:43:11><DEBUG>	 Storage:New |cffa335ee|Hitem:179337::::::::60:262::33:5:7349:7359:6652:1524:6646:1:28:1279:::|h[Techno-Coil Legguards]|h|r temp restored table: 0000016747EDBBA0", -- [1431]
+			"<22:43:11><DEBUG>	 Storage: searching for item: ||cffa335ee||Hitem:179337::::::::60:262::33:5:7349:7359:6652:1524:6646:1:28:1279:::||h[Techno-Coil Legguards]||h||r 5", -- [1432]
+			"<22:43:11><DEBUG>	 Found item at 0 8", -- [1433]
+			"<22:43:11><DEBUG>	 Storage:New |cffa335ee|Hitem:178712::::::::60:262::33:5:7426:7359:6652:1524:6646:1:28:1279:::|h[Acidslough Bulwark]|h|r temp restored table: 0000016747EDBC40", -- [1434]
+			"<22:43:11><DEBUG>	 Storage: searching for item: ||cffa335ee||Hitem:178712::::::::60:262::33:5:7426:7359:6652:1524:6646:1:28:1279:::||h[Acidslough Bulwark]||h||r 5", -- [1435]
+			"<22:43:11><DEBUG>	 Found item at 2 24", -- [1436]
+			"<22:44:57><DEBUG>	 Event: PLAYER_ENTERING_WORLD false false", -- [1437]
+			"<22:44:59><DEBUG>	 GetML()", -- [1438]
+			"<22:47:15><DEBUG>	 Event: RAID_INSTANCE_WELCOME Tomb of Sargeras (Mythic) 465164 0 0", -- [1439]
+			"<22:47:16><DEBUG>	 Event: PLAYER_ENTERING_WORLD false false", -- [1440]
+			"<22:47:17><DEBUG>	 GetML()", -- [1441]
+			"<22:49:02><DEBUG>	 Event: ENCOUNTER_START 2032 Goroth 16 20", -- [1442]
+			"<22:49:02><INFO>	 UpdatePlayersData()", -- [1443]
+			"<22:49:42><DEBUG>	 Event: ENCOUNTER_END 2032 Goroth 16 20 1", -- [1444]
+			"<22:50:00><DEBUG>	 Event: LOOT_READY false", -- [1445]
+			"<22:50:00><DEBUG>	 Adding to self.lootSlotInfo 1 nil 1 0 Vehicle-0-3151-1676-23870-115844-00004A901F 270104", -- [1446]
+			"<22:50:00><DEBUG>	 Adding to self.lootSlotInfo 2 |cffa335ee|Hitem:147076::::::::60:262::6:3:3563:1472:3528:1:28:498:::|h[Charred Hymnal of the Moon]|h|r 4 1 Vehicle-0-3151-1676-23870-115844-00004A901F 1", -- [1447]
+			"<22:50:00><DEBUG>	 Adding to self.lootSlotInfo 3 |cffa335ee|Hitem:147065::::::::60:262::6:3:3563:1472:3528:1:28:498:::|h[Lava-Slough Legguards]|h|r 4 1 Vehicle-0-3151-1676-23870-115844-00004A901F 1", -- [1448]
+			"<22:50:00><DEBUG>	 Adding to self.lootSlotInfo 4 |cffa335ee|Hitem:146992::::::::60:262::6:3:3563:1472:3528:1:28:498:::|h[Legwraps of Fused Loathing]|h|r 4 1 Vehicle-0-3151-1676-23870-115844-00004A901F 1", -- [1449]
+			"<22:50:00><DEBUG>	 Adding to self.lootSlotInfo 5 |cffa335ee|Hitem:147039::::::::60:262::6:3:3563:1472:3528:1:28:498:::|h[Cinch of Sizzling Flesh]|h|r 4 1 Vehicle-0-3151-1676-23870-115844-00004A901F 1", -- [1450]
+			"<22:50:00><DEBUG>	 Adding to self.lootSlotInfo 6 |cffa335ee|Hitem:147055::::::::60:262::6:4:3563:1472:5855:3336:1:28:498:::|h[Belt of Screaming Slag]|h|r 4 1 Vehicle-0-3151-1676-23870-115844-00004A901F 1", -- [1451]
+			"<22:50:02><DEBUG>	 OnLootSlotCleared() 6 |cffa335ee|Hitem:147055::::::::60:262::6:4:3563:1472:5855:3336:1:28:498:::|h[Belt of Screaming Slag]|h|r 4", -- [1452]
+			"<22:50:02><DEBUG>	 Event: ENCOUNTER_LOOT_RECEIVED 2032 147055 |cffa335ee|Hitem:147055::::::::60:262::6:4:3563:1472:5855:3336:1:28:498:::|h[Belt of Screaming Slag]|h|r 1 Rentaki SHAMAN", -- [1453]
+			"<22:50:04><DEBUG>	 OnLootSlotCleared() 2 |cffa335ee|Hitem:147076::::::::60:262::6:3:3563:1472:3528:1:28:498:::|h[Charred Hymnal of the Moon]|h|r 4", -- [1454]
+			"<22:50:04><DEBUG>	 Event: ENCOUNTER_LOOT_RECEIVED 2032 147076 |cffa335ee|Hitem:147076::::::::60:262::6:3:3563:1472:3528:1:28:498:::|h[Charred Hymnal of the Moon]|h|r 1 Rentaki SHAMAN", -- [1455]
+			"<22:50:04><DEBUG>	 Event: LOOT_CLOSED", -- [1456]
+			"<22:50:04><Comm>	 ^1^SfakeLoot^T^N1^S|cffa335ee|Hitem:147065::::::::60:262::6:3:3563:1472:3528:1:28:498:::|h[Lava-Slough~`Legguards]|h|r^N2^S115844^t^^ WHISPER Rentaki-Kazzak", -- [1457]
+			"<22:50:04><DEBUG>	 Event: LOOT_READY true", -- [1458]
+			"<22:50:04><DEBUG>	 Adding to self.lootSlotInfo 1 nil 1 0 Vehicle-0-3151-1676-23870-115844-00004A901F 270104", -- [1459]
+			"<22:50:04><DEBUG>	 Adding to self.lootSlotInfo 2 |cffa335ee|Hitem:146992::::::::60:262::6:3:3563:1472:3528:1:28:498:::|h[Legwraps of Fused Loathing]|h|r 4 1 Vehicle-0-3151-1676-23870-115844-00004A901F 1", -- [1460]
+			"<22:50:04><DEBUG>	 Adding to self.lootSlotInfo 3 |cffa335ee|Hitem:147039::::::::60:262::6:3:3563:1472:3528:1:28:498:::|h[Cinch of Sizzling Flesh]|h|r 4 1 Vehicle-0-3151-1676-23870-115844-00004A901F 1", -- [1461]
+			"<22:50:04><DEBUG>	 Adding to self.lootSlotInfo 4 |cffa335ee|Hitem:147065::::::::60:262::6:3:3563:1472:3528:1:28:498:::|h[Lava-Slough Legguards]|h|r 4 1 Vehicle-0-3151-1676-23870-115844-00004A901F 1", -- [1462]
+			"<22:50:04><DEBUG>	 OnLootSlotCleared() 4 |cffa335ee|Hitem:147065::::::::60:262::6:3:3563:1472:3528:1:28:498:::|h[Lava-Slough Legguards]|h|r 4", -- [1463]
+			"<22:50:04><DEBUG>	 OnLootSlotCleared() 3 |cffa335ee|Hitem:147039::::::::60:262::6:3:3563:1472:3528:1:28:498:::|h[Cinch of Sizzling Flesh]|h|r 4", -- [1464]
+			"<22:50:04><DEBUG>	 Storage:New |cffa335ee|Hitem:147055::::::::60:262::6:4:3563:1472:5855:3336:1:28:498:::|h[Belt of Screaming Slag]|h|r temp", -- [1465]
+			"<22:50:04><DEBUG>	 Storage: searching for item: ||cffa335ee||Hitem:147055::::::::60:262::6:4:3563:1472:5855:3336:1:28:498:::||h[Belt of Screaming Slag]||h||r 5", -- [1466]
+			"<22:50:04><DEBUG>	 Found item at 2 25", -- [1467]
+			"<22:50:04><DEBUG>	 Found: 2 25 0", -- [1468]
+			"<22:50:04><DEBUG>	 OnLootSlotCleared() 2 |cffa335ee|Hitem:146992::::::::60:262::6:3:3563:1472:3528:1:28:498:::|h[Legwraps of Fused Loathing]|h|r 4", -- [1469]
+			"<22:50:04><DEBUG>	 Event: LOOT_READY true", -- [1470]
+			"<22:50:04><DEBUG>	 Adding to self.lootSlotInfo 1 nil 1 0 Vehicle-0-3151-1676-23870-115844-00004A901F 270104", -- [1471]
+			"<22:50:05><DEBUG>	 Event: LOOT_CLOSED", -- [1472]
+			"<22:50:05><DEBUG>	 Event: ENCOUNTER_LOOT_RECEIVED 2032 147065 |cffa335ee|Hitem:147065::::::::60:262::6:3:3563:1472:3528:1:28:498:::|h[Lava-Slough Legguards]|h|r 1 Rentaki SHAMAN", -- [1473]
+			"<22:50:05><DEBUG>	 Event: ENCOUNTER_LOOT_RECEIVED 2032 147039 |cffa335ee|Hitem:147039::::::::60:262::6:3:3563:1472:3528:1:28:498:::|h[Cinch of Sizzling Flesh]|h|r 1 Rentaki SHAMAN", -- [1474]
+			"<22:50:05><DEBUG>	 Event: ENCOUNTER_LOOT_RECEIVED 2032 146992 |cffa335ee|Hitem:146992::::::::60:262::6:3:3563:1472:3528:1:28:498:::|h[Legwraps of Fused Loathing]|h|r 1 Rentaki SHAMAN", -- [1475]
+			"<22:50:05><Comm>	 ^1^Sl^T^N1^S115844^t^^ WHISPER Rentaki-Kazzak", -- [1476]
+			"<22:50:05><DEBUG>	 Storage: searching for item: ||cffa335ee||Hitem:147055::::::::60:262::6:4:3563:1472:5855:3336:1:28:498:::||h[Belt of Screaming Slag]||h||r 5", -- [1477]
+			"<22:50:05><DEBUG>	 Found item at 2 25", -- [1478]
+			"<22:50:05><DEBUG>	 Found: 2 25 0", -- [1479]
+			"<22:50:06><Comm>	 ^1^Sn_t^T^N1^S|cffa335ee|Hitem:147055::::::::60:262::6:4:3563:1472:5855:3336:1:28:498:::|h[Belt~`of~`Screaming~`Slag]|h|r^N2^S115844^t^^ WHISPER Rentaki-Kazzak", -- [1480]
+			"<22:50:06><DEBUG>	 Storage:New |cffa335ee|Hitem:147076::::::::60:262::6:3:3563:1472:3528:1:28:498:::|h[Charred Hymnal of the Moon]|h|r temp", -- [1481]
+			"<22:50:06><DEBUG>	 Storage: searching for item: ||cffa335ee||Hitem:147076::::::::60:262::6:3:3563:1472:3528:1:28:498:::||h[Charred Hymnal of the Moon]||h||r 5", -- [1482]
+			"<22:50:06><DEBUG>	 Found item at 2 26", -- [1483]
+			"<22:50:06><DEBUG>	 Found: 2 26 0", -- [1484]
+			"<22:50:06><DEBUG>	 Storage:New |cffa335ee|Hitem:147065::::::::60:262::6:3:3563:1472:3528:1:28:498:::|h[Lava-Slough Legguards]|h|r temp", -- [1485]
+			"<22:50:06><DEBUG>	 Storage: searching for item: ||cffa335ee||Hitem:147065::::::::60:262::6:3:3563:1472:3528:1:28:498:::||h[Lava-Slough Legguards]||h||r 5", -- [1486]
+			"<22:50:06><DEBUG>	 Found item at 2 27", -- [1487]
+			"<22:50:06><DEBUG>	 Found: 2 27 0", -- [1488]
+			"<22:50:06><DEBUG>	 Storage:New |cffa335ee|Hitem:147039::::::::60:262::6:3:3563:1472:3528:1:28:498:::|h[Cinch of Sizzling Flesh]|h|r temp", -- [1489]
+			"<22:50:06><DEBUG>	 Storage: searching for item: ||cffa335ee||Hitem:147039::::::::60:262::6:3:3563:1472:3528:1:28:498:::||h[Cinch of Sizzling Flesh]||h||r 5", -- [1490]
+			"<22:50:06><DEBUG>	 Found item at 2 28", -- [1491]
+			"<22:50:06><DEBUG>	 Found: 2 28 0", -- [1492]
+			"<22:50:06><DEBUG>	 Storage:New |cffa335ee|Hitem:146992::::::::60:262::6:3:3563:1472:3528:1:28:498:::|h[Legwraps of Fused Loathing]|h|r temp", -- [1493]
+			"<22:50:06><DEBUG>	 Storage: searching for item: ||cffa335ee||Hitem:146992::::::::60:262::6:3:3563:1472:3528:1:28:498:::||h[Legwraps of Fused Loathing]||h||r 5", -- [1494]
+			"<22:50:06><DEBUG>	 Found item at 2 29", -- [1495]
+			"<22:50:06><DEBUG>	 Found: 2 29 0", -- [1496]
+			"<22:50:07><DEBUG>	 Storage: searching for item: ||cffa335ee||Hitem:147076::::::::60:262::6:3:3563:1472:3528:1:28:498:::||h[Charred Hymnal of the Moon]||h||r 5", -- [1497]
+			"<22:50:07><DEBUG>	 Found item at 2 26", -- [1498]
+			"<22:50:07><DEBUG>	 Found: 2 26 0", -- [1499]
+			"<22:50:07><Comm>	 ^1^Sn_t^T^N1^S|cffa335ee|Hitem:147076::::::::60:262::6:3:3563:1472:3528:1:28:498:::|h[Charred~`Hymnal~`of~`the~`Moon]|h|r^N2^S115844^t^^ WHISPER Rentaki-Kazzak", -- [1500]
+			"<22:50:07><DEBUG>	 Storage: searching for item: ||cffa335ee||Hitem:147065::::::::60:262::6:3:3563:1472:3528:1:28:498:::||h[Lava-Slough Legguards]||h||r 5", -- [1501]
+			"<22:50:07><DEBUG>	 Found item at 2 27", -- [1502]
+			"<22:50:07><DEBUG>	 Found: 2 27 0", -- [1503]
+			"<22:50:07><DEBUG>	 Storage: searching for item: ||cffa335ee||Hitem:147039::::::::60:262::6:3:3563:1472:3528:1:28:498:::||h[Cinch of Sizzling Flesh]||h||r 5", -- [1504]
+			"<22:50:07><DEBUG>	 Found item at 2 28", -- [1505]
+			"<22:50:07><DEBUG>	 Found: 2 28 0", -- [1506]
+			"<22:50:07><Comm>	 ^1^Sn_t^T^N1^S|cffa335ee|Hitem:147065::::::::60:262::6:3:3563:1472:3528:1:28:498:::|h[Lava-Slough~`Legguards]|h|r^N2^S115844^t^^ WHISPER Rentaki-Kazzak", -- [1507]
+			"<22:50:07><DEBUG>	 Storage: searching for item: ||cffa335ee||Hitem:146992::::::::60:262::6:3:3563:1472:3528:1:28:498:::||h[Legwraps of Fused Loathing]||h||r 5", -- [1508]
+			"<22:50:07><DEBUG>	 Found item at 2 29", -- [1509]
+			"<22:50:07><DEBUG>	 Found: 2 29 0", -- [1510]
+			"<22:50:08><Comm>	 ^1^Sn_t^T^N1^S|cffa335ee|Hitem:147039::::::::60:262::6:3:3563:1472:3528:1:28:498:::|h[Cinch~`of~`Sizzling~`Flesh]|h|r^N2^S115844^t^^ WHISPER Rentaki-Kazzak", -- [1511]
+			"<22:50:08><Comm>	 ^1^Sn_t^T^N1^S|cffa335ee|Hitem:146992::::::::60:262::6:3:3563:1472:3528:1:28:498:::|h[Legwraps~`of~`Fused~`Loathing]|h|r^N2^S115844^t^^ WHISPER Rentaki-Kazzak", -- [1512]
+			"<22:51:02><DEBUG>	 Event: PLAYER_ENTERING_WORLD false false", -- [1513]
+			"<22:51:04><DEBUG>	 GetML()", -- [1514]
+			"<23:11:41><DEBUG>	 Event: PLAYER_ENTERING_WORLD false false", -- [1515]
+			"<23:11:43><DEBUG>	 GetML()", -- [1516]
+			"<23:11:56><DEBUG>	 Event: PLAYER_ENTERING_WORLD false false", -- [1517]
+			"<23:11:57><DEBUG>	 GetML()", -- [1518]
+			"<23:13:11><DEBUG>	 Event: PLAYER_ENTERING_WORLD false false", -- [1519]
+			"<23:13:13><DEBUG>	 GetML()", -- [1520]
+			"<23:14:23><DEBUG>	 Event: PLAYER_ENTERING_WORLD false false", -- [1521]
+			"<23:14:25><DEBUG>	 GetML()", -- [1522]
+			"<23:14:46><DEBUG>	 Event: ENCOUNTER_START 2113 Heartsbane Triad 1 5", -- [1523]
+			"<23:14:46><INFO>	 UpdatePlayersData()", -- [1524]
+			"<23:15:13><DEBUG>	 Event: LOOT_READY true", -- [1525]
+			"<23:15:13><DEBUG>	 Adding to self.lootSlotInfo 1 nil 1 0 Creature-0-4233-1862-832-131585-00004A963E 33552", -- [1526]
+			"<23:15:13><DEBUG>	 Adding to self.lootSlotInfo 2 |cff9d9d9d|Hitem:154802::::::::60:262::1:1:6657:1:28:1222:::|h[Notched Handaxe]|h|r 0 1 Creature-0-4233-1862-832-131585-00004A963E 1", -- [1527]
+			"<23:15:13><DEBUG>	 OnLootSlotCleared() 2 |cff9d9d9d|Hitem:154802::::::::60:262::1:1:6657:1:28:1222:::|h[Notched Handaxe]|h|r 0", -- [1528]
+			"<23:15:13><DEBUG>	 OnLootSlotCleared() 1 nil 1", -- [1529]
+			"<23:15:13><DEBUG>	 Event: LOOT_CLOSED", -- [1530]
+			"<23:15:13><DEBUG>	 Event: LOOT_CLOSED", -- [1531]
+			"<23:15:13><Comm>	 ^1^Sl^T^N1^S131585^t^^ WHISPER Rentaki-Kazzak", -- [1532]
+			"<23:15:13><Comm>	 ^1^Sl^T^N1^S131585^t^^ WHISPER Rentaki-Kazzak", -- [1533]
+			"<23:15:30><DEBUG>	 Event: ENCOUNTER_END 2113 Heartsbane Triad 1 5 1", -- [1534]
+			"<23:15:32><DEBUG>	 Event: LOOT_READY false", -- [1535]
+			"<23:15:32><DEBUG>	 Adding to self.lootSlotInfo 1 nil 1 0 Creature-0-4233-1862-832-131824-00004A963E 59298", -- [1536]
+			"<23:15:32><DEBUG>	 OnLootSlotCleared() 1 nil 1", -- [1537]
+			"<23:15:32><DEBUG>	 Event: LOOT_CLOSED", -- [1538]
+			"<23:15:32><DEBUG>	 Event: LOOT_CLOSED", -- [1539]
+			"<23:15:33><Comm>	 ^1^Sl^T^N1^S131824^t^^ WHISPER Rentaki-Kazzak", -- [1540]
+			"<23:15:33><Comm>	 ^1^Sl^T^N1^S131824^t^^ WHISPER Rentaki-Kazzak", -- [1541]
+			"<23:16:32><DEBUG>	 Event: LOOT_CLOSED", -- [1542]
+			"<23:16:32><Comm>	 ^1^Sl^T^N1^S131824^t^^ WHISPER Rentaki-Kazzak", -- [1543]
+			"<23:16:32><DEBUG>	 Event: LOOT_READY false", -- [1544]
+			"<23:16:32><DEBUG>	 Adding to self.lootSlotInfo 1 nil 1 0 Creature-0-4233-1862-832-131666-00004A963E 20238 Creature-0-4233-1862-832-131585-0002CA963E 36853 Creature-0-4233-1862-832-131587-00014A963E 27244 Creature-0-4233-1862-832-131666-0000CA963E 16813 Creature-0-4233-1862-832-131666-0002CA963E 36900 Creature-0-4233-1862-832-131670-0000CA9642 20446 Creature-0-4233-1862-832-131677-0000CA9642 10418 Creature-0-4233-1862-832-134041-00014A963E 19152 Creature-0-4233-1862-832-135048-00014A963E 17693 Creature-0-4233-1862-832-135048-0001CA963E 35447", -- [1545]
+			"<23:16:32><DEBUG>	 Adding to self.lootSlotInfo 2 |cff9d9d9d|Hitem:154784::::::::60:262::1:1:6656:1:28:1222:::|h[Ruptured Plate Breastplate]|h|r 0 1 Creature-0-4233-1862-832-131587-00014A963E 1", -- [1546]
+			"<23:16:32><DEBUG>	 Adding to self.lootSlotInfo 3 |cff9d9d9d|Hitem:158857::::::::60:262:::::::|h[Untainted Wicker]|h|r 0 1 Creature-0-4233-1862-832-131858-00004A963E 1", -- [1547]
+			"<23:16:32><DEBUG>	 Adding to self.lootSlotInfo 4 |cff9d9d9d|Hitem:155598::::::::60:262:::::::|h[Severed Mandible]|h|r 0 5 Creature-0-4233-1862-832-134024-0004CA963E 1 Creature-0-4233-1862-832-134024-00054A963E 1 Creature-0-4233-1862-832-134024-0005CA963E 1 Creature-0-4233-1862-832-134024-00084A963E 1 Creature-0-4233-1862-832-134024-0008CA963E 1", -- [1548]
+			"<23:16:32><DEBUG>	 Adding to self.lootSlotInfo 5 |cff9d9d9d|Hitem:158863::::::::60:262:::::::|h[Chitinous Exoskeleton]|h|r 0 1 Creature-0-4233-1862-832-134024-0007CA963E 1", -- [1549]
+			"<23:16:32><DEBUG>	 Adding to self.lootSlotInfo 6 |cff1eff00|Hitem:154855::::::::60:262:::2:6654:1694:1:28:1222:::|h[Crimsonwood Mantle of the Fireflash]|h|r 2 1 Creature-0-4233-1862-832-135329-00004A963E 1", -- [1550]
+			"<23:16:32><DEBUG>	 Adding to self.lootSlotInfo 7 |cff9d9d9d|Hitem:158771::::::::60:262:::::::|h[Spirit Ichor]|h|r 0 1 Creature-0-4233-1862-832-135329-00004A963E 1", -- [1551]
+			"<23:16:32><DEBUG>	 Adding to self.lootSlotInfo 8 |cff9d9d9d|Hitem:155608::::::::60:262:::::::|h[Defiled Bone]|h|r 0 1 Creature-0-4233-1862-832-137830-00004A963E 1", -- [1552]
+			"<23:16:32><DEBUG>	 Adding to self.lootSlotInfo 9 |cff9d9d9d|Hitem:158773::::::::60:262:::::::|h[Wriggling Goop]|h|r 0 1 Creature-0-4233-1862-832-137830-0000CA963E 1", -- [1553]
+			"<23:16:34><DEBUG>	 Event: LOOT_CLOSED", -- [1554]
+			"<23:16:34><Comm>	 ^1^SfakeLoot^T^N1^S|cff9d9d9d|Hitem:154784::::::::60:262::1:1:6656:1:28:1222:::|h[Ruptured~`Plate~`Breastplate]|h|r^N2^S131587^t^^ WHISPER Rentaki-Kazzak", -- [1555]
+			"<23:16:34><DEBUG>	 Event: LOOT_READY true", -- [1556]
+			"<23:16:34><DEBUG>	 Adding to self.lootSlotInfo 1 nil 1 0 Creature-0-4233-1862-832-131666-0002CA963E 36900 Creature-0-4233-1862-832-131585-0002CA963E 36853 Creature-0-4233-1862-832-131587-00014A963E 27244 Creature-0-4233-1862-832-131666-00004A963E 20238 Creature-0-4233-1862-832-131666-0000CA963E 16813 Creature-0-4233-1862-832-131670-0000CA9642 20446 Creature-0-4233-1862-832-131677-0000CA9642 10418 Creature-0-4233-1862-832-134041-00014A963E 19152 Creature-0-4233-1862-832-135048-00014A963E 17693 Creature-0-4233-1862-832-135048-0001CA963E 35447", -- [1557]
+			"<23:16:34><DEBUG>	 Adding to self.lootSlotInfo 2 |cff9d9d9d|Hitem:154784::::::::60:262::1:1:6656:1:28:1222:::|h[Ruptured Plate Breastplate]|h|r 0 1 Creature-0-4233-1862-832-131587-00014A963E 1", -- [1558]
+			"<23:16:34><DEBUG>	 Adding to self.lootSlotInfo 3 |cff9d9d9d|Hitem:158857::::::::60:262:::::::|h[Untainted Wicker]|h|r 0 1 Creature-0-4233-1862-832-131858-00004A963E 1", -- [1559]
+			"<23:16:34><DEBUG>	 Adding to self.lootSlotInfo 4 |cff9d9d9d|Hitem:155598::::::::60:262:::::::|h[Severed Mandible]|h|r 0 5 Creature-0-4233-1862-832-134024-0004CA963E 1 Creature-0-4233-1862-832-134024-00054A963E 1 Creature-0-4233-1862-832-134024-0005CA963E 1 Creature-0-4233-1862-832-134024-00084A963E 1 Creature-0-4233-1862-832-134024-0008CA963E 1", -- [1560]
+			"<23:16:34><DEBUG>	 Adding to self.lootSlotInfo 5 |cff9d9d9d|Hitem:158863::::::::60:262:::::::|h[Chitinous Exoskeleton]|h|r 0 1 Creature-0-4233-1862-832-134024-0007CA963E 1", -- [1561]
+			"<23:16:34><DEBUG>	 Adding to self.lootSlotInfo 6 |cff1eff00|Hitem:154855::::::::60:262:::2:6654:1694:1:28:1222:::|h[Crimsonwood Mantle of the Fireflash]|h|r 2 1 Creature-0-4233-1862-832-135329-00004A963E 1", -- [1562]
+			"<23:16:34><DEBUG>	 Adding to self.lootSlotInfo 7 |cff9d9d9d|Hitem:158771::::::::60:262:::::::|h[Spirit Ichor]|h|r 0 1 Creature-0-4233-1862-832-135329-00004A963E 1", -- [1563]
+			"<23:16:34><DEBUG>	 Adding to self.lootSlotInfo 8 |cff9d9d9d|Hitem:155608::::::::60:262:::::::|h[Defiled Bone]|h|r 0 1 Creature-0-4233-1862-832-137830-00004A963E 1", -- [1564]
+			"<23:16:34><DEBUG>	 Adding to self.lootSlotInfo 9 |cff9d9d9d|Hitem:158773::::::::60:262:::::::|h[Wriggling Goop]|h|r 0 1 Creature-0-4233-1862-832-137830-0000CA963E 1", -- [1565]
+			"<23:16:34><DEBUG>	 OnLootSlotCleared() 9 |cff9d9d9d|Hitem:158773::::::::60:262:::::::|h[Wriggling Goop]|h|r 0", -- [1566]
+			"<23:16:34><DEBUG>	 OnLootSlotCleared() 8 |cff9d9d9d|Hitem:155608::::::::60:262:::::::|h[Defiled Bone]|h|r 0", -- [1567]
+			"<23:16:34><DEBUG>	 OnLootSlotCleared() 7 |cff9d9d9d|Hitem:158771::::::::60:262:::::::|h[Spirit Ichor]|h|r 0", -- [1568]
+			"<23:16:34><DEBUG>	 OnLootSlotCleared() 6 |cff1eff00|Hitem:154855::::::::60:262:::2:6654:1694:1:28:1222:::|h[Crimsonwood Mantle of the Fireflash]|h|r 2", -- [1569]
+			"<23:16:34><DEBUG>	 Event: LOOT_READY true", -- [1570]
+			"<23:16:34><DEBUG>	 Adding to self.lootSlotInfo 1 nil 1 0 Creature-0-4233-1862-832-131666-0002CA963E 36900 Creature-0-4233-1862-832-131585-0002CA963E 36853 Creature-0-4233-1862-832-131587-00014A963E 27244 Creature-0-4233-1862-832-131666-00004A963E 20238 Creature-0-4233-1862-832-131666-0000CA963E 16813 Creature-0-4233-1862-832-131670-0000CA9642 20446 Creature-0-4233-1862-832-131677-0000CA9642 10418 Creature-0-4233-1862-832-134041-00014A963E 19152 Creature-0-4233-1862-832-135048-00014A963E 17693 Creature-0-4233-1862-832-135048-0001CA963E 35447", -- [1571]
+			"<23:16:34><DEBUG>	 Adding to self.lootSlotInfo 2 |cff9d9d9d|Hitem:154784::::::::60:262::1:1:6656:1:28:1222:::|h[Ruptured Plate Breastplate]|h|r 0 1 Creature-0-4233-1862-832-131587-00014A963E 1", -- [1572]
+			"<23:16:34><DEBUG>	 Adding to self.lootSlotInfo 3 |cff9d9d9d|Hitem:158857::::::::60:262:::::::|h[Untainted Wicker]|h|r 0 1 Creature-0-4233-1862-832-131858-00004A963E 1", -- [1573]
+			"<23:16:34><DEBUG>	 Adding to self.lootSlotInfo 4 |cff9d9d9d|Hitem:155598::::::::60:262:::::::|h[Severed Mandible]|h|r 0 5 Creature-0-4233-1862-832-134024-0004CA963E 1 Creature-0-4233-1862-832-134024-00054A963E 1 Creature-0-4233-1862-832-134024-0005CA963E 1 Creature-0-4233-1862-832-134024-00084A963E 1 Creature-0-4233-1862-832-134024-0008CA963E 1", -- [1574]
+			"<23:16:34><DEBUG>	 Adding to self.lootSlotInfo 5 |cff9d9d9d|Hitem:158863::::::::60:262:::::::|h[Chitinous Exoskeleton]|h|r 0 1 Creature-0-4233-1862-832-134024-0007CA963E 1", -- [1575]
+			"<23:16:34><DEBUG>	 OnLootSlotCleared() 5 |cff9d9d9d|Hitem:158863::::::::60:262:::::::|h[Chitinous Exoskeleton]|h|r 0", -- [1576]
+			"<23:16:34><DEBUG>	 OnLootSlotCleared() 4 |cff9d9d9d|Hitem:155598::::::::60:262:::::::|h[Severed Mandible]|h|r 0", -- [1577]
+			"<23:16:35><DEBUG>	 OnLootSlotCleared() 3 |cff9d9d9d|Hitem:158857::::::::60:262:::::::|h[Untainted Wicker]|h|r 0", -- [1578]
+			"<23:16:35><DEBUG>	 OnLootSlotCleared() 2 |cff9d9d9d|Hitem:154784::::::::60:262::1:1:6656:1:28:1222:::|h[Ruptured Plate Breastplate]|h|r 0", -- [1579]
+			"<23:16:35><DEBUG>	 OnLootSlotCleared() 1 nil 1", -- [1580]
+			"<23:16:35><DEBUG>	 Event: LOOT_CLOSED", -- [1581]
+			"<23:16:35><DEBUG>	 Event: LOOT_CLOSED", -- [1582]
+			"<23:16:35><Comm>	 ^1^Sl^T^N1^S134024^t^^ WHISPER Rentaki-Kazzak", -- [1583]
+			"<23:16:35><Comm>	 ^1^Sl^T^N1^S134024^t^^ WHISPER Rentaki-Kazzak", -- [1584]
+			"<23:16:36><DEBUG>	 Storage:New |cff1eff00|Hitem:154855::::::::60:262:::2:6654:1694:1:28:1222:::|h[Crimsonwood Mantle of the Fireflash]|h|r temp", -- [1585]
+			"<23:16:36><DEBUG>	 Storage: searching for item: ||cff1eff00||Hitem:154855::::::::60:262:::2:6654:1694:1:28:1222:::||h[Crimsonwood Mantle of the Fireflash]||h||r 5", -- [1586]
+			"<23:16:36><DEBUG>	 Found: nil nil nil", -- [1587]
+			"<23:16:37><DEBUG>	 Storage: searching for item: ||cff1eff00||Hitem:154855::::::::60:262:::2:6654:1694:1:28:1222:::||h[Crimsonwood Mantle of the Fireflash]||h||r 5", -- [1588]
+			"<23:16:37><DEBUG>	 Found: nil nil nil", -- [1589]
+			"<23:16:38><DEBUG>	 Storage: searching for item: ||cff1eff00||Hitem:154855::::::::60:262:::2:6654:1694:1:28:1222:::||h[Crimsonwood Mantle of the Fireflash]||h||r 5", -- [1590]
+			"<23:16:38><DEBUG>	 Found: nil nil nil", -- [1591]
+			"<23:16:39><DEBUG>	 Storage: searching for item: ||cff1eff00||Hitem:154855::::::::60:262:::2:6654:1694:1:28:1222:::||h[Crimsonwood Mantle of the Fireflash]||h||r 5", -- [1592]
+			"<23:16:39><DEBUG>	 Found: nil nil nil", -- [1593]
+			"<23:16:39><ERROR>	 UpdateAndSendRecentTradableItem: |cff1eff00|Hitem:154855::::::::60:262:::2:6654:1694:1:28:1222:::|h[Crimsonwood Mantle of the Fireflash]|h|r not found in bags", -- [1594]
+			"<23:16:52><DEBUG>	 Event: ENCOUNTER_START 2114 Soulbound Goliath 1 5", -- [1595]
+			"<23:16:52><INFO>	 UpdatePlayersData()", -- [1596]
+			"<23:17:34><DEBUG>	 Event: ENCOUNTER_END 2114 Soulbound Goliath 1 5 1", -- [1597]
+			"<23:17:34><DEBUG>	 Event: LOOT_READY true", -- [1598]
+			"<23:17:34><DEBUG>	 Adding to self.lootSlotInfo 1 nil 1 0 Creature-0-4233-1862-832-131667-00004A963E 58678 Creature-0-4233-1862-832-131666-00014A963E 11951", -- [1599]
+			"<23:17:34><DEBUG>	 Adding to self.lootSlotInfo 3 |cff9d9d9d|Hitem:155598::::::::60:262:::::::|h[Severed Mandible]|h|r 0 3 Creature-0-4233-1862-832-134024-00004A96C0 1 Creature-0-4233-1862-832-134024-0000CA96C0 1 Creature-0-4233-1862-832-134024-00014A96C0 1", -- [1600]
+			"<23:17:34><DEBUG>	 OnLootSlotCleared() 3 |cff9d9d9d|Hitem:155598::::::::60:262:::::::|h[Severed Mandible]|h|r 0", -- [1601]
+			"<23:17:34><DEBUG>	 OnLootSlotCleared() 1 nil 1", -- [1602]
+			"<23:17:34><DEBUG>	 Event: LOOT_CLOSED", -- [1603]
+			"<23:17:34><DEBUG>	 Event: LOOT_CLOSED", -- [1604]
+			"<23:17:35><Comm>	 ^1^Sl^T^N1^S134024^t^^ WHISPER Rentaki-Kazzak", -- [1605]
+			"<23:17:35><Comm>	 ^1^Sl^T^N1^S134024^t^^ WHISPER Rentaki-Kazzak", -- [1606]
+			"<23:17:56><DEBUG>	 Event: ENCOUNTER_START 2115 Raal the Gluttonous 1 5", -- [1607]
+			"<23:17:56><INFO>	 UpdatePlayersData()", -- [1608]
+			"<23:18:31><DEBUG>	 Event: ENCOUNTER_END 2115 Raal the Gluttonous 1 5 1", -- [1609]
+			"<23:18:34><DEBUG>	 Event: LOOT_READY true", -- [1610]
+			"<23:18:34><DEBUG>	 Adding to self.lootSlotInfo 1 nil 1 0 Creature-0-4233-1862-832-135048-0003CA963E 21753 Creature-0-4233-1862-832-131586-00004A963E 35135 Creature-0-4233-1862-832-131586-0000CA963E 21767 Creature-0-4233-1862-832-131847-0000CA963E 7412 Creature-0-4233-1862-832-131847-00014A963E 5235 Creature-0-4233-1862-832-131847-0001CA963E 5948 Creature-0-4233-1862-832-131847-00024A963E 12714 Creature-0-4233-1862-832-135048-0002CA963E 25594 Creature-0-4233-1862-832-135048-00034A963E 35146 Creature-0-4233-1862-832-131863-00004A963E 55253", -- [1611]
+			"<23:18:34><DEBUG>	 Adding to self.lootSlotInfo 3 |cff9d9d9d|Hitem:155608::::::::60:262:::::::|h[Defiled Bone]|h|r 0 2 Creature-0-4233-1862-832-137830-0001CA963E 1 Creature-0-4233-1862-832-137830-00024A963E 1", -- [1612]
+			"<23:18:34><DEBUG>	 OnLootSlotCleared() 3 |cff9d9d9d|Hitem:155608::::::::60:262:::::::|h[Defiled Bone]|h|r 0", -- [1613]
+			"<23:18:34><DEBUG>	 OnLootSlotCleared() 1 nil 1", -- [1614]
+			"<23:18:34><DEBUG>	 Event: LOOT_CLOSED", -- [1615]
+			"<23:18:34><DEBUG>	 Event: LOOT_CLOSED", -- [1616]
+			"<23:18:34><Comm>	 ^1^Sl^T^N1^S137830^t^^ WHISPER Rentaki-Kazzak", -- [1617]
+			"<23:18:34><Comm>	 ^1^Sl^T^N1^S137830^t^^ WHISPER Rentaki-Kazzak", -- [1618]
+			"<23:19:37><DEBUG>	 Event: ENCOUNTER_START 2116 Lord and Lady Waycrest 1 5", -- [1619]
+			"<23:19:37><INFO>	 UpdatePlayersData()", -- [1620]
+			"<23:20:21><DEBUG>	 Event: ENCOUNTER_END 2116 Lord and Lady Waycrest 1 5 1", -- [1621]
+			"<23:20:22><DEBUG>	 Event: LOOT_READY true", -- [1622]
+			"<23:20:22><DEBUG>	 Adding to self.lootSlotInfo 1 nil 1 0 Creature-0-4233-1862-832-131527-00004A963E 56086 Creature-0-4233-1862-832-131812-00004A9742 14255 Creature-0-4233-1862-832-131819-00004A9742 17120", -- [1623]
+			"<23:20:22><DEBUG>	 Adding to self.lootSlotInfo 3 |cff9d9d9d|Hitem:158771::::::::60:262:::::::|h[Spirit Ichor]|h|r 0 3 Creature-0-4233-1862-832-135240-00004A9742 1 Creature-0-4233-1862-832-135240-0000CA9742 1 Creature-0-4233-1862-832-135240-00014A9742 1", -- [1624]
+			"<23:20:22><DEBUG>	 Adding to self.lootSlotInfo 4 |cff9d9d9d|Hitem:158865::::::::60:262:::::::|h[Ghastly Ooze]|h|r 0 1 Creature-0-4233-1862-832-135240-0001CA9742 1", -- [1625]
+			"<23:20:22><DEBUG>	 OnLootSlotCleared() 4 |cff9d9d9d|Hitem:158865::::::::60:262:::::::|h[Ghastly Ooze]|h|r 0", -- [1626]
+			"<23:20:22><DEBUG>	 Event: LOOT_READY true", -- [1627]
+			"<23:20:22><DEBUG>	 Adding to self.lootSlotInfo 1 nil 1 0 Creature-0-4233-1862-832-131527-00004A963E 56086 Creature-0-4233-1862-832-131812-00004A9742 14255 Creature-0-4233-1862-832-131819-00004A9742 17120", -- [1628]
+			"<23:20:22><DEBUG>	 Adding to self.lootSlotInfo 3 |cff9d9d9d|Hitem:158771::::::::60:262:::::::|h[Spirit Ichor]|h|r 0 3 Creature-0-4233-1862-832-135240-00004A9742 1 Creature-0-4233-1862-832-135240-0000CA9742 1 Creature-0-4233-1862-832-135240-00014A9742 1", -- [1629]
+			"<23:20:22><DEBUG>	 OnLootSlotCleared() 3 |cff9d9d9d|Hitem:158771::::::::60:262:::::::|h[Spirit Ichor]|h|r 0", -- [1630]
+			"<23:20:22><DEBUG>	 OnLootSlotCleared() 1 nil 1", -- [1631]
+			"<23:20:22><DEBUG>	 Event: LOOT_CLOSED", -- [1632]
+			"<23:20:22><DEBUG>	 Event: LOOT_CLOSED", -- [1633]
+			"<23:20:22><Comm>	 ^1^Sl^T^N1^S135240^t^^ WHISPER Rentaki-Kazzak", -- [1634]
+			"<23:20:22><Comm>	 ^1^Sl^T^N1^S135240^t^^ WHISPER Rentaki-Kazzak", -- [1635]
+			"<23:20:49><DEBUG>	 Event: LOOT_READY true", -- [1636]
+			"<23:20:49><DEBUG>	 Adding to self.lootSlotInfo 1 |cff9d9d9d|Hitem:155610::::::::60:262:::::::|h[Stinging Nettle]|h|r 0 4 Creature-0-4233-1862-832-139269-0000CA97A5 1 Creature-0-4233-1862-832-139269-00004A97A5 1 Creature-0-4233-1862-832-139269-00014A97A5 1 Creature-0-4233-1862-832-139269-0001CA97A5 1", -- [1637]
+			"<23:20:49><DEBUG>	 Adding to self.lootSlotInfo 2 |cff1eff00|Hitem:154853::::::::60:262:::2:6654:1707:1:28:1222:::|h[Crimsonwood Cowl of the Aurora]|h|r 2 1 Creature-0-4233-1862-832-139269-0000CA97A5 1", -- [1638]
+			"<23:20:49><DEBUG>	 OnLootSlotCleared() 2 |cff1eff00|Hitem:154853::::::::60:262:::2:6654:1707:1:28:1222:::|h[Crimsonwood Cowl of the Aurora]|h|r 2", -- [1639]
+			"<23:20:49><DEBUG>	 OnLootSlotCleared() 1 |cff9d9d9d|Hitem:155610::::::::60:262:::::::|h[Stinging Nettle]|h|r 0", -- [1640]
+			"<23:20:49><DEBUG>	 Event: LOOT_CLOSED", -- [1641]
+			"<23:20:49><DEBUG>	 Event: LOOT_CLOSED", -- [1642]
+			"<23:20:50><Comm>	 ^1^Sl^T^N1^S139269^t^^ WHISPER Rentaki-Kazzak", -- [1643]
+			"<23:20:50><Comm>	 ^1^Sl^T^N1^S139269^t^^ WHISPER Rentaki-Kazzak", -- [1644]
+			"<23:20:51><DEBUG>	 Storage:New |cff1eff00|Hitem:154853::::::::60:262:::2:6654:1707:1:28:1222:::|h[Crimsonwood Cowl of the Aurora]|h|r temp", -- [1645]
+			"<23:20:51><DEBUG>	 Storage: searching for item: ||cff1eff00||Hitem:154853::::::::60:262:::2:6654:1707:1:28:1222:::||h[Crimsonwood Cowl of the Aurora]||h||r 5", -- [1646]
+			"<23:20:51><DEBUG>	 Found: nil nil nil", -- [1647]
+			"<23:20:52><DEBUG>	 Storage: searching for item: ||cff1eff00||Hitem:154853::::::::60:262:::2:6654:1707:1:28:1222:::||h[Crimsonwood Cowl of the Aurora]||h||r 5", -- [1648]
+			"<23:20:52><DEBUG>	 Found: nil nil nil", -- [1649]
+			"<23:20:53><DEBUG>	 Storage: searching for item: ||cff1eff00||Hitem:154853::::::::60:262:::2:6654:1707:1:28:1222:::||h[Crimsonwood Cowl of the Aurora]||h||r 5", -- [1650]
+			"<23:20:53><DEBUG>	 Found: nil nil nil", -- [1651]
+			"<23:20:54><DEBUG>	 Storage: searching for item: ||cff1eff00||Hitem:154853::::::::60:262:::2:6654:1707:1:28:1222:::||h[Crimsonwood Cowl of the Aurora]||h||r 5", -- [1652]
+			"<23:20:54><DEBUG>	 Found: nil nil nil", -- [1653]
+			"<23:20:54><ERROR>	 UpdateAndSendRecentTradableItem: |cff1eff00|Hitem:154853::::::::60:262:::2:6654:1707:1:28:1222:::|h[Crimsonwood Cowl of the Aurora]|h|r not found in bags", -- [1654]
+			"<23:21:00><DEBUG>	 Event: ENCOUNTER_START 2117 Gorak Tul 1 5", -- [1655]
+			"<23:21:00><INFO>	 UpdatePlayersData()", -- [1656]
+			"<23:21:10><DEBUG>	 Event: ENCOUNTER_END 2117 Gorak Tul 1 5 1", -- [1657]
+			"<23:21:12><DEBUG>	 Event: LOOT_READY false", -- [1658]
+			"<23:21:12><DEBUG>	 Adding to self.lootSlotInfo 1 nil 1 0 Creature-0-4233-1862-832-131864-00004A963E 128248", -- [1659]
+			"<23:21:12><DEBUG>	 Ignoring |cff1eff00|Hcurrency:1553:30|h[Tiny Azerite Splinter]|h|r as it's a currency", -- [1660]
+			"<23:21:12><DEBUG>	 Adding to self.lootSlotInfo 3 |cff0070dd|Hitem:159398::::::::60:262::1:4:4817:1485:4785:6258:1:28:1222:::|h[Soulscarred Headgear]|h|r 3 1 Creature-0-4233-1862-832-131864-00004A963E 1", -- [1661]
+			"<23:21:15><DEBUG>	 OnLootSlotCleared() 3 |cff0070dd|Hitem:159398::::::::60:262::1:4:4817:1485:4785:6258:1:28:1222:::|h[Soulscarred Headgear]|h|r 3", -- [1662]
+			"<23:21:15><DEBUG>	 Event: ENCOUNTER_LOOT_RECEIVED 2117 159398 |cff0070dd|Hitem:159398::::::::60:262::1:4:4817:1485:4785:6258:1:28:1222:::|h[Soulscarred Headgear]|h|r 1 Rentaki SHAMAN", -- [1663]
+			"<23:21:15><DEBUG>	 OnLootSlotCleared() 1 nil 1", -- [1664]
+			"<23:21:15><DEBUG>	 Event: LOOT_CLOSED", -- [1665]
+			"<23:21:15><DEBUG>	 Event: LOOT_CLOSED", -- [1666]
+			"<23:21:16><Comm>	 ^1^Sl^T^N1^S131864^t^^ WHISPER Rentaki-Kazzak", -- [1667]
+			"<23:21:16><Comm>	 ^1^Sl^T^N1^S131864^t^^ WHISPER Rentaki-Kazzak", -- [1668]
+			"<23:21:17><DEBUG>	 Storage:New |cff0070dd|Hitem:159398::::::::60:262::1:4:4817:1485:4785:6258:1:28:1222:::|h[Soulscarred Headgear]|h|r temp", -- [1669]
+			"<23:21:17><DEBUG>	 Storage: searching for item: ||cff0070dd||Hitem:159398::::::::60:262::1:4:4817:1485:4785:6258:1:28:1222:::||h[Soulscarred Headgear]||h||r 5", -- [1670]
+			"<23:21:17><DEBUG>	 Found item at 3 11", -- [1671]
+			"<23:21:17><DEBUG>	 Found: 3 11 0", -- [1672]
+			"<23:21:18><DEBUG>	 Storage: searching for item: ||cff0070dd||Hitem:159398::::::::60:262::1:4:4817:1485:4785:6258:1:28:1222:::||h[Soulscarred Headgear]||h||r 5", -- [1673]
+			"<23:21:18><DEBUG>	 Found item at 3 11", -- [1674]
+			"<23:21:18><DEBUG>	 Found: 3 11 0", -- [1675]
+			"<23:21:18><Comm>	 ^1^Sn_t^T^N1^S|cff0070dd|Hitem:159398::::::::60:262::1:4:4817:1485:4785:6258:1:28:1222:::|h[Soulscarred~`Headgear]|h|r^N2^S131864^t^^ WHISPER Rentaki-Kazzak", -- [1676]
+			"<23:22:21><DEBUG>	 Event: PLAYER_ENTERING_WORLD false false", -- [1677]
+			"<23:22:23><DEBUG>	 GetML()", -- [1678]
+			"<23:31:03><DEBUG>	 Event: PLAYER_ENTERING_WORLD false false", -- [1679]
+			"<23:31:05><DEBUG>	 GetML()", -- [1680]
+			"<23:34:47><DEBUG>	 Event: LOOT_READY false", -- [1681]
+			"<23:34:48><DEBUG>	 Event: LOOT_READY false", -- [1682]
+			"<23:35:24><DEBUG>	 Event: PLAYER_ENTERING_WORLD false false", -- [1683]
+			"<23:35:26><DEBUG>	 GetML()", -- [1684]
+			"<23:42:24><INFO>	 Logged In", -- [1685]
+			"<23:42:24>[ML]<INFO>	 Init", -- [1686]
+			"<23:42:24><INFO>	 RCLootCouncil TradeUI enabled", -- [1687]
+			"<23:42:26><INFO>	 Rentaki-Kazzak 3.1.4 nil", -- [1688]
+			"<23:42:26><DEBUG>	 ActivateSkin bfa", -- [1689]
+			"<23:42:28><DEBUG>	 Event: PLAYER_ENTERING_WORLD false true", -- [1690]
+			"<23:42:28><INFO>	 UpdatePlayersData()", -- [1691]
+			"<23:42:28><DEBUG>	 GetPlayersGuildRank()", -- [1692]
+			"<23:42:28><DEBUG>	 Found Guild Rank: Citizen", -- [1693]
+			"<23:42:28><DEBUG>	 GetML()", -- [1694]
+			"<23:42:28><DEBUG>	 Storage:New |cffa335ee|Hitem:179337::::::::60:262::33:5:7349:7359:6652:1524:6646:1:28:1279:::|h[Techno-Coil Legguards]|h|r temp restored table: 000001674E7C8420", -- [1695]
+			"<23:42:28><DEBUG>	 Storage: searching for item: ||cffa335ee||Hitem:179337::::::::60:262::33:5:7349:7359:6652:1524:6646:1:28:1279:::||h[Techno-Coil Legguards]||h||r 5", -- [1696]
+			"<23:42:28><DEBUG>	 Found item at 0 8", -- [1697]
+			"<23:42:28><DEBUG>	 Found: 0 8 0", -- [1698]
+			"<23:42:28><DEBUG>	 Storage:New |cffa335ee|Hitem:178712::::::::60:262::33:5:7426:7359:6652:1524:6646:1:28:1279:::|h[Acidslough Bulwark]|h|r temp restored table: 000001674E7C84C0", -- [1699]
+			"<23:42:28><DEBUG>	 Storage: searching for item: ||cffa335ee||Hitem:178712::::::::60:262::33:5:7426:7359:6652:1524:6646:1:28:1279:::||h[Acidslough Bulwark]||h||r 5", -- [1700]
+			"<23:42:28><DEBUG>	 Found item at 2 24", -- [1701]
+			"<23:42:28><Comm>	 ^1^Sv^T^N1^S3.1.4^t^^ GUILD Rentaki-Kazzak", -- [1702]
+			"<23:42:41><INFO>	 Logged In", -- [1703]
+			"<23:42:41>[ML]<INFO>	 Init", -- [1704]
+			"<23:42:41><INFO>	 RCLootCouncil TradeUI enabled", -- [1705]
+			"<23:42:43><INFO>	 Rentaki-Kazzak 3.1.4 nil", -- [1706]
+			"<23:42:43><DEBUG>	 ActivateSkin bfa", -- [1707]
+			"<23:42:45><DEBUG>	 Event: PLAYER_ENTERING_WORLD false true", -- [1708]
+			"<23:42:45><INFO>	 UpdatePlayersData()", -- [1709]
+			"<23:42:45><DEBUG>	 GetPlayersGuildRank()", -- [1710]
+			"<23:42:45><DEBUG>	 Found Guild Rank: Citizen", -- [1711]
+			"<23:42:46><DEBUG>	 GetML()", -- [1712]
+			"<23:42:46><DEBUG>	 Storage:New |cffa335ee|Hitem:179337::::::::60:262::33:5:7349:7359:6652:1524:6646:1:28:1279:::|h[Techno-Coil Legguards]|h|r temp restored table: 000001675B078140", -- [1713]
+			"<23:42:46><DEBUG>	 Storage: searching for item: ||cffa335ee||Hitem:179337::::::::60:262::33:5:7349:7359:6652:1524:6646:1:28:1279:::||h[Techno-Coil Legguards]||h||r 5", -- [1714]
+			"<23:42:46><DEBUG>	 Found item at 0 8", -- [1715]
+			"<23:42:46><DEBUG>	 Found: 0 8 0", -- [1716]
+			"<23:42:46><DEBUG>	 Storage:New |cffa335ee|Hitem:178712::::::::60:262::33:5:7426:7359:6652:1524:6646:1:28:1279:::|h[Acidslough Bulwark]|h|r temp restored table: 000001675B0781E0", -- [1717]
+			"<23:42:46><DEBUG>	 Storage: searching for item: ||cffa335ee||Hitem:178712::::::::60:262::33:5:7426:7359:6652:1524:6646:1:28:1279:::||h[Acidslough Bulwark]||h||r 5", -- [1718]
+			"<23:42:46><DEBUG>	 Found item at 2 24", -- [1719]
+			"<23:42:46><Comm>	 ^1^Sv^T^N1^S3.1.4^t^^ GUILD Rentaki-Kazzak", -- [1720]
+			"<23:54:31><INFO>	 Logged In", -- [1721]
+			"<23:54:31>[ML]<INFO>	 Init", -- [1722]
+			"<23:54:31><INFO>	 RCLootCouncil TradeUI enabled", -- [1723]
+			"<23:54:33><INFO>	 Rentaki-Kazzak 3.1.4 nil", -- [1724]
+			"<23:54:33><DEBUG>	 ActivateSkin bfa", -- [1725]
+			"<23:54:34><DEBUG>	 Event: PLAYER_ENTERING_WORLD false true", -- [1726]
+			"<23:54:34><INFO>	 UpdatePlayersData()", -- [1727]
+			"<23:54:35><DEBUG>	 GetPlayersGuildRank()", -- [1728]
+			"<23:54:35><DEBUG>	 Found Guild Rank: Citizen", -- [1729]
+			"<23:54:35><DEBUG>	 GetML()", -- [1730]
+			"<23:54:35><DEBUG>	 Storage:New |cffa335ee|Hitem:179337::::::::60:262::33:5:7349:7359:6652:1524:6646:1:28:1279:::|h[Techno-Coil Legguards]|h|r temp restored table: 0000016778838810", -- [1731]
+			"<23:54:35><DEBUG>	 Storage: searching for item: ||cffa335ee||Hitem:179337::::::::60:262::33:5:7349:7359:6652:1524:6646:1:28:1279:::||h[Techno-Coil Legguards]||h||r 5", -- [1732]
+			"<23:54:35><DEBUG>	 Found item at 0 8", -- [1733]
+			"<23:54:35><DEBUG>	 Found: 0 8 0", -- [1734]
+			"<23:54:35><DEBUG>	 Storage:New |cffa335ee|Hitem:178712::::::::60:262::33:5:7426:7359:6652:1524:6646:1:28:1279:::|h[Acidslough Bulwark]|h|r temp restored table: 00000167788388B0", -- [1735]
+			"<23:54:35><DEBUG>	 Storage: searching for item: ||cffa335ee||Hitem:178712::::::::60:262::33:5:7426:7359:6652:1524:6646:1:28:1279:::||h[Acidslough Bulwark]||h||r 5", -- [1736]
+			"<23:54:35><DEBUG>	 Found item at 2 24", -- [1737]
+			"<23:54:35><Comm>	 ^1^Sv^T^N1^S3.1.4^t^^ GUILD Rentaki-Kazzak", -- [1738]
+			"<23:56:19><INFO>	 Logged In", -- [1739]
+			"<23:56:19>[ML]<INFO>	 Init", -- [1740]
+			"<23:56:19><INFO>	 RCLootCouncil TradeUI enabled", -- [1741]
+			"<23:56:26><INFO>	 Rentaki-Kazzak 3.1.4 nil", -- [1742]
+			"<23:56:26><DEBUG>	 ActivateSkin bfa", -- [1743]
+			"<23:56:27><DEBUG>	 Event: PLAYER_ENTERING_WORLD true false", -- [1744]
+			"<23:56:27><INFO>	 UpdatePlayersData()", -- [1745]
+			"<23:56:29><DEBUG>	 GetPlayersGuildRank()", -- [1746]
+			"<23:56:29><DEBUG>	 GetPlayersGuildRank()", -- [1747]
+			"<23:56:29><DEBUG>	 Found Guild Rank: Citizen", -- [1748]
+			"<23:56:32><DEBUG>	 GetML()", -- [1749]
+			"<23:56:32><DEBUG>	 Storage:New |cffa335ee|Hitem:179337::::::::60:262::33:5:7349:7359:6652:1524:6646:1:28:1279:::|h[Techno-Coil Legguards]|h|r temp restored table: 000001E74940F060", -- [1750]
+			"<23:56:32><DEBUG>	 Storage: searching for item: ||cffa335ee||Hitem:179337::::::::60:262::33:5:7349:7359:6652:1524:6646:1:28:1279:::||h[Techno-Coil Legguards]||h||r 5", -- [1751]
+			"<23:56:32><DEBUG>	 Found item at 0 8", -- [1752]
+			"<23:56:32><DEBUG>	 Found: 0 8 0", -- [1753]
+			"<23:56:32><DEBUG>	 Storage:New |cffa335ee|Hitem:178712::::::::60:262::33:5:7426:7359:6652:1524:6646:1:28:1279:::|h[Acidslough Bulwark]|h|r temp restored table: 000001E74940F100", -- [1754]
+			"<23:56:32><DEBUG>	 Storage: searching for item: ||cffa335ee||Hitem:178712::::::::60:262::33:5:7426:7359:6652:1524:6646:1:28:1279:::||h[Acidslough Bulwark]||h||r 5", -- [1755]
+			"<23:56:32><DEBUG>	 Found item at 2 24", -- [1756]
+			"<23:58:28><DEBUG>	 Event: PLAYER_ENTERING_WORLD false false", -- [1757]
+			"<23:58:29><DEBUG>	 GetML()", -- [1758]
+			"<00:00:19><DEBUG>	 Event: PLAYER_ENTERING_WORLD false false", -- [1759]
+			"<00:00:21><DEBUG>	 GetML()", -- [1760]
+			"<00:00:35><DEBUG>	 Event: PLAYER_ENTERING_WORLD false false", -- [1761]
+			"<00:00:36><DEBUG>	 GetML()", -- [1762]
+			"<00:10:13><INFO>	 Logged In", -- [1763]
+			"<00:10:13>[ML]<INFO>	 Init", -- [1764]
+			"<00:10:13><INFO>	 RCLootCouncil TradeUI enabled", -- [1765]
+			"<00:10:18><INFO>	 Rentaki-Kazzak 3.1.4 nil", -- [1766]
+			"<00:10:18><DEBUG>	 ActivateSkin bfa", -- [1767]
+			"<00:10:19><DEBUG>	 Event: PLAYER_ENTERING_WORLD true false", -- [1768]
+			"<00:10:19><INFO>	 UpdatePlayersData()", -- [1769]
+			"<00:10:22><DEBUG>	 GetPlayersGuildRank()", -- [1770]
+			"<00:10:22><DEBUG>	 GetPlayersGuildRank()", -- [1771]
+			"<00:10:22><DEBUG>	 Found Guild Rank: Citizen", -- [1772]
+			"<00:10:23><DEBUG>	 GetML()", -- [1773]
+			"<00:10:23><DEBUG>	 Storage:New |cffa335ee|Hitem:179337::::::::60:262::33:5:7349:7359:6652:1524:6646:1:28:1279:::|h[Techno-Coil Legguards]|h|r temp restored table: 000001E72DF4ECB0", -- [1774]
+			"<00:10:23><DEBUG>	 Storage: searching for item: ||cffa335ee||Hitem:179337::::::::60:262::33:5:7349:7359:6652:1524:6646:1:28:1279:::||h[Techno-Coil Legguards]||h||r 5", -- [1775]
+			"<00:10:23><DEBUG>	 Found item at 0 8", -- [1776]
+			"<00:10:23><DEBUG>	 Found: 0 8 0", -- [1777]
+			"<00:10:23><DEBUG>	 Storage:New |cffa335ee|Hitem:178712::::::::60:262::33:5:7426:7359:6652:1524:6646:1:28:1279:::|h[Acidslough Bulwark]|h|r temp restored table: 000001E72DF4ED50", -- [1778]
+			"<00:10:23><DEBUG>	 Storage: searching for item: ||cffa335ee||Hitem:178712::::::::60:262::33:5:7426:7359:6652:1524:6646:1:28:1279:::||h[Acidslough Bulwark]||h||r 5", -- [1779]
+			"<00:10:23><DEBUG>	 Found: nil nil nil", -- [1780]
+			"<00:10:23><WARNING>	 ItemStorage, db item no longer in bags |cffa335ee|Hitem:178712::::::::60:262::33:5:7426:7359:6652:1524:6646:1:28:1279:::|h[Acidslough Bulwark]|h|r", -- [1781]
+			"<00:10:23><DEBUG>	 Storage:RemoveItem |cffa335ee|Hitem:178712::::::::60:262::33:5:7426:7359:6652:1524:6646:1:28:1279:::|h[Acidslough Bulwark]|h|r", -- [1782]
+			"<00:26:09><INFO>	 Logged In", -- [1783]
+			"<00:26:09>[ML]<INFO>	 Init", -- [1784]
+			"<00:26:09><INFO>	 RCLootCouncil TradeUI enabled", -- [1785]
+			"<00:26:14><INFO>	 Rentaki-Kazzak 3.1.4 nil", -- [1786]
+			"<00:26:14><DEBUG>	 ActivateSkin bfa", -- [1787]
+			"<00:26:16><DEBUG>	 Event: PLAYER_ENTERING_WORLD true false", -- [1788]
+			"<00:26:16><INFO>	 UpdatePlayersData()", -- [1789]
+			"<00:26:18><DEBUG>	 GetPlayersGuildRank()", -- [1790]
+			"<00:26:18><DEBUG>	 Found Guild Rank: Citizen", -- [1791]
+			"<00:26:20><DEBUG>	 GetML()", -- [1792]
+			"<00:26:20><DEBUG>	 Storage:New |cffa335ee|Hitem:179337::::::::60:262::33:5:7349:7359:6652:1524:6646:1:28:1279:::|h[Techno-Coil Legguards]|h|r temp restored table: 0000018EC624D270", -- [1793]
+			"<00:26:20><DEBUG>	 Storage: searching for item: ||cffa335ee||Hitem:179337::::::::60:262::33:5:7349:7359:6652:1524:6646:1:28:1279:::||h[Techno-Coil Legguards]||h||r 5", -- [1794]
+			"<00:26:20><DEBUG>	 Found item at 0 8", -- [1795]
+			"<00:26:20><DEBUG>	 Found: 0 8 0", -- [1796]
+			"<00:30:02><INFO>	 Logged In", -- [1797]
+			"<00:30:02>[ML]<INFO>	 Init", -- [1798]
+			"<00:30:02><INFO>	 RCLootCouncil TradeUI enabled", -- [1799]
+			"<00:30:07><INFO>	 Rentaki-Kazzak 3.1.4 nil", -- [1800]
+			"<00:30:07><DEBUG>	 ActivateSkin bfa", -- [1801]
+			"<00:30:08><DEBUG>	 Event: PLAYER_ENTERING_WORLD true false", -- [1802]
+			"<00:30:08><INFO>	 UpdatePlayersData()", -- [1803]
+			"<00:30:10><DEBUG>	 GetPlayersGuildRank()", -- [1804]
+			"<00:30:10><DEBUG>	 Found Guild Rank: Citizen", -- [1805]
+			"<00:30:12><DEBUG>	 GetML()", -- [1806]
+			"<00:30:12><DEBUG>	 Storage:New |cffa335ee|Hitem:179337::::::::60:262::33:5:7349:7359:6652:1524:6646:1:28:1279:::|h[Techno-Coil Legguards]|h|r temp restored table: 00000164C37F4A50", -- [1807]
+			"<00:30:12><DEBUG>	 Storage: searching for item: ||cffa335ee||Hitem:179337::::::::60:262::33:5:7349:7359:6652:1524:6646:1:28:1279:::||h[Techno-Coil Legguards]||h||r 5", -- [1808]
+			"<00:30:12><DEBUG>	 Found item at 0 8", -- [1809]
+			"<00:30:12><DEBUG>	 Found: 0 8 0", -- [1810]
+			"<06:18:49><INFO>	 Logged In", -- [1811]
+			"<06:18:49>[ML]<INFO>	 Init", -- [1812]
+			"<06:18:49><INFO>	 RCLootCouncil TradeUI enabled", -- [1813]
+			"<06:18:56><INFO>	 Rentaki-Kazzak 3.1.4 nil", -- [1814]
+			"<06:18:56><DEBUG>	 ActivateSkin bfa", -- [1815]
+			"<06:18:57><DEBUG>	 Event: PLAYER_ENTERING_WORLD true false", -- [1816]
+			"<06:18:57><INFO>	 UpdatePlayersData()", -- [1817]
+			"<06:18:58><DEBUG>	 GetPlayersGuildRank()", -- [1818]
+			"<06:18:58><DEBUG>	 GetPlayersGuildRank()", -- [1819]
+			"<06:18:58><DEBUG>	 Found Guild Rank: Citizen", -- [1820]
+			"<06:19:00><DEBUG>	 GetML()", -- [1821]
+			"<06:19:00><DEBUG>	 Storage:New |cffa335ee|Hitem:179337::::::::60:262::33:5:7349:7359:6652:1524:6646:1:28:1279:::|h[Techno-Coil Legguards]|h|r temp restored table: 00000280466E7B60", -- [1822]
+			"<06:19:00><DEBUG>	 Storage: searching for item: ||cffa335ee||Hitem:179337::::::::60:262::33:5:7349:7359:6652:1524:6646:1:28:1279:::||h[Techno-Coil Legguards]||h||r 5", -- [1823]
+			"<06:19:00><DEBUG>	 Found item at 0 8", -- [1824]
+			"<06:19:00><DEBUG>	 Found: 0 8 0", -- [1825]
+			"<06:19:22><DEBUG>	 Event: PLAYER_ENTERING_WORLD false false", -- [1826]
+			"<06:19:24><DEBUG>	 GetML()", -- [1827]
+			"<06:21:57><DEBUG>	 Event: PLAYER_ENTERING_WORLD false false", -- [1828]
+			"<06:21:59><DEBUG>	 GetML()", -- [1829]
+			"<06:26:46><DEBUG>	 Event: PLAYER_ENTERING_WORLD false false", -- [1830]
+			"<06:26:48><DEBUG>	 GetML()", -- [1831]
+			"<22:02:05><INFO>	 Logged In", -- [1832]
+			"<22:02:05>[ML]<INFO>	 Init", -- [1833]
+			"<22:02:05><INFO>	 RCLootCouncil TradeUI enabled", -- [1834]
+			"<22:02:12><INFO>	 Rentaki-Kazzak 3.1.4 nil", -- [1835]
+			"<22:02:12><DEBUG>	 ActivateSkin bfa", -- [1836]
+			"<22:02:13><DEBUG>	 Event: PLAYER_ENTERING_WORLD true false", -- [1837]
+			"<22:02:13><INFO>	 UpdatePlayersData()", -- [1838]
+			"<22:02:14><DEBUG>	 GetPlayersGuildRank()", -- [1839]
+			"<22:02:14><DEBUG>	 GetPlayersGuildRank()", -- [1840]
+			"<22:02:14><DEBUG>	 Found Guild Rank: Citizen", -- [1841]
+			"<22:02:16><DEBUG>	 GetML()", -- [1842]
+			"<22:02:16><DEBUG>	 Storage:New |cffa335ee|Hitem:179337::::::::60:262::33:5:7349:7359:6652:1524:6646:1:28:1279:::|h[Techno-Coil Legguards]|h|r temp restored table: 00000289454EBDE0", -- [1843]
+			"<22:02:16><DEBUG>	 Storage: searching for item: ||cffa335ee||Hitem:179337::::::::60:262::33:5:7349:7359:6652:1524:6646:1:28:1279:::||h[Techno-Coil Legguards]||h||r 5", -- [1844]
+			"<22:02:16><DEBUG>	 Found item at 0 8", -- [1845]
+			"<22:02:16><DEBUG>	 Found: 0 8 0", -- [1846]
+			"<22:02:55><DEBUG>	 Event: PLAYER_ENTERING_WORLD false false", -- [1847]
+			"<22:02:57><DEBUG>	 GetML()", -- [1848]
+			"<22:23:59><DEBUG>	 Event: LOOT_READY true", -- [1849]
+			"<22:23:59><DEBUG>	 Event: LOOT_READY true", -- [1850]
+			"<22:23:59><DEBUG>	 Event: LOOT_READY true", -- [1851]
+			"<22:28:22><DEBUG>	 Event: LOOT_READY true", -- [1852]
+			"<22:28:22><DEBUG>	 Event: LOOT_READY true", -- [1853]
+			"<22:30:38><DEBUG>	 Event: LOOT_READY true", -- [1854]
+			"<22:34:33><DEBUG>	 Event: LOOT_READY true", -- [1855]
+			"<22:34:42><DEBUG>	 Event: LOOT_READY true", -- [1856]
+			"<22:35:08><DEBUG>	 Event: LOOT_READY true", -- [1857]
+			"<22:35:29><DEBUG>	 Event: LOOT_READY true", -- [1858]
+			"<22:35:30><DEBUG>	 Event: LOOT_READY true", -- [1859]
+			"<22:35:46><DEBUG>	 Event: LOOT_READY true", -- [1860]
+			"<22:35:50><DEBUG>	 Event: LOOT_READY true", -- [1861]
+			"<22:36:08><DEBUG>	 Event: LOOT_READY true", -- [1862]
+			"<22:36:24><DEBUG>	 Event: LOOT_READY true", -- [1863]
+			"<22:36:24><DEBUG>	 Event: LOOT_READY true", -- [1864]
+			"<22:36:48><DEBUG>	 Event: LOOT_READY true", -- [1865]
+			"<22:40:17><DEBUG>	 Event: LOOT_READY true", -- [1866]
+			"<22:40:18><DEBUG>	 Event: LOOT_READY true", -- [1867]
+			"<22:41:53><DEBUG>	 Event: PARTY_LEADER_CHANGED", -- [1868]
+			"<22:41:55><DEBUG>	 GetML()", -- [1869]
+			"<22:41:55><Data.Player>	 CreatePlayer Player-3702-0A33AF7B", -- [1870]
+			"<22:41:55><DEBUG>	 Resetting council as we have a new ML!", -- [1871]
+			"<22:41:55><INFO>	 MasterLooter =  Trawl-ArgentDawn", -- [1872]
+			"<22:42:10><DEBUG>	 Timer MLdb_check passed", -- [1873]
+			"<22:42:10><Comm>	 ^1^Sxrealm^T^N1^STrawl-ArgentDawn^N2^SMLdb_request^t^^ RAID Rentaki-Kazzak", -- [1874]
+			"<22:42:10><Comm>	 ^1^Sxrealm^T^N1^STrawl-ArgentDawn^N2^Scouncil_request^t^^ RAID Rentaki-Kazzak", -- [1875]
+			"<22:42:18><Comm>	 ^1^Sxrealm^T^N1^STrawl-ArgentDawn^N2^SMLdb_request^t^^ RAID Scyrtrox-Draenor", -- [1876]
+			"<22:42:18><Comm>	 ^1^Sxrealm^T^N1^STrawl-ArgentDawn^N2^Scouncil_request^t^^ RAID Scyrtrox-Draenor", -- [1877]
+			"<22:42:28><Comm>	 ^1^Sxrealm^T^N1^STrawl-ArgentDawn^N2^SMLdb_request^t^^ RAID Gaiaguard-Kazzak", -- [1878]
+			"<22:42:28><Comm>	 ^1^Sxrealm^T^N1^STrawl-ArgentDawn^N2^Scouncil_request^t^^ RAID Gaiaguard-Kazzak", -- [1879]
+			"<22:42:37><Comm>	 ^1^Sxrealm^T^N1^STrawl-ArgentDawn^N2^SMLdb_request^t^^ RAID Thamael-Aggra(Português)", -- [1880]
+			"<22:42:37><Comm>	 ^1^Sxrealm^T^N1^STrawl-ArgentDawn^N2^Scouncil_request^t^^ RAID Thamael-Aggra(Português)", -- [1881]
+			"<22:43:07><DEBUG>	 Event: ENCOUNTER_LOOT_RECEIVED 0 172097 |cff0070dd|Hitem:172097::::::::60:262:::::::|h[Heavy Callous Hide]|h|r 1 Drenaelle-Ysondre HUNTER", -- [1882]
+			"<22:43:10><DEBUG>	 Event: ENCOUNTER_LOOT_RECEIVED 0 172097 |cff0070dd|Hitem:172097::::::::60:262:::::::|h[Heavy Callous Hide]|h|r 1 Drenaelle-Ysondre HUNTER", -- [1883]
+			"<22:45:43><DEBUG>	 Event: GROUP_LEFT 1 Party-3702-1-000057A29E34", -- [1884]
+			"<22:45:43><DEBUG>	 GetML()", -- [1885]
+			"<22:55:30><DEBUG>	 Event: PLAYER_ENTERING_WORLD false false", -- [1886]
+			"<22:55:32><DEBUG>	 GetML()", -- [1887]
+			"<23:00:15><Comm>	 ^1^Sv^T^N1^S3.1.5^t^^ GUILD Mimóu-Kazzak", -- [1888]
+			"<23:00:15><Comm>	 ^1^Sr^T^N1^S3.1.4^N3^T^t^t^^ GUILD Sanshee-Kazzak", -- [1889]
+			"<23:00:15><Comm>	 ^1^Sr^T^N1^S3.1.4^N3^T^t^t^^ GUILD Rentaki-Kazzak", -- [1890]
+			"<23:00:15><Comm>	 ^1^Sr^T^N1^S3.1.4^N3^T^t^t^^ GUILD Memescoper-Kazzak", -- [1891]
+			"<23:00:15><Comm>	 ^1^Sr^T^N1^S3.1.4^N3^T^t^t^^ GUILD Ceasesdh-Kazzak", -- [1892]
+			"<23:00:15><Comm>	 ^1^Sr^T^N1^S3.1.4^N3^T^t^t^^ GUILD Boomerskon-Kazzak", -- [1893]
+			"<23:22:49><INFO>	 Logged In", -- [1894]
+			"<23:22:49>[ML]<INFO>	 Init", -- [1895]
+			"<23:22:49><INFO>	 RCLootCouncil TradeUI enabled", -- [1896]
+			"<23:22:51><INFO>	 Rentaki-Kazzak 3.1.4 nil", -- [1897]
+			"<23:22:51><DEBUG>	 ActivateSkin bfa", -- [1898]
+			"<23:22:52><DEBUG>	 Event: PLAYER_ENTERING_WORLD false true", -- [1899]
+			"<23:22:52><INFO>	 UpdatePlayersData()", -- [1900]
+			"<23:22:52><DEBUG>	 GetPlayersGuildRank()", -- [1901]
+			"<23:22:52><DEBUG>	 Found Guild Rank: Citizen", -- [1902]
+			"<23:22:52><DEBUG>	 GetML()", -- [1903]
+			"<23:22:52><DEBUG>	 Storage:New |cffa335ee|Hitem:179337::::::::60:262::33:5:7349:7359:6652:1524:6646:1:28:1279:::|h[Techno-Coil Legguards]|h|r temp restored table: 000002891FBBAF10", -- [1904]
+			"<23:22:52><DEBUG>	 Storage: searching for item: ||cffa335ee||Hitem:179337::::::::60:262::33:5:7349:7359:6652:1524:6646:1:28:1279:::||h[Techno-Coil Legguards]||h||r 5", -- [1905]
+			"<23:22:52><DEBUG>	 Found item at 1 19", -- [1906]
+			"<23:22:52><DEBUG>	 Found: 1 19 0", -- [1907]
+			"<23:22:53><Comm>	 ^1^Sv^T^N1^S3.1.4^t^^ GUILD Rentaki-Kazzak", -- [1908]
+			"<23:22:53><Comm>	 ^1^Sr^T^N1^S3.1.3^N3^T^t^t^^ GUILD Kessrogue-Kazzak", -- [1909]
+			"<23:27:33><INFO>	 Logged In", -- [1910]
+			"<23:27:33>[ML]<INFO>	 Init", -- [1911]
+			"<23:27:33><INFO>	 RCLootCouncil TradeUI enabled", -- [1912]
+			"<23:27:35><INFO>	 Rentaki-Kazzak 3.1.4 nil", -- [1913]
+			"<23:27:35><DEBUG>	 ActivateSkin bfa", -- [1914]
+			"<23:27:36><DEBUG>	 Event: PLAYER_ENTERING_WORLD false true", -- [1915]
+			"<23:27:36><INFO>	 UpdatePlayersData()", -- [1916]
+			"<23:27:36><DEBUG>	 GetPlayersGuildRank()", -- [1917]
+			"<23:27:36><DEBUG>	 Found Guild Rank: Citizen", -- [1918]
+			"<23:27:36><DEBUG>	 GetML()", -- [1919]
+			"<23:27:36><DEBUG>	 Storage:New |cffa335ee|Hitem:179337::::::::60:262::33:5:7349:7359:6652:1524:6646:1:28:1279:::|h[Techno-Coil Legguards]|h|r temp restored table: 000002897FDBF060", -- [1920]
+			"<23:27:36><DEBUG>	 Storage: searching for item: ||cffa335ee||Hitem:179337::::::::60:262::33:5:7349:7359:6652:1524:6646:1:28:1279:::||h[Techno-Coil Legguards]||h||r 5", -- [1921]
+			"<23:27:36><DEBUG>	 Found item at 1 19", -- [1922]
+			"<23:27:36><DEBUG>	 Found: 1 19 0", -- [1923]
+			"<23:27:36><Comm>	 ^1^Sv^T^N1^S3.1.4^t^^ GUILD Rentaki-Kazzak", -- [1924]
+			"<23:27:36><Comm>	 ^1^Sr^T^N1^S3.1.3^N3^T^t^t^^ GUILD Kessrogue-Kazzak", -- [1925]
+			"<23:27:49><INFO>	 Logged In", -- [1926]
+			"<23:27:49>[ML]<INFO>	 Init", -- [1927]
+			"<23:27:49><INFO>	 RCLootCouncil TradeUI enabled", -- [1928]
+			"<23:27:51><INFO>	 Rentaki-Kazzak 3.1.4 nil", -- [1929]
+			"<23:27:51><DEBUG>	 ActivateSkin bfa", -- [1930]
+			"<23:27:51><DEBUG>	 Event: PLAYER_ENTERING_WORLD false true", -- [1931]
+			"<23:27:51><INFO>	 UpdatePlayersData()", -- [1932]
+			"<23:27:52><DEBUG>	 GetPlayersGuildRank()", -- [1933]
+			"<23:27:52><DEBUG>	 Found Guild Rank: Citizen", -- [1934]
+			"<23:27:52><DEBUG>	 GetML()", -- [1935]
+			"<23:27:52><DEBUG>	 Storage:New |cffa335ee|Hitem:179337::::::::60:262::33:5:7349:7359:6652:1524:6646:1:28:1279:::|h[Techno-Coil Legguards]|h|r temp restored table: 00000289335C9FD0", -- [1936]
+			"<23:27:52><DEBUG>	 Storage: searching for item: ||cffa335ee||Hitem:179337::::::::60:262::33:5:7349:7359:6652:1524:6646:1:28:1279:::||h[Techno-Coil Legguards]||h||r 5", -- [1937]
+			"<23:27:52><DEBUG>	 Found item at 1 19", -- [1938]
+			"<23:27:52><DEBUG>	 Found: 1 19 0", -- [1939]
+			"<23:27:52><Comm>	 ^1^Sv^T^N1^S3.1.4^t^^ GUILD Rentaki-Kazzak", -- [1940]
+			"<23:27:53><Comm>	 ^1^Sr^T^N1^S3.1.3^N3^T^t^t^^ GUILD Kessrogue-Kazzak", -- [1941]
+			"<23:43:08><Comm>	 ^1^Sv^T^N1^S3.1.5^t^^ GUILD Bevv-Kazzak", -- [1942]
+			"<23:43:08><Comm>	 ^1^Sr^T^N1^S3.1.4^N3^T^t^t^^ GUILD Sanshee-Kazzak", -- [1943]
+			"<23:43:08><Comm>	 ^1^Sr^T^N1^S3.1.4^N3^T^t^t^^ GUILD Rentaki-Kazzak", -- [1944]
+			"<23:43:08><Comm>	 ^1^Sr^T^N1^S3.1.4^N3^T^t^t^^ GUILD Soulshuffle-Kazzak", -- [1945]
+			"<23:43:08><Comm>	 ^1^Sr^T^N1^S3.1.4^N3^T^t^t^^ GUILD Tradushuffle-Kazzak", -- [1946]
+			"<23:43:08><Comm>	 ^1^Sr^T^N1^S3.1.3^N3^T^t^t^^ GUILD Kessrogue-Kazzak", -- [1947]
+			"<23:43:08><Comm>	 ^1^Sr^T^N1^S3.1.4^N3^T^t^t^^ GUILD Seksixeny-Kazzak", -- [1948]
+			"<23:45:47><INFO>	 Logged In", -- [1949]
+			"<23:45:47>[ML]<INFO>	 Init", -- [1950]
+			"<23:45:47><INFO>	 RCLootCouncil TradeUI enabled", -- [1951]
+			"<23:45:50><INFO>	 Rentaki-Kazzak 3.1.4 nil", -- [1952]
+			"<23:45:50><DEBUG>	 ActivateSkin bfa", -- [1953]
+			"<23:45:51><DEBUG>	 Event: PLAYER_ENTERING_WORLD false true", -- [1954]
+			"<23:45:51><INFO>	 UpdatePlayersData()", -- [1955]
+			"<23:45:52><DEBUG>	 GetPlayersGuildRank()", -- [1956]
+			"<23:45:52><DEBUG>	 Found Guild Rank: Citizen", -- [1957]
+			"<23:45:52><DEBUG>	 GetML()", -- [1958]
+			"<23:45:52><DEBUG>	 Storage:New |cffa335ee|Hitem:179337::::::::60:262::33:5:7349:7359:6652:1524:6646:1:28:1279:::|h[Techno-Coil Legguards]|h|r temp restored table: 000002891F1039D0", -- [1959]
+			"<23:45:52><DEBUG>	 Storage: searching for item: ||cffa335ee||Hitem:179337::::::::60:262::33:5:7349:7359:6652:1524:6646:1:28:1279:::||h[Techno-Coil Legguards]||h||r 5", -- [1960]
+			"<23:45:52><DEBUG>	 Found item at 1 19", -- [1961]
+			"<23:45:52><DEBUG>	 Found: 1 19 0", -- [1962]
+			"<23:45:52><Comm>	 ^1^Sv^T^N1^S3.1.4^t^^ GUILD Rentaki-Kazzak", -- [1963]
+			"<23:45:52><Comm>	 ^1^Sr^T^N1^S3.1.3^N3^T^t^t^^ GUILD Kessrogue-Kazzak", -- [1964]
+			"<23:48:08><INFO>	 Logged In", -- [1965]
+			"<23:48:08>[ML]<INFO>	 Init", -- [1966]
+			"<23:48:08><INFO>	 RCLootCouncil TradeUI enabled", -- [1967]
+			"<23:48:13><INFO>	 Rentaki-Kazzak 3.1.5 nil", -- [1968]
+			"<23:48:13><DEBUG>	 ActivateSkin bfa", -- [1969]
+			"<23:48:15><DEBUG>	 Event: PLAYER_ENTERING_WORLD true false", -- [1970]
+			"<23:48:15><INFO>	 UpdatePlayersData()", -- [1971]
+			"<23:48:16><DEBUG>	 GetPlayersGuildRank()", -- [1972]
+			"<23:48:16><DEBUG>	 Found Guild Rank: Citizen", -- [1973]
+			"<23:48:18><DEBUG>	 GetML()", -- [1974]
+			"<23:48:18><DEBUG>	 Storage:New |cffa335ee|Hitem:179337::::::::60:262::33:5:7349:7359:6652:1524:6646:1:28:1279:::|h[Techno-Coil Legguards]|h|r temp restored table: 00000276C58E9DF0", -- [1975]
+			"<23:48:18><DEBUG>	 Storage: searching for item: ||cffa335ee||Hitem:179337::::::::60:262::33:5:7349:7359:6652:1524:6646:1:28:1279:::||h[Techno-Coil Legguards]||h||r 5", -- [1976]
+			"<23:48:18><DEBUG>	 Found item at 1 19", -- [1977]
+			"<23:48:18><DEBUG>	 Found: 1 19 0", -- [1978]
+			"<23:48:57><INFO>	 Logged In", -- [1979]
+			"<23:48:57>[ML]<INFO>	 Init", -- [1980]
+			"<23:48:57><INFO>	 RCLootCouncil TradeUI enabled", -- [1981]
+			"<23:48:59><INFO>	 Rentaki-Kazzak 3.1.5 nil", -- [1982]
+			"<23:48:59><DEBUG>	 ActivateSkin bfa", -- [1983]
+			"<23:49:00><DEBUG>	 Event: PLAYER_ENTERING_WORLD false true", -- [1984]
+			"<23:49:00><INFO>	 UpdatePlayersData()", -- [1985]
+			"<23:49:01><DEBUG>	 GetPlayersGuildRank()", -- [1986]
+			"<23:49:01><DEBUG>	 Found Guild Rank: Citizen", -- [1987]
+			"<23:49:01><DEBUG>	 GetML()", -- [1988]
+			"<23:49:01><DEBUG>	 Storage:New |cffa335ee|Hitem:179337::::::::60:262::33:5:7349:7359:6652:1524:6646:1:28:1279:::|h[Techno-Coil Legguards]|h|r temp restored table: 00000276C23B0A30", -- [1989]
+			"<23:49:01><DEBUG>	 Storage: searching for item: ||cffa335ee||Hitem:179337::::::::60:262::33:5:7349:7359:6652:1524:6646:1:28:1279:::||h[Techno-Coil Legguards]||h||r 5", -- [1990]
+			"<23:49:01><DEBUG>	 Found item at 1 19", -- [1991]
+			"<23:49:01><DEBUG>	 Found: 1 19 0", -- [1992]
+			"<23:49:01><Comm>	 ^1^Sv^T^N1^S3.1.5^t^^ GUILD Rentaki-Kazzak", -- [1993]
+			"<23:49:01><Comm>	 ^1^Sr^T^N1^S3.1.4^N3^T^t^t^^ GUILD Sacraknight-Kazzak", -- [1994]
+			"<23:49:01><Comm>	 ^1^Sr^T^N1^S3.1.4^N3^T^t^t^^ GUILD Soulshuffle-Kazzak", -- [1995]
+			"<23:49:01><Comm>	 ^1^Sr^T^N1^S3.1.4^N3^T^t^t^^ GUILD Tokzik-Kazzak", -- [1996]
+			"<23:49:02><Comm>	 ^1^Sr^T^N1^S3.1.4^N3^T^t^t^^ GUILD Tradushuffle-Kazzak", -- [1997]
+			"<23:49:02><Comm>	 ^1^Sr^T^N1^S3.1.3^N3^T^t^t^^ GUILD Kessrogue-Kazzak", -- [1998]
+			"<23:49:02><Comm>	 ^1^Sr^T^N1^S3.1.4^N3^T^t^t^^ GUILD Seksixeny-Kazzak", -- [1999]
+			"<23:49:02><Comm>	 ^1^Sr^T^N1^S3.1.4^N3^T^t^t^^ GUILD Sanshee-Kazzak", -- [2000]
 		},
 		["cache"] = {
 			["player"] = {
@@ -2556,6 +2556,13 @@ RCLootCouncilDB = {
 					["enchantingLvl"] = 0,
 					["realm"] = "Kazzak",
 				},
+				["Player-3702-0A33AF7B"] = {
+					["name"] = "Trawl-ArgentDawn",
+					["guid"] = "Player-3702-0A33AF7B",
+					["class"] = "HUNTER",
+					["cache_time"] = 1615671716,
+					["realm"] = "ArgentDawn",
+				},
 				["Player-1305-0B806E9E"] = {
 					["name"] = "Sanshot-Kazzak",
 					["guid"] = "Player-1305-0B806E9E",
@@ -2734,12 +2741,17 @@ RCLootCouncilDB = {
 					["cache_time"] = 1606426931,
 					["realm"] = "Ravencrest",
 				},
-				["Player-1305-0BB49127"] = {
-					["name"] = "Wooha-Kazzak",
-					["guid"] = "Player-1305-0BB49127",
+				["Player-1305-0B0CA048"] = {
+					["ilvl"] = 211.375,
+					["guid"] = "Player-1305-0B0CA048",
 					["class"] = "PRIEST",
-					["cache_time"] = 1606682591,
-					["realm"] = "Kazzak",
+					["role"] = "DAMAGER",
+					["name"] = "Mímou-Kazzak",
+					["realm"] = "",
+					["cache_time"] = 1615487634,
+					["enchanter"] = true,
+					["enchantingLvl"] = 77,
+					["rank"] = "Citizen",
 				},
 				["Player-1325-094B82E3"] = {
 					["name"] = "Sasandra-Hellscream",
@@ -2748,11 +2760,11 @@ RCLootCouncilDB = {
 					["cache_time"] = 1606759828,
 					["realm"] = "Hellscream",
 				},
-				["Player-1305-0BAFBE4A"] = {
-					["name"] = "Vapetide-Kazzak",
-					["guid"] = "Player-1305-0BAFBE4A",
-					["class"] = "SHAMAN",
-					["cache_time"] = 1607536636,
+				["Player-1305-0BB49127"] = {
+					["name"] = "Wooha-Kazzak",
+					["guid"] = "Player-1305-0BB49127",
+					["class"] = "PRIEST",
+					["cache_time"] = 1606682591,
 					["realm"] = "Kazzak",
 				},
 				["Player-1305-0B8CA415"] = {
@@ -2766,24 +2778,12 @@ RCLootCouncilDB = {
 					["enchantingLvl"] = 0,
 					["rank"] = "THE WALL",
 				},
-				["Player-1305-0B0CA048"] = {
-					["ilvl"] = 211.375,
-					["guid"] = "Player-1305-0B0CA048",
-					["class"] = "PRIEST",
-					["role"] = "DAMAGER",
-					["name"] = "Mímou-Kazzak",
-					["realm"] = "",
-					["cache_time"] = 1615487634,
-					["enchanter"] = true,
-					["enchantingLvl"] = 77,
-					["rank"] = "Citizen",
-				},
-				["Player-3674-07821774"] = {
-					["name"] = "Profixh-TwistingNether",
-					["guid"] = "Player-3674-07821774",
-					["class"] = "HUNTER",
-					["cache_time"] = 1610137552,
-					["realm"] = "TwistingNether",
+				["Player-1305-0BAFBE4A"] = {
+					["name"] = "Vapetide-Kazzak",
+					["guid"] = "Player-1305-0BAFBE4A",
+					["class"] = "SHAMAN",
+					["cache_time"] = 1607536636,
+					["realm"] = "Kazzak",
 				},
 				["Player-1305-0BBAFADE"] = {
 					["name"] = "Miserè-Kazzak",
@@ -2791,6 +2791,13 @@ RCLootCouncilDB = {
 					["class"] = "DEMONHUNTER",
 					["cache_time"] = 1614719956,
 					["realm"] = "",
+				},
+				["Player-3674-07821774"] = {
+					["name"] = "Profixh-TwistingNether",
+					["guid"] = "Player-3674-07821774",
+					["class"] = "HUNTER",
+					["cache_time"] = 1610137552,
+					["realm"] = "TwistingNether",
 				},
 				["Player-1305-08F8FD18"] = {
 					["name"] = "Leannette-Kazzak",
@@ -2966,12 +2973,12 @@ RCLootCouncilDB = {
 					["cache_time"] = 1606679467,
 					["realm"] = "Ragnaros",
 				},
-				["Player-604-08330E01"] = {
-					["name"] = "Nakami-Thrall",
-					["guid"] = "Player-604-08330E01",
-					["class"] = "DEMONHUNTER",
-					["cache_time"] = 1611766525,
-					["realm"] = "Thrall",
+				["Player-1096-09FEC741"] = {
+					["name"] = "Rivanex-DefiasBrotherhood",
+					["guid"] = "Player-1096-09FEC741",
+					["class"] = "DRUID",
+					["cache_time"] = 1610923780,
+					["realm"] = "DefiasBrotherhood",
 				},
 				["Player-1378-0A37C4C3"] = {
 					["name"] = "Krinns-C'Thun",
@@ -2987,12 +2994,12 @@ RCLootCouncilDB = {
 					["cache_time"] = 1609672998,
 					["realm"] = "Pozzodell'Eternità",
 				},
-				["Player-1096-09FEC741"] = {
-					["name"] = "Rivanex-DefiasBrotherhood",
-					["guid"] = "Player-1096-09FEC741",
-					["class"] = "DRUID",
-					["cache_time"] = 1610923780,
-					["realm"] = "DefiasBrotherhood",
+				["Player-604-08330E01"] = {
+					["name"] = "Nakami-Thrall",
+					["guid"] = "Player-604-08330E01",
+					["class"] = "DEMONHUNTER",
+					["cache_time"] = 1611766525,
+					["realm"] = "Thrall",
 				},
 				["Player-633-06365D90"] = {
 					["name"] = "Anakinsw-ShatteredHand",
@@ -3057,6 +3064,13 @@ RCLootCouncilDB = {
 					["cache_time"] = 1606938727,
 					["realm"] = "Silvermoon",
 				},
+				["Player-1305-0AF62CE4"] = {
+					["name"] = "Zorxzorx-Kazzak",
+					["guid"] = "Player-1305-0AF62CE4",
+					["class"] = "SHAMAN",
+					["cache_time"] = 1606349268,
+					["realm"] = "Kazzak",
+				},
 				["Player-1305-0B8454A1"] = {
 					["name"] = "Rendudu-Kazzak",
 					["guid"] = "Player-1305-0B8454A1",
@@ -3064,11 +3078,11 @@ RCLootCouncilDB = {
 					["cache_time"] = 1605444464,
 					["realm"] = "Kazzak",
 				},
-				["Player-1305-0AF62CE4"] = {
-					["name"] = "Zorxzorx-Kazzak",
-					["guid"] = "Player-1305-0AF62CE4",
-					["class"] = "SHAMAN",
-					["cache_time"] = 1606349268,
+				["Player-1305-0B15DE94"] = {
+					["name"] = "Kerzha-Kazzak",
+					["guid"] = "Player-1305-0B15DE94",
+					["class"] = "DEMONHUNTER",
+					["cache_time"] = 1607158899,
 					["realm"] = "Kazzak",
 				},
 				["Player-1092-067A3F6D"] = {
@@ -3087,13 +3101,6 @@ RCLootCouncilDB = {
 					["rank"] = "Citizen",
 					["cache_time"] = 1608147476,
 					["enchantingLvl"] = 0,
-					["realm"] = "Kazzak",
-				},
-				["Player-1305-0B15DE94"] = {
-					["name"] = "Kerzha-Kazzak",
-					["guid"] = "Player-1305-0B15DE94",
-					["class"] = "DEMONHUNTER",
-					["cache_time"] = 1607158899,
 					["realm"] = "Kazzak",
 				},
 				["Player-1305-0B7CEABD"] = {
@@ -3122,7 +3129,7 @@ RCLootCouncilDB = {
 					["guid"] = "Player-1305-0B0DAE15",
 					["class"] = "SHAMAN",
 					["role"] = "DAMAGER",
-					["cache_time"] = 1615504218,
+					["cache_time"] = 1615675741,
 					["rank"] = "Citizen",
 					["name"] = "Rentaki-Kazzak",
 					["specID"] = 262,
@@ -3155,19 +3162,19 @@ RCLootCouncilDB = {
 					["enchantingLvl"] = 0,
 					["rank"] = "Mexican",
 				},
-				["Player-1305-0B0DEB66"] = {
-					["name"] = "Bevv-Kazzak",
-					["guid"] = "Player-1305-0B0DEB66",
-					["class"] = "DEMONHUNTER",
-					["cache_time"] = 1612390705,
-					["realm"] = "",
-				},
 				["Player-3682-06EEA91E"] = {
 					["name"] = "Rockstomp-Ragnaros",
 					["guid"] = "Player-3682-06EEA91E",
 					["class"] = "PALADIN",
 					["cache_time"] = 1609888238,
 					["realm"] = "Ragnaros",
+				},
+				["Player-1305-0B0DEB66"] = {
+					["name"] = "Bevv-Kazzak",
+					["guid"] = "Player-1305-0B0DEB66",
+					["class"] = "DEMONHUNTER",
+					["cache_time"] = 1612390705,
+					["realm"] = "",
 				},
 				["Player-1305-0B0DCD26"] = {
 					["ilvl"] = 203.3125,
@@ -3187,13 +3194,6 @@ RCLootCouncilDB = {
 					["cache_time"] = 1613550132,
 					["realm"] = "",
 				},
-				["Player-1403-05A6F28E"] = {
-					["name"] = "Fandensjølv-Draenor",
-					["guid"] = "Player-1403-05A6F28E",
-					["class"] = "PALADIN",
-					["cache_time"] = 1608070341,
-					["realm"] = "Draenor",
-				},
 				["Player-580-080A5357"] = {
 					["name"] = "Roksulia-Blackmoore",
 					["guid"] = "Player-580-080A5357",
@@ -3207,6 +3207,13 @@ RCLootCouncilDB = {
 					["class"] = "DEMONHUNTER",
 					["cache_time"] = 1609270202,
 					["realm"] = "Drak'thul",
+				},
+				["Player-1403-05A6F28E"] = {
+					["name"] = "Fandensjølv-Draenor",
+					["guid"] = "Player-1403-05A6F28E",
+					["class"] = "PALADIN",
+					["cache_time"] = 1608070341,
+					["realm"] = "Draenor",
 				},
 				["Player-1305-0B0DB016"] = {
 					["ilvl"] = 220.125,
@@ -3658,22 +3665,17 @@ RCLootCouncilDB = {
 				},
 			},
 		},
-		["oldVersion"] = "3.1.2",
+		["oldVersion"] = "3.1.4",
 		["verTestCandidates"] = {
 			["Kessmonk-Kazzak"] = {
 				"3.1.3", -- [1]
 				nil, -- [2]
 				1615151112, -- [3]
 			},
-			["Riworra-Kazzak"] = {
-				"3.1.4", -- [1]
+			["Mimóu-Kazzak"] = {
+				"3.1.5", -- [1]
 				nil, -- [2]
-				1615400659, -- [3]
-			},
-			["Magearñ-Kazzak"] = {
-				"3.1.4", -- [1]
-				nil, -- [2]
-				1615408639, -- [3]
+				1615672815, -- [3]
 			},
 			["Aruki-Kazzak"] = {
 				"3.1.4", -- [1]
@@ -3685,6 +3687,56 @@ RCLootCouncilDB = {
 				nil, -- [2]
 				1615397815, -- [3]
 			},
+			["Ceases-Kazzak"] = {
+				"3.1.4", -- [1]
+				nil, -- [2]
+				1615398552, -- [3]
+			},
+			["Kvaernp-Kazzak"] = {
+				"3.1.4", -- [1]
+				nil, -- [2]
+				1615409599, -- [3]
+			},
+			["Kessrogue-Kazzak"] = {
+				"3.1.3", -- [1]
+				nil, -- [2]
+				1615675742, -- [3]
+			},
+			["Ceasesdh-Kazzak"] = {
+				"3.1.4", -- [1]
+				nil, -- [2]
+				1615672815, -- [3]
+			},
+			["Soulshuffle-Kazzak"] = {
+				"3.1.4", -- [1]
+				nil, -- [2]
+				1615675741, -- [3]
+			},
+			["Magearñ-Kazzak"] = {
+				"3.1.4", -- [1]
+				nil, -- [2]
+				1615408639, -- [3]
+			},
+			["Riworra-Kazzak"] = {
+				"3.1.4", -- [1]
+				nil, -- [2]
+				1615400659, -- [3]
+			},
+			["Zerolife-Kazzak"] = {
+				"3.1.1", -- [1]
+				nil, -- [2]
+				1615226603, -- [3]
+			},
+			["Memescoper-Kazzak"] = {
+				"3.1.4", -- [1]
+				nil, -- [2]
+				1615672815, -- [3]
+			},
+			["Tokzik-Kazzak"] = {
+				"3.1.4", -- [1]
+				nil, -- [2]
+				1615675741, -- [3]
+			},
 			["Snaxxie-Kazzak"] = {
 				"3.1.4", -- [1]
 				nil, -- [2]
@@ -3695,50 +3747,55 @@ RCLootCouncilDB = {
 				nil, -- [2]
 				1615318786, -- [3]
 			},
-			["Ceases-Kazzak"] = {
+			["Seksixeny-Kazzak"] = {
 				"3.1.4", -- [1]
 				nil, -- [2]
-				1615398552, -- [3]
+				1615675742, -- [3]
 			},
-			["Vapepe-Kazzak"] = {
+			["Boomerskon-Kazzak"] = {
 				"3.1.4", -- [1]
 				nil, -- [2]
-				1615143891, -- [3]
+				1615672815, -- [3]
+			},
+			["Sacraknight-Kazzak"] = {
+				"3.1.4", -- [1]
+				nil, -- [2]
+				1615675741, -- [3]
+			},
+			["Sanshee-Kazzak"] = {
+				"3.1.4", -- [1]
+				nil, -- [2]
+				1615675742, -- [3]
 			},
 			["Bevv-Kazzak"] = {
-				"3.1.4", -- [1]
+				"3.1.5", -- [1]
 				nil, -- [2]
-				1615403367, -- [3]
-			},
-			["Kvaernp-Kazzak"] = {
-				"3.1.4", -- [1]
-				nil, -- [2]
-				1615409599, -- [3]
+				1615675388, -- [3]
 			},
 			["Sanshot-Kazzak"] = {
 				"3.1.4", -- [1]
 				nil, -- [2]
 				1615139826, -- [3]
 			},
-			["Kessrogue-Kazzak"] = {
-				"3.1.3", -- [1]
+			["Vapepe-Kazzak"] = {
+				"3.1.4", -- [1]
 				nil, -- [2]
-				1615497380, -- [3]
+				1615143891, -- [3]
 			},
 			["Blorki-Kazzak"] = {
 				"3.1.4", -- [1]
 				nil, -- [2]
 				1615235197, -- [3]
 			},
-			["Zerolife-Kazzak"] = {
-				"3.1.1", -- [1]
+			["Tradushuffle-Kazzak"] = {
+				"3.1.4", -- [1]
 				nil, -- [2]
-				1615226603, -- [3]
+				1615675742, -- [3]
 			},
 		},
 		["regionID"] = 3,
 		["locale"] = "enUS",
-		["version"] = "3.1.4",
+		["version"] = "3.1.5",
 	},
 	["profileKeys"] = {
 		["Hunteraki - Frostmane"] = "Default",
@@ -3784,7 +3841,7 @@ RCLootCouncilDB = {
 		["Rentaki - Ravencrest"] = "Default",
 		["Takioblivion - Argent Dawn"] = "Default",
 		["Asdfasdfsaas - Kazzak"] = "Default",
-		["Rintake - Ragnaros"] = "Default",
+		["Takitestr - Kazzak"] = "Default",
 		["Asdfasfdas - Kazzak"] = "Default",
 		["Takipala - Ravencrest"] = "Default",
 		["Takimogaasd - Ravencrest"] = "Default",
@@ -3795,19 +3852,19 @@ RCLootCouncilDB = {
 		["Takii - Frostmane"] = "Default",
 		["Ivelea - Argent Dawn"] = "Default",
 		["Rentakidh - Argent Dawn"] = "Default",
-		["Takidin - Kazzak"] = "Default",
+		["Nyumi - Argent Dawn"] = "Default",
 		["Thaaeyn - Argent Dawn"] = "Default",
 		["Rentaki - Kazzak"] = "Default",
-		["Huntaki - Ravencrest"] = "Default",
+		["Takidin - Kazzak"] = "Default",
 		["Takigalywix - Aegwynn"] = "Default",
 		["Takimogaa - Ravencrest"] = "Default",
-		["Nyumi - Argent Dawn"] = "Default",
+		["Huntaki - Ravencrest"] = "Default",
 		["Rentakigold - Blackmoore"] = "Default",
 		["Rendudu - Kazzak"] = "Default",
 		["Rentakigold - Twisting Nether"] = "Default",
 		["Takidk - Kazzak"] = "Default",
 		["Takiragtwo - Kazzak"] = "Default",
-		["Takitestr - Kazzak"] = "Default",
+		["Rintake - Ragnaros"] = "Default",
 		["Takiragthree - Kazzak"] = "Default",
 		["Takitest - Ravencrest"] = "Default",
 		["Rintake - Argent Dawn"] = "Default",
@@ -4006,7 +4063,7 @@ RCLootCouncilLootDB = {
 		["Rentaki - Ravencrest"] = "Rentaki - Ravencrest",
 		["Takioblivion - Argent Dawn"] = "Takioblivion - Argent Dawn",
 		["Asdfasdfsaas - Kazzak"] = "Asdfasdfsaas - Kazzak",
-		["Rintake - Ragnaros"] = "Rintake - Ragnaros",
+		["Takitestr - Kazzak"] = "Takitestr - Kazzak",
 		["Asdfasfdas - Kazzak"] = "Asdfasfdas - Kazzak",
 		["Takipala - Ravencrest"] = "Takipala - Ravencrest",
 		["Takimogaasd - Ravencrest"] = "Takimogaasd - Ravencrest",
@@ -4017,19 +4074,19 @@ RCLootCouncilLootDB = {
 		["Takii - Frostmane"] = "Takii - Frostmane",
 		["Ivelea - Argent Dawn"] = "Ivelea - Argent Dawn",
 		["Rentakidh - Argent Dawn"] = "Rentakidh - Argent Dawn",
-		["Takidin - Kazzak"] = "Takidin - Kazzak",
+		["Nyumi - Argent Dawn"] = "Nyumi - Argent Dawn",
 		["Thaaeyn - Argent Dawn"] = "Thaaeyn - Argent Dawn",
 		["Rentaki - Kazzak"] = "Rentaki - Kazzak",
-		["Huntaki - Ravencrest"] = "Huntaki - Ravencrest",
+		["Takidin - Kazzak"] = "Takidin - Kazzak",
 		["Takigalywix - Aegwynn"] = "Takigalywix - Aegwynn",
 		["Takimogaa - Ravencrest"] = "Takimogaa - Ravencrest",
-		["Nyumi - Argent Dawn"] = "Nyumi - Argent Dawn",
+		["Huntaki - Ravencrest"] = "Huntaki - Ravencrest",
 		["Rentakigold - Blackmoore"] = "Rentakigold - Blackmoore",
 		["Rendudu - Kazzak"] = "Rendudu - Kazzak",
 		["Rentakigold - Twisting Nether"] = "Rentakigold - Twisting Nether",
 		["Takidk - Kazzak"] = "Takidk - Kazzak",
 		["Takiragtwo - Kazzak"] = "Takiragtwo - Kazzak",
-		["Takitestr - Kazzak"] = "Takitestr - Kazzak",
+		["Rintake - Ragnaros"] = "Rintake - Ragnaros",
 		["Takiragthree - Kazzak"] = "Takiragthree - Kazzak",
 		["Takitest - Ravencrest"] = "Takitest - Ravencrest",
 		["Rintake - Argent Dawn"] = "Rintake - Argent Dawn",
@@ -4040,52 +4097,52 @@ RCLootCouncilLootDB = {
 		["Horde - Kazzak"] = {
 			["Brunitzzdh-Kazzak"] = {
 				{
+					["id"] = "1548517592-7",
+					["mapID"] = 1841,
+					["response"] = "Personal Loot - Non tradeable",
+					["isAwardReason"] = false,
+					["date"] = "26/01/19",
+					["class"] = "DEMONHUNTER",
+					["iSubClass"] = 0,
+					["groupSize"] = 5,
+					["difficultyID"] = 8,
+					["boss"] = "Unbound Abomination",
+					["time"] = "17:46:32",
+					["iClass"] = 4,
+					["lootWon"] = "|cffa335ee|Hitem:159463::::::::120:263::16:3:5010:1557:4786:::|h[Loop of Pulsing Veins]|h|r",
+					["responseID"] = "PL",
 					["color"] = {
 						1, -- [1]
 						0.6, -- [2]
 						0, -- [3]
 						1, -- [4]
 					},
-					["mapID"] = 1841,
-					["groupSize"] = 5,
-					["isAwardReason"] = false,
-					["id"] = "1548517592-7",
-					["class"] = "DEMONHUNTER",
-					["iSubClass"] = 0,
-					["response"] = "Personal Loot - Non tradeable",
-					["boss"] = "Unbound Abomination",
-					["difficultyID"] = 8,
-					["lootWon"] = "|cffa335ee|Hitem:159463::::::::120:263::16:3:5010:1557:4786:::|h[Loop of Pulsing Veins]|h|r",
-					["iClass"] = 4,
-					["time"] = "17:46:32",
-					["responseID"] = "PL",
 					["instance"] = "The Underrot-Mythic Keystone",
-					["date"] = "26/01/19",
 				}, -- [1]
 			},
 			["Maville-Kazzak"] = {
 				{
-					["instance"] = "The Underrot-Mythic Keystone",
-					["mapID"] = 1841,
-					["groupSize"] = 5,
-					["isAwardReason"] = false,
 					["id"] = "1547493783-0",
-					["class"] = "MAGE",
-					["iSubClass"] = 1,
+					["mapID"] = 1841,
 					["response"] = "Personal Loot - Non tradeable",
-					["boss"] = "Unbound Abomination",
-					["difficultyID"] = 8,
-					["lootWon"] = "|cffa335ee|Hitem:159292::::::::120:64::16:3:5010:1562:4784:::|h[Sporecaller's Shroud]|h|r",
-					["iClass"] = 4,
-					["time"] = "21:23:03",
-					["responseID"] = "PL",
-					["date"] = "14/01/19",
+					["isAwardReason"] = false,
 					["color"] = {
 						1, -- [1]
 						0.6, -- [2]
 						0, -- [3]
 						1, -- [4]
 					},
+					["class"] = "MAGE",
+					["iSubClass"] = 1,
+					["groupSize"] = 5,
+					["difficultyID"] = 8,
+					["boss"] = "Unbound Abomination",
+					["time"] = "21:23:03",
+					["iClass"] = 4,
+					["lootWon"] = "|cffa335ee|Hitem:159292::::::::120:64::16:3:5010:1562:4784:::|h[Sporecaller's Shroud]|h|r",
+					["responseID"] = "PL",
+					["instance"] = "The Underrot-Mythic Keystone",
+					["date"] = "14/01/19",
 				}, -- [1]
 			},
 			["Frawztie-Kazzak"] = {
@@ -6884,7 +6941,7 @@ RCLootCouncilLootDB = {
 					["iClass"] = 4,
 					["itemReplaced1"] = "|cffa335ee|Hitem:180116::::::::60:65::35:5:7213:6652:1501:5884:6646::::|h[Overcharged Anima Battery]|h|r",
 					["votes"] = 2,
-					["instance"] = "Castle Nathria-Mythic",
+					["typeCode"] = "default",
 					["owner"] = "Bevv-Kazzak",
 					["id"] = "1610569205-27",
 					["response"] = "Need BIS",
@@ -6900,7 +6957,7 @@ RCLootCouncilLootDB = {
 					["isAwardReason"] = false,
 					["responseID"] = 1,
 					["itemReplaced2"] = "|cffa335ee|Hitem:184027::::::::60:65::84:4:7188:6652:1485:6646:1:28:752:::|h[Stone Legion Heraldry]|h|r",
-					["typeCode"] = "default",
+					["instance"] = "Castle Nathria-Mythic",
 				}, -- [24]
 				{
 					["mapID"] = 2296,
@@ -7217,27 +7274,27 @@ RCLootCouncilLootDB = {
 			},
 			["Checkyy-Kazzak"] = {
 				{
-					["date"] = "01/11/18",
-					["mapID"] = 1861,
-					["response"] = "Personal Loot - Non tradeable",
-					["isAwardReason"] = false,
 					["id"] = "1541099497-15",
+					["mapID"] = 1861,
+					["groupSize"] = 20,
+					["isAwardReason"] = false,
+					["instance"] = "Uldir-Mythic",
 					["class"] = "DEATHKNIGHT",
 					["iSubClass"] = 4,
-					["groupSize"] = 20,
-					["boss"] = "Vectis",
+					["response"] = "Personal Loot - Non tradeable",
 					["difficultyID"] = 16,
-					["lootWon"] = "|cffa335ee|Hitem:160636::::::::120:268::6:3:4824:1507:4786:::|h[Chestguard of Virulent Mutagens]|h|r",
-					["iClass"] = 4,
+					["boss"] = "Vectis",
 					["time"] = "21:11:37",
+					["iClass"] = 4,
+					["lootWon"] = "|cffa335ee|Hitem:160636::::::::120:268::6:3:4824:1507:4786:::|h[Chestguard of Virulent Mutagens]|h|r",
 					["responseID"] = "PL",
+					["date"] = "01/11/18",
 					["color"] = {
 						1, -- [1]
 						0.6, -- [2]
 						0, -- [3]
 						1, -- [4]
 					},
-					["instance"] = "Uldir-Mythic",
 				}, -- [1]
 			},
 			["Matumbaa-Kazzak"] = {
@@ -7267,27 +7324,27 @@ RCLootCouncilLootDB = {
 					},
 				}, -- [1]
 				{
+					["id"] = "1543515935-4",
+					["mapID"] = 1861,
+					["response"] = "Personal Loot - Non tradeable",
+					["isAwardReason"] = false,
+					["date"] = "29/11/18",
+					["class"] = "ROGUE",
+					["iSubClass"] = 0,
+					["groupSize"] = 20,
+					["difficultyID"] = 16,
+					["boss"] = "MOTHER",
+					["time"] = "20:25:35",
+					["iClass"] = 4,
+					["lootWon"] = "|cffa335ee|Hitem:160645::::::::120:265::6:4:4800:1808:1517:4783:::|h[Rot-Scour Ring]|h|r",
+					["responseID"] = "PL",
 					["color"] = {
 						1, -- [1]
 						0.6, -- [2]
 						0, -- [3]
 						1, -- [4]
 					},
-					["mapID"] = 1861,
-					["groupSize"] = 20,
-					["isAwardReason"] = false,
-					["id"] = "1543515935-4",
-					["class"] = "ROGUE",
-					["iSubClass"] = 0,
-					["response"] = "Personal Loot - Non tradeable",
-					["boss"] = "MOTHER",
-					["difficultyID"] = 16,
-					["lootWon"] = "|cffa335ee|Hitem:160645::::::::120:265::6:4:4800:1808:1517:4783:::|h[Rot-Scour Ring]|h|r",
-					["iClass"] = 4,
-					["time"] = "20:25:35",
-					["responseID"] = "PL",
 					["instance"] = "Uldir-Mythic",
-					["date"] = "29/11/18",
 				}, -- [2]
 				{
 					["mapID"] = 1861,
@@ -7315,50 +7372,50 @@ RCLootCouncilLootDB = {
 					["instance"] = "Uldir-Mythic",
 				}, -- [3]
 				{
-					["instance"] = "Uldir-Mythic",
-					["mapID"] = 1861,
-					["groupSize"] = 20,
-					["isAwardReason"] = false,
 					["id"] = "1545337779-25",
+					["mapID"] = 1861,
+					["response"] = "Personal Loot - Non tradeable",
+					["isAwardReason"] = false,
+					["color"] = {
+						1, -- [1]
+						0.6, -- [2]
+						0, -- [3]
+						1, -- [4]
+					},
 					["class"] = "ROGUE",
 					["iSubClass"] = 15,
-					["response"] = "Personal Loot - Non tradeable",
-					["boss"] = "Zul",
-					["difficultyID"] = 16,
-					["lootWon"] = "|cffa335ee|Hitem:160684::::::::120:268::6:4:4800:40:1517:4783:::|h[Pursax, the Backborer]|h|r",
-					["iClass"] = 2,
-					["time"] = "22:29:39",
-					["responseID"] = "PL",
-					["date"] = "20/12/18",
-					["color"] = {
-						1, -- [1]
-						0.6, -- [2]
-						0, -- [3]
-						1, -- [4]
-					},
-				}, -- [4]
-				{
-					["color"] = {
-						1, -- [1]
-						0.6, -- [2]
-						0, -- [3]
-						1, -- [4]
-					},
-					["mapID"] = 1861,
-					["response"] = "Personal Loot - Non tradeable",
-					["isAwardReason"] = false,
-					["id"] = "1547143531-0",
-					["class"] = "ROGUE",
-					["iSubClass"] = 2,
 					["groupSize"] = 20,
-					["boss"] = "Taloc",
 					["difficultyID"] = 16,
-					["lootWon"] = "|cffa335ee|Hitem:160622::::::::120:268::6:3:4800:1517:4783:::|h[Bloodstorm Buckle]|h|r",
-					["iClass"] = 4,
-					["time"] = "20:05:31",
+					["boss"] = "Zul",
+					["time"] = "22:29:39",
+					["iClass"] = 2,
+					["lootWon"] = "|cffa335ee|Hitem:160684::::::::120:268::6:4:4800:40:1517:4783:::|h[Pursax, the Backborer]|h|r",
 					["responseID"] = "PL",
 					["instance"] = "Uldir-Mythic",
+					["date"] = "20/12/18",
+				}, -- [4]
+				{
+					["id"] = "1547143531-0",
+					["mapID"] = 1861,
+					["groupSize"] = 20,
+					["isAwardReason"] = false,
 					["date"] = "10/01/19",
+					["class"] = "ROGUE",
+					["iSubClass"] = 2,
+					["response"] = "Personal Loot - Non tradeable",
+					["difficultyID"] = 16,
+					["boss"] = "Taloc",
+					["time"] = "20:05:31",
+					["iClass"] = 4,
+					["lootWon"] = "|cffa335ee|Hitem:160622::::::::120:268::6:3:4800:1517:4783:::|h[Bloodstorm Buckle]|h|r",
+					["responseID"] = "PL",
+					["color"] = {
+						1, -- [1]
+						0.6, -- [2]
+						0, -- [3]
+						1, -- [4]
+					},
+					["instance"] = "Uldir-Mythic",
 				}, -- [5]
 			},
 			["Vapee-Kazzak"] = {
@@ -7779,50 +7836,50 @@ RCLootCouncilLootDB = {
 			},
 			["Takimage-Kazzak"] = {
 				{
-					["color"] = {
-						1, -- [1]
-						0.6, -- [2]
-						0, -- [3]
-						1, -- [4]
-					},
-					["mapID"] = 1771,
-					["response"] = "Personal Loot - Non tradeable",
-					["isAwardReason"] = false,
 					["id"] = "1541900236-1",
+					["mapID"] = 1771,
+					["groupSize"] = 5,
+					["isAwardReason"] = false,
+					["date"] = "11/11/18",
 					["class"] = "MAGE",
 					["iSubClass"] = 10,
-					["groupSize"] = 5,
-					["boss"] = "Overseer Korgus",
+					["response"] = "Personal Loot - Non tradeable",
 					["difficultyID"] = 8,
-					["lootWon"] = "|cffa335ee|Hitem:159129::::::::120:268::16:3:5010:1542:4786:::|h[Flamecaster Botefeux]|h|r",
-					["iClass"] = 2,
+					["boss"] = "Overseer Korgus",
 					["time"] = "03:37:16",
+					["iClass"] = 2,
+					["lootWon"] = "|cffa335ee|Hitem:159129::::::::120:268::16:3:5010:1542:4786:::|h[Flamecaster Botefeux]|h|r",
 					["responseID"] = "PL",
-					["instance"] = "Tol Dagor-Mythic Keystone",
-					["date"] = "11/11/18",
-				}, -- [1]
-				{
 					["color"] = {
 						1, -- [1]
 						0.6, -- [2]
 						0, -- [3]
 						1, -- [4]
 					},
-					["mapID"] = 2070,
+					["instance"] = "Tol Dagor-Mythic Keystone",
+				}, -- [1]
+				{
 					["id"] = "1548540653-1",
-					["isAwardReason"] = false,
+					["mapID"] = 2070,
 					["date"] = "27/01/19",
+					["isAwardReason"] = false,
+					["instance"] = "Battle of Dazar'alor-Heroic",
 					["class"] = "MAGE",
 					["iSubClass"] = 0,
-					["response"] = "Personal Loot - Non tradeable",
-					["difficultyID"] = 15,
-					["boss"] = "Jadefire Masters",
-					["time"] = "00:10:53",
-					["iClass"] = 4,
-					["lootWon"] = "|cffa335ee|Hitem:165565::::::::120:102::5:4:4799:40:1522:4786:::|h[Band of Multi-Sided Strikes]|h|r",
-					["responseID"] = "PL",
 					["groupSize"] = 10,
-					["instance"] = "Battle of Dazar'alor-Heroic",
+					["boss"] = "Jadefire Masters",
+					["difficultyID"] = 15,
+					["lootWon"] = "|cffa335ee|Hitem:165565::::::::120:102::5:4:4799:40:1522:4786:::|h[Band of Multi-Sided Strikes]|h|r",
+					["iClass"] = 4,
+					["time"] = "00:10:53",
+					["responseID"] = "PL",
+					["response"] = "Personal Loot - Non tradeable",
+					["color"] = {
+						1, -- [1]
+						0.6, -- [2]
+						0, -- [3]
+						1, -- [4]
+					},
 				}, -- [2]
 			},
 			["Synthium-Kazzak"] = {
@@ -7906,27 +7963,27 @@ RCLootCouncilLootDB = {
 			},
 			["Biggiehunt-Kazzak"] = {
 				{
-					["instance"] = "Uldir-Mythic",
-					["mapID"] = 1861,
-					["groupSize"] = 20,
-					["isAwardReason"] = false,
 					["id"] = "1541096817-3",
-					["class"] = "HUNTER",
-					["iSubClass"] = 3,
+					["mapID"] = 1861,
 					["response"] = "Personal Loot - Non tradeable",
-					["boss"] = "MOTHER",
-					["difficultyID"] = 16,
-					["lootWon"] = "|cffa335ee|Hitem:160632::::::::120:268::6:3:4824:1507:4786:::|h[Flame-Sterilized Spaulders]|h|r",
-					["iClass"] = 4,
-					["time"] = "20:26:57",
-					["responseID"] = "PL",
-					["date"] = "01/11/18",
+					["isAwardReason"] = false,
 					["color"] = {
 						1, -- [1]
 						0.6, -- [2]
 						0, -- [3]
 						1, -- [4]
 					},
+					["class"] = "HUNTER",
+					["iSubClass"] = 3,
+					["groupSize"] = 20,
+					["difficultyID"] = 16,
+					["boss"] = "MOTHER",
+					["time"] = "20:26:57",
+					["iClass"] = 4,
+					["lootWon"] = "|cffa335ee|Hitem:160632::::::::120:268::6:3:4824:1507:4786:::|h[Flame-Sterilized Spaulders]|h|r",
+					["responseID"] = "PL",
+					["instance"] = "Uldir-Mythic",
+					["date"] = "01/11/18",
 				}, -- [1]
 				{
 					["mapID"] = 1861,
@@ -8007,27 +8064,27 @@ RCLootCouncilLootDB = {
 					["isAwardReason"] = false,
 				}, -- [4]
 				{
+					["id"] = "1542309384-0",
+					["mapID"] = 1861,
+					["groupSize"] = 20,
+					["isAwardReason"] = false,
+					["date"] = "15/11/18",
+					["class"] = "HUNTER",
+					["iSubClass"] = 2,
+					["response"] = "Personal Loot - Non tradeable",
+					["difficultyID"] = 16,
+					["boss"] = "Unknown",
+					["time"] = "21:16:24",
+					["iClass"] = 15,
+					["lootWon"] = "|cff0070dd|Hitem:103670::::::::120:268::11::::|h[Lil' Bling]|h|r",
+					["responseID"] = "PL",
 					["color"] = {
 						1, -- [1]
 						0.6, -- [2]
 						0, -- [3]
 						1, -- [4]
 					},
-					["mapID"] = 1861,
-					["response"] = "Personal Loot - Non tradeable",
-					["isAwardReason"] = false,
-					["id"] = "1542309384-0",
-					["class"] = "HUNTER",
-					["iSubClass"] = 2,
-					["groupSize"] = 20,
-					["boss"] = "Unknown",
-					["difficultyID"] = 16,
-					["lootWon"] = "|cff0070dd|Hitem:103670::::::::120:268::11::::|h[Lil' Bling]|h|r",
-					["iClass"] = 15,
-					["time"] = "21:16:24",
-					["responseID"] = "PL",
 					["instance"] = "Uldir-Mythic",
-					["date"] = "15/11/18",
 				}, -- [5]
 				{
 					["mapID"] = 1861,
@@ -8159,234 +8216,234 @@ RCLootCouncilLootDB = {
 					["id"] = "1544725832-6",
 				}, -- [2]
 				{
-					["instance"] = "Uldir-Mythic",
-					["mapID"] = 1861,
-					["groupSize"] = 20,
-					["isAwardReason"] = false,
 					["id"] = "1544727957-11",
+					["mapID"] = 1861,
+					["response"] = "Personal Loot - Non tradeable",
+					["isAwardReason"] = false,
+					["color"] = {
+						1, -- [1]
+						0.6, -- [2]
+						0, -- [3]
+						1, -- [4]
+					},
 					["class"] = "DRUID",
 					["iSubClass"] = 10,
-					["response"] = "Personal Loot - Non tradeable",
-					["boss"] = "Fetid Devourer",
+					["groupSize"] = 20,
 					["difficultyID"] = 16,
-					["lootWon"] = "|cffa335ee|Hitem:160689::::::::120:268::6:3:4800:1507:4786:::|h[Regurgitated Purifier's Flamestaff]|h|r",
-					["iClass"] = 2,
+					["boss"] = "Fetid Devourer",
 					["time"] = "21:05:57",
+					["iClass"] = 2,
+					["lootWon"] = "|cffa335ee|Hitem:160689::::::::120:268::6:3:4800:1507:4786:::|h[Regurgitated Purifier's Flamestaff]|h|r",
 					["responseID"] = "PL",
+					["instance"] = "Uldir-Mythic",
 					["date"] = "13/12/18",
-					["color"] = {
-						1, -- [1]
-						0.6, -- [2]
-						0, -- [3]
-						1, -- [4]
-					},
 				}, -- [3]
 				{
+					["id"] = "1544735279-22",
+					["mapID"] = 1861,
+					["date"] = "13/12/18",
+					["isAwardReason"] = false,
+					["instance"] = "Uldir-Mythic",
+					["class"] = "DRUID",
+					["iSubClass"] = 0,
+					["groupSize"] = 20,
+					["boss"] = "Mythrax",
+					["difficultyID"] = 16,
+					["lootWon"] = "|cffa335ee|Hitem:160646::::::::120:268::6:3:4800:1512:4783:::|h[Band of Certain Annihilation]|h|r",
+					["iClass"] = 4,
+					["time"] = "23:07:59",
+					["responseID"] = "PL",
+					["response"] = "Personal Loot - Non tradeable",
 					["color"] = {
 						1, -- [1]
 						0.6, -- [2]
 						0, -- [3]
 						1, -- [4]
 					},
-					["mapID"] = 1861,
-					["id"] = "1544735279-22",
-					["isAwardReason"] = false,
-					["date"] = "13/12/18",
-					["class"] = "DRUID",
-					["iSubClass"] = 0,
-					["response"] = "Personal Loot - Non tradeable",
-					["difficultyID"] = 16,
-					["boss"] = "Mythrax",
-					["time"] = "23:07:59",
-					["iClass"] = 4,
-					["lootWon"] = "|cffa335ee|Hitem:160646::::::::120:268::6:3:4800:1512:4783:::|h[Band of Certain Annihilation]|h|r",
-					["responseID"] = "PL",
-					["groupSize"] = 20,
-					["instance"] = "Uldir-Mythic",
 				}, -- [4]
 				{
-					["instance"] = "Firelands-10 Player",
-					["mapID"] = 720,
 					["id"] = "1547081124-0",
-					["isAwardReason"] = false,
+					["mapID"] = 720,
 					["color"] = {
 						1, -- [1]
 						0.6, -- [2]
 						0, -- [3]
 						1, -- [4]
 					},
+					["isAwardReason"] = false,
+					["date"] = "10/01/19",
 					["class"] = "DRUID",
 					["iSubClass"] = 0,
-					["response"] = "Personal Loot - Non tradeable",
-					["difficultyID"] = 3,
-					["boss"] = "Shannox",
-					["time"] = "02:45:24",
-					["iClass"] = 2,
-					["lootWon"] = "|cffa335ee|Hitem:71776::::::::120:263::::::|h[Eye of Purification]|h|r",
-					["responseID"] = "PL",
 					["groupSize"] = 10,
-					["date"] = "10/01/19",
+					["boss"] = "Shannox",
+					["difficultyID"] = 3,
+					["lootWon"] = "|cffa335ee|Hitem:71776::::::::120:263::::::|h[Eye of Purification]|h|r",
+					["iClass"] = 2,
+					["time"] = "02:45:24",
+					["responseID"] = "PL",
+					["response"] = "Personal Loot - Non tradeable",
+					["instance"] = "Firelands-10 Player",
 				}, -- [5]
 				{
-					["instance"] = "Firelands-10 Player",
-					["mapID"] = 720,
 					["id"] = "1547081495-3",
-					["isAwardReason"] = false,
+					["mapID"] = 720,
 					["color"] = {
 						1, -- [1]
 						0.6, -- [2]
 						0, -- [3]
 						1, -- [4]
 					},
+					["isAwardReason"] = false,
+					["date"] = "10/01/19",
 					["class"] = "DRUID",
 					["iSubClass"] = 8,
-					["response"] = "Personal Loot - Non tradeable",
-					["difficultyID"] = 3,
-					["boss"] = "Majordomo Staghelm",
-					["time"] = "02:51:35",
-					["iClass"] = 0,
-					["lootWon"] = "|cff1eff00|Hitem:94604::::::::120:263::::::|h[Burning Seed]|h|r",
-					["responseID"] = "PL",
 					["groupSize"] = 10,
-					["date"] = "10/01/19",
+					["boss"] = "Majordomo Staghelm",
+					["difficultyID"] = 3,
+					["lootWon"] = "|cff1eff00|Hitem:94604::::::::120:263::::::|h[Burning Seed]|h|r",
+					["iClass"] = 0,
+					["time"] = "02:51:35",
+					["responseID"] = "PL",
+					["response"] = "Personal Loot - Non tradeable",
+					["instance"] = "Firelands-10 Player",
 				}, -- [6]
 				{
-					["instance"] = "Firelands-10 Player",
-					["mapID"] = 720,
 					["id"] = "1547081541-4",
-					["isAwardReason"] = false,
+					["mapID"] = 720,
 					["color"] = {
 						1, -- [1]
 						0.6, -- [2]
 						0, -- [3]
 						1, -- [4]
 					},
+					["isAwardReason"] = false,
+					["date"] = "10/01/19",
 					["class"] = "DRUID",
 					["iSubClass"] = 8,
-					["response"] = "Personal Loot - Non tradeable",
-					["difficultyID"] = 3,
-					["boss"] = "Majordomo Staghelm",
-					["time"] = "02:52:21",
-					["iClass"] = 0,
-					["lootWon"] = "|cff1eff00|Hitem:94604::::::::120:263::::::|h[Burning Seed]|h|r",
-					["responseID"] = "PL",
 					["groupSize"] = 10,
-					["date"] = "10/01/19",
+					["boss"] = "Majordomo Staghelm",
+					["difficultyID"] = 3,
+					["lootWon"] = "|cff1eff00|Hitem:94604::::::::120:263::::::|h[Burning Seed]|h|r",
+					["iClass"] = 0,
+					["time"] = "02:52:21",
+					["responseID"] = "PL",
+					["response"] = "Personal Loot - Non tradeable",
+					["instance"] = "Firelands-10 Player",
 				}, -- [7]
 				{
-					["instance"] = "Firelands-10 Player",
-					["mapID"] = 720,
 					["id"] = "1547081543-5",
-					["isAwardReason"] = false,
+					["mapID"] = 720,
 					["color"] = {
 						1, -- [1]
 						0.6, -- [2]
 						0, -- [3]
 						1, -- [4]
 					},
+					["isAwardReason"] = false,
+					["date"] = "10/01/19",
 					["class"] = "DRUID",
 					["iSubClass"] = 8,
-					["response"] = "Personal Loot - Non tradeable",
-					["difficultyID"] = 3,
-					["boss"] = "Majordomo Staghelm",
-					["time"] = "02:52:23",
-					["iClass"] = 0,
-					["lootWon"] = "|cff1eff00|Hitem:94604::::::::120:263::::::|h[Burning Seed]|h|r",
-					["responseID"] = "PL",
 					["groupSize"] = 10,
-					["date"] = "10/01/19",
+					["boss"] = "Majordomo Staghelm",
+					["difficultyID"] = 3,
+					["lootWon"] = "|cff1eff00|Hitem:94604::::::::120:263::::::|h[Burning Seed]|h|r",
+					["iClass"] = 0,
+					["time"] = "02:52:23",
+					["responseID"] = "PL",
+					["response"] = "Personal Loot - Non tradeable",
+					["instance"] = "Firelands-10 Player",
 				}, -- [8]
 				{
-					["instance"] = "Broken Isles-",
-					["mapID"] = 1220,
 					["id"] = "1547081584-6",
-					["isAwardReason"] = false,
+					["mapID"] = 1220,
 					["color"] = {
 						1, -- [1]
 						0.6, -- [2]
 						0, -- [3]
 						1, -- [4]
 					},
+					["isAwardReason"] = false,
+					["date"] = "10/01/19",
 					["class"] = "DRUID",
 					["iSubClass"] = 8,
-					["response"] = "Personal Loot - Non tradeable",
-					["difficultyID"] = 0,
-					["boss"] = "Majordomo Staghelm",
-					["time"] = "02:53:04",
-					["iClass"] = 0,
-					["lootWon"] = "|cff1eff00|Hitem:94604::::::::120:263::::::|h[Burning Seed]|h|r",
-					["responseID"] = "PL",
 					["groupSize"] = 0,
-					["date"] = "10/01/19",
+					["boss"] = "Majordomo Staghelm",
+					["difficultyID"] = 0,
+					["lootWon"] = "|cff1eff00|Hitem:94604::::::::120:263::::::|h[Burning Seed]|h|r",
+					["iClass"] = 0,
+					["time"] = "02:53:04",
+					["responseID"] = "PL",
+					["response"] = "Personal Loot - Non tradeable",
+					["instance"] = "Broken Isles-",
 				}, -- [9]
 				{
-					["instance"] = "Zandalar-",
-					["mapID"] = 1642,
 					["id"] = "1547081743-7",
-					["isAwardReason"] = false,
+					["mapID"] = 1642,
 					["color"] = {
 						1, -- [1]
 						0.6, -- [2]
 						0, -- [3]
 						1, -- [4]
 					},
+					["isAwardReason"] = false,
+					["date"] = "10/01/19",
 					["class"] = "DRUID",
 					["iSubClass"] = 0,
-					["response"] = "Personal Loot - Non tradeable",
-					["difficultyID"] = 0,
-					["boss"] = "Majordomo Staghelm",
-					["time"] = "02:55:43",
-					["iClass"] = 15,
-					["lootWon"] = "|cffa335ee|Hitem:71675::::::::120:263::::::|h[Helm of the Fiery Conqueror]|h|r",
-					["responseID"] = "PL",
 					["groupSize"] = 0,
-					["date"] = "10/01/19",
+					["boss"] = "Majordomo Staghelm",
+					["difficultyID"] = 0,
+					["lootWon"] = "|cffa335ee|Hitem:71675::::::::120:263::::::|h[Helm of the Fiery Conqueror]|h|r",
+					["iClass"] = 15,
+					["time"] = "02:55:43",
+					["responseID"] = "PL",
+					["response"] = "Personal Loot - Non tradeable",
+					["instance"] = "Zandalar-",
 				}, -- [10]
 				{
-					["instance"] = "Zandalar-",
-					["mapID"] = 1642,
 					["id"] = "1547081743-8",
-					["isAwardReason"] = false,
+					["mapID"] = 1642,
 					["color"] = {
 						1, -- [1]
 						0.6, -- [2]
 						0, -- [3]
 						1, -- [4]
 					},
+					["isAwardReason"] = false,
+					["date"] = "10/01/19",
 					["class"] = "DRUID",
 					["iSubClass"] = 0,
-					["response"] = "Personal Loot - Non tradeable",
-					["difficultyID"] = 0,
-					["boss"] = "Majordomo Staghelm",
-					["time"] = "02:55:43",
-					["iClass"] = 15,
-					["lootWon"] = "|cffa335ee|Hitem:71668::::::::120:263::::::|h[Helm of the Fiery Vanquisher]|h|r",
-					["responseID"] = "PL",
 					["groupSize"] = 0,
-					["date"] = "10/01/19",
+					["boss"] = "Majordomo Staghelm",
+					["difficultyID"] = 0,
+					["lootWon"] = "|cffa335ee|Hitem:71668::::::::120:263::::::|h[Helm of the Fiery Vanquisher]|h|r",
+					["iClass"] = 15,
+					["time"] = "02:55:43",
+					["responseID"] = "PL",
+					["response"] = "Personal Loot - Non tradeable",
+					["instance"] = "Zandalar-",
 				}, -- [11]
 				{
-					["instance"] = "Zandalar-",
-					["mapID"] = 1642,
 					["id"] = "1547081744-9",
-					["isAwardReason"] = false,
+					["mapID"] = 1642,
 					["color"] = {
 						1, -- [1]
 						0.6, -- [2]
 						0, -- [3]
 						1, -- [4]
 					},
+					["isAwardReason"] = false,
+					["date"] = "10/01/19",
 					["class"] = "DRUID",
 					["iSubClass"] = 0,
-					["response"] = "Personal Loot - Non tradeable",
-					["difficultyID"] = 0,
-					["boss"] = "Majordomo Staghelm",
-					["time"] = "02:55:44",
-					["iClass"] = 15,
-					["lootWon"] = "|cffa335ee|Hitem:71668::::::::120:263::::::|h[Helm of the Fiery Vanquisher]|h|r",
-					["responseID"] = "PL",
 					["groupSize"] = 0,
-					["date"] = "10/01/19",
+					["boss"] = "Majordomo Staghelm",
+					["difficultyID"] = 0,
+					["lootWon"] = "|cffa335ee|Hitem:71668::::::::120:263::::::|h[Helm of the Fiery Vanquisher]|h|r",
+					["iClass"] = 15,
+					["time"] = "02:55:44",
+					["responseID"] = "PL",
+					["response"] = "Personal Loot - Non tradeable",
+					["instance"] = "Zandalar-",
 				}, -- [12]
 				{
 					["mapID"] = 1861,
@@ -8440,27 +8497,27 @@ RCLootCouncilLootDB = {
 					["date"] = "10/01/19",
 				}, -- [14]
 				{
-					["instance"] = "Uldir-Mythic",
-					["mapID"] = 1861,
-					["groupSize"] = 20,
-					["isAwardReason"] = false,
 					["id"] = "1547152280-26",
-					["class"] = "DRUID",
-					["iSubClass"] = 0,
+					["mapID"] = 1861,
 					["response"] = "Personal Loot - Non tradeable",
-					["boss"] = "Mythrax",
-					["difficultyID"] = 16,
-					["lootWon"] = "|cffa335ee|Hitem:160656::::::::120:268::6:4:4800:1808:1507:4786:::|h[Twitching Tentacle of Xalzaix]|h|r",
-					["iClass"] = 4,
-					["time"] = "22:31:20",
-					["responseID"] = "PL",
-					["date"] = "10/01/19",
+					["isAwardReason"] = false,
 					["color"] = {
 						1, -- [1]
 						0.6, -- [2]
 						0, -- [3]
 						1, -- [4]
 					},
+					["class"] = "DRUID",
+					["iSubClass"] = 0,
+					["groupSize"] = 20,
+					["difficultyID"] = 16,
+					["boss"] = "Mythrax",
+					["time"] = "22:31:20",
+					["iClass"] = 4,
+					["lootWon"] = "|cffa335ee|Hitem:160656::::::::120:268::6:4:4800:1808:1507:4786:::|h[Twitching Tentacle of Xalzaix]|h|r",
+					["responseID"] = "PL",
+					["instance"] = "Uldir-Mythic",
+					["date"] = "10/01/19",
 				}, -- [15]
 				{
 					["mapID"] = 1861,
@@ -8538,50 +8595,50 @@ RCLootCouncilLootDB = {
 					["instance"] = "Uldir-Mythic",
 				}, -- [18]
 				{
-					["instance"] = "Battle of Dazar'alor-Heroic",
-					["mapID"] = 2070,
-					["groupSize"] = 25,
-					["isAwardReason"] = false,
 					["id"] = "1548266442-3",
+					["mapID"] = 2070,
+					["response"] = "Personal Loot - Non tradeable",
+					["isAwardReason"] = false,
+					["color"] = {
+						1, -- [1]
+						0.6, -- [2]
+						0, -- [3]
+						1, -- [4]
+					},
 					["class"] = "DRUID",
 					["iSubClass"] = 2,
-					["response"] = "Personal Loot - Non tradeable",
-					["boss"] = "Champion of the Light",
+					["groupSize"] = 25,
 					["difficultyID"] = 15,
-					["lootWon"] = "|cffa335ee|Hitem:165514::::::::120:268::5:3:4799:1522:4786:::|h[Gloves of Spiritual Grace]|h|r",
-					["iClass"] = 4,
+					["boss"] = "Champion of the Light",
 					["time"] = "20:00:42",
+					["iClass"] = 4,
+					["lootWon"] = "|cffa335ee|Hitem:165514::::::::120:268::5:3:4799:1522:4786:::|h[Gloves of Spiritual Grace]|h|r",
 					["responseID"] = "PL",
+					["instance"] = "Battle of Dazar'alor-Heroic",
 					["date"] = "23/01/19",
-					["color"] = {
-						1, -- [1]
-						0.6, -- [2]
-						0, -- [3]
-						1, -- [4]
-					},
 				}, -- [19]
 				{
+					["id"] = "1548274385-25",
+					["mapID"] = 2070,
+					["date"] = "23/01/19",
+					["isAwardReason"] = false,
+					["instance"] = "Battle of Dazar'alor-Heroic",
+					["class"] = "DRUID",
+					["iSubClass"] = 1,
+					["groupSize"] = 26,
+					["boss"] = "Conclave of the Chosen",
+					["difficultyID"] = 15,
+					["lootWon"] = "|cffa335ee|Hitem:165512::::::::120:268::5:3:4799:1522:4786:::|h[Loa Exultant's Shroud]|h|r",
+					["iClass"] = 4,
+					["time"] = "22:13:05",
+					["responseID"] = "PL",
+					["response"] = "Personal Loot - Non tradeable",
 					["color"] = {
 						1, -- [1]
 						0.6, -- [2]
 						0, -- [3]
 						1, -- [4]
 					},
-					["mapID"] = 2070,
-					["id"] = "1548274385-25",
-					["isAwardReason"] = false,
-					["date"] = "23/01/19",
-					["class"] = "DRUID",
-					["iSubClass"] = 1,
-					["response"] = "Personal Loot - Non tradeable",
-					["difficultyID"] = 15,
-					["boss"] = "Conclave of the Chosen",
-					["time"] = "22:13:05",
-					["iClass"] = 4,
-					["lootWon"] = "|cffa335ee|Hitem:165512::::::::120:268::5:3:4799:1522:4786:::|h[Loa Exultant's Shroud]|h|r",
-					["responseID"] = "PL",
-					["groupSize"] = 26,
-					["instance"] = "Battle of Dazar'alor-Heroic",
 				}, -- [20]
 				{
 					["mapID"] = 2070,
@@ -8711,27 +8768,27 @@ RCLootCouncilLootDB = {
 			},
 			["Murimage-Kazzak"] = {
 				{
-					["instance"] = "Uldir-Heroic",
-					["mapID"] = 1861,
 					["id"] = "1541617625-2",
-					["isAwardReason"] = false,
+					["mapID"] = 1861,
 					["color"] = {
 						1, -- [1]
 						0.6, -- [2]
 						0, -- [3]
 						1, -- [4]
 					},
+					["isAwardReason"] = false,
+					["date"] = "07/11/18",
 					["class"] = "MAGE",
 					["iSubClass"] = 2,
-					["response"] = "Personal Loot - Non tradeable",
-					["difficultyID"] = 15,
-					["boss"] = "Zul",
-					["time"] = "21:07:05",
-					["iClass"] = 9,
-					["lootWon"] = "|cff1eff00|Hitem:162422::::::::120:251::5::::|h[Pattern: Embroidered Deep Sea Bag]|h|r",
-					["responseID"] = "PL",
 					["groupSize"] = 16,
-					["date"] = "07/11/18",
+					["boss"] = "Zul",
+					["difficultyID"] = 15,
+					["lootWon"] = "|cff1eff00|Hitem:162422::::::::120:251::5::::|h[Pattern: Embroidered Deep Sea Bag]|h|r",
+					["iClass"] = 9,
+					["time"] = "21:07:05",
+					["responseID"] = "PL",
+					["response"] = "Personal Loot - Non tradeable",
+					["instance"] = "Uldir-Heroic",
 				}, -- [1]
 			},
 			["Tokziklol-Kazzak"] = {
@@ -9454,98 +9511,98 @@ RCLootCouncilLootDB = {
 			},
 			["Khamun-TarrenMill"] = {
 				{
-					["instance"] = "Siege of Boralus-Mythic Keystone",
-					["mapID"] = 1822,
-					["groupSize"] = 5,
-					["isAwardReason"] = false,
 					["id"] = "1544455274-1",
-					["class"] = "SHAMAN",
-					["iSubClass"] = 3,
+					["mapID"] = 1822,
 					["response"] = "Personal Loot - Non tradeable",
-					["boss"] = "Viq'Goth",
-					["difficultyID"] = 8,
-					["lootWon"] = "|cffa335ee|Hitem:159379::::::::120:262::16:3:5010:1542:4786:::|h[Sure-Foot Sabatons]|h|r",
-					["iClass"] = 4,
-					["time"] = "17:21:14",
-					["responseID"] = "PL",
-					["date"] = "10/12/18",
+					["isAwardReason"] = false,
 					["color"] = {
 						1, -- [1]
 						0.6, -- [2]
 						0, -- [3]
 						1, -- [4]
 					},
+					["class"] = "SHAMAN",
+					["iSubClass"] = 3,
+					["groupSize"] = 5,
+					["difficultyID"] = 8,
+					["boss"] = "Viq'Goth",
+					["time"] = "17:21:14",
+					["iClass"] = 4,
+					["lootWon"] = "|cffa335ee|Hitem:159379::::::::120:262::16:3:5010:1542:4786:::|h[Sure-Foot Sabatons]|h|r",
+					["responseID"] = "PL",
+					["instance"] = "Siege of Boralus-Mythic Keystone",
+					["date"] = "10/12/18",
 				}, -- [1]
 			},
 			["Sapîn-Kazzak"] = {
 				{
-					["instance"] = "Uldir-Mythic",
-					["mapID"] = 1861,
-					["groupSize"] = 20,
-					["isAwardReason"] = false,
 					["id"] = "1541096816-2",
+					["mapID"] = 1861,
+					["response"] = "Personal Loot - Non tradeable",
+					["isAwardReason"] = false,
+					["color"] = {
+						1, -- [1]
+						0.6, -- [2]
+						0, -- [3]
+						1, -- [4]
+					},
 					["class"] = "SHAMAN",
 					["iSubClass"] = 0,
-					["response"] = "Personal Loot - Non tradeable",
-					["boss"] = "MOTHER",
+					["groupSize"] = 20,
 					["difficultyID"] = 16,
-					["lootWon"] = "|cffa335ee|Hitem:160645::::::::120:268::6:3:4800:1507:4786:::|h[Rot-Scour Ring]|h|r",
-					["iClass"] = 4,
+					["boss"] = "MOTHER",
 					["time"] = "20:26:56",
+					["iClass"] = 4,
+					["lootWon"] = "|cffa335ee|Hitem:160645::::::::120:268::6:3:4800:1507:4786:::|h[Rot-Scour Ring]|h|r",
 					["responseID"] = "PL",
+					["instance"] = "Uldir-Mythic",
 					["date"] = "01/11/18",
-					["color"] = {
-						1, -- [1]
-						0.6, -- [2]
-						0, -- [3]
-						1, -- [4]
-					},
 				}, -- [1]
 				{
-					["date"] = "01/11/18",
-					["mapID"] = 1861,
-					["response"] = "Personal Loot - Non tradeable",
-					["isAwardReason"] = false,
 					["id"] = "1541099495-13",
+					["mapID"] = 1861,
+					["groupSize"] = 20,
+					["isAwardReason"] = false,
+					["instance"] = "Uldir-Mythic",
 					["class"] = "SHAMAN",
 					["iSubClass"] = 6,
-					["groupSize"] = 20,
-					["boss"] = "Vectis",
+					["response"] = "Personal Loot - Non tradeable",
 					["difficultyID"] = 16,
-					["lootWon"] = "|cffa335ee|Hitem:160698::::::::120:268::6:4:4800:43:1507:4786:::|h[Vector Deflector]|h|r",
-					["iClass"] = 4,
+					["boss"] = "Vectis",
 					["time"] = "21:11:35",
+					["iClass"] = 4,
+					["lootWon"] = "|cffa335ee|Hitem:160698::::::::120:268::6:4:4800:43:1507:4786:::|h[Vector Deflector]|h|r",
 					["responseID"] = "PL",
+					["date"] = "01/11/18",
 					["color"] = {
 						1, -- [1]
 						0.6, -- [2]
 						0, -- [3]
 						1, -- [4]
 					},
-					["instance"] = "Uldir-Mythic",
 				}, -- [2]
 				{
+					["id"] = "1543515929-2",
+					["mapID"] = 1861,
+					["response"] = "Personal Loot - Non tradeable",
+					["isAwardReason"] = false,
+					["date"] = "29/11/18",
+					["class"] = "SHAMAN",
+					["iSubClass"] = 3,
+					["groupSize"] = 20,
+					["difficultyID"] = 16,
+					["boss"] = "MOTHER",
+					["time"] = "20:25:29",
+					["iClass"] = 4,
+					["lootWon"] = "|cffa335ee|Hitem:160626::::::::120:265::6:3:4800:1507:4786:::|h[Gloves of Involuntary Amputation]|h|r",
+					["responseID"] = "PL",
 					["color"] = {
 						1, -- [1]
 						0.6, -- [2]
 						0, -- [3]
 						1, -- [4]
 					},
-					["mapID"] = 1861,
-					["groupSize"] = 20,
-					["isAwardReason"] = false,
-					["id"] = "1543515929-2",
-					["class"] = "SHAMAN",
-					["iSubClass"] = 3,
-					["response"] = "Personal Loot - Non tradeable",
-					["boss"] = "MOTHER",
-					["difficultyID"] = 16,
-					["lootWon"] = "|cffa335ee|Hitem:160626::::::::120:265::6:3:4800:1507:4786:::|h[Gloves of Involuntary Amputation]|h|r",
-					["iClass"] = 4,
-					["time"] = "20:25:29",
-					["responseID"] = "PL",
 					["instance"] = "Uldir-Mythic",
-					["date"] = "29/11/18",
 				}, -- [3]
 			},
 			["Dirtdiver-Kazzak"] = {
@@ -9600,27 +9657,27 @@ RCLootCouncilLootDB = {
 			},
 			["Nobushí-Kazzak"] = {
 				{
-					["instance"] = "Battle of Dazar'alor-Heroic",
-					["mapID"] = 2070,
-					["groupSize"] = 26,
-					["isAwardReason"] = false,
 					["id"] = "1548267194-8",
-					["class"] = "DEMONHUNTER",
-					["iSubClass"] = 2,
+					["mapID"] = 2070,
 					["response"] = "Personal Loot - Non tradeable",
-					["boss"] = "Grong",
-					["difficultyID"] = 15,
-					["lootWon"] = "|cffa335ee|Hitem:165515::::::::120:268::5:4:4823:1522:4786:5416:::|h[Grongpelt Vest]|h|r",
-					["iClass"] = 4,
-					["time"] = "20:13:14",
-					["responseID"] = "PL",
-					["date"] = "23/01/19",
+					["isAwardReason"] = false,
 					["color"] = {
 						1, -- [1]
 						0.6, -- [2]
 						0, -- [3]
 						1, -- [4]
 					},
+					["class"] = "DEMONHUNTER",
+					["iSubClass"] = 2,
+					["groupSize"] = 26,
+					["difficultyID"] = 15,
+					["boss"] = "Grong",
+					["time"] = "20:13:14",
+					["iClass"] = 4,
+					["lootWon"] = "|cffa335ee|Hitem:165515::::::::120:268::5:4:4823:1522:4786:5416:::|h[Grongpelt Vest]|h|r",
+					["responseID"] = "PL",
+					["instance"] = "Battle of Dazar'alor-Heroic",
+					["date"] = "23/01/19",
 				}, -- [1]
 				{
 					["mapID"] = 2070,
@@ -10575,96 +10632,96 @@ RCLootCouncilLootDB = {
 			},
 			["Tutanctus-Kazzak"] = {
 				{
-					["instance"] = "Uldir-Mythic",
-					["mapID"] = 1861,
-					["groupSize"] = 20,
-					["isAwardReason"] = false,
 					["id"] = "1541096830-4",
-					["class"] = "PALADIN",
-					["iSubClass"] = 4,
+					["mapID"] = 1861,
 					["response"] = "Personal Loot - Non tradeable",
-					["boss"] = "MOTHER",
-					["difficultyID"] = 16,
-					["lootWon"] = "|cffa335ee|Hitem:160638::::::::120:268::6:3:4800:1512:4783:::|h[Decontaminator's Greatbelt]|h|r",
-					["iClass"] = 4,
-					["time"] = "20:27:10",
-					["responseID"] = "PL",
-					["date"] = "01/11/18",
+					["isAwardReason"] = false,
 					["color"] = {
 						1, -- [1]
 						0.6, -- [2]
 						0, -- [3]
 						1, -- [4]
 					},
+					["class"] = "PALADIN",
+					["iSubClass"] = 4,
+					["groupSize"] = 20,
+					["difficultyID"] = 16,
+					["boss"] = "MOTHER",
+					["time"] = "20:27:10",
+					["iClass"] = 4,
+					["lootWon"] = "|cffa335ee|Hitem:160638::::::::120:268::6:3:4800:1512:4783:::|h[Decontaminator's Greatbelt]|h|r",
+					["responseID"] = "PL",
+					["instance"] = "Uldir-Mythic",
+					["date"] = "01/11/18",
 				}, -- [1]
 				{
-					["color"] = {
-						1, -- [1]
-						0.6, -- [2]
-						0, -- [3]
-						1, -- [4]
-					},
-					["mapID"] = 1861,
 					["id"] = "1545069639-0",
-					["isAwardReason"] = false,
+					["mapID"] = 1861,
 					["date"] = "17/12/18",
+					["isAwardReason"] = false,
+					["instance"] = "Uldir-Mythic",
 					["class"] = "PALADIN",
 					["iSubClass"] = 5,
-					["groupSize"] = 20,
-					["difficultyID"] = 16,
-					["boss"] = "Unknown",
-					["time"] = "20:00:39",
-					["iClass"] = 4,
-					["lootWon"] = "|cff1eff00|Hitem:21524::::::::120:268::2::::|h[Red Winter Hat]|h|r",
-					["responseID"] = "PL",
 					["response"] = "Personal Loot - Non tradeable",
-					["instance"] = "Uldir-Mythic",
+					["boss"] = "Unknown",
+					["difficultyID"] = 16,
+					["lootWon"] = "|cff1eff00|Hitem:21524::::::::120:268::2::::|h[Red Winter Hat]|h|r",
+					["iClass"] = 4,
+					["time"] = "20:00:39",
+					["responseID"] = "PL",
+					["groupSize"] = 20,
+					["color"] = {
+						1, -- [1]
+						0.6, -- [2]
+						0, -- [3]
+						1, -- [4]
+					},
 				}, -- [2]
 				{
-					["instance"] = "Battle of Dazar'alor-Heroic",
-					["mapID"] = 2070,
-					["groupSize"] = 26,
-					["isAwardReason"] = false,
 					["id"] = "1548268801-13",
+					["mapID"] = 2070,
+					["response"] = "Personal Loot - Non tradeable",
+					["isAwardReason"] = false,
+					["color"] = {
+						1, -- [1]
+						0.6, -- [2]
+						0, -- [3]
+						1, -- [4]
+					},
 					["class"] = "PALADIN",
 					["iSubClass"] = 4,
-					["response"] = "Personal Loot - Non tradeable",
-					["boss"] = "Jadefire Masters",
-					["difficultyID"] = 15,
-					["lootWon"] = "|cffa335ee|Hitem:165552::::::::120:268::5:3:4799:1522:4786:::|h[Embersear Waistguard]|h|r",
-					["iClass"] = 4,
-					["time"] = "20:40:01",
-					["responseID"] = "PL",
-					["date"] = "23/01/19",
-					["color"] = {
-						1, -- [1]
-						0.6, -- [2]
-						0, -- [3]
-						1, -- [4]
-					},
-				}, -- [3]
-				{
-					["color"] = {
-						1, -- [1]
-						0.6, -- [2]
-						0, -- [3]
-						1, -- [4]
-					},
-					["mapID"] = 2070,
-					["id"] = "1548356524-7",
-					["isAwardReason"] = false,
-					["date"] = "24/01/19",
-					["class"] = "PALADIN",
-					["iSubClass"] = 3,
 					["groupSize"] = 26,
 					["difficultyID"] = 15,
-					["boss"] = "Mekkatorque",
-					["time"] = "21:02:04",
-					["iClass"] = 9,
-					["lootWon"] = "|cff1eff00|Hitem:166276::::::::120:268::5::::|h[Schematic: Unstable Temporal Time Shifter]|h|r",
+					["boss"] = "Jadefire Masters",
+					["time"] = "20:40:01",
+					["iClass"] = 4,
+					["lootWon"] = "|cffa335ee|Hitem:165552::::::::120:268::5:3:4799:1522:4786:::|h[Embersear Waistguard]|h|r",
 					["responseID"] = "PL",
-					["response"] = "Personal Loot - Non tradeable",
 					["instance"] = "Battle of Dazar'alor-Heroic",
+					["date"] = "23/01/19",
+				}, -- [3]
+				{
+					["id"] = "1548356524-7",
+					["mapID"] = 2070,
+					["date"] = "24/01/19",
+					["isAwardReason"] = false,
+					["instance"] = "Battle of Dazar'alor-Heroic",
+					["class"] = "PALADIN",
+					["iSubClass"] = 3,
+					["response"] = "Personal Loot - Non tradeable",
+					["boss"] = "Mekkatorque",
+					["difficultyID"] = 15,
+					["lootWon"] = "|cff1eff00|Hitem:166276::::::::120:268::5::::|h[Schematic: Unstable Temporal Time Shifter]|h|r",
+					["iClass"] = 9,
+					["time"] = "21:02:04",
+					["responseID"] = "PL",
+					["groupSize"] = 26,
+					["color"] = {
+						1, -- [1]
+						0.6, -- [2]
+						0, -- [3]
+						1, -- [4]
+					},
 				}, -- [4]
 				{
 					["mapID"] = 2070,
@@ -11146,50 +11203,50 @@ RCLootCouncilLootDB = {
 			},
 			["Døgfotm-Kazzak"] = {
 				{
-					["color"] = {
-						1, -- [1]
-						0.6, -- [2]
-						0, -- [3]
-						1, -- [4]
-					},
-					["mapID"] = 1861,
-					["groupSize"] = 20,
-					["isAwardReason"] = false,
 					["id"] = "1543518715-6",
+					["mapID"] = 1861,
+					["response"] = "Personal Loot - Non tradeable",
+					["isAwardReason"] = false,
+					["date"] = "29/11/18",
 					["class"] = "MAGE",
 					["iSubClass"] = 1,
-					["response"] = "Personal Loot - Non tradeable",
-					["boss"] = "Vectis",
+					["groupSize"] = 20,
 					["difficultyID"] = 16,
-					["lootWon"] = "|cffa335ee|Hitem:160734::::::::120:265::6:3:4800:1512:4783:::|h[Cord of Animated Contagion]|h|r",
-					["iClass"] = 4,
+					["boss"] = "Vectis",
 					["time"] = "21:11:55",
+					["iClass"] = 4,
+					["lootWon"] = "|cffa335ee|Hitem:160734::::::::120:265::6:3:4800:1512:4783:::|h[Cord of Animated Contagion]|h|r",
 					["responseID"] = "PL",
-					["instance"] = "Uldir-Mythic",
-					["date"] = "29/11/18",
-				}, -- [1]
-				{
-					["instance"] = "Battle of Dazar'alor-Normal",
-					["mapID"] = 2070,
-					["id"] = "1548529437-0",
-					["isAwardReason"] = false,
 					["color"] = {
 						1, -- [1]
 						0.6, -- [2]
 						0, -- [3]
 						1, -- [4]
 					},
+					["instance"] = "Uldir-Mythic",
+				}, -- [1]
+				{
+					["id"] = "1548529437-0",
+					["mapID"] = 2070,
+					["color"] = {
+						1, -- [1]
+						0.6, -- [2]
+						0, -- [3]
+						1, -- [4]
+					},
+					["isAwardReason"] = false,
+					["date"] = "26/01/19",
 					["class"] = "MAGE",
 					["iSubClass"] = 3,
-					["response"] = "Personal Loot - Non tradeable",
-					["difficultyID"] = 14,
-					["boss"] = "Mekkatorque",
-					["time"] = "21:03:57",
-					["iClass"] = 9,
-					["lootWon"] = "|cff1eff00|Hitem:166276::::::::120:102::3::::|h[Schematic: Unstable Temporal Time Shifter]|h|r",
-					["responseID"] = "PL",
 					["groupSize"] = 15,
-					["date"] = "26/01/19",
+					["boss"] = "Mekkatorque",
+					["difficultyID"] = 14,
+					["lootWon"] = "|cff1eff00|Hitem:166276::::::::120:102::3::::|h[Schematic: Unstable Temporal Time Shifter]|h|r",
+					["iClass"] = 9,
+					["time"] = "21:03:57",
+					["responseID"] = "PL",
+					["response"] = "Personal Loot - Non tradeable",
+					["instance"] = "Battle of Dazar'alor-Normal",
 				}, -- [2]
 			},
 			["Tokzik-Kazzak"] = {
@@ -11679,7 +11736,7 @@ RCLootCouncilLootDB = {
 					["iClass"] = 4,
 					["itemReplaced1"] = "|cffa335ee|Hitem:178824:6168:::::::60:65::16:6:7209:6652:7193:1501:5861:6646:1:28:1279:::|h[Signet of the False Accuser]|h|r",
 					["votes"] = 1,
-					["typeCode"] = "default",
+					["instance"] = "Castle Nathria-Mythic",
 					["owner"] = "Seksixeny-Kazzak",
 					["id"] = "1609094774-65",
 					["response"] = "Need not BIS",
@@ -11695,7 +11752,7 @@ RCLootCouncilLootDB = {
 					["isAwardReason"] = false,
 					["responseID"] = 2,
 					["itemReplaced2"] = "|cffa335ee|Hitem:178869:6168:::::::60:65::16:6:7214:6652:7193:1501:5868:6646:1:28:1279:::|h[Fleshfused Circle]|h|r",
-					["instance"] = "Castle Nathria-Mythic",
+					["typeCode"] = "default",
 				}, -- [20]
 				{
 					["mapID"] = 2296,
@@ -12095,27 +12152,27 @@ RCLootCouncilLootDB = {
 			},
 			["Arsinoa-Kazzak"] = {
 				{
+					["id"] = "1543515931-3",
+					["mapID"] = 1861,
+					["response"] = "Personal Loot - Non tradeable",
+					["isAwardReason"] = false,
+					["date"] = "29/11/18",
+					["class"] = "WARLOCK",
+					["iSubClass"] = 1,
+					["groupSize"] = 20,
+					["difficultyID"] = 16,
+					["boss"] = "MOTHER",
+					["time"] = "20:25:31",
+					["iClass"] = 4,
+					["lootWon"] = "|cffa335ee|Hitem:160615::::::::120:265::6:3:4800:1512:4783:::|h[Leggings of Lingering Infestation]|h|r",
+					["responseID"] = "PL",
 					["color"] = {
 						1, -- [1]
 						0.6, -- [2]
 						0, -- [3]
 						1, -- [4]
 					},
-					["mapID"] = 1861,
-					["groupSize"] = 20,
-					["isAwardReason"] = false,
-					["id"] = "1543515931-3",
-					["class"] = "WARLOCK",
-					["iSubClass"] = 1,
-					["response"] = "Personal Loot - Non tradeable",
-					["boss"] = "MOTHER",
-					["difficultyID"] = 16,
-					["lootWon"] = "|cffa335ee|Hitem:160615::::::::120:265::6:3:4800:1512:4783:::|h[Leggings of Lingering Infestation]|h|r",
-					["iClass"] = 4,
-					["time"] = "20:25:31",
-					["responseID"] = "PL",
 					["instance"] = "Uldir-Mythic",
-					["date"] = "29/11/18",
 				}, -- [1]
 				{
 					["mapID"] = 1861,
@@ -12143,27 +12200,27 @@ RCLootCouncilLootDB = {
 					["id"] = "1543521445-1",
 				}, -- [2]
 				{
-					["date"] = "29/11/18",
-					["mapID"] = 1861,
 					["id"] = "1543524743-3",
-					["isAwardReason"] = false,
+					["mapID"] = 1861,
 					["instance"] = "Uldir-Mythic",
-					["class"] = "WARLOCK",
-					["iSubClass"] = 2,
-					["response"] = "Personal Loot - Non tradeable",
-					["difficultyID"] = 16,
-					["boss"] = "Zul",
-					["time"] = "22:52:23",
-					["iClass"] = 9,
-					["lootWon"] = "|cff1eff00|Hitem:162422::::::::120:268::6::::|h[Pattern: Embroidered Deep Sea Bag]|h|r",
-					["responseID"] = "PL",
-					["groupSize"] = 20,
+					["isAwardReason"] = false,
 					["color"] = {
 						1, -- [1]
 						0.6, -- [2]
 						0, -- [3]
 						1, -- [4]
 					},
+					["class"] = "WARLOCK",
+					["iSubClass"] = 2,
+					["groupSize"] = 20,
+					["boss"] = "Zul",
+					["difficultyID"] = 16,
+					["lootWon"] = "|cff1eff00|Hitem:162422::::::::120:268::6::::|h[Pattern: Embroidered Deep Sea Bag]|h|r",
+					["iClass"] = 9,
+					["time"] = "22:52:23",
+					["responseID"] = "PL",
+					["response"] = "Personal Loot - Non tradeable",
+					["date"] = "29/11/18",
 				}, -- [3]
 				{
 					["mapID"] = 1861,
@@ -12370,8 +12427,8 @@ RCLootCouncilLootDB = {
 					["time"] = "22:34:12",
 					["iClass"] = 4,
 					["itemReplaced1"] = "|cffa335ee|Hitem:179331::::::::60:65::16:5:7207:6652:1501:5858:6646:1:28:1279:::|h[Blood-Spattered Scale]|h|r",
-					["instance"] = "Castle Nathria-Heroic",
 					["typeCode"] = "default",
+					["instance"] = "Castle Nathria-Heroic",
 					["owner"] = "Hydrakus-Kazzak",
 					["id"] = "1607891652-261",
 					["response"] = "Need BIS",
@@ -12698,7 +12755,7 @@ RCLootCouncilLootDB = {
 					["iClass"] = 4,
 					["itemReplaced1"] = "|cffa335ee|Hitem:184030::::::::60:65::84:4:7188:6652:1485:6646:1:28:752:::|h[Dreadfire Vessel]|h|r",
 					["votes"] = 1,
-					["instance"] = "Castle Nathria-Mythic",
+					["typeCode"] = "default",
 					["owner"] = "Misêry-Kazzak",
 					["id"] = "1612380420-26",
 					["response"] = "Need BIS",
@@ -12714,7 +12771,7 @@ RCLootCouncilLootDB = {
 					["isAwardReason"] = false,
 					["responseID"] = 1,
 					["itemReplaced2"] = "|cffa335ee|Hitem:184026::::::::60:65::5:4:7188:6652:1485:6646:1:28:752:::|h[Hateful Chain]|h|r",
-					["typeCode"] = "default",
+					["instance"] = "Castle Nathria-Mythic",
 				}, -- [21]
 				{
 					["mapID"] = 2296,
@@ -13016,27 +13073,27 @@ RCLootCouncilLootDB = {
 			},
 			["Afthartus-Kazzak"] = {
 				{
-					["date"] = "18/11/18",
-					["mapID"] = 1771,
 					["id"] = "1542499902-0",
-					["isAwardReason"] = false,
+					["mapID"] = 1771,
 					["instance"] = "Tol Dagor-Mythic Keystone",
-					["class"] = "DEMONHUNTER",
-					["iSubClass"] = 2,
-					["response"] = "Personal Loot - Non tradeable",
-					["difficultyID"] = 8,
-					["boss"] = "Overseer Korgus",
-					["time"] = "04:11:42",
-					["iClass"] = 4,
-					["lootWon"] = "|cffa335ee|Hitem:159332::::::::120:581::16:3:5010:1542:4786:::|h[Wristguards of the Sandswimmer]|h|r",
-					["responseID"] = "PL",
-					["groupSize"] = 5,
+					["isAwardReason"] = false,
 					["color"] = {
 						1, -- [1]
 						0.6, -- [2]
 						0, -- [3]
 						1, -- [4]
 					},
+					["class"] = "DEMONHUNTER",
+					["iSubClass"] = 2,
+					["groupSize"] = 5,
+					["boss"] = "Overseer Korgus",
+					["difficultyID"] = 8,
+					["lootWon"] = "|cffa335ee|Hitem:159332::::::::120:581::16:3:5010:1542:4786:::|h[Wristguards of the Sandswimmer]|h|r",
+					["iClass"] = 4,
+					["time"] = "04:11:42",
+					["responseID"] = "PL",
+					["response"] = "Personal Loot - Non tradeable",
+					["date"] = "18/11/18",
 				}, -- [1]
 			},
 			["Tradushuffle-Kazzak"] = {
@@ -13203,96 +13260,96 @@ RCLootCouncilLootDB = {
 			},
 			["Corlic-Kazzak"] = {
 				{
-					["instance"] = "Uldir-Mythic",
-					["mapID"] = 1861,
-					["groupSize"] = 20,
-					["isAwardReason"] = false,
 					["id"] = "1541097779-8",
-					["class"] = "PALADIN",
-					["iSubClass"] = 4,
+					["mapID"] = 1861,
 					["response"] = "Personal Loot - Non tradeable",
-					["boss"] = "Zek'voz",
-					["difficultyID"] = 16,
-					["lootWon"] = "|cffa335ee|Hitem:160687::::::::120:268::6:4:4800:1808:1507:4786:::|h[Containment Analysis Baton]|h|r",
-					["iClass"] = 2,
-					["time"] = "20:42:59",
-					["responseID"] = "PL",
-					["date"] = "01/11/18",
+					["isAwardReason"] = false,
 					["color"] = {
 						1, -- [1]
 						0.6, -- [2]
 						0, -- [3]
 						1, -- [4]
 					},
+					["class"] = "PALADIN",
+					["iSubClass"] = 4,
+					["groupSize"] = 20,
+					["difficultyID"] = 16,
+					["boss"] = "Zek'voz",
+					["time"] = "20:42:59",
+					["iClass"] = 2,
+					["lootWon"] = "|cffa335ee|Hitem:160687::::::::120:268::6:4:4800:1808:1507:4786:::|h[Containment Analysis Baton]|h|r",
+					["responseID"] = "PL",
+					["instance"] = "Uldir-Mythic",
+					["date"] = "01/11/18",
 				}, -- [1]
 				{
-					["date"] = "01/11/18",
-					["mapID"] = 1861,
-					["response"] = "Personal Loot - Non tradeable",
-					["isAwardReason"] = false,
 					["id"] = "1541104922-18",
+					["mapID"] = 1861,
+					["groupSize"] = 20,
+					["isAwardReason"] = false,
+					["instance"] = "Uldir-Mythic",
 					["class"] = "PALADIN",
 					["iSubClass"] = 1,
-					["groupSize"] = 20,
-					["boss"] = "Fetid Devourer",
+					["response"] = "Personal Loot - Non tradeable",
 					["difficultyID"] = 16,
-					["lootWon"] = "|cffa335ee|Hitem:160643::::::::120:268::6:3:4800:1507:4786:::|h[Fetid Horror's Tanglecloak]|h|r",
-					["iClass"] = 4,
+					["boss"] = "Fetid Devourer",
 					["time"] = "22:42:02",
+					["iClass"] = 4,
+					["lootWon"] = "|cffa335ee|Hitem:160643::::::::120:268::6:3:4800:1507:4786:::|h[Fetid Horror's Tanglecloak]|h|r",
 					["responseID"] = "PL",
+					["date"] = "01/11/18",
 					["color"] = {
 						1, -- [1]
 						0.6, -- [2]
 						0, -- [3]
 						1, -- [4]
 					},
-					["instance"] = "Uldir-Mythic",
 				}, -- [2]
 				{
-					["instance"] = "Uldir-Mythic",
-					["mapID"] = 1861,
-					["response"] = "Personal Loot - Non tradeable",
-					["isAwardReason"] = false,
 					["id"] = "1543865691-0",
+					["mapID"] = 1861,
+					["groupSize"] = 20,
+					["isAwardReason"] = false,
+					["color"] = {
+						1, -- [1]
+						0.6, -- [2]
+						0, -- [3]
+						1, -- [4]
+					},
 					["class"] = "PALADIN",
 					["iSubClass"] = 4,
-					["groupSize"] = 20,
-					["boss"] = "G'huun",
+					["response"] = "Personal Loot - Non tradeable",
 					["difficultyID"] = 16,
-					["lootWon"] = "|cffa335ee|Hitem:160733::::::::120:268::6:3:4800:1512:4783:::|h[Hematocyst Stompers]|h|r",
-					["iClass"] = 4,
+					["boss"] = "G'huun",
 					["time"] = "21:34:51",
+					["iClass"] = 4,
+					["lootWon"] = "|cffa335ee|Hitem:160733::::::::120:268::6:3:4800:1512:4783:::|h[Hematocyst Stompers]|h|r",
 					["responseID"] = "PL",
+					["instance"] = "Uldir-Mythic",
 					["date"] = "03/12/18",
-					["color"] = {
-						1, -- [1]
-						0.6, -- [2]
-						0, -- [3]
-						1, -- [4]
-					},
 				}, -- [3]
 				{
-					["instance"] = "Uldir-Mythic",
-					["mapID"] = 1861,
-					["groupSize"] = 20,
-					["isAwardReason"] = false,
 					["id"] = "1544727957-10",
-					["class"] = "PALADIN",
-					["iSubClass"] = 1,
+					["mapID"] = 1861,
 					["response"] = "Personal Loot - Non tradeable",
-					["boss"] = "Fetid Devourer",
-					["difficultyID"] = 16,
-					["lootWon"] = "|cffa335ee|Hitem:160643::::::::120:268::6:4:4800:1808:1512:4783:::|h[Fetid Horror's Tanglecloak]|h|r",
-					["iClass"] = 4,
-					["time"] = "21:05:57",
-					["responseID"] = "PL",
-					["date"] = "13/12/18",
+					["isAwardReason"] = false,
 					["color"] = {
 						1, -- [1]
 						0.6, -- [2]
 						0, -- [3]
 						1, -- [4]
 					},
+					["class"] = "PALADIN",
+					["iSubClass"] = 1,
+					["groupSize"] = 20,
+					["difficultyID"] = 16,
+					["boss"] = "Fetid Devourer",
+					["time"] = "21:05:57",
+					["iClass"] = 4,
+					["lootWon"] = "|cffa335ee|Hitem:160643::::::::120:268::6:4:4800:1808:1512:4783:::|h[Fetid Horror's Tanglecloak]|h|r",
+					["responseID"] = "PL",
+					["instance"] = "Uldir-Mythic",
+					["date"] = "13/12/18",
 				}, -- [4]
 				{
 					["mapID"] = 1861,
@@ -13370,50 +13427,50 @@ RCLootCouncilLootDB = {
 					["instance"] = "Uldir-Mythic",
 				}, -- [7]
 				{
-					["date"] = "20/12/18",
-					["mapID"] = 1861,
 					["id"] = "1545333396-13",
-					["isAwardReason"] = false,
+					["mapID"] = 1861,
 					["instance"] = "Uldir-Mythic",
-					["class"] = "PALADIN",
-					["iSubClass"] = 0,
-					["groupSize"] = 20,
-					["difficultyID"] = 16,
-					["boss"] = "Vectis",
-					["time"] = "21:16:36",
-					["iClass"] = 4,
-					["lootWon"] = "|cffa335ee|Hitem:160649::::::::120:268::6:4:4800:1808:1512:4783:::|h[Inoculating Extract]|h|r",
-					["responseID"] = "PL",
-					["response"] = "Personal Loot - Non tradeable",
+					["isAwardReason"] = false,
 					["color"] = {
 						1, -- [1]
 						0.6, -- [2]
 						0, -- [3]
 						1, -- [4]
 					},
+					["class"] = "PALADIN",
+					["iSubClass"] = 0,
+					["response"] = "Personal Loot - Non tradeable",
+					["boss"] = "Vectis",
+					["difficultyID"] = 16,
+					["lootWon"] = "|cffa335ee|Hitem:160649::::::::120:268::6:4:4800:1808:1512:4783:::|h[Inoculating Extract]|h|r",
+					["iClass"] = 4,
+					["time"] = "21:16:36",
+					["responseID"] = "PL",
+					["groupSize"] = 20,
+					["date"] = "20/12/18",
 				}, -- [8]
 				{
-					["instance"] = "Battle of Dazar'alor-Heroic",
-					["mapID"] = 2070,
-					["groupSize"] = 26,
-					["isAwardReason"] = false,
 					["id"] = "1548271782-21",
-					["class"] = "PALADIN",
-					["iSubClass"] = 0,
+					["mapID"] = 2070,
 					["response"] = "Personal Loot - Non tradeable",
-					["boss"] = "Opulence",
-					["difficultyID"] = 15,
-					["lootWon"] = "|cffa335ee|Hitem:165571::::::::120:268::5:3:4799:1522:4786:::|h[Incandescent Sliver]|h|r",
-					["iClass"] = 4,
-					["time"] = "21:29:42",
-					["responseID"] = "PL",
-					["date"] = "23/01/19",
+					["isAwardReason"] = false,
 					["color"] = {
 						1, -- [1]
 						0.6, -- [2]
 						0, -- [3]
 						1, -- [4]
 					},
+					["class"] = "PALADIN",
+					["iSubClass"] = 0,
+					["groupSize"] = 26,
+					["difficultyID"] = 15,
+					["boss"] = "Opulence",
+					["time"] = "21:29:42",
+					["iClass"] = 4,
+					["lootWon"] = "|cffa335ee|Hitem:165571::::::::120:268::5:3:4799:1522:4786:::|h[Incandescent Sliver]|h|r",
+					["responseID"] = "PL",
+					["instance"] = "Battle of Dazar'alor-Heroic",
+					["date"] = "23/01/19",
 				}, -- [9]
 			},
 			["Neveh-Kazzak"] = {
@@ -14105,50 +14162,50 @@ RCLootCouncilLootDB = {
 					["boss"] = "Vectis",
 				}, -- [1]
 				{
-					["instance"] = "Uldir-Mythic",
-					["mapID"] = 1861,
-					["groupSize"] = 20,
-					["isAwardReason"] = false,
 					["id"] = "1544725484-5",
+					["mapID"] = 1861,
+					["response"] = "Personal Loot - Non tradeable",
+					["isAwardReason"] = false,
+					["color"] = {
+						1, -- [1]
+						0.6, -- [2]
+						0, -- [3]
+						1, -- [4]
+					},
 					["class"] = "MAGE",
 					["iSubClass"] = 0,
-					["response"] = "Personal Loot - Non tradeable",
-					["boss"] = "MOTHER",
-					["difficultyID"] = 16,
-					["lootWon"] = "|cffa335ee|Hitem:160645::::::::120:268::6:3:4800:1507:4786:::|h[Rot-Scour Ring]|h|r",
-					["iClass"] = 4,
-					["time"] = "20:24:44",
-					["responseID"] = "PL",
-					["date"] = "13/12/18",
-					["color"] = {
-						1, -- [1]
-						0.6, -- [2]
-						0, -- [3]
-						1, -- [4]
-					},
-				}, -- [2]
-				{
-					["date"] = "10/01/19",
-					["mapID"] = 1861,
-					["id"] = "1547150321-22",
-					["isAwardReason"] = false,
-					["instance"] = "Uldir-Mythic",
-					["class"] = "MAGE",
-					["iSubClass"] = 15,
 					["groupSize"] = 20,
 					["difficultyID"] = 16,
-					["boss"] = "Zul",
-					["time"] = "21:58:41",
-					["iClass"] = 2,
-					["lootWon"] = "|cffa335ee|Hitem:160691::::::::120:268::6:3:4800:1512:4783:::|h[Tusk of the Reborn Prophet]|h|r",
+					["boss"] = "MOTHER",
+					["time"] = "20:24:44",
+					["iClass"] = 4,
+					["lootWon"] = "|cffa335ee|Hitem:160645::::::::120:268::6:3:4800:1507:4786:::|h[Rot-Scour Ring]|h|r",
 					["responseID"] = "PL",
-					["response"] = "Personal Loot - Non tradeable",
+					["instance"] = "Uldir-Mythic",
+					["date"] = "13/12/18",
+				}, -- [2]
+				{
+					["id"] = "1547150321-22",
+					["mapID"] = 1861,
+					["instance"] = "Uldir-Mythic",
+					["isAwardReason"] = false,
 					["color"] = {
 						1, -- [1]
 						0.6, -- [2]
 						0, -- [3]
 						1, -- [4]
 					},
+					["class"] = "MAGE",
+					["iSubClass"] = 15,
+					["response"] = "Personal Loot - Non tradeable",
+					["boss"] = "Zul",
+					["difficultyID"] = 16,
+					["lootWon"] = "|cffa335ee|Hitem:160691::::::::120:268::6:3:4800:1512:4783:::|h[Tusk of the Reborn Prophet]|h|r",
+					["iClass"] = 2,
+					["time"] = "21:58:41",
+					["responseID"] = "PL",
+					["groupSize"] = 20,
+					["date"] = "10/01/19",
 				}, -- [3]
 				{
 					["mapID"] = 1861,
@@ -14201,50 +14258,50 @@ RCLootCouncilLootDB = {
 					["instance"] = "Uldir-Mythic",
 				}, -- [5]
 				{
-					["instance"] = "Battle of Dazar'alor-Heroic",
-					["mapID"] = 2070,
-					["groupSize"] = 26,
-					["isAwardReason"] = false,
 					["id"] = "1548268802-14",
+					["mapID"] = 2070,
+					["response"] = "Personal Loot - Non tradeable",
+					["isAwardReason"] = false,
+					["color"] = {
+						1, -- [1]
+						0.6, -- [2]
+						0, -- [3]
+						1, -- [4]
+					},
 					["class"] = "MAGE",
 					["iSubClass"] = 0,
-					["response"] = "Personal Loot - Non tradeable",
-					["boss"] = "Jadefire Masters",
+					["groupSize"] = 26,
 					["difficultyID"] = 15,
-					["lootWon"] = "|cffa335ee|Hitem:165565::::::::120:268::5:3:4799:1522:4786:::|h[Band of Multi-Sided Strikes]|h|r",
-					["iClass"] = 4,
+					["boss"] = "Jadefire Masters",
 					["time"] = "20:40:02",
+					["iClass"] = 4,
+					["lootWon"] = "|cffa335ee|Hitem:165565::::::::120:268::5:3:4799:1522:4786:::|h[Band of Multi-Sided Strikes]|h|r",
 					["responseID"] = "PL",
+					["instance"] = "Battle of Dazar'alor-Heroic",
 					["date"] = "23/01/19",
-					["color"] = {
-						1, -- [1]
-						0.6, -- [2]
-						0, -- [3]
-						1, -- [4]
-					},
 				}, -- [6]
 				{
+					["id"] = "1548274404-30",
+					["mapID"] = 2070,
+					["date"] = "23/01/19",
+					["isAwardReason"] = false,
+					["instance"] = "Battle of Dazar'alor-Heroic",
+					["class"] = "MAGE",
+					["iSubClass"] = 1,
+					["groupSize"] = 26,
+					["boss"] = "Conclave of the Chosen",
+					["difficultyID"] = 15,
+					["lootWon"] = "|cffa335ee|Hitem:165512::::::::120:268::5:3:4799:1522:4786:::|h[Loa Exultant's Shroud]|h|r",
+					["iClass"] = 4,
+					["time"] = "22:13:24",
+					["responseID"] = "PL",
+					["response"] = "Personal Loot - Non tradeable",
 					["color"] = {
 						1, -- [1]
 						0.6, -- [2]
 						0, -- [3]
 						1, -- [4]
 					},
-					["mapID"] = 2070,
-					["id"] = "1548274404-30",
-					["isAwardReason"] = false,
-					["date"] = "23/01/19",
-					["class"] = "MAGE",
-					["iSubClass"] = 1,
-					["response"] = "Personal Loot - Non tradeable",
-					["difficultyID"] = 15,
-					["boss"] = "Conclave of the Chosen",
-					["time"] = "22:13:24",
-					["iClass"] = 4,
-					["lootWon"] = "|cffa335ee|Hitem:165512::::::::120:268::5:3:4799:1522:4786:::|h[Loa Exultant's Shroud]|h|r",
-					["responseID"] = "PL",
-					["groupSize"] = 26,
-					["instance"] = "Battle of Dazar'alor-Heroic",
 				}, -- [7]
 				{
 					["mapID"] = 2070,
@@ -14687,349 +14744,349 @@ RCLootCouncilLootDB = {
 			},
 			["Murion-Kazzak"] = {
 				{
+					["id"] = "1541451468-0",
+					["mapID"] = 1861,
+					["date"] = "05/11/18",
+					["isAwardReason"] = false,
+					["instance"] = "Uldir-Mythic",
+					["class"] = "SHAMAN",
+					["iSubClass"] = 0,
+					["groupSize"] = 20,
+					["boss"] = "Mythrax",
+					["difficultyID"] = 16,
+					["lootWon"] = "|cffa335ee|Hitem:160656::::::::120:250::6:3:4800:1512:4783:::|h[Twitching Tentacle of Xalzaix]|h|r",
+					["iClass"] = 4,
+					["time"] = "22:57:48",
+					["responseID"] = "PL",
+					["response"] = "Personal Loot - Non tradeable",
 					["color"] = {
 						1, -- [1]
 						0.6, -- [2]
 						0, -- [3]
 						1, -- [4]
 					},
-					["mapID"] = 1861,
-					["id"] = "1541451468-0",
-					["isAwardReason"] = false,
-					["date"] = "05/11/18",
-					["class"] = "SHAMAN",
-					["iSubClass"] = 0,
-					["response"] = "Personal Loot - Non tradeable",
-					["difficultyID"] = 16,
-					["boss"] = "Mythrax",
-					["time"] = "22:57:48",
-					["iClass"] = 4,
-					["lootWon"] = "|cffa335ee|Hitem:160656::::::::120:250::6:3:4800:1512:4783:::|h[Twitching Tentacle of Xalzaix]|h|r",
-					["responseID"] = "PL",
-					["groupSize"] = 20,
-					["instance"] = "Uldir-Mythic",
 				}, -- [1]
 				{
-					["instance"] = "Uldir-Mythic",
-					["mapID"] = 1861,
 					["id"] = "1542563250-0",
-					["isAwardReason"] = false,
+					["mapID"] = 1861,
 					["color"] = {
 						1, -- [1]
 						0.6, -- [2]
 						0, -- [3]
 						1, -- [4]
 					},
+					["isAwardReason"] = false,
+					["date"] = "18/11/18",
 					["class"] = "SHAMAN",
 					["iSubClass"] = 2,
-					["response"] = "Personal Loot - Non tradeable",
-					["difficultyID"] = 16,
-					["boss"] = "Unknown",
-					["time"] = "19:47:30",
-					["iClass"] = 15,
-					["lootWon"] = "|cff0070dd|Hitem:93033::::::::120:250::::::|h[Mark of Flame]|h|r",
-					["responseID"] = "PL",
 					["groupSize"] = 20,
-					["date"] = "18/11/18",
+					["boss"] = "Unknown",
+					["difficultyID"] = 16,
+					["lootWon"] = "|cff0070dd|Hitem:93033::::::::120:250::::::|h[Mark of Flame]|h|r",
+					["iClass"] = 15,
+					["time"] = "19:47:30",
+					["responseID"] = "PL",
+					["response"] = "Personal Loot - Non tradeable",
+					["instance"] = "Uldir-Mythic",
 				}, -- [2]
 				{
-					["instance"] = "Uldir-Mythic",
-					["mapID"] = 1861,
 					["id"] = "1542563250-1",
-					["isAwardReason"] = false,
+					["mapID"] = 1861,
 					["color"] = {
 						1, -- [1]
 						0.6, -- [2]
 						0, -- [3]
 						1, -- [4]
 					},
+					["isAwardReason"] = false,
+					["date"] = "18/11/18",
 					["class"] = "SHAMAN",
 					["iSubClass"] = 1,
-					["response"] = "Personal Loot - Non tradeable",
-					["difficultyID"] = 16,
-					["boss"] = "Unknown",
-					["time"] = "19:47:30",
-					["iClass"] = 4,
-					["lootWon"] = "|cffa335ee|Hitem:16816::::::::120:250::::::|h[Mantle of Prophecy]|h|r",
-					["responseID"] = "PL",
 					["groupSize"] = 20,
-					["date"] = "18/11/18",
+					["boss"] = "Unknown",
+					["difficultyID"] = 16,
+					["lootWon"] = "|cffa335ee|Hitem:16816::::::::120:250::::::|h[Mantle of Prophecy]|h|r",
+					["iClass"] = 4,
+					["time"] = "19:47:30",
+					["responseID"] = "PL",
+					["response"] = "Personal Loot - Non tradeable",
+					["instance"] = "Uldir-Mythic",
 				}, -- [3]
 				{
-					["instance"] = "Uldir-Mythic",
-					["mapID"] = 1861,
 					["id"] = "1542563251-2",
-					["isAwardReason"] = false,
+					["mapID"] = 1861,
 					["color"] = {
 						1, -- [1]
 						0.6, -- [2]
 						0, -- [3]
 						1, -- [4]
 					},
+					["isAwardReason"] = false,
+					["date"] = "18/11/18",
 					["class"] = "SHAMAN",
 					["iSubClass"] = 1,
-					["response"] = "Personal Loot - Non tradeable",
-					["difficultyID"] = 16,
-					["boss"] = "Unknown",
-					["time"] = "19:47:31",
-					["iClass"] = 4,
-					["lootWon"] = "|cffa335ee|Hitem:19145::::::::120:250::::::|h[Robe of Volatile Power]|h|r",
-					["responseID"] = "PL",
 					["groupSize"] = 20,
-					["date"] = "18/11/18",
+					["boss"] = "Unknown",
+					["difficultyID"] = 16,
+					["lootWon"] = "|cffa335ee|Hitem:19145::::::::120:250::::::|h[Robe of Volatile Power]|h|r",
+					["iClass"] = 4,
+					["time"] = "19:47:31",
+					["responseID"] = "PL",
+					["response"] = "Personal Loot - Non tradeable",
+					["instance"] = "Uldir-Mythic",
 				}, -- [4]
 				{
-					["instance"] = "Uldir-Mythic",
-					["mapID"] = 1861,
 					["id"] = "1542563311-3",
-					["isAwardReason"] = false,
+					["mapID"] = 1861,
 					["color"] = {
 						1, -- [1]
 						0.6, -- [2]
 						0, -- [3]
 						1, -- [4]
 					},
+					["isAwardReason"] = false,
+					["date"] = "18/11/18",
 					["class"] = "SHAMAN",
 					["iSubClass"] = 1,
-					["response"] = "Personal Loot - Non tradeable",
-					["difficultyID"] = 16,
-					["boss"] = "Unknown",
-					["time"] = "19:48:31",
-					["iClass"] = 4,
-					["lootWon"] = "|cffa335ee|Hitem:18809::::::::120:250::::::|h[Sash of Whispered Secrets]|h|r",
-					["responseID"] = "PL",
 					["groupSize"] = 20,
-					["date"] = "18/11/18",
+					["boss"] = "Unknown",
+					["difficultyID"] = 16,
+					["lootWon"] = "|cffa335ee|Hitem:18809::::::::120:250::::::|h[Sash of Whispered Secrets]|h|r",
+					["iClass"] = 4,
+					["time"] = "19:48:31",
+					["responseID"] = "PL",
+					["response"] = "Personal Loot - Non tradeable",
+					["instance"] = "Uldir-Mythic",
 				}, -- [5]
 				{
-					["instance"] = "Uldir-Mythic",
-					["mapID"] = 1861,
 					["id"] = "1542563311-4",
-					["isAwardReason"] = false,
+					["mapID"] = 1861,
 					["color"] = {
 						1, -- [1]
 						0.6, -- [2]
 						0, -- [3]
 						1, -- [4]
 					},
+					["isAwardReason"] = false,
+					["date"] = "18/11/18",
 					["class"] = "SHAMAN",
 					["iSubClass"] = 3,
-					["response"] = "Personal Loot - Non tradeable",
-					["difficultyID"] = 16,
-					["boss"] = "Unknown",
-					["time"] = "19:48:31",
-					["iClass"] = 4,
-					["lootWon"] = "|cffa335ee|Hitem:18812::::::::120:250::::::|h[Wristguards of True Flight]|h|r",
-					["responseID"] = "PL",
 					["groupSize"] = 20,
-					["date"] = "18/11/18",
+					["boss"] = "Unknown",
+					["difficultyID"] = 16,
+					["lootWon"] = "|cffa335ee|Hitem:18812::::::::120:250::::::|h[Wristguards of True Flight]|h|r",
+					["iClass"] = 4,
+					["time"] = "19:48:31",
+					["responseID"] = "PL",
+					["response"] = "Personal Loot - Non tradeable",
+					["instance"] = "Uldir-Mythic",
 				}, -- [6]
 				{
-					["color"] = {
-						1, -- [1]
-						0.6, -- [2]
-						0, -- [3]
-						1, -- [4]
-					},
-					["mapID"] = 1861,
-					["response"] = "Personal Loot - Non tradeable",
-					["isAwardReason"] = false,
 					["id"] = "1542563529-5",
+					["mapID"] = 1861,
+					["groupSize"] = 20,
+					["isAwardReason"] = false,
+					["date"] = "18/11/18",
 					["class"] = "SHAMAN",
 					["iSubClass"] = 15,
-					["groupSize"] = 20,
-					["boss"] = "Unknown",
+					["response"] = "Personal Loot - Non tradeable",
 					["difficultyID"] = 16,
-					["lootWon"] = "|cffa335ee|Hitem:18816::::::::120:250::::::|h[Perdition's Blade]|h|r",
-					["iClass"] = 2,
+					["boss"] = "Unknown",
 					["time"] = "19:52:09",
+					["iClass"] = 2,
+					["lootWon"] = "|cffa335ee|Hitem:18816::::::::120:250::::::|h[Perdition's Blade]|h|r",
 					["responseID"] = "PL",
+					["color"] = {
+						1, -- [1]
+						0.6, -- [2]
+						0, -- [3]
+						1, -- [4]
+					},
 					["instance"] = "Uldir-Mythic",
-					["date"] = "18/11/18",
 				}, -- [7]
 				{
-					["color"] = {
-						1, -- [1]
-						0.6, -- [2]
-						0, -- [3]
-						1, -- [4]
-					},
-					["mapID"] = 1861,
-					["response"] = "Personal Loot - Non tradeable",
-					["isAwardReason"] = false,
 					["id"] = "1542563530-6",
+					["mapID"] = 1861,
+					["groupSize"] = 20,
+					["isAwardReason"] = false,
+					["date"] = "18/11/18",
 					["class"] = "SHAMAN",
 					["iSubClass"] = 1,
-					["groupSize"] = 20,
-					["boss"] = "Unknown",
+					["response"] = "Personal Loot - Non tradeable",
 					["difficultyID"] = 16,
-					["lootWon"] = "|cffa335ee|Hitem:17104::::::::120:250::::::|h[Spinal Reaper]|h|r",
-					["iClass"] = 2,
+					["boss"] = "Unknown",
 					["time"] = "19:52:10",
+					["iClass"] = 2,
+					["lootWon"] = "|cffa335ee|Hitem:17104::::::::120:250::::::|h[Spinal Reaper]|h|r",
 					["responseID"] = "PL",
+					["color"] = {
+						1, -- [1]
+						0.6, -- [2]
+						0, -- [3]
+						1, -- [4]
+					},
 					["instance"] = "Uldir-Mythic",
-					["date"] = "18/11/18",
 				}, -- [8]
 				{
+					["id"] = "1542563530-7",
+					["mapID"] = 1861,
+					["groupSize"] = 20,
+					["isAwardReason"] = false,
+					["date"] = "18/11/18",
+					["class"] = "SHAMAN",
+					["iSubClass"] = 0,
+					["response"] = "Personal Loot - Non tradeable",
+					["difficultyID"] = 16,
+					["boss"] = "Unknown",
+					["time"] = "19:52:10",
+					["iClass"] = 4,
+					["lootWon"] = "|cffa335ee|Hitem:17063::::::::120:250::::::|h[Band of Accuria]|h|r",
+					["responseID"] = "PL",
 					["color"] = {
 						1, -- [1]
 						0.6, -- [2]
 						0, -- [3]
 						1, -- [4]
 					},
-					["mapID"] = 1861,
-					["response"] = "Personal Loot - Non tradeable",
-					["isAwardReason"] = false,
-					["id"] = "1542563530-7",
-					["class"] = "SHAMAN",
-					["iSubClass"] = 0,
-					["groupSize"] = 20,
-					["boss"] = "Unknown",
-					["difficultyID"] = 16,
-					["lootWon"] = "|cffa335ee|Hitem:17063::::::::120:250::::::|h[Band of Accuria]|h|r",
-					["iClass"] = 4,
-					["time"] = "19:52:10",
-					["responseID"] = "PL",
 					["instance"] = "Uldir-Mythic",
-					["date"] = "18/11/18",
 				}, -- [9]
 				{
+					["id"] = "1542563530-8",
+					["mapID"] = 1861,
+					["groupSize"] = 20,
+					["isAwardReason"] = false,
+					["date"] = "18/11/18",
+					["class"] = "SHAMAN",
+					["iSubClass"] = 0,
+					["response"] = "Personal Loot - Non tradeable",
+					["difficultyID"] = 16,
+					["boss"] = "Unknown",
+					["time"] = "19:52:10",
+					["iClass"] = 4,
+					["lootWon"] = "|cffa335ee|Hitem:17063::::::::120:250::::::|h[Band of Accuria]|h|r",
+					["responseID"] = "PL",
 					["color"] = {
 						1, -- [1]
 						0.6, -- [2]
 						0, -- [3]
 						1, -- [4]
 					},
-					["mapID"] = 1861,
-					["response"] = "Personal Loot - Non tradeable",
-					["isAwardReason"] = false,
-					["id"] = "1542563530-8",
-					["class"] = "SHAMAN",
-					["iSubClass"] = 0,
-					["groupSize"] = 20,
-					["boss"] = "Unknown",
-					["difficultyID"] = 16,
-					["lootWon"] = "|cffa335ee|Hitem:17063::::::::120:250::::::|h[Band of Accuria]|h|r",
-					["iClass"] = 4,
-					["time"] = "19:52:10",
-					["responseID"] = "PL",
 					["instance"] = "Uldir-Mythic",
-					["date"] = "18/11/18",
 				}, -- [10]
 				{
+					["id"] = "1542563530-9",
+					["mapID"] = 1861,
+					["groupSize"] = 20,
+					["isAwardReason"] = false,
+					["date"] = "18/11/18",
+					["class"] = "SHAMAN",
+					["iSubClass"] = 0,
+					["response"] = "Personal Loot - Non tradeable",
+					["difficultyID"] = 16,
+					["boss"] = "Unknown",
+					["time"] = "19:52:10",
+					["iClass"] = 4,
+					["lootWon"] = "|cffa335ee|Hitem:18814::::::::120:250::::::|h[Choker of the Fire Lord]|h|r",
+					["responseID"] = "PL",
 					["color"] = {
 						1, -- [1]
 						0.6, -- [2]
 						0, -- [3]
 						1, -- [4]
 					},
-					["mapID"] = 1861,
-					["response"] = "Personal Loot - Non tradeable",
-					["isAwardReason"] = false,
-					["id"] = "1542563530-9",
-					["class"] = "SHAMAN",
-					["iSubClass"] = 0,
-					["groupSize"] = 20,
-					["boss"] = "Unknown",
-					["difficultyID"] = 16,
-					["lootWon"] = "|cffa335ee|Hitem:18814::::::::120:250::::::|h[Choker of the Fire Lord]|h|r",
-					["iClass"] = 4,
-					["time"] = "19:52:10",
-					["responseID"] = "PL",
 					["instance"] = "Uldir-Mythic",
-					["date"] = "18/11/18",
 				}, -- [11]
 				{
-					["instance"] = "Karazhan-10 Player",
-					["mapID"] = 532,
 					["id"] = "1544897037-2",
-					["isAwardReason"] = false,
+					["mapID"] = 532,
 					["color"] = {
 						1, -- [1]
 						0.6, -- [2]
 						0, -- [3]
 						1, -- [4]
 					},
+					["isAwardReason"] = false,
+					["date"] = "15/12/18",
 					["class"] = "SHAMAN",
 					["iSubClass"] = 2,
-					["response"] = "Personal Loot - Non tradeable",
-					["difficultyID"] = 3,
-					["boss"] = "Chess Event",
-					["time"] = "20:03:57",
-					["iClass"] = 4,
-					["lootWon"] = "|cffa335ee|Hitem:30644::::::::120:268::::::|h[Grips of Deftness]|h|r",
-					["responseID"] = "PL",
 					["groupSize"] = 10,
-					["date"] = "15/12/18",
+					["boss"] = "Chess Event",
+					["difficultyID"] = 3,
+					["lootWon"] = "|cffa335ee|Hitem:30644::::::::120:268::::::|h[Grips of Deftness]|h|r",
+					["iClass"] = 4,
+					["time"] = "20:03:57",
+					["responseID"] = "PL",
+					["response"] = "Personal Loot - Non tradeable",
+					["instance"] = "Karazhan-10 Player",
 				}, -- [12]
 				{
-					["instance"] = "Firelands-10 Player",
-					["mapID"] = 720,
 					["id"] = "1547081145-1",
-					["isAwardReason"] = false,
+					["mapID"] = 720,
 					["color"] = {
 						1, -- [1]
 						0.6, -- [2]
 						0, -- [3]
 						1, -- [4]
 					},
+					["isAwardReason"] = false,
+					["date"] = "10/01/19",
 					["class"] = "SHAMAN",
 					["iSubClass"] = 4,
-					["response"] = "Personal Loot - Non tradeable",
-					["difficultyID"] = 3,
-					["boss"] = "Lord Rhyolith",
-					["time"] = "02:45:45",
-					["iClass"] = 4,
-					["lootWon"] = "|cffa335ee|Hitem:71007::::::::120:263::::::|h[Grips of the Raging Giant]|h|r",
-					["responseID"] = "PL",
 					["groupSize"] = 10,
-					["date"] = "10/01/19",
+					["boss"] = "Lord Rhyolith",
+					["difficultyID"] = 3,
+					["lootWon"] = "|cffa335ee|Hitem:71007::::::::120:263::::::|h[Grips of the Raging Giant]|h|r",
+					["iClass"] = 4,
+					["time"] = "02:45:45",
+					["responseID"] = "PL",
+					["response"] = "Personal Loot - Non tradeable",
+					["instance"] = "Firelands-10 Player",
 				}, -- [13]
 				{
-					["instance"] = "Battle of Dazar'alor-Normal",
-					["mapID"] = 2070,
 					["id"] = "1548529442-3",
-					["isAwardReason"] = false,
+					["mapID"] = 2070,
 					["color"] = {
 						1, -- [1]
 						0.6, -- [2]
 						0, -- [3]
 						1, -- [4]
 					},
+					["isAwardReason"] = false,
+					["date"] = "26/01/19",
 					["class"] = "SHAMAN",
 					["iSubClass"] = 3,
-					["response"] = "Personal Loot - Non tradeable",
-					["difficultyID"] = 14,
-					["boss"] = "Mekkatorque",
-					["time"] = "21:04:02",
-					["iClass"] = 9,
-					["lootWon"] = "|cff1eff00|Hitem:166276::::::::120:102::3::::|h[Schematic: Unstable Temporal Time Shifter]|h|r",
-					["responseID"] = "PL",
 					["groupSize"] = 15,
-					["date"] = "26/01/19",
+					["boss"] = "Mekkatorque",
+					["difficultyID"] = 14,
+					["lootWon"] = "|cff1eff00|Hitem:166276::::::::120:102::3::::|h[Schematic: Unstable Temporal Time Shifter]|h|r",
+					["iClass"] = 9,
+					["time"] = "21:04:02",
+					["responseID"] = "PL",
+					["response"] = "Personal Loot - Non tradeable",
+					["instance"] = "Battle of Dazar'alor-Normal",
 				}, -- [14]
 				{
+					["id"] = "1548540645-0",
+					["mapID"] = 2070,
+					["date"] = "27/01/19",
+					["isAwardReason"] = false,
+					["instance"] = "Battle of Dazar'alor-Heroic",
+					["class"] = "SHAMAN",
+					["iSubClass"] = 0,
+					["groupSize"] = 10,
+					["boss"] = "Jadefire Masters",
+					["difficultyID"] = 15,
+					["lootWon"] = "|cffa335ee|Hitem:165565::::::::120:102::5:3:4799:1522:4786:::|h[Band of Multi-Sided Strikes]|h|r",
+					["iClass"] = 4,
+					["time"] = "00:10:45",
+					["responseID"] = "PL",
+					["response"] = "Personal Loot - Non tradeable",
 					["color"] = {
 						1, -- [1]
 						0.6, -- [2]
 						0, -- [3]
 						1, -- [4]
 					},
-					["mapID"] = 2070,
-					["id"] = "1548540645-0",
-					["isAwardReason"] = false,
-					["date"] = "27/01/19",
-					["class"] = "SHAMAN",
-					["iSubClass"] = 0,
-					["response"] = "Personal Loot - Non tradeable",
-					["difficultyID"] = 15,
-					["boss"] = "Jadefire Masters",
-					["time"] = "00:10:45",
-					["iClass"] = 4,
-					["lootWon"] = "|cffa335ee|Hitem:165565::::::::120:102::5:3:4799:1522:4786:::|h[Band of Multi-Sided Strikes]|h|r",
-					["responseID"] = "PL",
-					["groupSize"] = 10,
-					["instance"] = "Battle of Dazar'alor-Heroic",
 				}, -- [15]
 				{
 					["mapID"] = 2070,
@@ -15083,165 +15140,165 @@ RCLootCouncilLootDB = {
 					["isAwardReason"] = false,
 				}, -- [17]
 				{
+					["id"] = "1548832751-2",
+					["mapID"] = 1841,
+					["date"] = "30/01/19",
+					["isAwardReason"] = false,
+					["instance"] = "The Underrot-Mythic Keystone",
+					["class"] = "SHAMAN",
+					["iSubClass"] = 3,
+					["response"] = "Personal Loot - Non tradeable",
+					["boss"] = "Unbound Abomination",
+					["difficultyID"] = 8,
+					["lootWon"] = "|cffa335ee|Hitem:159402::::::::120:262::16:3:5010:1572:4786:::|h[Waistguard of Sanguine Fervor]|h|r",
+					["iClass"] = 4,
+					["time"] = "09:19:11",
+					["responseID"] = "PL",
+					["groupSize"] = 5,
 					["color"] = {
 						1, -- [1]
 						0.6, -- [2]
 						0, -- [3]
 						1, -- [4]
 					},
-					["mapID"] = 1841,
-					["id"] = "1548832751-2",
-					["isAwardReason"] = false,
-					["date"] = "30/01/19",
-					["class"] = "SHAMAN",
-					["iSubClass"] = 3,
-					["groupSize"] = 5,
-					["difficultyID"] = 8,
-					["boss"] = "Unbound Abomination",
-					["time"] = "09:19:11",
-					["iClass"] = 4,
-					["lootWon"] = "|cffa335ee|Hitem:159402::::::::120:262::16:3:5010:1572:4786:::|h[Waistguard of Sanguine Fervor]|h|r",
-					["responseID"] = "PL",
-					["response"] = "Personal Loot - Non tradeable",
-					["instance"] = "The Underrot-Mythic Keystone",
 				}, -- [18]
 				{
-					["date"] = "30/01/19",
-					["mapID"] = 1822,
-					["groupSize"] = 5,
-					["isAwardReason"] = false,
 					["id"] = "1548837033-0",
+					["mapID"] = 1822,
+					["response"] = "Personal Loot - Non tradeable",
+					["isAwardReason"] = false,
+					["instance"] = "Siege of Boralus-Mythic Keystone",
 					["class"] = "SHAMAN",
 					["iSubClass"] = 0,
-					["response"] = "Personal Loot - Non tradeable",
-					["boss"] = "Viq'Goth",
+					["groupSize"] = 5,
 					["difficultyID"] = 8,
-					["lootWon"] = "|cffa335ee|Hitem:159623::::::::120:262::16:3:5010:1572:4786:::|h[Dead-Eye Spyglass]|h|r",
-					["iClass"] = 4,
+					["boss"] = "Viq'Goth",
 					["time"] = "10:30:33",
+					["iClass"] = 4,
+					["lootWon"] = "|cffa335ee|Hitem:159623::::::::120:262::16:3:5010:1572:4786:::|h[Dead-Eye Spyglass]|h|r",
 					["responseID"] = "PL",
+					["date"] = "30/01/19",
 					["color"] = {
 						1, -- [1]
 						0.6, -- [2]
 						0, -- [3]
 						1, -- [4]
 					},
-					["instance"] = "Siege of Boralus-Mythic Keystone",
 				}, -- [19]
 				{
-					["date"] = "30/01/19",
-					["mapID"] = 1822,
-					["groupSize"] = 5,
-					["isAwardReason"] = false,
 					["id"] = "1548839227-1",
+					["mapID"] = 1822,
+					["response"] = "Personal Loot - Non tradeable",
+					["isAwardReason"] = false,
+					["instance"] = "Siege of Boralus-Mythic Keystone",
 					["class"] = "SHAMAN",
 					["iSubClass"] = 3,
-					["response"] = "Personal Loot - Non tradeable",
-					["boss"] = "Viq'Goth",
+					["groupSize"] = 5,
 					["difficultyID"] = 8,
-					["lootWon"] = "|cffa335ee|Hitem:159372::::::::120:262::16:3:5010:1572:4786:::|h[Dread Captain's Irons]|h|r",
-					["iClass"] = 4,
+					["boss"] = "Viq'Goth",
 					["time"] = "11:07:07",
+					["iClass"] = 4,
+					["lootWon"] = "|cffa335ee|Hitem:159372::::::::120:262::16:3:5010:1572:4786:::|h[Dread Captain's Irons]|h|r",
 					["responseID"] = "PL",
+					["date"] = "30/01/19",
 					["color"] = {
 						1, -- [1]
 						0.6, -- [2]
 						0, -- [3]
 						1, -- [4]
 					},
-					["instance"] = "Siege of Boralus-Mythic Keystone",
 				}, -- [20]
 				{
-					["date"] = "30/01/19",
-					["mapID"] = 1594,
-					["groupSize"] = 5,
-					["isAwardReason"] = false,
 					["id"] = "1548841873-3",
+					["mapID"] = 1594,
+					["response"] = "Personal Loot - Non tradeable",
+					["isAwardReason"] = false,
+					["instance"] = "The MOTHERLODE!!-Mythic Keystone",
 					["class"] = "SHAMAN",
 					["iSubClass"] = 3,
-					["response"] = "Personal Loot - Non tradeable",
-					["boss"] = "Mogul Razdunk",
+					["groupSize"] = 5,
 					["difficultyID"] = 8,
-					["lootWon"] = "|cffa335ee|Hitem:159357::::::::120:262::16:3:5010:1572:4786:::|h[Linked Pummeler Grips]|h|r",
-					["iClass"] = 4,
+					["boss"] = "Mogul Razdunk",
 					["time"] = "11:51:13",
+					["iClass"] = 4,
+					["lootWon"] = "|cffa335ee|Hitem:159357::::::::120:262::16:3:5010:1572:4786:::|h[Linked Pummeler Grips]|h|r",
 					["responseID"] = "PL",
+					["date"] = "30/01/19",
 					["color"] = {
 						1, -- [1]
 						0.6, -- [2]
 						0, -- [3]
 						1, -- [4]
 					},
-					["instance"] = "The MOTHERLODE!!-Mythic Keystone",
 				}, -- [21]
 				{
-					["date"] = "30/01/19",
-					["mapID"] = 1763,
-					["groupSize"] = 5,
-					["isAwardReason"] = false,
 					["id"] = "1548846615-8",
+					["mapID"] = 1763,
+					["response"] = "Personal Loot - Non tradeable",
+					["isAwardReason"] = false,
+					["instance"] = "Atal'Dazar-Mythic Keystone",
 					["class"] = "SHAMAN",
 					["iSubClass"] = 13,
-					["response"] = "Personal Loot - Non tradeable",
-					["boss"] = "Yazma",
+					["groupSize"] = 5,
 					["difficultyID"] = 8,
-					["lootWon"] = "|cffa335ee|Hitem:160269::::::::120:262::16:3:5010:1572:4786:::|h[Soulrending Claw]|h|r",
-					["iClass"] = 2,
+					["boss"] = "Yazma",
 					["time"] = "13:10:15",
+					["iClass"] = 2,
+					["lootWon"] = "|cffa335ee|Hitem:160269::::::::120:262::16:3:5010:1572:4786:::|h[Soulrending Claw]|h|r",
 					["responseID"] = "PL",
+					["date"] = "30/01/19",
 					["color"] = {
 						1, -- [1]
 						0.6, -- [2]
 						0, -- [3]
 						1, -- [4]
 					},
-					["instance"] = "Atal'Dazar-Mythic Keystone",
 				}, -- [22]
 				{
-					["date"] = "30/01/19",
-					["mapID"] = 1762,
-					["groupSize"] = 5,
-					["isAwardReason"] = false,
 					["id"] = "1548853500-10",
+					["mapID"] = 1762,
+					["response"] = "Personal Loot - Non tradeable",
+					["isAwardReason"] = false,
+					["instance"] = "Kings' Rest-Mythic Keystone",
 					["class"] = "SHAMAN",
 					["iSubClass"] = 1,
-					["response"] = "Personal Loot - Non tradeable",
-					["boss"] = "King Dazar",
+					["groupSize"] = 5,
 					["difficultyID"] = 8,
-					["lootWon"] = "|cffa335ee|Hitem:159288::::::::120:262::16:3:5010:1572:4786:::|h[Cloak of the Restless Tribes]|h|r",
-					["iClass"] = 4,
+					["boss"] = "King Dazar",
 					["time"] = "15:05:00",
+					["iClass"] = 4,
+					["lootWon"] = "|cffa335ee|Hitem:159288::::::::120:262::16:3:5010:1572:4786:::|h[Cloak of the Restless Tribes]|h|r",
 					["responseID"] = "PL",
+					["date"] = "30/01/19",
 					["color"] = {
 						1, -- [1]
 						0.6, -- [2]
 						0, -- [3]
 						1, -- [4]
 					},
-					["instance"] = "Kings' Rest-Mythic Keystone",
 				}, -- [23]
 				{
-					["date"] = "30/01/19",
-					["mapID"] = 1771,
-					["groupSize"] = 5,
-					["isAwardReason"] = false,
 					["id"] = "1548860594-14",
+					["mapID"] = 1771,
+					["response"] = "Personal Loot - Non tradeable",
+					["isAwardReason"] = false,
+					["instance"] = "Tol Dagor-Mythic Keystone",
 					["class"] = "SHAMAN",
 					["iSubClass"] = 3,
-					["response"] = "Personal Loot - Non tradeable",
-					["boss"] = "Overseer Korgus",
+					["groupSize"] = 5,
 					["difficultyID"] = 8,
-					["lootWon"] = "|cffa335ee|Hitem:159390::::::::120:262::16:3:5010:1582:4783:::|h[Sure-Grip Munition Handlers]|h|r",
-					["iClass"] = 4,
+					["boss"] = "Overseer Korgus",
 					["time"] = "17:03:14",
+					["iClass"] = 4,
+					["lootWon"] = "|cffa335ee|Hitem:159390::::::::120:262::16:3:5010:1582:4783:::|h[Sure-Grip Munition Handlers]|h|r",
 					["responseID"] = "PL",
+					["date"] = "30/01/19",
 					["color"] = {
 						1, -- [1]
 						0.6, -- [2]
 						0, -- [3]
 						1, -- [4]
 					},
-					["instance"] = "Tol Dagor-Mythic Keystone",
 				}, -- [24]
 				{
 					["mapID"] = 2070,
@@ -15701,50 +15758,50 @@ RCLootCouncilLootDB = {
 					["isAwardReason"] = false,
 				}, -- [1]
 				{
-					["instance"] = "Battle of Dazar'alor-Heroic",
-					["mapID"] = 2070,
-					["groupSize"] = 25,
-					["isAwardReason"] = false,
 					["id"] = "1548266441-2",
+					["mapID"] = 2070,
+					["response"] = "Personal Loot - Non tradeable",
+					["isAwardReason"] = false,
+					["color"] = {
+						1, -- [1]
+						0.6, -- [2]
+						0, -- [3]
+						1, -- [4]
+					},
 					["class"] = "DEMONHUNTER",
 					["iSubClass"] = 2,
-					["response"] = "Personal Loot - Non tradeable",
-					["boss"] = "Champion of the Light",
+					["groupSize"] = 25,
 					["difficultyID"] = 15,
-					["lootWon"] = "|cffa335ee|Hitem:165514::::::::120:268::5:3:4799:1522:4786:::|h[Gloves of Spiritual Grace]|h|r",
-					["iClass"] = 4,
+					["boss"] = "Champion of the Light",
 					["time"] = "20:00:41",
+					["iClass"] = 4,
+					["lootWon"] = "|cffa335ee|Hitem:165514::::::::120:268::5:3:4799:1522:4786:::|h[Gloves of Spiritual Grace]|h|r",
 					["responseID"] = "PL",
+					["instance"] = "Battle of Dazar'alor-Heroic",
 					["date"] = "23/01/19",
-					["color"] = {
-						1, -- [1]
-						0.6, -- [2]
-						0, -- [3]
-						1, -- [4]
-					},
 				}, -- [2]
 				{
+					["id"] = "1548356512-4",
+					["mapID"] = 2070,
+					["date"] = "24/01/19",
+					["isAwardReason"] = false,
+					["instance"] = "Battle of Dazar'alor-Heroic",
+					["class"] = "DEMONHUNTER",
+					["iSubClass"] = 0,
+					["response"] = "Personal Loot - Non tradeable",
+					["boss"] = "Mekkatorque",
+					["difficultyID"] = 15,
+					["lootWon"] = "|cffa335ee|Hitem:165572::::::::120:268::5:3:4799:1522:4786:::|h[Variable Intensity Gigavolt Oscillating Reactor]|h|r",
+					["iClass"] = 4,
+					["time"] = "21:01:52",
+					["responseID"] = "PL",
+					["groupSize"] = 26,
 					["color"] = {
 						1, -- [1]
 						0.6, -- [2]
 						0, -- [3]
 						1, -- [4]
 					},
-					["mapID"] = 2070,
-					["id"] = "1548356512-4",
-					["isAwardReason"] = false,
-					["date"] = "24/01/19",
-					["class"] = "DEMONHUNTER",
-					["iSubClass"] = 0,
-					["groupSize"] = 26,
-					["difficultyID"] = 15,
-					["boss"] = "Mekkatorque",
-					["time"] = "21:01:52",
-					["iClass"] = 4,
-					["lootWon"] = "|cffa335ee|Hitem:165572::::::::120:268::5:3:4799:1522:4786:::|h[Variable Intensity Gigavolt Oscillating Reactor]|h|r",
-					["responseID"] = "PL",
-					["response"] = "Personal Loot - Non tradeable",
-					["instance"] = "Battle of Dazar'alor-Heroic",
 				}, -- [3]
 				{
 					["mapID"] = 2070,
@@ -15925,96 +15982,96 @@ RCLootCouncilLootDB = {
 			},
 			["Azirae-Kazzak"] = {
 				{
-					["instance"] = "Siege of Boralus-Mythic Keystone",
-					["mapID"] = 1822,
-					["groupSize"] = 5,
-					["isAwardReason"] = false,
 					["id"] = "1544455273-0",
-					["class"] = "DEATHKNIGHT",
-					["iSubClass"] = 4,
+					["mapID"] = 1822,
 					["response"] = "Personal Loot - Non tradeable",
-					["boss"] = "Viq'Goth",
-					["difficultyID"] = 8,
-					["lootWon"] = "|cffa335ee|Hitem:159429::::::::120:262::16:3:5010:1557:4784:::|h[Rope-Scored Gauntlets]|h|r",
-					["iClass"] = 4,
-					["time"] = "17:21:13",
-					["responseID"] = "PL",
-					["date"] = "10/12/18",
+					["isAwardReason"] = false,
 					["color"] = {
 						1, -- [1]
 						0.6, -- [2]
 						0, -- [3]
 						1, -- [4]
 					},
+					["class"] = "DEATHKNIGHT",
+					["iSubClass"] = 4,
+					["groupSize"] = 5,
+					["difficultyID"] = 8,
+					["boss"] = "Viq'Goth",
+					["time"] = "17:21:13",
+					["iClass"] = 4,
+					["lootWon"] = "|cffa335ee|Hitem:159429::::::::120:262::16:3:5010:1557:4784:::|h[Rope-Scored Gauntlets]|h|r",
+					["responseID"] = "PL",
+					["instance"] = "Siege of Boralus-Mythic Keystone",
+					["date"] = "10/12/18",
 				}, -- [1]
 				{
-					["instance"] = "Karazhan-10 Player",
-					["mapID"] = 532,
 					["id"] = "1544896946-0",
-					["isAwardReason"] = false,
+					["mapID"] = 532,
 					["color"] = {
 						1, -- [1]
 						0.6, -- [2]
 						0, -- [3]
 						1, -- [4]
 					},
+					["isAwardReason"] = false,
+					["date"] = "15/12/18",
 					["class"] = "DEATHKNIGHT",
 					["iSubClass"] = 4,
-					["response"] = "Personal Loot - Non tradeable",
-					["difficultyID"] = 3,
-					["boss"] = "Chess Event",
-					["time"] = "20:02:26",
-					["iClass"] = 4,
-					["lootWon"] = "|cffa335ee|Hitem:28747::::::::120:268::::::|h[Battlescar Boots]|h|r",
-					["responseID"] = "PL",
 					["groupSize"] = 10,
-					["date"] = "15/12/18",
+					["boss"] = "Chess Event",
+					["difficultyID"] = 3,
+					["lootWon"] = "|cffa335ee|Hitem:28747::::::::120:268::::::|h[Battlescar Boots]|h|r",
+					["iClass"] = 4,
+					["time"] = "20:02:26",
+					["responseID"] = "PL",
+					["response"] = "Personal Loot - Non tradeable",
+					["instance"] = "Karazhan-10 Player",
 				}, -- [2]
 				{
-					["color"] = {
-						1, -- [1]
-						0.6, -- [2]
-						0, -- [3]
-						1, -- [4]
-					},
-					["mapID"] = 1864,
 					["id"] = "1547585240-0",
-					["isAwardReason"] = false,
+					["mapID"] = 1864,
 					["date"] = "15/01/19",
+					["isAwardReason"] = false,
+					["instance"] = "Shrine of the Storm-Mythic Keystone",
 					["class"] = "DEATHKNIGHT",
 					["iSubClass"] = 4,
-					["response"] = "Personal Loot - Non tradeable",
-					["difficultyID"] = 8,
-					["boss"] = "Vol'zith the Whisperer",
-					["time"] = "22:47:20",
-					["iClass"] = 4,
-					["lootWon"] = "|cffa335ee|Hitem:159426::::::::120:250::16:3:5010:1552:4783:::|h[Belt of the Unrelenting Gale]|h|r",
-					["responseID"] = "PL",
 					["groupSize"] = 5,
-					["instance"] = "Shrine of the Storm-Mythic Keystone",
-				}, -- [3]
-				{
-					["instance"] = "Battle of Dazar'alor-Normal",
-					["mapID"] = 2070,
-					["id"] = "1548529438-2",
-					["isAwardReason"] = false,
+					["boss"] = "Vol'zith the Whisperer",
+					["difficultyID"] = 8,
+					["lootWon"] = "|cffa335ee|Hitem:159426::::::::120:250::16:3:5010:1552:4783:::|h[Belt of the Unrelenting Gale]|h|r",
+					["iClass"] = 4,
+					["time"] = "22:47:20",
+					["responseID"] = "PL",
+					["response"] = "Personal Loot - Non tradeable",
 					["color"] = {
 						1, -- [1]
 						0.6, -- [2]
 						0, -- [3]
 						1, -- [4]
 					},
+				}, -- [3]
+				{
+					["id"] = "1548529438-2",
+					["mapID"] = 2070,
+					["color"] = {
+						1, -- [1]
+						0.6, -- [2]
+						0, -- [3]
+						1, -- [4]
+					},
+					["isAwardReason"] = false,
+					["date"] = "26/01/19",
 					["class"] = "DEATHKNIGHT",
 					["iSubClass"] = 3,
-					["response"] = "Personal Loot - Non tradeable",
-					["difficultyID"] = 14,
-					["boss"] = "Mekkatorque",
-					["time"] = "21:03:58",
-					["iClass"] = 9,
-					["lootWon"] = "|cff1eff00|Hitem:166276::::::::120:102::3::::|h[Schematic: Unstable Temporal Time Shifter]|h|r",
-					["responseID"] = "PL",
 					["groupSize"] = 15,
-					["date"] = "26/01/19",
+					["boss"] = "Mekkatorque",
+					["difficultyID"] = 14,
+					["lootWon"] = "|cff1eff00|Hitem:166276::::::::120:102::3::::|h[Schematic: Unstable Temporal Time Shifter]|h|r",
+					["iClass"] = 9,
+					["time"] = "21:03:58",
+					["responseID"] = "PL",
+					["response"] = "Personal Loot - Non tradeable",
+					["instance"] = "Battle of Dazar'alor-Normal",
 				}, -- [4]
 				{
 					["mapID"] = 2070,
@@ -16096,73 +16153,73 @@ RCLootCouncilLootDB = {
 					["votes"] = 1,
 				}, -- [1]
 				{
-					["instance"] = "Uldir-Mythic",
-					["mapID"] = 1861,
-					["groupSize"] = 20,
-					["isAwardReason"] = false,
 					["id"] = "1545335967-19",
+					["mapID"] = 1861,
+					["response"] = "Personal Loot - Non tradeable",
+					["isAwardReason"] = false,
+					["color"] = {
+						1, -- [1]
+						0.6, -- [2]
+						0, -- [3]
+						1, -- [4]
+					},
 					["class"] = "ROGUE",
 					["iSubClass"] = 5,
-					["response"] = "Personal Loot - Non tradeable",
-					["boss"] = "Fetid Devourer",
+					["groupSize"] = 20,
 					["difficultyID"] = 16,
-					["lootWon"] = "|cff1eff00|Hitem:139299::::::::120:268::6::::|h[Finely-Tailored Red Holiday Hat]|h|r",
-					["iClass"] = 4,
+					["boss"] = "Fetid Devourer",
 					["time"] = "21:59:27",
+					["iClass"] = 4,
+					["lootWon"] = "|cff1eff00|Hitem:139299::::::::120:268::6::::|h[Finely-Tailored Red Holiday Hat]|h|r",
 					["responseID"] = "PL",
+					["instance"] = "Uldir-Mythic",
 					["date"] = "20/12/18",
-					["color"] = {
-						1, -- [1]
-						0.6, -- [2]
-						0, -- [3]
-						1, -- [4]
-					},
 				}, -- [2]
 				{
-					["instance"] = "Battle of Dazar'alor-Heroic",
-					["mapID"] = 2070,
 					["id"] = "1548278638-34",
-					["isAwardReason"] = false,
+					["mapID"] = 2070,
 					["color"] = {
 						1, -- [1]
 						0.6, -- [2]
 						0, -- [3]
 						1, -- [4]
 					},
+					["isAwardReason"] = false,
+					["date"] = "23/01/19",
 					["class"] = "ROGUE",
 					["iSubClass"] = 0,
-					["groupSize"] = 26,
-					["difficultyID"] = 15,
-					["boss"] = "King Rastakhan",
-					["time"] = "23:23:58",
-					["iClass"] = 4,
-					["lootWon"] = "|cffa335ee|Hitem:165567::::::::120:268::5:4:4799:1808:1522:4786:::|h[Seal of the Zandalari Empire]|h|r",
-					["responseID"] = "PL",
 					["response"] = "Personal Loot - Non tradeable",
-					["date"] = "23/01/19",
+					["boss"] = "King Rastakhan",
+					["difficultyID"] = 15,
+					["lootWon"] = "|cffa335ee|Hitem:165567::::::::120:268::5:4:4799:1808:1522:4786:::|h[Seal of the Zandalari Empire]|h|r",
+					["iClass"] = 4,
+					["time"] = "23:23:58",
+					["responseID"] = "PL",
+					["groupSize"] = 26,
+					["instance"] = "Battle of Dazar'alor-Heroic",
 				}, -- [3]
 				{
+					["id"] = "1548356507-1",
+					["mapID"] = 2070,
+					["date"] = "24/01/19",
+					["isAwardReason"] = false,
+					["instance"] = "Battle of Dazar'alor-Heroic",
+					["class"] = "ROGUE",
+					["iSubClass"] = 1,
+					["response"] = "Personal Loot - Non tradeable",
+					["boss"] = "Mekkatorque",
+					["difficultyID"] = 15,
+					["lootWon"] = "|cffa335ee|Hitem:165924::::::::120:268::5:3:4799:1522:4786:::|h[High Tinker's Cape]|h|r",
+					["iClass"] = 4,
+					["time"] = "21:01:47",
+					["responseID"] = "PL",
+					["groupSize"] = 26,
 					["color"] = {
 						1, -- [1]
 						0.6, -- [2]
 						0, -- [3]
 						1, -- [4]
 					},
-					["mapID"] = 2070,
-					["id"] = "1548356507-1",
-					["isAwardReason"] = false,
-					["date"] = "24/01/19",
-					["class"] = "ROGUE",
-					["iSubClass"] = 1,
-					["groupSize"] = 26,
-					["difficultyID"] = 15,
-					["boss"] = "Mekkatorque",
-					["time"] = "21:01:47",
-					["iClass"] = 4,
-					["lootWon"] = "|cffa335ee|Hitem:165924::::::::120:268::5:3:4799:1522:4786:::|h[High Tinker's Cape]|h|r",
-					["responseID"] = "PL",
-					["response"] = "Personal Loot - Non tradeable",
-					["instance"] = "Battle of Dazar'alor-Heroic",
 				}, -- [4]
 				{
 					["mapID"] = 2070,
@@ -16399,27 +16456,27 @@ RCLootCouncilLootDB = {
 			},
 			["Pecarosh-Kazzak"] = {
 				{
+					["id"] = "1543518717-7",
+					["mapID"] = 1861,
+					["response"] = "Personal Loot - Non tradeable",
+					["isAwardReason"] = false,
+					["date"] = "29/11/18",
+					["class"] = "WARRIOR",
+					["iSubClass"] = 1,
+					["groupSize"] = 20,
+					["difficultyID"] = 16,
+					["boss"] = "Vectis",
+					["time"] = "21:11:57",
+					["iClass"] = 4,
+					["lootWon"] = "|cffa335ee|Hitem:160644::::::::120:265::6:3:4800:1512:4783:::|h[Plasma-Spattered Greatcloak]|h|r",
+					["responseID"] = "PL",
 					["color"] = {
 						1, -- [1]
 						0.6, -- [2]
 						0, -- [3]
 						1, -- [4]
 					},
-					["mapID"] = 1861,
-					["groupSize"] = 20,
-					["isAwardReason"] = false,
-					["id"] = "1543518717-7",
-					["class"] = "WARRIOR",
-					["iSubClass"] = 1,
-					["response"] = "Personal Loot - Non tradeable",
-					["boss"] = "Vectis",
-					["difficultyID"] = 16,
-					["lootWon"] = "|cffa335ee|Hitem:160644::::::::120:265::6:3:4800:1512:4783:::|h[Plasma-Spattered Greatcloak]|h|r",
-					["iClass"] = 4,
-					["time"] = "21:11:57",
-					["responseID"] = "PL",
 					["instance"] = "Uldir-Mythic",
-					["date"] = "29/11/18",
 				}, -- [1]
 			},
 			["Marmiw-Kazzak"] = {
@@ -16524,73 +16581,73 @@ RCLootCouncilLootDB = {
 					["isAwardReason"] = false,
 				}, -- [1]
 				{
-					["date"] = "10/01/19",
-					["mapID"] = 1861,
 					["id"] = "1547148670-19",
-					["isAwardReason"] = false,
+					["mapID"] = 1861,
 					["instance"] = "Uldir-Mythic",
+					["isAwardReason"] = false,
+					["color"] = {
+						1, -- [1]
+						0.6, -- [2]
+						0, -- [3]
+						1, -- [4]
+					},
 					["class"] = "DRUID",
 					["iSubClass"] = 10,
-					["groupSize"] = 20,
-					["difficultyID"] = 16,
-					["boss"] = "Fetid Devourer",
-					["time"] = "21:31:10",
-					["iClass"] = 2,
-					["lootWon"] = "|cffa335ee|Hitem:160689::::::::120:268::6:4:4800:43:1517:4783:::|h[Regurgitated Purifier's Flamestaff]|h|r",
-					["responseID"] = "PL",
 					["response"] = "Personal Loot - Non tradeable",
-					["color"] = {
-						1, -- [1]
-						0.6, -- [2]
-						0, -- [3]
-						1, -- [4]
-					},
+					["boss"] = "Fetid Devourer",
+					["difficultyID"] = 16,
+					["lootWon"] = "|cffa335ee|Hitem:160689::::::::120:268::6:4:4800:43:1517:4783:::|h[Regurgitated Purifier's Flamestaff]|h|r",
+					["iClass"] = 2,
+					["time"] = "21:31:10",
+					["responseID"] = "PL",
+					["groupSize"] = 20,
+					["date"] = "10/01/19",
 				}, -- [2]
 				{
-					["instance"] = "Battle of Dazar'alor-Heroic",
-					["mapID"] = 2070,
-					["groupSize"] = 26,
-					["isAwardReason"] = false,
 					["id"] = "1548267195-9",
+					["mapID"] = 2070,
+					["response"] = "Personal Loot - Non tradeable",
+					["isAwardReason"] = false,
+					["color"] = {
+						1, -- [1]
+						0.6, -- [2]
+						0, -- [3]
+						1, -- [4]
+					},
 					["class"] = "DRUID",
 					["iSubClass"] = 2,
-					["response"] = "Personal Loot - Non tradeable",
-					["boss"] = "Grong",
+					["groupSize"] = 26,
 					["difficultyID"] = 15,
-					["lootWon"] = "|cffa335ee|Hitem:165515::::::::120:268::5:4:4823:1522:4786:5416:::|h[Grongpelt Vest]|h|r",
-					["iClass"] = 4,
+					["boss"] = "Grong",
 					["time"] = "20:13:15",
+					["iClass"] = 4,
+					["lootWon"] = "|cffa335ee|Hitem:165515::::::::120:268::5:4:4823:1522:4786:5416:::|h[Grongpelt Vest]|h|r",
 					["responseID"] = "PL",
+					["instance"] = "Battle of Dazar'alor-Heroic",
 					["date"] = "23/01/19",
-					["color"] = {
-						1, -- [1]
-						0.6, -- [2]
-						0, -- [3]
-						1, -- [4]
-					},
 				}, -- [3]
 				{
+					["id"] = "1548274394-29",
+					["mapID"] = 2070,
+					["date"] = "23/01/19",
+					["isAwardReason"] = false,
+					["instance"] = "Battle of Dazar'alor-Heroic",
+					["class"] = "DRUID",
+					["iSubClass"] = 1,
+					["groupSize"] = 26,
+					["boss"] = "Conclave of the Chosen",
+					["difficultyID"] = 15,
+					["lootWon"] = "|cffa335ee|Hitem:165512::::::::120:268::5:3:4799:1522:4786:::|h[Loa Exultant's Shroud]|h|r",
+					["iClass"] = 4,
+					["time"] = "22:13:14",
+					["responseID"] = "PL",
+					["response"] = "Personal Loot - Non tradeable",
 					["color"] = {
 						1, -- [1]
 						0.6, -- [2]
 						0, -- [3]
 						1, -- [4]
 					},
-					["mapID"] = 2070,
-					["id"] = "1548274394-29",
-					["isAwardReason"] = false,
-					["date"] = "23/01/19",
-					["class"] = "DRUID",
-					["iSubClass"] = 1,
-					["response"] = "Personal Loot - Non tradeable",
-					["difficultyID"] = 15,
-					["boss"] = "Conclave of the Chosen",
-					["time"] = "22:13:14",
-					["iClass"] = 4,
-					["lootWon"] = "|cffa335ee|Hitem:165512::::::::120:268::5:3:4799:1522:4786:::|h[Loa Exultant's Shroud]|h|r",
-					["responseID"] = "PL",
-					["groupSize"] = 26,
-					["instance"] = "Battle of Dazar'alor-Heroic",
 				}, -- [4]
 				{
 					["mapID"] = 2070,
@@ -17454,27 +17511,27 @@ RCLootCouncilLootDB = {
 					["instance"] = "Uldir-Mythic",
 				}, -- [1]
 				{
+					["id"] = "1548544765-1",
+					["mapID"] = 2070,
+					["date"] = "27/01/19",
+					["isAwardReason"] = false,
+					["instance"] = "Battle of Dazar'alor-Heroic",
+					["class"] = "DRUID",
+					["iSubClass"] = 2,
+					["groupSize"] = 20,
+					["boss"] = "Opulence",
+					["difficultyID"] = 15,
+					["lootWon"] = "|cffa335ee|Hitem:165524::::::::120:250::5:3:4799:1532:4783:::|h[Amethyst-Studded Bindings]|h|r",
+					["iClass"] = 4,
+					["time"] = "01:19:25",
+					["responseID"] = "PL",
+					["response"] = "Personal Loot - Non tradeable",
 					["color"] = {
 						1, -- [1]
 						0.6, -- [2]
 						0, -- [3]
 						1, -- [4]
 					},
-					["mapID"] = 2070,
-					["id"] = "1548544765-1",
-					["isAwardReason"] = false,
-					["date"] = "27/01/19",
-					["class"] = "DRUID",
-					["iSubClass"] = 2,
-					["response"] = "Personal Loot - Non tradeable",
-					["difficultyID"] = 15,
-					["boss"] = "Opulence",
-					["time"] = "01:19:25",
-					["iClass"] = 4,
-					["lootWon"] = "|cffa335ee|Hitem:165524::::::::120:250::5:3:4799:1532:4783:::|h[Amethyst-Studded Bindings]|h|r",
-					["responseID"] = "PL",
-					["groupSize"] = 20,
-					["instance"] = "Battle of Dazar'alor-Heroic",
 				}, -- [2]
 				{
 					["mapID"] = 1771,
@@ -17527,27 +17584,27 @@ RCLootCouncilLootDB = {
 			},
 			["Marmyk-Kazzak"] = {
 				{
-					["date"] = "01/11/18",
-					["mapID"] = 1861,
-					["response"] = "Personal Loot - Non tradeable",
-					["isAwardReason"] = false,
 					["id"] = "1541104922-19",
+					["mapID"] = 1861,
+					["groupSize"] = 20,
+					["isAwardReason"] = false,
+					["instance"] = "Uldir-Mythic",
 					["class"] = "DEATHKNIGHT",
 					["iSubClass"] = 4,
-					["groupSize"] = 20,
-					["boss"] = "Fetid Devourer",
+					["response"] = "Personal Loot - Non tradeable",
 					["difficultyID"] = 16,
-					["lootWon"] = "|cffa335ee|Hitem:160635::::::::120:268::6:3:4800:1507:4786:::|h[Waste Disposal Crushers]|h|r",
-					["iClass"] = 4,
+					["boss"] = "Fetid Devourer",
 					["time"] = "22:42:02",
+					["iClass"] = 4,
+					["lootWon"] = "|cffa335ee|Hitem:160635::::::::120:268::6:3:4800:1507:4786:::|h[Waste Disposal Crushers]|h|r",
 					["responseID"] = "PL",
+					["date"] = "01/11/18",
 					["color"] = {
 						1, -- [1]
 						0.6, -- [2]
 						0, -- [3]
 						1, -- [4]
 					},
-					["instance"] = "Uldir-Mythic",
 				}, -- [1]
 				{
 					["mapID"] = 1841,
@@ -17953,96 +18010,96 @@ RCLootCouncilLootDB = {
 			},
 			["Sillidari-Kazzak"] = {
 				{
+					["id"] = "1541900206-0",
+					["mapID"] = 1771,
+					["groupSize"] = 5,
+					["isAwardReason"] = false,
+					["date"] = "11/11/18",
+					["class"] = "DEMONHUNTER",
+					["iSubClass"] = 2,
+					["response"] = "Personal Loot - Non tradeable",
+					["difficultyID"] = 8,
+					["boss"] = "Overseer Korgus",
+					["time"] = "03:36:46",
+					["iClass"] = 4,
+					["lootWon"] = "|cffa335ee|Hitem:159343::::::::120:268::16:3:5010:1562:4784:::|h[Spark Dampening Footpads]|h|r",
+					["responseID"] = "PL",
 					["color"] = {
 						1, -- [1]
 						0.6, -- [2]
 						0, -- [3]
 						1, -- [4]
 					},
-					["mapID"] = 1771,
-					["response"] = "Personal Loot - Non tradeable",
-					["isAwardReason"] = false,
-					["id"] = "1541900206-0",
-					["class"] = "DEMONHUNTER",
-					["iSubClass"] = 2,
-					["groupSize"] = 5,
-					["boss"] = "Overseer Korgus",
-					["difficultyID"] = 8,
-					["lootWon"] = "|cffa335ee|Hitem:159343::::::::120:268::16:3:5010:1562:4784:::|h[Spark Dampening Footpads]|h|r",
-					["iClass"] = 4,
-					["time"] = "03:36:46",
-					["responseID"] = "PL",
 					["instance"] = "Tol Dagor-Mythic Keystone",
-					["date"] = "11/11/18",
 				}, -- [1]
 				{
-					["color"] = {
-						1, -- [1]
-						0.6, -- [2]
-						0, -- [3]
-						1, -- [4]
-					},
-					["mapID"] = 1754,
-					["groupSize"] = 5,
-					["isAwardReason"] = false,
 					["id"] = "1542384386-0",
+					["mapID"] = 1754,
+					["response"] = "Personal Loot - Non tradeable",
+					["isAwardReason"] = false,
+					["date"] = "16/11/18",
 					["class"] = "DEMONHUNTER",
 					["iSubClass"] = 2,
-					["response"] = "Personal Loot - Non tradeable",
-					["boss"] = "Lord Harlan Sweete",
+					["groupSize"] = 5,
 					["difficultyID"] = 8,
-					["lootWon"] = "|cffa335ee|Hitem:158305::::::::120:64::16:3:5010:1552:4783:::|h[Sea Dog's Cuffs]|h|r",
-					["iClass"] = 4,
+					["boss"] = "Lord Harlan Sweete",
 					["time"] = "18:06:26",
+					["iClass"] = 4,
+					["lootWon"] = "|cffa335ee|Hitem:158305::::::::120:64::16:3:5010:1552:4783:::|h[Sea Dog's Cuffs]|h|r",
 					["responseID"] = "PL",
+					["color"] = {
+						1, -- [1]
+						0.6, -- [2]
+						0, -- [3]
+						1, -- [4]
+					},
 					["instance"] = "Freehold-Mythic Keystone",
-					["date"] = "16/11/18",
 				}, -- [2]
 				{
-					["instance"] = "Broken Isles-",
-					["mapID"] = 1220,
-					["response"] = "Personal Loot - Non tradeable",
-					["isAwardReason"] = false,
 					["id"] = "1542403783-0",
-					["class"] = "DEMONHUNTER",
-					["iSubClass"] = 0,
+					["mapID"] = 1220,
 					["groupSize"] = 0,
-					["boss"] = "Helya",
-					["difficultyID"] = 0,
-					["lootWon"] = "|cffa335ee|Hitem:137461::::::::120:262::23:4:1727:40:1492:3528:::|h[Breathless Choker]|h|r",
-					["iClass"] = 4,
-					["time"] = "23:29:43",
-					["responseID"] = "PL",
-					["date"] = "16/11/18",
+					["isAwardReason"] = false,
 					["color"] = {
 						1, -- [1]
 						0.6, -- [2]
 						0, -- [3]
 						1, -- [4]
 					},
+					["class"] = "DEMONHUNTER",
+					["iSubClass"] = 0,
+					["response"] = "Personal Loot - Non tradeable",
+					["difficultyID"] = 0,
+					["boss"] = "Helya",
+					["time"] = "23:29:43",
+					["iClass"] = 4,
+					["lootWon"] = "|cffa335ee|Hitem:137461::::::::120:262::23:4:1727:40:1492:3528:::|h[Breathless Choker]|h|r",
+					["responseID"] = "PL",
+					["instance"] = "Broken Isles-",
+					["date"] = "16/11/18",
 				}, -- [3]
 				{
-					["instance"] = "Uldir-Heroic",
-					["mapID"] = 1861,
 					["id"] = "1542825384-1",
-					["isAwardReason"] = false,
+					["mapID"] = 1861,
 					["color"] = {
 						1, -- [1]
 						0.6, -- [2]
 						0, -- [3]
 						1, -- [4]
 					},
+					["isAwardReason"] = false,
+					["date"] = "21/11/18",
 					["class"] = "DEMONHUNTER",
 					["iSubClass"] = 0,
-					["groupSize"] = 13,
-					["difficultyID"] = 15,
-					["boss"] = "Fetid Devourer",
-					["time"] = "20:36:24",
-					["iClass"] = 4,
-					["lootWon"] = "|cffa335ee|Hitem:160648::::::::120:265::5:3:4799:1507:4784:::|h[Frenetic Corpuscle]|h|r",
-					["responseID"] = "PL",
 					["response"] = "Personal Loot - Non tradeable",
-					["date"] = "21/11/18",
+					["boss"] = "Fetid Devourer",
+					["difficultyID"] = 15,
+					["lootWon"] = "|cffa335ee|Hitem:160648::::::::120:265::5:3:4799:1507:4784:::|h[Frenetic Corpuscle]|h|r",
+					["iClass"] = 4,
+					["time"] = "20:36:24",
+					["responseID"] = "PL",
+					["groupSize"] = 13,
+					["instance"] = "Uldir-Heroic",
 				}, -- [4]
 				{
 					["mapID"] = 1861,
@@ -18096,27 +18153,27 @@ RCLootCouncilLootDB = {
 					["isAwardReason"] = false,
 				}, -- [6]
 				{
-					["instance"] = "Uldir-Mythic",
-					["mapID"] = 1861,
-					["groupSize"] = 20,
-					["isAwardReason"] = false,
 					["id"] = "1544729216-13",
-					["class"] = "DEMONHUNTER",
-					["iSubClass"] = 1,
+					["mapID"] = 1861,
 					["response"] = "Personal Loot - Non tradeable",
-					["boss"] = "Vectis",
-					["difficultyID"] = 16,
-					["lootWon"] = "|cffa335ee|Hitem:160644::::::::120:268::6:3:4800:1512:4783:::|h[Plasma-Spattered Greatcloak]|h|r",
-					["iClass"] = 4,
-					["time"] = "21:26:56",
-					["responseID"] = "PL",
-					["date"] = "13/12/18",
+					["isAwardReason"] = false,
 					["color"] = {
 						1, -- [1]
 						0.6, -- [2]
 						0, -- [3]
 						1, -- [4]
 					},
+					["class"] = "DEMONHUNTER",
+					["iSubClass"] = 1,
+					["groupSize"] = 20,
+					["difficultyID"] = 16,
+					["boss"] = "Vectis",
+					["time"] = "21:26:56",
+					["iClass"] = 4,
+					["lootWon"] = "|cffa335ee|Hitem:160644::::::::120:268::6:3:4800:1512:4783:::|h[Plasma-Spattered Greatcloak]|h|r",
+					["responseID"] = "PL",
+					["instance"] = "Uldir-Mythic",
+					["date"] = "13/12/18",
 				}, -- [7]
 				{
 					["mapID"] = 1861,
@@ -18194,648 +18251,648 @@ RCLootCouncilLootDB = {
 					["instance"] = "Uldir-Mythic",
 				}, -- [10]
 				{
-					["instance"] = "Uldir-Mythic",
-					["mapID"] = 1861,
-					["groupSize"] = 20,
-					["isAwardReason"] = false,
 					["id"] = "1545335956-17",
-					["class"] = "DEMONHUNTER",
-					["iSubClass"] = 5,
+					["mapID"] = 1861,
 					["response"] = "Personal Loot - Non tradeable",
-					["boss"] = "Fetid Devourer",
-					["difficultyID"] = 16,
-					["lootWon"] = "|cff1eff00|Hitem:139299::::::::120:268::6::::|h[Finely-Tailored Red Holiday Hat]|h|r",
-					["iClass"] = 4,
-					["time"] = "21:59:16",
-					["responseID"] = "PL",
-					["date"] = "20/12/18",
+					["isAwardReason"] = false,
 					["color"] = {
 						1, -- [1]
 						0.6, -- [2]
 						0, -- [3]
 						1, -- [4]
 					},
+					["class"] = "DEMONHUNTER",
+					["iSubClass"] = 5,
+					["groupSize"] = 20,
+					["difficultyID"] = 16,
+					["boss"] = "Fetid Devourer",
+					["time"] = "21:59:16",
+					["iClass"] = 4,
+					["lootWon"] = "|cff1eff00|Hitem:139299::::::::120:268::6::::|h[Finely-Tailored Red Holiday Hat]|h|r",
+					["responseID"] = "PL",
+					["instance"] = "Uldir-Mythic",
+					["date"] = "20/12/18",
 				}, -- [11]
 				{
-					["instance"] = "Zandalar-",
-					["mapID"] = 1642,
-					["response"] = "Personal Loot - Non tradeable",
-					["isAwardReason"] = false,
 					["id"] = "1546560530-0",
-					["class"] = "DEMONHUNTER",
-					["iSubClass"] = 4,
+					["mapID"] = 1642,
 					["groupSize"] = 0,
-					["boss"] = "Archimonde",
-					["difficultyID"] = 0,
-					["lootWon"] = "|cffa335ee|Hitem:124352::::::::120:262::6:2:1799:1478:::|h[Wristplate of the Wretched]|h|r",
-					["iClass"] = 4,
-					["time"] = "02:08:50",
-					["responseID"] = "PL",
-					["date"] = "04/01/19",
+					["isAwardReason"] = false,
 					["color"] = {
 						1, -- [1]
 						0.6, -- [2]
 						0, -- [3]
 						1, -- [4]
 					},
+					["class"] = "DEMONHUNTER",
+					["iSubClass"] = 4,
+					["response"] = "Personal Loot - Non tradeable",
+					["difficultyID"] = 0,
+					["boss"] = "Archimonde",
+					["time"] = "02:08:50",
+					["iClass"] = 4,
+					["lootWon"] = "|cffa335ee|Hitem:124352::::::::120:262::6:2:1799:1478:::|h[Wristplate of the Wretched]|h|r",
+					["responseID"] = "PL",
+					["instance"] = "Zandalar-",
+					["date"] = "04/01/19",
 				}, -- [12]
 				{
-					["instance"] = "Zandalar-",
-					["mapID"] = 1642,
-					["response"] = "Personal Loot - Non tradeable",
-					["isAwardReason"] = false,
 					["id"] = "1546560530-1",
-					["class"] = "DEMONHUNTER",
-					["iSubClass"] = 2,
+					["mapID"] = 1642,
 					["groupSize"] = 0,
-					["boss"] = "Archimonde",
-					["difficultyID"] = 0,
-					["lootWon"] = "|cffa335ee|Hitem:124275::::::::120:262::6:2:1799:1478:::|h[Belt of Misconceived Loyalty]|h|r",
-					["iClass"] = 4,
-					["time"] = "02:08:50",
-					["responseID"] = "PL",
-					["date"] = "04/01/19",
+					["isAwardReason"] = false,
 					["color"] = {
 						1, -- [1]
 						0.6, -- [2]
 						0, -- [3]
 						1, -- [4]
 					},
+					["class"] = "DEMONHUNTER",
+					["iSubClass"] = 2,
+					["response"] = "Personal Loot - Non tradeable",
+					["difficultyID"] = 0,
+					["boss"] = "Archimonde",
+					["time"] = "02:08:50",
+					["iClass"] = 4,
+					["lootWon"] = "|cffa335ee|Hitem:124275::::::::120:262::6:2:1799:1478:::|h[Belt of Misconceived Loyalty]|h|r",
+					["responseID"] = "PL",
+					["instance"] = "Zandalar-",
+					["date"] = "04/01/19",
 				}, -- [13]
 				{
-					["instance"] = "Zandalar-",
-					["mapID"] = 1642,
-					["response"] = "Personal Loot - Non tradeable",
-					["isAwardReason"] = false,
 					["id"] = "1546560530-2",
+					["mapID"] = 1642,
+					["groupSize"] = 0,
+					["isAwardReason"] = false,
+					["color"] = {
+						1, -- [1]
+						0.6, -- [2]
+						0, -- [3]
+						1, -- [4]
+					},
 					["class"] = "DEMONHUNTER",
 					["iSubClass"] = 7,
-					["groupSize"] = 0,
-					["boss"] = "Archimonde",
+					["response"] = "Personal Loot - Non tradeable",
 					["difficultyID"] = 0,
-					["lootWon"] = "|cffa335ee|Hitem:124387::::::::120:262::6:2:1799:1478:::|h[Shadowrend Talonblade]|h|r",
-					["iClass"] = 2,
+					["boss"] = "Archimonde",
 					["time"] = "02:08:50",
+					["iClass"] = 2,
+					["lootWon"] = "|cffa335ee|Hitem:124387::::::::120:262::6:2:1799:1478:::|h[Shadowrend Talonblade]|h|r",
 					["responseID"] = "PL",
+					["instance"] = "Zandalar-",
 					["date"] = "04/01/19",
-					["color"] = {
-						1, -- [1]
-						0.6, -- [2]
-						0, -- [3]
-						1, -- [4]
-					},
 				}, -- [14]
 				{
-					["instance"] = "Zandalar-",
-					["mapID"] = 1642,
-					["response"] = "Personal Loot - Non tradeable",
-					["isAwardReason"] = false,
 					["id"] = "1546560530-3",
-					["class"] = "DEMONHUNTER",
-					["iSubClass"] = 0,
+					["mapID"] = 1642,
 					["groupSize"] = 0,
-					["boss"] = "Archimonde",
-					["difficultyID"] = 0,
-					["lootWon"] = "|cffa335ee|Hitem:124194::::::::120:262::6:2:1799:1478:::|h[Ring of Foul Temptation]|h|r",
-					["iClass"] = 4,
-					["time"] = "02:08:50",
-					["responseID"] = "PL",
-					["date"] = "04/01/19",
+					["isAwardReason"] = false,
 					["color"] = {
 						1, -- [1]
 						0.6, -- [2]
 						0, -- [3]
 						1, -- [4]
 					},
+					["class"] = "DEMONHUNTER",
+					["iSubClass"] = 0,
+					["response"] = "Personal Loot - Non tradeable",
+					["difficultyID"] = 0,
+					["boss"] = "Archimonde",
+					["time"] = "02:08:50",
+					["iClass"] = 4,
+					["lootWon"] = "|cffa335ee|Hitem:124194::::::::120:262::6:2:1799:1478:::|h[Ring of Foul Temptation]|h|r",
+					["responseID"] = "PL",
+					["instance"] = "Zandalar-",
+					["date"] = "04/01/19",
 				}, -- [15]
 				{
-					["instance"] = "Zandalar-",
-					["mapID"] = 1642,
-					["response"] = "Personal Loot - Non tradeable",
-					["isAwardReason"] = false,
 					["id"] = "1546560530-4",
+					["mapID"] = 1642,
+					["groupSize"] = 0,
+					["isAwardReason"] = false,
+					["color"] = {
+						1, -- [1]
+						0.6, -- [2]
+						0, -- [3]
+						1, -- [4]
+					},
 					["class"] = "DEMONHUNTER",
 					["iSubClass"] = 3,
-					["groupSize"] = 0,
-					["boss"] = "Archimonde",
+					["response"] = "Personal Loot - Non tradeable",
 					["difficultyID"] = 0,
-					["lootWon"] = "|cffa335ee|Hitem:124282::::::::120:262::6:2:1799:1478:::|h[Vestment of Illusory Might]|h|r",
-					["iClass"] = 4,
+					["boss"] = "Archimonde",
 					["time"] = "02:08:50",
+					["iClass"] = 4,
+					["lootWon"] = "|cffa335ee|Hitem:124282::::::::120:262::6:2:1799:1478:::|h[Vestment of Illusory Might]|h|r",
 					["responseID"] = "PL",
+					["instance"] = "Zandalar-",
 					["date"] = "04/01/19",
-					["color"] = {
-						1, -- [1]
-						0.6, -- [2]
-						0, -- [3]
-						1, -- [4]
-					},
 				}, -- [16]
 				{
-					["instance"] = "Zandalar-",
-					["mapID"] = 1642,
-					["response"] = "Personal Loot - Non tradeable",
-					["isAwardReason"] = false,
 					["id"] = "1546560649-5",
-					["class"] = "DEMONHUNTER",
-					["iSubClass"] = 1,
+					["mapID"] = 1642,
 					["groupSize"] = 0,
-					["boss"] = "Archimonde",
-					["difficultyID"] = 0,
-					["lootWon"] = "|cffa335ee|Hitem:124185::::::::120:262::6:3:1799:40:1478:::|h[Pristine Man'ari Cuffs]|h|r",
-					["iClass"] = 4,
-					["time"] = "02:10:49",
-					["responseID"] = "PL",
-					["date"] = "04/01/19",
+					["isAwardReason"] = false,
 					["color"] = {
 						1, -- [1]
 						0.6, -- [2]
 						0, -- [3]
 						1, -- [4]
 					},
+					["class"] = "DEMONHUNTER",
+					["iSubClass"] = 1,
+					["response"] = "Personal Loot - Non tradeable",
+					["difficultyID"] = 0,
+					["boss"] = "Archimonde",
+					["time"] = "02:10:49",
+					["iClass"] = 4,
+					["lootWon"] = "|cffa335ee|Hitem:124185::::::::120:262::6:3:1799:40:1478:::|h[Pristine Man'ari Cuffs]|h|r",
+					["responseID"] = "PL",
+					["instance"] = "Zandalar-",
+					["date"] = "04/01/19",
 				}, -- [17]
 				{
-					["instance"] = "Zandalar-",
-					["mapID"] = 1642,
-					["response"] = "Personal Loot - Non tradeable",
-					["isAwardReason"] = false,
 					["id"] = "1546560649-6",
+					["mapID"] = 1642,
+					["groupSize"] = 0,
+					["isAwardReason"] = false,
+					["color"] = {
+						1, -- [1]
+						0.6, -- [2]
+						0, -- [3]
+						1, -- [4]
+					},
 					["class"] = "DEMONHUNTER",
 					["iSubClass"] = 6,
-					["groupSize"] = 0,
-					["boss"] = "Archimonde",
+					["response"] = "Personal Loot - Non tradeable",
 					["difficultyID"] = 0,
-					["lootWon"] = "|cffa335ee|Hitem:124357::::::::120:262::6:2:1799:1478:::|h[Soulwarped Tower Shield]|h|r",
-					["iClass"] = 4,
+					["boss"] = "Archimonde",
 					["time"] = "02:10:49",
+					["iClass"] = 4,
+					["lootWon"] = "|cffa335ee|Hitem:124357::::::::120:262::6:2:1799:1478:::|h[Soulwarped Tower Shield]|h|r",
 					["responseID"] = "PL",
+					["instance"] = "Zandalar-",
 					["date"] = "04/01/19",
-					["color"] = {
-						1, -- [1]
-						0.6, -- [2]
-						0, -- [3]
-						1, -- [4]
-					},
 				}, -- [18]
 				{
-					["instance"] = "Zandalar-",
-					["mapID"] = 1642,
-					["response"] = "Personal Loot - Non tradeable",
-					["isAwardReason"] = false,
 					["id"] = "1546560649-7",
-					["class"] = "DEMONHUNTER",
-					["iSubClass"] = 2,
+					["mapID"] = 1642,
 					["groupSize"] = 0,
-					["boss"] = "Archimonde",
-					["difficultyID"] = 0,
-					["lootWon"] = "|cffa335ee|Hitem:124257::::::::120:262::6:2:1799:1478:::|h[Felblade Gloves]|h|r",
-					["iClass"] = 4,
-					["time"] = "02:10:49",
-					["responseID"] = "PL",
-					["date"] = "04/01/19",
+					["isAwardReason"] = false,
 					["color"] = {
 						1, -- [1]
 						0.6, -- [2]
 						0, -- [3]
 						1, -- [4]
 					},
+					["class"] = "DEMONHUNTER",
+					["iSubClass"] = 2,
+					["response"] = "Personal Loot - Non tradeable",
+					["difficultyID"] = 0,
+					["boss"] = "Archimonde",
+					["time"] = "02:10:49",
+					["iClass"] = 4,
+					["lootWon"] = "|cffa335ee|Hitem:124257::::::::120:262::6:2:1799:1478:::|h[Felblade Gloves]|h|r",
+					["responseID"] = "PL",
+					["instance"] = "Zandalar-",
+					["date"] = "04/01/19",
 				}, -- [19]
 				{
-					["instance"] = "Zandalar-",
-					["mapID"] = 1642,
-					["response"] = "Personal Loot - Non tradeable",
-					["isAwardReason"] = false,
 					["id"] = "1546560649-8",
-					["class"] = "DEMONHUNTER",
-					["iSubClass"] = 2,
+					["mapID"] = 1642,
 					["groupSize"] = 0,
-					["boss"] = "Archimonde",
-					["difficultyID"] = 0,
-					["lootWon"] = "|cffa335ee|Hitem:124257::::::::120:262::6:2:1799:1478:::|h[Felblade Gloves]|h|r",
-					["iClass"] = 4,
-					["time"] = "02:10:49",
-					["responseID"] = "PL",
-					["date"] = "04/01/19",
+					["isAwardReason"] = false,
 					["color"] = {
 						1, -- [1]
 						0.6, -- [2]
 						0, -- [3]
 						1, -- [4]
 					},
+					["class"] = "DEMONHUNTER",
+					["iSubClass"] = 2,
+					["response"] = "Personal Loot - Non tradeable",
+					["difficultyID"] = 0,
+					["boss"] = "Archimonde",
+					["time"] = "02:10:49",
+					["iClass"] = 4,
+					["lootWon"] = "|cffa335ee|Hitem:124257::::::::120:262::6:2:1799:1478:::|h[Felblade Gloves]|h|r",
+					["responseID"] = "PL",
+					["instance"] = "Zandalar-",
+					["date"] = "04/01/19",
 				}, -- [20]
 				{
-					["instance"] = "Zandalar-",
-					["mapID"] = 1642,
-					["response"] = "Personal Loot - Non tradeable",
-					["isAwardReason"] = false,
 					["id"] = "1546560650-9",
-					["class"] = "DEMONHUNTER",
-					["iSubClass"] = 4,
+					["mapID"] = 1642,
 					["groupSize"] = 0,
-					["boss"] = "Archimonde",
-					["difficultyID"] = 0,
-					["lootWon"] = "|cffa335ee|Hitem:124331::::::::120:262::6:2:1799:1478:::|h[Casque of Foul Concentration]|h|r",
-					["iClass"] = 4,
-					["time"] = "02:10:50",
-					["responseID"] = "PL",
-					["date"] = "04/01/19",
+					["isAwardReason"] = false,
 					["color"] = {
 						1, -- [1]
 						0.6, -- [2]
 						0, -- [3]
 						1, -- [4]
 					},
+					["class"] = "DEMONHUNTER",
+					["iSubClass"] = 4,
+					["response"] = "Personal Loot - Non tradeable",
+					["difficultyID"] = 0,
+					["boss"] = "Archimonde",
+					["time"] = "02:10:50",
+					["iClass"] = 4,
+					["lootWon"] = "|cffa335ee|Hitem:124331::::::::120:262::6:2:1799:1478:::|h[Casque of Foul Concentration]|h|r",
+					["responseID"] = "PL",
+					["instance"] = "Zandalar-",
+					["date"] = "04/01/19",
 				}, -- [21]
 				{
-					["instance"] = "Zandalar-",
-					["mapID"] = 1642,
-					["response"] = "Personal Loot - Non tradeable",
-					["isAwardReason"] = false,
 					["id"] = "1546560650-10",
-					["class"] = "DEMONHUNTER",
-					["iSubClass"] = 4,
+					["mapID"] = 1642,
 					["groupSize"] = 0,
-					["boss"] = "Archimonde",
-					["difficultyID"] = 0,
-					["lootWon"] = "|cffa335ee|Hitem:124328::::::::120:262::6:2:1799:1478:::|h[Gauntlets of the Ceaseless Vigil]|h|r",
-					["iClass"] = 4,
-					["time"] = "02:10:50",
-					["responseID"] = "PL",
-					["date"] = "04/01/19",
+					["isAwardReason"] = false,
 					["color"] = {
 						1, -- [1]
 						0.6, -- [2]
 						0, -- [3]
 						1, -- [4]
 					},
+					["class"] = "DEMONHUNTER",
+					["iSubClass"] = 4,
+					["response"] = "Personal Loot - Non tradeable",
+					["difficultyID"] = 0,
+					["boss"] = "Archimonde",
+					["time"] = "02:10:50",
+					["iClass"] = 4,
+					["lootWon"] = "|cffa335ee|Hitem:124328::::::::120:262::6:2:1799:1478:::|h[Gauntlets of the Ceaseless Vigil]|h|r",
+					["responseID"] = "PL",
+					["instance"] = "Zandalar-",
+					["date"] = "04/01/19",
 				}, -- [22]
 				{
-					["instance"] = "Zandalar-",
-					["mapID"] = 1642,
-					["response"] = "Personal Loot - Non tradeable",
-					["isAwardReason"] = false,
 					["id"] = "1546560778-11",
-					["class"] = "DEMONHUNTER",
-					["iSubClass"] = 0,
+					["mapID"] = 1642,
 					["groupSize"] = 0,
-					["boss"] = "Archimonde",
-					["difficultyID"] = 0,
-					["lootWon"] = "|cffa335ee|Hitem:124242::::::::120:262::6:2:1799:1478:::|h[Tyrant's Decree]|h|r",
-					["iClass"] = 4,
-					["time"] = "02:12:58",
-					["responseID"] = "PL",
-					["date"] = "04/01/19",
+					["isAwardReason"] = false,
 					["color"] = {
 						1, -- [1]
 						0.6, -- [2]
 						0, -- [3]
 						1, -- [4]
 					},
+					["class"] = "DEMONHUNTER",
+					["iSubClass"] = 0,
+					["response"] = "Personal Loot - Non tradeable",
+					["difficultyID"] = 0,
+					["boss"] = "Archimonde",
+					["time"] = "02:12:58",
+					["iClass"] = 4,
+					["lootWon"] = "|cffa335ee|Hitem:124242::::::::120:262::6:2:1799:1478:::|h[Tyrant's Decree]|h|r",
+					["responseID"] = "PL",
+					["instance"] = "Zandalar-",
+					["date"] = "04/01/19",
 				}, -- [23]
 				{
-					["instance"] = "Zandalar-",
-					["mapID"] = 1642,
-					["response"] = "Personal Loot - Non tradeable",
-					["isAwardReason"] = false,
 					["id"] = "1546560778-12",
+					["mapID"] = 1642,
+					["groupSize"] = 0,
+					["isAwardReason"] = false,
+					["color"] = {
+						1, -- [1]
+						0.6, -- [2]
+						0, -- [3]
+						1, -- [4]
+					},
 					["class"] = "DEMONHUNTER",
 					["iSubClass"] = 5,
-					["groupSize"] = 0,
-					["boss"] = "Archimonde",
+					["response"] = "Personal Loot - Non tradeable",
 					["difficultyID"] = 0,
-					["lootWon"] = "|cffa335ee|Hitem:124376::::::::120:262::6:3:1799:43:1478:::|h[Warhammer of Arrogance]|h|r",
-					["iClass"] = 2,
+					["boss"] = "Archimonde",
 					["time"] = "02:12:58",
+					["iClass"] = 2,
+					["lootWon"] = "|cffa335ee|Hitem:124376::::::::120:262::6:3:1799:43:1478:::|h[Warhammer of Arrogance]|h|r",
 					["responseID"] = "PL",
+					["instance"] = "Zandalar-",
 					["date"] = "04/01/19",
-					["color"] = {
-						1, -- [1]
-						0.6, -- [2]
-						0, -- [3]
-						1, -- [4]
-					},
 				}, -- [24]
 				{
-					["instance"] = "Zandalar-",
-					["mapID"] = 1642,
-					["response"] = "Personal Loot - Non tradeable",
-					["isAwardReason"] = false,
 					["id"] = "1546560778-13",
-					["class"] = "DEMONHUNTER",
-					["iSubClass"] = 0,
+					["mapID"] = 1642,
 					["groupSize"] = 0,
-					["boss"] = "Archimonde",
-					["difficultyID"] = 0,
-					["lootWon"] = "|cffa335ee|Hitem:124195::::::::120:262::6:2:1799:1478:::|h[Pompous Ceremonial Ring]|h|r",
-					["iClass"] = 4,
-					["time"] = "02:12:58",
-					["responseID"] = "PL",
-					["date"] = "04/01/19",
+					["isAwardReason"] = false,
 					["color"] = {
 						1, -- [1]
 						0.6, -- [2]
 						0, -- [3]
 						1, -- [4]
 					},
+					["class"] = "DEMONHUNTER",
+					["iSubClass"] = 0,
+					["response"] = "Personal Loot - Non tradeable",
+					["difficultyID"] = 0,
+					["boss"] = "Archimonde",
+					["time"] = "02:12:58",
+					["iClass"] = 4,
+					["lootWon"] = "|cffa335ee|Hitem:124195::::::::120:262::6:2:1799:1478:::|h[Pompous Ceremonial Ring]|h|r",
+					["responseID"] = "PL",
+					["instance"] = "Zandalar-",
+					["date"] = "04/01/19",
 				}, -- [25]
 				{
-					["instance"] = "Zandalar-",
-					["mapID"] = 1642,
-					["response"] = "Personal Loot - Non tradeable",
-					["isAwardReason"] = false,
 					["id"] = "1546560778-14",
-					["class"] = "DEMONHUNTER",
-					["iSubClass"] = 4,
+					["mapID"] = 1642,
 					["groupSize"] = 0,
-					["boss"] = "Archimonde",
-					["difficultyID"] = 0,
-					["lootWon"] = "|cffa335ee|Hitem:124326::::::::120:262::6:2:1799:1478:::|h[Gauntlets of Derision]|h|r",
-					["iClass"] = 4,
-					["time"] = "02:12:58",
-					["responseID"] = "PL",
-					["date"] = "04/01/19",
+					["isAwardReason"] = false,
 					["color"] = {
 						1, -- [1]
 						0.6, -- [2]
 						0, -- [3]
 						1, -- [4]
 					},
+					["class"] = "DEMONHUNTER",
+					["iSubClass"] = 4,
+					["response"] = "Personal Loot - Non tradeable",
+					["difficultyID"] = 0,
+					["boss"] = "Archimonde",
+					["time"] = "02:12:58",
+					["iClass"] = 4,
+					["lootWon"] = "|cffa335ee|Hitem:124326::::::::120:262::6:2:1799:1478:::|h[Gauntlets of Derision]|h|r",
+					["responseID"] = "PL",
+					["instance"] = "Zandalar-",
+					["date"] = "04/01/19",
 				}, -- [26]
 				{
-					["instance"] = "Zandalar-",
-					["mapID"] = 1642,
-					["response"] = "Personal Loot - Non tradeable",
-					["isAwardReason"] = false,
 					["id"] = "1546560778-15",
-					["class"] = "DEMONHUNTER",
-					["iSubClass"] = 4,
+					["mapID"] = 1642,
 					["groupSize"] = 0,
-					["boss"] = "Archimonde",
-					["difficultyID"] = 0,
-					["lootWon"] = "|cffa335ee|Hitem:124326::::::::120:262::6:2:1799:1478:::|h[Gauntlets of Derision]|h|r",
-					["iClass"] = 4,
-					["time"] = "02:12:58",
-					["responseID"] = "PL",
-					["date"] = "04/01/19",
+					["isAwardReason"] = false,
 					["color"] = {
 						1, -- [1]
 						0.6, -- [2]
 						0, -- [3]
 						1, -- [4]
 					},
+					["class"] = "DEMONHUNTER",
+					["iSubClass"] = 4,
+					["response"] = "Personal Loot - Non tradeable",
+					["difficultyID"] = 0,
+					["boss"] = "Archimonde",
+					["time"] = "02:12:58",
+					["iClass"] = 4,
+					["lootWon"] = "|cffa335ee|Hitem:124326::::::::120:262::6:2:1799:1478:::|h[Gauntlets of Derision]|h|r",
+					["responseID"] = "PL",
+					["instance"] = "Zandalar-",
+					["date"] = "04/01/19",
 				}, -- [27]
 				{
-					["instance"] = "Zandalar-",
-					["mapID"] = 1642,
-					["response"] = "Personal Loot - Non tradeable",
-					["isAwardReason"] = false,
 					["id"] = "1546560886-16",
-					["class"] = "DEMONHUNTER",
-					["iSubClass"] = 1,
+					["mapID"] = 1642,
 					["groupSize"] = 0,
-					["boss"] = "Archimonde",
-					["difficultyID"] = 0,
-					["lootWon"] = "|cffa335ee|Hitem:124147::::::::120:262::6:2:1799:1478:::|h[Void Lord's Wizened Cloak]|h|r",
-					["iClass"] = 4,
-					["time"] = "02:14:46",
-					["responseID"] = "PL",
-					["date"] = "04/01/19",
+					["isAwardReason"] = false,
 					["color"] = {
 						1, -- [1]
 						0.6, -- [2]
 						0, -- [3]
 						1, -- [4]
 					},
+					["class"] = "DEMONHUNTER",
+					["iSubClass"] = 1,
+					["response"] = "Personal Loot - Non tradeable",
+					["difficultyID"] = 0,
+					["boss"] = "Archimonde",
+					["time"] = "02:14:46",
+					["iClass"] = 4,
+					["lootWon"] = "|cffa335ee|Hitem:124147::::::::120:262::6:2:1799:1478:::|h[Void Lord's Wizened Cloak]|h|r",
+					["responseID"] = "PL",
+					["instance"] = "Zandalar-",
+					["date"] = "04/01/19",
 				}, -- [28]
 				{
-					["instance"] = "Zandalar-",
-					["mapID"] = 1642,
-					["response"] = "Personal Loot - Non tradeable",
-					["isAwardReason"] = false,
 					["id"] = "1546560886-17",
+					["mapID"] = 1642,
+					["groupSize"] = 0,
+					["isAwardReason"] = false,
+					["color"] = {
+						1, -- [1]
+						0.6, -- [2]
+						0, -- [3]
+						1, -- [4]
+					},
 					["class"] = "DEMONHUNTER",
 					["iSubClass"] = 10,
-					["groupSize"] = 0,
-					["boss"] = "Archimonde",
+					["response"] = "Personal Loot - Non tradeable",
 					["difficultyID"] = 0,
-					["lootWon"] = "|cffa335ee|Hitem:124381::::::::120:262::6:2:1799:1478:::|h[Voidcore Greatstaff]|h|r",
-					["iClass"] = 2,
+					["boss"] = "Archimonde",
 					["time"] = "02:14:46",
+					["iClass"] = 2,
+					["lootWon"] = "|cffa335ee|Hitem:124381::::::::120:262::6:2:1799:1478:::|h[Voidcore Greatstaff]|h|r",
 					["responseID"] = "PL",
+					["instance"] = "Zandalar-",
 					["date"] = "04/01/19",
-					["color"] = {
-						1, -- [1]
-						0.6, -- [2]
-						0, -- [3]
-						1, -- [4]
-					},
 				}, -- [29]
 				{
-					["instance"] = "Zandalar-",
-					["mapID"] = 1642,
-					["response"] = "Personal Loot - Non tradeable",
-					["isAwardReason"] = false,
 					["id"] = "1546560886-18",
-					["class"] = "DEMONHUNTER",
-					["iSubClass"] = 1,
+					["mapID"] = 1642,
 					["groupSize"] = 0,
-					["boss"] = "Archimonde",
-					["difficultyID"] = 0,
-					["lootWon"] = "|cffa335ee|Hitem:124179::::::::120:262::6:3:1799:43:1478:::|h[Deathrattle Shoulderpads]|h|r",
-					["iClass"] = 4,
-					["time"] = "02:14:46",
-					["responseID"] = "PL",
-					["date"] = "04/01/19",
+					["isAwardReason"] = false,
 					["color"] = {
 						1, -- [1]
 						0.6, -- [2]
 						0, -- [3]
 						1, -- [4]
 					},
+					["class"] = "DEMONHUNTER",
+					["iSubClass"] = 1,
+					["response"] = "Personal Loot - Non tradeable",
+					["difficultyID"] = 0,
+					["boss"] = "Archimonde",
+					["time"] = "02:14:46",
+					["iClass"] = 4,
+					["lootWon"] = "|cffa335ee|Hitem:124179::::::::120:262::6:3:1799:43:1478:::|h[Deathrattle Shoulderpads]|h|r",
+					["responseID"] = "PL",
+					["instance"] = "Zandalar-",
+					["date"] = "04/01/19",
 				}, -- [30]
 				{
-					["instance"] = "Zandalar-",
-					["mapID"] = 1642,
-					["response"] = "Personal Loot - Non tradeable",
-					["isAwardReason"] = false,
 					["id"] = "1546560886-19",
-					["class"] = "DEMONHUNTER",
-					["iSubClass"] = 0,
+					["mapID"] = 1642,
 					["groupSize"] = 0,
-					["boss"] = "Archimonde",
-					["difficultyID"] = 0,
-					["lootWon"] = "|cffa335ee|Hitem:124212::::::::120:262::6:2:1799:1478:::|h[Vial of Immiscible Liquid]|h|r",
-					["iClass"] = 4,
-					["time"] = "02:14:46",
-					["responseID"] = "PL",
-					["date"] = "04/01/19",
+					["isAwardReason"] = false,
 					["color"] = {
 						1, -- [1]
 						0.6, -- [2]
 						0, -- [3]
 						1, -- [4]
 					},
+					["class"] = "DEMONHUNTER",
+					["iSubClass"] = 0,
+					["response"] = "Personal Loot - Non tradeable",
+					["difficultyID"] = 0,
+					["boss"] = "Archimonde",
+					["time"] = "02:14:46",
+					["iClass"] = 4,
+					["lootWon"] = "|cffa335ee|Hitem:124212::::::::120:262::6:2:1799:1478:::|h[Vial of Immiscible Liquid]|h|r",
+					["responseID"] = "PL",
+					["instance"] = "Zandalar-",
+					["date"] = "04/01/19",
 				}, -- [31]
 				{
-					["instance"] = "Zandalar-",
-					["mapID"] = 1642,
-					["response"] = "Personal Loot - Non tradeable",
-					["isAwardReason"] = false,
 					["id"] = "1546560887-20",
-					["class"] = "DEMONHUNTER",
-					["iSubClass"] = 2,
+					["mapID"] = 1642,
 					["groupSize"] = 0,
-					["boss"] = "Archimonde",
-					["difficultyID"] = 0,
-					["lootWon"] = "|cffa335ee|Hitem:139629::::::::120:262::6:2:1799:1478:::|h[Ferroleather Spaulders]|h|r",
-					["iClass"] = 4,
-					["time"] = "02:14:47",
-					["responseID"] = "PL",
-					["date"] = "04/01/19",
+					["isAwardReason"] = false,
 					["color"] = {
 						1, -- [1]
 						0.6, -- [2]
 						0, -- [3]
 						1, -- [4]
 					},
+					["class"] = "DEMONHUNTER",
+					["iSubClass"] = 2,
+					["response"] = "Personal Loot - Non tradeable",
+					["difficultyID"] = 0,
+					["boss"] = "Archimonde",
+					["time"] = "02:14:47",
+					["iClass"] = 4,
+					["lootWon"] = "|cffa335ee|Hitem:139629::::::::120:262::6:2:1799:1478:::|h[Ferroleather Spaulders]|h|r",
+					["responseID"] = "PL",
+					["instance"] = "Zandalar-",
+					["date"] = "04/01/19",
 				}, -- [32]
 				{
-					["instance"] = "Zandalar-",
-					["mapID"] = 1642,
-					["response"] = "Personal Loot - Non tradeable",
-					["isAwardReason"] = false,
 					["id"] = "1546560887-21",
-					["class"] = "DEMONHUNTER",
-					["iSubClass"] = 2,
+					["mapID"] = 1642,
 					["groupSize"] = 0,
-					["boss"] = "Archimonde",
-					["difficultyID"] = 0,
-					["lootWon"] = "|cffa335ee|Hitem:139629::::::::120:262::6:2:1799:1478:::|h[Ferroleather Spaulders]|h|r",
-					["iClass"] = 4,
-					["time"] = "02:14:47",
-					["responseID"] = "PL",
-					["date"] = "04/01/19",
+					["isAwardReason"] = false,
 					["color"] = {
 						1, -- [1]
 						0.6, -- [2]
 						0, -- [3]
 						1, -- [4]
 					},
+					["class"] = "DEMONHUNTER",
+					["iSubClass"] = 2,
+					["response"] = "Personal Loot - Non tradeable",
+					["difficultyID"] = 0,
+					["boss"] = "Archimonde",
+					["time"] = "02:14:47",
+					["iClass"] = 4,
+					["lootWon"] = "|cffa335ee|Hitem:139629::::::::120:262::6:2:1799:1478:::|h[Ferroleather Spaulders]|h|r",
+					["responseID"] = "PL",
+					["instance"] = "Zandalar-",
+					["date"] = "04/01/19",
 				}, -- [33]
 				{
-					["instance"] = "Zandalar-",
-					["mapID"] = 1642,
-					["response"] = "Personal Loot - Non tradeable",
-					["isAwardReason"] = false,
 					["id"] = "1546560982-22",
-					["class"] = "DEMONHUNTER",
-					["iSubClass"] = 4,
+					["mapID"] = 1642,
 					["groupSize"] = 0,
-					["boss"] = "Archimonde",
-					["difficultyID"] = 0,
-					["lootWon"] = "|cffa335ee|Hitem:124337::::::::120:262::6:3:1799:565:1478:::|h[Legguards of Grievous Consonances]|h|r",
-					["iClass"] = 4,
-					["time"] = "02:16:22",
-					["responseID"] = "PL",
-					["date"] = "04/01/19",
+					["isAwardReason"] = false,
 					["color"] = {
 						1, -- [1]
 						0.6, -- [2]
 						0, -- [3]
 						1, -- [4]
 					},
+					["class"] = "DEMONHUNTER",
+					["iSubClass"] = 4,
+					["response"] = "Personal Loot - Non tradeable",
+					["difficultyID"] = 0,
+					["boss"] = "Archimonde",
+					["time"] = "02:16:22",
+					["iClass"] = 4,
+					["lootWon"] = "|cffa335ee|Hitem:124337::::::::120:262::6:3:1799:565:1478:::|h[Legguards of Grievous Consonances]|h|r",
+					["responseID"] = "PL",
+					["instance"] = "Zandalar-",
+					["date"] = "04/01/19",
 				}, -- [34]
 				{
-					["instance"] = "Zandalar-",
-					["mapID"] = 1642,
-					["response"] = "Personal Loot - Non tradeable",
-					["isAwardReason"] = false,
 					["id"] = "1546560982-23",
+					["mapID"] = 1642,
+					["groupSize"] = 0,
+					["isAwardReason"] = false,
+					["color"] = {
+						1, -- [1]
+						0.6, -- [2]
+						0, -- [3]
+						1, -- [4]
+					},
 					["class"] = "DEMONHUNTER",
 					["iSubClass"] = 0,
-					["groupSize"] = 0,
-					["boss"] = "Archimonde",
+					["response"] = "Personal Loot - Non tradeable",
 					["difficultyID"] = 0,
-					["lootWon"] = "|cffa335ee|Hitem:124209::::::::120:262::6:2:1799:1478:::|h[Chain of Lidless Eyes]|h|r",
-					["iClass"] = 4,
+					["boss"] = "Archimonde",
 					["time"] = "02:16:22",
+					["iClass"] = 4,
+					["lootWon"] = "|cffa335ee|Hitem:124209::::::::120:262::6:2:1799:1478:::|h[Chain of Lidless Eyes]|h|r",
 					["responseID"] = "PL",
+					["instance"] = "Zandalar-",
 					["date"] = "04/01/19",
-					["color"] = {
-						1, -- [1]
-						0.6, -- [2]
-						0, -- [3]
-						1, -- [4]
-					},
 				}, -- [35]
 				{
-					["instance"] = "Zandalar-",
-					["mapID"] = 1642,
-					["response"] = "Personal Loot - Non tradeable",
-					["isAwardReason"] = false,
 					["id"] = "1546560982-24",
+					["mapID"] = 1642,
+					["groupSize"] = 0,
+					["isAwardReason"] = false,
+					["color"] = {
+						1, -- [1]
+						0.6, -- [2]
+						0, -- [3]
+						1, -- [4]
+					},
 					["class"] = "DEMONHUNTER",
 					["iSubClass"] = 1,
-					["groupSize"] = 0,
-					["boss"] = "Archimonde",
+					["response"] = "Personal Loot - Non tradeable",
 					["difficultyID"] = 0,
-					["lootWon"] = "|cffa335ee|Hitem:124360::::::::120:262::6:2:1799:1478:::|h[Hellrender]|h|r",
-					["iClass"] = 2,
+					["boss"] = "Archimonde",
 					["time"] = "02:16:22",
+					["iClass"] = 2,
+					["lootWon"] = "|cffa335ee|Hitem:124360::::::::120:262::6:2:1799:1478:::|h[Hellrender]|h|r",
 					["responseID"] = "PL",
+					["instance"] = "Zandalar-",
 					["date"] = "04/01/19",
-					["color"] = {
-						1, -- [1]
-						0.6, -- [2]
-						0, -- [3]
-						1, -- [4]
-					},
 				}, -- [36]
 				{
-					["instance"] = "Zandalar-",
-					["mapID"] = 1642,
-					["response"] = "Personal Loot - Non tradeable",
-					["isAwardReason"] = false,
 					["id"] = "1546560982-25",
+					["mapID"] = 1642,
+					["groupSize"] = 0,
+					["isAwardReason"] = false,
+					["color"] = {
+						1, -- [1]
+						0.6, -- [2]
+						0, -- [3]
+						1, -- [4]
+					},
 					["class"] = "DEMONHUNTER",
 					["iSubClass"] = 4,
-					["groupSize"] = 0,
-					["boss"] = "Archimonde",
+					["response"] = "Personal Loot - Non tradeable",
 					["difficultyID"] = 0,
-					["lootWon"] = "|cffa335ee|Hitem:124337::::::::120:262::6:2:1799:1478:::|h[Legguards of Grievous Consonances]|h|r",
-					["iClass"] = 4,
+					["boss"] = "Archimonde",
 					["time"] = "02:16:22",
+					["iClass"] = 4,
+					["lootWon"] = "|cffa335ee|Hitem:124337::::::::120:262::6:2:1799:1478:::|h[Legguards of Grievous Consonances]|h|r",
 					["responseID"] = "PL",
+					["instance"] = "Zandalar-",
 					["date"] = "04/01/19",
-					["color"] = {
-						1, -- [1]
-						0.6, -- [2]
-						0, -- [3]
-						1, -- [4]
-					},
 				}, -- [37]
 				{
-					["instance"] = "Zandalar-",
-					["mapID"] = 1642,
-					["response"] = "Personal Loot - Non tradeable",
-					["isAwardReason"] = false,
 					["id"] = "1546560982-26",
-					["class"] = "DEMONHUNTER",
-					["iSubClass"] = 2,
+					["mapID"] = 1642,
 					["groupSize"] = 0,
-					["boss"] = "Archimonde",
-					["difficultyID"] = 0,
-					["lootWon"] = "|cffa335ee|Hitem:124265::::::::120:262::6:3:1799:42:1478:::|h[Leggings of Eternal Terror]|h|r",
-					["iClass"] = 4,
-					["time"] = "02:16:22",
-					["responseID"] = "PL",
-					["date"] = "04/01/19",
+					["isAwardReason"] = false,
 					["color"] = {
 						1, -- [1]
 						0.6, -- [2]
 						0, -- [3]
 						1, -- [4]
 					},
+					["class"] = "DEMONHUNTER",
+					["iSubClass"] = 2,
+					["response"] = "Personal Loot - Non tradeable",
+					["difficultyID"] = 0,
+					["boss"] = "Archimonde",
+					["time"] = "02:16:22",
+					["iClass"] = 4,
+					["lootWon"] = "|cffa335ee|Hitem:124265::::::::120:262::6:3:1799:42:1478:::|h[Leggings of Eternal Terror]|h|r",
+					["responseID"] = "PL",
+					["instance"] = "Zandalar-",
+					["date"] = "04/01/19",
 				}, -- [38]
 				{
 					["mapID"] = 1861,
@@ -18864,50 +18921,50 @@ RCLootCouncilLootDB = {
 					["id"] = "1547143622-1",
 				}, -- [39]
 				{
-					["date"] = "10/01/19",
-					["mapID"] = 1861,
 					["id"] = "1547146430-12",
-					["isAwardReason"] = false,
+					["mapID"] = 1861,
 					["instance"] = "Uldir-Mythic",
-					["class"] = "DEMONHUNTER",
-					["iSubClass"] = 2,
-					["groupSize"] = 20,
-					["difficultyID"] = 16,
-					["boss"] = "Vectis",
-					["time"] = "20:53:50",
-					["iClass"] = 4,
-					["lootWon"] = "|cffa335ee|Hitem:160621::::::::120:268::6:3:4800:1517:4783:::|h[Wristwraps of Coursing Miasma]|h|r",
-					["responseID"] = "PL",
-					["response"] = "Personal Loot - Non tradeable",
+					["isAwardReason"] = false,
 					["color"] = {
 						1, -- [1]
 						0.6, -- [2]
 						0, -- [3]
 						1, -- [4]
 					},
+					["class"] = "DEMONHUNTER",
+					["iSubClass"] = 2,
+					["response"] = "Personal Loot - Non tradeable",
+					["boss"] = "Vectis",
+					["difficultyID"] = 16,
+					["lootWon"] = "|cffa335ee|Hitem:160621::::::::120:268::6:3:4800:1517:4783:::|h[Wristwraps of Coursing Miasma]|h|r",
+					["iClass"] = 4,
+					["time"] = "20:53:50",
+					["responseID"] = "PL",
+					["groupSize"] = 20,
+					["date"] = "10/01/19",
 				}, -- [40]
 				{
-					["date"] = "10/01/19",
-					["mapID"] = 1861,
 					["id"] = "1547146430-13",
-					["isAwardReason"] = false,
+					["mapID"] = 1861,
 					["instance"] = "Uldir-Mythic",
-					["class"] = "DEMONHUNTER",
-					["iSubClass"] = 2,
-					["groupSize"] = 20,
-					["difficultyID"] = 16,
-					["boss"] = "Vectis",
-					["time"] = "20:53:50",
-					["iClass"] = 4,
-					["lootWon"] = "|cffa335ee|Hitem:160621::::::::120:268::6:3:4800:1517:4783:::|h[Wristwraps of Coursing Miasma]|h|r",
-					["responseID"] = "PL",
-					["response"] = "Personal Loot - Non tradeable",
+					["isAwardReason"] = false,
 					["color"] = {
 						1, -- [1]
 						0.6, -- [2]
 						0, -- [3]
 						1, -- [4]
 					},
+					["class"] = "DEMONHUNTER",
+					["iSubClass"] = 2,
+					["response"] = "Personal Loot - Non tradeable",
+					["boss"] = "Vectis",
+					["difficultyID"] = 16,
+					["lootWon"] = "|cffa335ee|Hitem:160621::::::::120:268::6:3:4800:1517:4783:::|h[Wristwraps of Coursing Miasma]|h|r",
+					["iClass"] = 4,
+					["time"] = "20:53:50",
+					["responseID"] = "PL",
+					["groupSize"] = 20,
+					["date"] = "10/01/19",
 				}, -- [41]
 				{
 					["mapID"] = 1861,
@@ -18936,96 +18993,96 @@ RCLootCouncilLootDB = {
 					["id"] = "1547749928-9",
 				}, -- [42]
 				{
-					["instance"] = "Battle of Dazar'alor-Heroic",
-					["mapID"] = 2070,
-					["groupSize"] = 26,
-					["isAwardReason"] = false,
 					["id"] = "1548267191-6",
+					["mapID"] = 2070,
+					["response"] = "Personal Loot - Non tradeable",
+					["isAwardReason"] = false,
+					["color"] = {
+						1, -- [1]
+						0.6, -- [2]
+						0, -- [3]
+						1, -- [4]
+					},
 					["class"] = "DEMONHUNTER",
 					["iSubClass"] = 13,
-					["response"] = "Personal Loot - Non tradeable",
-					["boss"] = "Grong",
-					["difficultyID"] = 15,
-					["lootWon"] = "|cffa335ee|Hitem:165588::::::::120:268::5:3:4799:1522:4786:::|h[Bonelash Paw]|h|r",
-					["iClass"] = 2,
-					["time"] = "20:13:11",
-					["responseID"] = "PL",
-					["date"] = "23/01/19",
-					["color"] = {
-						1, -- [1]
-						0.6, -- [2]
-						0, -- [3]
-						1, -- [4]
-					},
-				}, -- [43]
-				{
-					["color"] = {
-						1, -- [1]
-						0.6, -- [2]
-						0, -- [3]
-						1, -- [4]
-					},
-					["mapID"] = 2070,
-					["id"] = "1548356510-3",
-					["isAwardReason"] = false,
-					["date"] = "24/01/19",
-					["class"] = "DEMONHUNTER",
-					["iSubClass"] = 1,
 					["groupSize"] = 26,
 					["difficultyID"] = 15,
-					["boss"] = "Mekkatorque",
-					["time"] = "21:01:50",
-					["iClass"] = 4,
-					["lootWon"] = "|cffa335ee|Hitem:165924::::::::120:268::5:3:4799:1522:4786:::|h[High Tinker's Cape]|h|r",
+					["boss"] = "Grong",
+					["time"] = "20:13:11",
+					["iClass"] = 2,
+					["lootWon"] = "|cffa335ee|Hitem:165588::::::::120:268::5:3:4799:1522:4786:::|h[Bonelash Paw]|h|r",
 					["responseID"] = "PL",
-					["response"] = "Personal Loot - Non tradeable",
 					["instance"] = "Battle of Dazar'alor-Heroic",
+					["date"] = "23/01/19",
+				}, -- [43]
+				{
+					["id"] = "1548356510-3",
+					["mapID"] = 2070,
+					["date"] = "24/01/19",
+					["isAwardReason"] = false,
+					["instance"] = "Battle of Dazar'alor-Heroic",
+					["class"] = "DEMONHUNTER",
+					["iSubClass"] = 1,
+					["response"] = "Personal Loot - Non tradeable",
+					["boss"] = "Mekkatorque",
+					["difficultyID"] = 15,
+					["lootWon"] = "|cffa335ee|Hitem:165924::::::::120:268::5:3:4799:1522:4786:::|h[High Tinker's Cape]|h|r",
+					["iClass"] = 4,
+					["time"] = "21:01:50",
+					["responseID"] = "PL",
+					["groupSize"] = 26,
+					["color"] = {
+						1, -- [1]
+						0.6, -- [2]
+						0, -- [3]
+						1, -- [4]
+					},
 				}, -- [44]
 				{
-					["color"] = {
-						1, -- [1]
-						0.6, -- [2]
-						0, -- [3]
-						1, -- [4]
-					},
-					["mapID"] = 1771,
-					["response"] = "Personal Loot - Non tradeable",
-					["isAwardReason"] = false,
 					["id"] = "1548864439-0",
+					["mapID"] = 1771,
+					["groupSize"] = 5,
+					["isAwardReason"] = false,
+					["date"] = "30/01/19",
 					["class"] = "DEMONHUNTER",
 					["iSubClass"] = 2,
-					["groupSize"] = 5,
-					["boss"] = "Overseer Korgus",
+					["response"] = "Personal Loot - Non tradeable",
 					["difficultyID"] = 8,
-					["lootWon"] = "|cffa335ee|Hitem:159333::::::::120:262::16:3:5010:1572:4786:::|h[Cincture of the Azerite Arsenal]|h|r",
-					["iClass"] = 4,
+					["boss"] = "Overseer Korgus",
 					["time"] = "18:07:19",
+					["iClass"] = 4,
+					["lootWon"] = "|cffa335ee|Hitem:159333::::::::120:262::16:3:5010:1572:4786:::|h[Cincture of the Azerite Arsenal]|h|r",
 					["responseID"] = "PL",
-					["instance"] = "Tol Dagor-Mythic Keystone",
-					["date"] = "30/01/19",
-				}, -- [45]
-				{
 					["color"] = {
 						1, -- [1]
 						0.6, -- [2]
 						0, -- [3]
 						1, -- [4]
 					},
-					["mapID"] = 1771,
-					["response"] = "Personal Loot - Non tradeable",
-					["isAwardReason"] = false,
+					["instance"] = "Tol Dagor-Mythic Keystone",
+				}, -- [45]
+				{
 					["id"] = "1548866107-3",
+					["mapID"] = 1771,
+					["groupSize"] = 5,
+					["isAwardReason"] = false,
+					["date"] = "30/01/19",
 					["class"] = "DEMONHUNTER",
 					["iSubClass"] = 9,
-					["groupSize"] = 5,
-					["boss"] = "Overseer Korgus",
+					["response"] = "Personal Loot - Non tradeable",
 					["difficultyID"] = 8,
-					["lootWon"] = "|cffa335ee|Hitem:160110::::::::120:262::16:3:5010:1577:4783:::|h[Warglaive of the Sand Queen]|h|r",
-					["iClass"] = 2,
+					["boss"] = "Overseer Korgus",
 					["time"] = "18:35:07",
+					["iClass"] = 2,
+					["lootWon"] = "|cffa335ee|Hitem:160110::::::::120:262::16:3:5010:1577:4783:::|h[Warglaive of the Sand Queen]|h|r",
 					["responseID"] = "PL",
+					["color"] = {
+						1, -- [1]
+						0.6, -- [2]
+						0, -- [3]
+						1, -- [4]
+					},
 					["instance"] = "Tol Dagor-Mythic Keystone",
-					["date"] = "30/01/19",
 				}, -- [46]
 			},
 			["Warrbreaker-Ragnaros"] = {
@@ -19106,52 +19163,52 @@ RCLootCouncilLootDB = {
 			},
 			["Chiimay-Draenor"] = {
 				{
-					["date"] = "14/12/18",
-					["mapID"] = 1877,
 					["id"] = "1544824735-0",
-					["isAwardReason"] = false,
+					["mapID"] = 1877,
 					["instance"] = "Temple of Sethraliss-Mythic Keystone",
-					["class"] = "MONK",
-					["iSubClass"] = 7,
-					["response"] = "Personal Loot - Non tradeable",
-					["difficultyID"] = 8,
-					["boss"] = "Avatar of Sethraliss",
-					["time"] = "23:58:55",
-					["iClass"] = 2,
-					["lootWon"] = "|cffa335ee|Hitem:158714::::::::120:259::16:4:5010:4802:1542:4786:::|h[Swarm's Edge]|h|r",
-					["responseID"] = "PL",
-					["groupSize"] = 5,
+					["isAwardReason"] = false,
 					["color"] = {
 						1, -- [1]
 						0.6, -- [2]
 						0, -- [3]
 						1, -- [4]
 					},
+					["class"] = "MONK",
+					["iSubClass"] = 7,
+					["groupSize"] = 5,
+					["boss"] = "Avatar of Sethraliss",
+					["difficultyID"] = 8,
+					["lootWon"] = "|cffa335ee|Hitem:158714::::::::120:259::16:4:5010:4802:1542:4786:::|h[Swarm's Edge]|h|r",
+					["iClass"] = 2,
+					["time"] = "23:58:55",
+					["responseID"] = "PL",
+					["response"] = "Personal Loot - Non tradeable",
+					["date"] = "14/12/18",
 				}, -- [1]
 			},
 			["Subservient-Kazzak"] = {
 				{
-					["date"] = "10/01/19",
-					["mapID"] = 1861,
 					["id"] = "1547146426-11",
-					["isAwardReason"] = false,
+					["mapID"] = 1861,
 					["instance"] = "Uldir-Mythic",
-					["class"] = "WARRIOR",
-					["iSubClass"] = 6,
-					["groupSize"] = 20,
-					["difficultyID"] = 16,
-					["boss"] = "Vectis",
-					["time"] = "20:53:46",
-					["iClass"] = 4,
-					["lootWon"] = "|cffa335ee|Hitem:160698::::::::120:268::6:3:4800:1512:4783:::|h[Vector Deflector]|h|r",
-					["responseID"] = "PL",
-					["response"] = "Personal Loot - Non tradeable",
+					["isAwardReason"] = false,
 					["color"] = {
 						1, -- [1]
 						0.6, -- [2]
 						0, -- [3]
 						1, -- [4]
 					},
+					["class"] = "WARRIOR",
+					["iSubClass"] = 6,
+					["response"] = "Personal Loot - Non tradeable",
+					["boss"] = "Vectis",
+					["difficultyID"] = 16,
+					["lootWon"] = "|cffa335ee|Hitem:160698::::::::120:268::6:3:4800:1512:4783:::|h[Vector Deflector]|h|r",
+					["iClass"] = 4,
+					["time"] = "20:53:46",
+					["responseID"] = "PL",
+					["groupSize"] = 20,
+					["date"] = "10/01/19",
 				}, -- [1]
 			},
 			["Nitendo-Kazzak"] = {
@@ -19182,165 +19239,165 @@ RCLootCouncilLootDB = {
 			},
 			["Marmi-Kazzak"] = {
 				{
-					["date"] = "14/11/18",
-					["mapID"] = 1861,
 					["id"] = "1542219614-0",
-					["isAwardReason"] = false,
+					["mapID"] = 1861,
 					["instance"] = "Uldir-Heroic",
-					["class"] = "WARLOCK",
-					["iSubClass"] = 0,
-					["response"] = "Personal Loot - Non tradeable",
-					["difficultyID"] = 15,
-					["boss"] = "Taloc",
-					["time"] = "20:20:14",
-					["iClass"] = 4,
-					["lootWon"] = "|cffa335ee|Hitem:160651::::::::120:268::5:3:4799:1492:4786:::|h[Vigilant's Bloodshaper]|h|r",
-					["responseID"] = "PL",
-					["groupSize"] = 16,
+					["isAwardReason"] = false,
 					["color"] = {
 						1, -- [1]
 						0.6, -- [2]
 						0, -- [3]
 						1, -- [4]
 					},
+					["class"] = "WARLOCK",
+					["iSubClass"] = 0,
+					["groupSize"] = 16,
+					["boss"] = "Taloc",
+					["difficultyID"] = 15,
+					["lootWon"] = "|cffa335ee|Hitem:160651::::::::120:268::5:3:4799:1492:4786:::|h[Vigilant's Bloodshaper]|h|r",
+					["iClass"] = 4,
+					["time"] = "20:20:14",
+					["responseID"] = "PL",
+					["response"] = "Personal Loot - Non tradeable",
+					["date"] = "14/11/18",
 				}, -- [1]
 				{
-					["instance"] = "Uldir-Heroic",
-					["mapID"] = 1861,
-					["response"] = "Personal Loot - Non tradeable",
-					["isAwardReason"] = false,
 					["id"] = "1542223545-1",
-					["class"] = "WARLOCK",
-					["iSubClass"] = 1,
+					["mapID"] = 1861,
 					["groupSize"] = 15,
-					["boss"] = "Zul",
-					["difficultyID"] = 15,
-					["lootWon"] = "|cffa335ee|Hitem:160719::::::::120:265::5:3:4823:1492:4786:::|h[Visage of the Ascended Prophet]|h|r",
-					["iClass"] = 4,
-					["time"] = "21:25:45",
-					["responseID"] = "PL",
-					["date"] = "14/11/18",
+					["isAwardReason"] = false,
 					["color"] = {
 						1, -- [1]
 						0.6, -- [2]
 						0, -- [3]
 						1, -- [4]
 					},
+					["class"] = "WARLOCK",
+					["iSubClass"] = 1,
+					["response"] = "Personal Loot - Non tradeable",
+					["difficultyID"] = 15,
+					["boss"] = "Zul",
+					["time"] = "21:25:45",
+					["iClass"] = 4,
+					["lootWon"] = "|cffa335ee|Hitem:160719::::::::120:265::5:3:4823:1492:4786:::|h[Visage of the Ascended Prophet]|h|r",
+					["responseID"] = "PL",
+					["instance"] = "Uldir-Heroic",
+					["date"] = "14/11/18",
 				}, -- [2]
 				{
-					["instance"] = "Uldir-Heroic",
-					["mapID"] = 1861,
 					["id"] = "1542824846-0",
-					["isAwardReason"] = false,
+					["mapID"] = 1861,
 					["color"] = {
 						1, -- [1]
 						0.6, -- [2]
 						0, -- [3]
 						1, -- [4]
 					},
+					["isAwardReason"] = false,
+					["date"] = "21/11/18",
 					["class"] = "WARLOCK",
 					["iSubClass"] = 0,
-					["groupSize"] = 14,
-					["difficultyID"] = 15,
-					["boss"] = "MOTHER",
-					["time"] = "20:27:26",
-					["iClass"] = 4,
-					["lootWon"] = "|cffa335ee|Hitem:160695::::::::120:265::5:3:4799:1492:4786:::|h[Uldir Subject Manifest]|h|r",
-					["responseID"] = "PL",
 					["response"] = "Personal Loot - Non tradeable",
-					["date"] = "21/11/18",
+					["boss"] = "MOTHER",
+					["difficultyID"] = 15,
+					["lootWon"] = "|cffa335ee|Hitem:160695::::::::120:265::5:3:4799:1492:4786:::|h[Uldir Subject Manifest]|h|r",
+					["iClass"] = 4,
+					["time"] = "20:27:26",
+					["responseID"] = "PL",
+					["groupSize"] = 14,
+					["instance"] = "Uldir-Heroic",
 				}, -- [3]
 				{
-					["date"] = "28/11/18",
-					["mapID"] = 1861,
 					["id"] = "1543429218-0",
-					["isAwardReason"] = false,
+					["mapID"] = 1861,
 					["instance"] = "Uldir-Heroic",
-					["class"] = "WARLOCK",
-					["iSubClass"] = 1,
-					["response"] = "Personal Loot - Non tradeable",
-					["difficultyID"] = 15,
-					["boss"] = "Taloc",
-					["time"] = "20:20:18",
-					["iClass"] = 4,
-					["lootWon"] = "|cffa335ee|Hitem:160714::::::::120:577::5:3:4799:1517:4784:::|h[Volatile Walkers]|h|r",
-					["responseID"] = "PL",
-					["groupSize"] = 12,
+					["isAwardReason"] = false,
 					["color"] = {
 						1, -- [1]
 						0.6, -- [2]
 						0, -- [3]
 						1, -- [4]
 					},
+					["class"] = "WARLOCK",
+					["iSubClass"] = 1,
+					["groupSize"] = 12,
+					["boss"] = "Taloc",
+					["difficultyID"] = 15,
+					["lootWon"] = "|cffa335ee|Hitem:160714::::::::120:577::5:3:4799:1517:4784:::|h[Volatile Walkers]|h|r",
+					["iClass"] = 4,
+					["time"] = "20:20:18",
+					["responseID"] = "PL",
+					["response"] = "Personal Loot - Non tradeable",
+					["date"] = "28/11/18",
 				}, -- [4]
 				{
+					["id"] = "1543517660-5",
+					["mapID"] = 1861,
+					["response"] = "Personal Loot - Non tradeable",
+					["isAwardReason"] = false,
+					["date"] = "29/11/18",
+					["class"] = "WARLOCK",
+					["iSubClass"] = 1,
+					["groupSize"] = 20,
+					["difficultyID"] = 16,
+					["boss"] = "Zek'voz",
+					["time"] = "20:54:20",
+					["iClass"] = 4,
+					["lootWon"] = "|cffa335ee|Hitem:160617::::::::120:265::6:3:4800:1507:4786:::|h[Void-Lashed Wristband]|h|r",
+					["responseID"] = "PL",
 					["color"] = {
 						1, -- [1]
 						0.6, -- [2]
 						0, -- [3]
 						1, -- [4]
 					},
-					["mapID"] = 1861,
-					["groupSize"] = 20,
-					["isAwardReason"] = false,
-					["id"] = "1543517660-5",
-					["class"] = "WARLOCK",
-					["iSubClass"] = 1,
-					["response"] = "Personal Loot - Non tradeable",
-					["boss"] = "Zek'voz",
-					["difficultyID"] = 16,
-					["lootWon"] = "|cffa335ee|Hitem:160617::::::::120:265::6:3:4800:1507:4786:::|h[Void-Lashed Wristband]|h|r",
-					["iClass"] = 4,
-					["time"] = "20:54:20",
-					["responseID"] = "PL",
 					["instance"] = "Uldir-Mythic",
-					["date"] = "29/11/18",
 				}, -- [5]
 				{
-					["instance"] = "Uldir-Mythic",
-					["mapID"] = 1861,
 					["id"] = "1544121173-1",
-					["isAwardReason"] = false,
+					["mapID"] = 1861,
 					["color"] = {
 						1, -- [1]
 						0.6, -- [2]
 						0, -- [3]
 						1, -- [4]
 					},
+					["isAwardReason"] = false,
+					["date"] = "06/12/18",
 					["class"] = "WARLOCK",
 					["iSubClass"] = 1,
-					["response"] = "Personal Loot - Non tradeable",
-					["difficultyID"] = 16,
-					["boss"] = "MOTHER",
-					["time"] = "20:32:53",
-					["iClass"] = 4,
-					["lootWon"] = "|cffa335ee|Hitem:160615::::::::120:268::6:4:4800:1808:1512:4783:::|h[Leggings of Lingering Infestation]|h|r",
-					["responseID"] = "PL",
 					["groupSize"] = 20,
-					["date"] = "06/12/18",
+					["boss"] = "MOTHER",
+					["difficultyID"] = 16,
+					["lootWon"] = "|cffa335ee|Hitem:160615::::::::120:268::6:4:4800:1808:1512:4783:::|h[Leggings of Lingering Infestation]|h|r",
+					["iClass"] = 4,
+					["time"] = "20:32:53",
+					["responseID"] = "PL",
+					["response"] = "Personal Loot - Non tradeable",
+					["instance"] = "Uldir-Mythic",
 				}, -- [6]
 				{
-					["instance"] = "Uldir-Mythic",
-					["mapID"] = 1861,
 					["id"] = "1544124557-4",
-					["isAwardReason"] = false,
+					["mapID"] = 1861,
 					["color"] = {
 						1, -- [1]
 						0.6, -- [2]
 						0, -- [3]
 						1, -- [4]
 					},
+					["isAwardReason"] = false,
+					["date"] = "06/12/18",
 					["class"] = "WARLOCK",
 					["iSubClass"] = 1,
-					["response"] = "Personal Loot - Non tradeable",
-					["difficultyID"] = 16,
-					["boss"] = "Vectis",
-					["time"] = "21:29:17",
-					["iClass"] = 4,
-					["lootWon"] = "|cffa335ee|Hitem:160715::::::::120:268::6:3:4800:1512:4783:::|h[Mutagenic Protofluid Handwraps]|h|r",
-					["responseID"] = "PL",
 					["groupSize"] = 20,
-					["date"] = "06/12/18",
+					["boss"] = "Vectis",
+					["difficultyID"] = 16,
+					["lootWon"] = "|cffa335ee|Hitem:160715::::::::120:268::6:3:4800:1512:4783:::|h[Mutagenic Protofluid Handwraps]|h|r",
+					["iClass"] = 4,
+					["time"] = "21:29:17",
+					["responseID"] = "PL",
+					["response"] = "Personal Loot - Non tradeable",
+					["instance"] = "Uldir-Mythic",
 				}, -- [7]
 				{
 					["mapID"] = 1861,
@@ -19417,50 +19474,50 @@ RCLootCouncilLootDB = {
 					["instance"] = "Uldir-Mythic",
 				}, -- [10]
 				{
-					["instance"] = "Battle of Dazar'alor-Heroic",
-					["mapID"] = 2070,
-					["groupSize"] = 25,
-					["isAwardReason"] = false,
 					["id"] = "1548266437-0",
+					["mapID"] = 2070,
+					["response"] = "Personal Loot - Non tradeable",
+					["isAwardReason"] = false,
+					["color"] = {
+						1, -- [1]
+						0.6, -- [2]
+						0, -- [3]
+						1, -- [4]
+					},
 					["class"] = "WARLOCK",
 					["iSubClass"] = 1,
-					["response"] = "Personal Loot - Non tradeable",
-					["boss"] = "Champion of the Light",
+					["groupSize"] = 25,
 					["difficultyID"] = 15,
-					["lootWon"] = "|cffa335ee|Hitem:165834::::::::120:268::5:4:4823:1522:4786:5416:::|h[Divine Fury Raiment]|h|r",
-					["iClass"] = 4,
+					["boss"] = "Champion of the Light",
 					["time"] = "20:00:37",
+					["iClass"] = 4,
+					["lootWon"] = "|cffa335ee|Hitem:165834::::::::120:268::5:4:4823:1522:4786:5416:::|h[Divine Fury Raiment]|h|r",
 					["responseID"] = "PL",
+					["instance"] = "Battle of Dazar'alor-Heroic",
 					["date"] = "23/01/19",
-					["color"] = {
-						1, -- [1]
-						0.6, -- [2]
-						0, -- [3]
-						1, -- [4]
-					},
 				}, -- [11]
 				{
+					["id"] = "1548356521-5",
+					["mapID"] = 2070,
+					["date"] = "24/01/19",
+					["isAwardReason"] = false,
+					["instance"] = "Battle of Dazar'alor-Heroic",
+					["class"] = "WARLOCK",
+					["iSubClass"] = 3,
+					["response"] = "Personal Loot - Non tradeable",
+					["boss"] = "Mekkatorque",
+					["difficultyID"] = 15,
+					["lootWon"] = "|cff1eff00|Hitem:166276::::::::120:268::5::::|h[Schematic: Unstable Temporal Time Shifter]|h|r",
+					["iClass"] = 9,
+					["time"] = "21:02:01",
+					["responseID"] = "PL",
+					["groupSize"] = 26,
 					["color"] = {
 						1, -- [1]
 						0.6, -- [2]
 						0, -- [3]
 						1, -- [4]
 					},
-					["mapID"] = 2070,
-					["id"] = "1548356521-5",
-					["isAwardReason"] = false,
-					["date"] = "24/01/19",
-					["class"] = "WARLOCK",
-					["iSubClass"] = 3,
-					["groupSize"] = 26,
-					["difficultyID"] = 15,
-					["boss"] = "Mekkatorque",
-					["time"] = "21:02:01",
-					["iClass"] = 9,
-					["lootWon"] = "|cff1eff00|Hitem:166276::::::::120:268::5::::|h[Schematic: Unstable Temporal Time Shifter]|h|r",
-					["responseID"] = "PL",
-					["response"] = "Personal Loot - Non tradeable",
-					["instance"] = "Battle of Dazar'alor-Heroic",
 				}, -- [12]
 				{
 					["mapID"] = 2070,
@@ -20080,7 +20137,7 @@ RCLootCouncilLootDB = {
 					["iClass"] = 4,
 					["itemReplaced1"] = "|cffa335ee|Hitem:183035:6164:::::::60:65::5:5:7188:6652:7194:1485:6646:1:28:752:::|h[Ardent Sunstar Signet]|h|r",
 					["votes"] = 1,
-					["typeCode"] = "default",
+					["instance"] = "Castle Nathria-Mythic",
 					["owner"] = "Tankzorx-Kazzak",
 					["id"] = "1609090586-55",
 					["response"] = "Need BIS",
@@ -20096,7 +20153,7 @@ RCLootCouncilLootDB = {
 					["isAwardReason"] = false,
 					["responseID"] = 1,
 					["itemReplaced2"] = "|cffa335ee|Hitem:178933:6164:::::::60:65::16:6:7212:6652:7193:1501:5865:6646:1:28:1279:::|h[Arachnid Cipher Ring]|h|r",
-					["instance"] = "Castle Nathria-Mythic",
+					["typeCode"] = "default",
 				}, -- [18]
 				{
 					["mapID"] = 2296,
@@ -20156,8 +20213,8 @@ RCLootCouncilLootDB = {
 					["time"] = "20:45:44",
 					["iClass"] = 4,
 					["itemReplaced1"] = "|cffa335ee|Hitem:178386::::::::60:65::14:3:6623:1498:6646:1:28:807:::|h[Sinful Gladiator's Insignia of Alacrity]|h|r",
-					["typeCode"] = "default",
 					["instance"] = "Castle Nathria-Mythic",
+					["typeCode"] = "default",
 					["owner"] = "Adrenalynz-Kazzak",
 					["id"] = "1610304344-2",
 					["response"] = "Need not BIS",
@@ -20186,7 +20243,7 @@ RCLootCouncilLootDB = {
 					["iClass"] = 4,
 					["itemReplaced1"] = "|cffa335ee|Hitem:178386::::::::60:65::14:3:6623:1498:6646:1:28:807:::|h[Sinful Gladiator's Insignia of Alacrity]|h|r",
 					["votes"] = 2,
-					["instance"] = "The Shadowlands-",
+					["typeCode"] = "default",
 					["owner"] = "Tankzorx-Kazzak",
 					["id"] = "1610564533-11",
 					["response"] = "Need BIS",
@@ -20202,7 +20259,7 @@ RCLootCouncilLootDB = {
 					["isAwardReason"] = false,
 					["responseID"] = 1,
 					["itemReplaced2"] = "|cffa335ee|Hitem:184026::::::::60:65::6:4:7187:6652:1498:6646:1:28:753:::|h[Hateful Chain]|h|r",
-					["typeCode"] = "default",
+					["instance"] = "The Shadowlands-",
 				}, -- [22]
 				{
 					["mapID"] = 2296,
@@ -20473,27 +20530,27 @@ RCLootCouncilLootDB = {
 			},
 			["Brewbark-Kazzak"] = {
 				{
-					["date"] = "01/11/18",
-					["mapID"] = 1861,
-					["response"] = "Personal Loot - Non tradeable",
-					["isAwardReason"] = false,
 					["id"] = "1541104918-17",
+					["mapID"] = 1861,
+					["groupSize"] = 20,
+					["isAwardReason"] = false,
+					["instance"] = "Uldir-Mythic",
 					["class"] = "MONK",
 					["iSubClass"] = 0,
-					["groupSize"] = 20,
-					["boss"] = "Fetid Devourer",
+					["response"] = "Personal Loot - Non tradeable",
 					["difficultyID"] = 16,
-					["lootWon"] = "|cffa335ee|Hitem:160648::::::::120:268::6:3:4800:1517:4783:::|h[Frenetic Corpuscle]|h|r",
-					["iClass"] = 4,
+					["boss"] = "Fetid Devourer",
 					["time"] = "22:41:58",
+					["iClass"] = 4,
+					["lootWon"] = "|cffa335ee|Hitem:160648::::::::120:268::6:3:4800:1517:4783:::|h[Frenetic Corpuscle]|h|r",
 					["responseID"] = "PL",
+					["date"] = "01/11/18",
 					["color"] = {
 						1, -- [1]
 						0.6, -- [2]
 						0, -- [3]
 						1, -- [4]
 					},
-					["instance"] = "Uldir-Mythic",
 				}, -- [1]
 				{
 					["mapID"] = 1861,
@@ -20598,73 +20655,73 @@ RCLootCouncilLootDB = {
 					},
 				}, -- [5]
 				{
-					["instance"] = "Uldir-Mythic",
-					["mapID"] = 1861,
 					["id"] = "1544126937-15",
-					["isAwardReason"] = false,
+					["mapID"] = 1861,
 					["color"] = {
 						1, -- [1]
 						0.6, -- [2]
 						0, -- [3]
 						1, -- [4]
 					},
+					["isAwardReason"] = false,
+					["date"] = "06/12/18",
 					["class"] = "MONK",
 					["iSubClass"] = 2,
-					["response"] = "Personal Loot - Non tradeable",
-					["difficultyID"] = 16,
-					["boss"] = "Zek'voz",
-					["time"] = "22:08:57",
-					["iClass"] = 4,
-					["lootWon"] = "|cffa335ee|Hitem:160624::::::::120:268::6:3:4800:1512:4783:::|h[Quarantine Protocol Treads]|h|r",
-					["responseID"] = "PL",
 					["groupSize"] = 20,
-					["date"] = "06/12/18",
+					["boss"] = "Zek'voz",
+					["difficultyID"] = 16,
+					["lootWon"] = "|cffa335ee|Hitem:160624::::::::120:268::6:3:4800:1512:4783:::|h[Quarantine Protocol Treads]|h|r",
+					["iClass"] = 4,
+					["time"] = "22:08:57",
+					["responseID"] = "PL",
+					["response"] = "Personal Loot - Non tradeable",
+					["instance"] = "Uldir-Mythic",
 				}, -- [6]
 				{
-					["instance"] = "Uldir-Mythic",
-					["mapID"] = 1861,
-					["groupSize"] = 20,
-					["isAwardReason"] = false,
 					["id"] = "1544724607-0",
-					["class"] = "MONK",
-					["iSubClass"] = 2,
+					["mapID"] = 1861,
 					["response"] = "Personal Loot - Non tradeable",
-					["boss"] = "Taloc",
-					["difficultyID"] = 16,
-					["lootWon"] = "|cffa335ee|Hitem:160622::::::::120:268::6:3:4800:1512:4783:::|h[Bloodstorm Buckle]|h|r",
-					["iClass"] = 4,
-					["time"] = "20:10:07",
-					["responseID"] = "PL",
-					["date"] = "13/12/18",
+					["isAwardReason"] = false,
 					["color"] = {
 						1, -- [1]
 						0.6, -- [2]
 						0, -- [3]
 						1, -- [4]
 					},
+					["class"] = "MONK",
+					["iSubClass"] = 2,
+					["groupSize"] = 20,
+					["difficultyID"] = 16,
+					["boss"] = "Taloc",
+					["time"] = "20:10:07",
+					["iClass"] = 4,
+					["lootWon"] = "|cffa335ee|Hitem:160622::::::::120:268::6:3:4800:1512:4783:::|h[Bloodstorm Buckle]|h|r",
+					["responseID"] = "PL",
+					["instance"] = "Uldir-Mythic",
+					["date"] = "13/12/18",
 				}, -- [7]
 				{
-					["instance"] = "Uldir-Mythic",
-					["mapID"] = 1861,
-					["groupSize"] = 20,
-					["isAwardReason"] = false,
 					["id"] = "1544730093-16",
-					["class"] = "MONK",
-					["iSubClass"] = 2,
+					["mapID"] = 1861,
 					["response"] = "Personal Loot - Non tradeable",
-					["boss"] = "Zek'voz",
-					["difficultyID"] = 16,
-					["lootWon"] = "|cffa335ee|Hitem:160717::::::::120:268::6:3:4800:1517:4783:::|h[Replicated Chitin Cord]|h|r",
-					["iClass"] = 4,
-					["time"] = "21:41:33",
-					["responseID"] = "PL",
-					["date"] = "13/12/18",
+					["isAwardReason"] = false,
 					["color"] = {
 						1, -- [1]
 						0.6, -- [2]
 						0, -- [3]
 						1, -- [4]
 					},
+					["class"] = "MONK",
+					["iSubClass"] = 2,
+					["groupSize"] = 20,
+					["difficultyID"] = 16,
+					["boss"] = "Zek'voz",
+					["time"] = "21:41:33",
+					["iClass"] = 4,
+					["lootWon"] = "|cffa335ee|Hitem:160717::::::::120:268::6:3:4800:1517:4783:::|h[Replicated Chitin Cord]|h|r",
+					["responseID"] = "PL",
+					["instance"] = "Uldir-Mythic",
+					["date"] = "13/12/18",
 				}, -- [8]
 				{
 					["mapID"] = 1861,
@@ -20693,27 +20750,27 @@ RCLootCouncilLootDB = {
 					["votes"] = 0,
 				}, -- [9]
 				{
+					["id"] = "1546802762-0",
+					["mapID"] = 1530,
+					["groupSize"] = 20,
+					["isAwardReason"] = false,
+					["date"] = "06/01/19",
+					["class"] = "MONK",
+					["iSubClass"] = 11,
+					["response"] = "Personal Loot - Non tradeable",
+					["difficultyID"] = 16,
+					["boss"] = "High Botanist Tel'arn",
+					["time"] = "21:26:02",
+					["iClass"] = 3,
+					["lootWon"] = "|cffa335ee|Hitem:140839::::::::120:262::6:3:3518:1484:3528:::|h[Parasitic Spore]|h|r",
+					["responseID"] = "PL",
 					["color"] = {
 						1, -- [1]
 						0.6, -- [2]
 						0, -- [3]
 						1, -- [4]
 					},
-					["mapID"] = 1530,
-					["response"] = "Personal Loot - Non tradeable",
-					["isAwardReason"] = false,
-					["id"] = "1546802762-0",
-					["class"] = "MONK",
-					["iSubClass"] = 11,
-					["groupSize"] = 20,
-					["boss"] = "High Botanist Tel'arn",
-					["difficultyID"] = 16,
-					["lootWon"] = "|cffa335ee|Hitem:140839::::::::120:262::6:3:3518:1484:3528:::|h[Parasitic Spore]|h|r",
-					["iClass"] = 3,
-					["time"] = "21:26:02",
-					["responseID"] = "PL",
 					["instance"] = "The Nighthold-Mythic",
-					["date"] = "06/01/19",
 				}, -- [10]
 				{
 					["mapID"] = 1861,
@@ -20867,142 +20924,142 @@ RCLootCouncilLootDB = {
 					["instance"] = "Uldir-Mythic",
 				}, -- [16]
 				{
-					["instance"] = "Battle of Dazar'alor-Heroic",
-					["mapID"] = 2070,
-					["groupSize"] = 26,
-					["isAwardReason"] = false,
 					["id"] = "1548267193-7",
-					["class"] = "MONK",
-					["iSubClass"] = 2,
+					["mapID"] = 2070,
 					["response"] = "Personal Loot - Non tradeable",
-					["boss"] = "Grong",
-					["difficultyID"] = 15,
-					["lootWon"] = "|cffa335ee|Hitem:165515::::::::120:268::5:4:4823:1522:4786:5416:::|h[Grongpelt Vest]|h|r",
-					["iClass"] = 4,
-					["time"] = "20:13:13",
-					["responseID"] = "PL",
-					["date"] = "23/01/19",
+					["isAwardReason"] = false,
 					["color"] = {
 						1, -- [1]
 						0.6, -- [2]
 						0, -- [3]
 						1, -- [4]
 					},
+					["class"] = "MONK",
+					["iSubClass"] = 2,
+					["groupSize"] = 26,
+					["difficultyID"] = 15,
+					["boss"] = "Grong",
+					["time"] = "20:13:13",
+					["iClass"] = 4,
+					["lootWon"] = "|cffa335ee|Hitem:165515::::::::120:268::5:4:4823:1522:4786:5416:::|h[Grongpelt Vest]|h|r",
+					["responseID"] = "PL",
+					["instance"] = "Battle of Dazar'alor-Heroic",
+					["date"] = "23/01/19",
 				}, -- [17]
 				{
-					["instance"] = "Battle of Dazar'alor-Heroic",
-					["mapID"] = 2070,
-					["groupSize"] = 26,
-					["isAwardReason"] = false,
 					["id"] = "1548271777-20",
+					["mapID"] = 2070,
+					["response"] = "Personal Loot - Non tradeable",
+					["isAwardReason"] = false,
+					["color"] = {
+						1, -- [1]
+						0.6, -- [2]
+						0, -- [3]
+						1, -- [4]
+					},
 					["class"] = "MONK",
 					["iSubClass"] = 0,
-					["response"] = "Personal Loot - Non tradeable",
-					["boss"] = "Opulence",
+					["groupSize"] = 26,
 					["difficultyID"] = 15,
-					["lootWon"] = "|cffa335ee|Hitem:165573::::::::120:268::5:4:4799:41:1522:4786:::|h[Diamond-Laced Refracting Prism]|h|r",
-					["iClass"] = 4,
+					["boss"] = "Opulence",
 					["time"] = "21:29:37",
+					["iClass"] = 4,
+					["lootWon"] = "|cffa335ee|Hitem:165573::::::::120:268::5:4:4799:41:1522:4786:::|h[Diamond-Laced Refracting Prism]|h|r",
 					["responseID"] = "PL",
+					["instance"] = "Battle of Dazar'alor-Heroic",
 					["date"] = "23/01/19",
-					["color"] = {
-						1, -- [1]
-						0.6, -- [2]
-						0, -- [3]
-						1, -- [4]
-					},
 				}, -- [18]
 				{
-					["color"] = {
-						1, -- [1]
-						0.6, -- [2]
-						0, -- [3]
-						1, -- [4]
-					},
-					["mapID"] = 2070,
 					["id"] = "1548274381-24",
-					["isAwardReason"] = false,
+					["mapID"] = 2070,
 					["date"] = "23/01/19",
+					["isAwardReason"] = false,
+					["instance"] = "Battle of Dazar'alor-Heroic",
 					["class"] = "MONK",
 					["iSubClass"] = 1,
-					["response"] = "Personal Loot - Non tradeable",
-					["difficultyID"] = 15,
-					["boss"] = "Conclave of the Chosen",
-					["time"] = "22:13:01",
-					["iClass"] = 4,
-					["lootWon"] = "|cffa335ee|Hitem:165512::::::::120:268::5:4:4799:40:1527:4783:::|h[Loa Exultant's Shroud]|h|r",
-					["responseID"] = "PL",
 					["groupSize"] = 26,
-					["instance"] = "Battle of Dazar'alor-Heroic",
+					["boss"] = "Conclave of the Chosen",
+					["difficultyID"] = 15,
+					["lootWon"] = "|cffa335ee|Hitem:165512::::::::120:268::5:4:4799:40:1527:4783:::|h[Loa Exultant's Shroud]|h|r",
+					["iClass"] = 4,
+					["time"] = "22:13:01",
+					["responseID"] = "PL",
+					["response"] = "Personal Loot - Non tradeable",
+					["color"] = {
+						1, -- [1]
+						0.6, -- [2]
+						0, -- [3]
+						1, -- [4]
+					},
 				}, -- [19]
 				{
+					["id"] = "1548834517-5",
+					["mapID"] = 1841,
+					["date"] = "30/01/19",
+					["isAwardReason"] = false,
+					["instance"] = "The Underrot-Mythic Keystone",
+					["class"] = "MONK",
+					["iSubClass"] = 2,
+					["response"] = "Personal Loot - Non tradeable",
+					["boss"] = "Unbound Abomination",
+					["difficultyID"] = 8,
+					["lootWon"] = "|cffa335ee|Hitem:159324::::::::120:262::16:4:5010:4802:1582:4783:::|h[Blood Elder's Bindings]|h|r",
+					["iClass"] = 4,
+					["time"] = "09:48:37",
+					["responseID"] = "PL",
+					["groupSize"] = 5,
 					["color"] = {
 						1, -- [1]
 						0.6, -- [2]
 						0, -- [3]
 						1, -- [4]
 					},
-					["mapID"] = 1841,
-					["id"] = "1548834517-5",
-					["isAwardReason"] = false,
-					["date"] = "30/01/19",
-					["class"] = "MONK",
-					["iSubClass"] = 2,
-					["groupSize"] = 5,
-					["difficultyID"] = 8,
-					["boss"] = "Unbound Abomination",
-					["time"] = "09:48:37",
-					["iClass"] = 4,
-					["lootWon"] = "|cffa335ee|Hitem:159324::::::::120:262::16:4:5010:4802:1582:4783:::|h[Blood Elder's Bindings]|h|r",
-					["responseID"] = "PL",
-					["response"] = "Personal Loot - Non tradeable",
-					["instance"] = "The Underrot-Mythic Keystone",
 				}, -- [20]
 				{
-					["date"] = "30/01/19",
-					["mapID"] = 1594,
-					["groupSize"] = 5,
-					["isAwardReason"] = false,
 					["id"] = "1548841872-2",
+					["mapID"] = 1594,
+					["response"] = "Personal Loot - Non tradeable",
+					["isAwardReason"] = false,
+					["instance"] = "The MOTHERLODE!!-Mythic Keystone",
 					["class"] = "MONK",
 					["iSubClass"] = 2,
-					["response"] = "Personal Loot - Non tradeable",
-					["boss"] = "Mogul Razdunk",
+					["groupSize"] = 5,
 					["difficultyID"] = 8,
-					["lootWon"] = "|cffa335ee|Hitem:159305::::::::120:262::16:3:5010:1577:4783:::|h[Corrosive Handler's Gloves]|h|r",
-					["iClass"] = 4,
+					["boss"] = "Mogul Razdunk",
 					["time"] = "11:51:12",
+					["iClass"] = 4,
+					["lootWon"] = "|cffa335ee|Hitem:159305::::::::120:262::16:3:5010:1577:4783:::|h[Corrosive Handler's Gloves]|h|r",
 					["responseID"] = "PL",
+					["date"] = "30/01/19",
 					["color"] = {
 						1, -- [1]
 						0.6, -- [2]
 						0, -- [3]
 						1, -- [4]
 					},
-					["instance"] = "The MOTHERLODE!!-Mythic Keystone",
 				}, -- [21]
 				{
-					["date"] = "30/01/19",
-					["mapID"] = 1763,
-					["groupSize"] = 5,
-					["isAwardReason"] = false,
 					["id"] = "1548844537-5",
+					["mapID"] = 1763,
+					["response"] = "Personal Loot - Non tradeable",
+					["isAwardReason"] = false,
+					["instance"] = "Atal'Dazar-Mythic Keystone",
 					["class"] = "MONK",
 					["iSubClass"] = 13,
-					["response"] = "Personal Loot - Non tradeable",
-					["boss"] = "Yazma",
+					["groupSize"] = 5,
 					["difficultyID"] = 8,
-					["lootWon"] = "|cffa335ee|Hitem:160269::::::::120:262::16:3:5010:1572:4786:::|h[Soulrending Claw]|h|r",
-					["iClass"] = 2,
+					["boss"] = "Yazma",
 					["time"] = "12:35:37",
+					["iClass"] = 2,
+					["lootWon"] = "|cffa335ee|Hitem:160269::::::::120:262::16:3:5010:1572:4786:::|h[Soulrending Claw]|h|r",
 					["responseID"] = "PL",
+					["date"] = "30/01/19",
 					["color"] = {
 						1, -- [1]
 						0.6, -- [2]
 						0, -- [3]
 						1, -- [4]
 					},
-					["instance"] = "Atal'Dazar-Mythic Keystone",
 				}, -- [22]
 				{
 					["mapID"] = 2070,
@@ -21364,73 +21421,73 @@ RCLootCouncilLootDB = {
 			},
 			["Samyi-Kazzak"] = {
 				{
-					["date"] = "02/11/18",
-					["mapID"] = 1861,
-					["response"] = "Personal Loot - Non tradeable",
-					["isAwardReason"] = false,
 					["id"] = "1541110636-21",
+					["mapID"] = 1861,
+					["groupSize"] = 20,
+					["isAwardReason"] = false,
+					["instance"] = "Uldir-Mythic",
 					["class"] = "MONK",
 					["iSubClass"] = 2,
-					["groupSize"] = 20,
-					["boss"] = "Zul",
+					["response"] = "Personal Loot - Non tradeable",
 					["difficultyID"] = 16,
-					["lootWon"] = "|cffa335ee|Hitem:160720::::::::120:268::6:4:4800:43:1517:4783:::|h[Armbands of Sacrosanct Acts]|h|r",
-					["iClass"] = 4,
+					["boss"] = "Zul",
 					["time"] = "00:17:16",
+					["iClass"] = 4,
+					["lootWon"] = "|cffa335ee|Hitem:160720::::::::120:268::6:4:4800:43:1517:4783:::|h[Armbands of Sacrosanct Acts]|h|r",
 					["responseID"] = "PL",
+					["date"] = "02/11/18",
 					["color"] = {
 						1, -- [1]
 						0.6, -- [2]
 						0, -- [3]
 						1, -- [4]
 					},
-					["instance"] = "Uldir-Mythic",
 				}, -- [1]
 				{
-					["instance"] = "Battle of Dazar'alor-Heroic",
-					["mapID"] = 2070,
-					["groupSize"] = 26,
-					["isAwardReason"] = false,
 					["id"] = "1548271777-19",
+					["mapID"] = 2070,
+					["response"] = "Personal Loot - Non tradeable",
+					["isAwardReason"] = false,
+					["color"] = {
+						1, -- [1]
+						0.6, -- [2]
+						0, -- [3]
+						1, -- [4]
+					},
 					["class"] = "MONK",
 					["iSubClass"] = 2,
-					["response"] = "Personal Loot - Non tradeable",
-					["boss"] = "Opulence",
-					["difficultyID"] = 15,
-					["lootWon"] = "|cffa335ee|Hitem:165526::::::::120:268::5:4:4823:1522:4786:5417:::|h[Crown of A'akul's Dark Reign]|h|r",
-					["iClass"] = 4,
-					["time"] = "21:29:37",
-					["responseID"] = "PL",
-					["date"] = "23/01/19",
-					["color"] = {
-						1, -- [1]
-						0.6, -- [2]
-						0, -- [3]
-						1, -- [4]
-					},
-				}, -- [2]
-				{
-					["instance"] = "Battle of Dazar'alor-Heroic",
-					["mapID"] = 2070,
-					["id"] = "1548278623-33",
-					["isAwardReason"] = false,
-					["color"] = {
-						1, -- [1]
-						0.6, -- [2]
-						0, -- [3]
-						1, -- [4]
-					},
-					["class"] = "MONK",
-					["iSubClass"] = 0,
 					["groupSize"] = 26,
 					["difficultyID"] = 15,
-					["boss"] = "King Rastakhan",
-					["time"] = "23:23:43",
+					["boss"] = "Opulence",
+					["time"] = "21:29:37",
 					["iClass"] = 4,
-					["lootWon"] = "|cffa335ee|Hitem:165567::::::::120:268::5:3:4799:1522:4786:::|h[Seal of the Zandalari Empire]|h|r",
+					["lootWon"] = "|cffa335ee|Hitem:165526::::::::120:268::5:4:4823:1522:4786:5417:::|h[Crown of A'akul's Dark Reign]|h|r",
 					["responseID"] = "PL",
-					["response"] = "Personal Loot - Non tradeable",
+					["instance"] = "Battle of Dazar'alor-Heroic",
 					["date"] = "23/01/19",
+				}, -- [2]
+				{
+					["id"] = "1548278623-33",
+					["mapID"] = 2070,
+					["color"] = {
+						1, -- [1]
+						0.6, -- [2]
+						0, -- [3]
+						1, -- [4]
+					},
+					["isAwardReason"] = false,
+					["date"] = "23/01/19",
+					["class"] = "MONK",
+					["iSubClass"] = 0,
+					["response"] = "Personal Loot - Non tradeable",
+					["boss"] = "King Rastakhan",
+					["difficultyID"] = 15,
+					["lootWon"] = "|cffa335ee|Hitem:165567::::::::120:268::5:3:4799:1522:4786:::|h[Seal of the Zandalari Empire]|h|r",
+					["iClass"] = 4,
+					["time"] = "23:23:43",
+					["responseID"] = "PL",
+					["groupSize"] = 26,
+					["instance"] = "Battle of Dazar'alor-Heroic",
 				}, -- [3]
 				{
 					["mapID"] = 2070,
@@ -22246,8 +22303,8 @@ RCLootCouncilLootDB = {
 					["time"] = "20:35:34",
 					["iClass"] = 4,
 					["itemReplaced1"] = "|cffff8000|Hitem:178926:6166:173128::::::60:65::63:6:6959:6649:6647:6758:1532:6935::::|h[Signet of Tormented Kings]|h|r",
-					["typeCode"] = "default",
 					["instance"] = "Castle Nathria-Mythic",
+					["typeCode"] = "default",
 					["owner"] = "Sacraa-Kazzak",
 					["id"] = "1612377334-12",
 					["response"] = "Minor Upgrade",
@@ -22358,7 +22415,7 @@ RCLootCouncilLootDB = {
 					["iClass"] = 4,
 					["itemReplaced1"] = "|cffff8000|Hitem:178926:6166:173128::::::60:65::63:6:6959:6649:6647:6758:1532:6935::::|h[Signet of Tormented Kings]|h|r",
 					["votes"] = 0,
-					["instance"] = "Castle Nathria-Mythic",
+					["typeCode"] = "default",
 					["owner"] = "Blorki-Kazzak",
 					["id"] = "1613932481-19",
 					["response"] = "Need not BIS",
@@ -22374,7 +22431,7 @@ RCLootCouncilLootDB = {
 					["isAwardReason"] = false,
 					["responseID"] = 2,
 					["itemReplaced2"] = "|cffa335ee|Hitem:183036:6166:::::::60:65::84:5:7188:6652:7194:1485:6646:1:28:752:::|h[Most Regal Signet of Sire Denathrius]|h|r",
-					["typeCode"] = "default",
+					["instance"] = "Castle Nathria-Mythic",
 				}, -- [21]
 				{
 					["mapID"] = 2296,
@@ -23611,27 +23668,27 @@ RCLootCouncilLootDB = {
 			},
 			["Teerkan-Draenor"] = {
 				{
+					["id"] = "1548544762-0",
+					["mapID"] = 2070,
+					["date"] = "27/01/19",
+					["isAwardReason"] = false,
+					["instance"] = "Battle of Dazar'alor-Heroic",
+					["class"] = "DRUID",
+					["iSubClass"] = 0,
+					["groupSize"] = 20,
+					["boss"] = "Opulence",
+					["difficultyID"] = 15,
+					["lootWon"] = "|cffa335ee|Hitem:165571::::::::120:250::5:3:4799:1522:4786:::|h[Incandescent Sliver]|h|r",
+					["iClass"] = 4,
+					["time"] = "01:19:22",
+					["responseID"] = "PL",
+					["response"] = "Personal Loot - Non tradeable",
 					["color"] = {
 						1, -- [1]
 						0.6, -- [2]
 						0, -- [3]
 						1, -- [4]
 					},
-					["mapID"] = 2070,
-					["id"] = "1548544762-0",
-					["isAwardReason"] = false,
-					["date"] = "27/01/19",
-					["class"] = "DRUID",
-					["iSubClass"] = 0,
-					["response"] = "Personal Loot - Non tradeable",
-					["difficultyID"] = 15,
-					["boss"] = "Opulence",
-					["time"] = "01:19:22",
-					["iClass"] = 4,
-					["lootWon"] = "|cffa335ee|Hitem:165571::::::::120:250::5:3:4799:1522:4786:::|h[Incandescent Sliver]|h|r",
-					["responseID"] = "PL",
-					["groupSize"] = 20,
-					["instance"] = "Battle of Dazar'alor-Heroic",
 				}, -- [1]
 			},
 			["Akrenite-Kazzak"] = {
@@ -23830,27 +23887,27 @@ RCLootCouncilLootDB = {
 			},
 			["Corlico-Kazzak"] = {
 				{
-					["instance"] = "Battle of Dazar'alor-Heroic",
-					["mapID"] = 2070,
-					["groupSize"] = 25,
-					["isAwardReason"] = false,
 					["id"] = "1548266442-4",
-					["class"] = "SHAMAN",
-					["iSubClass"] = 3,
+					["mapID"] = 2070,
 					["response"] = "Personal Loot - Non tradeable",
-					["boss"] = "Champion of the Light",
-					["difficultyID"] = 15,
-					["lootWon"] = "|cffa335ee|Hitem:165921::::::::120:268::5:4:4823:1522:4786:5418:::|h[Pauldrons of Ancestral Vengeance]|h|r",
-					["iClass"] = 4,
-					["time"] = "20:00:42",
-					["responseID"] = "PL",
-					["date"] = "23/01/19",
+					["isAwardReason"] = false,
 					["color"] = {
 						1, -- [1]
 						0.6, -- [2]
 						0, -- [3]
 						1, -- [4]
 					},
+					["class"] = "SHAMAN",
+					["iSubClass"] = 3,
+					["groupSize"] = 25,
+					["difficultyID"] = 15,
+					["boss"] = "Champion of the Light",
+					["time"] = "20:00:42",
+					["iClass"] = 4,
+					["lootWon"] = "|cffa335ee|Hitem:165921::::::::120:268::5:4:4823:1522:4786:5418:::|h[Pauldrons of Ancestral Vengeance]|h|r",
+					["responseID"] = "PL",
+					["instance"] = "Battle of Dazar'alor-Heroic",
+					["date"] = "23/01/19",
 				}, -- [1]
 				{
 					["mapID"] = 2070,
@@ -24814,7 +24871,7 @@ RCLootCouncilLootDB = {
 					["iClass"] = 4,
 					["itemReplaced1"] = "|cff0070dd|Hitem:184842::::::::60:65::26:4:6652:1472:5858:6616:1:28:2060:::|h[Instructor's Divine Bell]|h|r",
 					["votes"] = 0,
-					["instance"] = "The Shadowlands-",
+					["typeCode"] = "default",
 					["owner"] = "Tokzik-Kazzak",
 					["id"] = "1608053552-28",
 					["response"] = "Need BIS",
@@ -24830,7 +24887,7 @@ RCLootCouncilLootDB = {
 					["isAwardReason"] = false,
 					["responseID"] = 1,
 					["itemReplaced2"] = "|cff0070dd|Hitem:178861::::::::60:65::2:4:6806:6652:1485:4785:1:28:2044:::|h[Decanter of Anima-Charged Winds]|h|r",
-					["typeCode"] = "default",
+					["instance"] = "The Shadowlands-",
 				}, -- [3]
 				{
 					["mapID"] = 2296,
@@ -25062,8 +25119,8 @@ RCLootCouncilLootDB = {
 					["time"] = "19:58:26",
 					["iClass"] = 4,
 					["itemReplaced1"] = "|cffa335ee|Hitem:183037:6166:::::::60:65::5:5:7188:6652:7194:1485:6646:1:28:752:::|h[Ritualist's Treasured Ring]|h|r",
-					["typeCode"] = "default",
 					["instance"] = "Castle Nathria-Mythic",
+					["typeCode"] = "default",
 					["owner"] = "Bevv-Kazzak",
 					["id"] = "1612375106-9",
 					["response"] = "Need BIS",
@@ -25527,7 +25584,7 @@ RCLootCouncilLootDB = {
 					["iClass"] = 4,
 					["itemReplaced1"] = "|cffa335ee|Hitem:178824:6168:::::::60:65::16:6:7206:6652:7194:1501:5858:6646:1:28:1279:::|h[Signet of the False Accuser]|h|r",
 					["votes"] = 0,
-					["instance"] = "Castle Nathria-Normal",
+					["typeCode"] = "default",
 					["owner"] = "Creo-Kazzak",
 					["id"] = "1608054380-33",
 					["response"] = "Need BIS",
@@ -25543,7 +25600,7 @@ RCLootCouncilLootDB = {
 					["isAwardReason"] = false,
 					["responseID"] = 1,
 					["itemReplaced2"] = "|cffa335ee|Hitem:178869:6168:::::::60:65::16:6:7206:6652:7193:1501:5858:6646:1:28:1279:::|h[Fleshfused Circle]|h|r",
-					["typeCode"] = "default",
+					["instance"] = "Castle Nathria-Normal",
 				}, -- [7]
 				{
 					["mapID"] = 2296,
@@ -26743,73 +26800,73 @@ RCLootCouncilLootDB = {
 			},
 			["Linchkignx-Kazzak"] = {
 				{
-					["instance"] = "Uldir-Mythic",
-					["mapID"] = 1861,
 					["id"] = "1544123104-3",
-					["isAwardReason"] = false,
+					["mapID"] = 1861,
 					["color"] = {
 						1, -- [1]
 						0.6, -- [2]
 						0, -- [3]
 						1, -- [4]
 					},
+					["isAwardReason"] = false,
+					["date"] = "06/12/18",
 					["class"] = "DEATHKNIGHT",
 					["iSubClass"] = 0,
-					["response"] = "Personal Loot - Non tradeable",
-					["difficultyID"] = 16,
-					["boss"] = "Fetid Devourer",
-					["time"] = "21:05:04",
-					["iClass"] = 2,
-					["lootWon"] = "|cffa335ee|Hitem:160685::::::::120:268::6:3:4800:1507:4786:::|h[Biomelding Cleaver]|h|r",
-					["responseID"] = "PL",
 					["groupSize"] = 20,
-					["date"] = "06/12/18",
+					["boss"] = "Fetid Devourer",
+					["difficultyID"] = 16,
+					["lootWon"] = "|cffa335ee|Hitem:160685::::::::120:268::6:3:4800:1507:4786:::|h[Biomelding Cleaver]|h|r",
+					["iClass"] = 2,
+					["time"] = "21:05:04",
+					["responseID"] = "PL",
+					["response"] = "Personal Loot - Non tradeable",
+					["instance"] = "Uldir-Mythic",
 				}, -- [1]
 				{
-					["instance"] = "Uldir-Mythic",
-					["mapID"] = 1861,
-					["groupSize"] = 20,
-					["isAwardReason"] = false,
 					["id"] = "1544724609-1",
+					["mapID"] = 1861,
+					["response"] = "Personal Loot - Non tradeable",
+					["isAwardReason"] = false,
+					["color"] = {
+						1, -- [1]
+						0.6, -- [2]
+						0, -- [3]
+						1, -- [4]
+					},
 					["class"] = "DEATHKNIGHT",
 					["iSubClass"] = 5,
-					["response"] = "Personal Loot - Non tradeable",
-					["boss"] = "Taloc",
+					["groupSize"] = 20,
 					["difficultyID"] = 16,
-					["lootWon"] = "|cffa335ee|Hitem:160679::::::::120:268::6:3:4800:1507:4786:::|h[Khor, Hammer of the Corrupted]|h|r",
-					["iClass"] = 2,
+					["boss"] = "Taloc",
 					["time"] = "20:10:09",
+					["iClass"] = 2,
+					["lootWon"] = "|cffa335ee|Hitem:160679::::::::120:268::6:3:4800:1507:4786:::|h[Khor, Hammer of the Corrupted]|h|r",
 					["responseID"] = "PL",
+					["instance"] = "Uldir-Mythic",
 					["date"] = "13/12/18",
-					["color"] = {
-						1, -- [1]
-						0.6, -- [2]
-						0, -- [3]
-						1, -- [4]
-					},
 				}, -- [2]
 				{
-					["instance"] = "Uldir-Mythic",
-					["mapID"] = 1861,
-					["groupSize"] = 20,
-					["isAwardReason"] = false,
 					["id"] = "1544730126-17",
-					["class"] = "DEATHKNIGHT",
-					["iSubClass"] = 4,
+					["mapID"] = 1861,
 					["response"] = "Personal Loot - Non tradeable",
-					["boss"] = "Zek'voz",
-					["difficultyID"] = 16,
-					["lootWon"] = "|cffa335ee|Hitem:160640::::::::120:268::6:3:4800:1507:4786:::|h[Warboots of Absolute Eradication]|h|r",
-					["iClass"] = 4,
-					["time"] = "21:42:06",
-					["responseID"] = "PL",
-					["date"] = "13/12/18",
+					["isAwardReason"] = false,
 					["color"] = {
 						1, -- [1]
 						0.6, -- [2]
 						0, -- [3]
 						1, -- [4]
 					},
+					["class"] = "DEATHKNIGHT",
+					["iSubClass"] = 4,
+					["groupSize"] = 20,
+					["difficultyID"] = 16,
+					["boss"] = "Zek'voz",
+					["time"] = "21:42:06",
+					["iClass"] = 4,
+					["lootWon"] = "|cffa335ee|Hitem:160640::::::::120:268::6:3:4800:1507:4786:::|h[Warboots of Absolute Eradication]|h|r",
+					["responseID"] = "PL",
+					["instance"] = "Uldir-Mythic",
+					["date"] = "13/12/18",
 				}, -- [3]
 				{
 					["mapID"] = 1861,
@@ -26888,27 +26945,27 @@ RCLootCouncilLootDB = {
 					["isAwardReason"] = false,
 				}, -- [6]
 				{
-					["instance"] = "Battle of Dazar'alor-Heroic",
-					["mapID"] = 2070,
-					["groupSize"] = 26,
-					["isAwardReason"] = false,
 					["id"] = "1548268801-11",
-					["class"] = "DEATHKNIGHT",
-					["iSubClass"] = 4,
+					["mapID"] = 2070,
 					["response"] = "Personal Loot - Non tradeable",
-					["boss"] = "Jadefire Masters",
-					["difficultyID"] = 15,
-					["lootWon"] = "|cffa335ee|Hitem:165552::::::::120:268::5:3:4799:1527:4783:::|h[Embersear Waistguard]|h|r",
-					["iClass"] = 4,
-					["time"] = "20:40:01",
-					["responseID"] = "PL",
-					["date"] = "23/01/19",
+					["isAwardReason"] = false,
 					["color"] = {
 						1, -- [1]
 						0.6, -- [2]
 						0, -- [3]
 						1, -- [4]
 					},
+					["class"] = "DEATHKNIGHT",
+					["iSubClass"] = 4,
+					["groupSize"] = 26,
+					["difficultyID"] = 15,
+					["boss"] = "Jadefire Masters",
+					["time"] = "20:40:01",
+					["iClass"] = 4,
+					["lootWon"] = "|cffa335ee|Hitem:165552::::::::120:268::5:3:4799:1527:4783:::|h[Embersear Waistguard]|h|r",
+					["responseID"] = "PL",
+					["instance"] = "Battle of Dazar'alor-Heroic",
+					["date"] = "23/01/19",
 				}, -- [7]
 				{
 					["mapID"] = 2070,
@@ -26961,73 +27018,73 @@ RCLootCouncilLootDB = {
 					["isAwardReason"] = false,
 				}, -- [9]
 				{
+					["id"] = "1548830870-1",
+					["mapID"] = 1763,
+					["date"] = "30/01/19",
+					["isAwardReason"] = false,
+					["instance"] = "Atal'Dazar-Mythic Keystone",
+					["class"] = "DEATHKNIGHT",
+					["iSubClass"] = 0,
+					["response"] = "Personal Loot - Non tradeable",
+					["boss"] = "Yazma",
+					["difficultyID"] = 8,
+					["lootWon"] = "|cffa335ee|Hitem:158712::::::::120:262::16:3:5010:1572:4786:::|h[Rezan's Gleaming Eye]|h|r",
+					["iClass"] = 4,
+					["time"] = "08:47:50",
+					["responseID"] = "PL",
+					["groupSize"] = 5,
 					["color"] = {
 						1, -- [1]
 						0.6, -- [2]
 						0, -- [3]
 						1, -- [4]
 					},
-					["mapID"] = 1763,
-					["id"] = "1548830870-1",
-					["isAwardReason"] = false,
-					["date"] = "30/01/19",
-					["class"] = "DEATHKNIGHT",
-					["iSubClass"] = 0,
-					["groupSize"] = 5,
-					["difficultyID"] = 8,
-					["boss"] = "Yazma",
-					["time"] = "08:47:50",
-					["iClass"] = 4,
-					["lootWon"] = "|cffa335ee|Hitem:158712::::::::120:262::16:3:5010:1572:4786:::|h[Rezan's Gleaming Eye]|h|r",
-					["responseID"] = "PL",
-					["response"] = "Personal Loot - Non tradeable",
-					["instance"] = "Atal'Dazar-Mythic Keystone",
 				}, -- [10]
 				{
-					["date"] = "30/01/19",
-					["mapID"] = 1862,
-					["groupSize"] = 5,
-					["isAwardReason"] = false,
 					["id"] = "1548855952-12",
+					["mapID"] = 1862,
+					["response"] = "Personal Loot - Non tradeable",
+					["isAwardReason"] = false,
+					["instance"] = "Waycrest Manor-Mythic Keystone",
 					["class"] = "DEATHKNIGHT",
 					["iSubClass"] = 4,
-					["response"] = "Personal Loot - Non tradeable",
-					["boss"] = "Gorak Tul",
+					["groupSize"] = 5,
 					["difficultyID"] = 8,
-					["lootWon"] = "|cffa335ee|Hitem:159449::::::::120:262::16:4:5010:4802:1572:4786:::|h[Soulwarped Vambraces]|h|r",
-					["iClass"] = 4,
+					["boss"] = "Gorak Tul",
 					["time"] = "15:45:52",
+					["iClass"] = 4,
+					["lootWon"] = "|cffa335ee|Hitem:159449::::::::120:262::16:4:5010:4802:1572:4786:::|h[Soulwarped Vambraces]|h|r",
 					["responseID"] = "PL",
+					["date"] = "30/01/19",
 					["color"] = {
 						1, -- [1]
 						0.6, -- [2]
 						0, -- [3]
 						1, -- [4]
 					},
-					["instance"] = "Waycrest Manor-Mythic Keystone",
 				}, -- [11]
 				{
+					["id"] = "1548866118-4",
+					["mapID"] = 1771,
+					["groupSize"] = 5,
+					["isAwardReason"] = false,
+					["date"] = "30/01/19",
+					["class"] = "DEATHKNIGHT",
+					["iSubClass"] = 0,
+					["response"] = "Personal Loot - Non tradeable",
+					["difficultyID"] = 8,
+					["boss"] = "Overseer Korgus",
+					["time"] = "18:35:18",
+					["iClass"] = 4,
+					["lootWon"] = "|cffa335ee|Hitem:159460::::::::120:262::16:3:5010:1587:4784:::|h[Overseer's Lost Seal]|h|r",
+					["responseID"] = "PL",
 					["color"] = {
 						1, -- [1]
 						0.6, -- [2]
 						0, -- [3]
 						1, -- [4]
 					},
-					["mapID"] = 1771,
-					["response"] = "Personal Loot - Non tradeable",
-					["isAwardReason"] = false,
-					["id"] = "1548866118-4",
-					["class"] = "DEATHKNIGHT",
-					["iSubClass"] = 0,
-					["groupSize"] = 5,
-					["boss"] = "Overseer Korgus",
-					["difficultyID"] = 8,
-					["lootWon"] = "|cffa335ee|Hitem:159460::::::::120:262::16:3:5010:1587:4784:::|h[Overseer's Lost Seal]|h|r",
-					["iClass"] = 4,
-					["time"] = "18:35:18",
-					["responseID"] = "PL",
 					["instance"] = "Tol Dagor-Mythic Keystone",
-					["date"] = "30/01/19",
 				}, -- [12]
 				{
 					["mapID"] = 2070,
@@ -27087,119 +27144,119 @@ RCLootCouncilLootDB = {
 					["instance"] = "Uldir-Mythic",
 				}, -- [1]
 				{
+					["id"] = "1541451470-2",
+					["mapID"] = 1861,
+					["date"] = "05/11/18",
+					["isAwardReason"] = false,
+					["instance"] = "Uldir-Mythic",
+					["class"] = "MONK",
+					["iSubClass"] = 0,
+					["groupSize"] = 20,
+					["boss"] = "Mythrax",
+					["difficultyID"] = 16,
+					["lootWon"] = "|cffa335ee|Hitem:160646::::::::120:250::6:3:4800:1517:4783:::|h[Band of Certain Annihilation]|h|r",
+					["iClass"] = 4,
+					["time"] = "22:57:50",
+					["responseID"] = "PL",
+					["response"] = "Personal Loot - Non tradeable",
 					["color"] = {
 						1, -- [1]
 						0.6, -- [2]
 						0, -- [3]
 						1, -- [4]
 					},
-					["mapID"] = 1861,
-					["id"] = "1541451470-2",
-					["isAwardReason"] = false,
-					["date"] = "05/11/18",
-					["class"] = "MONK",
-					["iSubClass"] = 0,
-					["response"] = "Personal Loot - Non tradeable",
-					["difficultyID"] = 16,
-					["boss"] = "Mythrax",
-					["time"] = "22:57:50",
-					["iClass"] = 4,
-					["lootWon"] = "|cffa335ee|Hitem:160646::::::::120:250::6:3:4800:1517:4783:::|h[Band of Certain Annihilation]|h|r",
-					["responseID"] = "PL",
-					["groupSize"] = 20,
-					["instance"] = "Uldir-Mythic",
 				}, -- [2]
 				{
-					["instance"] = "Uldir-Heroic",
-					["mapID"] = 1861,
 					["id"] = "1541614741-0",
-					["isAwardReason"] = false,
+					["mapID"] = 1861,
 					["color"] = {
 						1, -- [1]
 						0.6, -- [2]
 						0, -- [3]
 						1, -- [4]
 					},
+					["isAwardReason"] = false,
+					["date"] = "07/11/18",
 					["class"] = "MONK",
 					["iSubClass"] = 2,
-					["response"] = "Personal Loot - Non tradeable",
-					["difficultyID"] = 15,
-					["boss"] = "Taloc",
-					["time"] = "20:19:01",
-					["iClass"] = 4,
-					["lootWon"] = "|cffa335ee|Hitem:160618::::::::120:251::5:3:4799:1502:4783:::|h[Gloves of Descending Madness]|h|r",
-					["responseID"] = "PL",
 					["groupSize"] = 14,
-					["date"] = "07/11/18",
+					["boss"] = "Taloc",
+					["difficultyID"] = 15,
+					["lootWon"] = "|cffa335ee|Hitem:160618::::::::120:251::5:3:4799:1502:4783:::|h[Gloves of Descending Madness]|h|r",
+					["iClass"] = 4,
+					["time"] = "20:19:01",
+					["responseID"] = "PL",
+					["response"] = "Personal Loot - Non tradeable",
+					["instance"] = "Uldir-Heroic",
 				}, -- [3]
 				{
-					["instance"] = "Uldir-Mythic",
-					["mapID"] = 1861,
 					["id"] = "1544121173-0",
-					["isAwardReason"] = false,
+					["mapID"] = 1861,
 					["color"] = {
 						1, -- [1]
 						0.6, -- [2]
 						0, -- [3]
 						1, -- [4]
 					},
+					["isAwardReason"] = false,
+					["date"] = "06/12/18",
 					["class"] = "MONK",
 					["iSubClass"] = 0,
-					["response"] = "Personal Loot - Non tradeable",
-					["difficultyID"] = 16,
-					["boss"] = "MOTHER",
-					["time"] = "20:32:53",
-					["iClass"] = 4,
-					["lootWon"] = "|cffa335ee|Hitem:160695::::::::120:268::6:3:4800:1507:4786:::|h[Uldir Subject Manifest]|h|r",
-					["responseID"] = "PL",
 					["groupSize"] = 20,
-					["date"] = "06/12/18",
+					["boss"] = "MOTHER",
+					["difficultyID"] = 16,
+					["lootWon"] = "|cffa335ee|Hitem:160695::::::::120:268::6:3:4800:1507:4786:::|h[Uldir Subject Manifest]|h|r",
+					["iClass"] = 4,
+					["time"] = "20:32:53",
+					["responseID"] = "PL",
+					["response"] = "Personal Loot - Non tradeable",
+					["instance"] = "Uldir-Mythic",
 				}, -- [4]
 				{
-					["instance"] = "Uldir-Mythic",
-					["mapID"] = 1861,
 					["id"] = "1544121175-2",
-					["isAwardReason"] = false,
+					["mapID"] = 1861,
 					["color"] = {
 						1, -- [1]
 						0.6, -- [2]
 						0, -- [3]
 						1, -- [4]
 					},
+					["isAwardReason"] = false,
+					["date"] = "06/12/18",
 					["class"] = "MONK",
 					["iSubClass"] = 0,
-					["response"] = "Personal Loot - Non tradeable",
-					["difficultyID"] = 16,
-					["boss"] = "MOTHER",
-					["time"] = "20:32:55",
-					["iClass"] = 4,
-					["lootWon"] = "|cffa335ee|Hitem:160695::::::::120:268::6:3:4800:1507:4786:::|h[Uldir Subject Manifest]|h|r",
-					["responseID"] = "PL",
 					["groupSize"] = 20,
-					["date"] = "06/12/18",
+					["boss"] = "MOTHER",
+					["difficultyID"] = 16,
+					["lootWon"] = "|cffa335ee|Hitem:160695::::::::120:268::6:3:4800:1507:4786:::|h[Uldir Subject Manifest]|h|r",
+					["iClass"] = 4,
+					["time"] = "20:32:55",
+					["responseID"] = "PL",
+					["response"] = "Personal Loot - Non tradeable",
+					["instance"] = "Uldir-Mythic",
 				}, -- [5]
 				{
-					["instance"] = "Uldir-Mythic",
-					["mapID"] = 1861,
 					["id"] = "1544124559-5",
-					["isAwardReason"] = false,
+					["mapID"] = 1861,
 					["color"] = {
 						1, -- [1]
 						0.6, -- [2]
 						0, -- [3]
 						1, -- [4]
 					},
+					["isAwardReason"] = false,
+					["date"] = "06/12/18",
 					["class"] = "MONK",
 					["iSubClass"] = 0,
-					["response"] = "Personal Loot - Non tradeable",
-					["difficultyID"] = 16,
-					["boss"] = "Vectis",
-					["time"] = "21:29:19",
-					["iClass"] = 4,
-					["lootWon"] = "|cffa335ee|Hitem:160649::::::::120:268::6:3:4800:1507:4786:::|h[Inoculating Extract]|h|r",
-					["responseID"] = "PL",
 					["groupSize"] = 20,
-					["date"] = "06/12/18",
+					["boss"] = "Vectis",
+					["difficultyID"] = 16,
+					["lootWon"] = "|cffa335ee|Hitem:160649::::::::120:268::6:3:4800:1507:4786:::|h[Inoculating Extract]|h|r",
+					["iClass"] = 4,
+					["time"] = "21:29:19",
+					["responseID"] = "PL",
+					["response"] = "Personal Loot - Non tradeable",
+					["instance"] = "Uldir-Mythic",
 				}, -- [6]
 				{
 					["mapID"] = 1861,
@@ -27304,27 +27361,27 @@ RCLootCouncilLootDB = {
 					["date"] = "10/01/19",
 				}, -- [10]
 				{
-					["date"] = "17/01/19",
-					["mapID"] = 1861,
-					["response"] = "Personal Loot - Non tradeable",
-					["isAwardReason"] = false,
 					["id"] = "1547748279-0",
+					["mapID"] = 1861,
+					["groupSize"] = 20,
+					["isAwardReason"] = false,
+					["instance"] = "Uldir-Mythic",
 					["class"] = "MONK",
 					["iSubClass"] = 0,
-					["groupSize"] = 20,
-					["boss"] = "Taloc",
+					["response"] = "Personal Loot - Non tradeable",
 					["difficultyID"] = 16,
-					["lootWon"] = "|cffa335ee|Hitem:160652::::::::120:268::6:4:4800:40:1512:4783:::|h[Construct Overcharger]|h|r",
-					["iClass"] = 4,
+					["boss"] = "Taloc",
 					["time"] = "20:04:39",
+					["iClass"] = 4,
+					["lootWon"] = "|cffa335ee|Hitem:160652::::::::120:268::6:4:4800:40:1512:4783:::|h[Construct Overcharger]|h|r",
 					["responseID"] = "PL",
+					["date"] = "17/01/19",
 					["color"] = {
 						1, -- [1]
 						0.6, -- [2]
 						0, -- [3]
 						1, -- [4]
 					},
-					["instance"] = "Uldir-Mythic",
 				}, -- [11]
 				{
 					["mapID"] = 1861,
@@ -27378,50 +27435,50 @@ RCLootCouncilLootDB = {
 					["instance"] = "Uldir-Mythic",
 				}, -- [13]
 				{
-					["date"] = "17/01/19",
-					["mapID"] = 1861,
-					["response"] = "Personal Loot - Non tradeable",
-					["isAwardReason"] = false,
 					["id"] = "1547752931-18",
+					["mapID"] = 1861,
+					["groupSize"] = 20,
+					["isAwardReason"] = false,
+					["instance"] = "Uldir-Mythic",
 					["class"] = "MONK",
 					["iSubClass"] = 2,
-					["groupSize"] = 20,
-					["boss"] = "Zul",
+					["response"] = "Personal Loot - Non tradeable",
 					["difficultyID"] = 16,
-					["lootWon"] = "|cffa335ee|Hitem:160720::::::::120:268::6:3:4800:1512:4783:::|h[Armbands of Sacrosanct Acts]|h|r",
-					["iClass"] = 4,
+					["boss"] = "Zul",
 					["time"] = "21:22:11",
+					["iClass"] = 4,
+					["lootWon"] = "|cffa335ee|Hitem:160720::::::::120:268::6:3:4800:1512:4783:::|h[Armbands of Sacrosanct Acts]|h|r",
 					["responseID"] = "PL",
+					["date"] = "17/01/19",
 					["color"] = {
 						1, -- [1]
 						0.6, -- [2]
 						0, -- [3]
 						1, -- [4]
 					},
-					["instance"] = "Uldir-Mythic",
 				}, -- [14]
 				{
-					["instance"] = "Battle of Dazar'alor-Heroic",
-					["mapID"] = 2070,
 					["id"] = "1548278618-32",
-					["isAwardReason"] = false,
+					["mapID"] = 2070,
 					["color"] = {
 						1, -- [1]
 						0.6, -- [2]
 						0, -- [3]
 						1, -- [4]
 					},
+					["isAwardReason"] = false,
+					["date"] = "23/01/19",
 					["class"] = "MONK",
 					["iSubClass"] = 2,
-					["groupSize"] = 26,
-					["difficultyID"] = 15,
-					["boss"] = "King Rastakhan",
-					["time"] = "23:23:38",
-					["iClass"] = 4,
-					["lootWon"] = "|cffa335ee|Hitem:165523::::::::120:268::5:4:4823:1522:4786:5418:::|h[Phantom Stalker Shoulders]|h|r",
-					["responseID"] = "PL",
 					["response"] = "Personal Loot - Non tradeable",
-					["date"] = "23/01/19",
+					["boss"] = "King Rastakhan",
+					["difficultyID"] = 15,
+					["lootWon"] = "|cffa335ee|Hitem:165523::::::::120:268::5:4:4823:1522:4786:5418:::|h[Phantom Stalker Shoulders]|h|r",
+					["iClass"] = 4,
+					["time"] = "23:23:38",
+					["responseID"] = "PL",
+					["groupSize"] = 26,
+					["instance"] = "Battle of Dazar'alor-Heroic",
 				}, -- [15]
 				{
 					["mapID"] = 2070,
@@ -28133,7 +28190,7 @@ RCLootCouncilLootDB = {
 					["iClass"] = 5,
 					["itemReplaced1"] = "|cffa335ee|Hitem:177855:6229:::::::60:65::84:4:7188:6652:1518:6646:1:28:807:::|h[Spellblade of Antiquity]|h|r",
 					["votes"] = 1,
-					["instance"] = "Castle Nathria-Mythic",
+					["typeCode"] = "default",
 					["owner"] = "Vapee-Kazzak",
 					["id"] = "1610559549-9",
 					["response"] = "Need BIS",
@@ -28149,7 +28206,7 @@ RCLootCouncilLootDB = {
 					["isAwardReason"] = false,
 					["responseID"] = 1,
 					["itemReplaced2"] = "|cffa335ee|Hitem:174311::::::::60:65::14:3:7135:1498:6646:1:28:807:::|h[Sinful Gladiator's Guard]|h|r",
-					["typeCode"] = "default",
+					["instance"] = "Castle Nathria-Mythic",
 				}, -- [22]
 				{
 					["mapID"] = 2296,
@@ -29758,27 +29815,27 @@ RCLootCouncilLootDB = {
 			},
 			["Gargathon-Kazzak"] = {
 				{
-					["instance"] = "Uldir-Heroic",
-					["mapID"] = 1861,
 					["id"] = "1541616904-1",
-					["isAwardReason"] = false,
+					["mapID"] = 1861,
 					["color"] = {
 						1, -- [1]
 						0.6, -- [2]
 						0, -- [3]
 						1, -- [4]
 					},
+					["isAwardReason"] = false,
+					["date"] = "07/11/18",
 					["class"] = "DEATHKNIGHT",
 					["iSubClass"] = 0,
-					["response"] = "Personal Loot - Non tradeable",
-					["difficultyID"] = 15,
-					["boss"] = "Zek'voz",
-					["time"] = "20:55:04",
-					["iClass"] = 4,
-					["lootWon"] = "|cffa335ee|Hitem:160647::::::::120:251::5:3:4799:1492:4786:::|h[Ring of the Infinite Void]|h|r",
-					["responseID"] = "PL",
 					["groupSize"] = 16,
-					["date"] = "07/11/18",
+					["boss"] = "Zek'voz",
+					["difficultyID"] = 15,
+					["lootWon"] = "|cffa335ee|Hitem:160647::::::::120:251::5:3:4799:1492:4786:::|h[Ring of the Infinite Void]|h|r",
+					["iClass"] = 4,
+					["time"] = "20:55:04",
+					["responseID"] = "PL",
+					["response"] = "Personal Loot - Non tradeable",
+					["instance"] = "Uldir-Heroic",
 				}, -- [1]
 			},
 			["Lynxathrope-Kazzak"] = {
@@ -30216,257 +30273,257 @@ RCLootCouncilLootDB = {
 			},
 			["Kyraä-Kazzak"] = {
 				{
-					["date"] = "02/11/18",
-					["mapID"] = 1642,
 					["id"] = "1541169680-0",
-					["isAwardReason"] = false,
+					["mapID"] = 1642,
 					["instance"] = "Zandalar-",
-					["class"] = "PRIEST",
-					["iSubClass"] = 1,
-					["response"] = "Personal Loot - Non tradeable",
-					["difficultyID"] = 0,
-					["boss"] = "Unknown",
-					["time"] = "16:41:20",
-					["iClass"] = 4,
-					["lootWon"] = "|cffa335ee|Hitem:96772::::::::120:262::::::|h[Vaccinator's Armwraps]|h|r",
-					["responseID"] = "PL",
-					["groupSize"] = 0,
+					["isAwardReason"] = false,
 					["color"] = {
 						1, -- [1]
 						0.6, -- [2]
 						0, -- [3]
 						1, -- [4]
 					},
+					["class"] = "PRIEST",
+					["iSubClass"] = 1,
+					["groupSize"] = 0,
+					["boss"] = "Unknown",
+					["difficultyID"] = 0,
+					["lootWon"] = "|cffa335ee|Hitem:96772::::::::120:262::::::|h[Vaccinator's Armwraps]|h|r",
+					["iClass"] = 4,
+					["time"] = "16:41:20",
+					["responseID"] = "PL",
+					["response"] = "Personal Loot - Non tradeable",
+					["date"] = "02/11/18",
 				}, -- [1]
 				{
-					["date"] = "02/11/18",
-					["mapID"] = 1642,
 					["id"] = "1541169680-1",
-					["isAwardReason"] = false,
+					["mapID"] = 1642,
 					["instance"] = "Zandalar-",
+					["isAwardReason"] = false,
+					["color"] = {
+						1, -- [1]
+						0.6, -- [2]
+						0, -- [3]
+						1, -- [4]
+					},
 					["class"] = "PRIEST",
 					["iSubClass"] = 8,
-					["response"] = "Personal Loot - Non tradeable",
-					["difficultyID"] = 0,
-					["boss"] = "Unknown",
-					["time"] = "16:41:20",
-					["iClass"] = 2,
-					["lootWon"] = "|cffa335ee|Hitem:96991::::::::120:262::::::|h[Greatsword of Frozen Hells]|h|r",
-					["responseID"] = "PL",
 					["groupSize"] = 0,
-					["color"] = {
-						1, -- [1]
-						0.6, -- [2]
-						0, -- [3]
-						1, -- [4]
-					},
+					["boss"] = "Unknown",
+					["difficultyID"] = 0,
+					["lootWon"] = "|cffa335ee|Hitem:96991::::::::120:262::::::|h[Greatsword of Frozen Hells]|h|r",
+					["iClass"] = 2,
+					["time"] = "16:41:20",
+					["responseID"] = "PL",
+					["response"] = "Personal Loot - Non tradeable",
+					["date"] = "02/11/18",
 				}, -- [2]
 				{
-					["date"] = "02/11/18",
-					["mapID"] = 1642,
 					["id"] = "1541169681-2",
-					["isAwardReason"] = false,
+					["mapID"] = 1642,
 					["instance"] = "Zandalar-",
+					["isAwardReason"] = false,
+					["color"] = {
+						1, -- [1]
+						0.6, -- [2]
+						0, -- [3]
+						1, -- [4]
+					},
 					["class"] = "PRIEST",
 					["iSubClass"] = 1,
-					["response"] = "Personal Loot - Non tradeable",
-					["difficultyID"] = 0,
-					["boss"] = "Unknown",
-					["time"] = "16:41:21",
-					["iClass"] = 4,
-					["lootWon"] = "|cffa335ee|Hitem:96389::::::::120:262::::::|h[Wastewalker's Sandblasted Drape]|h|r",
-					["responseID"] = "PL",
 					["groupSize"] = 0,
-					["color"] = {
-						1, -- [1]
-						0.6, -- [2]
-						0, -- [3]
-						1, -- [4]
-					},
+					["boss"] = "Unknown",
+					["difficultyID"] = 0,
+					["lootWon"] = "|cffa335ee|Hitem:96389::::::::120:262::::::|h[Wastewalker's Sandblasted Drape]|h|r",
+					["iClass"] = 4,
+					["time"] = "16:41:21",
+					["responseID"] = "PL",
+					["response"] = "Personal Loot - Non tradeable",
+					["date"] = "02/11/18",
 				}, -- [3]
 				{
-					["date"] = "02/11/18",
-					["mapID"] = 1642,
 					["id"] = "1541169681-3",
-					["isAwardReason"] = false,
+					["mapID"] = 1642,
 					["instance"] = "Zandalar-",
-					["class"] = "PRIEST",
-					["iSubClass"] = 0,
-					["response"] = "Personal Loot - Non tradeable",
-					["difficultyID"] = 0,
-					["boss"] = "Unknown",
-					["time"] = "16:41:21",
-					["iClass"] = 4,
-					["lootWon"] = "|cffa335ee|Hitem:96775::::::::120:262::::::|h[Petrified Eye of the Basilisk]|h|r",
-					["responseID"] = "PL",
-					["groupSize"] = 0,
+					["isAwardReason"] = false,
 					["color"] = {
 						1, -- [1]
 						0.6, -- [2]
 						0, -- [3]
 						1, -- [4]
 					},
+					["class"] = "PRIEST",
+					["iSubClass"] = 0,
+					["groupSize"] = 0,
+					["boss"] = "Unknown",
+					["difficultyID"] = 0,
+					["lootWon"] = "|cffa335ee|Hitem:96775::::::::120:262::::::|h[Petrified Eye of the Basilisk]|h|r",
+					["iClass"] = 4,
+					["time"] = "16:41:21",
+					["responseID"] = "PL",
+					["response"] = "Personal Loot - Non tradeable",
+					["date"] = "02/11/18",
 				}, -- [4]
 				{
-					["date"] = "02/11/18",
-					["mapID"] = 1642,
 					["id"] = "1541169681-4",
-					["isAwardReason"] = false,
+					["mapID"] = 1642,
 					["instance"] = "Zandalar-",
+					["isAwardReason"] = false,
+					["color"] = {
+						1, -- [1]
+						0.6, -- [2]
+						0, -- [3]
+						1, -- [4]
+					},
 					["class"] = "PRIEST",
 					["iSubClass"] = 3,
-					["response"] = "Personal Loot - Non tradeable",
-					["difficultyID"] = 0,
-					["boss"] = "Unknown",
-					["time"] = "16:41:21",
-					["iClass"] = 4,
-					["lootWon"] = "|cffa335ee|Hitem:96407::::::::120:262::::::|h[Legguards of Scintillating Scales]|h|r",
-					["responseID"] = "PL",
 					["groupSize"] = 0,
-					["color"] = {
-						1, -- [1]
-						0.6, -- [2]
-						0, -- [3]
-						1, -- [4]
-					},
+					["boss"] = "Unknown",
+					["difficultyID"] = 0,
+					["lootWon"] = "|cffa335ee|Hitem:96407::::::::120:262::::::|h[Legguards of Scintillating Scales]|h|r",
+					["iClass"] = 4,
+					["time"] = "16:41:21",
+					["responseID"] = "PL",
+					["response"] = "Personal Loot - Non tradeable",
+					["date"] = "02/11/18",
 				}, -- [5]
 				{
-					["date"] = "02/11/18",
-					["mapID"] = 1642,
 					["id"] = "1541169682-5",
-					["isAwardReason"] = false,
+					["mapID"] = 1642,
 					["instance"] = "Zandalar-",
-					["class"] = "PRIEST",
-					["iSubClass"] = 2,
-					["response"] = "Personal Loot - Non tradeable",
-					["difficultyID"] = 0,
-					["boss"] = "Unknown",
-					["time"] = "16:41:22",
-					["iClass"] = 4,
-					["lootWon"] = "|cffa335ee|Hitem:96406::::::::120:262::::::|h[Spaulders of Dinomancy]|h|r",
-					["responseID"] = "PL",
-					["groupSize"] = 0,
+					["isAwardReason"] = false,
 					["color"] = {
 						1, -- [1]
 						0.6, -- [2]
 						0, -- [3]
 						1, -- [4]
 					},
+					["class"] = "PRIEST",
+					["iSubClass"] = 2,
+					["groupSize"] = 0,
+					["boss"] = "Unknown",
+					["difficultyID"] = 0,
+					["lootWon"] = "|cffa335ee|Hitem:96406::::::::120:262::::::|h[Spaulders of Dinomancy]|h|r",
+					["iClass"] = 4,
+					["time"] = "16:41:22",
+					["responseID"] = "PL",
+					["response"] = "Personal Loot - Non tradeable",
+					["date"] = "02/11/18",
 				}, -- [6]
 				{
-					["instance"] = "Tol Dagor-Mythic Keystone",
-					["mapID"] = 1771,
 					["id"] = "1541358333-0",
-					["isAwardReason"] = false,
+					["mapID"] = 1771,
 					["color"] = {
 						1, -- [1]
 						0.6, -- [2]
 						0, -- [3]
 						1, -- [4]
 					},
+					["isAwardReason"] = false,
+					["date"] = "04/11/18",
 					["class"] = "PRIEST",
 					["iSubClass"] = 0,
-					["groupSize"] = 5,
-					["difficultyID"] = 8,
-					["boss"] = "Overseer Korgus",
-					["time"] = "21:05:33",
-					["iClass"] = 4,
-					["lootWon"] = "|cffa335ee|Hitem:159615::::::::120:250::16:3:5010:1552:4783:::|h[Ignition Mage's Fuse]|h|r",
-					["responseID"] = "PL",
 					["response"] = "Personal Loot - Non tradeable",
-					["date"] = "04/11/18",
+					["boss"] = "Overseer Korgus",
+					["difficultyID"] = 8,
+					["lootWon"] = "|cffa335ee|Hitem:159615::::::::120:250::16:3:5010:1552:4783:::|h[Ignition Mage's Fuse]|h|r",
+					["iClass"] = 4,
+					["time"] = "21:05:33",
+					["responseID"] = "PL",
+					["groupSize"] = 5,
+					["instance"] = "Tol Dagor-Mythic Keystone",
 				}, -- [7]
 				{
-					["color"] = {
-						1, -- [1]
-						0.6, -- [2]
-						0, -- [3]
-						1, -- [4]
-					},
-					["mapID"] = 1861,
 					["id"] = "1541451470-1",
-					["isAwardReason"] = false,
+					["mapID"] = 1861,
 					["date"] = "05/11/18",
+					["isAwardReason"] = false,
+					["instance"] = "Uldir-Mythic",
 					["class"] = "PRIEST",
 					["iSubClass"] = 0,
-					["response"] = "Personal Loot - Non tradeable",
-					["difficultyID"] = 16,
-					["boss"] = "Mythrax",
-					["time"] = "22:57:50",
-					["iClass"] = 4,
-					["lootWon"] = "|cffa335ee|Hitem:160656::::::::120:250::6:4:4800:1808:1507:4786:::|h[Twitching Tentacle of Xalzaix]|h|r",
-					["responseID"] = "PL",
 					["groupSize"] = 20,
-					["instance"] = "Uldir-Mythic",
+					["boss"] = "Mythrax",
+					["difficultyID"] = 16,
+					["lootWon"] = "|cffa335ee|Hitem:160656::::::::120:250::6:4:4800:1808:1507:4786:::|h[Twitching Tentacle of Xalzaix]|h|r",
+					["iClass"] = 4,
+					["time"] = "22:57:50",
+					["responseID"] = "PL",
+					["response"] = "Personal Loot - Non tradeable",
+					["color"] = {
+						1, -- [1]
+						0.6, -- [2]
+						0, -- [3]
+						1, -- [4]
+					},
 				}, -- [8]
 				{
-					["date"] = "12/11/18",
-					["mapID"] = 1861,
 					["id"] = "1542050629-0",
-					["isAwardReason"] = false,
+					["mapID"] = 1861,
 					["instance"] = "Uldir-Mythic",
+					["isAwardReason"] = false,
+					["color"] = {
+						1, -- [1]
+						0.6, -- [2]
+						0, -- [3]
+						1, -- [4]
+					},
 					["class"] = "PRIEST",
 					["iSubClass"] = 2,
-					["groupSize"] = 20,
-					["difficultyID"] = 16,
-					["boss"] = "G'huun",
-					["time"] = "21:23:49",
-					["iClass"] = 15,
-					["lootWon"] = "|cff0070dd|Hitem:115483::::::::120:268::11::::|h[Sky-Bo]|h|r",
-					["responseID"] = "PL",
 					["response"] = "Personal Loot - Non tradeable",
-					["color"] = {
-						1, -- [1]
-						0.6, -- [2]
-						0, -- [3]
-						1, -- [4]
-					},
+					["boss"] = "G'huun",
+					["difficultyID"] = 16,
+					["lootWon"] = "|cff0070dd|Hitem:115483::::::::120:268::11::::|h[Sky-Bo]|h|r",
+					["iClass"] = 15,
+					["time"] = "21:23:49",
+					["responseID"] = "PL",
+					["groupSize"] = 20,
+					["date"] = "12/11/18",
 				}, -- [9]
 				{
-					["color"] = {
-						1, -- [1]
-						0.6, -- [2]
-						0, -- [3]
-						1, -- [4]
-					},
-					["mapID"] = 1861,
-					["groupSize"] = 20,
-					["isAwardReason"] = false,
 					["id"] = "1543520396-8",
+					["mapID"] = 1861,
+					["response"] = "Personal Loot - Non tradeable",
+					["isAwardReason"] = false,
+					["date"] = "29/11/18",
 					["class"] = "PRIEST",
 					["iSubClass"] = 10,
-					["response"] = "Personal Loot - Non tradeable",
-					["boss"] = "Fetid Devourer",
-					["difficultyID"] = 16,
-					["lootWon"] = "|cffa335ee|Hitem:160689::::::::120:265::6:3:4800:1507:4786:::|h[Regurgitated Purifier's Flamestaff]|h|r",
-					["iClass"] = 2,
-					["time"] = "21:39:56",
-					["responseID"] = "PL",
-					["instance"] = "Uldir-Mythic",
-					["date"] = "29/11/18",
-				}, -- [10]
-				{
-					["instance"] = "Uldir-Mythic",
-					["mapID"] = 1861,
 					["groupSize"] = 20,
-					["isAwardReason"] = false,
-					["id"] = "1545335970-20",
-					["class"] = "PRIEST",
-					["iSubClass"] = 5,
-					["response"] = "Personal Loot - Non tradeable",
-					["boss"] = "Fetid Devourer",
 					["difficultyID"] = 16,
-					["lootWon"] = "|cff1eff00|Hitem:139299::::::::120:268::6::::|h[Finely-Tailored Red Holiday Hat]|h|r",
-					["iClass"] = 4,
-					["time"] = "21:59:30",
+					["boss"] = "Fetid Devourer",
+					["time"] = "21:39:56",
+					["iClass"] = 2,
+					["lootWon"] = "|cffa335ee|Hitem:160689::::::::120:265::6:3:4800:1507:4786:::|h[Regurgitated Purifier's Flamestaff]|h|r",
 					["responseID"] = "PL",
-					["date"] = "20/12/18",
 					["color"] = {
 						1, -- [1]
 						0.6, -- [2]
 						0, -- [3]
 						1, -- [4]
 					},
+					["instance"] = "Uldir-Mythic",
+				}, -- [10]
+				{
+					["id"] = "1545335970-20",
+					["mapID"] = 1861,
+					["response"] = "Personal Loot - Non tradeable",
+					["isAwardReason"] = false,
+					["color"] = {
+						1, -- [1]
+						0.6, -- [2]
+						0, -- [3]
+						1, -- [4]
+					},
+					["class"] = "PRIEST",
+					["iSubClass"] = 5,
+					["groupSize"] = 20,
+					["difficultyID"] = 16,
+					["boss"] = "Fetid Devourer",
+					["time"] = "21:59:30",
+					["iClass"] = 4,
+					["lootWon"] = "|cff1eff00|Hitem:139299::::::::120:268::6::::|h[Finely-Tailored Red Holiday Hat]|h|r",
+					["responseID"] = "PL",
+					["instance"] = "Uldir-Mythic",
+					["date"] = "20/12/18",
 				}, -- [11]
 				{
 					["mapID"] = 1861,
@@ -30494,27 +30551,27 @@ RCLootCouncilLootDB = {
 					["id"] = "1545336198-22",
 				}, -- [12]
 				{
-					["instance"] = "Firelands-10 Player",
-					["mapID"] = 720,
 					["id"] = "1547081159-2",
-					["isAwardReason"] = false,
+					["mapID"] = 720,
 					["color"] = {
 						1, -- [1]
 						0.6, -- [2]
 						0, -- [3]
 						1, -- [4]
 					},
+					["isAwardReason"] = false,
+					["date"] = "10/01/19",
 					["class"] = "PRIEST",
 					["iSubClass"] = 4,
-					["response"] = "Personal Loot - Non tradeable",
-					["difficultyID"] = 3,
-					["boss"] = "Lord Rhyolith",
-					["time"] = "02:45:59",
-					["iClass"] = 4,
-					["lootWon"] = "|cffa335ee|Hitem:71007::::::::120:263::::::|h[Grips of the Raging Giant]|h|r",
-					["responseID"] = "PL",
 					["groupSize"] = 10,
-					["date"] = "10/01/19",
+					["boss"] = "Lord Rhyolith",
+					["difficultyID"] = 3,
+					["lootWon"] = "|cffa335ee|Hitem:71007::::::::120:263::::::|h[Grips of the Raging Giant]|h|r",
+					["iClass"] = 4,
+					["time"] = "02:45:59",
+					["responseID"] = "PL",
+					["response"] = "Personal Loot - Non tradeable",
+					["instance"] = "Firelands-10 Player",
 				}, -- [13]
 				{
 					["mapID"] = 1861,
@@ -30595,142 +30652,142 @@ RCLootCouncilLootDB = {
 					["id"] = "1547755446-25",
 				}, -- [16]
 				{
+					["id"] = "1548274386-26",
+					["mapID"] = 2070,
+					["date"] = "23/01/19",
+					["isAwardReason"] = false,
+					["instance"] = "Battle of Dazar'alor-Heroic",
+					["class"] = "PRIEST",
+					["iSubClass"] = 0,
+					["groupSize"] = 26,
+					["boss"] = "Conclave of the Chosen",
+					["difficultyID"] = 15,
+					["lootWon"] = "|cffa335ee|Hitem:165581::::::::120:268::5:4:4799:42:1522:4786:::|h[Crest of Pa'ku]|h|r",
+					["iClass"] = 4,
+					["time"] = "22:13:06",
+					["responseID"] = "PL",
+					["response"] = "Personal Loot - Non tradeable",
 					["color"] = {
 						1, -- [1]
 						0.6, -- [2]
 						0, -- [3]
 						1, -- [4]
 					},
-					["mapID"] = 2070,
-					["id"] = "1548274386-26",
-					["isAwardReason"] = false,
-					["date"] = "23/01/19",
-					["class"] = "PRIEST",
-					["iSubClass"] = 0,
-					["response"] = "Personal Loot - Non tradeable",
-					["difficultyID"] = 15,
-					["boss"] = "Conclave of the Chosen",
-					["time"] = "22:13:06",
-					["iClass"] = 4,
-					["lootWon"] = "|cffa335ee|Hitem:165581::::::::120:268::5:4:4799:42:1522:4786:::|h[Crest of Pa'ku]|h|r",
-					["responseID"] = "PL",
-					["groupSize"] = 26,
-					["instance"] = "Battle of Dazar'alor-Heroic",
 				}, -- [17]
 				{
+					["id"] = "1548834516-4",
+					["mapID"] = 1841,
+					["date"] = "30/01/19",
+					["isAwardReason"] = false,
+					["instance"] = "The Underrot-Mythic Keystone",
+					["class"] = "PRIEST",
+					["iSubClass"] = 1,
+					["response"] = "Personal Loot - Non tradeable",
+					["boss"] = "Unbound Abomination",
+					["difficultyID"] = 8,
+					["lootWon"] = "|cffa335ee|Hitem:159270::::::::120:262::16:3:5010:1572:4786:::|h[Blood Warder's Moccasins]|h|r",
+					["iClass"] = 4,
+					["time"] = "09:48:36",
+					["responseID"] = "PL",
+					["groupSize"] = 5,
 					["color"] = {
 						1, -- [1]
 						0.6, -- [2]
 						0, -- [3]
 						1, -- [4]
 					},
-					["mapID"] = 1841,
-					["id"] = "1548834516-4",
-					["isAwardReason"] = false,
-					["date"] = "30/01/19",
-					["class"] = "PRIEST",
-					["iSubClass"] = 1,
-					["groupSize"] = 5,
-					["difficultyID"] = 8,
-					["boss"] = "Unbound Abomination",
-					["time"] = "09:48:36",
-					["iClass"] = 4,
-					["lootWon"] = "|cffa335ee|Hitem:159270::::::::120:262::16:3:5010:1572:4786:::|h[Blood Warder's Moccasins]|h|r",
-					["responseID"] = "PL",
-					["response"] = "Personal Loot - Non tradeable",
-					["instance"] = "The Underrot-Mythic Keystone",
 				}, -- [18]
 				{
-					["date"] = "30/01/19",
-					["mapID"] = 1763,
-					["groupSize"] = 5,
-					["isAwardReason"] = false,
 					["id"] = "1548844544-6",
+					["mapID"] = 1763,
+					["response"] = "Personal Loot - Non tradeable",
+					["isAwardReason"] = false,
+					["instance"] = "Atal'Dazar-Mythic Keystone",
 					["class"] = "PRIEST",
 					["iSubClass"] = 0,
-					["response"] = "Personal Loot - Non tradeable",
-					["boss"] = "Yazma",
+					["groupSize"] = 5,
 					["difficultyID"] = 8,
-					["lootWon"] = "|cffa335ee|Hitem:159458::::::::120:262::16:3:5010:1592:4784:::|h[Seal of the Regal Loa]|h|r",
-					["iClass"] = 4,
+					["boss"] = "Yazma",
 					["time"] = "12:35:44",
+					["iClass"] = 4,
+					["lootWon"] = "|cffa335ee|Hitem:159458::::::::120:262::16:3:5010:1592:4784:::|h[Seal of the Regal Loa]|h|r",
 					["responseID"] = "PL",
+					["date"] = "30/01/19",
 					["color"] = {
 						1, -- [1]
 						0.6, -- [2]
 						0, -- [3]
 						1, -- [4]
 					},
-					["instance"] = "Atal'Dazar-Mythic Keystone",
 				}, -- [19]
 				{
-					["date"] = "30/01/19",
-					["mapID"] = 1763,
-					["groupSize"] = 5,
-					["isAwardReason"] = false,
 					["id"] = "1548846618-9",
+					["mapID"] = 1763,
+					["response"] = "Personal Loot - Non tradeable",
+					["isAwardReason"] = false,
+					["instance"] = "Atal'Dazar-Mythic Keystone",
 					["class"] = "PRIEST",
 					["iSubClass"] = 1,
-					["response"] = "Personal Loot - Non tradeable",
-					["boss"] = "Yazma",
+					["groupSize"] = 5,
 					["difficultyID"] = 8,
-					["lootWon"] = "|cffa335ee|Hitem:158375::::::::120:262::16:3:5010:1572:4786:::|h[Drape of the Loyal Vassal]|h|r",
-					["iClass"] = 4,
+					["boss"] = "Yazma",
 					["time"] = "13:10:18",
+					["iClass"] = 4,
+					["lootWon"] = "|cffa335ee|Hitem:158375::::::::120:262::16:3:5010:1572:4786:::|h[Drape of the Loyal Vassal]|h|r",
 					["responseID"] = "PL",
+					["date"] = "30/01/19",
 					["color"] = {
 						1, -- [1]
 						0.6, -- [2]
 						0, -- [3]
 						1, -- [4]
 					},
-					["instance"] = "Atal'Dazar-Mythic Keystone",
 				}, -- [20]
 				{
-					["date"] = "30/01/19",
-					["mapID"] = 1762,
-					["groupSize"] = 5,
-					["isAwardReason"] = false,
 					["id"] = "1548853507-11",
+					["mapID"] = 1762,
+					["response"] = "Personal Loot - Non tradeable",
+					["isAwardReason"] = false,
+					["instance"] = "Kings' Rest-Mythic Keystone",
 					["class"] = "PRIEST",
 					["iSubClass"] = 15,
-					["response"] = "Personal Loot - Non tradeable",
-					["boss"] = "King Dazar",
+					["groupSize"] = 5,
 					["difficultyID"] = 8,
-					["lootWon"] = "|cffa335ee|Hitem:159137::::::::120:262::16:3:5010:1572:4786:::|h[Gilded Serpent's Tooth]|h|r",
-					["iClass"] = 2,
+					["boss"] = "King Dazar",
 					["time"] = "15:05:07",
+					["iClass"] = 2,
+					["lootWon"] = "|cffa335ee|Hitem:159137::::::::120:262::16:3:5010:1572:4786:::|h[Gilded Serpent's Tooth]|h|r",
 					["responseID"] = "PL",
+					["date"] = "30/01/19",
 					["color"] = {
 						1, -- [1]
 						0.6, -- [2]
 						0, -- [3]
 						1, -- [4]
 					},
-					["instance"] = "Kings' Rest-Mythic Keystone",
 				}, -- [21]
 				{
+					["id"] = "1548864449-1",
+					["mapID"] = 1771,
+					["groupSize"] = 5,
+					["isAwardReason"] = false,
+					["date"] = "30/01/19",
+					["class"] = "PRIEST",
+					["iSubClass"] = 1,
+					["response"] = "Personal Loot - Non tradeable",
+					["difficultyID"] = 8,
+					["boss"] = "Overseer Korgus",
+					["time"] = "18:07:29",
+					["iClass"] = 4,
+					["lootWon"] = "|cffa335ee|Hitem:159274::::::::120:262::16:3:5010:1572:4786:::|h[Knight Captain's Waistcord]|h|r",
+					["responseID"] = "PL",
 					["color"] = {
 						1, -- [1]
 						0.6, -- [2]
 						0, -- [3]
 						1, -- [4]
 					},
-					["mapID"] = 1771,
-					["response"] = "Personal Loot - Non tradeable",
-					["isAwardReason"] = false,
-					["id"] = "1548864449-1",
-					["class"] = "PRIEST",
-					["iSubClass"] = 1,
-					["groupSize"] = 5,
-					["boss"] = "Overseer Korgus",
-					["difficultyID"] = 8,
-					["lootWon"] = "|cffa335ee|Hitem:159274::::::::120:262::16:3:5010:1572:4786:::|h[Knight Captain's Waistcord]|h|r",
-					["iClass"] = 4,
-					["time"] = "18:07:29",
-					["responseID"] = "PL",
 					["instance"] = "Tol Dagor-Mythic Keystone",
-					["date"] = "30/01/19",
 				}, -- [22]
 				{
 					["mapID"] = 1864,
@@ -31267,98 +31324,98 @@ RCLootCouncilLootDB = {
 			},
 			["Müss-TarrenMill"] = {
 				{
+					["id"] = "1545242536-2",
+					["mapID"] = 1861,
+					["date"] = "19/12/18",
+					["isAwardReason"] = false,
+					["instance"] = "Uldir-Heroic",
+					["class"] = "ROGUE",
+					["iSubClass"] = 15,
+					["groupSize"] = 14,
+					["boss"] = "Zul",
+					["difficultyID"] = 15,
+					["lootWon"] = "|cffa335ee|Hitem:160684::::::::120:102::5:3:4799:1497:4783:::|h[Pursax, the Backborer]|h|r",
+					["iClass"] = 2,
+					["time"] = "22:02:16",
+					["responseID"] = "PL",
+					["response"] = "Personal Loot - Non tradeable",
 					["color"] = {
 						1, -- [1]
 						0.6, -- [2]
 						0, -- [3]
 						1, -- [4]
 					},
-					["mapID"] = 1861,
-					["id"] = "1545242536-2",
-					["isAwardReason"] = false,
-					["date"] = "19/12/18",
-					["class"] = "ROGUE",
-					["iSubClass"] = 15,
-					["response"] = "Personal Loot - Non tradeable",
-					["difficultyID"] = 15,
-					["boss"] = "Zul",
-					["time"] = "22:02:16",
-					["iClass"] = 2,
-					["lootWon"] = "|cffa335ee|Hitem:160684::::::::120:102::5:3:4799:1497:4783:::|h[Pursax, the Backborer]|h|r",
-					["responseID"] = "PL",
-					["groupSize"] = 14,
-					["instance"] = "Uldir-Heroic",
 				}, -- [1]
 			},
 			["Djpandabär-Kazzak"] = {
 				{
-					["instance"] = "Battle of Dazar'alor-Heroic",
-					["mapID"] = 2070,
-					["groupSize"] = 26,
-					["isAwardReason"] = false,
 					["id"] = "1548268808-17",
+					["mapID"] = 2070,
+					["response"] = "Personal Loot - Non tradeable",
+					["isAwardReason"] = false,
+					["color"] = {
+						1, -- [1]
+						0.6, -- [2]
+						0, -- [3]
+						1, -- [4]
+					},
 					["class"] = "PRIEST",
 					["iSubClass"] = 10,
-					["response"] = "Personal Loot - Non tradeable",
-					["boss"] = "Jadefire Masters",
+					["groupSize"] = 26,
 					["difficultyID"] = 15,
-					["lootWon"] = "|cffa335ee|Hitem:165587::::::::120:268::5:3:4799:1522:4786:::|h[Phoenixfire Staff]|h|r",
-					["iClass"] = 2,
+					["boss"] = "Jadefire Masters",
 					["time"] = "20:40:08",
+					["iClass"] = 2,
+					["lootWon"] = "|cffa335ee|Hitem:165587::::::::120:268::5:3:4799:1522:4786:::|h[Phoenixfire Staff]|h|r",
 					["responseID"] = "PL",
+					["instance"] = "Battle of Dazar'alor-Heroic",
 					["date"] = "23/01/19",
-					["color"] = {
-						1, -- [1]
-						0.6, -- [2]
-						0, -- [3]
-						1, -- [4]
-					},
 				}, -- [1]
 				{
-					["instance"] = "Battle of Dazar'alor-Heroic",
-					["mapID"] = 2070,
-					["groupSize"] = 26,
-					["isAwardReason"] = false,
 					["id"] = "1548271775-18",
+					["mapID"] = 2070,
+					["response"] = "Personal Loot - Non tradeable",
+					["isAwardReason"] = false,
+					["color"] = {
+						1, -- [1]
+						0.6, -- [2]
+						0, -- [3]
+						1, -- [4]
+					},
 					["class"] = "PRIEST",
 					["iSubClass"] = 0,
-					["response"] = "Personal Loot - Non tradeable",
-					["boss"] = "Opulence",
-					["difficultyID"] = 15,
-					["lootWon"] = "|cffa335ee|Hitem:165571::::::::120:268::5:4:4799:1808:1522:4786:::|h[Incandescent Sliver]|h|r",
-					["iClass"] = 4,
-					["time"] = "21:29:35",
-					["responseID"] = "PL",
-					["date"] = "23/01/19",
-					["color"] = {
-						1, -- [1]
-						0.6, -- [2]
-						0, -- [3]
-						1, -- [4]
-					},
-				}, -- [2]
-				{
-					["color"] = {
-						1, -- [1]
-						0.6, -- [2]
-						0, -- [3]
-						1, -- [4]
-					},
-					["mapID"] = 2070,
-					["id"] = "1548356523-6",
-					["isAwardReason"] = false,
-					["date"] = "24/01/19",
-					["class"] = "PRIEST",
-					["iSubClass"] = 1,
 					["groupSize"] = 26,
 					["difficultyID"] = 15,
-					["boss"] = "Mekkatorque",
-					["time"] = "21:02:03",
+					["boss"] = "Opulence",
+					["time"] = "21:29:35",
 					["iClass"] = 4,
-					["lootWon"] = "|cffa335ee|Hitem:165497::::::::120:268::5:4:4823:1522:4786:5418:::|h[Giga-Charged Shoulderpads]|h|r",
+					["lootWon"] = "|cffa335ee|Hitem:165571::::::::120:268::5:4:4799:1808:1522:4786:::|h[Incandescent Sliver]|h|r",
 					["responseID"] = "PL",
-					["response"] = "Personal Loot - Non tradeable",
 					["instance"] = "Battle of Dazar'alor-Heroic",
+					["date"] = "23/01/19",
+				}, -- [2]
+				{
+					["id"] = "1548356523-6",
+					["mapID"] = 2070,
+					["date"] = "24/01/19",
+					["isAwardReason"] = false,
+					["instance"] = "Battle of Dazar'alor-Heroic",
+					["class"] = "PRIEST",
+					["iSubClass"] = 1,
+					["response"] = "Personal Loot - Non tradeable",
+					["boss"] = "Mekkatorque",
+					["difficultyID"] = 15,
+					["lootWon"] = "|cffa335ee|Hitem:165497::::::::120:268::5:4:4823:1522:4786:5418:::|h[Giga-Charged Shoulderpads]|h|r",
+					["iClass"] = 4,
+					["time"] = "21:02:03",
+					["responseID"] = "PL",
+					["groupSize"] = 26,
+					["color"] = {
+						1, -- [1]
+						0.6, -- [2]
+						0, -- [3]
+						1, -- [4]
+					},
 				}, -- [3]
 				{
 					["mapID"] = 2070,
@@ -32163,8 +32220,8 @@ RCLootCouncilLootDB = {
 					["time"] = "20:44:29",
 					["iClass"] = 4,
 					["itemReplaced1"] = "|cffa335ee|Hitem:178386::::::::60:65::14:3:6623:1498:6646:1:28:807:::|h[Sinful Gladiator's Insignia of Alacrity]|h|r",
-					["typeCode"] = "default",
 					["instance"] = "Castle Nathria-Mythic",
+					["typeCode"] = "default",
 					["owner"] = "Riworra-Kazzak",
 					["id"] = "1614192269-28",
 					["response"] = "Need not BIS",
@@ -32192,8 +32249,8 @@ RCLootCouncilLootDB = {
 					["time"] = "20:00:01",
 					["iClass"] = 4,
 					["itemReplaced1"] = "|cffa335ee|Hitem:178869:6166:173128::::::60:65::35:6:7213:6652:1501:5884:6646:6935::::|h[Fleshfused Circle]|h|r",
-					["instance"] = "The Shadowlands-",
 					["typeCode"] = "default",
+					["instance"] = "The Shadowlands-",
 					["owner"] = "Adrenalynz-Kazzak",
 					["id"] = "1614794401-22",
 					["response"] = "Offspec",
@@ -32276,7 +32333,7 @@ RCLootCouncilLootDB = {
 					["iClass"] = 4,
 					["itemReplaced1"] = "|cffa335ee|Hitem:178869:6166:173128::::::60:65::35:6:7213:6652:1501:5884:6646:6935::::|h[Fleshfused Circle]|h|r",
 					["votes"] = 1,
-					["instance"] = "The Shadowlands-",
+					["typeCode"] = "default",
 					["owner"] = "Seksixeny-Kazzak",
 					["id"] = "1615398581-13",
 					["response"] = "Need BIS",
@@ -32292,7 +32349,7 @@ RCLootCouncilLootDB = {
 					["isAwardReason"] = false,
 					["responseID"] = 1,
 					["itemReplaced2"] = "|cffff8000|Hitem:178926:6166:173128::::::60:65::63:6:6959:6649:6648:6758:1532:6935::::|h[Signet of Tormented Kings]|h|r",
-					["typeCode"] = "default",
+					["instance"] = "The Shadowlands-",
 				}, -- [32]
 				{
 					["mapID"] = 2296,
@@ -32305,7 +32362,7 @@ RCLootCouncilLootDB = {
 					["iClass"] = 4,
 					["itemReplaced1"] = "|cffa335ee|Hitem:178869:6166:173128::::::60:65::35:6:7213:6652:1501:5884:6646:6935::::|h[Fleshfused Circle]|h|r",
 					["votes"] = 0,
-					["instance"] = "Castle Nathria-Mythic",
+					["typeCode"] = "default",
 					["owner"] = "Sanshot-Kazzak",
 					["id"] = "1615399677-20",
 					["response"] = "Minor Upgrade",
@@ -32321,7 +32378,7 @@ RCLootCouncilLootDB = {
 					["isAwardReason"] = false,
 					["responseID"] = 3,
 					["itemReplaced2"] = "|cffff8000|Hitem:178926:6166:173128::::::60:65::63:6:6959:6649:6648:6758:1532:6935::::|h[Signet of Tormented Kings]|h|r",
-					["typeCode"] = "default",
+					["instance"] = "Castle Nathria-Mythic",
 				}, -- [33]
 			},
 			["Tanìa-Kazzak"] = {
@@ -32351,50 +32408,50 @@ RCLootCouncilLootDB = {
 					["id"] = "1545337909-28",
 				}, -- [1]
 				{
-					["color"] = {
-						1, -- [1]
-						0.6, -- [2]
-						0, -- [3]
-						1, -- [4]
-					},
-					["mapID"] = 2070,
 					["id"] = "1548274388-27",
-					["isAwardReason"] = false,
+					["mapID"] = 2070,
 					["date"] = "23/01/19",
+					["isAwardReason"] = false,
+					["instance"] = "Battle of Dazar'alor-Heroic",
 					["class"] = "PALADIN",
 					["iSubClass"] = 4,
-					["response"] = "Personal Loot - Non tradeable",
-					["difficultyID"] = 15,
-					["boss"] = "Conclave of the Chosen",
-					["time"] = "22:13:08",
-					["iClass"] = 4,
-					["lootWon"] = "|cffa335ee|Hitem:165560::::::::120:268::5:4:4799:41:1522:4786:::|h[Arcing Thunderlizard Legplates]|h|r",
-					["responseID"] = "PL",
 					["groupSize"] = 26,
-					["instance"] = "Battle of Dazar'alor-Heroic",
-				}, -- [2]
-				{
+					["boss"] = "Conclave of the Chosen",
+					["difficultyID"] = 15,
+					["lootWon"] = "|cffa335ee|Hitem:165560::::::::120:268::5:4:4799:41:1522:4786:::|h[Arcing Thunderlizard Legplates]|h|r",
+					["iClass"] = 4,
+					["time"] = "22:13:08",
+					["responseID"] = "PL",
+					["response"] = "Personal Loot - Non tradeable",
 					["color"] = {
 						1, -- [1]
 						0.6, -- [2]
 						0, -- [3]
 						1, -- [4]
 					},
-					["mapID"] = 2070,
+				}, -- [2]
+				{
 					["id"] = "1548356528-9",
-					["isAwardReason"] = false,
+					["mapID"] = 2070,
 					["date"] = "24/01/19",
+					["isAwardReason"] = false,
+					["instance"] = "Battle of Dazar'alor-Heroic",
 					["class"] = "PALADIN",
 					["iSubClass"] = 3,
-					["groupSize"] = 26,
-					["difficultyID"] = 15,
-					["boss"] = "Mekkatorque",
-					["time"] = "21:02:08",
-					["iClass"] = 9,
-					["lootWon"] = "|cff1eff00|Hitem:166276::::::::120:268::5::::|h[Schematic: Unstable Temporal Time Shifter]|h|r",
-					["responseID"] = "PL",
 					["response"] = "Personal Loot - Non tradeable",
-					["instance"] = "Battle of Dazar'alor-Heroic",
+					["boss"] = "Mekkatorque",
+					["difficultyID"] = 15,
+					["lootWon"] = "|cff1eff00|Hitem:166276::::::::120:268::5::::|h[Schematic: Unstable Temporal Time Shifter]|h|r",
+					["iClass"] = 9,
+					["time"] = "21:02:08",
+					["responseID"] = "PL",
+					["groupSize"] = 26,
+					["color"] = {
+						1, -- [1]
+						0.6, -- [2]
+						0, -- [3]
+						1, -- [4]
+					},
 				}, -- [3]
 				{
 					["mapID"] = 2070,
@@ -32893,121 +32950,121 @@ RCLootCouncilLootDB = {
 			},
 			["Brunitz-Ragnaros"] = {
 				{
+					["id"] = "1547302034-0",
+					["mapID"] = 1763,
+					["response"] = "Personal Loot - Non tradeable",
+					["isAwardReason"] = false,
+					["date"] = "12/01/19",
+					["class"] = "SHAMAN",
+					["iSubClass"] = 0,
+					["groupSize"] = 5,
+					["difficultyID"] = 23,
+					["boss"] = "Rezan",
+					["time"] = "16:07:14",
+					["iClass"] = 9,
+					["lootWon"] = "|cff0070dd|Hitem:159841::::::::120:262::23::::|h[Tome of Hex: Skeletal Hatchling]|h|r",
+					["responseID"] = "PL",
 					["color"] = {
 						1, -- [1]
 						0.6, -- [2]
 						0, -- [3]
 						1, -- [4]
 					},
-					["mapID"] = 1763,
-					["groupSize"] = 5,
-					["isAwardReason"] = false,
-					["id"] = "1547302034-0",
-					["class"] = "SHAMAN",
-					["iSubClass"] = 0,
-					["response"] = "Personal Loot - Non tradeable",
-					["boss"] = "Rezan",
-					["difficultyID"] = 23,
-					["lootWon"] = "|cff0070dd|Hitem:159841::::::::120:262::23::::|h[Tome of Hex: Skeletal Hatchling]|h|r",
-					["iClass"] = 9,
-					["time"] = "16:07:14",
-					["responseID"] = "PL",
 					["instance"] = "Atal'Dazar-Mythic",
-					["date"] = "12/01/19",
 				}, -- [1]
 				{
+					["id"] = "1547303445-1",
+					["mapID"] = 1841,
+					["response"] = "Personal Loot - Non tradeable",
+					["isAwardReason"] = false,
+					["date"] = "12/01/19",
+					["class"] = "SHAMAN",
+					["iSubClass"] = 3,
+					["groupSize"] = 5,
+					["difficultyID"] = 23,
+					["boss"] = "Cragmaw the Infested",
+					["time"] = "16:30:45",
+					["iClass"] = 4,
+					["lootWon"] = "|cffa335ee|Hitem:159382::::::::120:262::23:3:4779:1512:4786:::|h[Blood Tick Crushers]|h|r",
+					["responseID"] = "PL",
 					["color"] = {
 						1, -- [1]
 						0.6, -- [2]
 						0, -- [3]
 						1, -- [4]
 					},
-					["mapID"] = 1841,
-					["groupSize"] = 5,
-					["isAwardReason"] = false,
-					["id"] = "1547303445-1",
-					["class"] = "SHAMAN",
-					["iSubClass"] = 3,
-					["response"] = "Personal Loot - Non tradeable",
-					["boss"] = "Cragmaw the Infested",
-					["difficultyID"] = 23,
-					["lootWon"] = "|cffa335ee|Hitem:159382::::::::120:262::23:3:4779:1512:4786:::|h[Blood Tick Crushers]|h|r",
-					["iClass"] = 4,
-					["time"] = "16:30:45",
-					["responseID"] = "PL",
 					["instance"] = "The Underrot-Mythic",
-					["date"] = "12/01/19",
 				}, -- [2]
 				{
-					["date"] = "12/01/19",
-					["mapID"] = 1771,
 					["id"] = "1547306519-0",
-					["isAwardReason"] = false,
+					["mapID"] = 1771,
 					["instance"] = "Tol Dagor-Mythic",
+					["isAwardReason"] = false,
+					["color"] = {
+						1, -- [1]
+						0.6, -- [2]
+						0, -- [3]
+						1, -- [4]
+					},
 					["class"] = "SHAMAN",
 					["iSubClass"] = 3,
-					["response"] = "Personal Loot - Non tradeable",
-					["difficultyID"] = 23,
-					["boss"] = "The Sand Queen",
-					["time"] = "17:21:59",
-					["iClass"] = 4,
-					["lootWon"] = "|cffa335ee|Hitem:159392::::::::120:262::23:3:4779:1512:4786:::|h[Gaoler's Chainmail Gaiters]|h|r",
-					["responseID"] = "PL",
 					["groupSize"] = 5,
-					["color"] = {
-						1, -- [1]
-						0.6, -- [2]
-						0, -- [3]
-						1, -- [4]
-					},
+					["boss"] = "The Sand Queen",
+					["difficultyID"] = 23,
+					["lootWon"] = "|cffa335ee|Hitem:159392::::::::120:262::23:3:4779:1512:4786:::|h[Gaoler's Chainmail Gaiters]|h|r",
+					["iClass"] = 4,
+					["time"] = "17:21:59",
+					["responseID"] = "PL",
+					["response"] = "Personal Loot - Non tradeable",
+					["date"] = "12/01/19",
 				}, -- [3]
 				{
-					["date"] = "12/01/19",
-					["mapID"] = 1862,
 					["id"] = "1547308141-1",
-					["isAwardReason"] = false,
+					["mapID"] = 1862,
 					["instance"] = "Waycrest Manor-Mythic",
-					["class"] = "SHAMAN",
-					["iSubClass"] = 0,
-					["response"] = "Personal Loot - Non tradeable",
-					["difficultyID"] = 23,
-					["boss"] = "Lord and Lady Waycrest",
-					["time"] = "17:49:01",
-					["iClass"] = 4,
-					["lootWon"] = "|cffa335ee|Hitem:159631::::::::120:262::23:3:4779:1512:4786:::|h[Lady Waycrest's Music Box]|h|r",
-					["responseID"] = "PL",
-					["groupSize"] = 5,
+					["isAwardReason"] = false,
 					["color"] = {
 						1, -- [1]
 						0.6, -- [2]
 						0, -- [3]
 						1, -- [4]
 					},
+					["class"] = "SHAMAN",
+					["iSubClass"] = 0,
+					["groupSize"] = 5,
+					["boss"] = "Lord and Lady Waycrest",
+					["difficultyID"] = 23,
+					["lootWon"] = "|cffa335ee|Hitem:159631::::::::120:262::23:3:4779:1512:4786:::|h[Lady Waycrest's Music Box]|h|r",
+					["iClass"] = 4,
+					["time"] = "17:49:01",
+					["responseID"] = "PL",
+					["response"] = "Personal Loot - Non tradeable",
+					["date"] = "12/01/19",
 				}, -- [4]
 			},
 			["Misin-Kazzak"] = {
 				{
+					["id"] = "1542068355-0",
+					["mapID"] = 1822,
+					["date"] = "13/11/18",
+					["isAwardReason"] = false,
+					["instance"] = "Siege of Boralus-Mythic Keystone",
+					["class"] = "HUNTER",
+					["iSubClass"] = 3,
+					["groupSize"] = 5,
+					["boss"] = "Viq'Goth",
+					["difficultyID"] = 8,
+					["lootWon"] = "|cffa335ee|Hitem:159367::::::::120:253::16:3:5010:1547:4783:::|h[Unstoppable Zealot's Legplates]|h|r",
+					["iClass"] = 4,
+					["time"] = "02:19:15",
+					["responseID"] = "PL",
+					["response"] = "Personal Loot - Non tradeable",
 					["color"] = {
 						1, -- [1]
 						0.6, -- [2]
 						0, -- [3]
 						1, -- [4]
 					},
-					["mapID"] = 1822,
-					["id"] = "1542068355-0",
-					["isAwardReason"] = false,
-					["date"] = "13/11/18",
-					["class"] = "HUNTER",
-					["iSubClass"] = 3,
-					["response"] = "Personal Loot - Non tradeable",
-					["difficultyID"] = 8,
-					["boss"] = "Viq'Goth",
-					["time"] = "02:19:15",
-					["iClass"] = 4,
-					["lootWon"] = "|cffa335ee|Hitem:159367::::::::120:253::16:3:5010:1547:4783:::|h[Unstoppable Zealot's Legplates]|h|r",
-					["responseID"] = "PL",
-					["groupSize"] = 5,
-					["instance"] = "Siege of Boralus-Mythic Keystone",
 				}, -- [1]
 			},
 			["Nitedh-Kazzak"] = {
@@ -33849,7 +33906,7 @@ RCLootCouncilLootDB = {
 					["iClass"] = 4,
 					["itemReplaced1"] = "|cffa335ee|Hitem:178708::::::::60:65::35:6:7214:6652:1501:5884:6646:6917::::|h[Unbound Changeling]|h|r",
 					["votes"] = 0,
-					["instance"] = "Castle Nathria-Mythic",
+					["typeCode"] = "default",
 					["owner"] = "Arookie-Kazzak",
 					["id"] = "1615400753-22",
 					["response"] = "Need not BIS",
@@ -33865,7 +33922,7 @@ RCLootCouncilLootDB = {
 					["isAwardReason"] = false,
 					["responseID"] = 2,
 					["itemReplaced2"] = "|cffa335ee|Hitem:178386::::::::60:65::14:3:6623:1498:6646:1:28:807:::|h[Sinful Gladiator's Insignia of Alacrity]|h|r",
-					["typeCode"] = "default",
+					["instance"] = "Castle Nathria-Mythic",
 				}, -- [33]
 				{
 					["mapID"] = 2222,
@@ -33878,7 +33935,7 @@ RCLootCouncilLootDB = {
 					["iClass"] = 4,
 					["itemReplaced1"] = "|cffa335ee|Hitem:178708::::::::60:252::35:6:7214:6652:1501:5884:6646:6917::::|h[Unbound Changeling]|h|r",
 					["votes"] = 0,
-					["instance"] = "The Shadowlands-",
+					["typeCode"] = "default",
 					["owner"] = "Seksixeny-Kazzak",
 					["id"] = "1615410076-6",
 					["response"] = "Need (BIS stats)",
@@ -33894,32 +33951,32 @@ RCLootCouncilLootDB = {
 					["isAwardReason"] = false,
 					["responseID"] = 1,
 					["itemReplaced2"] = "|cffa335ee|Hitem:178386::::::::60:252::14:3:6623:1498:6646:1:28:807:::|h[Sinful Gladiator's Insignia of Alacrity]|h|r",
-					["typeCode"] = "default",
+					["instance"] = "The Shadowlands-",
 				}, -- [34]
 			},
 			["Xplopriest-Kazzak"] = {
 				{
-					["instance"] = "Uldir-Heroic",
-					["mapID"] = 1861,
-					["groupSize"] = 13,
-					["isAwardReason"] = false,
 					["id"] = "1545240766-1",
-					["class"] = "PRIEST",
-					["iSubClass"] = 5,
+					["mapID"] = 1861,
 					["response"] = "Personal Loot - Non tradeable",
-					["boss"] = "Fetid Devourer",
-					["difficultyID"] = 15,
-					["lootWon"] = "|cff1eff00|Hitem:139299::::::::120:102::5::::|h[Finely-Tailored Red Holiday Hat]|h|r",
-					["iClass"] = 4,
-					["time"] = "21:32:46",
-					["responseID"] = "PL",
-					["date"] = "19/12/18",
+					["isAwardReason"] = false,
 					["color"] = {
 						1, -- [1]
 						0.6, -- [2]
 						0, -- [3]
 						1, -- [4]
 					},
+					["class"] = "PRIEST",
+					["iSubClass"] = 5,
+					["groupSize"] = 13,
+					["difficultyID"] = 15,
+					["boss"] = "Fetid Devourer",
+					["time"] = "21:32:46",
+					["iClass"] = 4,
+					["lootWon"] = "|cff1eff00|Hitem:139299::::::::120:102::5::::|h[Finely-Tailored Red Holiday Hat]|h|r",
+					["responseID"] = "PL",
+					["instance"] = "Uldir-Heroic",
+					["date"] = "19/12/18",
 				}, -- [1]
 				{
 					["mapID"] = 1861,
@@ -33998,27 +34055,27 @@ RCLootCouncilLootDB = {
 					["instance"] = "Uldir-Mythic",
 				}, -- [4]
 				{
-					["date"] = "20/12/18",
-					["mapID"] = 1861,
 					["id"] = "1545333394-12",
-					["isAwardReason"] = false,
+					["mapID"] = 1861,
 					["instance"] = "Uldir-Mythic",
-					["class"] = "PRIEST",
-					["iSubClass"] = 1,
-					["groupSize"] = 20,
-					["difficultyID"] = 16,
-					["boss"] = "Vectis",
-					["time"] = "21:16:34",
-					["iClass"] = 4,
-					["lootWon"] = "|cffa335ee|Hitem:160715::::::::120:268::6:3:4800:1507:4786:::|h[Mutagenic Protofluid Handwraps]|h|r",
-					["responseID"] = "PL",
-					["response"] = "Personal Loot - Non tradeable",
+					["isAwardReason"] = false,
 					["color"] = {
 						1, -- [1]
 						0.6, -- [2]
 						0, -- [3]
 						1, -- [4]
 					},
+					["class"] = "PRIEST",
+					["iSubClass"] = 1,
+					["response"] = "Personal Loot - Non tradeable",
+					["boss"] = "Vectis",
+					["difficultyID"] = 16,
+					["lootWon"] = "|cffa335ee|Hitem:160715::::::::120:268::6:3:4800:1507:4786:::|h[Mutagenic Protofluid Handwraps]|h|r",
+					["iClass"] = 4,
+					["time"] = "21:16:34",
+					["responseID"] = "PL",
+					["groupSize"] = 20,
+					["date"] = "20/12/18",
 				}, -- [5]
 				{
 					["mapID"] = 1861,
@@ -34098,27 +34155,27 @@ RCLootCouncilLootDB = {
 					["date"] = "10/01/19",
 				}, -- [8]
 				{
-					["date"] = "10/01/19",
-					["mapID"] = 1861,
 					["id"] = "1547148670-18",
-					["isAwardReason"] = false,
+					["mapID"] = 1861,
 					["instance"] = "Uldir-Mythic",
-					["class"] = "PRIEST",
-					["iSubClass"] = 10,
-					["groupSize"] = 20,
-					["difficultyID"] = 16,
-					["boss"] = "Fetid Devourer",
-					["time"] = "21:31:10",
-					["iClass"] = 2,
-					["lootWon"] = "|cffa335ee|Hitem:160689::::::::120:268::6:3:4800:1507:4786:::|h[Regurgitated Purifier's Flamestaff]|h|r",
-					["responseID"] = "PL",
-					["response"] = "Personal Loot - Non tradeable",
+					["isAwardReason"] = false,
 					["color"] = {
 						1, -- [1]
 						0.6, -- [2]
 						0, -- [3]
 						1, -- [4]
 					},
+					["class"] = "PRIEST",
+					["iSubClass"] = 10,
+					["response"] = "Personal Loot - Non tradeable",
+					["boss"] = "Fetid Devourer",
+					["difficultyID"] = 16,
+					["lootWon"] = "|cffa335ee|Hitem:160689::::::::120:268::6:3:4800:1507:4786:::|h[Regurgitated Purifier's Flamestaff]|h|r",
+					["iClass"] = 2,
+					["time"] = "21:31:10",
+					["responseID"] = "PL",
+					["groupSize"] = 20,
+					["date"] = "10/01/19",
 				}, -- [9]
 				{
 					["mapID"] = 1861,
@@ -34201,27 +34258,27 @@ RCLootCouncilLootDB = {
 					["isAwardReason"] = false,
 				}, -- [12]
 				{
-					["instance"] = "Battle of Dazar'alor-Heroic",
-					["mapID"] = 2070,
-					["groupSize"] = 26,
-					["isAwardReason"] = false,
 					["id"] = "1548271787-22",
-					["class"] = "PRIEST",
-					["iSubClass"] = 1,
+					["mapID"] = 2070,
 					["response"] = "Personal Loot - Non tradeable",
-					["boss"] = "Opulence",
-					["difficultyID"] = 15,
-					["lootWon"] = "|cffa335ee|Hitem:165818::::::::120:268::5:4:4823:1522:4786:5417:::|h[Crown of the Seducer]|h|r",
-					["iClass"] = 4,
-					["time"] = "21:29:47",
-					["responseID"] = "PL",
-					["date"] = "23/01/19",
+					["isAwardReason"] = false,
 					["color"] = {
 						1, -- [1]
 						0.6, -- [2]
 						0, -- [3]
 						1, -- [4]
 					},
+					["class"] = "PRIEST",
+					["iSubClass"] = 1,
+					["groupSize"] = 26,
+					["difficultyID"] = 15,
+					["boss"] = "Opulence",
+					["time"] = "21:29:47",
+					["iClass"] = 4,
+					["lootWon"] = "|cffa335ee|Hitem:165818::::::::120:268::5:4:4823:1522:4786:5417:::|h[Crown of the Seducer]|h|r",
+					["responseID"] = "PL",
+					["instance"] = "Battle of Dazar'alor-Heroic",
+					["date"] = "23/01/19",
 				}, -- [13]
 				{
 					["mapID"] = 2070,
@@ -34303,73 +34360,73 @@ RCLootCouncilLootDB = {
 					["votes"] = 3,
 				}, -- [16]
 				{
-					["color"] = {
-						1, -- [1]
-						0.6, -- [2]
-						0, -- [3]
-						1, -- [4]
-					},
-					["mapID"] = 1841,
 					["id"] = "1548832752-3",
-					["isAwardReason"] = false,
+					["mapID"] = 1841,
 					["date"] = "30/01/19",
+					["isAwardReason"] = false,
+					["instance"] = "The Underrot-Mythic Keystone",
 					["class"] = "PRIEST",
 					["iSubClass"] = 0,
-					["groupSize"] = 5,
-					["difficultyID"] = 8,
-					["boss"] = "Unbound Abomination",
-					["time"] = "09:19:12",
-					["iClass"] = 4,
-					["lootWon"] = "|cffa335ee|Hitem:159624::::::::120:262::16:3:5010:1572:4786:::|h[Rotcrusted Voodoo Doll]|h|r",
-					["responseID"] = "PL",
 					["response"] = "Personal Loot - Non tradeable",
-					["instance"] = "The Underrot-Mythic Keystone",
+					["boss"] = "Unbound Abomination",
+					["difficultyID"] = 8,
+					["lootWon"] = "|cffa335ee|Hitem:159624::::::::120:262::16:3:5010:1572:4786:::|h[Rotcrusted Voodoo Doll]|h|r",
+					["iClass"] = 4,
+					["time"] = "09:19:12",
+					["responseID"] = "PL",
+					["groupSize"] = 5,
+					["color"] = {
+						1, -- [1]
+						0.6, -- [2]
+						0, -- [3]
+						1, -- [4]
+					},
 				}, -- [17]
 				{
+					["id"] = "1548834523-6",
+					["mapID"] = 1841,
+					["date"] = "30/01/19",
+					["isAwardReason"] = false,
+					["instance"] = "The Underrot-Mythic Keystone",
+					["class"] = "PRIEST",
+					["iSubClass"] = 1,
+					["response"] = "Personal Loot - Non tradeable",
+					["boss"] = "Unbound Abomination",
+					["difficultyID"] = 8,
+					["lootWon"] = "|cffa335ee|Hitem:159275::::::::120:262::16:4:5010:40:1577:4783:::|h[Wristwraps of Twined Morels]|h|r",
+					["iClass"] = 4,
+					["time"] = "09:48:43",
+					["responseID"] = "PL",
+					["groupSize"] = 5,
 					["color"] = {
 						1, -- [1]
 						0.6, -- [2]
 						0, -- [3]
 						1, -- [4]
 					},
-					["mapID"] = 1841,
-					["id"] = "1548834523-6",
-					["isAwardReason"] = false,
-					["date"] = "30/01/19",
-					["class"] = "PRIEST",
-					["iSubClass"] = 1,
-					["groupSize"] = 5,
-					["difficultyID"] = 8,
-					["boss"] = "Unbound Abomination",
-					["time"] = "09:48:43",
-					["iClass"] = 4,
-					["lootWon"] = "|cffa335ee|Hitem:159275::::::::120:262::16:4:5010:40:1577:4783:::|h[Wristwraps of Twined Morels]|h|r",
-					["responseID"] = "PL",
-					["response"] = "Personal Loot - Non tradeable",
-					["instance"] = "The Underrot-Mythic Keystone",
 				}, -- [18]
 				{
-					["date"] = "30/01/19",
-					["mapID"] = 1594,
-					["groupSize"] = 5,
-					["isAwardReason"] = false,
 					["id"] = "1548841874-4",
+					["mapID"] = 1594,
+					["response"] = "Personal Loot - Non tradeable",
+					["isAwardReason"] = false,
+					["instance"] = "The MOTHERLODE!!-Mythic Keystone",
 					["class"] = "PRIEST",
 					["iSubClass"] = 1,
-					["response"] = "Personal Loot - Non tradeable",
-					["boss"] = "Mogul Razdunk",
+					["groupSize"] = 5,
 					["difficultyID"] = 8,
-					["lootWon"] = "|cffa335ee|Hitem:159226::::::::120:262::16:3:5010:1572:4786:::|h[Excavator's Safety Belt]|h|r",
-					["iClass"] = 4,
+					["boss"] = "Mogul Razdunk",
 					["time"] = "11:51:14",
+					["iClass"] = 4,
+					["lootWon"] = "|cffa335ee|Hitem:159226::::::::120:262::16:3:5010:1572:4786:::|h[Excavator's Safety Belt]|h|r",
 					["responseID"] = "PL",
+					["date"] = "30/01/19",
 					["color"] = {
 						1, -- [1]
 						0.6, -- [2]
 						0, -- [3]
 						1, -- [4]
 					},
-					["instance"] = "The MOTHERLODE!!-Mythic Keystone",
 				}, -- [19]
 				{
 					["mapID"] = 2070,
@@ -34551,27 +34608,27 @@ RCLootCouncilLootDB = {
 			},
 			["Eogwynn-Kazzak"] = {
 				{
-					["instance"] = "Uldir-Mythic",
-					["mapID"] = 1861,
-					["response"] = "Personal Loot - Non tradeable",
-					["isAwardReason"] = false,
 					["id"] = "1543865714-1",
-					["class"] = "MAGE",
-					["iSubClass"] = 1,
+					["mapID"] = 1861,
 					["groupSize"] = 20,
-					["boss"] = "G'huun",
-					["difficultyID"] = 16,
-					["lootWon"] = "|cffa335ee|Hitem:160727::::::::120:268::6:4:4800:1808:1517:4783:::|h[Cord of Septic Envelopment]|h|r",
-					["iClass"] = 4,
-					["time"] = "21:35:14",
-					["responseID"] = "PL",
-					["date"] = "03/12/18",
+					["isAwardReason"] = false,
 					["color"] = {
 						1, -- [1]
 						0.6, -- [2]
 						0, -- [3]
 						1, -- [4]
 					},
+					["class"] = "MAGE",
+					["iSubClass"] = 1,
+					["response"] = "Personal Loot - Non tradeable",
+					["difficultyID"] = 16,
+					["boss"] = "G'huun",
+					["time"] = "21:35:14",
+					["iClass"] = 4,
+					["lootWon"] = "|cffa335ee|Hitem:160727::::::::120:268::6:4:4800:1808:1517:4783:::|h[Cord of Septic Envelopment]|h|r",
+					["responseID"] = "PL",
+					["instance"] = "Uldir-Mythic",
+					["date"] = "03/12/18",
 				}, -- [1]
 				{
 					["mapID"] = 1861,
@@ -34624,27 +34681,27 @@ RCLootCouncilLootDB = {
 					},
 				}, -- [3]
 				{
-					["instance"] = "Uldir-Mythic",
-					["mapID"] = 1861,
-					["groupSize"] = 20,
-					["isAwardReason"] = false,
 					["id"] = "1545335963-18",
-					["class"] = "MAGE",
-					["iSubClass"] = 10,
+					["mapID"] = 1861,
 					["response"] = "Personal Loot - Non tradeable",
-					["boss"] = "Fetid Devourer",
-					["difficultyID"] = 16,
-					["lootWon"] = "|cffa335ee|Hitem:160689::::::::120:268::6:3:4800:1507:4786:::|h[Regurgitated Purifier's Flamestaff]|h|r",
-					["iClass"] = 2,
-					["time"] = "21:59:23",
-					["responseID"] = "PL",
-					["date"] = "20/12/18",
+					["isAwardReason"] = false,
 					["color"] = {
 						1, -- [1]
 						0.6, -- [2]
 						0, -- [3]
 						1, -- [4]
 					},
+					["class"] = "MAGE",
+					["iSubClass"] = 10,
+					["groupSize"] = 20,
+					["difficultyID"] = 16,
+					["boss"] = "Fetid Devourer",
+					["time"] = "21:59:23",
+					["iClass"] = 2,
+					["lootWon"] = "|cffa335ee|Hitem:160689::::::::120:268::6:3:4800:1507:4786:::|h[Regurgitated Purifier's Flamestaff]|h|r",
+					["responseID"] = "PL",
+					["instance"] = "Uldir-Mythic",
+					["date"] = "20/12/18",
 				}, -- [4]
 				{
 					["mapID"] = 1861,
@@ -34673,27 +34730,27 @@ RCLootCouncilLootDB = {
 					["isAwardReason"] = false,
 				}, -- [5]
 				{
+					["id"] = "1547143991-5",
+					["mapID"] = 1861,
+					["groupSize"] = 20,
+					["isAwardReason"] = false,
+					["date"] = "10/01/19",
+					["class"] = "MAGE",
+					["iSubClass"] = 0,
+					["response"] = "Personal Loot - Non tradeable",
+					["difficultyID"] = 16,
+					["boss"] = "MOTHER",
+					["time"] = "20:13:11",
+					["iClass"] = 4,
+					["lootWon"] = "|cffa335ee|Hitem:160695::::::::120:268::6:3:4800:1512:4783:::|h[Uldir Subject Manifest]|h|r",
+					["responseID"] = "PL",
 					["color"] = {
 						1, -- [1]
 						0.6, -- [2]
 						0, -- [3]
 						1, -- [4]
 					},
-					["mapID"] = 1861,
-					["response"] = "Personal Loot - Non tradeable",
-					["isAwardReason"] = false,
-					["id"] = "1547143991-5",
-					["class"] = "MAGE",
-					["iSubClass"] = 0,
-					["groupSize"] = 20,
-					["boss"] = "MOTHER",
-					["difficultyID"] = 16,
-					["lootWon"] = "|cffa335ee|Hitem:160695::::::::120:268::6:3:4800:1512:4783:::|h[Uldir Subject Manifest]|h|r",
-					["iClass"] = 4,
-					["time"] = "20:13:11",
-					["responseID"] = "PL",
 					["instance"] = "Uldir-Mythic",
-					["date"] = "10/01/19",
 				}, -- [6]
 				{
 					["mapID"] = 1861,
@@ -34747,27 +34804,27 @@ RCLootCouncilLootDB = {
 					["date"] = "10/01/19",
 				}, -- [8]
 				{
-					["instance"] = "Uldir-Mythic",
-					["mapID"] = 1861,
-					["groupSize"] = 20,
-					["isAwardReason"] = false,
 					["id"] = "1547152294-27",
-					["class"] = "MAGE",
-					["iSubClass"] = 0,
+					["mapID"] = 1861,
 					["response"] = "Personal Loot - Non tradeable",
-					["boss"] = "Mythrax",
-					["difficultyID"] = 16,
-					["lootWon"] = "|cffa335ee|Hitem:160646::::::::120:268::6:3:4800:1512:4783:::|h[Band of Certain Annihilation]|h|r",
-					["iClass"] = 4,
-					["time"] = "22:31:34",
-					["responseID"] = "PL",
-					["date"] = "10/01/19",
+					["isAwardReason"] = false,
 					["color"] = {
 						1, -- [1]
 						0.6, -- [2]
 						0, -- [3]
 						1, -- [4]
 					},
+					["class"] = "MAGE",
+					["iSubClass"] = 0,
+					["groupSize"] = 20,
+					["difficultyID"] = 16,
+					["boss"] = "Mythrax",
+					["time"] = "22:31:34",
+					["iClass"] = 4,
+					["lootWon"] = "|cffa335ee|Hitem:160646::::::::120:268::6:3:4800:1512:4783:::|h[Band of Certain Annihilation]|h|r",
+					["responseID"] = "PL",
+					["instance"] = "Uldir-Mythic",
+					["date"] = "10/01/19",
 				}, -- [9]
 				{
 					["mapID"] = 1861,
@@ -34795,27 +34852,27 @@ RCLootCouncilLootDB = {
 					["instance"] = "Uldir-Mythic",
 				}, -- [10]
 				{
-					["instance"] = "Battle of Dazar'alor-Heroic",
-					["mapID"] = 2070,
-					["groupSize"] = 26,
-					["isAwardReason"] = false,
 					["id"] = "1548268805-16",
-					["class"] = "MAGE",
-					["iSubClass"] = 0,
+					["mapID"] = 2070,
 					["response"] = "Personal Loot - Non tradeable",
-					["boss"] = "Jadefire Masters",
-					["difficultyID"] = 15,
-					["lootWon"] = "|cffa335ee|Hitem:165565::::::::120:268::5:4:4799:1808:1522:4786:::|h[Band of Multi-Sided Strikes]|h|r",
-					["iClass"] = 4,
-					["time"] = "20:40:05",
-					["responseID"] = "PL",
-					["date"] = "23/01/19",
+					["isAwardReason"] = false,
 					["color"] = {
 						1, -- [1]
 						0.6, -- [2]
 						0, -- [3]
 						1, -- [4]
 					},
+					["class"] = "MAGE",
+					["iSubClass"] = 0,
+					["groupSize"] = 26,
+					["difficultyID"] = 15,
+					["boss"] = "Jadefire Masters",
+					["time"] = "20:40:05",
+					["iClass"] = 4,
+					["lootWon"] = "|cffa335ee|Hitem:165565::::::::120:268::5:4:4799:1808:1522:4786:::|h[Band of Multi-Sided Strikes]|h|r",
+					["responseID"] = "PL",
+					["instance"] = "Battle of Dazar'alor-Heroic",
+					["date"] = "23/01/19",
 				}, -- [11]
 				{
 					["mapID"] = 2070,
@@ -35220,142 +35277,142 @@ RCLootCouncilLootDB = {
 			},
 			["Diamondberg-Kazzak"] = {
 				{
-					["date"] = "01/11/18",
-					["mapID"] = 1861,
-					["response"] = "Personal Loot - Non tradeable",
-					["isAwardReason"] = false,
 					["id"] = "1541104924-20",
+					["mapID"] = 1861,
+					["groupSize"] = 20,
+					["isAwardReason"] = false,
+					["instance"] = "Uldir-Mythic",
 					["class"] = "DRUID",
 					["iSubClass"] = 10,
-					["groupSize"] = 20,
-					["boss"] = "Fetid Devourer",
+					["response"] = "Personal Loot - Non tradeable",
 					["difficultyID"] = 16,
-					["lootWon"] = "|cffa335ee|Hitem:160689::::::::120:268::6:3:4800:1507:4786:::|h[Regurgitated Purifier's Flamestaff]|h|r",
-					["iClass"] = 2,
+					["boss"] = "Fetid Devourer",
 					["time"] = "22:42:04",
+					["iClass"] = 2,
+					["lootWon"] = "|cffa335ee|Hitem:160689::::::::120:268::6:3:4800:1507:4786:::|h[Regurgitated Purifier's Flamestaff]|h|r",
 					["responseID"] = "PL",
+					["date"] = "01/11/18",
 					["color"] = {
 						1, -- [1]
 						0.6, -- [2]
 						0, -- [3]
 						1, -- [4]
 					},
-					["instance"] = "Uldir-Mythic",
 				}, -- [1]
 				{
-					["instance"] = "Uldir-Mythic",
-					["mapID"] = 1861,
-					["response"] = "Personal Loot - Non tradeable",
-					["isAwardReason"] = false,
 					["id"] = "1543865717-2",
-					["class"] = "DRUID",
-					["iSubClass"] = 2,
+					["mapID"] = 1861,
 					["groupSize"] = 20,
-					["boss"] = "G'huun",
-					["difficultyID"] = 16,
-					["lootWon"] = "|cffa335ee|Hitem:160728::::::::120:268::6:3:4824:1507:4786:::|h[Tunic of the Sanguine Deity]|h|r",
-					["iClass"] = 4,
-					["time"] = "21:35:17",
-					["responseID"] = "PL",
-					["date"] = "03/12/18",
+					["isAwardReason"] = false,
 					["color"] = {
 						1, -- [1]
 						0.6, -- [2]
 						0, -- [3]
 						1, -- [4]
 					},
+					["class"] = "DRUID",
+					["iSubClass"] = 2,
+					["response"] = "Personal Loot - Non tradeable",
+					["difficultyID"] = 16,
+					["boss"] = "G'huun",
+					["time"] = "21:35:17",
+					["iClass"] = 4,
+					["lootWon"] = "|cffa335ee|Hitem:160728::::::::120:268::6:3:4824:1507:4786:::|h[Tunic of the Sanguine Deity]|h|r",
+					["responseID"] = "PL",
+					["instance"] = "Uldir-Mythic",
+					["date"] = "03/12/18",
 				}, -- [2]
 				{
-					["instance"] = "Uldir-Mythic",
-					["mapID"] = 1861,
 					["id"] = "1544126957-16",
-					["isAwardReason"] = false,
+					["mapID"] = 1861,
 					["color"] = {
 						1, -- [1]
 						0.6, -- [2]
 						0, -- [3]
 						1, -- [4]
 					},
+					["isAwardReason"] = false,
+					["date"] = "06/12/18",
 					["class"] = "DRUID",
 					["iSubClass"] = 4,
-					["response"] = "Personal Loot - Non tradeable",
-					["difficultyID"] = 16,
-					["boss"] = "Zek'voz",
-					["time"] = "22:09:17",
-					["iClass"] = 2,
-					["lootWon"] = "|cffa335ee|Hitem:160687::::::::120:268::6:3:4800:1507:4786:::|h[Containment Analysis Baton]|h|r",
-					["responseID"] = "PL",
 					["groupSize"] = 20,
-					["date"] = "06/12/18",
+					["boss"] = "Zek'voz",
+					["difficultyID"] = 16,
+					["lootWon"] = "|cffa335ee|Hitem:160687::::::::120:268::6:3:4800:1507:4786:::|h[Containment Analysis Baton]|h|r",
+					["iClass"] = 2,
+					["time"] = "22:09:17",
+					["responseID"] = "PL",
+					["response"] = "Personal Loot - Non tradeable",
+					["instance"] = "Uldir-Mythic",
 				}, -- [3]
 				{
-					["instance"] = "Uldir-Mythic",
-					["mapID"] = 1861,
-					["groupSize"] = 20,
-					["isAwardReason"] = false,
 					["id"] = "1545337778-24",
+					["mapID"] = 1861,
+					["response"] = "Personal Loot - Non tradeable",
+					["isAwardReason"] = false,
+					["color"] = {
+						1, -- [1]
+						0.6, -- [2]
+						0, -- [3]
+						1, -- [4]
+					},
 					["class"] = "DRUID",
 					["iSubClass"] = 1,
-					["response"] = "Personal Loot - Non tradeable",
-					["boss"] = "Zul",
+					["groupSize"] = 20,
 					["difficultyID"] = 16,
-					["lootWon"] = "|cffa335ee|Hitem:160642::::::::120:268::6:3:4800:1517:4783:::|h[Cloak of Rippling Whispers]|h|r",
-					["iClass"] = 4,
+					["boss"] = "Zul",
 					["time"] = "22:29:38",
+					["iClass"] = 4,
+					["lootWon"] = "|cffa335ee|Hitem:160642::::::::120:268::6:3:4800:1517:4783:::|h[Cloak of Rippling Whispers]|h|r",
 					["responseID"] = "PL",
+					["instance"] = "Uldir-Mythic",
 					["date"] = "20/12/18",
-					["color"] = {
-						1, -- [1]
-						0.6, -- [2]
-						0, -- [3]
-						1, -- [4]
-					},
 				}, -- [4]
 				{
-					["instance"] = "Battle of Dazar'alor-Heroic",
-					["mapID"] = 2070,
-					["groupSize"] = 25,
-					["isAwardReason"] = false,
 					["id"] = "1548266439-1",
-					["class"] = "DRUID",
-					["iSubClass"] = 2,
+					["mapID"] = 2070,
 					["response"] = "Personal Loot - Non tradeable",
-					["boss"] = "Champion of the Light",
-					["difficultyID"] = 15,
-					["lootWon"] = "|cffa335ee|Hitem:165519::::::::120:268::5:4:4823:1522:4786:5417:::|h[Cowl of Righteous Resolve]|h|r",
-					["iClass"] = 4,
-					["time"] = "20:00:39",
-					["responseID"] = "PL",
-					["date"] = "23/01/19",
+					["isAwardReason"] = false,
 					["color"] = {
 						1, -- [1]
 						0.6, -- [2]
 						0, -- [3]
 						1, -- [4]
 					},
+					["class"] = "DRUID",
+					["iSubClass"] = 2,
+					["groupSize"] = 25,
+					["difficultyID"] = 15,
+					["boss"] = "Champion of the Light",
+					["time"] = "20:00:39",
+					["iClass"] = 4,
+					["lootWon"] = "|cffa335ee|Hitem:165519::::::::120:268::5:4:4823:1522:4786:5417:::|h[Cowl of Righteous Resolve]|h|r",
+					["responseID"] = "PL",
+					["instance"] = "Battle of Dazar'alor-Heroic",
+					["date"] = "23/01/19",
 				}, -- [5]
 				{
+					["id"] = "1548356509-2",
+					["mapID"] = 2070,
+					["date"] = "24/01/19",
+					["isAwardReason"] = false,
+					["instance"] = "Battle of Dazar'alor-Heroic",
+					["class"] = "DRUID",
+					["iSubClass"] = 2,
+					["response"] = "Personal Loot - Non tradeable",
+					["boss"] = "Mekkatorque",
+					["difficultyID"] = 15,
+					["lootWon"] = "|cffa335ee|Hitem:165522::::::::120:268::5:3:4799:1522:4786:::|h[Mech-Jockey Grips]|h|r",
+					["iClass"] = 4,
+					["time"] = "21:01:49",
+					["responseID"] = "PL",
+					["groupSize"] = 26,
 					["color"] = {
 						1, -- [1]
 						0.6, -- [2]
 						0, -- [3]
 						1, -- [4]
 					},
-					["mapID"] = 2070,
-					["id"] = "1548356509-2",
-					["isAwardReason"] = false,
-					["date"] = "24/01/19",
-					["class"] = "DRUID",
-					["iSubClass"] = 2,
-					["groupSize"] = 26,
-					["difficultyID"] = 15,
-					["boss"] = "Mekkatorque",
-					["time"] = "21:01:49",
-					["iClass"] = 4,
-					["lootWon"] = "|cffa335ee|Hitem:165522::::::::120:268::5:3:4799:1522:4786:::|h[Mech-Jockey Grips]|h|r",
-					["responseID"] = "PL",
-					["response"] = "Personal Loot - Non tradeable",
-					["instance"] = "Battle of Dazar'alor-Heroic",
 				}, -- [6]
 				{
 					["mapID"] = 2070,
@@ -36147,6 +36204,56 @@ RCLootCouncilLootDB = {
 					},
 				}, -- [17]
 			},
+			["Harlekìn-Kazzak"] = {
+				{
+					["mapID"] = 2217,
+					["date"] = "15/06/20",
+					["class"] = "MONK",
+					["iSubClass"] = 2,
+					["groupSize"] = 13,
+					["isAwardReason"] = false,
+					["time"] = "17:43:20",
+					["iClass"] = 4,
+					["id"] = "1592239400-0",
+					["owner"] = "Harlekìn-Kazzak",
+					["response"] = "Bonus Loot",
+					["difficultyID"] = 15,
+					["lootWon"] = "|cffa335ee|Hitem:174141::::::::120:270::5:6:4823:1808:6516:6515:1502:4786:::|h[Boots of Manifest Shadow]|h|r",
+					["boss"] = "Maut",
+					["responseID"] = "BONUSROLL",
+					["instance"] = "Ny'alotha, the Waking City-Heroic",
+					["color"] = {
+						1, -- [1]
+						0.8, -- [2]
+						0, -- [3]
+						1, -- [4]
+					},
+				}, -- [1]
+				{
+					["mapID"] = 2217,
+					["date"] = "15/06/20",
+					["class"] = "MONK",
+					["iSubClass"] = 2,
+					["groupSize"] = 15,
+					["isAwardReason"] = false,
+					["time"] = "18:55:57",
+					["iClass"] = 4,
+					["id"] = "1592243757-4",
+					["owner"] = "Harlekìn-Kazzak",
+					["response"] = "Bonus Loot",
+					["difficultyID"] = 15,
+					["lootWon"] = "|cffa335ee|Hitem:174144::::::::120:270::5:5:4823:6516:6515:1502:4786:::|h[Corpuscular Leather Greaves]|h|r",
+					["boss"] = "Carapace of N'Zoth",
+					["responseID"] = "BONUSROLL",
+					["instance"] = "Ny'alotha, the Waking City-Heroic",
+					["color"] = {
+						1, -- [1]
+						0.8, -- [2]
+						0, -- [3]
+						1, -- [4]
+					},
+				}, -- [2]
+			},
 			["Intshuffle-Kazzak"] = {
 				{
 					["mapID"] = 2217,
@@ -36616,56 +36723,6 @@ RCLootCouncilLootDB = {
 					["instance"] = "Castle Nathria-Heroic",
 					["boss"] = "Sire Denathrius",
 				}, -- [19]
-			},
-			["Harlekìn-Kazzak"] = {
-				{
-					["mapID"] = 2217,
-					["date"] = "15/06/20",
-					["class"] = "MONK",
-					["iSubClass"] = 2,
-					["groupSize"] = 13,
-					["isAwardReason"] = false,
-					["time"] = "17:43:20",
-					["iClass"] = 4,
-					["id"] = "1592239400-0",
-					["owner"] = "Harlekìn-Kazzak",
-					["response"] = "Bonus Loot",
-					["difficultyID"] = 15,
-					["lootWon"] = "|cffa335ee|Hitem:174141::::::::120:270::5:6:4823:1808:6516:6515:1502:4786:::|h[Boots of Manifest Shadow]|h|r",
-					["boss"] = "Maut",
-					["responseID"] = "BONUSROLL",
-					["instance"] = "Ny'alotha, the Waking City-Heroic",
-					["color"] = {
-						1, -- [1]
-						0.8, -- [2]
-						0, -- [3]
-						1, -- [4]
-					},
-				}, -- [1]
-				{
-					["mapID"] = 2217,
-					["date"] = "15/06/20",
-					["class"] = "MONK",
-					["iSubClass"] = 2,
-					["groupSize"] = 15,
-					["isAwardReason"] = false,
-					["time"] = "18:55:57",
-					["iClass"] = 4,
-					["id"] = "1592243757-4",
-					["owner"] = "Harlekìn-Kazzak",
-					["response"] = "Bonus Loot",
-					["difficultyID"] = 15,
-					["lootWon"] = "|cffa335ee|Hitem:174144::::::::120:270::5:5:4823:6516:6515:1502:4786:::|h[Corpuscular Leather Greaves]|h|r",
-					["boss"] = "Carapace of N'Zoth",
-					["responseID"] = "BONUSROLL",
-					["instance"] = "Ny'alotha, the Waking City-Heroic",
-					["color"] = {
-						1, -- [1]
-						0.8, -- [2]
-						0, -- [3]
-						1, -- [4]
-					},
-				}, -- [2]
 			},
 			["Carlientee-Kazzak"] = {
 				{
@@ -37249,7 +37306,7 @@ RCLootCouncilLootDB = {
 					["iClass"] = 4,
 					["itemReplaced1"] = "|cffa335ee|Hitem:175921::::::::60:65::14:3:6623:1498:6646:1:28:807:::|h[Sinful Gladiator's Badge of Ferocity]|h|r",
 					["votes"] = 0,
-					["instance"] = "Castle Nathria-Mythic",
+					["typeCode"] = "default",
 					["owner"] = "Creo-Kazzak",
 					["id"] = "1613932501-20",
 					["response"] = "Need BIS",
@@ -37265,7 +37322,7 @@ RCLootCouncilLootDB = {
 					["isAwardReason"] = false,
 					["responseID"] = 1,
 					["itemReplaced2"] = "|cffa335ee|Hitem:184026::::::::60:65::6:4:7187:6652:1498:6646:1:28:753:::|h[Hateful Chain]|h|r",
-					["typeCode"] = "default",
+					["instance"] = "Castle Nathria-Mythic",
 				}, -- [5]
 			},
 			["Snaxxie-Kazzak"] = {
@@ -37672,27 +37729,27 @@ RCLootCouncilLootDB = {
 			},
 			["Clewer-Kazzak"] = {
 				{
+					["id"] = "1548274394-28",
+					["mapID"] = 2070,
+					["date"] = "23/01/19",
+					["isAwardReason"] = false,
+					["instance"] = "Battle of Dazar'alor-Heroic",
+					["class"] = "WARRIOR",
+					["iSubClass"] = 1,
+					["groupSize"] = 26,
+					["boss"] = "Conclave of the Chosen",
+					["difficultyID"] = 15,
+					["lootWon"] = "|cffa335ee|Hitem:165512::::::::120:268::5:3:4799:1522:4786:::|h[Loa Exultant's Shroud]|h|r",
+					["iClass"] = 4,
+					["time"] = "22:13:14",
+					["responseID"] = "PL",
+					["response"] = "Personal Loot - Non tradeable",
 					["color"] = {
 						1, -- [1]
 						0.6, -- [2]
 						0, -- [3]
 						1, -- [4]
 					},
-					["mapID"] = 2070,
-					["id"] = "1548274394-28",
-					["isAwardReason"] = false,
-					["date"] = "23/01/19",
-					["class"] = "WARRIOR",
-					["iSubClass"] = 1,
-					["response"] = "Personal Loot - Non tradeable",
-					["difficultyID"] = 15,
-					["boss"] = "Conclave of the Chosen",
-					["time"] = "22:13:14",
-					["iClass"] = 4,
-					["lootWon"] = "|cffa335ee|Hitem:165512::::::::120:268::5:3:4799:1522:4786:::|h[Loa Exultant's Shroud]|h|r",
-					["responseID"] = "PL",
-					["groupSize"] = 26,
-					["instance"] = "Battle of Dazar'alor-Heroic",
 				}, -- [1]
 				{
 					["mapID"] = 2070,
@@ -37721,27 +37778,27 @@ RCLootCouncilLootDB = {
 					["boss"] = "King Rastakhan",
 				}, -- [2]
 				{
+					["id"] = "1548352540-0",
+					["mapID"] = 1642,
+					["date"] = "24/01/19",
+					["isAwardReason"] = false,
+					["instance"] = "Zandalar-",
+					["class"] = "WARRIOR",
+					["iSubClass"] = 4,
+					["response"] = "Personal Loot - Non tradeable",
+					["boss"] = "Unknown",
+					["difficultyID"] = 0,
+					["lootWon"] = "|cff0070dd|Hitem:137642::::::::120:268::::::|h[Mark of Honor]|h|r",
+					["iClass"] = 15,
+					["time"] = "19:55:40",
+					["responseID"] = "PL",
+					["groupSize"] = 0,
 					["color"] = {
 						1, -- [1]
 						0.6, -- [2]
 						0, -- [3]
 						1, -- [4]
 					},
-					["mapID"] = 1642,
-					["id"] = "1548352540-0",
-					["isAwardReason"] = false,
-					["date"] = "24/01/19",
-					["class"] = "WARRIOR",
-					["iSubClass"] = 4,
-					["groupSize"] = 0,
-					["difficultyID"] = 0,
-					["boss"] = "Unknown",
-					["time"] = "19:55:40",
-					["iClass"] = 15,
-					["lootWon"] = "|cff0070dd|Hitem:137642::::::::120:268::::::|h[Mark of Honor]|h|r",
-					["responseID"] = "PL",
-					["response"] = "Personal Loot - Non tradeable",
-					["instance"] = "Zandalar-",
 				}, -- [3]
 				{
 					["mapID"] = 2070,
@@ -38231,50 +38288,50 @@ RCLootCouncilLootDB = {
 			},
 			["Shiotanii-Kazzak"] = {
 				{
-					["date"] = "28/11/18",
-					["mapID"] = 1861,
 					["id"] = "1543430768-1",
-					["isAwardReason"] = false,
+					["mapID"] = 1861,
 					["instance"] = "Uldir-Heroic",
-					["class"] = "DRUID",
-					["iSubClass"] = 2,
-					["response"] = "Personal Loot - Non tradeable",
-					["difficultyID"] = 15,
-					["boss"] = "Vectis",
-					["time"] = "20:46:08",
-					["iClass"] = 4,
-					["lootWon"] = "|cffa335ee|Hitem:160623::::::::120:577::5:3:4823:1492:4786:::|h[Hood of Pestilent Ichor]|h|r",
-					["responseID"] = "PL",
-					["groupSize"] = 14,
+					["isAwardReason"] = false,
 					["color"] = {
 						1, -- [1]
 						0.6, -- [2]
 						0, -- [3]
 						1, -- [4]
 					},
+					["class"] = "DRUID",
+					["iSubClass"] = 2,
+					["groupSize"] = 14,
+					["boss"] = "Vectis",
+					["difficultyID"] = 15,
+					["lootWon"] = "|cffa335ee|Hitem:160623::::::::120:577::5:3:4823:1492:4786:::|h[Hood of Pestilent Ichor]|h|r",
+					["iClass"] = 4,
+					["time"] = "20:46:08",
+					["responseID"] = "PL",
+					["response"] = "Personal Loot - Non tradeable",
+					["date"] = "28/11/18",
 				}, -- [1]
 				{
+					["id"] = "1543514980-1",
+					["mapID"] = 1861,
+					["response"] = "Personal Loot - Non tradeable",
+					["isAwardReason"] = false,
+					["date"] = "29/11/18",
+					["class"] = "DRUID",
+					["iSubClass"] = 2,
+					["groupSize"] = 20,
+					["difficultyID"] = 16,
+					["boss"] = "Taloc",
+					["time"] = "20:09:40",
+					["iClass"] = 4,
+					["lootWon"] = "|cffa335ee|Hitem:160618::::::::120:265::6:3:4800:1507:4786:::|h[Gloves of Descending Madness]|h|r",
+					["responseID"] = "PL",
 					["color"] = {
 						1, -- [1]
 						0.6, -- [2]
 						0, -- [3]
 						1, -- [4]
 					},
-					["mapID"] = 1861,
-					["groupSize"] = 20,
-					["isAwardReason"] = false,
-					["id"] = "1543514980-1",
-					["class"] = "DRUID",
-					["iSubClass"] = 2,
-					["response"] = "Personal Loot - Non tradeable",
-					["boss"] = "Taloc",
-					["difficultyID"] = 16,
-					["lootWon"] = "|cffa335ee|Hitem:160618::::::::120:265::6:3:4800:1507:4786:::|h[Gloves of Descending Madness]|h|r",
-					["iClass"] = 4,
-					["time"] = "20:09:40",
-					["responseID"] = "PL",
 					["instance"] = "Uldir-Mythic",
-					["date"] = "29/11/18",
 				}, -- [2]
 			},
 			["Vapenance-Kazzak"] = {
@@ -38353,27 +38410,27 @@ RCLootCouncilLootDB = {
 			},
 			["Petkolock-Kazzak"] = {
 				{
-					["instance"] = "Uldir-Mythic",
-					["mapID"] = 1861,
-					["groupSize"] = 20,
-					["isAwardReason"] = false,
 					["id"] = "1544727961-12",
-					["class"] = "WARLOCK",
-					["iSubClass"] = 10,
+					["mapID"] = 1861,
 					["response"] = "Personal Loot - Non tradeable",
-					["boss"] = "Fetid Devourer",
-					["difficultyID"] = 16,
-					["lootWon"] = "|cffa335ee|Hitem:160689::::::::120:268::6:3:4800:1507:4786:::|h[Regurgitated Purifier's Flamestaff]|h|r",
-					["iClass"] = 2,
-					["time"] = "21:06:01",
-					["responseID"] = "PL",
-					["date"] = "13/12/18",
+					["isAwardReason"] = false,
 					["color"] = {
 						1, -- [1]
 						0.6, -- [2]
 						0, -- [3]
 						1, -- [4]
 					},
+					["class"] = "WARLOCK",
+					["iSubClass"] = 10,
+					["groupSize"] = 20,
+					["difficultyID"] = 16,
+					["boss"] = "Fetid Devourer",
+					["time"] = "21:06:01",
+					["iClass"] = 2,
+					["lootWon"] = "|cffa335ee|Hitem:160689::::::::120:268::6:3:4800:1507:4786:::|h[Regurgitated Purifier's Flamestaff]|h|r",
+					["responseID"] = "PL",
+					["instance"] = "Uldir-Mythic",
+					["date"] = "13/12/18",
 				}, -- [1]
 				{
 					["mapID"] = 1861,
@@ -39982,7 +40039,7 @@ RCLootCouncilLootDB = {
 					["iClass"] = 4,
 					["itemReplaced1"] = "|cffff8000|Hitem:178926:6170:::::::60:65::63:6:7121:6716:7194:6647:6650:1487::::|h[Celerity Loop]|h|r",
 					["votes"] = 1,
-					["instance"] = "Castle Nathria-Normal",
+					["typeCode"] = "default",
 					["owner"] = "Ceases-Kazzak",
 					["id"] = "1608054329-31",
 					["response"] = "Need BIS",
@@ -39998,7 +40055,7 @@ RCLootCouncilLootDB = {
 					["isAwardReason"] = false,
 					["responseID"] = 1,
 					["itemReplaced2"] = "|cffa335ee|Hitem:183035:6170:::::::60:65::5:5:7188:6652:7193:1485:6646:1:28:752:::|h[Ardent Sunstar Signet]|h|r",
-					["typeCode"] = "default",
+					["instance"] = "Castle Nathria-Normal",
 				}, -- [8]
 				{
 					["mapID"] = 2296,
@@ -40011,7 +40068,7 @@ RCLootCouncilLootDB = {
 					["iClass"] = 4,
 					["itemReplaced1"] = "|cffa335ee|Hitem:178771::::::::60:250::23:4:6807:6652:1498:6646:1:28:749:::|h[Phial of Putrefaction]|h|r",
 					["votes"] = 0,
-					["instance"] = "Castle Nathria-Heroic",
+					["typeCode"] = "default",
 					["owner"] = "Unholydeathh-Kazzak",
 					["id"] = "1608056916-26",
 					["response"] = "Need (BIS stats)",
@@ -40027,7 +40084,7 @@ RCLootCouncilLootDB = {
 					["isAwardReason"] = false,
 					["responseID"] = 1,
 					["itemReplaced2"] = "|cff0070dd|Hitem:173087::::::::60:250::13:::::|h[Darkmoon Deck: Voracity]|h|r",
-					["typeCode"] = "default",
+					["instance"] = "Castle Nathria-Heroic",
 				}, -- [9]
 				{
 					["mapID"] = 2296,
@@ -40039,8 +40096,8 @@ RCLootCouncilLootDB = {
 					["time"] = "19:21:13",
 					["iClass"] = 4,
 					["itemReplaced1"] = "|cffa335ee|Hitem:178771::::::::60:250::23:4:6807:6652:1498:6646:1:28:749:::|h[Phial of Putrefaction]|h|r",
-					["typeCode"] = "default",
 					["instance"] = "Castle Nathria-Heroic",
+					["typeCode"] = "default",
 					["owner"] = "Unholydeathh-Kazzak",
 					["id"] = "1608139273-1",
 					["response"] = "Need (Not BiS stats)",
@@ -40539,8 +40596,8 @@ RCLootCouncilLootDB = {
 					["time"] = "20:44:33",
 					["iClass"] = 4,
 					["itemReplaced1"] = "|cffa335ee|Hitem:178771::::::::60:65::16:5:7214:6652:1501:5868:6646:1:28:1279:::|h[Phial of Putrefaction]|h|r",
-					["typeCode"] = "default",
 					["instance"] = "Castle Nathria-Mythic",
+					["typeCode"] = "default",
 					["owner"] = "Misêry-Kazzak",
 					["id"] = "1610304273-1",
 					["response"] = "Need BIS",
@@ -40672,8 +40729,8 @@ RCLootCouncilLootDB = {
 					["time"] = "19:10:15",
 					["iClass"] = 4,
 					["itemReplaced1"] = "|cffa335ee|Hitem:184026::::::::60:65::6:4:7187:6652:1498:6646:1:28:753:::|h[Hateful Chain]|h|r",
-					["instance"] = "The Shadowlands-",
 					["typeCode"] = "default",
+					["instance"] = "The Shadowlands-",
 					["owner"] = "Misêry-Kazzak",
 					["id"] = "1614791415-2",
 					["response"] = "Need BIS",
@@ -40749,50 +40806,50 @@ RCLootCouncilLootDB = {
 			},
 			["Digbickdh-Kazzak"] = {
 				{
-					["date"] = "01/11/18",
-					["mapID"] = 1861,
-					["response"] = "Personal Loot - Non tradeable",
-					["isAwardReason"] = false,
 					["id"] = "1541099497-14",
+					["mapID"] = 1861,
+					["groupSize"] = 20,
+					["isAwardReason"] = false,
+					["instance"] = "Uldir-Mythic",
 					["class"] = "DEMONHUNTER",
 					["iSubClass"] = 1,
-					["groupSize"] = 20,
-					["boss"] = "Vectis",
-					["difficultyID"] = 16,
-					["lootWon"] = "|cffa335ee|Hitem:160644::::::::120:268::6:3:4800:1507:4786:::|h[Plasma-Spattered Greatcloak]|h|r",
-					["iClass"] = 4,
-					["time"] = "21:11:37",
-					["responseID"] = "PL",
-					["color"] = {
-						1, -- [1]
-						0.6, -- [2]
-						0, -- [3]
-						1, -- [4]
-					},
-					["instance"] = "Uldir-Mythic",
-				}, -- [1]
-				{
-					["date"] = "29/11/18",
-					["mapID"] = 1861,
-					["id"] = "1543524691-2",
-					["isAwardReason"] = false,
-					["instance"] = "Uldir-Mythic",
-					["class"] = "DEMONHUNTER",
-					["iSubClass"] = 2,
 					["response"] = "Personal Loot - Non tradeable",
 					["difficultyID"] = 16,
-					["boss"] = "Zul",
-					["time"] = "22:51:31",
+					["boss"] = "Vectis",
+					["time"] = "21:11:37",
 					["iClass"] = 4,
-					["lootWon"] = "|cffa335ee|Hitem:160620::::::::120:268::6:3:4824:1507:4786:::|h[Usurper's Bloodcaked Spaulders]|h|r",
+					["lootWon"] = "|cffa335ee|Hitem:160644::::::::120:268::6:3:4800:1507:4786:::|h[Plasma-Spattered Greatcloak]|h|r",
 					["responseID"] = "PL",
-					["groupSize"] = 20,
+					["date"] = "01/11/18",
 					["color"] = {
 						1, -- [1]
 						0.6, -- [2]
 						0, -- [3]
 						1, -- [4]
 					},
+				}, -- [1]
+				{
+					["id"] = "1543524691-2",
+					["mapID"] = 1861,
+					["instance"] = "Uldir-Mythic",
+					["isAwardReason"] = false,
+					["color"] = {
+						1, -- [1]
+						0.6, -- [2]
+						0, -- [3]
+						1, -- [4]
+					},
+					["class"] = "DEMONHUNTER",
+					["iSubClass"] = 2,
+					["groupSize"] = 20,
+					["boss"] = "Zul",
+					["difficultyID"] = 16,
+					["lootWon"] = "|cffa335ee|Hitem:160620::::::::120:268::6:3:4824:1507:4786:::|h[Usurper's Bloodcaked Spaulders]|h|r",
+					["iClass"] = 4,
+					["time"] = "22:51:31",
+					["responseID"] = "PL",
+					["response"] = "Personal Loot - Non tradeable",
+					["date"] = "29/11/18",
 				}, -- [2]
 				{
 					["mapID"] = 1861,
@@ -40873,121 +40930,121 @@ RCLootCouncilLootDB = {
 			},
 			["Selestra-Kazzak"] = {
 				{
-					["date"] = "14/11/18",
-					["mapID"] = 1861,
 					["id"] = "1542221409-0",
-					["isAwardReason"] = false,
+					["mapID"] = 1861,
 					["instance"] = "Uldir-Heroic",
-					["class"] = "PRIEST",
-					["iSubClass"] = 0,
-					["response"] = "Personal Loot - Non tradeable",
-					["difficultyID"] = 15,
-					["boss"] = "Vectis",
-					["time"] = "20:50:09",
-					["iClass"] = 4,
-					["lootWon"] = "|cffa335ee|Hitem:160649::::::::120:265::5:3:4799:1492:4786:::|h[Inoculating Extract]|h|r",
-					["responseID"] = "PL",
-					["groupSize"] = 15,
+					["isAwardReason"] = false,
 					["color"] = {
 						1, -- [1]
 						0.6, -- [2]
 						0, -- [3]
 						1, -- [4]
 					},
+					["class"] = "PRIEST",
+					["iSubClass"] = 0,
+					["groupSize"] = 15,
+					["boss"] = "Vectis",
+					["difficultyID"] = 15,
+					["lootWon"] = "|cffa335ee|Hitem:160649::::::::120:265::5:3:4799:1492:4786:::|h[Inoculating Extract]|h|r",
+					["iClass"] = 4,
+					["time"] = "20:50:09",
+					["responseID"] = "PL",
+					["response"] = "Personal Loot - Non tradeable",
+					["date"] = "14/11/18",
 				}, -- [1]
 			},
 			["Brunitz-Kazzak"] = {
 				{
+					["id"] = "1545150096-0",
+					["mapID"] = 1841,
+					["groupSize"] = 5,
+					["isAwardReason"] = false,
+					["date"] = "18/12/18",
+					["class"] = "MONK",
+					["iSubClass"] = 0,
+					["response"] = "Personal Loot - Non tradeable",
+					["difficultyID"] = 8,
+					["boss"] = "Unbound Abomination",
+					["time"] = "18:21:36",
+					["iClass"] = 4,
+					["lootWon"] = "|cffa335ee|Hitem:159463::::::::120:268::16:3:5010:1557:4784:::|h[Loop of Pulsing Veins]|h|r",
+					["responseID"] = "PL",
 					["color"] = {
 						1, -- [1]
 						0.6, -- [2]
 						0, -- [3]
 						1, -- [4]
 					},
-					["mapID"] = 1841,
-					["response"] = "Personal Loot - Non tradeable",
-					["isAwardReason"] = false,
-					["id"] = "1545150096-0",
-					["class"] = "MONK",
-					["iSubClass"] = 0,
-					["groupSize"] = 5,
-					["boss"] = "Unbound Abomination",
-					["difficultyID"] = 8,
-					["lootWon"] = "|cffa335ee|Hitem:159463::::::::120:268::16:3:5010:1557:4784:::|h[Loop of Pulsing Veins]|h|r",
-					["iClass"] = 4,
-					["time"] = "18:21:36",
-					["responseID"] = "PL",
 					["instance"] = "The Underrot-Mythic Keystone",
-					["date"] = "18/12/18",
 				}, -- [1]
 				{
-					["date"] = "18/12/18",
-					["mapID"] = 1763,
 					["id"] = "1545159431-0",
-					["isAwardReason"] = false,
+					["mapID"] = 1763,
 					["instance"] = "Atal'Dazar-Mythic Keystone",
+					["isAwardReason"] = false,
+					["color"] = {
+						1, -- [1]
+						0.6, -- [2]
+						0, -- [3]
+						1, -- [4]
+					},
 					["class"] = "MONK",
 					["iSubClass"] = 0,
-					["groupSize"] = 5,
-					["difficultyID"] = 8,
-					["boss"] = "Yazma",
-					["time"] = "20:57:11",
-					["iClass"] = 4,
-					["lootWon"] = "|cffa335ee|Hitem:158319::::::::120:262::16:3:5010:1542:4786:::|h[My'das Talisman]|h|r",
-					["responseID"] = "PL",
 					["response"] = "Personal Loot - Non tradeable",
-					["color"] = {
-						1, -- [1]
-						0.6, -- [2]
-						0, -- [3]
-						1, -- [4]
-					},
+					["boss"] = "Yazma",
+					["difficultyID"] = 8,
+					["lootWon"] = "|cffa335ee|Hitem:158319::::::::120:262::16:3:5010:1542:4786:::|h[My'das Talisman]|h|r",
+					["iClass"] = 4,
+					["time"] = "20:57:11",
+					["responseID"] = "PL",
+					["groupSize"] = 5,
+					["date"] = "18/12/18",
 				}, -- [2]
 				{
-					["date"] = "27/12/18",
-					["mapID"] = 1841,
-					["groupSize"] = 5,
-					["isAwardReason"] = false,
 					["id"] = "1545866542-0",
+					["mapID"] = 1841,
+					["response"] = "Personal Loot - Non tradeable",
+					["isAwardReason"] = false,
+					["instance"] = "The Underrot-Mythic Keystone",
 					["class"] = "MONK",
 					["iSubClass"] = 6,
-					["response"] = "Personal Loot - Non tradeable",
-					["boss"] = "Unbound Abomination",
+					["groupSize"] = 5,
 					["difficultyID"] = 8,
-					["lootWon"] = "|cffa335ee|Hitem:159655::::::::120:250::16:3:5010:1542:4786:::|h[Vile Exsanguinator]|h|r",
-					["iClass"] = 2,
+					["boss"] = "Unbound Abomination",
 					["time"] = "01:22:22",
+					["iClass"] = 2,
+					["lootWon"] = "|cffa335ee|Hitem:159655::::::::120:250::16:3:5010:1542:4786:::|h[Vile Exsanguinator]|h|r",
 					["responseID"] = "PL",
+					["date"] = "27/12/18",
 					["color"] = {
 						1, -- [1]
 						0.6, -- [2]
 						0, -- [3]
 						1, -- [4]
 					},
-					["instance"] = "The Underrot-Mythic Keystone",
 				}, -- [3]
 				{
+					["id"] = "1548544767-2",
+					["mapID"] = 2070,
+					["date"] = "27/01/19",
+					["isAwardReason"] = false,
+					["instance"] = "Battle of Dazar'alor-Heroic",
+					["class"] = "MONK",
+					["iSubClass"] = 4,
+					["groupSize"] = 20,
+					["boss"] = "Opulence",
+					["difficultyID"] = 15,
+					["lootWon"] = "|cffa335ee|Hitem:165592::::::::120:250::5:4:4799:41:1522:4786:::|h[Goblet of Glittering Favor]|h|r",
+					["iClass"] = 2,
+					["time"] = "01:19:27",
+					["responseID"] = "PL",
+					["response"] = "Personal Loot - Non tradeable",
 					["color"] = {
 						1, -- [1]
 						0.6, -- [2]
 						0, -- [3]
 						1, -- [4]
 					},
-					["mapID"] = 2070,
-					["id"] = "1548544767-2",
-					["isAwardReason"] = false,
-					["date"] = "27/01/19",
-					["class"] = "MONK",
-					["iSubClass"] = 4,
-					["response"] = "Personal Loot - Non tradeable",
-					["difficultyID"] = 15,
-					["boss"] = "Opulence",
-					["time"] = "01:19:27",
-					["iClass"] = 2,
-					["lootWon"] = "|cffa335ee|Hitem:165592::::::::120:250::5:4:4799:41:1522:4786:::|h[Goblet of Glittering Favor]|h|r",
-					["responseID"] = "PL",
-					["groupSize"] = 20,
-					["instance"] = "Battle of Dazar'alor-Heroic",
 				}, -- [4]
 			},
 			["Chanél-TwistingNether"] = {
@@ -41046,119 +41103,119 @@ RCLootCouncilLootDB = {
 			},
 			["Ballzaro-Kazzak"] = {
 				{
-					["instance"] = "Uldir-Mythic",
-					["mapID"] = 1861,
-					["groupSize"] = 20,
-					["isAwardReason"] = false,
 					["id"] = "1541097791-9",
-					["class"] = "HUNTER",
-					["iSubClass"] = 0,
+					["mapID"] = 1861,
 					["response"] = "Personal Loot - Non tradeable",
-					["boss"] = "Zek'voz",
-					["difficultyID"] = 16,
-					["lootWon"] = "|cffa335ee|Hitem:160647::::::::120:268::6:3:4800:1512:4783:::|h[Ring of the Infinite Void]|h|r",
-					["iClass"] = 4,
-					["time"] = "20:43:11",
-					["responseID"] = "PL",
-					["date"] = "01/11/18",
+					["isAwardReason"] = false,
 					["color"] = {
 						1, -- [1]
 						0.6, -- [2]
 						0, -- [3]
 						1, -- [4]
 					},
+					["class"] = "HUNTER",
+					["iSubClass"] = 0,
+					["groupSize"] = 20,
+					["difficultyID"] = 16,
+					["boss"] = "Zek'voz",
+					["time"] = "20:43:11",
+					["iClass"] = 4,
+					["lootWon"] = "|cffa335ee|Hitem:160647::::::::120:268::6:3:4800:1512:4783:::|h[Ring of the Infinite Void]|h|r",
+					["responseID"] = "PL",
+					["instance"] = "Uldir-Mythic",
+					["date"] = "01/11/18",
 				}, -- [1]
 				{
-					["instance"] = "Battle of Dazar'alor-Heroic",
-					["mapID"] = 2070,
-					["groupSize"] = 25,
-					["isAwardReason"] = false,
 					["id"] = "1548266444-5",
-					["class"] = "HUNTER",
-					["iSubClass"] = 3,
+					["mapID"] = 2070,
 					["response"] = "Personal Loot - Non tradeable",
-					["boss"] = "Champion of the Light",
-					["difficultyID"] = 15,
-					["lootWon"] = "|cffa335ee|Hitem:165921::::::::120:268::5:4:4823:1522:4786:5418:::|h[Pauldrons of Ancestral Vengeance]|h|r",
-					["iClass"] = 4,
-					["time"] = "20:00:44",
-					["responseID"] = "PL",
-					["date"] = "23/01/19",
+					["isAwardReason"] = false,
 					["color"] = {
 						1, -- [1]
 						0.6, -- [2]
 						0, -- [3]
 						1, -- [4]
 					},
+					["class"] = "HUNTER",
+					["iSubClass"] = 3,
+					["groupSize"] = 25,
+					["difficultyID"] = 15,
+					["boss"] = "Champion of the Light",
+					["time"] = "20:00:44",
+					["iClass"] = 4,
+					["lootWon"] = "|cffa335ee|Hitem:165921::::::::120:268::5:4:4823:1522:4786:5418:::|h[Pauldrons of Ancestral Vengeance]|h|r",
+					["responseID"] = "PL",
+					["instance"] = "Battle of Dazar'alor-Heroic",
+					["date"] = "23/01/19",
 				}, -- [2]
 				{
-					["instance"] = "Battle of Dazar'alor-Heroic",
-					["mapID"] = 2070,
-					["groupSize"] = 26,
-					["isAwardReason"] = false,
 					["id"] = "1548268804-15",
+					["mapID"] = 2070,
+					["response"] = "Personal Loot - Non tradeable",
+					["isAwardReason"] = false,
+					["color"] = {
+						1, -- [1]
+						0.6, -- [2]
+						0, -- [3]
+						1, -- [4]
+					},
 					["class"] = "HUNTER",
 					["iSubClass"] = 0,
-					["response"] = "Personal Loot - Non tradeable",
-					["boss"] = "Jadefire Masters",
+					["groupSize"] = 26,
 					["difficultyID"] = 15,
-					["lootWon"] = "|cffa335ee|Hitem:165568::::::::120:268::5:4:4799:42:1522:4786:::|h[Invocation of Yu'lon]|h|r",
-					["iClass"] = 4,
+					["boss"] = "Jadefire Masters",
 					["time"] = "20:40:04",
+					["iClass"] = 4,
+					["lootWon"] = "|cffa335ee|Hitem:165568::::::::120:268::5:4:4799:42:1522:4786:::|h[Invocation of Yu'lon]|h|r",
 					["responseID"] = "PL",
+					["instance"] = "Battle of Dazar'alor-Heroic",
 					["date"] = "23/01/19",
-					["color"] = {
-						1, -- [1]
-						0.6, -- [2]
-						0, -- [3]
-						1, -- [4]
-					},
 				}, -- [3]
 				{
-					["instance"] = "Battle of Dazar'alor-Heroic",
-					["mapID"] = 2070,
-					["groupSize"] = 26,
-					["isAwardReason"] = false,
 					["id"] = "1548271791-23",
+					["mapID"] = 2070,
+					["response"] = "Personal Loot - Non tradeable",
+					["isAwardReason"] = false,
+					["color"] = {
+						1, -- [1]
+						0.6, -- [2]
+						0, -- [3]
+						1, -- [4]
+					},
 					["class"] = "HUNTER",
 					["iSubClass"] = 3,
-					["response"] = "Personal Loot - Non tradeable",
-					["boss"] = "Opulence",
-					["difficultyID"] = 15,
-					["lootWon"] = "|cffa335ee|Hitem:165538::::::::120:268::5:3:4799:1522:4786:::|h[Goldenscale Girdle]|h|r",
-					["iClass"] = 4,
-					["time"] = "21:29:51",
-					["responseID"] = "PL",
-					["date"] = "23/01/19",
-					["color"] = {
-						1, -- [1]
-						0.6, -- [2]
-						0, -- [3]
-						1, -- [4]
-					},
-				}, -- [4]
-				{
-					["color"] = {
-						1, -- [1]
-						0.6, -- [2]
-						0, -- [3]
-						1, -- [4]
-					},
-					["mapID"] = 2070,
-					["id"] = "1548356552-10",
-					["isAwardReason"] = false,
-					["date"] = "24/01/19",
-					["class"] = "HUNTER",
-					["iSubClass"] = 1,
 					["groupSize"] = 26,
 					["difficultyID"] = 15,
-					["boss"] = "Mekkatorque",
-					["time"] = "21:02:32",
+					["boss"] = "Opulence",
+					["time"] = "21:29:51",
 					["iClass"] = 4,
-					["lootWon"] = "|cffa335ee|Hitem:165924::::::::120:268::5:3:4799:1522:4786:::|h[High Tinker's Cape]|h|r",
+					["lootWon"] = "|cffa335ee|Hitem:165538::::::::120:268::5:3:4799:1522:4786:::|h[Goldenscale Girdle]|h|r",
 					["responseID"] = "PL",
-					["response"] = "Personal Loot - Non tradeable",
 					["instance"] = "Battle of Dazar'alor-Heroic",
+					["date"] = "23/01/19",
+				}, -- [4]
+				{
+					["id"] = "1548356552-10",
+					["mapID"] = 2070,
+					["date"] = "24/01/19",
+					["isAwardReason"] = false,
+					["instance"] = "Battle of Dazar'alor-Heroic",
+					["class"] = "HUNTER",
+					["iSubClass"] = 1,
+					["response"] = "Personal Loot - Non tradeable",
+					["boss"] = "Mekkatorque",
+					["difficultyID"] = 15,
+					["lootWon"] = "|cffa335ee|Hitem:165924::::::::120:268::5:3:4799:1522:4786:::|h[High Tinker's Cape]|h|r",
+					["iClass"] = 4,
+					["time"] = "21:02:32",
+					["responseID"] = "PL",
+					["groupSize"] = 26,
+					["color"] = {
+						1, -- [1]
+						0.6, -- [2]
+						0, -- [3]
+						1, -- [4]
+					},
 				}, -- [5]
 				{
 					["mapID"] = 2070,
@@ -41567,96 +41624,96 @@ RCLootCouncilLootDB = {
 			},
 			["Rentaki-Kazzak"] = {
 				{
-					["date"] = "02/11/18",
-					["mapID"] = 1861,
-					["response"] = "Personal Loot - Non tradeable",
-					["isAwardReason"] = false,
 					["id"] = "1541110647-22",
+					["mapID"] = 1861,
+					["groupSize"] = 20,
+					["isAwardReason"] = false,
+					["instance"] = "Uldir-Mythic",
 					["class"] = "SHAMAN",
 					["iSubClass"] = 3,
-					["groupSize"] = 20,
-					["boss"] = "Zul",
+					["response"] = "Personal Loot - Non tradeable",
 					["difficultyID"] = 16,
-					["lootWon"] = "|cffa335ee|Hitem:160630::::::::120:268::6:3:4824:1507:4786:::|h[Crest of the Undying Visionary]|h|r",
-					["iClass"] = 4,
+					["boss"] = "Zul",
 					["time"] = "00:17:27",
+					["iClass"] = 4,
+					["lootWon"] = "|cffa335ee|Hitem:160630::::::::120:268::6:3:4824:1507:4786:::|h[Crest of the Undying Visionary]|h|r",
 					["responseID"] = "PL",
+					["date"] = "02/11/18",
 					["color"] = {
 						1, -- [1]
 						0.6, -- [2]
 						0, -- [3]
 						1, -- [4]
 					},
-					["instance"] = "Uldir-Mythic",
 				}, -- [1]
 				{
+					["id"] = "1541385183-0",
+					["mapID"] = 1822,
+					["date"] = "05/11/18",
+					["isAwardReason"] = false,
+					["instance"] = "Siege of Boralus-Mythic Keystone",
+					["class"] = "SHAMAN",
+					["iSubClass"] = 0,
+					["response"] = "Personal Loot - Non tradeable",
+					["boss"] = "Viq'Goth",
+					["difficultyID"] = 8,
+					["lootWon"] = "|cffa335ee|Hitem:159622::::::::120:263::16:4:5010:4802:1557:4784:::|h[Hadal's Nautilus]|h|r",
+					["iClass"] = 4,
+					["time"] = "04:33:03",
+					["responseID"] = "PL",
+					["groupSize"] = 5,
 					["color"] = {
 						1, -- [1]
 						0.6, -- [2]
 						0, -- [3]
 						1, -- [4]
 					},
-					["mapID"] = 1822,
-					["id"] = "1541385183-0",
-					["isAwardReason"] = false,
-					["date"] = "05/11/18",
-					["class"] = "SHAMAN",
-					["iSubClass"] = 0,
-					["groupSize"] = 5,
-					["difficultyID"] = 8,
-					["boss"] = "Viq'Goth",
-					["time"] = "04:33:03",
-					["iClass"] = 4,
-					["lootWon"] = "|cffa335ee|Hitem:159622::::::::120:263::16:4:5010:4802:1557:4784:::|h[Hadal's Nautilus]|h|r",
-					["responseID"] = "PL",
-					["response"] = "Personal Loot - Non tradeable",
-					["instance"] = "Siege of Boralus-Mythic Keystone",
 				}, -- [2]
 				{
-					["color"] = {
-						1, -- [1]
-						0.6, -- [2]
-						0, -- [3]
-						1, -- [4]
-					},
-					["mapID"] = 1864,
-					["response"] = "Personal Loot - Non tradeable",
-					["isAwardReason"] = false,
 					["id"] = "1542239996-3",
+					["mapID"] = 1864,
+					["groupSize"] = 5,
+					["isAwardReason"] = false,
+					["date"] = "15/11/18",
 					["class"] = "SHAMAN",
 					["iSubClass"] = 0,
-					["groupSize"] = 5,
-					["boss"] = "Vol'zith the Whisperer",
+					["response"] = "Personal Loot - Non tradeable",
 					["difficultyID"] = 8,
-					["lootWon"] = "|cffa335ee|Hitem:159620::::::::120:250::16:3:5010:1552:4783:::|h[Conch of Dark Whispers]|h|r",
-					["iClass"] = 4,
+					["boss"] = "Vol'zith the Whisperer",
 					["time"] = "01:59:56",
+					["iClass"] = 4,
+					["lootWon"] = "|cffa335ee|Hitem:159620::::::::120:250::16:3:5010:1552:4783:::|h[Conch of Dark Whispers]|h|r",
 					["responseID"] = "PL",
-					["instance"] = "Shrine of the Storm-Mythic Keystone",
-					["date"] = "15/11/18",
-				}, -- [3]
-				{
 					["color"] = {
 						1, -- [1]
 						0.6, -- [2]
 						0, -- [3]
 						1, -- [4]
 					},
-					["mapID"] = 1861,
-					["groupSize"] = 20,
-					["isAwardReason"] = false,
+					["instance"] = "Shrine of the Storm-Mythic Keystone",
+				}, -- [3]
+				{
 					["id"] = "1543514973-0",
+					["mapID"] = 1861,
+					["response"] = "Personal Loot - Non tradeable",
+					["isAwardReason"] = false,
+					["date"] = "29/11/18",
 					["class"] = "SHAMAN",
 					["iSubClass"] = 3,
-					["response"] = "Personal Loot - Non tradeable",
-					["boss"] = "Taloc",
+					["groupSize"] = 20,
 					["difficultyID"] = 16,
-					["lootWon"] = "|cffa335ee|Hitem:160631::::::::120:265::6:3:4800:1507:4786:::|h[Legguards of Coalescing Plasma]|h|r",
-					["iClass"] = 4,
+					["boss"] = "Taloc",
 					["time"] = "20:09:33",
+					["iClass"] = 4,
+					["lootWon"] = "|cffa335ee|Hitem:160631::::::::120:265::6:3:4800:1507:4786:::|h[Legguards of Coalescing Plasma]|h|r",
 					["responseID"] = "PL",
+					["color"] = {
+						1, -- [1]
+						0.6, -- [2]
+						0, -- [3]
+						1, -- [4]
+					},
 					["instance"] = "Uldir-Mythic",
-					["date"] = "29/11/18",
 				}, -- [4]
 				{
 					["mapID"] = 1861,
@@ -41762,27 +41819,27 @@ RCLootCouncilLootDB = {
 					["id"] = "1544725854-7",
 				}, -- [8]
 				{
-					["instance"] = "Karazhan-10 Player",
-					["mapID"] = 532,
 					["id"] = "1544896953-1",
-					["isAwardReason"] = false,
+					["mapID"] = 532,
 					["color"] = {
 						1, -- [1]
 						0.6, -- [2]
 						0, -- [3]
 						1, -- [4]
 					},
+					["isAwardReason"] = false,
+					["date"] = "15/12/18",
 					["class"] = "SHAMAN",
 					["iSubClass"] = 2,
-					["response"] = "Personal Loot - Non tradeable",
-					["difficultyID"] = 3,
-					["boss"] = "Chess Event",
-					["time"] = "20:02:33",
-					["iClass"] = 4,
-					["lootWon"] = "|cffa335ee|Hitem:28750::::::::120:268::::::|h[Girdle of Treachery]|h|r",
-					["responseID"] = "PL",
 					["groupSize"] = 10,
-					["date"] = "15/12/18",
+					["boss"] = "Chess Event",
+					["difficultyID"] = 3,
+					["lootWon"] = "|cffa335ee|Hitem:28750::::::::120:268::::::|h[Girdle of Treachery]|h|r",
+					["iClass"] = 4,
+					["time"] = "20:02:33",
+					["responseID"] = "PL",
+					["response"] = "Personal Loot - Non tradeable",
+					["instance"] = "Karazhan-10 Player",
 				}, -- [9]
 				{
 					["mapID"] = 1861,
@@ -41910,50 +41967,50 @@ RCLootCouncilLootDB = {
 					["id"] = "1547748842-5",
 				}, -- [14]
 				{
-					["instance"] = "Battle of Dazar'alor-Heroic",
-					["mapID"] = 2070,
 					["id"] = "1548278612-31",
-					["isAwardReason"] = false,
+					["mapID"] = 2070,
 					["color"] = {
 						1, -- [1]
 						0.6, -- [2]
 						0, -- [3]
 						1, -- [4]
 					},
+					["isAwardReason"] = false,
+					["date"] = "23/01/19",
 					["class"] = "SHAMAN",
 					["iSubClass"] = 3,
-					["groupSize"] = 26,
-					["difficultyID"] = 15,
-					["boss"] = "King Rastakhan",
-					["time"] = "23:23:32",
-					["iClass"] = 4,
-					["lootWon"] = "|cffa335ee|Hitem:165536::::::::120:268::5:4:4799:1808:1522:4786:::|h[Deathhunter's Legguards]|h|r",
-					["responseID"] = "PL",
 					["response"] = "Personal Loot - Non tradeable",
-					["date"] = "23/01/19",
+					["boss"] = "King Rastakhan",
+					["difficultyID"] = 15,
+					["lootWon"] = "|cffa335ee|Hitem:165536::::::::120:268::5:4:4799:1808:1522:4786:::|h[Deathhunter's Legguards]|h|r",
+					["iClass"] = 4,
+					["time"] = "23:23:32",
+					["responseID"] = "PL",
+					["groupSize"] = 26,
+					["instance"] = "Battle of Dazar'alor-Heroic",
 				}, -- [15]
 				{
-					["date"] = "27/01/19",
-					["mapID"] = 1763,
 					["id"] = "1548603740-0",
-					["isAwardReason"] = false,
+					["mapID"] = 1763,
 					["instance"] = "Atal'Dazar-Mythic Keystone",
-					["class"] = "SHAMAN",
-					["iSubClass"] = 3,
-					["response"] = "Personal Loot - Non tradeable",
-					["difficultyID"] = 8,
-					["boss"] = "Yazma",
-					["time"] = "17:42:20",
-					["iClass"] = 4,
-					["lootWon"] = "|cffa335ee|Hitem:158309::::::::120:262::16:3:5007:1567:4783:::|h[Wristlinks of Alchemical Transfusion]|h|r",
-					["responseID"] = "PL",
-					["groupSize"] = 5,
+					["isAwardReason"] = false,
 					["color"] = {
 						1, -- [1]
 						0.6, -- [2]
 						0, -- [3]
 						1, -- [4]
 					},
+					["class"] = "SHAMAN",
+					["iSubClass"] = 3,
+					["groupSize"] = 5,
+					["boss"] = "Yazma",
+					["difficultyID"] = 8,
+					["lootWon"] = "|cffa335ee|Hitem:158309::::::::120:262::16:3:5007:1567:4783:::|h[Wristlinks of Alchemical Transfusion]|h|r",
+					["iClass"] = 4,
+					["time"] = "17:42:20",
+					["responseID"] = "PL",
+					["response"] = "Personal Loot - Non tradeable",
+					["date"] = "27/01/19",
 				}, -- [16]
 				{
 					["mapID"] = 2070,
@@ -42009,96 +42066,96 @@ RCLootCouncilLootDB = {
 					["isAwardReason"] = false,
 				}, -- [18]
 				{
+					["id"] = "1548830869-0",
+					["mapID"] = 1763,
+					["date"] = "30/01/19",
+					["isAwardReason"] = false,
+					["instance"] = "Atal'Dazar-Mythic Keystone",
+					["class"] = "SHAMAN",
+					["iSubClass"] = 3,
+					["response"] = "Personal Loot - Non tradeable",
+					["boss"] = "Yazma",
+					["difficultyID"] = 8,
+					["lootWon"] = "|cffa335ee|Hitem:158347::::::::120:262::16:3:5010:1572:4786:::|h[Cincture of Glittering Gold]|h|r",
+					["iClass"] = 4,
+					["time"] = "08:47:49",
+					["responseID"] = "PL",
+					["groupSize"] = 5,
 					["color"] = {
 						1, -- [1]
 						0.6, -- [2]
 						0, -- [3]
 						1, -- [4]
 					},
-					["mapID"] = 1763,
-					["id"] = "1548830869-0",
-					["isAwardReason"] = false,
-					["date"] = "30/01/19",
-					["class"] = "SHAMAN",
-					["iSubClass"] = 3,
-					["groupSize"] = 5,
-					["difficultyID"] = 8,
-					["boss"] = "Yazma",
-					["time"] = "08:47:49",
-					["iClass"] = 4,
-					["lootWon"] = "|cffa335ee|Hitem:158347::::::::120:262::16:3:5010:1572:4786:::|h[Cincture of Glittering Gold]|h|r",
-					["responseID"] = "PL",
-					["response"] = "Personal Loot - Non tradeable",
-					["instance"] = "Atal'Dazar-Mythic Keystone",
 				}, -- [19]
 				{
-					["date"] = "30/01/19",
-					["mapID"] = 1763,
-					["groupSize"] = 5,
-					["isAwardReason"] = false,
 					["id"] = "1548844549-7",
+					["mapID"] = 1763,
+					["response"] = "Personal Loot - Non tradeable",
+					["isAwardReason"] = false,
+					["instance"] = "Atal'Dazar-Mythic Keystone",
 					["class"] = "SHAMAN",
 					["iSubClass"] = 3,
-					["response"] = "Personal Loot - Non tradeable",
-					["boss"] = "Yazma",
+					["groupSize"] = 5,
 					["difficultyID"] = 8,
-					["lootWon"] = "|cffa335ee|Hitem:158347::::::::120:262::16:3:5010:1577:4783:::|h[Cincture of Glittering Gold]|h|r",
-					["iClass"] = 4,
+					["boss"] = "Yazma",
 					["time"] = "12:35:49",
+					["iClass"] = 4,
+					["lootWon"] = "|cffa335ee|Hitem:158347::::::::120:262::16:3:5010:1577:4783:::|h[Cincture of Glittering Gold]|h|r",
 					["responseID"] = "PL",
+					["date"] = "30/01/19",
 					["color"] = {
 						1, -- [1]
 						0.6, -- [2]
 						0, -- [3]
 						1, -- [4]
 					},
-					["instance"] = "Atal'Dazar-Mythic Keystone",
 				}, -- [20]
 				{
-					["date"] = "30/01/19",
-					["mapID"] = 1877,
-					["groupSize"] = 5,
-					["isAwardReason"] = false,
 					["id"] = "1548858251-13",
+					["mapID"] = 1877,
+					["response"] = "Personal Loot - Non tradeable",
+					["isAwardReason"] = false,
+					["instance"] = "Temple of Sethraliss-Mythic Keystone",
 					["class"] = "SHAMAN",
 					["iSubClass"] = 0,
-					["response"] = "Personal Loot - Non tradeable",
-					["boss"] = "Avatar of Sethraliss",
+					["groupSize"] = 5,
 					["difficultyID"] = 8,
-					["lootWon"] = "|cffa335ee|Hitem:162544::::::::120:262::16:3:5010:1597:4784:::|h[Jade Ophidian Band]|h|r",
-					["iClass"] = 4,
+					["boss"] = "Avatar of Sethraliss",
 					["time"] = "16:24:11",
+					["iClass"] = 4,
+					["lootWon"] = "|cffa335ee|Hitem:162544::::::::120:262::16:3:5010:1597:4784:::|h[Jade Ophidian Band]|h|r",
 					["responseID"] = "PL",
+					["date"] = "30/01/19",
 					["color"] = {
 						1, -- [1]
 						0.6, -- [2]
 						0, -- [3]
 						1, -- [4]
 					},
-					["instance"] = "Temple of Sethraliss-Mythic Keystone",
 				}, -- [21]
 				{
+					["id"] = "1548864475-2",
+					["mapID"] = 1771,
+					["groupSize"] = 5,
+					["isAwardReason"] = false,
+					["date"] = "30/01/19",
+					["class"] = "SHAMAN",
+					["iSubClass"] = 6,
+					["response"] = "Personal Loot - Non tradeable",
+					["difficultyID"] = 8,
+					["boss"] = "Overseer Korgus",
+					["time"] = "18:07:55",
+					["iClass"] = 4,
+					["lootWon"] = "|cffa335ee|Hitem:159666::::::::120:262::16:3:5010:1582:4783:::|h[Improvised Riot Shield]|h|r",
+					["responseID"] = "PL",
 					["color"] = {
 						1, -- [1]
 						0.6, -- [2]
 						0, -- [3]
 						1, -- [4]
 					},
-					["mapID"] = 1771,
-					["response"] = "Personal Loot - Non tradeable",
-					["isAwardReason"] = false,
-					["id"] = "1548864475-2",
-					["class"] = "SHAMAN",
-					["iSubClass"] = 6,
-					["groupSize"] = 5,
-					["boss"] = "Overseer Korgus",
-					["difficultyID"] = 8,
-					["lootWon"] = "|cffa335ee|Hitem:159666::::::::120:262::16:3:5010:1582:4783:::|h[Improvised Riot Shield]|h|r",
-					["iClass"] = 4,
-					["time"] = "18:07:55",
-					["responseID"] = "PL",
 					["instance"] = "Tol Dagor-Mythic Keystone",
-					["date"] = "30/01/19",
 				}, -- [22]
 				{
 					["mapID"] = 2070,
@@ -42792,8 +42849,8 @@ RCLootCouncilLootDB = {
 					["time"] = "20:07:47",
 					["iClass"] = 4,
 					["itemReplaced1"] = "|cffa335ee|Hitem:183035:6170:::::::60:65::5:5:7188:6652:7194:1485:6646:1:28:752:::|h[Ardent Sunstar Signet]|h|r",
-					["typeCode"] = "default",
 					["instance"] = "Castle Nathria-Heroic",
+					["typeCode"] = "default",
 					["owner"] = "Misêry-Kazzak",
 					["id"] = "1607882867-124",
 					["response"] = "Need BIS",
@@ -43066,7 +43123,7 @@ RCLootCouncilLootDB = {
 					["iClass"] = 4,
 					["itemReplaced1"] = "|cffa335ee|Hitem:179350::::::::60:250::16:5:7211:6652:1501:5865:6646:1:28:1279:::|h[Inscrutable Quantum Device]|h|r",
 					["votes"] = 1,
-					["instance"] = "Castle Nathria-Mythic",
+					["typeCode"] = "default",
 					["owner"] = "Unholydeathh-Kazzak",
 					["id"] = "1609350382-44",
 					["response"] = "Need (BIS stats)",
@@ -43082,7 +43139,7 @@ RCLootCouncilLootDB = {
 					["isAwardReason"] = false,
 					["responseID"] = 1,
 					["itemReplaced2"] = "|cffa335ee|Hitem:178708::::::::60:250::16:6:7212:6652:1501:5865:6646:6915:1:28:1279:::|h[Unbound Changeling]|h|r",
-					["typeCode"] = "default",
+					["instance"] = "Castle Nathria-Mythic",
 				}, -- [61]
 				{
 					["mapID"] = 2296,
@@ -43305,8 +43362,8 @@ RCLootCouncilLootDB = {
 					["time"] = "19:59:01",
 					["iClass"] = 4,
 					["itemReplaced1"] = "|cffa335ee|Hitem:184021::::::::60:65::6:4:7187:6652:1498:6646:1:28:753:::|h[Glyph of Assimilation]|h|r",
-					["typeCode"] = "default",
 					["instance"] = "Castle Nathria-Mythic",
+					["typeCode"] = "default",
 					["owner"] = "Rentaki-Kazzak",
 					["id"] = "1615139941-2",
 					["response"] = "Need BIS",
@@ -43581,96 +43638,96 @@ RCLootCouncilLootDB = {
 			},
 			["Døgrogue-Kazzak"] = {
 				{
-					["date"] = "14/11/18",
-					["mapID"] = 1861,
 					["id"] = "1542220072-1",
-					["isAwardReason"] = false,
+					["mapID"] = 1861,
 					["instance"] = "Uldir-Heroic",
-					["class"] = "ROGUE",
-					["iSubClass"] = 0,
-					["response"] = "Personal Loot - Non tradeable",
-					["difficultyID"] = 15,
-					["boss"] = "MOTHER",
-					["time"] = "20:27:52",
-					["iClass"] = 4,
-					["lootWon"] = "|cffa335ee|Hitem:160645::::::::120:268::5:3:4799:1492:4786:::|h[Rot-Scour Ring]|h|r",
-					["responseID"] = "PL",
-					["groupSize"] = 16,
+					["isAwardReason"] = false,
 					["color"] = {
 						1, -- [1]
 						0.6, -- [2]
 						0, -- [3]
 						1, -- [4]
 					},
+					["class"] = "ROGUE",
+					["iSubClass"] = 0,
+					["groupSize"] = 16,
+					["boss"] = "MOTHER",
+					["difficultyID"] = 15,
+					["lootWon"] = "|cffa335ee|Hitem:160645::::::::120:268::5:3:4799:1492:4786:::|h[Rot-Scour Ring]|h|r",
+					["iClass"] = 4,
+					["time"] = "20:27:52",
+					["responseID"] = "PL",
+					["response"] = "Personal Loot - Non tradeable",
+					["date"] = "14/11/18",
 				}, -- [1]
 				{
-					["color"] = {
-						1, -- [1]
-						0.6, -- [2]
-						0, -- [3]
-						1, -- [4]
-					},
-					["mapID"] = 1594,
 					["id"] = "1542557917-0",
-					["isAwardReason"] = false,
+					["mapID"] = 1594,
 					["date"] = "18/11/18",
+					["isAwardReason"] = false,
+					["instance"] = "The MOTHERLODE!!-Mythic Keystone",
 					["class"] = "ROGUE",
 					["iSubClass"] = 2,
-					["groupSize"] = 5,
-					["difficultyID"] = 8,
-					["boss"] = "Mogul Razdunk",
-					["time"] = "18:18:37",
-					["iClass"] = 4,
-					["lootWon"] = "|cffa335ee|Hitem:158353::::::::120:264::16:3:5010:1557:4784:::|h[Servo-Arm Bindings]|h|r",
-					["responseID"] = "PL",
 					["response"] = "Personal Loot - Non tradeable",
-					["instance"] = "The MOTHERLODE!!-Mythic Keystone",
+					["boss"] = "Mogul Razdunk",
+					["difficultyID"] = 8,
+					["lootWon"] = "|cffa335ee|Hitem:158353::::::::120:264::16:3:5010:1557:4784:::|h[Servo-Arm Bindings]|h|r",
+					["iClass"] = 4,
+					["time"] = "18:18:37",
+					["responseID"] = "PL",
+					["groupSize"] = 5,
+					["color"] = {
+						1, -- [1]
+						0.6, -- [2]
+						0, -- [3]
+						1, -- [4]
+					},
 				}, -- [2]
 				{
-					["instance"] = "Uldir-Heroic",
-					["mapID"] = 1861,
 					["id"] = "1542824329-0",
-					["isAwardReason"] = false,
+					["mapID"] = 1861,
 					["color"] = {
 						1, -- [1]
 						0.6, -- [2]
 						0, -- [3]
 						1, -- [4]
 					},
+					["isAwardReason"] = false,
+					["date"] = "21/11/18",
 					["class"] = "ROGUE",
 					["iSubClass"] = 0,
-					["groupSize"] = 12,
-					["difficultyID"] = 15,
-					["boss"] = "Taloc",
-					["time"] = "20:18:49",
-					["iClass"] = 4,
-					["lootWon"] = "|cffa335ee|Hitem:160652::::::::120:268::5:3:4799:1492:4786:::|h[Construct Overcharger]|h|r",
-					["responseID"] = "PL",
 					["response"] = "Personal Loot - Non tradeable",
-					["date"] = "21/11/18",
+					["boss"] = "Taloc",
+					["difficultyID"] = 15,
+					["lootWon"] = "|cffa335ee|Hitem:160652::::::::120:268::5:3:4799:1492:4786:::|h[Construct Overcharger]|h|r",
+					["iClass"] = 4,
+					["time"] = "20:18:49",
+					["responseID"] = "PL",
+					["groupSize"] = 12,
+					["instance"] = "Uldir-Heroic",
 				}, -- [3]
 				{
-					["instance"] = "Uldir-Mythic",
-					["mapID"] = 1861,
-					["groupSize"] = 20,
-					["isAwardReason"] = false,
 					["id"] = "1544727951-9",
-					["class"] = "ROGUE",
-					["iSubClass"] = 0,
+					["mapID"] = 1861,
 					["response"] = "Personal Loot - Non tradeable",
-					["boss"] = "Fetid Devourer",
-					["difficultyID"] = 16,
-					["lootWon"] = "|cffa335ee|Hitem:160648::::::::120:268::6:3:4800:1507:4786:::|h[Frenetic Corpuscle]|h|r",
-					["iClass"] = 4,
-					["time"] = "21:05:51",
-					["responseID"] = "PL",
-					["date"] = "13/12/18",
+					["isAwardReason"] = false,
 					["color"] = {
 						1, -- [1]
 						0.6, -- [2]
 						0, -- [3]
 						1, -- [4]
 					},
+					["class"] = "ROGUE",
+					["iSubClass"] = 0,
+					["groupSize"] = 20,
+					["difficultyID"] = 16,
+					["boss"] = "Fetid Devourer",
+					["time"] = "21:05:51",
+					["iClass"] = 4,
+					["lootWon"] = "|cffa335ee|Hitem:160648::::::::120:268::6:3:4800:1507:4786:::|h[Frenetic Corpuscle]|h|r",
+					["responseID"] = "PL",
+					["instance"] = "Uldir-Mythic",
+					["date"] = "13/12/18",
 				}, -- [4]
 				{
 					["mapID"] = 1861,
@@ -43752,50 +43809,50 @@ RCLootCouncilLootDB = {
 					["votes"] = 0,
 				}, -- [7]
 				{
-					["instance"] = "Uldir-Heroic",
-					["mapID"] = 1861,
-					["groupSize"] = 13,
-					["isAwardReason"] = false,
 					["id"] = "1545240762-0",
+					["mapID"] = 1861,
+					["response"] = "Personal Loot - Non tradeable",
+					["isAwardReason"] = false,
+					["color"] = {
+						1, -- [1]
+						0.6, -- [2]
+						0, -- [3]
+						1, -- [4]
+					},
 					["class"] = "ROGUE",
 					["iSubClass"] = 5,
-					["response"] = "Personal Loot - Non tradeable",
-					["boss"] = "Fetid Devourer",
+					["groupSize"] = 13,
 					["difficultyID"] = 15,
-					["lootWon"] = "|cff1eff00|Hitem:139299::::::::120:102::5::::|h[Finely-Tailored Red Holiday Hat]|h|r",
-					["iClass"] = 4,
+					["boss"] = "Fetid Devourer",
 					["time"] = "21:32:42",
+					["iClass"] = 4,
+					["lootWon"] = "|cff1eff00|Hitem:139299::::::::120:102::5::::|h[Finely-Tailored Red Holiday Hat]|h|r",
 					["responseID"] = "PL",
+					["instance"] = "Uldir-Heroic",
 					["date"] = "19/12/18",
-					["color"] = {
-						1, -- [1]
-						0.6, -- [2]
-						0, -- [3]
-						1, -- [4]
-					},
 				}, -- [8]
 				{
-					["instance"] = "Uldir-Mythic",
-					["mapID"] = 1861,
 					["id"] = "1546801004-0",
-					["isAwardReason"] = false,
+					["mapID"] = 1861,
 					["color"] = {
 						1, -- [1]
 						0.6, -- [2]
 						0, -- [3]
 						1, -- [4]
 					},
+					["isAwardReason"] = false,
+					["date"] = "06/01/19",
 					["class"] = "ROGUE",
 					["iSubClass"] = 2,
-					["response"] = "Personal Loot - Non tradeable",
-					["difficultyID"] = 16,
-					["boss"] = "G'huun",
-					["time"] = "20:56:44",
-					["iClass"] = 4,
-					["lootWon"] = "|cffa335ee|Hitem:160729::::::::120:268::6:3:4800:1507:4786:::|h[Striders of the Putrescent Path]|h|r",
-					["responseID"] = "PL",
 					["groupSize"] = 20,
-					["date"] = "06/01/19",
+					["boss"] = "G'huun",
+					["difficultyID"] = 16,
+					["lootWon"] = "|cffa335ee|Hitem:160729::::::::120:268::6:3:4800:1507:4786:::|h[Striders of the Putrescent Path]|h|r",
+					["iClass"] = 4,
+					["time"] = "20:56:44",
+					["responseID"] = "PL",
+					["response"] = "Personal Loot - Non tradeable",
+					["instance"] = "Uldir-Mythic",
 				}, -- [9]
 				{
 					["mapID"] = 1861,
@@ -43849,27 +43906,27 @@ RCLootCouncilLootDB = {
 					["date"] = "10/01/19",
 				}, -- [11]
 				{
-					["date"] = "10/01/19",
-					["mapID"] = 1861,
 					["id"] = "1547148666-17",
-					["isAwardReason"] = false,
+					["mapID"] = 1861,
 					["instance"] = "Uldir-Mythic",
-					["class"] = "ROGUE",
-					["iSubClass"] = 1,
-					["groupSize"] = 20,
-					["difficultyID"] = 16,
-					["boss"] = "Fetid Devourer",
-					["time"] = "21:31:06",
-					["iClass"] = 4,
-					["lootWon"] = "|cffa335ee|Hitem:160643::::::::120:268::6:3:4800:1507:4786:::|h[Fetid Horror's Tanglecloak]|h|r",
-					["responseID"] = "PL",
-					["response"] = "Personal Loot - Non tradeable",
+					["isAwardReason"] = false,
 					["color"] = {
 						1, -- [1]
 						0.6, -- [2]
 						0, -- [3]
 						1, -- [4]
 					},
+					["class"] = "ROGUE",
+					["iSubClass"] = 1,
+					["response"] = "Personal Loot - Non tradeable",
+					["boss"] = "Fetid Devourer",
+					["difficultyID"] = 16,
+					["lootWon"] = "|cffa335ee|Hitem:160643::::::::120:268::6:3:4800:1507:4786:::|h[Fetid Horror's Tanglecloak]|h|r",
+					["iClass"] = 4,
+					["time"] = "21:31:06",
+					["responseID"] = "PL",
+					["groupSize"] = 20,
+					["date"] = "10/01/19",
 				}, -- [12]
 				{
 					["mapID"] = 1861,
@@ -43975,50 +44032,50 @@ RCLootCouncilLootDB = {
 					["id"] = "1547755303-23",
 				}, -- [16]
 				{
-					["instance"] = "Battle of Dazar'alor-Heroic",
-					["mapID"] = 2070,
-					["groupSize"] = 26,
-					["isAwardReason"] = false,
 					["id"] = "1548267226-10",
+					["mapID"] = 2070,
+					["response"] = "Personal Loot - Non tradeable",
+					["isAwardReason"] = false,
+					["color"] = {
+						1, -- [1]
+						0.6, -- [2]
+						0, -- [3]
+						1, -- [4]
+					},
 					["class"] = "ROGUE",
 					["iSubClass"] = 2,
-					["response"] = "Personal Loot - Non tradeable",
-					["boss"] = "Grong",
-					["difficultyID"] = 15,
-					["lootWon"] = "|cffa335ee|Hitem:165525::::::::120:268::5:3:4799:1522:4786:::|h[Stretched Sinew Waistcord]|h|r",
-					["iClass"] = 4,
-					["time"] = "20:13:46",
-					["responseID"] = "PL",
-					["date"] = "23/01/19",
-					["color"] = {
-						1, -- [1]
-						0.6, -- [2]
-						0, -- [3]
-						1, -- [4]
-					},
-				}, -- [17]
-				{
-					["color"] = {
-						1, -- [1]
-						0.6, -- [2]
-						0, -- [3]
-						1, -- [4]
-					},
-					["mapID"] = 2070,
-					["id"] = "1548356527-8",
-					["isAwardReason"] = false,
-					["date"] = "24/01/19",
-					["class"] = "ROGUE",
-					["iSubClass"] = 3,
 					["groupSize"] = 26,
 					["difficultyID"] = 15,
-					["boss"] = "Mekkatorque",
-					["time"] = "21:02:07",
-					["iClass"] = 9,
-					["lootWon"] = "|cff1eff00|Hitem:166276::::::::120:268::5::::|h[Schematic: Unstable Temporal Time Shifter]|h|r",
+					["boss"] = "Grong",
+					["time"] = "20:13:46",
+					["iClass"] = 4,
+					["lootWon"] = "|cffa335ee|Hitem:165525::::::::120:268::5:3:4799:1522:4786:::|h[Stretched Sinew Waistcord]|h|r",
 					["responseID"] = "PL",
-					["response"] = "Personal Loot - Non tradeable",
 					["instance"] = "Battle of Dazar'alor-Heroic",
+					["date"] = "23/01/19",
+				}, -- [17]
+				{
+					["id"] = "1548356527-8",
+					["mapID"] = 2070,
+					["date"] = "24/01/19",
+					["isAwardReason"] = false,
+					["instance"] = "Battle of Dazar'alor-Heroic",
+					["class"] = "ROGUE",
+					["iSubClass"] = 3,
+					["response"] = "Personal Loot - Non tradeable",
+					["boss"] = "Mekkatorque",
+					["difficultyID"] = 15,
+					["lootWon"] = "|cff1eff00|Hitem:166276::::::::120:268::5::::|h[Schematic: Unstable Temporal Time Shifter]|h|r",
+					["iClass"] = 9,
+					["time"] = "21:02:07",
+					["responseID"] = "PL",
+					["groupSize"] = 26,
+					["color"] = {
+						1, -- [1]
+						0.6, -- [2]
+						0, -- [3]
+						1, -- [4]
+					},
 				}, -- [18]
 				{
 					["mapID"] = 2070,
@@ -44805,27 +44862,27 @@ RCLootCouncilLootDB = {
 			},
 			["Impalo-TarrenMill"] = {
 				{
-					["instance"] = "Battle of Dazar'alor-Normal",
-					["mapID"] = 2070,
 					["id"] = "1548529438-1",
-					["isAwardReason"] = false,
+					["mapID"] = 2070,
 					["color"] = {
 						1, -- [1]
 						0.6, -- [2]
 						0, -- [3]
 						1, -- [4]
 					},
+					["isAwardReason"] = false,
+					["date"] = "26/01/19",
 					["class"] = "PRIEST",
 					["iSubClass"] = 3,
-					["response"] = "Personal Loot - Non tradeable",
-					["difficultyID"] = 14,
-					["boss"] = "Mekkatorque",
-					["time"] = "21:03:58",
-					["iClass"] = 9,
-					["lootWon"] = "|cff1eff00|Hitem:166276::::::::120:102::3::::|h[Schematic: Unstable Temporal Time Shifter]|h|r",
-					["responseID"] = "PL",
 					["groupSize"] = 15,
-					["date"] = "26/01/19",
+					["boss"] = "Mekkatorque",
+					["difficultyID"] = 14,
+					["lootWon"] = "|cff1eff00|Hitem:166276::::::::120:102::3::::|h[Schematic: Unstable Temporal Time Shifter]|h|r",
+					["iClass"] = 9,
+					["time"] = "21:03:58",
+					["responseID"] = "PL",
+					["response"] = "Personal Loot - Non tradeable",
+					["instance"] = "Battle of Dazar'alor-Normal",
 				}, -- [1]
 			},
 			["Toxinjector-Kazzak"] = {
@@ -44906,27 +44963,27 @@ RCLootCouncilLootDB = {
 					["instance"] = "Uldir-Mythic",
 				}, -- [3]
 				{
-					["instance"] = "Battle of Dazar'alor-Heroic",
-					["mapID"] = 2070,
-					["groupSize"] = 26,
-					["isAwardReason"] = false,
 					["id"] = "1548268801-12",
-					["class"] = "WARLOCK",
-					["iSubClass"] = 0,
+					["mapID"] = 2070,
 					["response"] = "Personal Loot - Non tradeable",
-					["boss"] = "Jadefire Masters",
-					["difficultyID"] = 15,
-					["lootWon"] = "|cffa335ee|Hitem:165565::::::::120:268::5:3:4799:1522:4786:::|h[Band of Multi-Sided Strikes]|h|r",
-					["iClass"] = 4,
-					["time"] = "20:40:01",
-					["responseID"] = "PL",
-					["date"] = "23/01/19",
+					["isAwardReason"] = false,
 					["color"] = {
 						1, -- [1]
 						0.6, -- [2]
 						0, -- [3]
 						1, -- [4]
 					},
+					["class"] = "WARLOCK",
+					["iSubClass"] = 0,
+					["groupSize"] = 26,
+					["difficultyID"] = 15,
+					["boss"] = "Jadefire Masters",
+					["time"] = "20:40:01",
+					["iClass"] = 4,
+					["lootWon"] = "|cffa335ee|Hitem:165565::::::::120:268::5:3:4799:1522:4786:::|h[Band of Multi-Sided Strikes]|h|r",
+					["responseID"] = "PL",
+					["instance"] = "Battle of Dazar'alor-Heroic",
+					["date"] = "23/01/19",
 				}, -- [4]
 				{
 					["mapID"] = 2070,
@@ -47245,7 +47302,7 @@ RCLootCouncilLootDB = {
 					["iClass"] = 4,
 					["itemReplaced1"] = "|cffa335ee|Hitem:169304::::::::120:268::6:3:4800:1517:4786:::|h[Leviathan's Lure]|h|r",
 					["votes"] = 0,
-					["instance"] = "The Eternal Palace-Mythic",
+					["typeCode"] = "default",
 					["owner"] = "Blorki-Ravencrest",
 					["id"] = "1574875628-2",
 					["response"] = "Need (BIS stats)",
@@ -47261,7 +47318,7 @@ RCLootCouncilLootDB = {
 					["isAwardReason"] = false,
 					["responseID"] = 1,
 					["itemReplaced2"] = "|cffa335ee|Hitem:168905::::::::120:268::6:4:4800:1517:5850:4783:::|h[Shiver Venom Relic]|h|r",
-					["typeCode"] = "default",
+					["instance"] = "The Eternal Palace-Mythic",
 				}, -- [20]
 				{
 					["mapID"] = 2164,
@@ -47274,7 +47331,7 @@ RCLootCouncilLootDB = {
 					["iClass"] = 4,
 					["itemReplaced1"] = "|cffa335ee|Hitem:169304::168641::::::120:268::6:4:4800:1808:1517:4786:::|h[Leviathan's Lure]|h|r",
 					["votes"] = 0,
-					["instance"] = "The Eternal Palace-Mythic",
+					["typeCode"] = "default",
 					["owner"] = "Sansheewow-Ravencrest",
 					["id"] = "1574880300-17",
 					["response"] = "Need (Not BiS stats)",
@@ -47290,7 +47347,7 @@ RCLootCouncilLootDB = {
 					["isAwardReason"] = false,
 					["responseID"] = 2,
 					["itemReplaced2"] = "|cffa335ee|Hitem:168905::::::::120:268::6:4:4800:1517:5850:4783:::|h[Shiver Venom Relic]|h|r",
-					["typeCode"] = "default",
+					["instance"] = "The Eternal Palace-Mythic",
 				}, -- [21]
 				{
 					["mapID"] = 2164,
@@ -47678,8 +47735,8 @@ RCLootCouncilLootDB = {
 					["time"] = "20:10:58",
 					["iClass"] = 4,
 					["itemReplaced1"] = "|cffa335ee|Hitem:174060::168639::::::120:256::6:4:4824:1517:4786:6514:::|h[Psyche Shredder]|h|r",
-					["typeCode"] = "default",
 					["instance"] = "Ny'alotha, the Waking City-Mythic",
+					["typeCode"] = "default",
 					["owner"] = "Seksixeny-Ravencrest",
 					["id"] = "1586970658-5",
 					["response"] = "BiS",
@@ -48122,8 +48179,8 @@ RCLootCouncilLootDB = {
 					["time"] = "20:53:19",
 					["iClass"] = 4,
 					["itemReplaced1"] = "|cffa335ee|Hitem:158362:6111:::::::120:268::35:3:5010:1612:4783:::|h[Lord Waycrest's Signet]|h|r",
-					["typeCode"] = "default",
 					["instance"] = "The Eternal Palace-Mythic",
+					["typeCode"] = "default",
 					["owner"] = "Macuc-Ravencrest",
 					["id"] = "1576695199-27",
 					["response"] = "Need (BIS stats)",
@@ -48151,8 +48208,8 @@ RCLootCouncilLootDB = {
 					["time"] = "19:06:34",
 					["iClass"] = 2,
 					["itemReplaced1"] = "|cffa335ee|Hitem:159641:6112:::::::120:268::35:4:5010:1612:5855:4784:::|h[G3T-00t]|h|r",
-					["instance"] = "The Eternal Palace-Mythic",
 					["typeCode"] = "default",
+					["instance"] = "The Eternal Palace-Mythic",
 					["owner"] = "Bevv-Ravencrest",
 					["id"] = "1578503194-2",
 					["response"] = "Need (Not BiS stats)",
@@ -48388,7 +48445,7 @@ RCLootCouncilLootDB = {
 					["iClass"] = 4,
 					["itemReplaced1"] = "|cffa335ee|Hitem:158362:6111:::::::120:256::35:3:5010:1612:4783:::|h[Lord Waycrest's Signet]|h|r",
 					["votes"] = 1,
-					["instance"] = "Ny'alotha, the Waking City-Mythic",
+					["typeCode"] = "default",
 					["owner"] = "Vapenayshon-Ravencrest",
 					["id"] = "1581267851-0",
 					["response"] = "BiS",
@@ -48404,7 +48461,7 @@ RCLootCouncilLootDB = {
 					["isAwardReason"] = false,
 					["responseID"] = 1,
 					["itemReplaced2"] = "|cffa335ee|Hitem:158314:6111:::::::120:256::16:8:6536:6578:6579:6471:6455:6515:1637:4786:::|h[Seal of Questionable Loyalties]|h|r",
-					["typeCode"] = "default",
+					["instance"] = "Ny'alotha, the Waking City-Mythic",
 				}, -- [19]
 				{
 					["mapID"] = 2217,
@@ -48886,8 +48943,8 @@ RCLootCouncilLootDB = {
 					["time"] = "19:31:41",
 					["iClass"] = 4,
 					["itemReplaced1"] = "|cffa335ee|Hitem:174044::::::::120:256::6:4:4824:6513:1517:4786:::|h[Humming Black Dragonscale]|h|r",
-					["instance"] = "Ny'alotha, the Waking City-Mythic",
 					["typeCode"] = "default",
+					["instance"] = "Ny'alotha, the Waking City-Mythic",
 					["owner"] = "Vapenayshon-Ravencrest",
 					["id"] = "1582133501-6",
 					["response"] = "BiS",
@@ -50114,8 +50171,8 @@ RCLootCouncilLootDB = {
 					["time"] = "22:48:28",
 					["iClass"] = 4,
 					["itemReplaced1"] = "|cffa335ee|Hitem:165680:6109:168641::::::120:256::28:6:4803:4802:6516:6513:1637:4786:::|h[Igneous Winterskorn Loop]|h|r",
-					["typeCode"] = "default",
 					["instance"] = "Ny'alotha, the Waking City-Mythic",
+					["typeCode"] = "default",
 					["owner"] = "Riworra-Ravencrest",
 					["id"] = "1580676508-20",
 					["response"] = "BiS",
@@ -50969,7 +51026,7 @@ RCLootCouncilLootDB = {
 					["iClass"] = 4,
 					["itemReplaced1"] = "|cffa335ee|Hitem:167555::167672:168747:168435::::120:256::11:1:1497::3:1472:5865:4784:|h[Pocket-Sized Computation Device]|h|r",
 					["votes"] = 0,
-					["typeCode"] = "default",
+					["instance"] = "Ny'alotha, the Waking City-Heroic",
 					["owner"] = "Tankzorx-Ravencrest",
 					["id"] = "1581184077-10",
 					["response"] = "Need (Not BiS)",
@@ -50985,7 +51042,7 @@ RCLootCouncilLootDB = {
 					["isAwardReason"] = false,
 					["responseID"] = 2,
 					["itemReplaced2"] = "|cffa335ee|Hitem:159628::::::::120:256::16:4:6536:6513:1637:4786:::|h[Kul Tiran Cannonball Runner]|h|r",
-					["instance"] = "Ny'alotha, the Waking City-Heroic",
+					["typeCode"] = "default",
 				}, -- [26]
 				{
 					["mapID"] = 2217,
@@ -51022,7 +51079,7 @@ RCLootCouncilLootDB = {
 					["iClass"] = 4,
 					["itemReplaced1"] = "|cffa335ee|Hitem:174531:6111:::::::120:256::6:8:4824:6578:6579:6471:6455:6515:1517:4786:::|h[Void-Etched Band]|h|r",
 					["votes"] = 0,
-					["typeCode"] = "default",
+					["instance"] = "Ny'alotha, the Waking City-Mythic",
 					["owner"] = "Tankzorx-Ravencrest",
 					["id"] = "1581538668-36",
 					["response"] = "BiS",
@@ -51038,7 +51095,7 @@ RCLootCouncilLootDB = {
 					["isAwardReason"] = false,
 					["responseID"] = 1,
 					["itemReplaced2"] = "|cffa335ee|Hitem:171075:6111:168637::::::120:256::13:1:3402:::|h[Peerless Leviathan's Eye Loop of the Peerless]|h|r",
-					["instance"] = "Ny'alotha, the Waking City-Mythic",
+					["typeCode"] = "default",
 				}, -- [28]
 				{
 					["mapID"] = 2217,
@@ -51705,8 +51762,8 @@ RCLootCouncilLootDB = {
 					["time"] = "22:13:55",
 					["iClass"] = 4,
 					["itemReplaced1"] = "|cffa335ee|Hitem:159462:6109:::::::120:268::16:5:5010:41:1602:5855:4783:::|h[Footbomb Championship Ring]|h|r",
-					["instance"] = "The Eternal Palace-Mythic",
 					["typeCode"] = "default",
+					["instance"] = "The Eternal Palace-Mythic",
 					["owner"] = "Unholyfistzz-Ravencrest",
 					["id"] = "1574280835-11",
 					["response"] = "Need (Not BiS stats)",
@@ -51762,8 +51819,8 @@ RCLootCouncilLootDB = {
 					["time"] = "20:11:59",
 					["iClass"] = 4,
 					["itemReplaced1"] = "|cffa335ee|Hitem:167375:6109:::::::120:268::56:4:6337:6349:1552:4786:::|h[Notorious Gladiator's Band]|h|r",
-					["instance"] = "The Eternal Palace-Mythic",
 					["typeCode"] = "default",
+					["instance"] = "The Eternal Palace-Mythic",
 					["owner"] = "Flurrehdk-Ravencrest",
 					["id"] = "1578507119-11",
 					["response"] = "Need (BIS stats)",
@@ -52553,7 +52610,7 @@ RCLootCouncilLootDB = {
 					["iClass"] = 4,
 					["itemReplaced1"] = "|cffa335ee|Hitem:168891:6111:::::::120:268::6:3:4800:1517:4786:::|h[Cursed Lover's Ring]|h|r",
 					["votes"] = 0,
-					["instance"] = "The Eternal Palace-Mythic",
+					["typeCode"] = "default",
 					["owner"] = "Tankzorx-Ravencrest",
 					["id"] = "1576088827-1",
 					["response"] = "Need (Not BiS stats)",
@@ -52569,7 +52626,7 @@ RCLootCouncilLootDB = {
 					["isAwardReason"] = false,
 					["responseID"] = 2,
 					["itemReplaced2"] = "|cffa335ee|Hitem:162544:6108:168637::::::120:268::16:4:5010:4802:1587:4786:::|h[Jade Ophidian Band]|h|r",
-					["typeCode"] = "default",
+					["instance"] = "The Eternal Palace-Mythic",
 				}, -- [10]
 				{
 					["mapID"] = 2164,
@@ -52633,8 +52690,8 @@ RCLootCouncilLootDB = {
 					["time"] = "19:54:40",
 					["iClass"] = 4,
 					["itemReplaced1"] = "|cffa335ee|Hitem:169314::::::::120:268::6:3:4800:1517:4786:::|h[Azshara's Font of Power]|h|r",
-					["typeCode"] = "default",
 					["instance"] = "The Eternal Palace-Mythic",
+					["typeCode"] = "default",
 					["owner"] = "Kessrogue-Ravencrest",
 					["id"] = "1576691680-17",
 					["response"] = "Need (Not BiS stats)",
@@ -53016,7 +53073,7 @@ RCLootCouncilLootDB = {
 					["iClass"] = 4,
 					["itemReplaced1"] = "|cffa335ee|Hitem:174500::::::::120:256::5:4:4823:6515:1502:4786:::|h[Vita-Charged Titanshard]|h|r",
 					["votes"] = 1,
-					["instance"] = "Ny'alotha, the Waking City-Mythic",
+					["typeCode"] = "default",
 					["owner"] = "Tankzorx-Ravencrest",
 					["id"] = "1582751683-33",
 					["response"] = "BiS",
@@ -53032,7 +53089,7 @@ RCLootCouncilLootDB = {
 					["isAwardReason"] = false,
 					["responseID"] = 1,
 					["itemReplaced2"] = "|cffa335ee|Hitem:169311::::::::120:256::6:4:4800:1517:5850:4783:::|h[Ashvane's Razor Coral]|h|r",
-					["typeCode"] = "default",
+					["instance"] = "Ny'alotha, the Waking City-Mythic",
 				}, -- [28]
 				{
 					["mapID"] = 2217,
@@ -54666,8 +54723,8 @@ RCLootCouncilLootDB = {
 					["time"] = "19:37:25",
 					["iClass"] = 2,
 					["itemReplaced1"] = "|cffa335ee|Hitem:158369:5963:::::::120:256::35:5:6536:6578:6513:1647:4786:::|h[Galvanized Stormcrusher]|h|r",
-					["typeCode"] = "default",
 					["instance"] = "Ny'alotha, the Waking City-Mythic",
+					["typeCode"] = "default",
 					["owner"] = "Sacraa-Ravencrest",
 					["id"] = "1586363845-10",
 					["response"] = "Offspec",
@@ -54695,8 +54752,8 @@ RCLootCouncilLootDB = {
 					["time"] = "20:32:41",
 					["iClass"] = 2,
 					["itemReplaced1"] = "|cffa335ee|Hitem:158369:5963:::::::120:258::35:5:6536:6578:6513:1647:4786:::|h[Galvanized Stormcrusher]|h|r",
-					["typeCode"] = "default",
 					["instance"] = "Pandaria-",
+					["typeCode"] = "default",
 					["owner"] = "Arookie-Ravencrest",
 					["id"] = "1586367161-17",
 					["response"] = "Offspec",
@@ -57176,8 +57233,8 @@ RCLootCouncilLootDB = {
 					["time"] = "19:10:31",
 					["iClass"] = 4,
 					["itemReplaced1"] = "|cffa335ee|Hitem:174060::::::::120:268::6:4:4824:6515:1517:4786:::|h[Psyche Shredder]|h|r",
-					["instance"] = "Ny'alotha, the Waking City-Mythic",
 					["typeCode"] = "default",
+					["instance"] = "Ny'alotha, the Waking City-Mythic",
 					["owner"] = "Sacraa-Ravencrest",
 					["id"] = "1582132231-4",
 					["response"] = "Need (BIS stats)",
@@ -57316,8 +57373,8 @@ RCLootCouncilLootDB = {
 					["time"] = "19:31:35",
 					["iClass"] = 2,
 					["itemReplaced1"] = "|cffa335ee|Hitem:172196:5949:168639::::::120:268::6:8:4824:41:6541:6578:6579:1517:4786:6514:::|h[Vorzz Yoq'al]|h|r",
-					["instance"] = "Ny'alotha, the Waking City-Mythic",
 					["typeCode"] = "default",
+					["instance"] = "Ny'alotha, the Waking City-Mythic",
 					["owner"] = "Seksixeny-Ravencrest",
 					["id"] = "1585758695-1",
 					["response"] = "Need (Not BiS stats)",
@@ -59701,8 +59758,8 @@ RCLootCouncilLootDB = {
 					["time"] = "19:59:15",
 					["iClass"] = 2,
 					["itemReplaced1"] = "|cffa335ee|Hitem:168397:5949:::::::120:268::6:4:4800:1517:5850:4783:::|h[Fang of the Behemoth]|h|r",
-					["instance"] = "The Eternal Palace-Mythic",
 					["typeCode"] = "default",
+					["instance"] = "The Eternal Palace-Mythic",
 					["owner"] = "Unholyfistzz-Ravencrest",
 					["id"] = "1578506355-10",
 					["response"] = "Offspecxd",
@@ -60006,7 +60063,7 @@ RCLootCouncilLootDB = {
 					["iClass"] = 4,
 					["itemReplaced1"] = "|cffa335ee|Hitem:173944::::::::120:256::6:4:4824:6515:1517:4786:::|h[Forbidden Obsidian Claw]|h|r",
 					["votes"] = 0,
-					["typeCode"] = "default",
+					["instance"] = "Ny'alotha, the Waking City-Heroic",
 					["owner"] = "Tankzorx-Ravencrest",
 					["id"] = "1581182140-2",
 					["response"] = "Offspec",
@@ -60022,7 +60079,7 @@ RCLootCouncilLootDB = {
 					["isAwardReason"] = false,
 					["responseID"] = 4,
 					["itemReplaced2"] = "|cffa335ee|Hitem:169304::::::::120:256::6:4:4800:1517:5850:4783:::|h[Leviathan's Lure]|h|r",
-					["instance"] = "Ny'alotha, the Waking City-Heroic",
+					["typeCode"] = "default",
 				}, -- [79]
 				{
 					["mapID"] = 2217,
@@ -60118,8 +60175,8 @@ RCLootCouncilLootDB = {
 					["time"] = "19:15:09",
 					["iClass"] = 4,
 					["itemReplaced1"] = "|cffa335ee|Hitem:173944::::::::120:256::6:4:4824:6515:1517:4786:::|h[Forbidden Obsidian Claw]|h|r",
-					["instance"] = "Ny'alotha, the Waking City-Mythic",
 					["typeCode"] = "default",
+					["instance"] = "Ny'alotha, the Waking City-Mythic",
 					["owner"] = "Hydrakus-Ravencrest",
 					["id"] = "1581527709-4",
 					["response"] = "Need (Not BiS)",
@@ -60176,7 +60233,7 @@ RCLootCouncilLootDB = {
 					["iClass"] = 4,
 					["itemReplaced1"] = "|cffa335ee|Hitem:173944::::::::120:256::6:4:4824:6515:1517:4786:::|h[Forbidden Obsidian Claw]|h|r",
 					["votes"] = 0,
-					["instance"] = "Ny'alotha, the Waking City-Mythic",
+					["typeCode"] = "default",
 					["owner"] = "Blorki-Ravencrest",
 					["id"] = "1582737982-5",
 					["response"] = "BiS",
@@ -60192,7 +60249,7 @@ RCLootCouncilLootDB = {
 					["isAwardReason"] = false,
 					["responseID"] = 1,
 					["itemReplaced2"] = "|cffa335ee|Hitem:169304::::::::120:256::6:4:4800:1517:5850:4783:::|h[Leviathan's Lure]|h|r",
-					["typeCode"] = "default",
+					["instance"] = "Ny'alotha, the Waking City-Mythic",
 				}, -- [85]
 				{
 					["mapID"] = 2217,
@@ -61270,7 +61327,7 @@ RCLootCouncilLootDB = {
 					["iClass"] = 4,
 					["itemReplaced1"] = "|cffa335ee|Hitem:169311::168642::::::120:256::5:5:4799:1808:1502:5860:4784:::|h[Ashvane's Razor Coral]|h|r",
 					["votes"] = 3,
-					["instance"] = "Ny'alotha, the Waking City-Mythic",
+					["typeCode"] = "default",
 					["owner"] = "Bevv-Ravencrest",
 					["id"] = "1580931894-26",
 					["response"] = "BiS",
@@ -61286,7 +61343,7 @@ RCLootCouncilLootDB = {
 					["isAwardReason"] = false,
 					["responseID"] = 1,
 					["itemReplaced2"] = "|cffa335ee|Hitem:158374::168642::::::120:256::16:5:6534:4802:6515:1637:4786:::|h[Tiny Electromental in a Jar]|h|r",
-					["typeCode"] = "default",
+					["instance"] = "Ny'alotha, the Waking City-Mythic",
 				}, -- [32]
 				{
 					["mapID"] = 2217,
@@ -62474,7 +62531,7 @@ RCLootCouncilLootDB = {
 					["iClass"] = 4,
 					["itemReplaced1"] = "|cffa335ee|Hitem:168703:6109:168641::::::120:268::13:1:1759:::|h[Ascended Leviathan's Eye Loop of the Fireflash]|h|r",
 					["votes"] = 0,
-					["typeCode"] = "default",
+					["instance"] = "The Eternal Palace-Mythic",
 					["owner"] = "Sansheewow-Ravencrest",
 					["id"] = "1575481653-3",
 					["response"] = "Need (BIS stats)",
@@ -62490,7 +62547,7 @@ RCLootCouncilLootDB = {
 					["isAwardReason"] = false,
 					["responseID"] = 1,
 					["itemReplaced2"] = "|cffa335ee|Hitem:162541:6109:168641::::::120:268::16:5:5010:4802:1602:5855:4783:::|h[Band of the Roving Scalawag]|h|r",
-					["instance"] = "The Eternal Palace-Mythic",
+					["typeCode"] = "default",
 				}, -- [29]
 				{
 					["mapID"] = 2164,
@@ -62810,7 +62867,7 @@ RCLootCouncilLootDB = {
 					["iClass"] = 4,
 					["itemReplaced1"] = "|cffa335ee|Hitem:175008:6109:168641::::::120:256::5:5:4823:6516:6515:1502:4786:::|h[Lurking Schemer's Band]|h|r",
 					["votes"] = 0,
-					["typeCode"] = "default",
+					["instance"] = "Ny'alotha, the Waking City-Heroic",
 					["owner"] = "Tankzorx-Ravencrest",
 					["id"] = "1581186260-23",
 					["response"] = "Minor Upgrade",
@@ -62826,7 +62883,7 @@ RCLootCouncilLootDB = {
 					["isAwardReason"] = false,
 					["responseID"] = 3,
 					["itemReplaced2"] = "|cffa335ee|Hitem:171075:6109:168641::::::120:256::13:1:1776:::|h[Peerless Leviathan's Eye Loop of the Aurora]|h|r",
-					["instance"] = "Ny'alotha, the Waking City-Heroic",
+					["typeCode"] = "default",
 				}, -- [42]
 				{
 					["mapID"] = 2217,
@@ -62919,7 +62976,7 @@ RCLootCouncilLootDB = {
 					["iClass"] = 4,
 					["itemReplaced1"] = "|cffa335ee|Hitem:174500::::::::120:256::5:5:4823:41:6513:1502:4786:::|h[Vita-Charged Titanshard]|h|r",
 					["votes"] = 0,
-					["typeCode"] = "default",
+					["instance"] = "Ny'alotha, the Waking City-Mythic",
 					["owner"] = "Kessrogue-Ravencrest",
 					["id"] = "1581538820-38",
 					["response"] = "BiS",
@@ -62935,7 +62992,7 @@ RCLootCouncilLootDB = {
 					["isAwardReason"] = false,
 					["responseID"] = 1,
 					["itemReplaced2"] = "|cffa335ee|Hitem:169311::::::::120:256::6:4:4800:42:1517:4786:::|h[Ashvane's Razor Coral]|h|r",
-					["instance"] = "Ny'alotha, the Waking City-Mythic",
+					["typeCode"] = "default",
 				}, -- [46]
 				{
 					["mapID"] = 2217,
@@ -62974,8 +63031,8 @@ RCLootCouncilLootDB = {
 					["time"] = "21:46:35",
 					["iClass"] = 4,
 					["itemReplaced1"] = "|cffa335ee|Hitem:174500::::::::120:256::5:5:4823:41:6513:1502:4786:::|h[Vita-Charged Titanshard]|h|r",
-					["instance"] = "Ny'alotha, the Waking City-Mythic",
 					["typeCode"] = "default",
+					["instance"] = "Ny'alotha, the Waking City-Mythic",
 					["owner"] = "Sacraa-Ravencrest",
 					["id"] = "1582141595-22",
 					["response"] = "BiS",
@@ -63032,7 +63089,7 @@ RCLootCouncilLootDB = {
 					["iClass"] = 4,
 					["itemReplaced1"] = "|cffa335ee|Hitem:174500::::::::120:256::5:5:4823:41:6513:1502:4786:::|h[Vita-Charged Titanshard]|h|r",
 					["votes"] = 0,
-					["instance"] = "Ny'alotha, the Waking City-Mythic",
+					["typeCode"] = "default",
 					["owner"] = "Riworra-Ravencrest",
 					["id"] = "1582751693-34",
 					["response"] = "BiS",
@@ -63048,7 +63105,7 @@ RCLootCouncilLootDB = {
 					["isAwardReason"] = false,
 					["responseID"] = 1,
 					["itemReplaced2"] = "|cffa335ee|Hitem:169311::::::::120:256::6:4:4800:42:1517:4786:::|h[Ashvane's Razor Coral]|h|r",
-					["typeCode"] = "default",
+					["instance"] = "Ny'alotha, the Waking City-Mythic",
 				}, -- [50]
 				{
 					["mapID"] = 2217,
@@ -63727,54 +63784,54 @@ RCLootCouncilLootDB = {
 					["isAwardReason"] = false,
 				}, -- [1]
 			},
-			["Magearn-Ravencrest"] = {
+			["Háized-Silvermoon"] = {
 				{
-					["mapID"] = 2164,
-					["date"] = "24/11/19",
-					["class"] = "MAGE",
-					["iSubClass"] = 1,
-					["groupSize"] = 20,
+					["mapID"] = 2217,
+					["date"] = "26/03/20",
+					["class"] = "DEMONHUNTER",
+					["iSubClass"] = 2,
+					["groupSize"] = 30,
 					["isAwardReason"] = false,
-					["time"] = "19:41:25",
+					["time"] = "21:53:39",
 					["iClass"] = 4,
-					["id"] = "1574617285-0",
-					["owner"] = "Magearn-Ravencrest",
+					["id"] = "1585252419-1",
+					["owner"] = "Háized-Silvermoon",
 					["response"] = "Personal Loot - Non tradeable",
-					["difficultyID"] = 16,
-					["lootWon"] = "|cffa335ee|Hitem:168374::::::::120:63::6:3:4800:1517:4786:::|h[Belt of Blind Devotion]|h|r",
+					["difficultyID"] = 15,
+					["lootWon"] = "|cffa335ee|Hitem:174136::::::::120:577::5:4:4823:1502:4786:6507:::|h[Tortured Fleshbeast Cuirass]|h|r",
+					["boss"] = "Carapace of N'Zoth",
+					["responseID"] = "PL",
+					["instance"] = "Ny'alotha, the Waking City-Heroic",
 					["color"] = {
 						1, -- [1]
 						0.6, -- [2]
 						0, -- [3]
 						1, -- [4]
 					},
-					["responseID"] = "PL",
-					["instance"] = "The Eternal Palace-Mythic",
-					["boss"] = "Radiance of Azshara",
 				}, -- [1]
 				{
-					["mapID"] = 1220,
-					["date"] = "08/12/19",
-					["class"] = "MAGE",
-					["iSubClass"] = 0,
-					["groupSize"] = 0,
+					["mapID"] = 2217,
+					["date"] = "26/03/20",
+					["class"] = "DEMONHUNTER",
+					["iSubClass"] = 2,
+					["groupSize"] = 30,
 					["isAwardReason"] = false,
-					["time"] = "19:40:26",
+					["time"] = "22:04:10",
 					["iClass"] = 4,
-					["id"] = "1575826826-0",
-					["owner"] = "Magearn-Ravencrest",
+					["id"] = "1585253050-4",
+					["owner"] = "Háized-Silvermoon",
 					["response"] = "Personal Loot - Non tradeable",
-					["difficultyID"] = 0,
-					["lootWon"] = "|cffa335ee|Hitem:169304::::::::120:63::6:4:4800:1517:5855:4783:::|h[Leviathan's Lure]|h|r",
+					["difficultyID"] = 15,
+					["lootWon"] = "|cffa335ee|Hitem:174133::::::::120:577::5:4:4823:1502:4786:6509:::|h[Pauldrons of the Great Convergence]|h|r",
+					["boss"] = "N'Zoth the Corruptor",
+					["responseID"] = "PL",
+					["instance"] = "Ny'alotha, the Waking City-Heroic",
 					["color"] = {
 						1, -- [1]
 						0.6, -- [2]
 						0, -- [3]
 						1, -- [4]
 					},
-					["responseID"] = "PL",
-					["instance"] = "Broken Isles-",
-					["boss"] = "Radiance of Azshara",
 				}, -- [2]
 			},
 			["Jaunclåde-Ravencrest"] = {
@@ -71314,7 +71371,7 @@ RCLootCouncilLootDB = {
 					["iClass"] = 4,
 					["itemReplaced1"] = "|cffa335ee|Hitem:159460:6108:::::::120:256::35:8:6536:6578:6579:6473:6470:6513:1647:4786:::|h[Overseer's Lost Seal]|h|r",
 					["votes"] = 0,
-					["typeCode"] = "default",
+					["instance"] = "Ny'alotha, the Waking City-Mythic",
 					["owner"] = "Mimou-Ravencrest",
 					["id"] = "1582144538-28",
 					["response"] = "Need (Not BiS)",
@@ -71330,7 +71387,7 @@ RCLootCouncilLootDB = {
 					["isAwardReason"] = false,
 					["responseID"] = 2,
 					["itemReplaced2"] = "|cffa335ee|Hitem:171075:6108:168639::::::120:256::13:1:1742:::|h[Peerless Leviathan's Eye Loop of the Quickblade]|h|r",
-					["instance"] = "Ny'alotha, the Waking City-Mythic",
+					["typeCode"] = "default",
 				}, -- [37]
 				{
 					["mapID"] = 2217,
@@ -72053,8 +72110,8 @@ RCLootCouncilLootDB = {
 					["time"] = "21:10:13",
 					["iClass"] = 4,
 					["itemReplaced1"] = "|cffa335ee|Hitem:169311::::::::120:257::6:4:4800:1517:5850:4783:::|h[Ashvane's Razor Coral]|h|r",
-					["typeCode"] = "default",
 					["instance"] = "Ny'alotha, the Waking City-Normal",
+					["typeCode"] = "default",
 					["owner"] = "Hydrakus-Ravencrest",
 					["id"] = "1580065813-13",
 					["response"] = "BiS",
@@ -72083,7 +72140,7 @@ RCLootCouncilLootDB = {
 					["iClass"] = 4,
 					["itemReplaced1"] = "|cffa335ee|Hitem:169314::::::::120:256::6:3:4800:1517:4786:::|h[Azshara's Font of Power]|h|r",
 					["votes"] = 0,
-					["instance"] = "Ny'alotha, the Waking City-Heroic",
+					["typeCode"] = "default",
 					["owner"] = "Sacraa-Ravencrest",
 					["id"] = "1580579454-11",
 					["response"] = "Offspec",
@@ -72099,7 +72156,7 @@ RCLootCouncilLootDB = {
 					["isAwardReason"] = false,
 					["responseID"] = 4,
 					["itemReplaced2"] = "|cffa335ee|Hitem:169311::::::::120:256::6:4:4800:1517:5850:4783:::|h[Ashvane's Razor Coral]|h|r",
-					["typeCode"] = "default",
+					["instance"] = "Ny'alotha, the Waking City-Heroic",
 				}, -- [27]
 				{
 					["mapID"] = 2217,
@@ -73511,8 +73568,8 @@ RCLootCouncilLootDB = {
 					["time"] = "19:54:26",
 					["iClass"] = 4,
 					["itemReplaced1"] = "|cffa335ee|Hitem:169314::::::::120:268::5:3:4799:1502:4786:::|h[Azshara's Font of Power]|h|r",
-					["typeCode"] = "default",
 					["instance"] = "The Eternal Palace-Mythic",
+					["typeCode"] = "default",
 					["owner"] = "Tokzikaf-Ravencrest",
 					["id"] = "1576691666-16",
 					["response"] = "Need (Not BiS stats)",
@@ -73672,8 +73729,8 @@ RCLootCouncilLootDB = {
 					["time"] = "22:16:09",
 					["iClass"] = 4,
 					["itemReplaced1"] = "|cffa335ee|Hitem:169314::::::::120:268::6:3:4800:1517:4786:::|h[Azshara's Font of Power]|h|r",
-					["instance"] = "Ny'alotha, the Waking City-Heroic",
 					["typeCode"] = "default",
+					["instance"] = "Ny'alotha, the Waking City-Heroic",
 					["owner"] = "Frawztie-Ravencrest",
 					["id"] = "1579724169-61",
 					["response"] = "Need (BIS stats)",
@@ -73701,8 +73758,8 @@ RCLootCouncilLootDB = {
 					["time"] = "20:14:38",
 					["iClass"] = 4,
 					["itemReplaced1"] = "|cffa335ee|Hitem:169314::::::::120:257::6:3:4800:1517:4786:::|h[Azshara's Font of Power]|h|r",
-					["typeCode"] = "default",
 					["instance"] = "Ny'alotha, the Waking City-Normal",
+					["typeCode"] = "default",
 					["owner"] = "Sansheewow-Ravencrest",
 					["id"] = "1580062478-2",
 					["response"] = "Button4",
@@ -73758,8 +73815,8 @@ RCLootCouncilLootDB = {
 					["time"] = "20:46:56",
 					["iClass"] = 4,
 					["itemReplaced1"] = "|cffa335ee|Hitem:169314::::::::120:257::6:3:4800:1517:4786:::|h[Azshara's Font of Power]|h|r",
-					["typeCode"] = "default",
 					["instance"] = "Ny'alotha, the Waking City-Normal",
+					["typeCode"] = "default",
 					["owner"] = "Bevvest-Ravencrest",
 					["id"] = "1580064416-2",
 					["response"] = "BiS",
@@ -73896,7 +73953,7 @@ RCLootCouncilLootDB = {
 					["iClass"] = 4,
 					["itemReplaced1"] = "|cffa335ee|Hitem:174500::::::::120:256::5:4:4823:6513:1502:4786:::|h[Vita-Charged Titanshard]|h|r",
 					["votes"] = 0,
-					["instance"] = "Ny'alotha, the Waking City-Heroic",
+					["typeCode"] = "default",
 					["owner"] = "Kessrogue-Ravencrest",
 					["id"] = "1580579446-10",
 					["response"] = "Need (Not BiS)",
@@ -73912,7 +73969,7 @@ RCLootCouncilLootDB = {
 					["isAwardReason"] = false,
 					["responseID"] = 2,
 					["itemReplaced2"] = "|cffa335ee|Hitem:167555::167672:168748:168648::::120:256::11:1:1492::3:1472:5855:4783:|h[Pocket-Sized Computation Device]|h|r",
-					["typeCode"] = "default",
+					["instance"] = "Ny'alotha, the Waking City-Heroic",
 				}, -- [19]
 				{
 					["mapID"] = 2217,
@@ -74103,8 +74160,8 @@ RCLootCouncilLootDB = {
 					["time"] = "20:09:39",
 					["iClass"] = 4,
 					["itemReplaced1"] = "|cffa335ee|Hitem:174532:6108:168641::::::120:256::5:6:4823:1808:6516:6515:1502:4786:::|h[Ichorspine Loop]|h|r",
-					["instance"] = "Ny'alotha, the Waking City-Mythic",
 					["typeCode"] = "default",
+					["instance"] = "Ny'alotha, the Waking City-Mythic",
 					["owner"] = "Arookie-Ravencrest",
 					["id"] = "1582135779-13",
 					["response"] = "BiS",
@@ -74268,7 +74325,7 @@ RCLootCouncilLootDB = {
 					["iClass"] = 4,
 					["itemReplaced1"] = "|cffa335ee|Hitem:173943::::::::120:256::5:4:4823:6513:1502:4786:::|h[Torment in a Jar]|h|r",
 					["votes"] = 1,
-					["instance"] = "Ny'alotha, the Waking City-Mythic",
+					["typeCode"] = "default",
 					["owner"] = "Riworra-Ravencrest",
 					["id"] = "1582747781-20",
 					["response"] = "BiS",
@@ -74284,7 +74341,7 @@ RCLootCouncilLootDB = {
 					["isAwardReason"] = false,
 					["responseID"] = 1,
 					["itemReplaced2"] = "|cffa335ee|Hitem:169311::::::::120:256::6:3:4800:1517:4786:::|h[Ashvane's Razor Coral]|h|r",
-					["typeCode"] = "default",
+					["instance"] = "Ny'alotha, the Waking City-Mythic",
 				}, -- [33]
 				{
 					["mapID"] = 2217,
@@ -75657,8 +75714,8 @@ RCLootCouncilLootDB = {
 					["time"] = "22:12:42",
 					["iClass"] = 4,
 					["itemReplaced1"] = "|cffa335ee|Hitem:159459:6109:::::::120:257::16:4:5010:41:1602:4786:::|h[Ritual Binder's Ring]|h|r",
-					["typeCode"] = "default",
 					["instance"] = "Ny'alotha, the Waking City-Normal",
+					["typeCode"] = "default",
 					["owner"] = "Rentaki-Ravencrest",
 					["id"] = "1580069562-37",
 					["response"] = "BiS",
@@ -80141,8 +80198,8 @@ RCLootCouncilLootDB = {
 					["time"] = "21:28:13",
 					["iClass"] = 4,
 					["itemReplaced1"] = "|cffa335ee|Hitem:174533::::::::120:257::5:5:4823:6516:6513:1502:4786:::|h[Ring of Cosmic Potential]|h|r",
-					["typeCode"] = "default",
 					["instance"] = "Ny'alotha, the Waking City-Normal",
+					["typeCode"] = "default",
 					["owner"] = "Neveh-Ravencrest",
 					["id"] = "1580066893-20",
 					["response"] = "BiS",
@@ -81021,8 +81078,8 @@ RCLootCouncilLootDB = {
 					["time"] = "20:32:32",
 					["iClass"] = 4,
 					["itemReplaced1"] = "|cffa335ee|Hitem:174500::::::::120:258::5:4:4823:6513:1502:4786:::|h[Vita-Charged Titanshard]|h|r",
-					["typeCode"] = "default",
 					["instance"] = "Pandaria-",
+					["typeCode"] = "default",
 					["owner"] = "Sacraa-Ravencrest",
 					["id"] = "1586367152-16",
 					["response"] = "Minor Upgrade",
@@ -81095,54 +81152,54 @@ RCLootCouncilLootDB = {
 					["id"] = "1561308134-5",
 				}, -- [1]
 			},
-			["Háized-Silvermoon"] = {
+			["Magearn-Ravencrest"] = {
 				{
-					["mapID"] = 2217,
-					["date"] = "26/03/20",
-					["class"] = "DEMONHUNTER",
-					["iSubClass"] = 2,
-					["groupSize"] = 30,
+					["mapID"] = 2164,
+					["date"] = "24/11/19",
+					["class"] = "MAGE",
+					["iSubClass"] = 1,
+					["groupSize"] = 20,
 					["isAwardReason"] = false,
-					["time"] = "21:53:39",
+					["time"] = "19:41:25",
 					["iClass"] = 4,
-					["id"] = "1585252419-1",
-					["owner"] = "Háized-Silvermoon",
+					["id"] = "1574617285-0",
+					["owner"] = "Magearn-Ravencrest",
 					["response"] = "Personal Loot - Non tradeable",
-					["difficultyID"] = 15,
-					["lootWon"] = "|cffa335ee|Hitem:174136::::::::120:577::5:4:4823:1502:4786:6507:::|h[Tortured Fleshbeast Cuirass]|h|r",
-					["boss"] = "Carapace of N'Zoth",
-					["responseID"] = "PL",
-					["instance"] = "Ny'alotha, the Waking City-Heroic",
+					["difficultyID"] = 16,
+					["lootWon"] = "|cffa335ee|Hitem:168374::::::::120:63::6:3:4800:1517:4786:::|h[Belt of Blind Devotion]|h|r",
 					["color"] = {
 						1, -- [1]
 						0.6, -- [2]
 						0, -- [3]
 						1, -- [4]
 					},
+					["responseID"] = "PL",
+					["instance"] = "The Eternal Palace-Mythic",
+					["boss"] = "Radiance of Azshara",
 				}, -- [1]
 				{
-					["mapID"] = 2217,
-					["date"] = "26/03/20",
-					["class"] = "DEMONHUNTER",
-					["iSubClass"] = 2,
-					["groupSize"] = 30,
+					["mapID"] = 1220,
+					["date"] = "08/12/19",
+					["class"] = "MAGE",
+					["iSubClass"] = 0,
+					["groupSize"] = 0,
 					["isAwardReason"] = false,
-					["time"] = "22:04:10",
+					["time"] = "19:40:26",
 					["iClass"] = 4,
-					["id"] = "1585253050-4",
-					["owner"] = "Háized-Silvermoon",
+					["id"] = "1575826826-0",
+					["owner"] = "Magearn-Ravencrest",
 					["response"] = "Personal Loot - Non tradeable",
-					["difficultyID"] = 15,
-					["lootWon"] = "|cffa335ee|Hitem:174133::::::::120:577::5:4:4823:1502:4786:6509:::|h[Pauldrons of the Great Convergence]|h|r",
-					["boss"] = "N'Zoth the Corruptor",
-					["responseID"] = "PL",
-					["instance"] = "Ny'alotha, the Waking City-Heroic",
+					["difficultyID"] = 0,
+					["lootWon"] = "|cffa335ee|Hitem:169304::::::::120:63::6:4:4800:1517:5855:4783:::|h[Leviathan's Lure]|h|r",
 					["color"] = {
 						1, -- [1]
 						0.6, -- [2]
 						0, -- [3]
 						1, -- [4]
 					},
+					["responseID"] = "PL",
+					["instance"] = "Broken Isles-",
+					["boss"] = "Radiance of Azshara",
 				}, -- [2]
 			},
 			["Demonxdd-Ravencrest"] = {
@@ -82512,8 +82569,8 @@ RCLootCouncilLootDB = {
 					["time"] = "21:10:39",
 					["iClass"] = 4,
 					["itemReplaced1"] = "|cffa335ee|Hitem:169311::::::::120:257::6:3:4800:1517:4786:::|h[Ashvane's Razor Coral]|h|r",
-					["typeCode"] = "default",
 					["instance"] = "Ny'alotha, the Waking City-Normal",
+					["typeCode"] = "default",
 					["owner"] = "Unholyfistzz-Ravencrest",
 					["id"] = "1580065839-14",
 					["response"] = "BiS",
@@ -82831,8 +82888,8 @@ RCLootCouncilLootDB = {
 					["time"] = "21:22:19",
 					["iClass"] = 4,
 					["itemReplaced1"] = "|cffa335ee|Hitem:169311::::::::120:268::6:3:4800:1517:4786:::|h[Ashvane's Razor Coral]|h|r",
-					["instance"] = "Ny'alotha, the Waking City-Mythic",
 					["typeCode"] = "default",
+					["instance"] = "Ny'alotha, the Waking City-Mythic",
 					["owner"] = "Hydrakus-Ravencrest",
 					["id"] = "1582140139-10",
 					["response"] = "Need (BIS stats)",
@@ -82941,7 +82998,7 @@ RCLootCouncilLootDB = {
 					["iClass"] = 4,
 					["itemReplaced1"] = "|cffa335ee|Hitem:169311::::::::120:256::6:3:4800:1517:4786:::|h[Ashvane's Razor Coral]|h|r",
 					["votes"] = 0,
-					["instance"] = "Ny'alotha, the Waking City-Mythic",
+					["typeCode"] = "default",
 					["owner"] = "Hydrakus-Ravencrest",
 					["id"] = "1582747776-19",
 					["response"] = "BiS",
@@ -82957,7 +83014,7 @@ RCLootCouncilLootDB = {
 					["isAwardReason"] = false,
 					["responseID"] = 1,
 					["itemReplaced2"] = "|cffa335ee|Hitem:174500::::::::120:256::6:5:4824:42:6513:1517:4786:::|h[Vita-Charged Titanshard]|h|r",
-					["typeCode"] = "default",
+					["instance"] = "Ny'alotha, the Waking City-Mythic",
 				}, -- [68]
 				{
 					["mapID"] = 2217,
@@ -82970,7 +83027,7 @@ RCLootCouncilLootDB = {
 					["iClass"] = 4,
 					["itemReplaced1"] = "|cffa335ee|Hitem:175008:6108:168639::::::120:256::6:6:4824:42:6516:6513:1517:4786:::|h[Lurking Schemer's Band]|h|r",
 					["votes"] = 0,
-					["instance"] = "Ny'alotha, the Waking City-Mythic",
+					["typeCode"] = "default",
 					["owner"] = "Neveh-Ravencrest",
 					["id"] = "1582750426-29",
 					["response"] = "Offspec",
@@ -82986,7 +83043,7 @@ RCLootCouncilLootDB = {
 					["isAwardReason"] = false,
 					["responseID"] = 4,
 					["itemReplaced2"] = "|cffa335ee|Hitem:171075:6108:168639::::::120:256::13:1:1759:::|h[Peerless Leviathan's Eye Loop of the Fireflash]|h|r",
-					["typeCode"] = "default",
+					["instance"] = "Ny'alotha, the Waking City-Mythic",
 				}, -- [69]
 				{
 					["mapID"] = 2217,
@@ -83078,8 +83135,8 @@ RCLootCouncilLootDB = {
 					["time"] = "19:13:44",
 					["iClass"] = 4,
 					["itemReplaced1"] = "|cffa335ee|Hitem:159625::::::::120:256::35:4:6536:6515:1647:4786:::|h[Vial of Animated Blood]|h|r",
-					["typeCode"] = "default",
 					["instance"] = "Ny'alotha, the Waking City-Mythic",
+					["typeCode"] = "default",
 					["owner"] = "Snaxxie-Ravencrest",
 					["id"] = "1586362424-1",
 					["response"] = "Need (Not BiS)",
