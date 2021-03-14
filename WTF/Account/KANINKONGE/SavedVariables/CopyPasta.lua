@@ -4,32 +4,32 @@ PasteDB = {
 		["Hunteraki - Frostmane"] = "Hunteraki - Frostmane",
 		["Rentamdi - Kazzak"] = "Rentamdi - Kazzak",
 		["Rintake - Ragnaros"] = "Rintake - Ragnaros",
-		["Takidari - Ravencrest"] = "Takidari - Ravencrest",
-		["Takii - Doomhammer"] = "Takii - Doomhammer",
+		["Rentaki - Kazzak"] = "Rentaki - Kazzak",
+		["Rentaco - Ravencrest"] = "Rentaco - Ravencrest",
 		["Takikin - Kazzak"] = "Takikin - Kazzak",
-		["Rintake - Argent Dawn"] = "Rintake - Argent Dawn",
-		["Takifistzz - Kazzak"] = "Takifistzz - Kazzak",
+		["Takiworra - Kazzak"] = "Takiworra - Kazzak",
+		["Takidk - Kazzak"] = "Takidk - Kazzak",
 		["Takii - Frostmane"] = "Takii - Frostmane",
 		["Arcataki - Doomhammer"] = "Arcataki - Doomhammer",
 		["Rentakidh - Argent Dawn"] = "Rentakidh - Argent Dawn",
 		["Takidari - Kazzak"] = "Takidari - Kazzak",
 		["Taaku - Kazzak"] = "Taaku - Kazzak",
-		["Rentaki - Kazzak"] = "Rentaki - Kazzak",
+		["Ivelea - Argent Dawn"] = "Ivelea - Argent Dawn",
 		["Takicado - Doomhammer"] = "Takicado - Doomhammer",
-		["Rentaco - Kazzak"] = "Rentaco - Kazzak",
+		["Takibank - Argent Dawn"] = "Takibank - Argent Dawn",
 		["Thaaeyn - Argent Dawn"] = "Thaaeyn - Argent Dawn",
 		["Takii - Argent Dawn"] = "Takii - Argent Dawn",
 		["Renqqø - Kazzak"] = "Renqqø - Kazzak",
 		["Rendudu - Kazzak"] = "Rendudu - Kazzak",
 		["Felenia - Doomhammer"] = "Felenia - Doomhammer",
-		["Takidk - Kazzak"] = "Takidk - Kazzak",
+		["Renwarri - Kazzak"] = "Renwarri - Kazzak",
 		["Takiscoper - Kazzak"] = "Takiscoper - Kazzak",
 		["Takidin - Kazzak"] = "Takidin - Kazzak",
-		["Takibank - Argent Dawn"] = "Takibank - Argent Dawn",
-		["Renwarri - Kazzak"] = "Renwarri - Kazzak",
-		["Takiworra - Kazzak"] = "Takiworra - Kazzak",
-		["Rentaco - Ravencrest"] = "Rentaco - Ravencrest",
-		["Ivelea - Argent Dawn"] = "Ivelea - Argent Dawn",
+		["Rentaco - Kazzak"] = "Rentaco - Kazzak",
+		["Takifistzz - Kazzak"] = "Takifistzz - Kazzak",
+		["Rintake - Argent Dawn"] = "Rintake - Argent Dawn",
+		["Takii - Doomhammer"] = "Takii - Doomhammer",
+		["Takidari - Ravencrest"] = "Takidari - Ravencrest",
 	},
 	["profiles"] = {
 		["Hunteraki - Frostmane"] = {
@@ -41,23 +41,30 @@ PasteDB = {
 		["Rintake - Ragnaros"] = {
 			["loaded"] = true,
 		},
-		["Takidari - Ravencrest"] = {
+		["Rentaki - Kazzak"] = {
 			["loaded"] = true,
-		},
-		["Takii - Doomhammer"] = {
-			["loaded"] = true,
-			["whispertarget"] = "",
-			["where"] = "Default",
-			["pos"] = {
+			["minimap"] = {
+				["minimapPos"] = 343.9092327759646,
 			},
+			["where"] = "Default",
+			["whispertarget"] = "",
+			["pos"] = {
+				["height"] = 320,
+				["top"] = 600,
+				["left"] = 992.0003051757812,
+				["width"] = 500.0000610351563,
+			},
+		},
+		["Rentaco - Ravencrest"] = {
+			["loaded"] = true,
 		},
 		["Takikin - Kazzak"] = {
 			["loaded"] = true,
 		},
-		["Rintake - Argent Dawn"] = {
+		["Takiworra - Kazzak"] = {
 			["loaded"] = true,
 		},
-		["Takifistzz - Kazzak"] = {
+		["Takidk - Kazzak"] = {
 			["loaded"] = true,
 		},
 		["Takii - Frostmane"] = {
@@ -79,24 +86,13 @@ PasteDB = {
 		["Taaku - Kazzak"] = {
 			["loaded"] = true,
 		},
-		["Rentaki - Kazzak"] = {
+		["Ivelea - Argent Dawn"] = {
 			["loaded"] = true,
-			["minimap"] = {
-				["minimapPos"] = 343.9092327759646,
-			},
-			["where"] = "Default",
-			["whispertarget"] = "",
-			["pos"] = {
-				["height"] = 320,
-				["top"] = 600,
-				["left"] = 992.0003051757812,
-				["width"] = 500.0000610351563,
-			},
 		},
 		["Takicado - Doomhammer"] = {
 			["loaded"] = true,
 		},
-		["Rentaco - Kazzak"] = {
+		["Takibank - Argent Dawn"] = {
 			["loaded"] = true,
 		},
 		["Thaaeyn - Argent Dawn"] = {
@@ -114,7 +110,7 @@ PasteDB = {
 		["Felenia - Doomhammer"] = {
 			["loaded"] = true,
 		},
-		["Takidk - Kazzak"] = {
+		["Renwarri - Kazzak"] = {
 			["loaded"] = true,
 		},
 		["Takiscoper - Kazzak"] = {
@@ -123,19 +119,23 @@ PasteDB = {
 		["Takidin - Kazzak"] = {
 			["loaded"] = true,
 		},
-		["Takibank - Argent Dawn"] = {
+		["Rentaco - Kazzak"] = {
 			["loaded"] = true,
 		},
-		["Renwarri - Kazzak"] = {
+		["Takifistzz - Kazzak"] = {
 			["loaded"] = true,
 		},
-		["Takiworra - Kazzak"] = {
+		["Rintake - Argent Dawn"] = {
 			["loaded"] = true,
 		},
-		["Rentaco - Ravencrest"] = {
+		["Takii - Doomhammer"] = {
 			["loaded"] = true,
+			["whispertarget"] = "",
+			["where"] = "Default",
+			["pos"] = {
+			},
 		},
-		["Ivelea - Argent Dawn"] = {
+		["Takidari - Ravencrest"] = {
 			["loaded"] = true,
 		},
 	},

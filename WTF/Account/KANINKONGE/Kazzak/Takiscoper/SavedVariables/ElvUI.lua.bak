@@ -1,776 +1,28 @@
 
 ElvCharacterDB = {
 	["ChatEditHistory"] = {
-		"/g do u get overpay", -- [1]
-		"/g xD", -- [2]
-		"/g very relatable", -- [3]
-		"/g lmao", -- [4]
-		"/g that sounds horrible", -- [5]
-		"yeah you did :D", -- [6]
-		"old karazhan?", -- [7]
-		"o", -- [8]
-		"i had that one drop twice for me in legion", -- [9]
-		"and i was a super casual pleb", -- [10]
-		"rofl", -- [11]
-		"/way 52.3 52.5", -- [12]
-		"/g is skadi spawning in 5 minutes=?", -- [13]
-		"/g am pm is too hard for my brain", -- [14]
-		"/g spreadsheet im looking at is am pm", -- [15]
-		"/g thats so much better", -- [16]
-		"/g yea  ok", -- [17]
-		"/g will do that", -- [18]
-		"/g skadi spawning soon?", -- [19]
-		"/reload", -- [20]
+		"/g xD", -- [1]
+		"/g very relatable", -- [2]
+		"/g lmao", -- [3]
+		"/g that sounds horrible", -- [4]
+		"yeah you did :D", -- [5]
+		"old karazhan?", -- [6]
+		"o", -- [7]
+		"i had that one drop twice for me in legion", -- [8]
+		"and i was a super casual pleb", -- [9]
+		"rofl", -- [10]
+		"/way 52.3 52.5", -- [11]
+		"/g is skadi spawning in 5 minutes=?", -- [12]
+		"/g am pm is too hard for my brain", -- [13]
+		"/g spreadsheet im looking at is am pm", -- [14]
+		"/g thats so much better", -- [15]
+		"/g yea  ok", -- [16]
+		"/g will do that", -- [17]
+		"/g skadi spawning soon?", -- [18]
+		"/reload", -- [19]
+		"/wa", -- [20]
 	},
 	["ChatHistoryLog"] = {
-		{
-			"<Hydra> Get the PVP title [Fire-Watcher] for 120K which has a <Pet> and |cff71d5ff|Hspell:148428:0|h[Ashhide Mushan Beast]|h|r Mount|| Only Mount= 60K", -- [1]
-			"Hydraboosts-Kazzak", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Hydraboosts-Kazzak", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			5790, -- [11]
-			"Player-1305-0BA6A805", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cffc59a6cHydraboosts|r",
-			[51] = 1605207314,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [1]
-		{
-			"<Hydra>WTS |cff71d5ff|Hspell:230401:0|h[Ivory Hawkstrider]|h|r600K|cff71d5ff|Hspell:261395:0|h[The Hivemind]|h|r160k|cff71d5ff|Hspell:148428:0|h[Ashhide Mushan Beast]|h|r60k|cff71d5ff|Hspell:231428:0|h[Smoldering Ember Wyrm]|h|r120k Only for GOLD", -- [1]
-			"Hydraboosts-Kazzak", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Hydraboosts-Kazzak", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			5793, -- [11]
-			"Player-1305-0BA6A805", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cffc59a6cHydraboosts|r",
-			[51] = 1605207315,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [2]
-		{
-			"WTS |cffa335ee|Hitem:161134::::::::50:103::13:1:6827::::|h[Mecha-Mogul Mk2]|h|r /w ", -- [1]
-			"Effective-Kazzak", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Effective-Kazzak", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			5794, -- [11]
-			"Player-1305-08B80E98", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cfffe7b09Effective|r",
-			[51] = 1605207318,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [3]
-		{
-			"< NOVA > is OFFERING TODAY Nyalotha Heroic 12/12 for 120k! VIP Traders for only 50k! also Nyalotha Mythic 12/12 +3Trader 3000k--/Nzoth MYTHIC+Mount for 1.8MIL---/ [M+15=90k][2M+15=171k][4M+15=333k]-/ 5Mask=70k-/Jaina mount: 350k TODAY", -- [1]
-			"Novaboostqtt-Kazzak", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Novaboostqtt-Kazzak", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			5795, -- [11]
-			"Player-1305-0B3B41EA", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cff00fe97Novaboostqtt|r",
-			[51] = 1605207319,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [4]
-		{
-			"WTS  <Lvl Up Boost> <With New Method>  <10 to 30 in 1Hour > <10 to 50 total 3 Hours>And Also selling M+15 Only <70K><70K><Only70K><70k> <70k> with free armor stack And < Drop Jaina mount Last chance before Sl <290k > . pm info /w", -- [1]
-			"Demonrixs-Kazzak", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Demonrixs-Kazzak", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			5796, -- [11]
-			"Player-1305-0A9A9DE8", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cffa22fc8Demonrixs|r",
-			[51] = 1605207320,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [5]
-		{
-			"<NOVA> Ny'Alotha Heroic 12/12=120k! each VIP Trader=50k! Only Nzoth = 50k- Jaina Mount = 350k - [M+15=90k] [x2 M+15=171k] - Mythic N'zoth with mount = 1.8M - Mythic Full run with free 3 trader+mount = 3.5M", -- [1]
-			"Dilonova-Kazzak", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Dilonova-Kazzak", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			5797, -- [11]
-			"Player-1305-0BA53F7E", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cfffef367Dilonova|r",
-			[51] = 1605207322,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [6]
-		{
-			"WTS M+ (+15 is k 70k) (+16 is k 85k)  (+15 is k 70k)   (+16 is 85k)  (+15 is k 70k) (+16 is 85k ((( WTS BOOST HC [N'Zoth the Corruptor]  @@[Ra-den the Despoiled]  @@ [Carapace of N'Zoth] @@3 boss (( 80k ))ONLY FOR GOLD", -- [1]
-			"Sprinoo-Kazzak", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Sprinoo-Kazzak", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			5799, -- [11]
-			"Player-1305-0B854A57", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cfff38bb9Sprinoo|r",
-			[51] = 1605207325,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [7]
-		{
-			"<<Wts Keys 15-24>> <<Group +133 Ready For Run All Items Trade - Cheap Price  -  Stack Armor ....... And Boost Lvl Up 10-50(i Have Dh 133) 3.5K Rio >>", -- [1]
-			"Lebric-Kazzak", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Lebric-Kazzak", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			5801, -- [11]
-			"Player-1305-0A6FF7E1", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cffa22fc8Lebric|r",
-			[51] = 1605207328,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [8]
-		{
-			"<<< WTS  LvL up boost 10-50 Freehold Fast run cheap >> |cff66bbff|Hjournal:0:1001:1|h[Freehold]|h|r ", -- [1]
-			"Lebric-Kazzak", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Lebric-Kazzak", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			5802, -- [11]
-			"Player-1305-0A6FF7E1", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cffa22fc8Lebric|r",
-			[51] = 1605207328,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [9]
-		{
-			"WTS keystone  +10-18  stack armor Group +133  4k io  all tradable item  5 mask  lvl up 20-50  ready now !/w me for info! ", -- [1]
-			"Bulzái-Kazzak", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Bulzái-Kazzak", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			5805, -- [11]
-			"Player-1305-0A2583D9", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cffa9d271Bulzái|r",
-			[51] = 1605207329,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [10]
-		{
-			"so how do u guys like the new", -- [1]
-			"Lightzorr-Kazzak", -- [2]
-			"", -- [3]
-			"1. General - Icecrown", -- [4]
-			"Lightzorr-Kazzak", -- [5]
-			"", -- [6]
-			1, -- [7]
-			1, -- [8]
-			"General - Icecrown", -- [9]
-			0, -- [10]
-			5809, -- [11]
-			"Player-1305-0BA482E0", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cfff38bb9Lightzorr|r",
-			[51] = 1605207386,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [11]
-		{
-			"afk prepatch event?", -- [1]
-			"Lightzorr-Kazzak", -- [2]
-			"", -- [3]
-			"1. General - Icecrown", -- [4]
-			"Lightzorr-Kazzak", -- [5]
-			"", -- [6]
-			1, -- [7]
-			1, -- [8]
-			"General - Icecrown", -- [9]
-			0, -- [10]
-			5810, -- [11]
-			"Player-1305-0BA482E0", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cfff38bb9Lightzorr|r",
-			[51] = 1605207389,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [12]
-		{
-			"%s has earned the achievement |cffffff00|Hachievement:12483:Player-1305-0B9EA7E7:1:11:12:20:4294967295:4294967295:4294967295:4294967295|h[Waycrest Manor]|h|r!", -- [1]
-			"Hotzorx-Kazzak", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Hotzorx-Kazzak", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			5811, -- [11]
-			"Player-1305-0B9EA7E7", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffe7b09Hotzorx|r",
-			[51] = 1605207397,
-			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [13]
-		{
-			"%s has earned the achievement |cffffff00|Hachievement:12483:Player-1305-0BA82744:1:11:12:20:4294967295:4294967295:4294967295:4294967295|h[Waycrest Manor]|h|r!", -- [1]
-			"Unholygatezz-Kazzak", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Unholygatezz-Kazzak", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			5812, -- [11]
-			"Player-1305-0BA82744", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff8687edUnholygatezz|r",
-			[51] = 1605207397,
-			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [14]
-		{
-			"awesome", -- [1]
-			"Hemdala-Kazzak", -- [2]
-			"", -- [3]
-			"1. General - Icecrown", -- [4]
-			"Hemdala-Kazzak", -- [5]
-			"", -- [6]
-			1, -- [7]
-			1, -- [8]
-			"General - Icecrown", -- [9]
-			0, -- [10]
-			5813, -- [11]
-			"Player-1305-0B74CF9E", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cffa9d271Hemdala|r",
-			[51] = 1605207409,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [15]
-		{
-			"10/10 worth my sub", -- [1]
-			"Mutythemage-Kazzak", -- [2]
-			"", -- [3]
-			"1. General - Icecrown", -- [4]
-			"Mutythemage-Kazzak", -- [5]
-			"", -- [6]
-			1, -- [7]
-			1, -- [8]
-			"General - Icecrown", -- [9]
-			0, -- [10]
-			5818, -- [11]
-			"Player-1305-0B916761", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cfffe7b09Mutythemage|r",
-			[51] = 1605207441,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [16]
-		{
-			"huh, I actually made it. :P", -- [1]
-			"Mainterra-Kazzak", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Mainterra-Kazzak", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			5837, -- [11]
-			"Player-1305-0B8EC531", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3ec6eaMainterra|r",
-			[51] = 1605207804,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [17]
-		{
-			"Wow is legit about afking to get stuff, to kill bigger stuff, to afk to the next big stuff, to kill the stuff. AFK stuff is what wow is all about.", -- [1]
-			"Tekxna-Kazzak", -- [2]
-			"", -- [3]
-			"1. General - Icecrown", -- [4]
-			"Tekxna-Kazzak", -- [5]
-			"", -- [6]
-			1, -- [7]
-			1, -- [8]
-			"General - Icecrown", -- [9]
-			0, -- [10]
-			5843, -- [11]
-			"Player-1305-0B8B07A4", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cfffef367Tekxna|r",
-			[51] = 1605207919,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [18]
-		{
-			"pin next pls ?", -- [1]
-			"Batmisho-Kazzak", -- [2]
-			"", -- [3]
-			"1. General - Icecrown", -- [4]
-			"Batmisho-Kazzak", -- [5]
-			"", -- [6]
-			1, -- [7]
-			1, -- [8]
-			"General - Icecrown", -- [9]
-			0, -- [10]
-			5844, -- [11]
-			"Player-1305-08F98E24", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cff3ec6eaBatmisho|r",
-			[51] = 1605207922,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [19]
-		{
-			"|cffffff00|Hworldmap:118:4992:8780|h[|A:Waypoint-MapPin-ChatIcon:13:13:0:0|a Map Pin Location]|h|r", -- [1]
-			"Davennia-Kazzak", -- [2]
-			"", -- [3]
-			"1. General - Icecrown", -- [4]
-			"Davennia-Kazzak", -- [5]
-			"", -- [6]
-			1, -- [7]
-			1, -- [8]
-			"General - Icecrown", -- [9]
-			0, -- [10]
-			5845, -- [11]
-			"Player-1305-0A17EDA3", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cffa22fc8Davennia|r",
-			[51] = 1605207939,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [20]
-		{
-			"ty", -- [1]
-			"Batmisho-Kazzak", -- [2]
-			"", -- [3]
-			"1. General - Icecrown", -- [4]
-			"Batmisho-Kazzak", -- [5]
-			"", -- [6]
-			1, -- [7]
-			1, -- [8]
-			"General - Icecrown", -- [9]
-			0, -- [10]
-			5847, -- [11]
-			"Player-1305-08F98E24", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cff3ec6eaBatmisho|r",
-			[51] = 1605207945,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [21]
-		{
-			"80% afk waiting time 20% gameplay. This is the true spirit of wow.", -- [1]
-			"Tekxna-Kazzak", -- [2]
-			"", -- [3]
-			"1. General - Icecrown", -- [4]
-			"Tekxna-Kazzak", -- [5]
-			"", -- [6]
-			1, -- [7]
-			1, -- [8]
-			"General - Icecrown", -- [9]
-			0, -- [10]
-			5848, -- [11]
-			"Player-1305-0B8B07A4", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cfffef367Tekxna|r",
-			[51] = 1605207947,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [22]
-		{
-			"20% gameplay with lag", -- [1]
-			"Shiroesan-Kazzak", -- [2]
-			"", -- [3]
-			"1. General - Icecrown", -- [4]
-			"Shiroesan-Kazzak", -- [5]
-			"", -- [6]
-			1, -- [7]
-			1, -- [8]
-			"General - Icecrown", -- [9]
-			0, -- [10]
-			5849, -- [11]
-			"Player-1305-0B9DFB39", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cfffefefeShiroesan|r",
-			[51] = 1605207962,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [23]
-		{
-			"Exactly why do you think we all liked retail wow, THE real classic, because it was lagging all the time.", -- [1]
-			"Tekxna-Kazzak", -- [2]
-			"", -- [3]
-			"1. General - Icecrown", -- [4]
-			"Tekxna-Kazzak", -- [5]
-			"", -- [6]
-			1, -- [7]
-			1, -- [8]
-			"General - Icecrown", -- [9]
-			0, -- [10]
-			5852, -- [11]
-			"Player-1305-0B8B07A4", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cfffef367Tekxna|r",
-			[51] = 1605207990,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [24]
-		{
-			"so who wants to duel to kill some time? xD ", -- [1]
-			"Davennia-Kazzak", -- [2]
-			"", -- [3]
-			"1. General - Icecrown", -- [4]
-			"Davennia-Kazzak", -- [5]
-			"", -- [6]
-			1, -- [7]
-			1, -- [8]
-			"General - Icecrown", -- [9]
-			0, -- [10]
-			5856, -- [11]
-			"Player-1305-0A17EDA3", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cffa22fc8Davennia|r",
-			[51] = 1605208100,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [25]
-		{
-			"pin map pls", -- [1]
-			"Muxtang-Kazzak", -- [2]
-			"", -- [3]
-			"1. General - Icecrown", -- [4]
-			"Muxtang-Kazzak", -- [5]
-			"", -- [6]
-			1, -- [7]
-			1, -- [8]
-			"General - Icecrown", -- [9]
-			0, -- [10]
-			5857, -- [11]
-			"Player-1305-0BA5E24E", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cfffe7b09Muxtang|r",
-			[51] = 1605208102,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [26]
-		{
-			"|cffffff00|Hworldmap:118:5007:8665|h[|A:Waypoint-MapPin-ChatIcon:13:13:0:0|a Map Pin Location]|h|r", -- [1]
-			"Davennia-Kazzak", -- [2]
-			"", -- [3]
-			"1. General - Icecrown", -- [4]
-			"Davennia-Kazzak", -- [5]
-			"", -- [6]
-			1, -- [7]
-			1, -- [8]
-			"General - Icecrown", -- [9]
-			0, -- [10]
-			5859, -- [11]
-			"Player-1305-0A17EDA3", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cffa22fc8Davennia|r",
-			[51] = 1605208110,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [27]
-		{
-			"how long untill boss spawns?", -- [1]
-			"Muxtang-Kazzak", -- [2]
-			"", -- [3]
-			"1. General - Icecrown", -- [4]
-			"Muxtang-Kazzak", -- [5]
-			"", -- [6]
-			1, -- [7]
-			1, -- [8]
-			"General - Icecrown", -- [9]
-			0, -- [10]
-			5861, -- [11]
-			"Player-1305-0BA5E24E", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cfffe7b09Muxtang|r",
-			[51] = 1605208140,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [28]
-		{
-			"15 min", -- [1]
-			"Davennia-Kazzak", -- [2]
-			"", -- [3]
-			"1. General - Icecrown", -- [4]
-			"Davennia-Kazzak", -- [5]
-			"", -- [6]
-			1, -- [7]
-			1, -- [8]
-			"General - Icecrown", -- [9]
-			0, -- [10]
-			5864, -- [11]
-			"Player-1305-0A17EDA3", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cffa22fc8Davennia|r",
-			[51] = 1605208149,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [29]
-		{
-			"ty", -- [1]
-			"Muxtang-Kazzak", -- [2]
-			"", -- [3]
-			"1. General - Icecrown", -- [4]
-			"Muxtang-Kazzak", -- [5]
-			"", -- [6]
-			1, -- [7]
-			1, -- [8]
-			"General - Icecrown", -- [9]
-			0, -- [10]
-			5865, -- [11]
-			"Player-1305-0BA5E24E", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cfffe7b09Muxtang|r",
-			[51] = 1605208154,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [30]
-		{
-			"np", -- [1]
-			"Davennia-Kazzak", -- [2]
-			"", -- [3]
-			"1. General - Icecrown", -- [4]
-			"Davennia-Kazzak", -- [5]
-			"", -- [6]
-			1, -- [7]
-			1, -- [8]
-			"General - Icecrown", -- [9]
-			0, -- [10]
-			5868, -- [11]
-			"Player-1305-0A17EDA3", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cffa22fc8Davennia|r",
-			[51] = 1605208162,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [31]
-		{
-			"what is the next rare", -- [1]
-			"Bruttalius-Kazzak", -- [2]
-			"", -- [3]
-			"1. General - Icecrown", -- [4]
-			"Bruttalius-Kazzak", -- [5]
-			"", -- [6]
-			1, -- [7]
-			1, -- [8]
-			"General - Icecrown", -- [9]
-			0, -- [10]
-			5888, -- [11]
-			"Player-1305-0B9F2F92", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cffc59a6cBruttalius|r",
-			[51] = 1605208418,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [32]
-		{
-			"falric", -- [1]
-			"Bitcoldmate-Kazzak", -- [2]
-			"", -- [3]
-			"1. General - Icecrown", -- [4]
-			"Bitcoldmate-Kazzak", -- [5]
-			"", -- [6]
-			1, -- [7]
-			1, -- [8]
-			"General - Icecrown", -- [9]
-			0, -- [10]
-			5889, -- [11]
-			"Player-1305-08AFDAA8", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cffc31d39Bitcoldmate|r",
-			[51] = 1605208431,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [33]
-		{
-			"tnx", -- [1]
-			"Bruttalius-Kazzak", -- [2]
-			"", -- [3]
-			"1. General - Icecrown", -- [4]
-			"Bruttalius-Kazzak", -- [5]
-			"", -- [6]
-			1, -- [7]
-			1, -- [8]
-			"General - Icecrown", -- [9]
-			0, -- [10]
-			5890, -- [11]
-			"Player-1305-0B9F2F92", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cffc59a6cBruttalius|r",
-			[51] = 1605208435,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [34]
 		{
 			"anyone got a pin pls? ", -- [1]
 			"Skyla-Kazzak", -- [2]
@@ -792,7 +44,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Skyla|r",
 			[51] = 1605208579,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [35]
+		}, -- [1]
 		{
 			"|cffffff00|Hworldmap:118:5007:8665|h[|A:Waypoint-MapPin-ChatIcon:13:13:0:0|a Map Pin Location]|h|r", -- [1]
 			"Eggington-Kazzak", -- [2]
@@ -814,7 +66,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Eggington|r",
 			[51] = 1605208594,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [36]
+		}, -- [2]
 		{
 			"4 min elft?", -- [1]
 			"Mutythemage-Kazzak", -- [2]
@@ -836,7 +88,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Mutythemage|r",
 			[51] = 1605208669,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [37]
+		}, -- [3]
 		{
 			"|cffffff00|Hworldmap:118:5007:8665|h[|A:Waypoint-MapPin-ChatIcon:13:13:0:0|a Map Pin Location]|h|r", -- [1]
 			"Nemezìs-Kazzak", -- [2]
@@ -858,7 +110,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcNemezìs|r",
 			[51] = 1605208694,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [38]
+		}, -- [4]
 		{
 			"6 min", -- [1]
 			"Davennia-Kazzak", -- [2]
@@ -880,7 +132,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Davennia|r",
 			[51] = 1605208701,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [39]
+		}, -- [5]
 		{
 			"has observed a tapped target (gray mob)!", -- [1]
 			"Kislotny-Kazzak", -- [2]
@@ -902,7 +154,7 @@ ElvCharacterDB = {
 			[52] = "|cff8687edKislotny|r",
 			[51] = 1605208864,
 			[50] = "CHAT_MSG_EMOTE",
-		}, -- [40]
+		}, -- [6]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:12824:Player-1305-0BA82744:1:11:12:20:4294967295:4294967295:4294967295:4294967295|h[Atal'Dazar]|h|r!", -- [1]
 			"Unholygatezz-Kazzak", -- [2]
@@ -924,7 +176,7 @@ ElvCharacterDB = {
 			[52] = "|cff8687edUnholygatezz|r",
 			[51] = 1605208925,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [41]
+		}, -- [7]
 		{
 			"Dont even know why we all died", -- [1]
 			"Oerknal-Kazzak", -- [2]
@@ -946,7 +198,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeOerknal|r",
 			[51] = 1605209118,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [42]
+		}, -- [8]
 		{
 			"fear has dot", -- [1]
 			"Bitcoldmate-Kazzak", -- [2]
@@ -968,7 +220,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Bitcoldmate|r",
 			[51] = 1605209129,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [43]
+		}, -- [9]
 		{
 			"the fear does dmg", -- [1]
 			"Dewzandi-Kazzak", -- [2]
@@ -990,7 +242,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Dewzandi|r",
 			[51] = 1605209130,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [44]
+		}, -- [10]
 		{
 			"Any way to not get feart ?", -- [1]
 			"Oerknal-Kazzak", -- [2]
@@ -1012,7 +264,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeOerknal|r",
 			[51] = 1605209149,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [45]
+		}, -- [11]
 		{
 			"fear ward?", -- [1]
 			"Dewzandi-Kazzak", -- [2]
@@ -1034,7 +286,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Dewzandi|r",
 			[51] = 1605209169,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [46]
+		}, -- [12]
 		{
 			"its a horrify", -- [1]
 			"Bitcoldmate-Kazzak", -- [2]
@@ -1056,7 +308,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Bitcoldmate|r",
 			[51] = 1605209179,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [47]
+		}, -- [13]
 		{
 			"New pin? :P", -- [1]
 			"Tekxna-Kazzak", -- [2]
@@ -1078,7 +330,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Tekxna|r",
 			[51] = 1605209236,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [48]
+		}, -- [14]
 		{
 			"download rarescanner?", -- [1]
 			"Lightzorr-Kazzak", -- [2]
@@ -1100,7 +352,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Lightzorr|r",
 			[51] = 1605209267,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [49]
+		}, -- [15]
 		{
 			"|cffffff00|Hworldmap:118:7890:6004|h[|A:Waypoint-MapPin-ChatIcon:13:13:0:0|a Map Pin Location]|h|r", -- [1]
 			"Bitcoldmate-Kazzak", -- [2]
@@ -1122,7 +374,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Bitcoldmate|r",
 			[51] = 1605209295,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [50]
+		}, -- [16]
 		{
 			"is skadi spawning in 5 minutes=?", -- [1]
 			"Takiscoper-Kazzak", -- [2]
@@ -1144,7 +396,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Takiscoper|r",
 			[51] = 1605218110,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [51]
+		}, -- [17]
 		{
 			"am pm is too hard for my brain", -- [1]
 			"Takiscoper-Kazzak", -- [2]
@@ -1166,7 +418,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Takiscoper|r",
 			[51] = 1605218130,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [52]
+		}, -- [18]
 		{
 			"when and where is next rare ?", -- [1]
 			"Nemish-Kazzak", -- [2]
@@ -1188,7 +440,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcNemish|r",
 			[51] = 1605218200,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [53]
+		}, -- [19]
 		{
 			"00:20", -- [1]
 			"Aruuki-Kazzak", -- [2]
@@ -1210,7 +462,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe97Aruuki|r",
 			[51] = 1605218205,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [54]
+		}, -- [20]
 		{
 			"there's an EU spreadsheet, you know?", -- [1]
 			"Aruuki-Kazzak", -- [2]
@@ -1232,7 +484,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe97Aruuki|r",
 			[51] = 1605218221,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [55]
+		}, -- [21]
 		{
 			"it isn't, rares have been cancelled", -- [1]
 			"Aihrackan-Kazzak", -- [2]
@@ -1254,7 +506,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Aihrackan|r",
 			[51] = 1605218236,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [56]
+		}, -- [22]
 		{
 			"patch", -- [1]
 			"Leiafury-Kazzak", -- [2]
@@ -1276,7 +528,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cLeiafury|r",
 			[51] = 1605218238,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [57]
+		}, -- [23]
 		{
 			"patchwerk 7min", -- [1]
 			"Leiafury-Kazzak", -- [2]
@@ -1298,7 +550,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cLeiafury|r",
 			[51] = 1605218244,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [58]
+		}, -- [24]
 		{
 			"|cffffff00|Hworldmap:118:3452:6841|h[|A:Waypoint-MapPin-ChatIcon:13:13:0:0|a Map Pin Location]|h|r", -- [1]
 			"Tentative-Kazzak", -- [2]
@@ -1320,7 +572,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cTentative|r",
 			[51] = 1605218269,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [59]
+		}, -- [25]
 		{
 			"spreadsheet im looking at is am pm", -- [1]
 			"Takiscoper-Kazzak", -- [2]
@@ -1342,7 +594,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Takiscoper|r",
 			[51] = 1605218274,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [60]
+		}, -- [26]
 		{
 			"what addon mate?", -- [1]
 			"Choggan-Kazzak", -- [2]
@@ -1364,7 +616,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Choggan|r",
 			[51] = 1605218277,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [61]
+		}, -- [27]
 		{
 			"rarescanner bro", -- [1]
 			"Tentative-Kazzak", -- [2]
@@ -1386,7 +638,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cTentative|r",
 			[51] = 1605218307,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [62]
+		}, -- [28]
 		{
 			"|cffffff00|Hworldmap:118:3452:6840|h[|A:Waypoint-MapPin-ChatIcon:13:13:0:0|a Map Pin Location]|h|r'", -- [1]
 			"Nemezìs-Kazzak", -- [2]
@@ -1408,7 +660,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcNemezìs|r",
 			[51] = 1605218321,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [63]
+		}, -- [29]
 		{
 			"https://docs.google.com/spreadsheets/d/1_HU7Z-oUCNu4MC6gHch26yPa0DMj0SaeEEQsCrCUoHI/htmlview?usp=sharing&pru=AAABdeKEWBo*haAdlz-jgo6e2e7Trt4-Mg", -- [1]
 			"Aruuki-Kazzak", -- [2]
@@ -1430,7 +682,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe97Aruuki|r",
 			[51] = 1605218331,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [64]
+		}, -- [30]
 		{
 			"blood queen in 25 mins also", -- [1]
 			"Tentative-Kazzak", -- [2]
@@ -1452,7 +704,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cTentative|r",
 			[51] = 1605218338,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [65]
+		}, -- [31]
 		{
 			"Gatewatcher?", -- [1]
 			"Nemezìs-Kazzak", -- [2]
@@ -1474,7 +726,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcNemezìs|r",
 			[51] = 1605218382,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [66]
+		}, -- [32]
 		{
 			"thats so much better", -- [1]
 			"Takiscoper-Kazzak", -- [2]
@@ -1496,7 +748,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Takiscoper|r",
 			[51] = 1605218389,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [67]
+		}, -- [33]
 		{
 			"?", -- [1]
 			"Moridan-Kazzak", -- [2]
@@ -1518,7 +770,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Moridan|r",
 			[51] = 1605218394,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [68]
+		}, -- [34]
 		{
 			"nvm", -- [1]
 			"Nemezìs-Kazzak", -- [2]
@@ -1540,7 +792,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcNemezìs|r",
 			[51] = 1605218410,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [69]
+		}, -- [35]
 		{
 			"just make a copy for yourself, so you don't get stuck on it not updating due to high traffic", -- [1]
 			"Aruuki-Kazzak", -- [2]
@@ -1562,7 +814,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe97Aruuki|r",
 			[51] = 1605218444,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [70]
+		}, -- [36]
 		{
 			"yea  ok", -- [1]
 			"Takiscoper-Kazzak", -- [2]
@@ -1584,7 +836,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Takiscoper|r",
 			[51] = 1605218506,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [71]
+		}, -- [37]
 		{
 			"will do that", -- [1]
 			"Takiscoper-Kazzak", -- [2]
@@ -1606,7 +858,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Takiscoper|r",
 			[51] = 1605218510,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [72]
+		}, -- [38]
 		{
 			"think you need to click one of the links in the top to do it", -- [1]
 			"Aruuki-Kazzak", -- [2]
@@ -1628,7 +880,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe97Aruuki|r",
 			[51] = 1605218538,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [73]
+		}, -- [39]
 		{
 			"|cffffff00|Hworldmap:118:4976:3287|h[|A:Waypoint-MapPin-ChatIcon:13:13:0:0|a Map Pin Location]|h|r", -- [1]
 			"Moridan-Kazzak", -- [2]
@@ -1650,7 +902,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Moridan|r",
 			[51] = 1605218745,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [74]
+		}, -- [40]
 		{
 			"|cffffff00|Hworldmap:118:4945:3174|h[|A:Waypoint-MapPin-ChatIcon:13:13:0:0|a Map Pin Location]|h|r next rare", -- [1]
 			"Viddivibbi-Kazzak", -- [2]
@@ -1672,7 +924,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Viddivibbi|r",
 			[51] = 1605218745,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [75]
+		}, -- [41]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:1177:Player-1305-0B12143C:1:11:12:20:4294967295:4294967295:4294967295:4294967295|h[Got My Mind On My Money]|h|r!", -- [1]
 			"Suffèring-Kazzak", -- [2]
@@ -1694,7 +946,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Suffèring|r",
 			[51] = 1605218753,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [76]
+		}, -- [42]
 		{
 			"skadi spawning soon?", -- [1]
 			"Takiscoper-Kazzak", -- [2]
@@ -1716,7 +968,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Takiscoper|r",
 			[51] = 1605295153,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [77]
+		}, -- [43]
 		{
 			"should be in 2 mins", -- [1]
 			"Unholydeathh-Kazzak", -- [2]
@@ -1738,7 +990,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Unholydeathh|r",
 			[51] = 1605295162,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [78]
+		}, -- [44]
 		{
 			"wait skadi is that", -- [1]
 			"Magearñ-Kazzak", -- [2]
@@ -1760,7 +1012,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec6eaMagearñ|r",
 			[51] = 1605295224,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [79]
+		}, -- [45]
 		{
 			"anyone has a horde server?", -- [1]
 			"Unholydeathh-Kazzak", -- [2]
@@ -1782,7 +1034,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Unholydeathh|r",
 			[51] = 1605295226,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [80]
+		}, -- [46]
 		{
 			"utgarde pinnacle skadi", -- [1]
 			"Magearñ-Kazzak", -- [2]
@@ -1804,7 +1056,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec6eaMagearñ|r",
 			[51] = 1605295228,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [81]
+		}, -- [47]
 		{
 			"theres 50 ally here", -- [1]
 			"Unholydeathh-Kazzak", -- [2]
@@ -1826,7 +1078,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Unholydeathh|r",
 			[51] = 1605295237,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [82]
+		}, -- [48]
 		{
 			"Skadi the Ruthless (100%) |cffffff00|Hworldmap:118:5762:5593|h[|A:Waypoint-MapPin-ChatIcon:13:13:0:0|a Map Pin Location]|h|r", -- [1]
 			"Kiggler-Kazzak", -- [2]
@@ -1848,7 +1100,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Kiggler|r",
 			[51] = 1605295288,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [83]
+		}, -- [49]
 		{
 			"Grp=", -- [1]
 			"Rippabilly-Kazzak", -- [2]
@@ -1870,7 +1122,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cRippabilly|r",
 			[51] = 1605295374,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [84]
+		}, -- [50]
 		{
 			"?*", -- [1]
 			"Rippabilly-Kazzak", -- [2]
@@ -1892,7 +1144,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cRippabilly|r",
 			[51] = 1605295376,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [85]
+		}, -- [51]
 		{
 			"give u nothing", -- [1]
 			"Demannu-Kazzak", -- [2]
@@ -1914,7 +1166,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cDemannu|r",
 			[51] = 1605295383,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [86]
+		}, -- [52]
 		{
 			"ye magearn", -- [1]
 			"Unholydeathh-Kazzak", -- [2]
@@ -1936,7 +1188,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Unholydeathh|r",
 			[51] = 1605295383,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [87]
+		}, -- [53]
 		{
 			"no reason to", -- [1]
 			"Orandis-Kazzak", -- [2]
@@ -1958,7 +1210,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Orandis|r",
 			[51] = 1605295387,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [88]
+		}, -- [54]
 		{
 			"Oh well", -- [1]
 			"Rippabilly-Kazzak", -- [2]
@@ -1980,7 +1232,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cRippabilly|r",
 			[51] = 1605295394,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [89]
+		}, -- [55]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:1177:Player-1305-0BA15460:1:11:13:20:4294967295:4294967295:4294967295:4294967295|h[Got My Mind On My Money]|h|r!", -- [1]
 			"Kubos-Kazzak", -- [2]
@@ -2002,7 +1254,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Kubos|r",
 			[51] = 1605295410,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [90]
+		}, -- [56]
 		{
 			"that guy has my blue proto drake", -- [1]
 			"Magearñ-Kazzak", -- [2]
@@ -2024,7 +1276,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec6eaMagearñ|r",
 			[51] = 1605295439,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [91]
+		}, -- [57]
 		{
 			"reee", -- [1]
 			"Magearñ-Kazzak", -- [2]
@@ -2046,7 +1298,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec6eaMagearñ|r",
 			[51] = 1605295440,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [92]
+		}, -- [58]
 		{
 			"0 drop again", -- [1]
 			"Shinan-Kazzak", -- [2]
@@ -2068,7 +1320,7 @@ ElvCharacterDB = {
 			[52] = "|cff8687edShinan|r",
 			[51] = 1605295449,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [93]
+		}, -- [59]
 		{
 			"you can kill him every 6h40min", -- [1]
 			"Ew-Kazzak", -- [2]
@@ -2090,7 +1342,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Ew|r",
 			[51] = 1605295450,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [94]
+		}, -- [60]
 		{
 			"get farmin'", -- [1]
 			"Ew-Kazzak", -- [2]
@@ -2112,7 +1364,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Ew|r",
 			[51] = 1605295453,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [95]
+		}, -- [61]
 		{
 			"|cffa335ee|Hitem:183670::::::::50:70:::2:1482:4786:1:28:1401:::|h[Skadi's Saronite Belt]|h|r Parry as a secondary stat?!", -- [1]
 			"Kiggler-Kazzak", -- [2]
@@ -2134,7 +1386,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Kiggler|r",
 			[51] = 1605295456,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [96]
+		}, -- [62]
 		{
 			"haha finger point", -- [1]
 			"Demannu-Kazzak", -- [2]
@@ -2156,7 +1408,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cDemannu|r",
 			[51] = 1605295457,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [97]
+		}, -- [63]
 		{
 			"next up |cffffff00|Hworldmap:118:5236:5157|h[|A:Waypoint-MapPin-ChatIcon:13:13:0:0|a Map Pin Location]|h|r", -- [1]
 			"Orandis-Kazzak", -- [2]
@@ -2178,7 +1430,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Orandis|r",
 			[51] = 1605295459,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [98]
+		}, -- [64]
 		{
 			"life's hard", -- [1]
 			"Ninjoy-GrimBatol", -- [2]
@@ -2200,6 +1452,754 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Ninjoy-GrimBatol|r",
 			[51] = 1605295460,
 			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [65]
+		{
+			"%s has earned the achievement |cffffff00|Hachievement:14500:Player-1305-0B0DD2A3:1:2:17:21:4294967295:4294967295:4294967295:4294967295|h[Phantastic]|h|r!", -- [1]
+			"Adrenalynz-Kazzak", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Adrenalynz-Kazzak", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			3, -- [11]
+			"Player-1305-0B0DD2A3", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa9d271Adrenalynz|r",
+			[51] = 1613566253,
+			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+		}, -- [66]
+		{
+			"2K Rio Team Selling High Keys Cheap AF  IN TIME Guarantee  +17 +18 +19 +20 |cffa335ee|Hkeystone:180653:376:20:10:8:12:121|h[Keystone: The Necrotic Wake (20)]|h|r", -- [1]
+			"Fidèl-Kazzak", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Fidèl-Kazzak", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			9, -- [11]
+			"Player-1305-0AC32051", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cfffef367Fidèl|r",
+			[51] = 1613566280,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [67]
+		{
+			"[+15=325k intime] <S Y L V A N A S> ] Last 2 Boss Hc every 40 min 180k (Sire 100K)  [ +10 110k ] || Buy 2x m+ got Free armorstack [ +12=140k ] [M+14 intime 215k ] [5x10 = 480k] [5x12=620k] keystone master 2400k (all +15)", -- [1]
+			"Topmomy-Kazzak", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Topmomy-Kazzak", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			10, -- [11]
+			"Player-1305-0BDE5E1A", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cfffe7b09Topmomy|r",
+			[51] = 1613566280,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [68]
+		{
+			"< NOVA> WTS  //   +14=180k   //> <   +15= 285k   >  > +10= 105k   //  +12 = 135k  ><  ><KEYSTONE MASTER =  2350k  // FREE ARMOR STACK FOR 2x RUN  |cff66bbff|Hjournal:0:1190:16|h[Castle Nathria]|h|rHC FULL RUN 740k / 240k FOR EACH  VIP , CURVE FOR 180k", -- [1]
+			"Nvkazova-Kazzak", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Nvkazova-Kazzak", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			11, -- [11]
+			"Player-1305-0BD8F44E", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cff00fe97Nvkazova|r",
+			[51] = 1613566281,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [69]
+		{
+			"<Icecrown> Is selling |cffffff00|Hachievement:14460:Player-1305-0B1E57EE:0:0:0:0:0:0:0:0|h[Ahead of the Curve: Sire Denathrius]|h|r FOR 100k Last 2 for 170k, RUN EVERY 30mins.  Contact me for more info", -- [1]
+			"Jamescurve-Kazzak", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Jamescurve-Kazzak", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			12, -- [11]
+			"Player-1305-0BD4D7F6", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cff3ec6eaJamescurve|r",
+			[51] = 1613566282,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [70]
+		{
+			"WTS Mythic dungeons +1-15 intime With +1.5 io Group - All Loot is Tradable -all Armor is Free!  Have Any Key U Want-||-Aslo Selling KeyMaster-||Cheap Price||- Free To Ask The Price|| /w   ", -- [1]
+			"Camaross-Kazzak", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Camaross-Kazzak", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			13, -- [11]
+			"Player-1305-0A252538", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cfffe7b09Camaross|r",
+			[51] = 1613566282,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [71]
+		{
+			"<Dawn> Offering HC Cn with VIP TRADERS/Also offering |cffffff00|Hachievement:14460:Player-1084-0A27DC42:0:0:0:0:0:0:0:0|h[Ahead of the Curve: Sire Denathrius]|h|r & Stone Legion General Starting at 13:00 / M+ keys <0-20> 100%  Intime /w me !", -- [1]
+			"Chaostheor-Kazzak", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Chaostheor-Kazzak", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			14, -- [11]
+			"Player-1305-0BA27467", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cff00fe97Chaostheor|r",
+			[51] = 1613566284,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [72]
+		{
+			"<\"Nova\"> OFFERING TODAY || HEROIC Castle Nathria 730k  Trader 240k || NORMAL Castle Natheria 190k  ||  Sire Heroic \"Curve\" 180k || M+10 = 105k || M+12 = 135k ||  M+14 = 180k || M+15 = 285k || KEYSTONE MASTER = 2350k ||", -- [1]
+			"Novinova-Kazzak", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Novinova-Kazzak", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			15, -- [11]
+			"Player-1305-0BDA81DA", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cfffef367Novinova|r",
+			[51] = 1613566284,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [73]
+		{
+			"<Deal With It>10/10M World rank 44 is selling Denathrius HC |cffffff00|Hachievement:14460:Player-1305-0A3CBDCE:1:12:13:20:4294967295:4294967295:4294967295:4294967295|h[Ahead of the Curve: Sire Denathrius]|h|r for 90k. We accept gold on all realms.", -- [1]
+			"Malikola-Kazzak", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Malikola-Kazzak", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			17, -- [11]
+			"Player-1305-0BD75C01", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cff00fe97Malikola|r",
+			[51] = 1613566284,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [74]
+		{
+			"Guilde Irani <Achaemenid> 3/10 M  baraye raide mythic Castle Nathria be donbale player haye active, ba akhlagh va ba tajrobe migardad. /w for more info.", -- [1]
+			"Pantheòn-Kazzak", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Pantheòn-Kazzak", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			18, -- [11]
+			"Player-1305-0AF24FD9", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cfff38bb9Pantheòn|r",
+			[51] = 1613566284,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [75]
+		{
+			"<Nova> Offering [KSM 2350K] [Mythic 0-18 In Time][+10 105k/12 135k/+14 180k/+15 285k] [ArmorStack/Specify keys ] [All 15s in time 2350k] - Castle Nathria Hc 10/10 730k - Trader  / Cn Nm 10/10 190k Traders Available [Arena][Curve 180k] /w More! ", -- [1]
+			"Novaboostmqt-Kazzak", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Novaboostmqt-Kazzak", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			19, -- [11]
+			"Player-1305-0BD7B058", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cfffef367Novaboostmqt|r",
+			[51] = 1613566285,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [76]
+		{
+			"|cffffd100|HclubTicket:43NKLgujJE|h[Join: boe mythic kazzak]|h|r Boe mythic farm free ", -- [1]
+			"Chriistopher-Kazzak", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Chriistopher-Kazzak", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			20, -- [11]
+			"Player-1305-0B98F4A5", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cfffe7b09Chriistopher|r",
+			[51] = 1613566285,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [77]
+		{
+			"< PARADISE > HOT DEALS !  |||| HC LAST 2 BOSS CURVE |||| |cff66bbff|Hjournal:1:2424:14|h[Sire Denathrius]|h|r + |cff66bbff|Hjournal:1:2425:15|h[Stone Legion Generals]|h|r  boosts ! Get your curve achi , and item. Going every 30 mins ! Only for gold.", -- [1]
+			"Wianthe-Kazzak", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Wianthe-Kazzak", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			21, -- [11]
+			"Player-1305-0B46AF5E", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cfffe7b09Wianthe|r",
+			[51] = 1613566286,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [78]
+		{
+			"<NOVA> WTS [M0-M15] with gruantied time [Torghast - Layers 1-8] All key levels available, Normal castle Nathria And Hc, Trader  available And Also Pvp  and Glory boosts ,bulk discount, too!Only For Gold /w For more info", -- [1]
+			"Naturelism-Kazzak", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Naturelism-Kazzak", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			23, -- [11]
+			"Player-1305-084AD76F", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cfffe7b09Naturelism|r",
+			[51] = 1613566286,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [79]
+		{
+			"<NOVA> M+ 15=285k |||| 14=180k |||| 10=135k |||| 2M+ 7.5%, 4M+ 10% 6M+ 12-5% 8M+ 15% DISCOUNT AND MORE, WITH FREE ARMOR STACK FROM 2+ ONWARDS // Also offering Torghast//Keystone Master//PVP!!!!  /w for more info :)", -- [1]
+			"Novaboôster-Kazzak", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Novaboôster-Kazzak", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			24, -- [11]
+			"Player-1305-0B3242F1", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffa9d271Novaboôster|r",
+			[51] = 1613566286,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [80]
+		{
+			"Selling keystone master 150k per dungeon, Also 16/17/18", -- [1]
+			"Koyjin-Kazzak", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Koyjin-Kazzak", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			25, -- [11]
+			"Player-1305-08F7B36D", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cfff38bb9Koyjin|r",
+			[51] = 1613566287,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [81]
+		{
+			"Sylvanas Community Selling Castle Nathria runs Last 2 Bosses every 30 mins Generals 90k , Sire 100k , Both 170k ||10/10 Heroic PL/VIP TRADERS||+0-15||+10 110k||+14 215k||+15 335k||discount on multiple run||Keystone Master2.4M||Torghast||Mythic Raid", -- [1]
+			"Lâna-Kazzak", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Lâna-Kazzak", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			26, -- [11]
+			"Player-1305-0AA251DA", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cff3ec6eaLâna|r",
+			[51] = 1613566289,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [82]
+		{
+			">> 8X15 KSM 2.5M << In Time GuaranTee < <S Y L V A N A S> > Selling >>|| LAST 2 BOSS EVERY 20 MIN ||<<>>||2XM+=FREE ARMOR STACK||<<>>|| Can book castle 10/10 Hc/Mythic ||<<>>||M+10 = 135K||<<>>||M+14 = 245K||<<>>||M+15 = 375k||<<>>||5x12 =740k|| /W me", -- [1]
+			"Kzzkdeal-Kazzak", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Kzzkdeal-Kazzak", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			27, -- [11]
+			"Player-1305-0BDEEDA1", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cfff38bb9Kzzkdeal|r",
+			[51] = 1613566289,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [83]
+		{
+			"<Sylvanas Community> SELLING Last 2 Bosses HC Every 30 Mins |||cff66bbff|Hjournal:1:2424:14|h[Sire Denathrius]|h|r HC \"100K\"//|cff66bbff|Hjournal:1:2425:15|h[Stone Legion Generals]|h|r \"90k\" Both For  <170K>\"// Full HC \"450K\"// VIP //W for book spot", -- [1]
+			"Sylvaniak-Kazzak", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Sylvaniak-Kazzak", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			32, -- [11]
+			"Player-1305-0BDA2ACA", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cff00fe97Sylvaniak|r",
+			[51] = 1613566293,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [84]
+		{
+			"WTS >Torghast< Boost L8 >>50%off<<Twising corridors L8  Smooth and Fast", -- [1]
+			"Ashudaan-Kazzak", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Ashudaan-Kazzak", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			34, -- [11]
+			"Player-1305-08781F79", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffa22fc8Ashudaan|r",
+			[51] = 1613566293,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [85]
+		{
+			"<Dawn> [WTS] |cff66bbff|Hjournal:0:1190:14|h[Castle Nathria]|h|r <MYTHIC 10/10>  <HC10/10 445k> <VIP Trader> <Sire 100k> <SLG 90k> <Last2 170k>And Weekly<M+10 135k> <M+14 245k><M+15 375k>All keys INTIME Grantee[Armor Stack+Specific key] <Torghast> <PVP", -- [1]
+			"Dawnhelper-Kazzak", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Dawnhelper-Kazzak", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			35, -- [11]
+			"Player-1305-0BE40EF1", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cfffe7b09Dawnhelper|r",
+			[51] = 1613566294,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [86]
+		{
+			"Oblivion  WTS  M+15 330k   Get Your |cffffff00|Hachievement:14532:Player-1305-0B9B6817:1:12:26:20:4294967295:4294967295:4294967295:4294967295|h[Shadowlands Keystone Master: Season One]|h|rNOW!  M+14 300k    PvP 0-2400   10/10HC 450k!  10/10Mythic /w ", -- [1]
+			"Varakekw-Kazzak", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Varakekw-Kazzak", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			38, -- [11]
+			"Player-1305-0B266266", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cfff38bb9Varakekw|r",
+			[51] = 1613566295,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [87]
+		{
+			"<Dawn Community> WTS MYTHIC+ (0-20) Armor Stack/Specific Keys, HEROIC [Castle Nathria] 10/10 or last boss with VIP traders!!, MYTHIC pre booking!, Arena boosts done by 3K+ xped boosters, Legacy... /w me for more info!", -- [1]
+			"Dawnagent-Kazzak", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Dawnagent-Kazzak", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			39, -- [11]
+			"Player-1305-0BD1F92D", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cff3ec6eaDawnagent|r",
+			[51] = 1613566296,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [88]
+		{
+			"<N O V A >  || KSM 2350K || || M+15=285k || ||M+14=180k || ||M+12 135k|| ||M+10=105k|| <8/8M+0 390k || || Heroic Castle Nathria 730k Trader 240k STARING SOON || NORMAL Castle Nathria 190k Trader 90k || Sire Heroic \"Curve\"180k ||  /w More!", -- [1]
+			"Novaolalawqt-Kazzak", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Novaolalawqt-Kazzak", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			53, -- [11]
+			"Player-1305-0BDD19BE", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cff00fe97Novaolalawqt|r",
+			[51] = 1613566303,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [89]
+		{
+			"<< S Y L V A N A S >> armor stack  ( M+15=330K In Time )) M+14 220K << M+10 110K >>  M+12=145k (( 3X15 = 900K )) >> (( 5X15 = 1400K )) >>(( KSM all m+15 intime  =2400K ))<< U Get Loot >>[Sire Denathrius=100k] last 2 boss=170k  Every 20 min 10/10 hc/", -- [1]
+			"Sylvot-Kazzak", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Sylvot-Kazzak", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			58, -- [11]
+			"Player-1305-0BE4222D", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cfffe7b09Sylvot|r",
+			[51] = 1613566304,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [90]
+		{
+			"<NOVA>|cff66bbff|Hjournal:0:1190:14|h[Castle Nathria]|h|r HC 730k (traders 240k each)!!!  Torghast//Keystone Master//Mythic+//PVP!! /w for more info :)", -- [1]
+			"Novaboôster-Kazzak", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Novaboôster-Kazzak", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			59, -- [11]
+			"Player-1305-0B3242F1", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffa9d271Novaboôster|r",
+			[51] = 1613566304,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [91]
+		{
+			"WTS Boost Torghast Layer 8 Both Side And Twisted Corridors Layer 1-- 8 Esey and Fast w.me for info", -- [1]
+			"Regaila-Kazzak", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Regaila-Kazzak", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			62, -- [11]
+			"Player-1305-09438C82", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cfffe7b09Regaila|r",
+			[51] = 1613566305,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [92]
+		{
+			"<Sylvanas Community> Selling Castle Nathria runs Last 2 Bosses Generals 90k, Sire 100k , Both 170k ||10/10 Heroic PL/VIP TRADERS||+0-20||+10 110k||+14 215k||+15 325k||discounts on multiple runs||Keystone Master\"2400k\"||Torghast Layer||Mythic Raid||", -- [1]
+			"Mädlife-Kazzak", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Mädlife-Kazzak", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			63, -- [11]
+			"Player-1305-0BE34BD2", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cff3ec6eaMädlife|r",
+			[51] = 1613566305,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [93]
+		{
+			"<NOVA> m+10 105k, Up To +15 320k, Bulk Discount Available And Give Free Armor Stack || CN HC 730k  - Trader 240k - CURVE 180k || KSM 2350k /W For More Services", -- [1]
+			"Boostersnova-Kazzak", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Boostersnova-Kazzak", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			67, -- [11]
+			"Player-1305-0B468FC6", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffc59a6cBoostersnova|r",
+			[51] = 1613566307,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [94]
+		{
+			"<Ancient Prophecy> (6/10M) Now looking for an exceptional Lock/Hunt/Mage/Disc/Hpala. Raiding Wed/Thur/Sun 19:00-23:00. If interested, please drop a whisper or head over and complete our form: https://forms.gle/eDagPtpGEPEKfQCY7", -- [1]
+			"Huffý-Kazzak", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Huffý-Kazzak", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			72, -- [11]
+			"Player-1305-0BC3071A", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffa9d271Huffý|r",
+			[51] = 1613566309,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [95]
+		{
+			"WTS |cffa335ee|Hitem:183031::::::::60:252::6:5:7187:6652:7193:1498:6646:1:28:753:::|h[Soldier's Stoneband Wristguards]|h|r CHEAPER THAN AH /w", -- [1]
+			"Makavile-Kazzak", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Makavile-Kazzak", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			75, -- [11]
+			"Player-1305-048C0EB2", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffc31d39Makavile|r",
+			[51] = 1613566314,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [96]
+		{
+			"<Shroud>  3 day raiding guild with CE lead 5/10M  looking for RDPS and HELAERS to bolster our ranks for mythic raiding if you are interested w/ me raid time wed/thu/mon 21.30-00.00", -- [1]
+			"Pipíy-Kazzak", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Pipíy-Kazzak", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			81, -- [11]
+			"Player-1305-0B0E1002", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffa22fc8Pipíy|r",
+			[51] = 1613566320,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [97]
+		{
+			"<DAWN> Offers |cff66bbff|Hjournal:0:1190:14|h[Castle Nathria]|h|r<MYTHIC 10/10><HEROIC 10/10 450k><SIRE 100k I LAST 2 170k I SLG 90k><VIP TRADER><EVERY 40 Mins>IN-TIME<M+10 135k I M+12 175k||M+14 245k I M+15 375k><KSM 2400K><LEVELING><ARMOR STACK||SPECEFIC KEY><TORGHAST><PVP> /w Me", -- [1]
+			"Sutadh-Kazzak", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Sutadh-Kazzak", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			84, -- [11]
+			"Player-1305-0879EE63", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffa22fc8Sutadh|r",
+			[51] = 1613566323,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [98]
+		{
+			"%s has earned the achievement |cffffff00|Hachievement:6933:Player-1305-0B14EB4D:1:2:17:21:4294967295:4294967295:4294967295:4294967295|h[Who's Got Two Green Thumbs?]|h|r!", -- [1]
+			"Takiscoper-Kazzak", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Takiscoper-Kazzak", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			123, -- [11]
+			"Player-1305-0B14EB4D", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa9d271Takiscoper|r",
+			[51] = 1613566544,
+			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
 		}, -- [99]
 	},
 }
