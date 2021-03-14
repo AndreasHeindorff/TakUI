@@ -5,8 +5,8 @@ HandyNotes_ShadowlandsDB = {
 		["Takiscoper - Kazzak"] = "Default",
 		["Takibank - Argent Dawn"] = "Default",
 		["Renqqø - Kazzak"] = "Default",
-		["Rentaki - Kazzak"] = "Default",
 		["Takidin - Kazzak"] = "Default",
+		["Rentaki - Kazzak"] = "Default",
 	},
 	["profiles"] = {
 		["Default"] = {

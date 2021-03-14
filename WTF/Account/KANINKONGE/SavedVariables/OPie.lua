@@ -10,8 +10,8 @@ OneRing_Config = {
 			["Bindings"] = {
 				["Toys"] = false,
 				["rtantStuff"] = "F2",
-				["OPieTracking"] = false,
 				["OPieAutoQuest"] = false,
+				["OPieTracking"] = false,
 			},
 		},
 	},
