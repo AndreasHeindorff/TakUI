@@ -17,1376 +17,12 @@ ElvCharacterDB = {
 		"/m", -- [14]
 		"/masque", -- [15]
 		"/bigwigs", -- [16]
-		"/wa", -- [17]
-		"/elvui", -- [18]
-		"/ec", -- [19]
-		"/reload", -- [20]
+		"/elvui", -- [17]
+		"/ec", -- [18]
+		"/reload", -- [19]
+		"/wa", -- [20]
 	},
 	["ChatHistoryLog"] = {
-		{
-			"we are doing it", -- [1]
-			"Degenerati-Stormscale", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Degenerati-Stormscale", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			284, -- [11]
-			"Player-2073-099E194B", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc59a6cDegenerati-Stormscale|r",
-			[51] = 1615681889,
-			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [1]
-		{
-			"this time", -- [1]
-			"Degenerati-Stormscale", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Degenerati-Stormscale", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			285, -- [11]
-			"Player-2073-099E194B", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc59a6cDegenerati-Stormscale|r",
-			[51] = 1615681891,
-			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [2]
-		{
-			"no doubt", -- [1]
-			"Degenerati-Stormscale", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Degenerati-Stormscale", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			286, -- [11]
-			"Player-2073-099E194B", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc59a6cDegenerati-Stormscale|r",
-			[51] = 1615681893,
-			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [3]
-		{
-			"typing is cringe", -- [1]
-			"Sneakykenny-TarrenMill", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Sneakykenny-TarrenMill", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			287, -- [11]
-			"Player-1084-0A2A7372", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffef367Sneakykenny-TarrenMill|r",
-			[51] = 1615681895,
-			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [4]
-		{
-			"MYYYYYYYYYYYYYYYYYYYYYYY", -- [1]
-			"Lancerqt-Stormscale", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Lancerqt-Stormscale", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			290, -- [11]
-			"Player-2073-099CA06F", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff006fdcLancerqt-Stormscale|r",
-			[51] = 1615681898,
-			[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
-		}, -- [5]
-		{
-			"G", -- [1]
-			"Lancerqt-Stormscale", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Lancerqt-Stormscale", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			292, -- [11]
-			"Player-2073-099CA06F", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff006fdcLancerqt-Stormscale|r",
-			[51] = 1615681899,
-			[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
-		}, -- [6]
-		{
-			"just explain to tanks", -- [1]
-			"Degenerati-Stormscale", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Degenerati-Stormscale", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			293, -- [11]
-			"Player-2073-099E194B", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc59a6cDegenerati-Stormscale|r",
-			[51] = 1615681899,
-			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [7]
-		{
-			"he is drunk like SHIT", -- [1]
-			"Chitus-TwistingNether", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Chitus-TwistingNether", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			295, -- [11]
-			"Player-3674-07CCA4AD", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff00fe97Chitus-TwistingNether|r",
-			[51] = 1615681901,
-			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [8]
-		{
-			"taht they have to drop", -- [1]
-			"Degenerati-Stormscale", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Degenerati-Stormscale", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			297, -- [11]
-			"Player-2073-099E194B", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc59a6cDegenerati-Stormscale|r",
-			[51] = 1615681903,
-			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [9]
-		{
-			"aggro", -- [1]
-			"Degenerati-Stormscale", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Degenerati-Stormscale", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			298, -- [11]
-			"Player-2073-099E194B", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc59a6cDegenerati-Stormscale|r",
-			[51] = 1615681904,
-			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [10]
-		{
-			"CANT SEE WITHOUT CAPSSSSSSSSSSSSSSSSSSS", -- [1]
-			"Lancerqt-Stormscale", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Lancerqt-Stormscale", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			299, -- [11]
-			"Player-2073-099CA06F", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff006fdcLancerqt-Stormscale|r",
-			[51] = 1615681905,
-			[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
-		}, -- [11]
-		{
-			"when they reach", -- [1]
-			"Degenerati-Stormscale", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Degenerati-Stormscale", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			300, -- [11]
-			"Player-2073-099E194B", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc59a6cDegenerati-Stormscale|r",
-			[51] = 1615681908,
-			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [12]
-		{
-			"BROOOOOOOOOOOOO", -- [1]
-			"Lancerqt-Stormscale", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Lancerqt-Stormscale", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			302, -- [11]
-			"Player-2073-099CA06F", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff006fdcLancerqt-Stormscale|r",
-			[51] = 1615681909,
-			[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
-		}, -- [13]
-		{
-			"U SEEE", -- [1]
-			"Lancerqt-Stormscale", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Lancerqt-Stormscale", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			303, -- [11]
-			"Player-2073-099CA06F", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff006fdcLancerqt-Stormscale|r",
-			[51] = 1615681910,
-			[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
-		}, -- [14]
-		{
-			"certain amount of stacks", -- [1]
-			"Degenerati-Stormscale", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Degenerati-Stormscale", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			304, -- [11]
-			"Player-2073-099E194B", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc59a6cDegenerati-Stormscale|r",
-			[51] = 1615681911,
-			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [15]
-		{
-			"NOW ???????????????", -- [1]
-			"Lancerqt-Stormscale", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Lancerqt-Stormscale", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			305, -- [11]
-			"Player-2073-099CA06F", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff006fdcLancerqt-Stormscale|r",
-			[51] = 1615681914,
-			[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
-		}, -- [16]
-		{
-			"TANKS", -- [1]
-			"Lancerqt-Stormscale", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Lancerqt-Stormscale", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			312, -- [11]
-			"Player-2073-099CA06F", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff006fdcLancerqt-Stormscale|r",
-			[51] = 1615681935,
-			[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
-		}, -- [17]
-		{
-			"tanks", -- [1]
-			"Makozy-TarrenMill", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Makozy-TarrenMill", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			313, -- [11]
-			"Player-1084-0A353866", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff006fdcMakozy-TarrenMill|r",
-			[51] = 1615681947,
-			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [18]
-		{
-			"the last dog", -- [1]
-			"Makozy-TarrenMill", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Makozy-TarrenMill", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			314, -- [11]
-			"Player-1084-0A353866", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff006fdcMakozy-TarrenMill|r",
-			[51] = 1615681951,
-			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [19]
-		{
-			"has stacks", -- [1]
-			"Makozy-TarrenMill", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Makozy-TarrenMill", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			315, -- [11]
-			"Player-1084-0A353866", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff006fdcMakozy-TarrenMill|r",
-			[51] = 1615681953,
-			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [20]
-		{
-			"im asking calmly and kindly tanks do u know what to do ? ", -- [1]
-			"Lancerqt-Stormscale", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Lancerqt", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			316, -- [11]
-			"Player-2073-099CA06F", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff006fdcLancerqt-Stormscale|r",
-			[51] = 1615681954,
-			[50] = "CHAT_MSG_RAID_WARNING",
-		}, -- [21]
-		{
-			"no idea", -- [1]
-			"Jakez-Stormreaver", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Jakez-Stormreaver", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			318, -- [11]
-			"Player-3656-08D0C4DD", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc59a6cJakez-Stormreaver|r",
-			[51] = 1615681962,
-			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [22]
-		{
-			"or, use big brain tactics and pop damage mitigation spells", -- [1]
-			"Preachling-ArgentDawn", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Preachling-ArgentDawn", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			319, -- [11]
-			"Player-3702-09D99E05", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffefefePreachling-ArgentDawn|r",
-			[51] = 1615681964,
-			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [23]
-		{
-			"let him walk to drop them", -- [1]
-			"Makozy-TarrenMill", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Makozy-TarrenMill", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			320, -- [11]
-			"Player-1084-0A353866", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff006fdcMakozy-TarrenMill|r",
-			[51] = 1615681965,
-			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [24]
-		{
-			"that would be lit", -- [1]
-			"Preachling-ArgentDawn", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Preachling-ArgentDawn", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			321, -- [11]
-			"Player-3702-09D99E05", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffefefePreachling-ArgentDawn|r",
-			[51] = 1615681969,
-			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [25]
-		{
-			"but i know how to listen to dbm", -- [1]
-			"Jakez-Stormreaver", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Jakez-Stormreaver", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			322, -- [11]
-			"Player-3656-08D0C4DD", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc59a6cJakez-Stormreaver|r",
-			[51] = 1615681969,
-			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [26]
-		{
-			"but if you let him walk", -- [1]
-			"Makozy-TarrenMill", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Makozy-TarrenMill", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			323, -- [11]
-			"Player-1084-0A353866", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff006fdcMakozy-TarrenMill|r",
-			[51] = 1615681969,
-			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [27]
-		{
-			"he does raid damage", -- [1]
-			"Makozy-TarrenMill", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Makozy-TarrenMill", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			324, -- [11]
-			"Player-1084-0A353866", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff006fdcMakozy-TarrenMill|r",
-			[51] = 1615681972,
-			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [28]
-		{
-			"so look at our health first", -- [1]
-			"Makozy-TarrenMill", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Makozy-TarrenMill", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			325, -- [11]
-			"Player-1084-0A353866", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff006fdcMakozy-TarrenMill|r",
-			[51] = 1615681978,
-			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [29]
-		{
-			"ALAHU AKBAR BOYS WE SELF DESTRUCT OUR WAY TO GLORIUS TANKING VICTORY DONT BOMB YOURSELFS VITNAM IS OURS DURMISHXAN THE FOURTH WAS ARMENIAN LEADER WHO DIED IN PAKISTAN", -- [1]
-			"Degenerati-Stormscale", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Degenerati-Stormscale", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			327, -- [11]
-			"Player-2073-099E194B", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc59a6cDegenerati-Stormscale|r",
-			[51] = 1615681980,
-			[50] = "CHAT_MSG_YELL",
-		}, -- [30]
-		{
-			"dont let hem get too much stacks", -- [1]
-			"Makozy-TarrenMill", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Makozy-TarrenMill", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			328, -- [11]
-			"Player-1084-0A353866", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff006fdcMakozy-TarrenMill|r",
-			[51] = 1615681982,
-			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [31]
-		{
-			"or you die", -- [1]
-			"Makozy-TarrenMill", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Makozy-TarrenMill", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			329, -- [11]
-			"Player-1084-0A353866", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff006fdcMakozy-TarrenMill|r",
-			[51] = 1615681984,
-			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [32]
-		{
-			"okay then listen to makozy he will explain !", -- [1]
-			"Lancerqt-Stormscale", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Lancerqt-Stormscale", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			330, -- [11]
-			"Player-2073-099CA06F", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff006fdcLancerqt-Stormscale|r",
-			[51] = 1615681985,
-			[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
-		}, -- [33]
-		{
-			"brb smoke  min", -- [1]
-			"Lancerqt-Stormscale", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Lancerqt-Stormscale", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			331, -- [11]
-			"Player-2073-099CA06F", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff006fdcLancerqt-Stormscale|r",
-			[51] = 1615681995,
-			[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
-		}, -- [34]
-		{
-			"so walk the dog", -- [1]
-			"Jakez-Stormreaver", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Jakez-Stormreaver", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			332, -- [11]
-			"Player-3656-08D0C4DD", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc59a6cJakez-Stormreaver|r",
-			[51] = 1615682003,
-			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [35]
-		{
-			"got it", -- [1]
-			"Jakez-Stormreaver", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Jakez-Stormreaver", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			333, -- [11]
-			"Player-3656-08D0C4DD", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc59a6cJakez-Stormreaver|r",
-			[51] = 1615682004,
-			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [36]
-		{
-			"only", -- [1]
-			"Makozy-TarrenMill", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Makozy-TarrenMill", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			334, -- [11]
-			"Player-1084-0A353866", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff006fdcMakozy-TarrenMill|r",
-			[51] = 1615682008,
-			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [37]
-		{
-			"when he has too much stacks too handle", -- [1]
-			"Makozy-TarrenMill", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Makozy-TarrenMill", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			335, -- [11]
-			"Player-1084-0A353866", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff006fdcMakozy-TarrenMill|r",
-			[51] = 1615682014,
-			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [38]
-		{
-			"when the second boss comes", -- [1]
-			"Makozy-TarrenMill", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Makozy-TarrenMill", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			336, -- [11]
-			"Player-1084-0A353866", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff006fdcMakozy-TarrenMill|r",
-			[51] = 1615682018,
-			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [39]
-		{
-			"\"smoke\"", -- [1]
-			"Haxhar-TwistingNether", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Haxhar-TwistingNether", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			337, -- [11]
-			"Player-3674-05A14382", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc59a6cHaxhar-TwistingNether|r",
-			[51] = 1615682020,
-			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [40]
-		{
-			"tank him away from the huntsman", -- [1]
-			"Makozy-TarrenMill", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Makozy-TarrenMill", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			339, -- [11]
-			"Player-1084-0A353866", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff006fdcMakozy-TarrenMill|r",
-			[51] = 1615682025,
-			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [41]
-		{
-			"so huntsman is on one side of the room", -- [1]
-			"Makozy-TarrenMill", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Makozy-TarrenMill", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			342, -- [11]
-			"Player-1084-0A353866", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff006fdcMakozy-TarrenMill|r",
-			[51] = 1615682042,
-			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [42]
-		{
-			"the dog on the other side", -- [1]
-			"Makozy-TarrenMill", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Makozy-TarrenMill", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			343, -- [11]
-			"Player-1084-0A353866", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff006fdcMakozy-TarrenMill|r",
-			[51] = 1615682047,
-			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [43]
-		{
-			"dps", -- [1]
-			"Makozy-TarrenMill", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Makozy-TarrenMill", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			344, -- [11]
-			"Player-1084-0A353866", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff006fdcMakozy-TarrenMill|r",
-			[51] = 1615682048,
-			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [44]
-		{
-			"dont worry", -- [1]
-			"Jakez-Stormreaver", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Jakez-Stormreaver", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			345, -- [11]
-			"Player-3656-08D0C4DD", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc59a6cJakez-Stormreaver|r",
-			[51] = 1615682053,
-			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [45]
-		{
-			"i got this from BFA |cffa335ee|Hitem:172653::::::::60:73::25:6:6387:6388:1507:4786:6516:6513::::|h[Corrupted Gladiator's Shield Wall]|h|r", -- [1]
-			"Jakez-Stormreaver", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Jakez-Stormreaver", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			346, -- [11]
-			"Player-3656-08D0C4DD", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc59a6cJakez-Stormreaver|r",
-			[51] = 1615682057,
-			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [46]
-		{
-			"we kill the thing that spawn", -- [1]
-			"Makozy-TarrenMill", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Makozy-TarrenMill", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			347, -- [11]
-			"Player-1084-0A353866", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff006fdcMakozy-TarrenMill|r",
-			[51] = 1615682057,
-			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [47]
-		{
-			"keeps me alive", -- [1]
-			"Jakez-Stormreaver", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Jakez-Stormreaver", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			348, -- [11]
-			"Player-3656-08D0C4DD", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc59a6cJakez-Stormreaver|r",
-			[51] = 1615682062,
-			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [48]
-		{
-			"<3", -- [1]
-			"Jakez-Stormreaver", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Jakez-Stormreaver", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			349, -- [11]
-			"Player-3656-08D0C4DD", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc59a6cJakez-Stormreaver|r",
-			[51] = 1615682063,
-			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [49]
-		{
-			"%s has earned the achievement |cffffff00|Hachievement:6084:Player-1305-0B1E61D7:1:3:14:21:4294967295:4294967295:4294967295:4294967295|h[Minutes to Midnight]|h|r!", -- [1]
-			"Bevvfistzzxd-Kazzak", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Bevvfistzzxd-Kazzak", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			351, -- [11]
-			"Player-1305-0B1E61D7", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff00fe97Bevvfistzzxd|r",
-			[51] = 1615682074,
-			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [50]
-		{
-			"thats the tactic", -- [1]
-			"Makozy-TarrenMill", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Makozy-TarrenMill", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			352, -- [11]
-			"Player-1084-0A353866", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff006fdcMakozy-TarrenMill|r",
-			[51] = 1615682076,
-			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [51]
-		{
-			"any questions?", -- [1]
-			"Makozy-TarrenMill", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Makozy-TarrenMill", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			355, -- [11]
-			"Player-1084-0A353866", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff006fdcMakozy-TarrenMill|r",
-			[51] = 1615682082,
-			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [52]
-		{
-			"lol", -- [1]
-			"Xitas-Aggra(Português)", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Xitas-Aggra(Português)", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			358, -- [11]
-			"Player-1303-05978D79", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc59a6cXitas-Aggra(Português)|r",
-			[51] = 1615682120,
-			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [53]
-		{
-			"ANY QUESTIONS TANKS ? ! ", -- [1]
-			"Lancerqt-Stormscale", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Lancerqt", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			360, -- [11]
-			"Player-2073-099CA06F", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff006fdcLancerqt-Stormscale|r",
-			[51] = 1615682128,
-			[50] = "CHAT_MSG_RAID_WARNING",
-		}, -- [54]
-		{
-			"just heal", -- [1]
-			"Jakez-Stormreaver", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Jakez-Stormreaver", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			361, -- [11]
-			"Player-3656-08D0C4DD", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc59a6cJakez-Stormreaver|r",
-			[51] = 1615682137,
-			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [55]
-		{
-			"ez pz", -- [1]
-			"Jakez-Stormreaver", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Jakez-Stormreaver", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			362, -- [11]
-			"Player-3656-08D0C4DD", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc59a6cJakez-Stormreaver|r",
-			[51] = 1615682139,
-			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [56]
-		{
-			"10", -- [1]
-			"Powerman-TwistingNether", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Powerman-TwistingNether", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			363, -- [11]
-			"Player-3674-08C55857", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffef367Powerman-TwistingNether|r",
-			[51] = 1615682143,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [57]
-		{
-			"5", -- [1]
-			"Powerman-TwistingNether", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Powerman-TwistingNether", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			364, -- [11]
-			"Player-3674-08C55857", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffef367Powerman-TwistingNether|r",
-			[51] = 1615682148,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [58]
-		{
-			"4", -- [1]
-			"Powerman-TwistingNether", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Powerman-TwistingNether", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			366, -- [11]
-			"Player-3674-08C55857", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffef367Powerman-TwistingNether|r",
-			[51] = 1615682149,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [59]
-		{
-			"%s has earned the achievement |cffffff00|Hachievement:227:Player-1305-0B79176A:1:3:14:21:4294967295:4294967295:4294967295:4294967295|h[Damage Control]|h|r!", -- [1]
-			"Vayno-Kazzak", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Vayno-Kazzak", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			370, -- [11]
-			"Player-1305-0B79176A", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc31d39Vayno|r",
-			[51] = 1615682162,
-			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [60]
-		{
-			"¡Embestida en Brocks!", -- [1]
-			"Brocks-LosErrantes", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Brocks-LosErrantes", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			372, -- [11]
-			"Player-1384-09ABFE8A", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffef367Brocks-LosErrantes|r",
-			[51] = 1615682166,
-			[50] = "CHAT_MSG_YELL",
-		}, -- [61]
-		{
-			"Embestida expirando en 3", -- [1]
-			"Brocks-LosErrantes", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Brocks-LosErrantes", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			373, -- [11]
-			"Player-1384-09ABFE8A", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffef367Brocks-LosErrantes|r",
-			[51] = 1615682169,
-			[50] = "CHAT_MSG_YELL",
-		}, -- [62]
 		{
 			"Embestida expirando en 2", -- [1]
 			"Brocks-LosErrantes", -- [2]
@@ -1408,7 +44,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Brocks-LosErrantes|r",
 			[51] = 1615682170,
 			[50] = "CHAT_MSG_YELL",
-		}, -- [63]
+		}, -- [1]
 		{
 			"Embestida expirando en 1", -- [1]
 			"Brocks-LosErrantes", -- [2]
@@ -1430,7 +66,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Brocks-LosErrantes|r",
 			[51] = 1615682171,
 			[50] = "CHAT_MSG_YELL",
-		}, -- [64]
+		}, -- [2]
 		{
 			"Vicious Lunge on Sido", -- [1]
 			"Sido-TarrenMill", -- [2]
@@ -1452,7 +88,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Sido-TarrenMill|r",
 			[51] = 1615682191,
 			[50] = "CHAT_MSG_YELL",
-		}, -- [65]
+		}, -- [3]
 		{
 			"3", -- [1]
 			"Sido-TarrenMill", -- [2]
@@ -1474,7 +110,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Sido-TarrenMill|r",
 			[51] = 1615682194,
 			[50] = "CHAT_MSG_YELL",
-		}, -- [66]
+		}, -- [4]
 		{
 			"2", -- [1]
 			"Sido-TarrenMill", -- [2]
@@ -1496,7 +132,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Sido-TarrenMill|r",
 			[51] = 1615682195,
 			[50] = "CHAT_MSG_YELL",
-		}, -- [67]
+		}, -- [5]
 		{
 			"1", -- [1]
 			"Sido-TarrenMill", -- [2]
@@ -1518,7 +154,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Sido-TarrenMill|r",
 			[51] = 1615682196,
 			[50] = "CHAT_MSG_YELL",
-		}, -- [68]
+		}, -- [6]
 		{
 			"TANK BOSSES ON OTHER SIDES", -- [1]
 			"Makozy-TarrenMill", -- [2]
@@ -1540,7 +176,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcMakozy-TarrenMill|r",
 			[51] = 1615682220,
 			[50] = "CHAT_MSG_YELL",
-		}, -- [69]
+		}, -- [7]
 		{
 			"HEAL", -- [1]
 			"Makozy-TarrenMill", -- [2]
@@ -1562,7 +198,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcMakozy-TarrenMill|r",
 			[51] = 1615682241,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [70]
+		}, -- [8]
 		{
 			"KIL;L", -- [1]
 			"Makozy-TarrenMill", -- [2]
@@ -1584,7 +220,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcMakozy-TarrenMill|r",
 			[51] = 1615682247,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [71]
+		}, -- [9]
 		{
 			"{rt2}Sinseeker 2", -- [1]
 			"Dul-Ragnaros", -- [2]
@@ -1606,7 +242,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcDul-Ragnaros|r",
 			[51] = 1615682248,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [72]
+		}, -- [10]
 		{
 			"KIL LADD", -- [1]
 			"Makozy-TarrenMill", -- [2]
@@ -1628,7 +264,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcMakozy-TarrenMill|r",
 			[51] = 1615682251,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [73]
+		}, -- [11]
 		{
 			"KILL ADD", -- [1]
 			"Makozy-TarrenMill", -- [2]
@@ -1650,7 +286,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcMakozy-TarrenMill|r",
 			[51] = 1615682260,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [74]
+		}, -- [12]
 		{
 			"HELLO", -- [1]
 			"Makozy-TarrenMill", -- [2]
@@ -1672,7 +308,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcMakozy-TarrenMill|r",
 			[51] = 1615682264,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [75]
+		}, -- [13]
 		{
 			"please", -- [1]
 			"Sneakykenny-TarrenMill", -- [2]
@@ -1694,7 +330,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Sneakykenny-TarrenMill|r",
 			[51] = 1615682272,
 			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [76]
+		}, -- [14]
 		{
 			"stop breakling it", -- [1]
 			"Sneakykenny-TarrenMill", -- [2]
@@ -1716,7 +352,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Sneakykenny-TarrenMill|r",
 			[51] = 1615682274,
 			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [77]
+		}, -- [15]
 		{
 			"ffs", -- [1]
 			"Sneakykenny-TarrenMill", -- [2]
@@ -1738,7 +374,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Sneakykenny-TarrenMill|r",
 			[51] = 1615682275,
 			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [78]
+		}, -- [16]
 		{
 			"thats not working in lfr", -- [1]
 			"Makozy-TarrenMill", -- [2]
@@ -1760,7 +396,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcMakozy-TarrenMill|r",
 			[51] = 1615682287,
 			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [79]
+		}, -- [17]
 		{
 			"just kill it", -- [1]
 			"Makozy-TarrenMill", -- [2]
@@ -1782,7 +418,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcMakozy-TarrenMill|r",
 			[51] = 1615682289,
 			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [80]
+		}, -- [18]
 		{
 			"IM DONT", -- [1]
 			"Lancerqt-Stormscale", -- [2]
@@ -1804,7 +440,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcLancerqt-Stormscale|r",
 			[51] = 1615682293,
 			[50] = "CHAT_MSG_RAID_WARNING",
-		}, -- [81]
+		}, -- [19]
 		{
 			"IM DONE", -- [1]
 			"Lancerqt-Stormscale", -- [2]
@@ -1826,7 +462,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcLancerqt-Stormscale|r",
 			[51] = 1615682297,
 			[50] = "CHAT_MSG_RAID_WARNING",
-		}, -- [82]
+		}, -- [20]
 		{
 			"epic", -- [1]
 			"Preachling-ArgentDawn", -- [2]
@@ -1848,7 +484,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefePreachling-ArgentDawn|r",
 			[51] = 1615682302,
 			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [83]
+		}, -- [21]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:5518:Player-1305-0B1E61D7:1:3:14:21:4294967295:4294967295:4294967295:4294967295|h[Stood in the Fire]|h|r!", -- [1]
 			"Bevvfistzzxd-Kazzak", -- [2]
@@ -1870,7 +506,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe97Bevvfistzzxd|r",
 			[51] = 1615682360,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [84]
+		}, -- [22]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:6107:Player-1305-0B1E61D7:1:3:14:21:4294967295:4294967295:4294967295:4294967295|h[Fall of Deathwing]|h|r!", -- [1]
 			"Bevvfistzzxd-Kazzak", -- [2]
@@ -1892,7 +528,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe97Bevvfistzzxd|r",
 			[51] = 1615682866,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [85]
+		}, -- [23]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:6177:Player-1305-0B1E61D7:1:3:14:21:4294967295:4294967295:4294967295:4294967295|h[Destroyer's End]|h|r!", -- [1]
 			"Bevvfistzzxd-Kazzak", -- [2]
@@ -1914,7 +550,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe97Bevvfistzzxd|r",
 			[51] = 1615682866,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [86]
+		}, -- [24]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:12404:Player-1305-0B79176A:1:3:14:21:4294967295:4294967295:4294967295:4294967295|h[Claim Jumper]|h|r!", -- [1]
 			"Vayno-Kazzak", -- [2]
@@ -1936,7 +572,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Vayno|r",
 			[51] = 1615682910,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [87]
+		}, -- [25]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:12405:Player-1305-0B79176A:1:3:14:21:4294967295:4294967295:4294967295:4294967295|h[Death from Above]|h|r!", -- [1]
 			"Vayno-Kazzak", -- [2]
@@ -1958,7 +594,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Vayno|r",
 			[51] = 1615683242,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [88]
+		}, -- [26]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:12409:Player-1305-0B79176A:1:3:14:21:4294967295:4294967295:4294967295:4294967295|h[Seething Shore Victory]|h|r!", -- [1]
 			"Vayno-Kazzak", -- [2]
@@ -1980,7 +616,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Vayno|r",
 			[51] = 1615683450,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [89]
+		}, -- [27]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:8992:Player-1305-0B1E61D7:1:3:14:21:4294967295:4294967295:4294967295:4294967295|h[Blackhand's Crucible]|h|r!", -- [1]
 			"Bevvfistzzxd-Kazzak", -- [2]
@@ -2002,7 +638,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe97Bevvfistzzxd|r",
 			[51] = 1615683866,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [90]
+		}, -- [28]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:8973:Player-1305-0B1E61D7:1:3:14:21:4294967295:4294967295:4294967295:4294967295|h[Mythic: Blackhand's Crucible]|h|r!", -- [1]
 			"Bevvfistzzxd-Kazzak", -- [2]
@@ -2024,7 +660,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe97Bevvfistzzxd|r",
 			[51] = 1615683866,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [91]
+		}, -- [29]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:5215:Player-1305-0B79176A:1:3:14:21:4294967295:4294967295:4294967295:4294967295|h[Twin Peaks Perfection]|h|r!", -- [1]
 			"Vayno-Kazzak", -- [2]
@@ -2046,7 +682,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Vayno|r",
 			[51] = 1615684142,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [92]
+		}, -- [30]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:512:Player-1305-0BCECA14:1:3:14:21:4294967295:4294967295:4294967295:4294967295|h[5000 Honorable Kills]|h|r!", -- [1]
 			"Palaakbar-Kazzak", -- [2]
@@ -2068,7 +704,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Palaakbar|r",
 			[51] = 1615684461,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [93]
+		}, -- [31]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:9205:Player-1305-0B1E61D7:1:3:14:21:4294967295:4294967295:4294967295:4294967295|h[Iron Horde Invasion]|h|r!", -- [1]
 			"Bevvfistzzxd-Kazzak", -- [2]
@@ -2090,7 +726,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe97Bevvfistzzxd|r",
 			[51] = 1615685051,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [94]
+		}, -- [32]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:9162:Player-1305-0B1E61D7:1:3:14:21:4294967295:4294967295:4294967295:4294967295|h[Bronze Defender]|h|r!", -- [1]
 			"Bevvfistzzxd-Kazzak", -- [2]
@@ -2112,7 +748,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe97Bevvfistzzxd|r",
 			[51] = 1615685051,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [95]
+		}, -- [33]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:9164:Player-1305-0B1E61D7:1:3:14:21:4294967295:4294967295:4294967295:4294967295|h[Silver Defender]|h|r!", -- [1]
 			"Bevvfistzzxd-Kazzak", -- [2]
@@ -2134,7 +770,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe97Bevvfistzzxd|r",
 			[51] = 1615685051,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [96]
+		}, -- [34]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:9165:Player-1305-0B1E61D7:1:3:14:21:4294967295:4294967295:4294967295:4294967295|h[Golden Defender]|h|r!", -- [1]
 			"Bevvfistzzxd-Kazzak", -- [2]
@@ -2156,7 +792,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe97Bevvfistzzxd|r",
 			[51] = 1615685051,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [97]
+		}, -- [35]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:9152:Player-1305-0B1E61D7:1:3:14:21:4294967295:4294967295:4294967295:4294967295|h[It's an Invasion!]|h|r!", -- [1]
 			"Bevvfistzzxd-Kazzak", -- [2]
@@ -2178,7 +814,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe97Bevvfistzzxd|r",
 			[51] = 1615685052,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [98]
+		}, -- [36]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:154:Player-1305-0B79176A:1:3:14:21:4294967295:4294967295:4294967295:4294967295|h[Arathi Basin Victory]|h|r!", -- [1]
 			"Vayno-Kazzak", -- [2]
@@ -2200,6 +836,1370 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Vayno|r",
 			[51] = 1615685412,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+		}, -- [37]
+		{
+			"WTS Torghast 75% off Layer 1-8 Get your |cffff8000|Hcurrency:1828:0|h[Soul Ash]|h|r and Twisting Corridors Layer 1-8 for Mount |cff71d5ff|Hspell:344578:0|h[Corridor Creeper]|h|r Very Cheap Price /w for info!", -- [1]
+			"Gulldàn-Kazzak", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Gulldàn-Kazzak", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			17, -- [11]
+			"Player-1305-08A7C37D", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cff8687edGulldàn|r",
+			[51] = 1615714627,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [38]
+		{
+			"LAST 2 BOSS EVERY 20 MIN >SYLVANAS<  In Time Guarantee ||>>> M+15 = 255K <<<>>> M+14 = 155K <<<>>> M+12 = 110k <<<||||>>> Key Stone Master <<<||>> 3x15 = 720k <<||>>>+ARMOR STACK<<<||>>> Can Book Last 2Boss Sire and generals AND 10/10 HC/M <<<|| /W me", -- [1]
+			"Kazdeal-Kazzak", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Kazdeal-Kazzak", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			18, -- [11]
+			"Player-1305-0BEB2A01", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cfff38bb9Kazdeal|r",
+			[51] = 1615714635,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [39]
+		{
+			"WTB All CSGO/Dota2/Rust/TF2/Steam Items for Classic/Retail Gold go to trade-raid.com", -- [1]
+			"Nstraderaid-Kazzak", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Nstraderaid-Kazzak", -- [5]
+			"DND", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			19, -- [11]
+			"Player-1305-0BE77DE0", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cfff38bb9Nstraderaid|r",
+			[51] = 1615714640,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [40]
+		{
+			"Free Armor Stack 2xM+ <SYLVANAS> In Time GuaranTee // M+15 = 255k // 3x15 = 725k // 5x15 = 1145k // 5x12 = 480k // M+14 = 155k // M+12 = 110k  // M+17 = 1000K // |cff66bbff|Hjournal:0:1190:16|h[Castle Nathria]|h|r10/10 Hc/Mythic // Last 2 boss // W me", -- [1]
+			"Kazzboost-Kazzak", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Kazzboost-Kazzak", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			20, -- [11]
+			"Player-1305-0BDE5D64", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cff00fe97Kazzboost|r",
+			[51] = 1615714640,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [41]
+		{
+			"LAST 2 BOSS EVERY 20 MIN >SYLVANAS<  In Time Guarantee ||>>> M+15 = 255K <<<>>> M+14 = 155K <<<>>> M+12 = 110k <<<||||>>> Key Stone Master <<<||>> 3x15 = 725k <<||>>>+ARMOR STACK<<<||>>> Can Book Last 2Boss Sire and generals AND 10/10 HC/M <<<|| /W me", -- [1]
+			"Boostsylv-Kazzak", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Boostsylv-Kazzak", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			21, -- [11]
+			"Player-1305-0BEA547C", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cfffef367Boostsylv|r",
+			[51] = 1615714643,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [42]
+		{
+			"((M+15 = 255K in Time 3x15 = 725k))  >SYLVANAS<  DISCOUNT TODAY >>|| M+14= 155K ||<<>>|| M+12 = 110K ||<<>>||M+16 = 820K ||<<>>|| 5X12 = 480k ||<<>>||Key Stone MasTer||>>|cff66bbff|Hjournal:1:2424:14|h[Sire Denathrius]|h|rlast 2boss every 20min<</W Me", -- [1]
+			"Gwkaz-Kazzak", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Gwkaz-Kazzak", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			22, -- [11]
+			"Player-1305-0BEA53CA", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cfffe7b09Gwkaz|r",
+			[51] = 1615714660,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [43]
+		{
+			"WTS 2v2 Arena rating for dps class and cap /w for more info", -- [1]
+			"Flastical-Kazzak", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Flastical-Kazzak", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			25, -- [11]
+			"Player-1305-0B7EA8A1", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cfff38bb9Flastical|r",
+			[51] = 1615714663,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [44]
+		{
+			"Resto Shaman/Ele LF Guild - Casual raiding. ", -- [1]
+			"Stomwolf-Kazzak", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Stomwolf-Kazzak", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			27, -- [11]
+			"Player-1305-04146A23", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cff006fdcStomwolf|r",
+			[51] = 1615714665,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [45]
+		{
+			"harika up ..any venthyr around?", -- [1]
+			"Golion-TwistingNether", -- [2]
+			"", -- [3]
+			"1. General - Revendreth", -- [4]
+			"Golion-TwistingNether", -- [5]
+			"", -- [6]
+			1, -- [7]
+			1, -- [8]
+			"General - Revendreth", -- [9]
+			0, -- [10]
+			66, -- [11]
+			"Player-3674-0A96AEBD", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cff8687edGolion-TwistingNether|r",
+			[51] = 1615715049,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [46]
+		{
+			"<<SYLVANAS>> +15=255k  Curve runs every 30 min Sire=59k Generals=65 k,both 120, +10=80K 11=90k, +12=110, +14=155 (WEEKLY) KSM=1.9m,Full CN HC 350,, We can boost you in MYTHIC CN ALSO !!!", -- [1]
+			"Greatlux-Kazzak", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Greatlux-Kazzak", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			113, -- [11]
+			"Player-1305-09B6A1B6", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cfffe7b09Greatlux|r",
+			[51] = 1615715364,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [47]
+		{
+			"WTB All CSGO/Dota2/Rust/TF2/Steam Items for Classic/Retail Gold go to trade-raid.com", -- [1]
+			"Nstraderaid-Kazzak", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Nstraderaid-Kazzak", -- [5]
+			"DND", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			114, -- [11]
+			"Player-1305-0BE77DE0", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cfff38bb9Nstraderaid|r",
+			[51] = 1615715366,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [48]
+		{
+			"Sylvanas >>M+15 is 255k >< 4x15 is 918k << M+14 = 155k --  M+12 is 110k >< 4x12 is 396k -- Keystone master 1.8Mil --- Sire Denathrius 59k - Stone legion 65k - both 120k  >> Full Clear Castle nathria 350k - Vip trader and personal loot - Rbg -Torghast", -- [1]
+			"Nasimma-Kazzak", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Nasimma-Kazzak", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			116, -- [11]
+			"Player-1305-0BE39C5E", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cff00fe97Nasimma|r",
+			[51] = 1615715371,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [49]
+		{
+			"((M+15 = 255K in Time 3x15 = 725k))  >SYLVANAS<  DISCOUNT TODAY >>|| M+14= 155K ||<<>>|| M+12 = 110K ||<<>>||M+16 = 820K ||<<>>|| 5X12 = 480k ||<<>>||Key Stone MasTer||>>|cff66bbff|Hjournal:1:2424:14|h[Sire Denathrius]|h|rlast 2boss every 20min<</W Me", -- [1]
+			"Gwkaz-Kazzak", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Gwkaz-Kazzak", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			117, -- [11]
+			"Player-1305-0BEA53CA", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cfffe7b09Gwkaz|r",
+			[51] = 1615715371,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [50]
+		{
+			"LAST 2 BOSS EVERY 20 MIN >SYLVANAS<  In Time Guarantee ||>>> M+15 = 255K <<<>>> M+14 = 155K <<<>>> M+12 = 110k <<<||||>>> Key Stone Master <<<||>> 3x15 = 725k <<||>>>+ARMOR STACK<<<||>>> Can Book Last 2Boss Sire and generals AND 10/10 HC/M <<<|| /W me", -- [1]
+			"Boostsylv-Kazzak", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Boostsylv-Kazzak", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			118, -- [11]
+			"Player-1305-0BEA547C", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cfffef367Boostsylv|r",
+			[51] = 1615715372,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [51]
+		{
+			"WTS |cffa335ee|Hitem:184785::::::::60:63:::4:6652:7193:1472:6646:1:28:1707:::|h[Gaiazelle's Spiked Collar]|h|r cheaper than ah", -- [1]
+			"Magictape-Kazzak", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Magictape-Kazzak", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			130, -- [11]
+			"Player-1305-0BD5161C", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cff3ec6eaMagictape|r",
+			[51] = 1615715381,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [52]
+		{
+			"WTS +15 INTIMED RUN // With 1700++ GRP // Cheap price", -- [1]
+			"Warhummer-Kazzak", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Warhummer-Kazzak", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			133, -- [11]
+			"Player-1305-0939438B", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cfff38bb9Warhummer|r",
+			[51] = 1615715382,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [53]
+		{
+			"<NOVA> HC RAID = 370k and 160k Per TRADER ----ALL M+  LOOT SHARE [M15-250k] [M10 - 80k] [M11 - 89k] [M12-105k] [M14-150k] [M15-250k] [Torghast - Layers 1-8] Get your weekly vault loot Now!All key levels available, , HC Castle Nathria 370k -only gold", -- [1]
+			"Difenbahya-Kazzak", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Difenbahya-Kazzak", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			135, -- [11]
+			"Player-1305-0B23805F", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cff006fdcDifenbahya|r",
+			[51] = 1615715390,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [54]
+		{
+			"WTS |cffffff00|Hachievement:14715:Player-1305-0BEC78FB:1:11:8:20:4294967295:4294967295:4294967295:4294967295|h[Castle Nathria]|h|r 10/10 HC BOOST Garanted loot 270k gold come take ur |cffffff00|Hachievement:14460:Player-1305-0BEC78FB:1:11:21:20:4294967295:4294967295:4294967295:4294967295|h[Ahead of the Curve: Sire Denathrius]|h|r /w me ready for summ and go ", -- [1]
+			"Chuktizu-Kazzak", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Chuktizu-Kazzak", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			138, -- [11]
+			"Player-1305-0BEC78FB", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffc59a6cChuktizu|r",
+			[51] = 1615715400,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [55]
+		{
+			"LAST 2 BOSS EVERY 20 MIN >SYLVANAS<  In Time Guarantee ||>>> M+15 = 255K <<<>>> M+14 = 155K <<<>>> M+12 = 110k <<<||||>>> Key Stone Master <<<||>> 3x15 = 720k <<||>>>+ARMOR STACK<<<||>>> Can Book Last 2Boss Sire and generals AND 10/10 HC/M <<<|| /W me", -- [1]
+			"Kazdeal-Kazzak", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Kazdeal-Kazzak", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			143, -- [11]
+			"Player-1305-0BEB2A01", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cfff38bb9Kazdeal|r",
+			[51] = 1615715404,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [56]
+		{
+			"WTS |cffa335ee|Hitem:182982::::::::60:251::6:5:7187:6652:6935:1498:6646:1:28:753:::|h[Watchful Arbelist's Bracers]|h|r", -- [1]
+			"Dêáthknight-Kazzak", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Dêáthknight-Kazzak", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			144, -- [11]
+			"Player-1305-0B376E06", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffc31d39Dêáthknight|r",
+			[51] = 1615715405,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [57]
+		{
+			"%s has earned the achievement |cffffff00|Hachievement:14337:Player-1305-0B0DAE15:1:3:14:21:4294967295:4294967295:4294967295:4294967295|h[The Wild Hunt]|h|r!", -- [1]
+			"Rentaki-Kazzak", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Rentaki-Kazzak", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			229, -- [11]
+			"Player-1305-0B0DAE15", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff006fdcRentaki|r",
+			[51] = 1615712450,
+			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+		}, -- [58]
+		{
+			"%s has earned the achievement |cffffff00|Hachievement:12864:Player-1305-0B0DAE15:1:3:14:21:4294967295:4294967295:4294967295:4294967295|h[80 Exalted Reputations]|h|r!", -- [1]
+			"Rentaki-Kazzak", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Rentaki-Kazzak", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			233, -- [11]
+			"Player-1305-0B0DAE15", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff006fdcRentaki|r",
+			[51] = 1615712450,
+			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+		}, -- [59]
+		{
+			"<NOVA> HC RAID = 370k and 160k Per TRADER ----ALL M+  LOOT SHARE [M15-250k] [M10 - 80k] [M11 - 89k] [M12-105k] [M14-150k] [M15-250k] [Torghast - Layers 1-8] Get your weekly vault loot Now!All key levels available, , HC Castle Nathria 370k -only gold", -- [1]
+			"Difenbahya-Kazzak", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Difenbahya-Kazzak", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			261, -- [11]
+			"Player-1305-0B23805F", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cff006fdcDifenbahya|r",
+			[51] = 1615716254,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [60]
+		{
+			"WTS 2v2 boost 2.7xp Hpala w/Me more info", -- [1]
+			"Prestessmoon-Kazzak", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Prestessmoon-Kazzak", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			263, -- [11]
+			"Player-1305-0B156E90", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cfff38bb9Prestessmoon|r",
+			[51] = 1615716256,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [61]
+		{
+			"((M+15 = 255K in Time 3x15 = 725k))  >SYLVANAS<  DISCOUNT TODAY >>|| M+14= 155K ||<<>>|| M+12 = 110K ||<<>>||M+16 = 820K ||<<>>|| 5X12 = 480k ||<<>>||Key Stone MasTer||>>|cff66bbff|Hjournal:1:2424:14|h[Sire Denathrius]|h|rlast 2boss every 20min<</W Me", -- [1]
+			"Gwkaz-Kazzak", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Gwkaz-Kazzak", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			265, -- [11]
+			"Player-1305-0BEA53CA", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cfffe7b09Gwkaz|r",
+			[51] = 1615716257,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [62]
+		{
+			"<<SYLVANAS>> +15=255k  Curve runs every 30 min Sire=59k Generals=65 k,both 120, +10=80K 11=90k, +12=110, +14=155 (WEEKLY) KSM=1.9m,Full CN HC 350,, We can boost you in MYTHIC CN ALSO !!!", -- [1]
+			"Greatlux-Kazzak", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Greatlux-Kazzak", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			266, -- [11]
+			"Player-1305-09B6A1B6", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cfffe7b09Greatlux|r",
+			[51] = 1615716258,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [63]
+		{
+			"|cffffd100|HclubTicket:ZALVe5C33d|h[Join: BOE Mythic]|h|rFree BOE Mythic CM < Faghat Player haye active > ", -- [1]
+			"Gabgoo-Kazzak", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Gabgoo-Kazzak", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			269, -- [11]
+			"Player-1305-0BBE615D", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffa9d271Gabgoo|r",
+			[51] = 1615716262,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [64]
+		{
+			"LAST 2 BOSS EVERY 20 MIN >SYLVANAS<  In Time Guarantee ||>>> M+15 = 255K <<<>>> M+14 = 155K <<<>>> M+12 = 110k <<<||||>>> Key Stone Master <<<||>> 3x15 = 720k <<||>>>+ARMOR STACK<<<||>>> Can Book Last 2Boss Sire and generals AND 10/10 HC/M <<<|| /W me", -- [1]
+			"Kazdeal-Kazzak", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Kazdeal-Kazzak", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			270, -- [11]
+			"Player-1305-0BEB2A01", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cfff38bb9Kazdeal|r",
+			[51] = 1615716262,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [65]
+		{
+			"LAST 2 BOSS EVERY 20 MIN >SYLVANAS<  In Time Guarantee ||>>> M+15 = 255K <<<>>> M+14 = 155K <<<>>> M+12 = 110k <<<||||>>> Key Stone Master <<<||>> 3x15 = 725k <<||>>>+ARMOR STACK<<<||>>> Can Book Last 2Boss Sire and generals AND 10/10 HC/M <<<|| /W me", -- [1]
+			"Boostsylv-Kazzak", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Boostsylv-Kazzak", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			282, -- [11]
+			"Player-1305-0BEA547C", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cfffef367Boostsylv|r",
+			[51] = 1615716275,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [66]
+		{
+			"Free Armor Stack 2xM+ <SYLVANAS> In Time GuaranTee // M+15 = 255k // 3x15 = 725k // 5x15 = 1145k // 5x12 = 480k // M+14 = 155k // M+12 = 110k  // M+17 = 1000K // |cff66bbff|Hjournal:0:1190:16|h[Castle Nathria]|h|r10/10 Hc/Mythic // Last 2 boss // W me", -- [1]
+			"Kazzboost-Kazzak", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Kazzboost-Kazzak", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			285, -- [11]
+			"Player-1305-0BDE5D64", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cff00fe97Kazzboost|r",
+			[51] = 1615716278,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [67]
+		{
+			"WTS |cffffff00|Hachievement:14715:Player-1305-0BEC78FB:1:11:8:20:4294967295:4294967295:4294967295:4294967295|h[Castle Nathria]|h|r 10/10 HC BOOST Garanted loot 270k gold come take ur |cffffff00|Hachievement:14460:Player-1305-0BEC78FB:1:11:21:20:4294967295:4294967295:4294967295:4294967295|h[Ahead of the Curve: Sire Denathrius]|h|r /w me ready for summ and go ", -- [1]
+			"Chuktizu-Kazzak", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Chuktizu-Kazzak", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			287, -- [11]
+			"Player-1305-0BEC78FB", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffc59a6cChuktizu|r",
+			[51] = 1615716282,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [68]
+		{
+			"***  MoonLight Commiunity  ***  Offering FREE ArmorStack & InTime |cffa335ee|Hkeystone:158923:379:16:9:11:13:121|h[Keystone: Plaguefall (16)]|h|r & otherKeys  || Mythic 0-15  ||  Torghast 1-2-3-4-5-6-7-8  || Fast and Cheap /w for more info ", -- [1]
+			"Demonader-Kazzak", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Demonader-Kazzak", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			289, -- [11]
+			"Player-1305-096F82D0", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffa22fc8Demonader|r",
+			[51] = 1615716283,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [69]
+		{
+			"<NOVA> Selling [Castle Nathria] HC:370K / M+ (KEYS +10 : 80K---+12 :105K---+14: 150k---+15 : 250K) intime---2x KEYS armor stack free---KEYMASTER:1700K---Mythic M+ (3/10:950K---6/10:2500K---7/10:3400K---10/10:8800K)---((ONLY GOLD))", -- [1]
+			"Amedavid-Kazzak", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Amedavid-Kazzak", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			292, -- [11]
+			"Player-1305-0B97086A", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cfffe7b09Amedavid|r",
+			[51] = 1615716289,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [70]
+		{
+			"<Fïnal Dream> (10/10HC) We are currently looking for ranged DPS to join our raid team (Druid/Hunter/lock) as we progress into Mythic and future content, Raid days are Wednesdays (2030-2300 and Sundays (2000-2300) /w for info", -- [1]
+			"Carrolbaskin-Kazzak", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Carrolbaskin-Kazzak", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			308, -- [11]
+			"Player-1305-0B24039A", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffa9d271Carrolbaskin|r",
+			[51] = 1615716305,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [71]
+		{
+			"<NOVA> HC RAID = 370k and 160k Per TRADER ----ALL M+  LOOT SHARE [M15-250k] [M10 - 80k] [M11 - 89k] [M12-105k] [M14-150k] [M15-250k] [Torghast - Layers 1-8] Get your weekly vault loot Now!All key levels available, , HC Castle Nathria 370k -only gold", -- [1]
+			"Difenbahya-Kazzak", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Difenbahya-Kazzak", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			317, -- [11]
+			"Player-1305-0B23805F", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cff006fdcDifenbahya|r",
+			[51] = 1615716313,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [72]
+		{
+			"WTS |cffa335ee|Hitem:184785::::::::60:63:::4:6652:7193:1472:6646:1:28:1707:::|h[Gaiazelle's Spiked Collar]|h|r cheaper than ah", -- [1]
+			"Magictape-Kazzak", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Magictape-Kazzak", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			318, -- [11]
+			"Player-1305-0BD5161C", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cff3ec6eaMagictape|r",
+			[51] = 1615716314,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [73]
+		{
+			"WTB All CSGO/Dota2/Rust/TF2/Steam Items for Classic/Retail Gold go to trade-raid.com", -- [1]
+			"Nstraderaid-Kazzak", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Nstraderaid-Kazzak", -- [5]
+			"DND", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			319, -- [11]
+			"Player-1305-0BE77DE0", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cfff38bb9Nstraderaid|r",
+			[51] = 1615716314,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [74]
+		{
+			"WTS Gold All realms cheaper than any websites in whole Europe - kazzak 1M gold = 34$ - draenor 1M gold = 33$ - twistingnether 1M gold = 35$ - only on www.G2G.com/miba - ask miba for more information .", -- [1]
+			"Bolis-Kazzak", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Bolis-Kazzak", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			320, -- [11]
+			"Player-1305-0B18CE45", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffc59a6cBolis|r",
+			[51] = 1615716314,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [75]
+		{
+			"wts |cffa335ee|Hitem:1728::::::::60:65:::1:6661:2:9:30:28:1004:::|h[Teebu's Blazing Longsword]|h|r|cffa335ee|Hitem:183035::::::::60:65:::::::|h[Ardent Sunstar Signet]|h|r", -- [1]
+			"Kiilall-Kazzak", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Kiilall-Kazzak", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			326, -- [11]
+			"Player-1305-0BE01B68", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cfff38bb9Kiilall|r",
+			[51] = 1615716320,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [76]
+		{
+			"VoV is an arabic guild started in classic and we reform it again in retail at the end of BFA we are a semi-hardcore we raid 2-3 days a week Wednesday & Saturday (mainly) and Tuesday (optionally)", -- [1]
+			"Nastyk-Kazzak", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Nastyk-Kazzak", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			327, -- [11]
+			"Player-1305-0BA275DF", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cfffe7b09Nastyk|r",
+			[51] = 1615716321,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [77]
+		{
+			"<NOVA> WTS  ||10/10 HC=370k||  || +15=250k|| ||+14=150k||  ||out 14=130k   ||OUT 15=205k  ||KEYSTONEMASTER=1700k||||PVP||  ||MYTHIC CN||  ||2  OR MORE =ARMOR STACK .DISCOUnt|| PVP,2s,3s, RBG /w ME FOR INFO", -- [1]
+			"Mnova-Kazzak", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Mnova-Kazzak", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			328, -- [11]
+			"Player-1305-0BE6FE9C", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cff006fdcMnova|r",
+			[51] = 1615716323,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [78]
+		{
+			"<Dysania> is recruiting. Raiding Thurs/Sunday 20:30.  Run by former cutting edge raiders, we are looking to recruit players into main raid team aimed at mythic progression. Good active disscord and community for M+   ./w for a chat", -- [1]
+			"Dàrkk-Kazzak", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Dàrkk-Kazzak", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			337, -- [11]
+			"Player-1305-0BE029D9", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cff3ec6eaDàrkk|r",
+			[51] = 1615716336,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [79]
+		{
+			"<NOVA> 10/10 CN HC 370k Per trader 160k M+10 (80k)+2 Run Free Armor Sztack||2x10(152k) M14 (130k) M+15(205k)||Curve(70k)KeyStone Master 15(1700k)", -- [1]
+			"Highboost-Kazzak", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Highboost-Kazzak", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			341, -- [11]
+			"Player-1305-0BC17F48", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cfffe7b09Highboost|r",
+			[51] = 1615716338,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [80]
+		{
+			"***  MoonLight Commiunity  ***  Offering FREE ArmorStack & InTime |cffa335ee|Hkeystone:158923:379:16:9:11:13:121|h[Keystone: Plaguefall (16)]|h|r & otherKeys  || Mythic 0-15  ||  Torghast 1-2-3-4-5-6-7-8  || Fast and Cheap /w for more info ", -- [1]
+			"Demonader-Kazzak", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Demonader-Kazzak", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			346, -- [11]
+			"Player-1305-096F82D0", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffa22fc8Demonader|r",
+			[51] = 1615716343,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [81]
+		{
+			"LAST 2 BOSS EVERY 20 MIN >SYLVANAS<  In Time Guarantee ||>>> M+15 = 255K <<<>>> M+14 = 155K <<<>>> M+12 = 110k <<<||||>>> Key Stone Master <<<||>> 3x15 = 720k <<||>>>+ARMOR STACK<<<||>>> Can Book Last 2Boss Sire and generals AND 10/10 HC/M <<<|| /W me", -- [1]
+			"Kazdeal-Kazzak", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Kazdeal-Kazzak", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			347, -- [11]
+			"Player-1305-0BEB2A01", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cfff38bb9Kazdeal|r",
+			[51] = 1615716343,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [82]
+		{
+			"WTS mythic 14 - 15    premade ! Cheap /w me for info and Price / u can get all Looot /w me more info/ Perf offer for last Day ! In time run just  ", -- [1]
+			"Ejey-Kazzak", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Ejey-Kazzak", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			352, -- [11]
+			"Player-1305-0AD869E1", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cfffefefeEjey|r",
+			[51] = 1615716354,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [83]
+		{
+			"LAST 2 BOSS EVERY 20 MIN >SYLVANAS<  In Time Guarantee ||>>> M+15 = 255K <<<>>> M+14 = 155K <<<>>> M+12 = 110k <<<||||>>> Key Stone Master <<<||>> 3x15 = 725k <<||>>>+ARMOR STACK<<<||>>> Can Book Last 2Boss Sire and generals AND 10/10 HC/M <<<|| /W me", -- [1]
+			"Boostsylv-Kazzak", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Boostsylv-Kazzak", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			354, -- [11]
+			"Player-1305-0BEA547C", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cfffef367Boostsylv|r",
+			[51] = 1615716354,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [84]
+		{
+			"<<SYLVANAS>> +15=255k  Curve runs every 30 min Sire=59k Generals=65 k,both 120, +10=80K 11=90k, +12=110, +14=155 (WEEKLY) KSM=1.9m,Full CN HC 350,, We can boost you in MYTHIC CN ALSO !!!", -- [1]
+			"Greatlux-Kazzak", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Greatlux-Kazzak", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			359, -- [11]
+			"Player-1305-09B6A1B6", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cfffe7b09Greatlux|r",
+			[51] = 1615716373,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [85]
+		{
+			"Sylvanas >>M+15 is 255k >< 4x15 is 918k << M+14 = 155k --  M+12 is 110k >< 4x12 is 396k -- Keystone master 1.8Mil --- Sire Denathrius 59k - Stone legion 65k - both 120k  >> Full Clear Castle nathria 350k - Vip trader and personal loot - Rbg -Torghast", -- [1]
+			"Nasimma-Kazzak", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Nasimma-Kazzak", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			362, -- [11]
+			"Player-1305-0BE39C5E", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cff00fe97Nasimma|r",
+			[51] = 1615716377,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [86]
+		{
+			"<NOVA> Selling [Castle Nathria] HC:370K / M+ (KEYS +10 : 80K---+12 :105K---+14: 150k---+15 : 250K) intime---2x KEYS armor stack free---KEYMASTER:1700K---Mythic M+ (3/10:950K---6/10:2500K---7/10:3400K---10/10:8800K)---((ONLY GOLD))", -- [1]
+			"Amedavid-Kazzak", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Amedavid-Kazzak", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			363, -- [11]
+			"Player-1305-0B97086A", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cfffe7b09Amedavid|r",
+			[51] = 1615716378,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [87]
+		{
+			"WTS Gold All realms cheaper than any websites in whole Europe - kazzak 1M gold = 34$ - draenor 1M gold = 33$ - twistingnether 1M gold = 35$ - only on www.G2G.com/miba - ask miba for more information .", -- [1]
+			"Bolis-Kazzak", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Bolis-Kazzak", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			366, -- [11]
+			"Player-1305-0B18CE45", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffc59a6cBolis|r",
+			[51] = 1615716378,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [88]
+		{
+			"Can someone help me with my ui? im having problems with my omnibar... ", -- [1]
+			"Vengative-Kazzak", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Vengative-Kazzak", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			369, -- [11]
+			"Player-1305-0BEB0DAA", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cfff38bb9Vengative|r",
+			[51] = 1615716381,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [89]
+		{
+			"<Nova> is selling Torghasts boost of any kind 20% off price, Layers 1-8 to all corridors for the mount. /w me for info", -- [1]
+			"Fullhousé-Kazzak", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Fullhousé-Kazzak", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			387, -- [11]
+			"Player-1305-0872512E", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cff8687edFullhousé|r",
+			[51] = 1615716389,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [90]
+		{
+			"WTB All CSGO/Dota2/Rust/TF2/Steam Items for Classic/Retail Gold go to trade-raid.com", -- [1]
+			"Nstraderaid-Kazzak", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Nstraderaid-Kazzak", -- [5]
+			"DND", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			400, -- [11]
+			"Player-1305-0BE77DE0", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cfff38bb9Nstraderaid|r",
+			[51] = 1615716395,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [91]
+		{
+			"((M+15 = 255K in Time 3x15 = 725k))  >SYLVANAS<  DISCOUNT TODAY >>|| M+14= 155K ||<<>>|| M+12 = 110K ||<<>>||M+16 = 820K ||<<>>|| 5X12 = 480k ||<<>>||Key Stone MasTer||>>|cff66bbff|Hjournal:1:2424:14|h[Sire Denathrius]|h|rlast 2boss every 20min<</W Me", -- [1]
+			"Gwkaz-Kazzak", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Gwkaz-Kazzak", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			403, -- [11]
+			"Player-1305-0BEA53CA", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cfffe7b09Gwkaz|r",
+			[51] = 1615716396,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [92]
+		{
+			"***  MoonLight Commiunity  ***  Offering FREE ArmorStack & InTime |cffa335ee|Hkeystone:158923:379:16:9:11:13:121|h[Keystone: Plaguefall (16)]|h|r & otherKeys  || Mythic 0-15  ||  Torghast 1-2-3-4-5-6-7-8  || Fast and Cheap /w for more info ", -- [1]
+			"Demonader-Kazzak", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Demonader-Kazzak", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			420, -- [11]
+			"Player-1305-096F82D0", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffa22fc8Demonader|r",
+			[51] = 1615716403,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [93]
+		{
+			"<Sylvanas> WTS 10-20 M+ Boosts. Get Your 226 Weekly for only 255k[+15] or 155k[+14]. You can also get your Keystonemaster for 1800k Right now and upgrade your items to [220]./W For more info", -- [1]
+			"Diamônd-Kazzak", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Diamônd-Kazzak", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			424, -- [11]
+			"Player-1305-0BA1C321", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffa22fc8Diamônd|r",
+			[51] = 1615716404,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [94]
+		{
+			"WTS |cffa335ee|Hitem:184785::::::::60:63:::4:6652:7193:1472:6646:1:28:1707:::|h[Gaiazelle's Spiked Collar]|h|r cheaper than ah", -- [1]
+			"Magictape-Kazzak", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Magictape-Kazzak", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			425, -- [11]
+			"Player-1305-0BD5161C", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cff3ec6eaMagictape|r",
+			[51] = 1615716405,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [95]
+		{
+			"<<Sylvanas>>Selling Two Last boss HEROIC |cff66bbff|Hjournal:1:2425:14|h[Stone Legion Generals]|h|r65k G \" |cff66bbff|Hjournal:1:2424:14|h[Sire Denathrius]|h|r59k G+ if u get both only 120k G\" \"((every 20 min)) |||| WTS key 10-18 ++ KSM /w me for info", -- [1]
+			"Sargera-Kazzak", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Sargera-Kazzak", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			444, -- [11]
+			"Player-1305-0B819FE3", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cfffe7b09Sargera|r",
+			[51] = 1615716416,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [96]
+		{
+			"Free Armor Stack 2xM+ <SYLVANAS> In Time GuaranTee // M+15 = 255k // 3x15 = 725k // 5x15 = 1145k // 5x12 = 480k // M+14 = 155k // M+12 = 110k  // M+17 = 1000K // |cff66bbff|Hjournal:0:1190:16|h[Castle Nathria]|h|r10/10 Hc/Mythic // Last 2 boss // W me", -- [1]
+			"Kazzboost-Kazzak", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Kazzboost-Kazzak", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			454, -- [11]
+			"Player-1305-0BDE5D64", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cff00fe97Kazzboost|r",
+			[51] = 1615716425,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [97]
+		{
+			"WTS +15 INTIMED RUN // With 1700++ GRP // Cheap price", -- [1]
+			"Warhummer-Kazzak", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Warhummer-Kazzak", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			462, -- [11]
+			"Player-1305-0939438B", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cfff38bb9Warhummer|r",
+			[51] = 1615716433,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [98]
+		{
+			"LAST 2 BOSS EVERY 20 MIN >SYLVANAS<  In Time Guarantee ||>>> M+15 = 255K <<<>>> M+14 = 155K <<<>>> M+12 = 110k <<<||||>>> Key Stone Master <<<||>> 3x15 = 725k <<||>>>+ARMOR STACK<<<||>>> Can Book Last 2Boss Sire and generals AND 10/10 HC/M <<<|| /W me", -- [1]
+			"Boostsylv-Kazzak", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Boostsylv-Kazzak", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			465, -- [11]
+			"Player-1305-0BEA547C", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cfffef367Boostsylv|r",
+			[51] = 1615716433,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [99]
 	},
 }

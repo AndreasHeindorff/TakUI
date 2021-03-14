@@ -33,46 +33,46 @@ TomTomDB = {
 		["Rinzor - Aszune"] = "Default",
 		["Takiragone - Kazzak"] = "Default",
 		["Takibank - Argent Dawn"] = "Default",
+		["Taaku - Kazzak"] = "Default",
 		["Takipalaone - Kazzak"] = "Default",
-		["Renwarri - Kazzak"] = "Default",
 		["Takiscoper - Kazzak"] = "Default",
-		["Takiworra - Kazzak"] = "Default",
-		["Felenia - Doomhammer"] = "Default",
-		["Rentaki - Ravencrest"] = "Default",
+		["Rintake - Argent Dawn"] = "Default",
+		["Takidari - Kazzak"] = "Default",
+		["Takiragthree - Kazzak"] = "Default",
 		["Takiragfour - Kazzak"] = "Default",
 		["Takii - Doomhammer"] = "Default",
-		["Takifistzz - Kazzak"] = "Default",
+		["Takitalon - Arathi"] = "Default",
 		["Takidari - Ravencrest"] = "Default",
-		["Asdfasfdas - Kazzak"] = "Default",
+		["Rentakigold - Twisting Nether"] = "Default",
 		["Takimage - Lightbringer"] = "Default",
 		["Takitestr - Kazzak"] = "Default",
-		["Rentakigold - Twisting Nether"] = "Default",
-		["Takitest - Ravencrest"] = "Default",
+		["Asdfasfdas - Kazzak"] = "Default",
+		["Takipala - Ravencrest"] = "Default",
 		["Rintake - Ragnaros"] = "Default",
 		["Takimogaasd - Ravencrest"] = "Default",
 		["Asdfasfassa - Kazzak"] = "Default",
 		["Takimage - Kazzak"] = "Default",
-		["Takidin - Kazzak"] = "Default",
+		["Rentakidh - Argent Dawn"] = "Default",
 		["Takii - Frostmane"] = "Default",
-		["Thaaeyn - Argent Dawn"] = "Default",
+		["Takimogaa - Ravencrest"] = "Default",
 		["Asdfasdfaa - Kazzak"] = "Default",
-		["Rentaki - Kazzak"] = "Default",
-		["Huntaki - Ravencrest"] = "Default",
 		["Ivelea - Argent Dawn"] = "Default",
 		["Nyumi - Argent Dawn"] = "Default",
+		["Rentaki - Kazzak"] = "Default",
+		["Takidin - Kazzak"] = "Default",
 		["Takigalywix - Aegwynn"] = "Default",
-		["Takimogaa - Ravencrest"] = "Default",
-		["Rentakidh - Argent Dawn"] = "Default",
+		["Thaaeyn - Argent Dawn"] = "Default",
+		["Huntaki - Ravencrest"] = "Default",
 		["Rentakigold - Blackmoore"] = "Default",
 		["Rendudu - Kazzak"] = "Default",
-		["Takipala - Ravencrest"] = "Default",
+		["Takitest - Ravencrest"] = "Default",
 		["Takidk - Kazzak"] = "Default",
 		["Takiragtwo - Kazzak"] = "Default",
-		["Takitalon - Arathi"] = "Default",
-		["Takiragthree - Kazzak"] = "Default",
-		["Takidari - Kazzak"] = "Default",
-		["Rintake - Argent Dawn"] = "Default",
-		["Taaku - Kazzak"] = "Default",
+		["Takifistzz - Kazzak"] = "Default",
+		["Rentaki - Ravencrest"] = "Default",
+		["Felenia - Doomhammer"] = "Default",
+		["Takiworra - Kazzak"] = "Default",
+		["Renwarri - Kazzak"] = "Default",
 		["Takipalatest - Kazzak"] = "Default",
 	},
 	["profiles"] = {
@@ -128,46 +128,46 @@ TomTomWaypointsM = {
 		["Rinzor - Aszune"] = "Rinzor - Aszune",
 		["Takiragone - Kazzak"] = "Takiragone - Kazzak",
 		["Takibank - Argent Dawn"] = "Takibank - Argent Dawn",
+		["Taaku - Kazzak"] = "Taaku - Kazzak",
 		["Takipalaone - Kazzak"] = "Takipalaone - Kazzak",
-		["Renwarri - Kazzak"] = "Renwarri - Kazzak",
 		["Takiscoper - Kazzak"] = "Takiscoper - Kazzak",
-		["Takiworra - Kazzak"] = "Takiworra - Kazzak",
-		["Felenia - Doomhammer"] = "Felenia - Doomhammer",
-		["Rentaki - Ravencrest"] = "Rentaki - Ravencrest",
+		["Rintake - Argent Dawn"] = "Rintake - Argent Dawn",
+		["Takidari - Kazzak"] = "Takidari - Kazzak",
+		["Takiragthree - Kazzak"] = "Takiragthree - Kazzak",
 		["Takiragfour - Kazzak"] = "Takiragfour - Kazzak",
 		["Takii - Doomhammer"] = "Takii - Doomhammer",
-		["Takifistzz - Kazzak"] = "Takifistzz - Kazzak",
+		["Takitalon - Arathi"] = "Takitalon - Arathi",
 		["Takidari - Ravencrest"] = "Takidari - Ravencrest",
-		["Asdfasfdas - Kazzak"] = "Asdfasfdas - Kazzak",
+		["Rentakigold - Twisting Nether"] = "Rentakigold - Twisting Nether",
 		["Takimage - Lightbringer"] = "Takimage - Lightbringer",
 		["Takitestr - Kazzak"] = "Takitestr - Kazzak",
-		["Rentakigold - Twisting Nether"] = "Rentakigold - Twisting Nether",
-		["Takitest - Ravencrest"] = "Takitest - Ravencrest",
+		["Asdfasfdas - Kazzak"] = "Asdfasfdas - Kazzak",
+		["Takipala - Ravencrest"] = "Takipala - Ravencrest",
 		["Rintake - Ragnaros"] = "Rintake - Ragnaros",
 		["Takimogaasd - Ravencrest"] = "Takimogaasd - Ravencrest",
 		["Asdfasfassa - Kazzak"] = "Asdfasfassa - Kazzak",
 		["Takimage - Kazzak"] = "Takimage - Kazzak",
-		["Takidin - Kazzak"] = "Takidin - Kazzak",
+		["Rentakidh - Argent Dawn"] = "Rentakidh - Argent Dawn",
 		["Takii - Frostmane"] = "Takii - Frostmane",
-		["Thaaeyn - Argent Dawn"] = "Thaaeyn - Argent Dawn",
+		["Takimogaa - Ravencrest"] = "Takimogaa - Ravencrest",
 		["Asdfasdfaa - Kazzak"] = "Asdfasdfaa - Kazzak",
-		["Rentaki - Kazzak"] = "Rentaki - Kazzak",
-		["Huntaki - Ravencrest"] = "Huntaki - Ravencrest",
 		["Ivelea - Argent Dawn"] = "Ivelea - Argent Dawn",
 		["Nyumi - Argent Dawn"] = "Nyumi - Argent Dawn",
+		["Rentaki - Kazzak"] = "Rentaki - Kazzak",
+		["Takidin - Kazzak"] = "Takidin - Kazzak",
 		["Takigalywix - Aegwynn"] = "Takigalywix - Aegwynn",
-		["Takimogaa - Ravencrest"] = "Takimogaa - Ravencrest",
-		["Rentakidh - Argent Dawn"] = "Rentakidh - Argent Dawn",
+		["Thaaeyn - Argent Dawn"] = "Thaaeyn - Argent Dawn",
+		["Huntaki - Ravencrest"] = "Huntaki - Ravencrest",
 		["Rentakigold - Blackmoore"] = "Rentakigold - Blackmoore",
 		["Rendudu - Kazzak"] = "Rendudu - Kazzak",
-		["Takipala - Ravencrest"] = "Takipala - Ravencrest",
+		["Takitest - Ravencrest"] = "Takitest - Ravencrest",
 		["Takidk - Kazzak"] = "Takidk - Kazzak",
 		["Takiragtwo - Kazzak"] = "Takiragtwo - Kazzak",
-		["Takitalon - Arathi"] = "Takitalon - Arathi",
-		["Takiragthree - Kazzak"] = "Takiragthree - Kazzak",
-		["Takidari - Kazzak"] = "Takidari - Kazzak",
-		["Rintake - Argent Dawn"] = "Rintake - Argent Dawn",
-		["Taaku - Kazzak"] = "Taaku - Kazzak",
+		["Takifistzz - Kazzak"] = "Takifistzz - Kazzak",
+		["Rentaki - Ravencrest"] = "Rentaki - Ravencrest",
+		["Felenia - Doomhammer"] = "Felenia - Doomhammer",
+		["Takiworra - Kazzak"] = "Takiworra - Kazzak",
+		["Renwarri - Kazzak"] = "Renwarri - Kazzak",
 		["Takipalatest - Kazzak"] = "Takipalatest - Kazzak",
 	},
 	["profiles"] = {
@@ -229,9 +229,9 @@ TomTomWaypointsM = {
 					["callbacks"] = {
 						["distance"] = {
 						},
-						["minimap"] = {
-						},
 						["world"] = {
+						},
+						["minimap"] = {
 						},
 					},
 					["persistent"] = true,
@@ -251,9 +251,9 @@ TomTomWaypointsM = {
 					["callbacks"] = {
 						["distance"] = {
 						},
-						["minimap"] = {
-						},
 						["world"] = {
+						},
+						["minimap"] = {
 						},
 					},
 					["persistent"] = true,
@@ -281,17 +281,17 @@ TomTomWaypointsM = {
 		},
 		["Takibank - Argent Dawn"] = {
 		},
-		["Takipalaone - Kazzak"] = {
+		["Taaku - Kazzak"] = {
 		},
-		["Renwarri - Kazzak"] = {
+		["Takipalaone - Kazzak"] = {
 		},
 		["Takiscoper - Kazzak"] = {
 		},
-		["Takiworra - Kazzak"] = {
+		["Rintake - Argent Dawn"] = {
 		},
-		["Felenia - Doomhammer"] = {
+		["Takidari - Kazzak"] = {
 		},
-		["Rentaki - Ravencrest"] = {
+		["Takiragthree - Kazzak"] = {
 		},
 		["Takiragfour - Kazzak"] = {
 		},
@@ -312,9 +312,9 @@ TomTomWaypointsM = {
 					["callbacks"] = {
 						["distance"] = {
 						},
-						["minimap"] = {
-						},
 						["world"] = {
+						},
+						["minimap"] = {
 						},
 					},
 					["minimap"] = true,
@@ -335,9 +335,9 @@ TomTomWaypointsM = {
 					["callbacks"] = {
 						["distance"] = {
 						},
-						["minimap"] = {
-						},
 						["world"] = {
+						},
+						["minimap"] = {
 						},
 					},
 					["minimap"] = true,
@@ -358,9 +358,9 @@ TomTomWaypointsM = {
 					["callbacks"] = {
 						["distance"] = {
 						},
-						["minimap"] = {
-						},
 						["world"] = {
+						},
+						["minimap"] = {
 						},
 					},
 					["minimap"] = true,
@@ -381,9 +381,9 @@ TomTomWaypointsM = {
 					["callbacks"] = {
 						["distance"] = {
 						},
-						["minimap"] = {
-						},
 						["world"] = {
+						},
+						["minimap"] = {
 						},
 					},
 					["minimap"] = true,
@@ -406,82 +406,9 @@ TomTomWaypointsM = {
 					["callbacks"] = {
 						["distance"] = {
 						},
-						["minimap"] = {
-						},
 						["world"] = {
 						},
-					},
-					["minimap"] = true,
-					["world"] = true,
-				},
-			},
-			[550] = {
-				["550:440300000:308200000:Edge of Reality"] = {
-					550, -- [1]
-					0.4403, -- [2]
-					0.3082, -- [3]
-					["arrivaldistance"] = 15,
-					["crazy"] = true,
-					["persistent"] = true,
-					["desc"] = "Edge of Reality",
-					["silent"] = true,
-					["cleardistance"] = 10,
-					["title"] = "Edge of Reality",
-					["from"] = "TomTom/way",
-					["callbacks"] = {
-						["distance"] = {
-						},
 						["minimap"] = {
-						},
-						["world"] = {
-						},
-					},
-					["minimap"] = true,
-					["world"] = true,
-				},
-				["550:405300000:476400000:Edge of Reality"] = {
-					550, -- [1]
-					0.4053, -- [2]
-					0.4764, -- [3]
-					["arrivaldistance"] = 15,
-					["crazy"] = true,
-					["persistent"] = true,
-					["desc"] = "Edge of Reality",
-					["silent"] = true,
-					["cleardistance"] = 10,
-					["title"] = "Edge of Reality",
-					["from"] = "TomTom/way",
-					["callbacks"] = {
-						["distance"] = {
-						},
-						["minimap"] = {
-						},
-						["world"] = {
-						},
-					},
-					["minimap"] = true,
-					["world"] = true,
-				},
-			},
-			[542] = {
-				["542:364300000:183000000:Edge of Reality"] = {
-					542, -- [1]
-					0.3643, -- [2]
-					0.183, -- [3]
-					["arrivaldistance"] = 15,
-					["crazy"] = true,
-					["persistent"] = true,
-					["desc"] = "Edge of Reality",
-					["silent"] = true,
-					["cleardistance"] = 10,
-					["title"] = "Edge of Reality",
-					["from"] = "TomTom/way",
-					["callbacks"] = {
-						["distance"] = {
-						},
-						["minimap"] = {
-						},
-						["world"] = {
 						},
 					},
 					["minimap"] = true,
@@ -504,9 +431,9 @@ TomTomWaypointsM = {
 					["callbacks"] = {
 						["distance"] = {
 						},
-						["minimap"] = {
-						},
 						["world"] = {
+						},
+						["minimap"] = {
 						},
 					},
 					["minimap"] = true,
@@ -527,9 +454,82 @@ TomTomWaypointsM = {
 					["callbacks"] = {
 						["distance"] = {
 						},
+						["world"] = {
+						},
 						["minimap"] = {
 						},
+					},
+					["minimap"] = true,
+					["world"] = true,
+				},
+			},
+			[542] = {
+				["542:364300000:183000000:Edge of Reality"] = {
+					542, -- [1]
+					0.3643, -- [2]
+					0.183, -- [3]
+					["arrivaldistance"] = 15,
+					["crazy"] = true,
+					["persistent"] = true,
+					["desc"] = "Edge of Reality",
+					["silent"] = true,
+					["cleardistance"] = 10,
+					["title"] = "Edge of Reality",
+					["from"] = "TomTom/way",
+					["callbacks"] = {
+						["distance"] = {
+						},
 						["world"] = {
+						},
+						["minimap"] = {
+						},
+					},
+					["minimap"] = true,
+					["world"] = true,
+				},
+			},
+			[550] = {
+				["550:440300000:308200000:Edge of Reality"] = {
+					550, -- [1]
+					0.4403, -- [2]
+					0.3082, -- [3]
+					["arrivaldistance"] = 15,
+					["crazy"] = true,
+					["persistent"] = true,
+					["desc"] = "Edge of Reality",
+					["silent"] = true,
+					["cleardistance"] = 10,
+					["title"] = "Edge of Reality",
+					["from"] = "TomTom/way",
+					["callbacks"] = {
+						["distance"] = {
+						},
+						["world"] = {
+						},
+						["minimap"] = {
+						},
+					},
+					["minimap"] = true,
+					["world"] = true,
+				},
+				["550:405300000:476400000:Edge of Reality"] = {
+					550, -- [1]
+					0.4053, -- [2]
+					0.4764, -- [3]
+					["arrivaldistance"] = 15,
+					["crazy"] = true,
+					["persistent"] = true,
+					["desc"] = "Edge of Reality",
+					["silent"] = true,
+					["cleardistance"] = 10,
+					["title"] = "Edge of Reality",
+					["from"] = "TomTom/way",
+					["callbacks"] = {
+						["distance"] = {
+						},
+						["world"] = {
+						},
+						["minimap"] = {
 						},
 					},
 					["minimap"] = true,
@@ -537,19 +537,105 @@ TomTomWaypointsM = {
 				},
 			},
 		},
-		["Takifistzz - Kazzak"] = {
+		["Takitalon - Arathi"] = {
+			[525] = {
+				["525:538000000:173200000:Edge of Reality"] = {
+					525, -- [1]
+					0.5379999999999999, -- [2]
+					0.1732, -- [3]
+					["arrivaldistance"] = 15,
+					["crazy"] = true,
+					["persistent"] = true,
+					["minimap"] = true,
+					["cleardistance"] = 10,
+					["title"] = "Edge of Reality",
+					["from"] = "TomTom/way",
+					["callbacks"] = {
+						["distance"] = {
+						},
+						["world"] = {
+						},
+						["minimap"] = {
+						},
+					},
+					["world"] = true,
+				},
+				["525:480000000:274000000:Edge of Reality"] = {
+					525, -- [1]
+					0.48, -- [2]
+					0.274, -- [3]
+					["arrivaldistance"] = 15,
+					["crazy"] = true,
+					["persistent"] = true,
+					["minimap"] = true,
+					["cleardistance"] = 10,
+					["title"] = "Edge of Reality",
+					["from"] = "TomTom/way",
+					["callbacks"] = {
+						["distance"] = {
+						},
+						["world"] = {
+						},
+						["minimap"] = {
+						},
+					},
+					["world"] = true,
+				},
+				["525:524000000:181800000:Edge of Reality"] = {
+					525, -- [1]
+					0.524, -- [2]
+					0.1818, -- [3]
+					["arrivaldistance"] = 15,
+					["crazy"] = true,
+					["persistent"] = true,
+					["minimap"] = true,
+					["cleardistance"] = 10,
+					["title"] = "Edge of Reality",
+					["from"] = "TomTom/way",
+					["callbacks"] = {
+						["distance"] = {
+						},
+						["world"] = {
+						},
+						["minimap"] = {
+						},
+					},
+					["world"] = true,
+				},
+				["525:511000000:198600000:Edge of Reality"] = {
+					525, -- [1]
+					0.511, -- [2]
+					0.1986, -- [3]
+					["arrivaldistance"] = 15,
+					["crazy"] = true,
+					["persistent"] = true,
+					["minimap"] = true,
+					["cleardistance"] = 10,
+					["title"] = "Edge of Reality",
+					["from"] = "TomTom/way",
+					["callbacks"] = {
+						["distance"] = {
+						},
+						["world"] = {
+						},
+						["minimap"] = {
+						},
+					},
+					["world"] = true,
+				},
+			},
 		},
 		["Takidari - Ravencrest"] = {
 		},
-		["Asdfasfdas - Kazzak"] = {
+		["Rentakigold - Twisting Nether"] = {
 		},
 		["Takimage - Lightbringer"] = {
 		},
 		["Takitestr - Kazzak"] = {
 		},
-		["Rentakigold - Twisting Nether"] = {
+		["Asdfasfdas - Kazzak"] = {
 		},
-		["Takitest - Ravencrest"] = {
+		["Takipala - Ravencrest"] = {
 		},
 		["Rintake - Ragnaros"] = {
 		},
@@ -559,7 +645,7 @@ TomTomWaypointsM = {
 		},
 		["Takimage - Kazzak"] = {
 		},
-		["Takidin - Kazzak"] = {
+		["Rentakidh - Argent Dawn"] = {
 		},
 		["Takii - Frostmane"] = {
 			[539] = {
@@ -578,9 +664,9 @@ TomTomWaypointsM = {
 					["callbacks"] = {
 						["distance"] = {
 						},
-						["minimap"] = {
-						},
 						["world"] = {
+						},
+						["minimap"] = {
 						},
 					},
 					["minimap"] = true,
@@ -601,9 +687,9 @@ TomTomWaypointsM = {
 					["callbacks"] = {
 						["distance"] = {
 						},
-						["minimap"] = {
-						},
 						["world"] = {
+						},
+						["minimap"] = {
 						},
 					},
 					["minimap"] = true,
@@ -624,9 +710,9 @@ TomTomWaypointsM = {
 					["callbacks"] = {
 						["distance"] = {
 						},
-						["minimap"] = {
-						},
 						["world"] = {
+						},
+						["minimap"] = {
 						},
 					},
 					["minimap"] = true,
@@ -647,9 +733,9 @@ TomTomWaypointsM = {
 					["callbacks"] = {
 						["distance"] = {
 						},
-						["minimap"] = {
-						},
 						["world"] = {
+						},
+						["minimap"] = {
 						},
 					},
 					["minimap"] = true,
@@ -657,129 +743,43 @@ TomTomWaypointsM = {
 				},
 			},
 		},
-		["Thaaeyn - Argent Dawn"] = {
+		["Takimogaa - Ravencrest"] = {
 		},
 		["Asdfasdfaa - Kazzak"] = {
-		},
-		["Rentaki - Kazzak"] = {
-		},
-		["Huntaki - Ravencrest"] = {
 		},
 		["Ivelea - Argent Dawn"] = {
 		},
 		["Nyumi - Argent Dawn"] = {
 		},
+		["Rentaki - Kazzak"] = {
+		},
+		["Takidin - Kazzak"] = {
+		},
 		["Takigalywix - Aegwynn"] = {
 		},
-		["Takimogaa - Ravencrest"] = {
+		["Thaaeyn - Argent Dawn"] = {
 		},
-		["Rentakidh - Argent Dawn"] = {
+		["Huntaki - Ravencrest"] = {
 		},
 		["Rentakigold - Blackmoore"] = {
 		},
 		["Rendudu - Kazzak"] = {
 		},
-		["Takipala - Ravencrest"] = {
+		["Takitest - Ravencrest"] = {
 		},
 		["Takidk - Kazzak"] = {
 		},
 		["Takiragtwo - Kazzak"] = {
 		},
-		["Takitalon - Arathi"] = {
-			[525] = {
-				["525:511000000:198600000:Edge of Reality"] = {
-					525, -- [1]
-					0.511, -- [2]
-					0.1986, -- [3]
-					["arrivaldistance"] = 15,
-					["crazy"] = true,
-					["persistent"] = true,
-					["minimap"] = true,
-					["cleardistance"] = 10,
-					["title"] = "Edge of Reality",
-					["from"] = "TomTom/way",
-					["callbacks"] = {
-						["distance"] = {
-						},
-						["minimap"] = {
-						},
-						["world"] = {
-						},
-					},
-					["world"] = true,
-				},
-				["525:480000000:274000000:Edge of Reality"] = {
-					525, -- [1]
-					0.48, -- [2]
-					0.274, -- [3]
-					["arrivaldistance"] = 15,
-					["crazy"] = true,
-					["persistent"] = true,
-					["minimap"] = true,
-					["cleardistance"] = 10,
-					["title"] = "Edge of Reality",
-					["from"] = "TomTom/way",
-					["callbacks"] = {
-						["distance"] = {
-						},
-						["minimap"] = {
-						},
-						["world"] = {
-						},
-					},
-					["world"] = true,
-				},
-				["525:524000000:181800000:Edge of Reality"] = {
-					525, -- [1]
-					0.524, -- [2]
-					0.1818, -- [3]
-					["arrivaldistance"] = 15,
-					["crazy"] = true,
-					["persistent"] = true,
-					["minimap"] = true,
-					["cleardistance"] = 10,
-					["title"] = "Edge of Reality",
-					["from"] = "TomTom/way",
-					["callbacks"] = {
-						["distance"] = {
-						},
-						["minimap"] = {
-						},
-						["world"] = {
-						},
-					},
-					["world"] = true,
-				},
-				["525:538000000:173200000:Edge of Reality"] = {
-					525, -- [1]
-					0.5379999999999999, -- [2]
-					0.1732, -- [3]
-					["arrivaldistance"] = 15,
-					["crazy"] = true,
-					["persistent"] = true,
-					["minimap"] = true,
-					["cleardistance"] = 10,
-					["title"] = "Edge of Reality",
-					["from"] = "TomTom/way",
-					["callbacks"] = {
-						["distance"] = {
-						},
-						["minimap"] = {
-						},
-						["world"] = {
-						},
-					},
-					["world"] = true,
-				},
-			},
+		["Takifistzz - Kazzak"] = {
 		},
-		["Takiragthree - Kazzak"] = {
+		["Rentaki - Ravencrest"] = {
 		},
-		["Takidari - Kazzak"] = {
+		["Felenia - Doomhammer"] = {
 		},
-		["Rintake - Argent Dawn"] = {
+		["Takiworra - Kazzak"] = {
 		},
-		["Taaku - Kazzak"] = {
+		["Renwarri - Kazzak"] = {
 		},
 		["Takipalatest - Kazzak"] = {
 		},

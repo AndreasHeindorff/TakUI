@@ -16,9 +16,9 @@ OmniCDDB = {
 		["LibDualSpec-1.0"] = {
 		},
 	},
+	["version"] = 2.51,
 	["cooldowns"] = {
 	},
-	["version"] = 2.51,
 	["profiles"] = {
 		["Default"] = {
 			["Party"] = {
@@ -30,19 +30,19 @@ OmniCDDB = {
 						["columns"] = 10,
 						["attach"] = "TOPLEFT",
 						["preset"] = "TOPLEFT",
-						["offsetX"] = 1,
 						["uf"] = "ElvUI",
+						["offsetX"] = 1,
 						["anchor"] = "TOPRIGHT",
 						["offsetY"] = 1,
 					},
 					["manualPos"] = {
-						["raidCDBar"] = {
-							["y"] = 692.977751155031,
-							["x"] = 11.73312067256518,
-						},
 						["interruptBar"] = {
 							["y"] = 547.2001000556702,
 							["x"] = 854.4008019387911,
+						},
+						["raidCDBar"] = {
+							["y"] = 692.977751155031,
+							["x"] = 11.73312067256518,
 						},
 					},
 				},
@@ -54,8 +54,8 @@ OmniCDDB = {
 						["columns"] = 10,
 						["attach"] = "TOPLEFT",
 						["preset"] = "TOPLEFT",
-						["uf"] = "ElvUI",
 						["offsetX"] = 1,
+						["uf"] = "ElvUI",
 						["anchor"] = "TOPRIGHT",
 						["offsetY"] = 1,
 					},

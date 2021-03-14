@@ -4,19 +4,19 @@ PasteDB = {
 		["Hunteraki - Frostmane"] = "Hunteraki - Frostmane",
 		["Rentamdi - Kazzak"] = "Rentamdi - Kazzak",
 		["Rintake - Ragnaros"] = "Rintake - Ragnaros",
-		["Takidari - Ravencrest"] = "Takidari - Ravencrest",
-		["Takii - Doomhammer"] = "Takii - Doomhammer",
+		["Rentaki - Kazzak"] = "Rentaki - Kazzak",
+		["Rentaco - Ravencrest"] = "Rentaco - Ravencrest",
 		["Takikin - Kazzak"] = "Takikin - Kazzak",
-		["Rintake - Argent Dawn"] = "Rintake - Argent Dawn",
-		["Takicado - Doomhammer"] = "Takicado - Doomhammer",
+		["Takiworra - Kazzak"] = "Takiworra - Kazzak",
+		["Takidk - Kazzak"] = "Takidk - Kazzak",
 		["Takii - Frostmane"] = "Takii - Frostmane",
 		["Arcataki - Doomhammer"] = "Arcataki - Doomhammer",
 		["Rentakidh - Argent Dawn"] = "Rentakidh - Argent Dawn",
 		["Takidari - Kazzak"] = "Takidari - Kazzak",
 		["Taaku - Kazzak"] = "Taaku - Kazzak",
 		["Ivelea - Argent Dawn"] = "Ivelea - Argent Dawn",
-		["Takifistzz - Kazzak"] = "Takifistzz - Kazzak",
-		["Rentaco - Kazzak"] = "Rentaco - Kazzak",
+		["Takicado - Doomhammer"] = "Takicado - Doomhammer",
+		["Takibank - Argent Dawn"] = "Takibank - Argent Dawn",
 		["Thaaeyn - Argent Dawn"] = "Thaaeyn - Argent Dawn",
 		["Takii - Argent Dawn"] = "Takii - Argent Dawn",
 		["Renqqø - Kazzak"] = "Renqqø - Kazzak",
@@ -25,11 +25,11 @@ PasteDB = {
 		["Renwarri - Kazzak"] = "Renwarri - Kazzak",
 		["Takiscoper - Kazzak"] = "Takiscoper - Kazzak",
 		["Takidin - Kazzak"] = "Takidin - Kazzak",
-		["Takibank - Argent Dawn"] = "Takibank - Argent Dawn",
-		["Takidk - Kazzak"] = "Takidk - Kazzak",
-		["Takiworra - Kazzak"] = "Takiworra - Kazzak",
-		["Rentaco - Ravencrest"] = "Rentaco - Ravencrest",
-		["Rentaki - Kazzak"] = "Rentaki - Kazzak",
+		["Rentaco - Kazzak"] = "Rentaco - Kazzak",
+		["Takifistzz - Kazzak"] = "Takifistzz - Kazzak",
+		["Rintake - Argent Dawn"] = "Rintake - Argent Dawn",
+		["Takii - Doomhammer"] = "Takii - Doomhammer",
+		["Takidari - Ravencrest"] = "Takidari - Ravencrest",
 	},
 	["profiles"] = {
 		["Hunteraki - Frostmane"] = {
@@ -41,23 +41,30 @@ PasteDB = {
 		["Rintake - Ragnaros"] = {
 			["loaded"] = true,
 		},
-		["Takidari - Ravencrest"] = {
+		["Rentaki - Kazzak"] = {
 			["loaded"] = true,
-		},
-		["Takii - Doomhammer"] = {
-			["loaded"] = true,
-			["whispertarget"] = "",
-			["where"] = "Default",
-			["pos"] = {
+			["minimap"] = {
+				["minimapPos"] = 343.9092327759646,
 			},
+			["where"] = "Default",
+			["whispertarget"] = "",
+			["pos"] = {
+				["height"] = 320,
+				["top"] = 600,
+				["left"] = 992.0003051757812,
+				["width"] = 500.0000610351563,
+			},
+		},
+		["Rentaco - Ravencrest"] = {
+			["loaded"] = true,
 		},
 		["Takikin - Kazzak"] = {
 			["loaded"] = true,
 		},
-		["Rintake - Argent Dawn"] = {
+		["Takiworra - Kazzak"] = {
 			["loaded"] = true,
 		},
-		["Takicado - Doomhammer"] = {
+		["Takidk - Kazzak"] = {
 			["loaded"] = true,
 		},
 		["Takii - Frostmane"] = {
@@ -82,10 +89,10 @@ PasteDB = {
 		["Ivelea - Argent Dawn"] = {
 			["loaded"] = true,
 		},
-		["Takifistzz - Kazzak"] = {
+		["Takicado - Doomhammer"] = {
 			["loaded"] = true,
 		},
-		["Rentaco - Kazzak"] = {
+		["Takibank - Argent Dawn"] = {
 			["loaded"] = true,
 		},
 		["Thaaeyn - Argent Dawn"] = {
@@ -112,31 +119,24 @@ PasteDB = {
 		["Takidin - Kazzak"] = {
 			["loaded"] = true,
 		},
-		["Takibank - Argent Dawn"] = {
+		["Rentaco - Kazzak"] = {
 			["loaded"] = true,
 		},
-		["Takidk - Kazzak"] = {
+		["Takifistzz - Kazzak"] = {
 			["loaded"] = true,
 		},
-		["Takiworra - Kazzak"] = {
+		["Rintake - Argent Dawn"] = {
 			["loaded"] = true,
 		},
-		["Rentaco - Ravencrest"] = {
+		["Takii - Doomhammer"] = {
 			["loaded"] = true,
-		},
-		["Rentaki - Kazzak"] = {
-			["loaded"] = true,
-			["minimap"] = {
-				["minimapPos"] = 343.9092327759646,
-			},
-			["where"] = "Default",
 			["whispertarget"] = "",
+			["where"] = "Default",
 			["pos"] = {
-				["height"] = 320,
-				["top"] = 600,
-				["left"] = 992.0003051757812,
-				["width"] = 500.0000610351563,
 			},
+		},
+		["Takidari - Ravencrest"] = {
+			["loaded"] = true,
 		},
 	},
 }
