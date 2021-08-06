@@ -1,4 +1,4 @@
--- English localization
+﻿-- English localization
 local L = ElvUI[1].Libs.ACL:NewLocale("ElvUI", "enUS", true, true)
 
 if not L then return end
@@ -157,7 +157,7 @@ L["ElvUI Objective Tracker"] = true
 L["ElvUI Skins"] = true
 L["ELVUI_SLE_CREDITS"] = "We would like to point out the following people for helping us create this addon by testing, coding, and other stuff."
 L["ELVUI_SLE_DONORS_TITLE"] = "Thanks to these awesome people for supporting our work via donations:"
-L["ELVUI_SLE_MISC"] = "BuG - for always hilariously breaking stuff\nTheSamaKutra\nRZ_Digital - for making our new aswesome logo\nThe rest of TukUI community"
+L["ELVUI_SLE_MISC"] = "BuG - for always hilariously breaking stuff\nTheSamaKutra\nRZ_Digital - for making our new aswesome logo\nEltreum for doing some grunt work for Repooc\nThe rest of TukUI community"
 L["ELVUI_SLE_PATREON_TITLE"] = "Many thanks to our awesome patrons, who provided financial support for the development of this addon:"
 L["EM_DESC"] = "This module provides different options to automatically change your equipment sets on spec change or entering certain locations. All options are character based."
 L["Empty Socket"] = true
@@ -195,11 +195,8 @@ L["FAQ_Elv_5"] = "|cff30ee30Q: What are ElvUI slash (chat) commands?|r\n|cff9482
 L["FAQ_sle_1"] = "|cff30ee30Q: What do I do if I encounter an error is Shadow & Light?|r\n|cff9482c9A:|r Pretty much the same as for ElvUI (see it's FAQ section) but you'll have to provide S&L version too."
 L["FAQ_sle_2"] = "|cff30ee30Q: Does Shadow & Light have the same language policy as ElvUI?|r\n|cff9482c9A:|r Yes but S&L actually has two official languages - English and Russian."
 L["FAQ_sle_3"] = "|cff30ee30Q: Why are the layout's screenshots on download page different from what I see in the game?|r\n|cff9482c9A:|r Because we just forgot to update those."
-L["FAQ_sle_4"] = "|cff30ee30Q: Why do I see some weird icons near some people's names in chat?|r\n|cff9482c9A:|r Those icons are provided by S&L and are associated with people we'd like to highlight in any way.\nFor example: |TInterface\\AddOns\\ElvUI_SLE\\media\\textures\\SLE_Chat_Logo:12:28|t is the main icon for development team of Shadow & Light, and |TInterface\\AddOns\\ElvUI_SLE\\media\\textures\\SLE_Chat_Logo_Alt:14:14|t is another one that Repooc likes to use. |TInterface\\AddOns\\ElvUI_SLE\\media\\textures\\Chat_Test:16:16|t is awarded to those who help find bugs."
+L["FAQ_sle_4"] = "|cff30ee30Q: Why do I see some weird icons near some people's names in chat?|r\n|cff9482c9A:|r Those icons are provided by S&L and are associated with people we'd like to highlight in any way.\nFor example: |TInterface\\AddOns\\ElvUI_SLE\\media\\textures\\chat\\SLE_Chat_Logo:12:28|t is the main icon for development team of Shadow & Light, and |TInterface\\AddOns\\ElvUI_SLE\\media\\textures\\chat\\SLE_Chat_Logo_Alt:14:14|t is another one that Repooc likes to use. |TInterface\\AddOns\\ElvUI_SLE\\media\\textures\\Chat_Test:16:16|t is awarded to those who help find bugs."
 L["FAQ_sle_5"] = "|cff30ee30Q: How can I get in touch with you guys?|r\n|cff9482c9A:|r For obvious reasons, we are not giving out our contact details freely. So your best bet is using tukui.org forums or even in our Discord."
-L["Farm Portal Bar"] = true
-L["Farm Seed Bars"] = true
-L["Farm Tool Bar"] = true
 L["Farm"] = true
 L["Filter DPS meters' Spam"] = true
 L["Fish Key"] = true
@@ -440,9 +437,6 @@ L["S&L Mail"] = true
 L["S&L UI Buttons"] = true
 L["S&L: All"] = true
 L["S&L: Backgrounds"] = true
-L["S&L: Farm Portal Bar"] = true
-L["S&L: Farm Seed Bars"] = true
-L["S&L: Farm Tool Bar"] = true
 L["S&L: Garrison Tools Bar"] = true
 L["S&L: Misc"] = true
 L["Scroll"] = true

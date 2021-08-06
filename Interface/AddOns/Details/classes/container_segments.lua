@@ -95,8 +95,8 @@ function historico:adicionar_overall (tabela)
 	
 	tinsert (_detalhes.tabela_overall.segments_added, 1, {name = combatName, elapsed = combatTime, clock = this_clock, type = combatType})
 
-	if (#_detalhes.tabela_overall.segments_added > 30) then
-		tremove (_detalhes.tabela_overall.segments_added, 31)
+	if (#_detalhes.tabela_overall.segments_added > 40) then
+		tremove (_detalhes.tabela_overall.segments_added, 41)
 	end
 	
 	if (_detalhes.debug) then
@@ -539,10 +539,10 @@ function historico:resetar()
 		_detalhes.schedule_hard_garbage_collect = true
 	end
 	
-	_detalhes:InstanciaCallFunction (_detalhes.AtualizaSegmentos) -- atualiza o instancia.showing para as novas tabelas criadas
-	_detalhes:InstanciaCallFunction (_detalhes.AtualizaSoloMode_AfertReset) -- verifica se precisa zerar as tabela da janela solo mode
-	_detalhes:InstanciaCallFunction (_detalhes.ResetaGump) --_detalhes:ResetaGump ("de todas as instancias")
-	_detalhes:InstanciaCallFunction (gump.Fade, "in", nil, "barras")
+	_detalhes:InstanciaCallFunction(_detalhes.AtualizaSegmentos) -- atualiza o instancia.showing para as novas tabelas criadas
+	_detalhes:InstanciaCallFunction(_detalhes.AtualizaSoloMode_AfertReset) -- verifica se precisa zerar as tabela da janela solo mode
+	_detalhes:InstanciaCallFunction(_detalhes.ResetaGump) --_detalhes:ResetaGump ("de todas as instancias")
+	_detalhes:InstanciaCallFunction(Details.FadeHandler.Fader, "IN", nil, "barras")
 	
 	_detalhes:RefreshMainWindow (-1) --atualiza todas as instancias
 	

@@ -1,3 +1,7 @@
+VER 3 0100000000000008 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@player] Holy Prism
+END
 VER 3 0100000000000013 " " "INV_MISC_QUESTIONMARK"
 #showtooltip crusade
 /use Horn of Valor
@@ -6,10 +10,6 @@ END
 VER 3 0100000000000004 " " "ABILITY_PALADIN_TOUCHEDBYLIGHT"
 #showtooltip
 /use 10
-END
-VER 3 0100000000000008 " " "INV_MISC_QUESTIONMARK"
-#showtooltip
-/cast [@player] Holy Prism
 END
 VER 3 0100000000000015 " bop mo" "INV_MISC_QUESTIONMARK"
 #showtooltip

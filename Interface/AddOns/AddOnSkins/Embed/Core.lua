@@ -1,19 +1,20 @@
-local AS = unpack(AddOnSkins)
+local AS = unpack(_G.AddOnSkins)
 
--- Cache global variables
---Lua functions
 local _G = _G
-local format, pairs = format, pairs
-local strmatch, strsub = strmatch, strsub
---WoW API / Variables
-local CreateFrame, UIParent = CreateFrame, UIParent
+local format = format
+local pairs = pairs
+local strmatch = strmatch
+local strsub = strsub
+
+local CreateFrame = CreateFrame
 local FCF_GetNumActiveChatFrames = FCF_GetNumActiveChatFrames
 local FCF_IsValidChatFrame = FCF_IsValidChatFrame
 local hooksecurefunc = hooksecurefunc
--- GLOBALS:
+local UIParent = UIParent
 
 AS.ChatFrameHider = CreateFrame('Frame')
 AS.ChatFrameHider:Hide()
+
 local EmbedSystem_MainWindow, EmbedSystem_LeftWindow, EmbedSystem_RightWindow
 
 function AS:GetChatWindowInfo()
@@ -88,7 +89,6 @@ function AS:EmbedInit()
 					if AS:CheckOption('HideChatFrame') ~= 'NONE' and not FCF_IsValidChatFrame(_G[AS:CheckOption('HideChatFrame')]) then
 						AS:SetOption('HideChatFrame', 'NONE')
 					end
-					AS.Options.args.embed.args.HideChatFrame.values = AS:GetChatWindowInfo()
 				end)
 			end
 		end

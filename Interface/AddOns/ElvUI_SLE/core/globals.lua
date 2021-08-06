@@ -1,7 +1,7 @@
-local SLE, T, E, L, V, P, G = unpack(select(2, ...))
+﻿local SLE, T, E, L, V, P, G = unpack(select(2, ...))
 
 --Chat icon paths--
-local slePath = [[|TInterface\AddOns\ElvUI_SLE\media\textures\]]
+local slePath = [[|TInterface\AddOns\ElvUI_SLE\media\textures\chat\]]
 local blizzPath = [[|TInterface\ICONS\]]
 local repooc = slePath..[[SLE_Chat_Logo:12:24|t ]]
 local sllogo = slePath..[[Logo:14:14|t ]]
@@ -11,29 +11,37 @@ local test = slePath..[[Chat_Test:16:16|t ]]
 local blizzicon = blizzPath..[[%s:12:12:0:0:64:64:4:60:4:60|t]]
 -- local rpg = slePath..[[Chat_RPG:13:35|t]]
 
+-- TTV Chat Icon
+local ttvicon = slePath..[[Daveedium:11:21|t ]]
+
 local orc = blizzPath..[[Achievement_Character_Orc_Male:16:16|t ]]
 --local coppericon = [[|TInterface\MONEYFRAME\UI-CopperIcon:12:12|t]]
-local silvericon = [[|TInterface\MONEYFRAME\UI-SilverIcon:12:12|t]]
+--local silvericon = [[|TInterface\MONEYFRAME\UI-SilverIcon:12:12|t]]
 local goldicon = [[|TInterface\MONEYFRAME\UI-GoldIcon:12:12|t]]
 
 SLE.ArmoryConfigBackgroundValues = {
 	BackgroundValues = {
-		["HIDE"] = HIDE,
-		["CUSTOM"] = CUSTOM,
-		["Space"] = "Space",
-		["TheEmpire"] = "The Empire",
-		["Castle"] = "Castle",
-		["Alliance-text"] = FACTION_ALLIANCE,
-		["Horde-text"] = FACTION_HORDE,
-		["Alliance-bliz"] = FACTION_ALLIANCE.." 2",
-		["Horde-bliz"] = FACTION_HORDE.." 2",
-		["Arena-bliz"] = ARENA,
-		["CLASS"] = CLASS,
+		['HIDE'] = HIDE,
+		['CUSTOM'] = CUSTOM,
+		['Space'] = 'Space',
+		['TheEmpire'] = 'The Empire',
+		['Castle'] = 'Castle',
+		['Alliance-text'] = FACTION_ALLIANCE,
+		['Horde-text'] = FACTION_HORDE,
+		['Arena-bliz'] = ARENA,
+		['CLASS'] = CLASS,
+		['Covenant'] = L["Covenant"],
+		['Covenant2'] = L["Covenant"]..' 2',
 	},
 	BlizzardBackdropList = {
-		["Alliance-bliz"] = [[Interface\LFGFrame\UI-PVP-BACKGROUND-Alliance]],
-		["Horde-bliz"] = [[Interface\LFGFrame\UI-PVP-BACKGROUND-Horde]],
-		["Arena-bliz"] = [[Interface\PVPFrame\PvpBg-NagrandArena-ToastBG]]
+		['Arena-bliz'] = [[Interface\PVPFrame\PvpBg-NagrandArena-ToastBG]]
+	},
+	Covenants = {
+		[0] = 'None',
+		[1] = 'Kyrian',
+		[2] = 'Venthyr',
+		[3] = 'NightFae',
+		[4] = 'Necrolord',
 	},
 }
 
@@ -54,41 +62,51 @@ local classTable = {
 
 --Role icons
 SLE.rolePaths = {
-	["ElvUI"] = {
+	['ElvUI'] = {
 		TANK = [[Interface\AddOns\ElvUI\media\textures\tank]],
 		HEALER = [[Interface\AddOns\ElvUI\media\textures\healer]],
 		DAMAGER = [[Interface\AddOns\ElvUI\media\textures\dps]]
 	},
-	["SupervillainUI"] = {
+	['SupervillainUI'] = {
 		TANK = [[Interface\AddOns\ElvUI_SLE\media\textures\role\svui-tank]],
 		HEALER = [[Interface\AddOns\ElvUI_SLE\media\textures\role\svui-healer]],
 		DAMAGER = [[Interface\AddOns\ElvUI_SLE\media\textures\role\svui-dps]]
 	},
-	["Blizzard"] = {
+	['Blizzard'] = {
 		TANK = [[Interface\AddOns\ElvUI_SLE\media\textures\role\blizz-tank]],
 		HEALER = [[Interface\AddOns\ElvUI_SLE\media\textures\role\blizz-healer]],
 		DAMAGER = [[Interface\AddOns\ElvUI_SLE\media\textures\role\blizz-dps]]
 	},
-	["MiirGui"] = {
+	['BlizzardCircle'] = {
+		TANK = [[Interface\AddOns\ElvUI_SLE\media\textures\role\blizz-tank-circle]],
+		HEALER = [[Interface\AddOns\ElvUI_SLE\media\textures\role\blizz-healer-circle]],
+		DAMAGER = [[Interface\AddOns\ElvUI_SLE\media\textures\role\blizz-dps-circle]]
+	},
+	['MiirGui'] = {
 		TANK = [[Interface\AddOns\ElvUI_SLE\media\textures\role\mg-tank]],
 		HEALER = [[Interface\AddOns\ElvUI_SLE\media\textures\role\mg-healer]],
 		DAMAGER = [[Interface\AddOns\ElvUI_SLE\media\textures\role\mg-dps]]
 	},
-	["Lyn"] = {
+	['Lyn'] = {
 		TANK = [[Interface\AddOns\ElvUI_SLE\media\textures\role\lyn-tank]],
 		HEALER = [[Interface\AddOns\ElvUI_SLE\media\textures\role\lyn-healer]],
 		DAMAGER = [[Interface\AddOns\ElvUI_SLE\media\textures\role\lyn-dps]]
 	},
-	["Philmod"] = {
+	['Philmod'] = {
 		TANK = [[Interface\AddOns\ElvUI_SLE\media\textures\role\philmod-tank]],
 		HEALER = [[Interface\AddOns\ElvUI_SLE\media\textures\role\philmod-healer]],
 		DAMAGER = [[Interface\AddOns\ElvUI_SLE\media\textures\role\philmod-dps]]
 	},
+	['ReleafUI'] = {
+		TANK = [[Interface\AddOns\ElvUI_SLE\media\textures\role\releaf-tank]],
+		HEALER = [[Interface\AddOns\ElvUI_SLE\media\textures\role\releaf-healer]],
+		DAMAGER = [[Interface\AddOns\ElvUI_SLE\media\textures\role\releaf-dps]]
+	},
 }
 
 SLE.ScenarioBlockLogos = {
-	["NONE"] = "",
-	["SLE"] = [[Interface\AddOns\ElvUI_SLE\media\textures\Logo]],
+	['NONE'] = '',
+	['SLE'] = [[Interface\AddOns\ElvUI_SLE\media\textures\chat\Logo]],
 }
 
 --Epty Tables
@@ -99,111 +117,114 @@ SLE.region = false
 
 --Toonlists
 SLE.SpecialChatIcons = {
-	["EU"] = {
-		["DarkmoonFaire"] = {
-			["Shaylith"] = darth,
-			["Yandria"] = darth,
-			["Ardon"] = darth,
-			["Lelora"] = darth,
-			["Illia"] = darth,
-			["Jumahko"] = darth,
-			["Jilti"] = darth,
-			["Hweiru"] = darth,
-			["Maggas"] = darth,
-			["Faanna"] = darth,
-			["Naliss"] = darth,
-			["Ahkara"] = darth,
+	['EU'] = {
+		['DarkmoonFaire'] = {
+			['Shaylith'] = darth,
+			['Yandria'] = darth,
+			['Ardon'] = darth,
+			['Lelora'] = darth,
+			['Illia'] = darth,
+			['Jumahko'] = darth,
+			['Jilti'] = darth,
+			['Hweiru'] = darth,
+			['Maggas'] = darth,
+			['Faanna'] = darth,
+			['Naliss'] = darth,
+			['Ahkara'] = darth,
 		},
 		["TheSha'tar"] = {
-			["Lelora"] = darth,
-			["Alamira"] = darth,
+			['Lelora'] = darth,
+			['Alamira'] = darth,
 		},
-		["ВечнаяПесня"] = {
+		['ВечнаяПесня'] = {
 			--Darth's toons
-			["Дартпредатор"] = darth,
-			["Алея"] = darth,
-			["Ваззули"] = darth,
-			["Сиаранна"] = darth,
-			["Джатон"] = darth,
-			["Фикстер"] = darth,
-			["Киландра"] = darth,
-			["Нарджо"] = darth,
-			["Келинира"] = darth,
-			["Крениг"] = darth,
-			["Мейжи"] = darth,
-			["Тисандри"] = darth,
-			["Мемри"] = darth,
+			['Дартпредатор'] = darth,
+			['Алея'] = darth,
+			['Ваззули'] = darth,
+			['Сиаранна'] = darth,
+			['Джатон'] = darth,
+			['Фикстер'] = darth,
+			['Киландра'] = darth,
+			['Нарджо'] = darth,
+			['Келинира'] = darth,
+			['Крениг'] = darth,
+			['Мейжи'] = darth,
+			['Тисандри'] = darth,
+			['Мемри'] = darth,
 			--Darth's friends
-			["Леани"] = friend,
-			["Кайрия"] = friend,
-			["Дендрин"] = friend,
-			["Аргрут"] = friend,
+			['Леани'] = friend,
+			['Кайрия'] = friend,
+			['Дендрин'] = friend,
+			['Аргрут'] = friend,
 			--Da tester lol
-			["Харореанн"] = test,
-			["Нерререанн"] = test,
-			["Аргусил"] = orc
+			['Харореанн'] = test,
+			['Нерререанн'] = test,
+			['Аргусил'] = orc
 		},
-		["Пиратскаябухта"] = {
-			["Брэгари"] = test
+		['Пиратскаябухта'] = {
+			['Брэгари'] = test
 		},
-		["Ревущийфьорд"] = {
-			["Рыжая"] = friend,
-			["Рыжа"] = friend,
-			["Шензо"] = classTable.hunter,
+		['Ревущийфьорд'] = {
+			['Рыжая'] = friend,
+			['Рыжа'] = friend,
+			['Шензо'] = classTable.hunter,
 			--Some people
-			["Маразм"] = classTable.shaman,
-			["Брэгар"] = test
+			['Маразм'] = classTable.shaman,
+			['Брэгар'] = test
 		},
-		["ЧерныйШрам"] = {
-			["Емалия"] = friend,
+		['ЧерныйШрам'] = {
+			['Емалия'] = friend,
 		},
 	},
-	["US"] = {
-		["Andorhal"] = {
-			["Dapooc"] = repooc,
-			["Rovert"] = repooc,
-			["Sliceoflife"] = repooc,
+	['US'] = {
+		['Andorhal'] = {
+			['Dapooc'] = repooc,
+			['Rovert'] = repooc,
+			['Sliceoflife'] = repooc,
 		},
-		["Illidan"] = {
+		['Illidan'] = {
 			--Darth's toon
-			["Darthpred"] = darth,
+			['Darthpred'] = darth,
 			--Repooc's Toon
-			["Repooc"] = repooc,
+			['Repooc'] = repooc,
 		},
-		["Spirestone"] = {
-			["Sifupooc"] = repooc,
-			["Dapooc"] = repooc,
-			["Lapooc"] = test,
-			["Warpooc"] = repooc,
-			["Repooc"] = repooc,
-			["Cursewordz"] = repooc,
+		['Spirestone'] = {
+			['Sifupooc'] = repooc,
+			['Dapooc'] = repooc,
+			['Lapooc'] = test,
+			['Warpooc'] = repooc,
+			['Repooc'] = repooc,
+			['Cursewordz'] = repooc,
 		},
-		["Stormrage"] = {
-			["Sifpooc"] = repooc,
-			["Urgfelstorm"] = blizzicon:format("inv_misc_bomb_02"),
-			["Vaxum"] = goldicon,
-			["Lloosh"] = goldicon, --Lloosh & Repooc's Guild Mate
-			["Marshmeela"] = goldicon, --Lloosh & Repooc's Guild Mate
-			["Looshana"] = goldicon, --Lloosh & Repooc's Guild Mate
-			["Looshaina"] = goldicon, --Lloosh & Repooc's Guild Mate
-			["Looshally"] = goldicon, --Lloosh & Repooc's Guild Mate
-			["Looshella"] = goldicon, --Lloosh & Repooc's Guild Mate
+		['Stormrage'] = {
+			['Sifpooc'] = repooc,
+			['Urgfelstorm'] = blizzicon:format('inv_misc_bomb_02'),	-- Urg & Repooc's Guild Mate
+			['Vaxum']		= goldicon,	-- Vax & Repooc's Guild Mate
+			['Lloosh']		= goldicon,	-- Lloosh & Repooc's Guild Mate
+			['Marshmeela']	= goldicon,	-- Lloosh & Repooc's Guild Mate
+			['Looshana']	= goldicon,	-- Lloosh & Repooc's Guild Mate
+			['Looshaina']	= goldicon, -- Lloosh & Repooc's Guild Mate
+			['Looshally']	= goldicon, -- Lloosh & Repooc's Guild Mate
+			['Looshella']	= goldicon, -- Lloosh & Repooc's Guild Mate
 		},
-		["WyrmrestAccord"] = {
-			["Dapooc"] = repooc,
+		["Kel'Thuzad"] = {
+			['Daveedium'] = ttvicon, -- Twitch streamer I been doing HSire kills with
 		},
-		["BleedingHollow"] = {
-			["Evolutious"] = sllogo, --Patreon (Evolutious in discord)
-			["Poocer"] = sllogo, --random toon of repooc
+		['WyrmrestAccord'] = {
+			['Dapooc'] = repooc,
+		},
+		['BleedingHollow'] = {
+			['Evolutious'] = sllogo, --Patreon (Evolutious in discord)
+			['Poocer'] = sllogo, --random toon of repooc
 		},
 	},
-	["CN"] = {},
-	["KR"] = {},
-	["TW"] = {},
-	["PTR"] = {
-		["Brill(EU)"] = {
-			["Дартпредатор"] = darth,
-			["Киландра"] = darth,
+	['CN'] = {},
+	['KR'] = {},
+	['TW'] = {},
+	['PTR'] = {
+		['Brill(EU)'] = {
+			['Дартпредатор'] = darth,
+			['Киландра'] = darth,
 		},
 	},
 }

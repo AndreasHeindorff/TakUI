@@ -1,4 +1,4 @@
-local SLE, T, E, L, V, P, G = unpack(select(2, ...))
+﻿local SLE, T, E, L, V, P, G = unpack(select(2, ...))
 
 V["skins"]["addons"] = {
 	["EmbedSkada"] = true,
@@ -11,6 +11,9 @@ V["sle"] = {
 		["onlyTalent"] = false,
 		["conditions"] = "",
 		["lockbutton"] = false,
+	},
+	media = {
+		enable = true,
 	},
 	--Minimap Module
 	["minimap"] = {
@@ -38,9 +41,7 @@ V["sle"] = {
 			["relureThreshold"] = 8,
 		},
 	},
-
 	["module"] = {
-		["screensaver"] = false,
 		["blizzmove"] = {
 			["enable"] = true,
 			["remember"] = false,
@@ -178,7 +179,6 @@ if G["profileCopy"] then
 		},
 		["legacy"] = {
 			["garrison"] = true,
-			["farm"] = true,
 			["orderhall"] = true,
 			["warwampaign"] = true,
 		},
@@ -215,7 +215,7 @@ if G["profileCopy"] then
 		["raidmarkers"] = {
 			["general"] = true,
 		},
-		["screensaver"] = {
+		["afk"] = {
 			["general"] = true,
 		},
 		["shadows"] = {

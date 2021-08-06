@@ -1,8 +1,8 @@
 local SLE, T, E, L, V, P, G = unpack(select(2, ...))
-local Armory = SLE:GetModule("Armory_Core")
-local CA = SLE:NewModule("Armory_Character", "AceEvent-3.0", "AceConsole-3.0", "AceHook-3.0");
+local Armory = SLE.Armory_Core
+local CA = SLE.Armory_Character
 local LCG = LibStub('LibCustomGlow-1.0')
-local M = E:GetModule("Misc")
+local M = E.Misc
 
 local _G = _G
 local HasAnyUnselectedPowers = C_AzeriteEmpoweredItem.HasAnyUnselectedPowers
@@ -99,7 +99,7 @@ function CA:BuildLayout()
 			end
 			-- self.AzeriteTexture:Hide()
 			if E.db.sle.armory.character.enable then self.AvailableTraitFrame:Hide() end
-			local isAzeriteEmpoweredItem = C_AzeriteEmpoweredItem.IsAzeriteEmpoweredItem(itemLocation);
+			local isAzeriteEmpoweredItem = C_AzeriteEmpoweredItem.IsAzeriteEmpoweredItem(itemLocation)
 			if isAzeriteEmpoweredItem then
 			else
 				LCG.PixelGlow_Stop(self, "_AzeriteTraitGlow")
@@ -191,6 +191,16 @@ function CA:Update_BG()
 		_G["PaperDollFrame"].SLE_Armory_BG:SetTexture(E.db.sle.armory.character.background.customTexture)
 	elseif E.db.sle.armory.character.background.selectedBG == 'CLASS' then
 		_G["PaperDollFrame"].SLE_Armory_BG:SetTexture([[Interface\AddOns\ElvUI_SLE\media\textures\armory\]]..E.myclass)
+	elseif E.db.sle.armory.character.background.selectedBG == 'Covenant' then
+		local covenant = SLE.ArmoryConfigBackgroundValues.Covenants[C_Covenants.GetActiveCovenantID()]
+		local bgtexture = SLE:TextureExists([[Interface\AddOns\ElvUI_SLE\media\textures\armory\Cov_]]..covenant) and [[Interface\AddOns\ElvUI_SLE\media\textures\armory\Cov_]]..covenant or nil
+
+		_G["PaperDollFrame"].SLE_Armory_BG:SetTexture(bgtexture)
+	elseif E.db.sle.armory.character.background.selectedBG == 'Covenant2' then
+		local covenant = SLE.ArmoryConfigBackgroundValues.Covenants[C_Covenants.GetActiveCovenantID()]
+		local bgtexture = (SLE:TextureExists([[Interface\AddOns\ElvUI_SLE\media\textures\armory\Cov_]]..covenant..'2') and [[Interface\AddOns\ElvUI_SLE\media\textures\armory\Cov_]]..covenant..'2') or (SLE:TextureExists([[Interface\AddOns\ElvUI_SLE\media\textures\armory\Cov_]]..covenant) and [[Interface\AddOns\ElvUI_SLE\media\textures\armory\Cov_]]..covenant) or nil
+
+		_G["PaperDollFrame"].SLE_Armory_BG:SetTexture(bgtexture)
 	else
 		_G["PaperDollFrame"].SLE_Armory_BG:SetTexture(SLE.ArmoryConfigBackgroundValues.BlizzardBackdropList[E.db.sle.armory.character.background.selectedBG] or [[Interface\AddOns\ElvUI_SLE\media\textures\armory\]]..E.db.sle.armory.character.background.selectedBG)
 	end
@@ -253,7 +263,7 @@ end
 
 --Fuck blizzard and theur moon logic
 function CA:FixFuckingBlizzardLogic()
-	local milestones = C_AzeriteEssence.GetMilestones();
+	local milestones = C_AzeriteEssence.GetMilestones()
 	if not milestones then return end
 	for i, milestoneInfo in ipairs(milestones) do
 		if milestoneInfo.slot then

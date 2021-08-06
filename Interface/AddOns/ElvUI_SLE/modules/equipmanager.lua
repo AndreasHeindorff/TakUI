@@ -1,5 +1,5 @@
-local SLE, T, E, L, V, P, G = unpack(select(2, ...))
-local EM = SLE:NewModule('EquipManager', 'AceHook-3.0', 'AceEvent-3.0')
+﻿local SLE, T, E, L, V, P, G = unpack(select(2, ...))
+local EM = SLE.EquipManager
 
 --GLOBALS: unpack, select, CreateFrame, CharacterFrame
 local _G = _G
@@ -37,8 +37,10 @@ local Difficulties = {
 	[45] = 'pvp', -- PvP Scenario (Islands)
 	[147] = 'normal', -- Warfront
 	[149] = 'heroic', -- Heroic Warfront
+	[150] = 'timewalking', -- Timewalking Campaign (Chromie Time)
 	[151] = 'timewalking', -- LFR Timewalking Raids
 	[152] = 'horrificvision', -- Horrific Vision of Stormwind|Orgrimmar
+	[167] = 'torghast', -- Torghast
 }
 
 --Table of tags conditions for gear switching
@@ -169,9 +171,9 @@ EM.TagsTable = {
 		if not IsInInstance() or not difficulty then return false end
 		local difID = select(3, GetInstanceInfo())
 		if difficulty == Difficulties[difID] then
-			return true;
+			return true
 		else
-			return false;
+			return false
 		end
 	end,
 	['effectivelevel'] = function(level)
@@ -323,7 +325,7 @@ local function Equip(event)
 	local equipmentSetIDs = C_EquipmentSet.GetEquipmentSetIDs()
 	--If any actual equip set is on
 	for index = 1, C_EquipmentSet.GetNumEquipmentSets() do
-		local name, _, _, isEquipped = C_EquipmentSet.GetEquipmentSetInfo(equipmentSetIDs[index]);
+		local name, _, _, isEquipped = C_EquipmentSet.GetEquipmentSetInfo(equipmentSetIDs[index])
 		if isEquipped then --Set found
 			tinsert(equippedSets, name)
 		end
@@ -363,7 +365,7 @@ function EM:CreateLock()
 	button:SetScript('OnLeave', function(self)
 		_G.GameTooltip:Hide()
 	end)
-	E:GetModule('Skins'):HandleButton(button)
+	E.Skins:HandleButton(button)
 
 	button.Icon = button:CreateTexture(nil, 'OVERLAY')
 	button.Icon:SetAllPoints()

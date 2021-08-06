@@ -62,7 +62,6 @@ end
 
 L = BigWigs:NewBossLocale("The Council of Blood", "koKR")
 if L then
-	L.macabre_start_emote = "죽음의 무도를 위해 자신의 위치에 서야 합니다!" -- [RAID_BOSS_EMOTE] Take your places for the Danse Macabre!#Dance Controller#4#false"
 	L.custom_on_repeating_dark_recital = "어둠의 무도회 지속적으로 표시"
 	L.custom_on_repeating_dark_recital_desc = "지속적으로  {rt1}, {rt2}  로 표시를 해서 본인의 짝을 찾을수 있도록 표시."
 
@@ -118,8 +117,6 @@ end
 
 L = BigWigs:NewBossLocale("Sire Denathrius", "koKR")
 if L then
-	--L.add_spawn = "Crimson Cabalists answer the call of Denathrius." -- [RAID_BOSS_EMOTE] Crimson Cabalists answer the call of Denathrius.#Sire Denathrius#4#true"
-
 	L.infobox_stacks = "%d 중첩: %d 명" -- 4 Stacks: 5 players // 1 Stack: 1 player
 
 	L.custom_on_repeating_nighthunter = "반복적으로 밤의 사냥꾼 외치기"
@@ -166,6 +163,7 @@ if L then
 	L.antiquarian = "사악한 골동품 수집가"
 	L.conservator = "나스리아 정원지기"
 	L.archivist = "나스리아 기록관"
+	L.hierarch = "궁정 신관"
 
 	--[[ Sludgefist -> Stone Legion Generals ]]--
 	L.goliath = "돌 군단 거수"

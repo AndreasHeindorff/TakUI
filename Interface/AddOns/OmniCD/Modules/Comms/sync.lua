@@ -57,7 +57,7 @@ local function SendComm(...)
 end
 
 function Comms:RequestSync()
-	wipe(self.syncGUIDS)
+	--wipe(self.syncGUIDS)
 	SendComm(MSG_INFO_REQUEST, E.syncData)
 end
 

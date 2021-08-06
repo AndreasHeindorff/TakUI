@@ -1,7 +1,7 @@
-local SLE, T, E, L, V, P, G = unpack(select(2, ...))
-local Armory = SLE:GetModule('Armory_Core')
-local CA = SLE:GetModule('Armory_Character')
-local M = E:GetModule('Misc')
+﻿local SLE, T, E, L, V, P, G = unpack(select(2, ...))
+local Armory = SLE.Armory_Core
+local CA = SLE.Armory_Character
+local M = E.Misc
 
 local function configTable()
 	if not SLE.initialized then return end

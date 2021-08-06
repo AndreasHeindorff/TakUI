@@ -151,7 +151,8 @@ L.breakFinished = "El descanso ha terminado!"
 --
 
 L.bossBlock = "Bloque de Jefe"
-L.bossBlockDesc = "Configura las diferentes cosas que puedes bloquear durante un encuentro con el jefe."
+L.bossBlockDesc = "Configura las diferentes cosas que puedes bloquear durante un encuentro con el jefe.\n\n"
+L.bossBlockAudioDesc = "Configura qué sonido silenciar durante un encuentro con un jefe.\n\nAny option here that is |cff808080greyed out|r has been disabled in WoW's sound options.\n\n"
 L.movieBlocked = "Ya has visto esta cinemática antes, saltándola."
 L.blockEmotes = "Bloquear los emotes de la pantalla central"
 L.blockEmotesDesc = "Algunos jefes muestran emotes para ciertas habilidades, estos mensajes son demasiado largos y descriptivos. Intentamos acortarlos, y ajustarlos para que no interfieran con el juego, y que no te digan específicamente qué tienes que hacer.\n\nTen en cuenta: Los emotes de Jefe seguirán siendo visibles en el chat si deseas leerlos."
@@ -167,9 +168,11 @@ L.audio = "Audio"
 L.music = "Música"
 L.ambience = "Sonido ambiental"
 L.sfx = "Efectos de sonido"
+L.errorSpeech = "Sonidos de error"
 L.disableMusic = "Silenciar la música (recomendado)"
 L.disableAmbience = "Silenciar sonidos ambientales (recomendado)"
 L.disableSfx = "Silenciar efectos de sonido (no recomendado)"
+L.disableErrorSpeech = "Silenciar sonidos de error (recomendado)"
 L.disableAudioDesc = "La opción '%s' en las opciones de sonido de WoW será deshabilitada, luego se volverá a habilidad cuando el encuentro con el jefe termina. Esto puede ayudarte a enfocarte en los sonidos de alerta de BigWigs."
 L.blockTooltipQuests = "Bloquea la ventana de información de los objetivos de misiones"
 L.blockTooltipQuestsDesc = "Cuando necesitas matar a un jefe para una misión, normalmente se mostrará como '0/1 completado' en la ventana de información cuando pasas tu mouse sobre el jefe. Esto se esconderá durante el combate con ese jefe para evitar que la ventana de información crezca mucho."
@@ -261,8 +264,8 @@ L.useIcons = "Usar íconos"
 L.useIconsDesc = "Mostrar íconos al lado de los mensajes."
 L.classColors = "Colores de clase"
 L.classColorsDesc = "Los mensajes a veces contienen nombres de jugadores. Al activar esta opción, esos nombres serán coloreados con los colores de la clase."
-L.chatMessages  = "Mensajes del marco de chat"
-L.chatMessagesDesc  = "Todos los mensajes de salida de BigWigs a la ventana de chat por defecto en adición a los ajustes mostrados"
+L.chatFrameMessages = "Mensajes del marco de chat"
+L.chatFrameMessagesDesc = "Todos los mensajes de salida de BigWigs a la ventana de chat por defecto en adición a los ajustes mostrados"
 
 L.fontSize = "Tamaño de la fuente"
 L.none = "Ninguno"
@@ -288,8 +291,6 @@ L.proximity_name = "Proximidad"
 L.soundDelay = "Retraso de sonido"
 L.soundDelayDesc = "Especifica el tiempo que BigWigs debería esperar entre cada repetición de sonido cuando alguien está demasiado cerca de ti."
 
-L.proximity = "Pantalla de proximidad"
-L.proximity_desc = "Muestra la ventana de proximidad cuando sea apropiado para este encuentro, enumerando los jugadores que están demasiado cerca de ti."
 L.resetProximityDesc = "Restablece todas las opciones relacionadas con las proximidad, incluyendo la posición de anclas de este."
 
 L.close = "Cerrar"
@@ -330,13 +331,14 @@ L.pullStoppedCombat = "Temporizador de llamado de jefe cancelado porque tu entra
 L.pullIn = "Llamado de jefe en %d seg"
 L.sendPull = "Enviando un temporizador de llamado de jefe para los usuarios de BigWigs y DBM."
 L.wrongPullFormat = "Debe estar entre 1 y 60 segundos. Un ejemplo correcto es: /pull 5"
+L.countdownBegins = "Comenzar cuenta regresiva"
+L.countdownBegins_desc = "Elige cuánto tiempo restante debe de quedar en el llamado de jefe (en segundos) cuando la cuenta regresiva comience."
 
 -----------------------------------------------------------------------
 -- RaidIcon.lua
 --
 
 L.icons = "Íconos"
-L.raidIconsDesc = "Algunos encuentros usan los iconos de banda para marcar jugadores de interés especial para tu grupo. Por ejemplo, los efectos tipo 'bomba' y control mental. Si la deshabilitas, no marcarás a nadie.\n\n|cffff4411¡Sólo se aplica si eres el líder del grupo o si te tienes ayudante!|r"
 L.raidIconsDescription = "Algunos encuentros pueden incluir elementos como habilidades de tipo bomba dirigidas a un jugador específico, un jugador perseguido, o un jugador específico puede ser de interés. Aquí puedes personalizar los íconos de banda que deben utilizarse para marcar a estos jugadores.\n\nSi un encuentro sólo tiene una habilidad por la que vale la pena marcar, sólo se utilizará el primer icono. Un icono nunca se usará para dos habilidades diferentes en el mismo encuentro, y cualquier habilidad dada siempre usará el mismo icono la próxima vez.\n\n|cffff4411Ten en cuenta que si un jugador ya ha sido marcado manualmente, BigWigs nunca cambiará su icono.|r"
 L.primary = "Primario"
 L.primaryDesc = "El primer ícono de banda que un encuentro debería usar. "
@@ -348,6 +350,7 @@ L.secondaryDesc = "El segundo ícono de banda que un encuentro debería usar."
 --
 
 L.Sounds = "Sonidos"
+L.soundsDesc = "BigWigs utiliza el canal de sonido 'General' para reproducir todos sus sonidos. Si encuentras que los sonidos son demasiado silenciosos o demasiado fuertes, abre la configuración de sonido de WoW y ajusta el deslizador de 'Volumen general' a un nivel que te guste.\n\nA continuación puedes configurar globalmente los diferentes sonidos que se reproducen para acciones específicas, o ponerlos en 'Ninguno' para desactivarlos. Si sólo quieres cambiar un sonido para una habilidad específica del jefe, puedes hacerlo en la configuración del encuentro con el jefe.\n\n"
 L.oldSounds = "Sonidos viejos"
 
 L.Alarm = "Alarma"
@@ -359,7 +362,6 @@ L.onyou = "Una hechizo, efecto o debuff está en ti"
 L.underyou = "Debes moverte fuera del hechizo que está debajo de ti"
 
 L.sound = "Sonido"
-L.soundDesc = "Los mensajes pueden venir con un sonido. A algunas personas les resulta más fácil escucharlos una vez que han aprendido qué sonido va con cada mensaje, en lugar de leer los mensajes reales."
 
 L.customSoundDesc = "Reproduce el sonido personalizado seleccionado en lugar del suministrado por el módulo."
 L.resetSoundDesc = "Restablece los sonidos anteriores a sus valores predeterminados."

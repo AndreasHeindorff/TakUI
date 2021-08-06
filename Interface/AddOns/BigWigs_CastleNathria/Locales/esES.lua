@@ -60,7 +60,6 @@ end
 
 L = BigWigs:NewBossLocale("The Council of Blood", "esES")
 if L then
-	--L.macabre_start_emote = "Take your places for the Danse Macabre!" -- [RAID_BOSS_EMOTE] Take your places for the Danse Macabre!#Dance Controller#4#false"
 	--L.custom_on_repeating_dark_recital = "Repeating Dark Recital"
 	--L.custom_on_repeating_dark_recital_desc = "Repeating Dark Recital say messages with icons {rt1}, {rt2} to find your partner while dancing."
 
@@ -116,8 +115,6 @@ end
 
 L = BigWigs:NewBossLocale("Sire Denathrius", "esES")
 if L then
-	--L.add_spawn = "Crimson Cabalists answer the call of Denathrius." -- [RAID_BOSS_EMOTE] Crimson Cabalists answer the call of Denathrius.#Sire Denathrius#4#true"
-
 	--L.infobox_stacks = "%d |4Stack:Stacks;: %d |4player:players;" -- 4 Stacks: 5 players // 1 Stack: 1 player
 
 	--L.custom_on_repeating_nighthunter = "Repeating Night Hunter Yell"
@@ -164,6 +161,7 @@ if L then
 	L.antiquarian = "Anticuaria siniestra"
 	L.conservator = "Conservador de Nathria"
 	L.archivist = "Archivista de Nathria"
+	L.hierarch = "Jerarca de la corte"
 
 	--[[ Sludgefist -> Stone Legion Generals ]]--
 	L.goliath = "Goliat de la Legión Pétrea"

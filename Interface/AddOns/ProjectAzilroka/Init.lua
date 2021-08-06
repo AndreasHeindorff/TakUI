@@ -70,8 +70,9 @@ end
 PA.UIScale = UIParent:GetScale()
 PA.MyFaction = UnitFactionGroup('player')
 
-PA.Classic = WOW_PROJECT_ID == WOW_PROJECT_CLASSIC
 PA.Retail = WOW_PROJECT_ID == WOW_PROJECT_MAINLINE
+PA.Classic = WOW_PROJECT_ID == WOW_PROJECT_CLASSIC
+PA.BCC = WOW_PROJECT_ID == WOW_PROJECT_BURNING_CRUSADE_CLASSIC
 
 -- Pixel Perfect
 PA.ScreenWidth, PA.ScreenHeight = GetPhysicalScreenSize()
@@ -98,6 +99,16 @@ PA.Version = GetAddOnMetadata('ProjectAzilroka', 'Version')
 PA.Authors = GetAddOnMetadata('ProjectAzilroka', 'Author'):gsub(', ', '    ')
 
 PA.AllPoints = { CENTER = 'CENTER', BOTTOM = 'BOTTOM', TOP = 'TOP', LEFT = 'LEFT', RIGHT = 'RIGHT', BOTTOMLEFT = 'BOTTOMLEFT', BOTTOMRIGHT = 'BOTTOMRIGHT', TOPLEFT = 'TOPLEFT', TOPRIGHT = 'TOPRIGHT' }
+PA.GrowthDirection = {
+	DOWN_RIGHT = format(PA.ACL["%s and then %s"], PA.ACL["Down"], PA.ACL["Right"]),
+	DOWN_LEFT = format(PA.ACL["%s and then %s"], PA.ACL["Down"], PA.ACL["Left"]),
+	UP_RIGHT = format(PA.ACL["%s and then %s"], PA.ACL["Up"], PA.ACL["Right"]),
+	UP_LEFT = format(PA.ACL["%s and then %s"], PA.ACL["Up"], PA.ACL["Left"]),
+	RIGHT_DOWN = format(PA.ACL["%s and then %s"], PA.ACL["Right"], PA.ACL["Down"]),
+	RIGHT_UP = format(PA.ACL["%s and then %s"], PA.ACL["Right"], PA.ACL["Up"]),
+	LEFT_DOWN = format(PA.ACL["%s and then %s"], PA.ACL["Left"], PA.ACL["Down"]),
+	LEFT_UP = format(PA.ACL["%s and then %s"], PA.ACL["Left"], PA.ACL["Up"]),
+}
 
 PA.ElvUI = PA:IsAddOnEnabled('ElvUI', PA.MyName)
 PA.SLE = PA:IsAddOnEnabled('ElvUI_SLE', PA.MyName)
@@ -239,7 +250,7 @@ function PA:SetTemplate(frame)
 			frame:SetBackdrop({ bgFile = PA.Solid, edgeFile = PA.Solid, edgeSize = 1 })
 		end
 		frame:SetBackdropColor(.08, .08, .08, .8)
-		frame:SetBackdropBorderColor(0.2, 0.2, 0.2, 0)
+		frame:SetBackdropBorderColor(0.2, 0.2, 0.2, 1)
 	end
 end
 
@@ -249,7 +260,7 @@ function PA:CreateBackdrop(frame)
 	else
 		frame.Backdrop = CreateFrame('Frame', nil, frame)
 		frame.Backdrop:SetFrameLevel(frame:GetFrameLevel() - 1)
-		frame.Backdrop:SetOutside(frame)
+		PA:SetOutside(frame.Backdrop, frame)
 		PA:SetTemplate(frame.Backdrop)
 	end
 end
@@ -259,38 +270,42 @@ function PA:CreateShadow(frame)
 		_G.AddOnSkins[1]:CreateShadow(frame)
 	elseif frame.CreateShadow then
 		frame:CreateShadow()
-		if not PA.SLE and not PA.NUI then
+		if not PA.SLE then
 			PA.ES:RegisterFrameShadows(frame)
-		elseif PA.NUI then
-			_G.EnhancedShadows:RegisterShadow(frame.shadow)
 		end
 	end
 end
 
-function PA:SetInside(obj, anchor, xOffset, yOffset, anchor2)
-	xOffset = xOffset or 1
-	yOffset = yOffset or 1
-	anchor = anchor or obj:GetParent()
-
-	assert(anchor)
-	if obj:GetPoint() then
-		obj:ClearAllPoints()
+function PA:CopyTable(current, default)
+	if type(current) ~= 'table' then
+		current = {}
 	end
 
+	if type(default) == 'table' then
+		for option, value in pairs(default) do
+			current[option] = (type(value) == 'table' and PA:CopyTable(current[option], value)) or value
+		end
+	end
+
+	return current
+end
+
+function PA:SetInside(obj, anchor, xOffset, yOffset, anchor2)
+	xOffset, yOffset, anchor = xOffset or 1, yOffset or 1, anchor or obj:GetParent()
+
+	assert(anchor)
+
+	if obj:GetPoint() then obj:ClearAllPoints() end
 	obj:SetPoint('TOPLEFT', anchor, 'TOPLEFT', xOffset, -yOffset)
 	obj:SetPoint('BOTTOMRIGHT', anchor2 or anchor, 'BOTTOMRIGHT', -xOffset, yOffset)
 end
 
 function PA:SetOutside(obj, anchor, xOffset, yOffset, anchor2)
-	xOffset = xOffset or 1
-	yOffset = yOffset or 1
-	anchor = anchor or obj:GetParent()
+	xOffset, yOffset, anchor = xOffset or 1, yOffset or 1, anchor or obj:GetParent()
 
 	assert(anchor)
-	if obj:GetPoint() then
-		obj:ClearAllPoints()
-	end
 
+	if obj:GetPoint() then obj:ClearAllPoints() end
 	obj:SetPoint('TOPLEFT', anchor, 'TOPLEFT', -xOffset, yOffset)
 	obj:SetPoint('BOTTOMRIGHT', anchor2 or anchor, 'BOTTOMRIGHT', xOffset, -yOffset)
 end
@@ -383,7 +398,15 @@ PA.ClassicServerNameByID = {
 
 local accountInfo = { gameAccountInfo = {} }
 function PA:GetBattleNetInfo(friendIndex)
-	if PA.Classic then
+	if PA.Retail then
+		accountInfo = _G.C_BattleNet.GetFriendAccountInfo(friendIndex)
+
+		if accountInfo and accountInfo.gameAccountInfo.wowProjectID == _G.WOW_PROJECT_CLASSIC then
+			accountInfo.gameAccountInfo.realmDisplayName = PA.ClassicServerNameByID[accountInfo.gameAccountInfo.realmID] or accountInfo.gameAccountInfo.realmID
+		end
+
+		return accountInfo
+	else
 		local bnetIDAccount, accountName, battleTag, isBattleTag, _, bnetIDGameAccount, _, isOnline, lastOnline, isBnetAFK, isBnetDND, messageText, noteText, _, messageTime, _, isReferAFriend, canSummonFriend, isFavorite = BNGetFriendInfo(friendIndex)
 
 		if not bnetIDGameAccount then return end
@@ -443,14 +466,6 @@ function PA:GetBattleNetInfo(friendIndex)
 			accountInfo.gameAccountInfo.className = nil
 			accountInfo.gameAccountInfo.characterLevel = nil
 			accountInfo.gameAccountInfo.raceName = nil
-		end
-
-		return accountInfo
-	else
-		accountInfo = _G.C_BattleNet.GetFriendAccountInfo(friendIndex)
-
-		if accountInfo and accountInfo.gameAccountInfo.wowProjectID == _G.WOW_PROJECT_CLASSIC then
-			accountInfo.gameAccountInfo.realmDisplayName = PA.ClassicServerNameByID[accountInfo.gameAccountInfo.realmID] or accountInfo.gameAccountInfo.realmID
 		end
 
 		return accountInfo
@@ -516,7 +531,11 @@ PA.Defaults = {
 PA.Options = PA.ACH:Group(PA:Color(PA.Title), nil, 6)
 
 function PA:GetOptions()
-	PA.AceOptionsPanel.Options.args.ProjectAzilroka = PA.Options
+	if _G.ElvUI then
+		PA.AceOptionsPanel.Options.args.ProjectAzilroka = PA.Options
+	else
+		PA.AceOptionsPanel.Options.args = PA:CopyTable(PA.Options.args, PA.AceOptionsPanel.Options.args)
+	end
 end
 
 function PA:BuildProfile()

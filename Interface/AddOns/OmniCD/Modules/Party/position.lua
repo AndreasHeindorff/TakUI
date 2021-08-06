@@ -13,11 +13,11 @@ local function FindAnchorFrame(guid) --[87]
 	if E.customUF.enabled and E.db.position.uf ~= "blizz" then
 		if not P.isInDungeon and GetNumGroupMembers() > 5 then return end -- MDI
 
-		for i = 1, 5 do
+		for i = 1, E.customUF.index do
 			local f = _G[E.customUF.frame .. i]
-			if f and f:GetPoint() then -- [93]
+			if f then -- [93]
 				local unit = f[E.customUF.unit]
-				if unit and UnitGUID(unit) == guid then return f end
+				if unit and (E.db.position.uf ~= "HealBot" or (unit ~="target" and unit ~= "focus")) and UnitGUID(unit) == guid then return f end
 			end
 		end
 
@@ -51,23 +51,16 @@ function P:SetOffset(f)
 	f.container:ClearAllPoints()
 	--f.container:SetPoint(self.point, f, self.containerOfsX, self.containerOfsY)
 	f.container:SetPoint("TOPLEFT", f, self.containerOfsX, self.containerOfsY)
-
-	--[[ xml
-	if self.doubleRow and E.db.icons.modRowEnabled then
-		f.bottomRow:ClearAllPoints()
-		f.bottomRow:SetPoint("TOPLEFT", f.container, self.modRowOfsX, self.modRowOfsY)
-	end
-	--]]
 end
 
 function P:UpdatePosition()
-	if self.disabled then
+	if P.disabled then
 		return
 	end
 
-	self:HideBars() -- [63]
+	P:HideBars() -- [63]
 
-	for guid, info in pairs(self.groupInfo) do
+	for guid, info in pairs(P.groupInfo) do
 		local f = info.bar
 		if E.db.position.detached then
 			E.LoadPosition(f)
@@ -76,13 +69,13 @@ function P:UpdatePosition()
 			local frame = FindAnchorFrame(guid)
 			if frame then
 				f:ClearAllPoints()
-				f:SetPoint(self.point, frame, self.relativePoint)
+				f:SetPoint(P.point, frame, P.relativePoint)
 				f:Show()
 			end
 		end
 
-		self:SetAnchorPosition(f)
-		self:SetOffset(f)
+		P:SetAnchorPosition(f)
+		P:SetOffset(f)
 	end
 end
 

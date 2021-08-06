@@ -1,7 +1,7 @@
 local SLE, _, E, L, V = unpack(select(2, ...))
-local A = SLE:GetModule('Actionbars')
-local AB = E:GetModule('ActionBars');
-local EVB = SLE:GetModule('EnhancedVehicleBar')
+local A = SLE.Actionbars
+local AB = E.ActionBars
+local EVB = SLE.EnhancedVehicleBar
 
 --GLOBALS: unpack, select, tinsert, DEFAULT, NONE, LibStub
 local tinsert = tinsert
@@ -30,7 +30,7 @@ local function configTable()
 						desc = L["Highlight the button of the spell with areal effect until the area is selected."],
 						disabled = function() return not E.private.actionbar.enable or (LibStub('Masque', true) and E.private.actionbar.masque.actionbars) end,
 						get = function(info) return E.private.sle.actionbars[info[#info]] end,
-						set = function(info, value) E.private.sle.actionbars[info[#info]] = value; E:StaticPopup_Show('PRIVATE_RL'); end,
+						set = function(info, value) E.private.sle.actionbars[info[#info]] = value; E:StaticPopup_Show('PRIVATE_RL') end,
 					},
 					checkedColor = {
 						type = 'color',

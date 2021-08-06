@@ -1,6 +1,6 @@
 local SLE, T, E, L, V, P, G = unpack(select(2, ...))
-local Armory = SLE:NewModule('Armory_Core', 'AceEvent-3.0', 'AceConsole-3.0', 'AceHook-3.0');
-local M = E:GetModule('Misc')
+local Armory = SLE.Armory_Core
+local M = E.Misc
 local LCG = LibStub('LibCustomGlow-1.0')
 
 local GetAverageItemLevel = GetAverageItemLevel
@@ -187,8 +187,13 @@ function Armory:UpdatePageInfo(frame, which, guid, event)
 		if Slot then
 			if Slot.TransmogInfo then
 				if which == 'Character' then
-					local transmogLocation = TransmogUtil.GetTransmogLocation(Slot.ID, Enum.TransmogType.Appearance, Enum.TransmogModification.None)
-					Slot.TransmogInfo.Link = select(6, C_TransmogCollection_GetAppearanceSourceInfo(select(3, C_Transmog_GetSlotVisualInfo(transmogLocation))));
+					local transmogLocation = TransmogUtil.GetTransmogLocation(Slot.ID, Enum.TransmogType.Appearance, Enum.TransmogModification.Main)
+					if not transmogLocation then return end
+
+					local itemBaseSourceID = select(3, C_Transmog_GetSlotVisualInfo(transmogLocation))
+					if not itemBaseSourceID then return end
+
+					Slot.TransmogInfo.Link = select(6, C_TransmogCollection_GetAppearanceSourceInfo(itemBaseSourceID))
 				elseif which == 'Inspect' then
 					Slot.TransmogInfo.Link = Armory:GetTransmogInfo(Slot, which, unit)
 				else
@@ -500,8 +505,8 @@ function Armory:Initialize()
 
 	Armory:ToggleItemLevelInfo()
 	if Armory:CheckOptions('Character') then
-		CA = SLE:GetModule('Armory_Character')
-		SA = SLE:GetModule('Armory_Stats')
+		CA = SLE.Armory_Character
+		SA = SLE.Armory_Stats
 		Armory:BuildFrameDefaultsCache('Character')
 		hooksecurefunc(M, 'UpdateCharacterInfo', Armory.UpdateCharacterInfo)
 		CA:LoadAndSetup()
@@ -510,17 +515,17 @@ function Armory:Initialize()
 	end
 
 	if Armory:CheckOptions('Inspect') then
-		IA = SLE:GetModule('Armory_Inspect')
+		IA = SLE.Armory_Inspect
 		hooksecurefunc(M, 'UpdateInspectInfo', Armory.UpdateInspectInfo)
 		IA:PreSetup()
 	end
 
 	function Armory:ForUpdateAll()
-		SLE:GetModule('Armory_Character'):ToggleArmory()
+		SLE.Armory_Character:ToggleArmory()
 		M:UpdatePageInfo(_G.CharacterFrame, 'Character')
 		if not E.db.general.itemLevel.displayCharacterInfo then M:ClearPageInfo(_G.CharacterFrame, 'Character') end
 
-		SLE:GetModule('Armory_Inspect'):ToggleArmory();
+		SLE.Armory_Inspect:ToggleArmory()
 		M:UpdatePageInfo(_G.InspectFrame, "Inspect") --Putting this under the elv's option check just breaks the shit out of the frame
 		if not E.db.general.itemLevel.displayInspectInfo then M:ClearPageInfo(_G.InspectFrame, "Inspect") end --Clear the infos if those are actually not supposed to be shown.
 	end

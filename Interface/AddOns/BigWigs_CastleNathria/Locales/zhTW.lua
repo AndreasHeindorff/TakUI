@@ -62,7 +62,6 @@ end
 
 L = BigWigs:NewBossLocale("The Council of Blood", "zhTW")
 if L then
-	L.macabre_start_emote = "找好位置，準備開始跳死亡之舞！"
 	L.custom_on_repeating_dark_recital = "重覆黑暗伴舞喊話"
 	L.custom_on_repeating_dark_recital_desc = "使用 {rt1} 和 {rt2} 重覆黑暗伴舞喊話，方便你找到你的舞伴。"
 
@@ -118,8 +117,6 @@ end
 
 L = BigWigs:NewBossLocale("Sire Denathrius", "zhTW")
 if L then
-	L.add_spawn = "赤紅秘術師回應了戴納瑟斯的呼喚。" -- [RAID_BOSS_EMOTE] Crimson Cabalists answer the call of Denathrius.#Sire Denathrius#4#true"
-
 	L.infobox_stacks = "%d 堆疊：%d 玩家" -- 4 Stacks: 5 players // 1 Stack: 1 player
 
 	L.custom_on_repeating_nighthunter = "重覆黑夜獵人喊話"
@@ -166,6 +163,7 @@ if L then
 	L.antiquarian = "邪惡的古物收藏家"
 	L.conservator = "納撒亞栽培者"
 	L.archivist = "納撒亞文獻管理員"
+	--L.hierarch = "Court Hierarch"
 
 	--[[ Sludgefist -> Stone Legion Generals ]]--
 	L.goliath = "石源魔軍團巨人"

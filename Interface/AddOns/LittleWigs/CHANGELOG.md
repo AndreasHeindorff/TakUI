@@ -1,6 +1,11 @@
 # LittleWigs
 
-## [v9.0.32](https://github.com/BigWigsMods/LittleWigs/tree/v9.0.32) (2021-03-11)
-[Full Changelog](https://github.com/BigWigsMods/LittleWigs/compare/v9.0.31...v9.0.32) [Previous Releases](https://github.com/BigWigsMods/LittleWigs/releases)
+## [v9.0.34](https://github.com/BigWigsMods/LittleWigs/tree/v9.0.34) (2021-05-31)
+[Full Changelog](https://github.com/BigWigsMods/LittleWigs/compare/v9.0.33...v9.0.34) [Previous Releases](https://github.com/BigWigsMods/LittleWigs/releases)
 
-- Fix UNIT\_HEALTH usage  
+- Update option files  
+- Classic/Deadmines/Cookie: Rename module  
+- Update option files  
+- Shadowlands/DeOtherSide/Muehzala: Add Say countdown to Cosmic Artifice  
+- Update workflow  
+- TBC/TheMechanar/Sepethrea: Error fix, closes #596  

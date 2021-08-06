@@ -40,6 +40,9 @@ function OmniCD_BarOnHide(self)
 	for i = #bars, 1, -1 do -- [31]
 		local f = bars[i]
 		if f == self then
+			if f.timer_inCombatTicker then
+				f.timer_inCombatTicker:Cancel()
+			end
 			tremove(bars, i)
 			break
 		end
@@ -145,18 +148,11 @@ local function GetBar()
 	if not f then
 		numBars = numBars + 1
 		f = CreateFrame("Frame", "OmniCD" .. numBars, UIParent, "OmniCDTemplate")
-		--[[ xml
-		f.bottomRow = CreateFrame("Frame", nil, f.container)
-		f.bottomRow:SetSize(1, 1)
-		f.bottomRow.container = CreateFrame("Frame", nil, f.bottomRow)
-		f.bottomRow.container:SetSize(1, 1)
-		f.bottomRow.container:SetAllPoints(f.bottomRow)
-		--]]
 		f.modname = "Party"
 		f.icons = {}
 		f.numIcons = 0
 		f.anchor:Hide()
-		E.SetFontObj(f.anchor.text, E.profile.General.fonts.anchor)
+		f.anchor.text:SetFontObject(E.AnchorFont)
 		f:SetScript("OnEvent", CooldownBarFrame_OnEvent)
 	end
 
@@ -171,14 +167,30 @@ function P:HideBars()
 	end
 end
 
+local textureUVs = {
+	"borderTop",
+	"borderBottom",
+	"borderRight",
+	"borderLeft",
+}
+
 local function GetIcon(f, iconIndex)
 	local icon = tremove(unusedIcons)
 	if not icon then
 		numIcons = numIcons + 1
 		icon = CreateFrame("Button", "OmniCDIcon" .. numIcons, UIParent, "OmniCDButtonTemplate")
 		icon.counter = icon.cooldown:GetRegions()
-		E.SetFontObj(icon.Name, E.profile.General.fonts.icon)
+		for _, pieceName in ipairs(textureUVs) do -- statusbars doesn't seem to be affected
+			local region = icon[pieceName];
+			if region then
+				E.DisablePixelSnap(region)
+			end
+		end
+		E.DisablePixelSnap(icon.icon)
+
+		icon.Name:SetFontObject(E.IconFont)
 	end
+
 	icon:SetParent(f.container)
 	icon.Name:Hide()
 
@@ -234,7 +246,7 @@ local function IsSpellSpecTalent(guid, spec, spellID)
 	end
 end
 
-function P:UpdateUnitBar(guid)
+function P:UpdateUnitBar(guid, isGRU)
 	local info = self.groupInfo[guid]
 	local class = info.class
 	local raceID = info.raceID
@@ -263,7 +275,7 @@ function P:UpdateUnitBar(guid)
 	if guid ~= E.userGUID then -- [96]
 		f:RegisterUnitEvent("PLAYER_SPECIALIZATION_CHANGED", unit)
 	end
-	f:RegisterUnitEvent("UNIT_SPELLCAST_SUCCEEDED", unit, unit == "player" and "pet" or unit .. "pet") -- [41]
+	f:RegisterUnitEvent("UNIT_SPELLCAST_SUCCEEDED", unit, E.unitToPetId[unit]) -- [41]
 
 	local isInspectedUnit = info.spec
 	local lvl = info.level
@@ -451,7 +463,7 @@ function P:UpdateUnitBar(guid)
 
 	self:RemoveUnusedIcons(f, iconIndex + 1)
 
-	self:UpdateExBar(f) -- [26]
+	self:UpdateExBar(f, isGRU) -- [26]
 
 	if guid ~= E.userGUID or not self.isUserHidden then -- [82]
 		self:ApplySettings(f)
@@ -463,7 +475,7 @@ function P:UpdateBars()
 	self:HideExBars(true) -- [27]
 
 	for guid in pairs(self.groupInfo) do
-		self:UpdateUnitBar(guid)
+		self:UpdateUnitBar(guid, true)
 	end
 end
 

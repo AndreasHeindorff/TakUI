@@ -1,4 +1,4 @@
-local SLE, T, E, L, V, P, G = unpack(select(2, ...))
+﻿local SLE, T, E, L, V, P, G = unpack(select(2, ...))
 
 --  GLOBALS: unpack, select, tinsert
 
@@ -37,15 +37,18 @@ Benik, The Slacker
 Blazeflack
 Boradan
 Camealion
+Eltreum
 Merathilis, The Confused
+Nihilistzsche
 Nils Ruesch
 Omega1970
 Pvtschlag
+Releaf
+Roxanne
 Shenzo
 Simpy, The Heretic
 Sinaris
-Swordyy
-Whiro]]
+Swordyy]]
 
 
 local function configTable()
@@ -113,23 +116,27 @@ local function configTable()
 					desc = ACH:Description(L["LINK_DESC"], 1, "medium"),
 					tukuilink = {
 						order = 2, type = 'input', width = 'full', name = "TukUI.org",
-						get = function(info) return "https://www.tukui.org/addons.php?id=38" end,
+						get = function() return "https://www.tukui.org/addons.php?id=38" end,
 					},
 					curselink= {
 						order = 3, type = 'input', width = 'full', name = "Curse.com",
-						get = function(info) return "https://www.curseforge.com/wow/addons/elvui-shadow-light" end,
+						get = function() return "https://www.curseforge.com/wow/addons/elvui-shadow-light" end,
 					},
 					gitlablink = {
 						order = 4, type = 'input', width = 'full', name = L["GitLab Link / Report Errors"],
-						get = function(info) return "https://git.tukui.org/shadow-and-light/shadow-and-light" end,
+						get = function() return "https://git.tukui.org/shadow-and-light/shadow-and-light" end,
+					},
+					discord = {
+						order = 5, type = 'input', width = 'full', name = L["Discord"],
+						get = function() return "https://discord.gg/zspjRWp" end,
 					},
 					patreon = {
 						order = 10, type = 'input', width = 'full', name = "Patreon |TInterface\\MONEYFRAME\\UI-GoldIcon:14:14|t",
-						get = function(info) return "https://patreon.com/shadow_and_light" end,
+						get = function() return "https://patreon.com/shadow_and_light" end,
 					},
 					donate = {
 						order = 11, type = 'input', width = 'full', name = L["Donate"].." |TInterface\\MONEYFRAME\\UI-GoldIcon:14:14|t",
-						get = function(info) return "https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=EJB4DRU7QZYMG&source=url" end,
+						get = function() return "https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=EJB4DRU7QZYMG&source=url" end,
 					},
 				},
 			},
@@ -166,7 +173,7 @@ local function configTable()
 			credits = {
 				order = 400,
 				type = 'group',
-				name = L["Credits"]..[[ |TInterface\AddOns\ElvUI_SLE\media\textures\Chat_Test:14:14|t]],
+				name = L["Credits"]..[[ |TInterface\AddOns\ElvUI_SLE\media\textures\chat\Chat_Test:14:14|t]],
 				args = {
 					header = ACH:Header(L["Credits"], 1),
 					desc = ACH:Description(L["ELVUI_SLE_CREDITS"].."\n\n", 2),

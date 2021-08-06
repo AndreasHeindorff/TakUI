@@ -9,9 +9,9 @@ OneRing_Config = {
 		["default"] = {
 			["Bindings"] = {
 				["Toys"] = false,
-				["rtantStuff"] = "F2",
-				["OPieTracking"] = false,
+				["rtantStuff"] = "6",
 				["OPieAutoQuest"] = false,
+				["OPieTracking"] = false,
 			},
 		},
 	},
@@ -148,16 +148,16 @@ OneRing_Config = {
 			},
 			["rtantStuff"] = {
 				{
-					["id"] = 195128,
 					["sliceToken"] = "ABuedrLpaz=",
+					["id"] = 195128,
 				}, -- [1]
 				{
-					["id"] = 818,
 					["sliceToken"] = "ABuedrLpazL",
+					["id"] = 818,
 				}, -- [2]
 				{
-					["id"] = 556,
 					["sliceToken"] = "ABuedrLpazK",
+					["id"] = 556,
 				}, -- [3]
 				{
 					"toy", -- [1]
@@ -204,8 +204,8 @@ OneRing_Config = {
 					["id"] = 122708,
 				}, -- [12]
 				{
-					["id"] = 69046,
 					["sliceToken"] = "ABuejA9FANs",
+					["id"] = 69046,
 				}, -- [13]
 				{
 					"item", -- [1]

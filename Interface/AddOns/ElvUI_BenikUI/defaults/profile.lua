@@ -244,7 +244,7 @@ P['benikuiSkins'] = {
 
 	['variousSkins'] = {
 		['talkingHead'] = true,
-		['storyline'] = true,
+		['objectiveTracker'] = true,
 		['inflight'] = true,
 		['kt'] = true,
 	},
@@ -300,6 +300,28 @@ P['benikuiDatabars'] = {
 			['enable'] = true,
 			['position'] = 'BELOW',
 		},
+	},
+}
+
+-- Widgetbars
+P['benikuiWidgetbars'] = {
+	['mawBar'] = {
+		['enable'] = true,
+		['width'] = 222,
+		['height'] = 5,
+		['textYoffset'] = 13,
+		['barColor'] = {r = 0.192, g = 0.858, b = 0.858, a = 100},
+		['barAutoColor'] = true,
+		['textColor'] = {r = 1, g = 1, b = 1},
+		['useDTfont'] = true,
+		['font'] = E.db.datatexts.font,
+		['fontsize'] = E.db.datatexts.fontSize,
+		['fontflags'] = E.db.datatexts.fontOutline,
+		['textFormat'] = 'PERCENT',
+	},
+	['halfBar'] = {
+		['altbar'] = true,
+		['mirrorbar'] = true,
 	},
 }
 

@@ -120,7 +120,7 @@ function mod:CreateDashboardHolder(holderName, option)
 	holder:CreateBackdrop('Transparent')
 	holder:SetFrameStrata('BACKGROUND')
 	holder:SetFrameLevel(5)
-	holder.backdrop:Style('Outside')
+	holder.backdrop:BuiStyle('Outside')
 	holder:Hide()
 
 	if db.combat then
@@ -150,18 +150,16 @@ function mod:CreateDashboard(barHolder, option, hasIcon)
 	bar:Point('TOPLEFT', barHolder, 'TOPLEFT', SPACING, -SPACING)
 	bar:EnableMouse(true)
 
-	bar.dummy = CreateFrame('Frame', nil, bar)
+	bar.dummy = CreateFrame('Frame', nil, bar, 'BackdropTemplate')
+	bar.dummy:SetTemplate('Transparent', nil, true, true)
+	bar.dummy:SetBackdropBorderColor(0, 0, 0, 0)
+	bar.dummy:SetBackdropColor(1, 1, 1, .2)
 	bar.dummy:Point('BOTTOMLEFT', bar, 'BOTTOMLEFT', 2, 0)
 	bar.dummy:Point('BOTTOMRIGHT', bar, 'BOTTOMRIGHT', (hasIcon and (E.PixelMode and -24 or -28) or -2), 0)
-	bar.dummy:Height(E.PixelMode and 3 or 5)
-
-	bar.dummy.dummyStatus = bar.dummy:CreateTexture(nil, 'OVERLAY')
-	bar.dummy.dummyStatus:SetInside()
-	bar.dummy.dummyStatus:SetTexture(E['media'].BuiFlat)
-	bar.dummy.dummyStatus:SetVertexColor(1, 1, 1, .2)
+	bar.dummy:Height(E.PixelMode and 1 or 3)
 
 	bar.Status = CreateFrame('StatusBar', nil, bar.dummy)
-	bar.Status:SetStatusBarTexture(E['media'].BuiFlat)
+	bar.Status:SetStatusBarTexture(E.Media.Textures.White8x8)
 	bar.Status:SetInside()
 
 	bar.spark = bar.Status:CreateTexture(nil, 'OVERLAY', nil);

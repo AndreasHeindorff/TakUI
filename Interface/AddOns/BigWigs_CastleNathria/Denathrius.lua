@@ -99,7 +99,7 @@ local timersMythic = {
 	},
 	[3] = {
 		-- Fatal Finesse
-		[332794] = {19.2, 22, 25, 25, 38.5, 33, 13, 12},
+		[332794] = {19.2, 22, 25, 25, 38.5, 33, 13, 12, 13},
 		-- Shattering Pain
 		[332619] = {5.4, 25.5, 21.9, 24.3, 24.3, 25.5, 22, 23, 25},
 	}
@@ -113,8 +113,6 @@ local timers = mod:Mythic() and timersMythic or mod:Heroic() and timersHeroic or
 
 local L = mod:GetLocale()
 if L then
-	L.add_spawn = "Crimson Cabalists answer the call of Denathrius." -- [RAID_BOSS_EMOTE] Crimson Cabalists answer the call of Denathrius.#Sire Denathrius#4#true"
-
 	L.infobox_stacks = "%d |4Stack:Stacks;: %d |4player:players;" -- 4 Stacks: 5 players // 1 Stack: 1 player
 
 	L.custom_on_repeating_nighthunter = "Repeating Night Hunter Yell"
@@ -205,7 +203,7 @@ function mod:GetOptions()
 end
 
 function mod:OnBossEnable()
-	self:RegisterEvent("RAID_BOSS_EMOTE")
+	self:Log("SPELL_AURA_APPLIED", "EncounterEvent", 181089) -- Crimson Cabalists spawn
 	self:RegisterEvent("PLAYER_STARTED_MOVING")
 	self:RegisterEvent("PLAYER_STOPPED_MOVING")
 
@@ -351,20 +349,18 @@ do
 	end
 end
 
-function mod:RAID_BOSS_EMOTE(_, msg)
-	if msg:find(L.add_spawn, nil, true) then -- Crimson Cabalists spawned
-		self:Message(-22131, "yellow", CL.incoming:format(CL.count:format(CL.adds, addCount)), 329711) -- Crimson Chorus Icon
-		self:PlaySound(-22131, "alert")
-		addCount = addCount + 1
-		self:Bar(-22131, timers[self:GetStage()][-22131][addCount], CL.count:format(CL.adds, addCount), 329711) -- Crimson Chorus Icon
-	end
+function mod:EncounterEvent(args) -- Crimson Cabalists spawn
+	self:Message(-22131, "yellow", CL.incoming:format(CL.count:format(CL.adds, addCount)), 329711) -- Crimson Chorus Icon
+	self:PlaySound(-22131, "alert")
+	addCount = addCount + 1
+	self:Bar(-22131, timers[self:GetStage()][-22131][addCount], CL.count:format(CL.adds, addCount), 329711) -- Crimson Chorus Icon
 end
 
 function mod:UNIT_HEALTH(event, unit)
 	if self:GetHealth(unit) < nextStageWarning then -- Stage changes at 70% and 40%
 		local nextStage = self:GetStage() == 1 and CL.intermission or CL.stage:format(3)
 		self:Message("stages", "green", CL.soon:format(nextStage), false)
-		nextStageWarning = nextStageWarning - 30
+		nextStageWarning = nextStageWarning - (self:Mythic() and 33 or 30)
 		if nextStageWarning < 30 then
 			self:UnregisterUnitEvent(event, unit)
 		end
@@ -516,17 +512,7 @@ end
 
 do
 	local playerList = {}
-	local timeLeft, icon = 0, 0
 	local prev = 0
-	local function printYell()
-		if timeLeft > 0 then -- We didn't die within the 2 sec initial delay
-			mod:Yell(false, ("{rt%d}{rt%d}{rt%d}%d"):format(icon, icon, icon, timeLeft), true)
-			timeLeft = timeLeft - 1
-			if timeLeft > 0 then
-				mod:SimpleTimer(printYell, 1)
-			end
-		end
-	end
 	function mod:NightHunterApplied(args)
 		local t = args.time
 		if t-prev > 5 then
@@ -544,9 +530,8 @@ do
 		if self:Me(args.destGUID)then
 			self:Yell(args.spellId, CL.count_rticon:format(args.spellName, count, count))
 			if self:GetOption("custom_on_repeating_nighthunter") then
-				icon = count
-				timeLeft = 4
-				self:SimpleTimer(printYell, 2)
+				local text = ("{rt%d}{rt%d}{rt%d}"):format(count, count, count)
+				self:YellCountdown(false, 6, text, 4)
 			end
 		end
 		self:NewTargetsMessage(args.spellId, "orange", playerList, self:Mythic() and 3 or 2, CL.count:format(args.spellName, nightHunterCount-1))
@@ -554,8 +539,8 @@ do
 	end
 
 	function mod:NightHunterRemoved(args)
-		if self:Me(args.destGUID) then
-			timeLeft, icon = 0, 0
+		if self:Me(args.destGUID) and self:GetOption("custom_on_repeating_nighthunter") then
+			self:CancelYellCountdown(false)
 		end
 		self:CustomIcon(nightHunterMarker, args.destName)
 	end
@@ -612,7 +597,7 @@ function mod:BeginTheChorus(args)
 	self:Bar(329181, 15.7, CL.count:format(self:SpellName(329181), wrackingPainCount)) -- Wracking Pain
 	self:Bar(333932, timers[2][333932][handCount], CL.count:format(self:SpellName(333932), handCount)) -- Hand of Destruction
 	self:Bar(330042, self:Mythic() and 55 or 62, CL.count:format(self:SpellName(330068), massacreCount), 333980) -- Massacre
-	self:Bar("stages", 214, CL.stage:format(3), 338738) -- Stage 3
+	self:Bar("stages", self:Mythic() and 229 or 214, CL.stage:format(3), 338738) -- Stage 3
 
 	balefulShadowsList = {}
 	mobCollector = {}

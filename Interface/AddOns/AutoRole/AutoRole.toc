@@ -1,0 +1,21 @@
+﻿## Interface: 60000
+## Title: AutoRole
+## Author: Erfolg
+## Version: 6.0.0
+## Notes: AutoRole sets your role based on your current specialization automatically any time you join a group or raid. 
+## URL: http://wow.curseforge.com/addons/auto-role/
+## OptionalDeps: Ace3
+## X-Curse-Packaged-Version: 6.0.0
+## X-Curse-Project-Name: AutoRole
+## X-Curse-Project-ID: auto-role
+## X-Curse-Repository-ID: wow/auto-role/mainline
+
+#@no-lib-strip@
+libs\LibStub\LibStub.lua
+libs\CallbackHandler-1.0\CallbackHandler-1.0.xml
+libs\AceAddon-3.0\AceAddon-3.0.xml
+libs\AceEvent-3.0\AceEvent-3.0.xml
+libs\AceConsole-3.0\AceConsole-3.0.xml
+#@end-no-lib-strip@
+
+AutoRole.lua

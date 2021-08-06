@@ -4,7 +4,7 @@ set_wotf_emfh = {
 	-- WOTF
 	{ spellid = 7744, cooldown = 30 },
 	-- EMFH
-	{ spellid = 59752, cooldown = 30 },
+	{ spellid = 59752, cooldown = 90 },
 }
 
 -- Gladiator's Medallion
@@ -38,8 +38,9 @@ LCT_SpellData[6262] = {
 }
 
 -- Shadowlands/Castle Nathria
--- Skulkers Wing
-LCT_SpellData[184016] = {
+-- Skulkers Wing (Item ID 345019)
+-- XXX have a way to enter the item id here to show the item name instead of the item spell name?
+LCT_SpellData[345019] = {
 	item = true,
 	talent = true, -- hack to prevent it being displayed before being detected
 	offensive = true,

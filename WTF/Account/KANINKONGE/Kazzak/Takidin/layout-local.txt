@@ -3,14 +3,14 @@ Frame: ObjectiveTrackerFrame
 FrameLevel: 1
 Anchor: RIGHT
 X: -33
-Y: 60
+Y: 56
 W: 235
 H: 480
 Frame: PlayerPowerBarAlt
 FrameLevel: 2
 Anchor: BOTTOM
-X: 262
-Y: 258
+X: -265
+Y: 241
 W: 10
 H: 10
 Frame: ItemRefTooltip
@@ -26,4 +26,4 @@ Anchor: CENTER
 X: 0
 Y: 0
 W: 365
-H: 240
+H: 239

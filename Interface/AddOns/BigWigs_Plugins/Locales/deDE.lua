@@ -151,7 +151,8 @@ L.breakFinished = "Die Pause ist vorbei!"
 --
 
 L.bossBlock = "Boss Block"
-L.bossBlockDesc = "Legt fest, was während einer Bossbegegnung blockiert wird."
+L.bossBlockDesc = "Legt fest, was während einer Bossbegegnung blockiert wird.\n\n"
+L.bossBlockAudioDesc = "Konfiguriert, welche Sounds während Bossbegegnungen stummgeschaltet werden.\n\nJede hier |cff808080ausgegraute|r Option wurde in den WoW Soundeinstellungen deaktiviert.\n\n"
 L.movieBlocked = "Da Du diese Zwischensequenz bereits gesehen hast, wird sie übersprungen."
 L.blockEmotes = "Hinweise in der Bildschirmmitte blockieren"
 L.blockEmotesDesc = "Einige Bosse zeigen sehr lange und ungenaue Hinweise für spezielle Fähigkeiten an. BigWigs versucht kürzere und passendere Mitteilungen zu erstellen, die den Spielfluss weniger beeinflussen.\n\nHinweis: Bossmitteilungen werden weiterhin im Chat sichtbar sein und können dort gelesen werden."
@@ -167,9 +168,11 @@ L.audio = "Audio"
 L.music = "Musik"
 L.ambience = "Umgebungsgeräusche"
 L.sfx = "Soundeffekte"
+L.errorSpeech = "Audiofehlermeldungen"
 L.disableMusic = "Musik stummschalten (empfohlen)"
 L.disableAmbience = "Umgebungsgeräusche stummschalten (empfohlen)"
 L.disableSfx = "Soundeffekte stummschalten (nicht empfohlen)"
+L.disableErrorSpeech = "Audiofehlermeldungen stummschalten (empfohlen)"
 L.disableAudioDesc = "Die Option '%s' im WoW Soundmenü wird deaktiviert und erst nach dem Bosskampf wieder aktiviert. Dies kann helfen sich auf die BigWigs Sounds zu konzentrieren."
 L.blockTooltipQuests = "Questziele im Tooltip blockieren"
 L.blockTooltipQuestsDesc = "Wenn zum Abschluss einer Quest ein Boss getötet werden muss, wird der Fortschritt normalerweise im MouseOver-Tooltip mit '0/1 abgeschlossen' angezeigt. Dieser Fortschritt wird im Kampf versteckt, damit der Tooltip nicht zu groß wird."
@@ -261,8 +264,8 @@ L.useIcons = "Symbole verwenden"
 L.useIconsDesc = "Zeigt Symbole neben Nachrichten an."
 L.classColors = "Klassenfarben"
 L.classColorsDesc = "Teilweise enthalten Nachrichten Spielernamen. Durch Aktivierung dieser Option werden die Namen in Ihrer Klassenfarbe angezeigt."
-L.chatMessages = "Chatfenster-Nachrichten"
-L.chatMessagesDesc = "Gibt alle BigWigs-Nachrichten im Standard-Chatfenster aus, zusätzlich zu der Einstellung unter 'Ausgabe'."
+L.chatFrameMessages = "Chatfenster-Nachrichten"
+L.chatFrameMessagesDesc = "Gibt alle BigWigs-Nachrichten im Standard-Chatfenster aus, zusätzlich zu der Einstellung unter 'Ausgabe'."
 
 L.fontSize = "Schriftgröße"
 L.none = "Nichts"
@@ -288,8 +291,6 @@ L.proximity_name = "Nähe"
 L.soundDelay = "Soundverzögerung"
 L.soundDelayDesc = "Gibt an, wie lange BigWigs zwischen den Soundwiederholungen wartet, wenn jemand zu nahe steht."
 
-L.proximity = "Näherungsanzeige"
-L.proximity_desc = "Zeigt, falls für diese Begegnung relevant, das Näherungsfenster an. Es listet alle Spieler auf, die Dir zu nahe stehen."
 L.resetProximityDesc = "Setzt alle Optionen im Zusammenhang mit Nähe zurück, inklusive der Position des Ankers für Nähe."
 
 L.close = "Schließen"
@@ -330,13 +331,14 @@ L.pullStoppedCombat = "Pull-Timer wurde abgebrochen, weil Du einen Kampf begonne
 L.pullIn = "Pull in %d Sek."
 L.sendPull = "Sende Pull-Timer an BigWigs- und DBM-Nutzer."
 L.wrongPullFormat = "Muss zwischen 1 und 60 Sekunden liegen. Beispiel: /pull 5"
+L.countdownBegins = "Countdown starten"
+L.countdownBegins_desc = "Verbleibende Zeit des Pulltimers (in Sekunden) wählen, wenn der Countdown beginnt."
 
 -----------------------------------------------------------------------
 -- RaidIcon.lua
 --
 
 L.icons = "Symbole"
-L.raidIconsDesc = "Einige Bossmodule benutzen Schlachtzugssymbole, um Spieler zu markieren, die von speziellem Interesse für Deine Gruppe sind. Beispielsweise Bombeneffekte und Gedankenkontrolle. Wenn Du diese Option ausschaltest, markierst Du niemanden mehr.n\n|cffff4411Trifft nur zu, sofern Du Schlachtzugsleiter oder Assistent bist!|r"
 L.raidIconsDescription = "Einige Begegnungen schließen Elemente wie 'Bombenfähigkeiten' ein, die einen bestimmten Spieler zum Ziel haben, ihn verfolgen oder er ist in sonst einer Art und Weise interessant. Hier kannst du bestimmen, welche Schlachtzugs-Symbole benutzt werden sollen, um die Spieler zu markieren.\n\nFalls nur ein Symbol benötigt wird, wird nur das erste benutzt. Ein Symbol wird niemals für zwei verschiedene Fähigkeiten innerhalb einer Begegnung benutzt.\n\n|cffff4411Beachte, dass ein manuell markierter Spieler von BigWigs nicht ummarkiert wird.|r"
 L.primary = "Erstes Symbol"
 L.primaryDesc = "Das erste Schlachtzugssymbol, das verwendet wird."
@@ -348,6 +350,7 @@ L.secondaryDesc = "Das zweite Schlachtzugssymbol, das verwendet wird."
 --
 
 L.Sounds = "Sounds"
+L.soundsDesc = "BigWigs nutzt den 'Haupt'-Soundkanal um die Sounds wiederzugeben. Wenn die Sounds zu leise oder zu laut sind, kann dies in den WoW Soundoptionen mit dem Schieberegler 'Gesamtlautstärke' angepasst werden.\n\nFolgend können global die verschiedenen Sounds für spezifische Aktionen konfiguriert, oder zum Deaktivieren auf 'None' gesetzt werden. Wenn der Sound einer spezifischen Bossfähigkeit geändert werden soll, kann dies in den Einstellungen der Bossbegegnung eingestellt werden.\n\n"
 L.oldSounds = "Alte Sounds"
 
 L.Alarm = "Alarm"
@@ -359,7 +362,6 @@ L.onyou = "Ein Zauber, Stärkungs- oder Schwächungszauber ist auf Dir"
 L.underyou = "Du musst aus einem Zauber unter Dir herauslaufen"
 
 L.sound = "Sound"
-L.soundDesc = "Nachrichten können zusammen mit Sounds erscheinen. Manche Leute finden es einfacher, darauf zu hören, welcher Sound mit welcher Nachricht einher geht, anstatt die Nachricht zu lesen."
 
 L.customSoundDesc = "Den speziell gewählten Sound anstatt des vom Modul bereitgestellten abspielen."
 L.resetSoundDesc = "Setzt die obigen Sounds auf ihren Standard zurück."

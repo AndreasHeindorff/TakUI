@@ -7,9 +7,9 @@ L.you_icon = "%s em |T13700%d:0|tVOCÊ"
 L.underyou = "%s debaixo de VOCÊ"
 L.other = "%s: %s"
 L.onboss = "%s no CHEFE"
-L.on = "%s em %s"
 L.buff_boss = "Buff no CHEFE: %s"
 L.buff_other = "Buff no %s: %s"
+L.on = "%s em %s"
 L.stack = "%dx %s em %s"
 L.stackyou = "%dx %s em VOCÊ"
 L.cast = "<Conjurando %s>"
@@ -43,7 +43,7 @@ L.intermission = "Intervalo"
 L.percent = "%d%% - %s" -- 20% - Spell
 L.cancelled = "%s Cancelado" -- Spell Cancelled
 
--- Add Related
+-- Add related
 L.add_spawned = "Add surgiu"
 L.spawned = "%s surgiu"
 L.spawning = "%s Chegando"
@@ -61,6 +61,8 @@ L.small_adds = "Adds Pequenos" -- plural
 L.mob_killed = "%s morto (%d/%d)"
 L.mob_remaining = "%s morto, %d restando"
 
+-- Localizers note:
+-- The default mod:Berserk(600) uses spell ID 26662 to get the Berserk name
 L.custom_start = "%s iniciado - %s em %d min"
 L.custom_start_s = "%s iniciado - %s em %d seg"
 L.custom_end = "%s começa em %s"
@@ -94,6 +96,7 @@ L.laser = "Laser" -- Used for abilities that act like a laser. Usually from the 
 L.beam = "Feixe" -- Similar to "Laser" (a beam from boss to player/boss to area) but can be used to better describe certain abilities that don't look like a Laser
 L.beams = "Feixes" -- Plural of L.beam
 L.bomb = "Bomba" -- Used for debuffs that make players explode
+L.bombs = "Bombas" -- Plural of L.bomb
 L.explosion = "Explosão" -- When the explosion from a bomb-like ability will occur
 L.fixate = "Fixação" -- Used when a boss or add is chasing/fixated on a player
 L.knockback = "Empurrão" -- Used when an ability knocks players away from a certain point, like a "smash" type ability that knocks you back 10 meters

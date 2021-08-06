@@ -1,4 +1,4 @@
-local SLE, T, E, L, V, P, G = unpack(select(2, ...))
+﻿local SLE, T, E, L, V, P, G = unpack(select(2, ...))
 
 local GARRISON_LOCATION_TOOLTIP = GARRISON_LOCATION_TOOLTIP
 local EXPANSION_NAME5 = EXPANSION_NAME5
@@ -19,7 +19,7 @@ local function configTable()
 				name = L["Toolbar"],
 				guiInline = true,
 				get = function(info) return E.db.sle.legacy.garrison.toolbar[ info[#info] ] end,
-				set = function(info, value) E.db.sle.legacy.garrison.toolbar[ info[#info] ] = value; SLE:GetModule("Toolbars"):UpdateLayout() end,
+				set = function(info, value) E.db.sle.legacy.garrison.toolbar[ info[#info] ] = value; SLE.Toolbars:UpdateLayout() end,
 				args = {
 					enable = {
 						order = 1,

@@ -9,11 +9,11 @@ ProjectAzilrokaDB = {
 		["Rendudu - Kazzak"] = "Default",
 		["Renwarri - Kazzak"] = "Default",
 		["Takiscoper - Kazzak"] = "Default",
-		["Takii - Frostmane"] = "Default",
 		["Takibank - Argent Dawn"] = "Default",
-		["Rentaco - Ravencrest"] = "Default",
-		["Rentaco - Kazzak"] = "Default",
+		["Takii - Frostmane"] = "Default",
 		["Takidari - Kazzak"] = "Default",
+		["Rentaco - Kazzak"] = "Default",
+		["Rentaco - Ravencrest"] = "Default",
 		["Taaku - Kazzak"] = "Default",
 	},
 	["profiles"] = {
@@ -22,7 +22,7 @@ ProjectAzilrokaDB = {
 				["Enable"] = false,
 				["Size"] = 10,
 			},
-			["AuraReminder"] = {
+			["ReputationReward"] = {
 				["Enable"] = false,
 			},
 			["BigButtons"] = {
@@ -33,7 +33,7 @@ ProjectAzilrokaDB = {
 				["MoveGarrison"] = false,
 				["MoveQueue"] = false,
 				["BarMouseOver"] = true,
-				["ButtonsPerRow"] = 1,
+				["ButtonsPerRow"] = 35,
 				["MoveTracker"] = false,
 			},
 			["DragonOverlay"] = {
@@ -54,7 +54,7 @@ ProjectAzilrokaDB = {
 			["MouseoverAuras"] = {
 				["Enable"] = false,
 			},
-			["ReputationReward"] = {
+			["AuraReminder"] = {
 				["Enable"] = false,
 			},
 			["EnhancedFriendsList"] = {

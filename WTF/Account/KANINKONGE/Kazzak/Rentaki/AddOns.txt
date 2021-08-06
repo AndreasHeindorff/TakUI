@@ -71,7 +71,7 @@ PetTracker_Upgrades: disabled
 PetTracker_Switcher: disabled
 PetTracker_Config: disabled
 PetTracker_Journal: disabled
-RCLootCouncil: enabled
+RCLootCouncil: disabled
 Rematch: disabled
 SharedMedia: enabled
 SharedMedia_MyMedia: enabled
@@ -160,3 +160,6 @@ ElvUI_mMediaTag: disabled
 ElvUI_CustomMedia: disabled
 !KMediaTags: disabled
 LittleWigs_BattleForAzeroth: enabled
+Plater: enabled
+AutoRole: disabled
+ElvUI_BenikUI: enabled

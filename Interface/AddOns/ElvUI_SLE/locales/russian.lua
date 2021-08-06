@@ -1,4 +1,4 @@
--- Russian localization
+﻿-- Russian localization
 local L = ElvUI[1].Libs.ACL:NewLocale("ElvUI", "ruRU")
 
 if not L then return end
@@ -157,7 +157,7 @@ L["ElvUI Objective Tracker"] = "Список задач ElvUI"
 L["ElvUI Skins"] = "Скины ElvUI"
 L["ELVUI_SLE_CREDITS"] = "Мы хотели бы отметить и поблагодарить следующих людей за помощь в создании этого аддона."
 L["ELVUI_SLE_DONORS_TITLE"] = "Спасибо этим офигенным людям за пожертвования в пользу нашей работы:"
-L["ELVUI_SLE_MISC"] = "BuG - за постоянные и ржачные методы сломать все и вся\nTheSamaKutra\nRZ_Digital - за наше новое офигенное лого\nСообщество Tukui"
+L["ELVUI_SLE_MISC"] = "BuG - за постоянные и ржачные методы сломать все и вся\nTheSamaKutra\nRZ_Digital - за наше новое офигенное лого\nEltreum for doing some grunt work for Repooc\nСообщество Tukui"
 L["ELVUI_SLE_PATREON_TITLE"] = "Огромное спасибо нашим спонсорам, которые поддерживают создание этого аддона:"
 L["EM_DESC"] = "Этот модуль предоставляет различные опции для автоматической смены комплектов экипировки при переключении набора талантов или попадании в определенную локацию."
 L["Empty Socket"] = "Пустой слот"
@@ -195,11 +195,8 @@ L["FAQ_Elv_5"] = "|cff30ee30В: Какие команды чата есть в E
 L["FAQ_sle_1"] = "|cff30ee30В: Что делать, если я получаю сообщения об ошибках в Shadow & Light?|r\n|cff9482c9О:|r Примерно то же самое, что и для ElvUI (см. другой раздел справки).\nТолько теперь понадобится еще и указать версию S&L."
 L["FAQ_sle_2"] = "|cff30ee30В: Применима ли языковая политика форумов ElvUI к Shadow & Light?|r\n|cff9482c9О:|r Да. За исключением того, что для S&L официальных языков поддержки два - английский и русский."
 L["FAQ_sle_3"] = "|cff30ee30В: Почему шаблоны интерфейса в игре не похожи на то, что я видел на скриншотах на странице аддона?|r\n|cff9482c9О:|r Потому что мы просто забыли их обновить."
-L["FAQ_sle_4"] = "|cff30ee30В: Почему я вижу странные иконки около имен некоторых людей в чате?|r\n|cff9482c9О:|r Эти ионки обозначают людей, которых мы хотели выделить по той или иной причине.\nНапример: |TInterface\\AddOns\\ElvUI_SLE\\media\\textures\\SLE_Chat_Logo:12:28|t это иконка для разработчиков, а |TInterface\\AddOns\\ElvUI_SLE\\media\\textures\\SLE_Chat_Logo_Alt:16:16|t это иконка, которую иногда использует Repooc. |TInterface\\AddOns\\ElvUI_SLE\\media\\textures\\Chat_Test:16:16|t для людей, которые в свое время помогли вычислить хитрый баг."
+L["FAQ_sle_4"] = "|cff30ee30В: Почему я вижу странные иконки около имен некоторых людей в чате?|r\n|cff9482c9О:|r Эти ионки обозначают людей, которых мы хотели выделить по той или иной причине.\nНапример: |TInterface\\AddOns\\ElvUI_SLE\\media\\textures\\chat\\SLE_Chat_Logo:12:28|t это иконка для разработчиков, а |TInterface\\AddOns\\ElvUI_SLE\\media\\textures\\chat\\SLE_Chat_Logo_Alt:16:16|t это иконка, которую иногда использует Repooc. |TInterface\\AddOns\\ElvUI_SLE\\media\\textures\\Chat_Test:16:16|t для людей, которые в свое время помогли вычислить хитрый баг."
 L["FAQ_sle_5"] = "|cff30ee30В: Как я могу связаться с авторами?|r\n|cff9482c9О:|r По очевидным причинам мы не раздаем свои контакты всем желающим. Так что лучшим методом являются форумы tukui.org."
-L["Farm Portal Bar"] = "Панель порталов"
-L["Farm Seed Bars"] = "Панели семян"
-L["Farm Tool Bar"] = "Панель инструментов"
 L["Farm"] = "Ферма"
 L["Filter DPS meters' Spam"] = "Фильтровать отчеты о УВС"
 L["Fish Key"] = "Модификатор рыбалки"
@@ -440,9 +437,6 @@ L["S&L Mail"] = "S&L Почта"
 L["S&L UI Buttons"] = "Меню S&L"
 L["S&L: All"] = "S&L: Все"
 L["S&L: Backgrounds"] = "S&L: Фоновые фреймы"
-L["S&L: Farm Portal Bar"] = "S&L: Порталы фермы "
-L["S&L: Farm Seed Bars"] = "S&L: Семена"
-L["S&L: Farm Tool Bar"] = "S&L: Инструменты фермы"
 L["S&L: Garrison Tools Bar"] = "S&L: Инструменты гарнизона"
 L["S&L: Misc"] = "S&L: Прочее"
 L["Scroll"] = "Свиток"

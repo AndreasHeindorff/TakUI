@@ -8,9 +8,7 @@ local SPEC_MAGE_FROST = 64
 -- Fireball
 LCT_SpellData[133] = {
 	class = "MAGE",
-	reduces = {
-		{ spellid = 190319, duration = 3 }
-	}
+	reduce = { spellid = 190319, duration = 3 } -- Combustion
 }
 -- Blink
 LCT_SpellData[1953] = {
@@ -238,16 +236,15 @@ LCT_SpellData[108853] = {
 	offensive = true,
 	cooldown = 12
 }
--- Mage/Fire/talents
 -- Cauterize
 LCT_SpellData[86949] = {
 	class = "MAGE",
 	specID = { SPEC_MAGE_FIRE },
-	talent = true,
 	defensive = true,
 	duration = 6,
 	cooldown = 300
 }
+-- Mage/Fire/talents
 -- Blast Wave
 LCT_SpellData[157981] = {
 	class = "MAGE",
@@ -415,5 +412,6 @@ LCT_SpellData[314791] = {
 	covenant = "NIGHTFAE",
 	offensive = true,
 	duration = 4,
-	cooldown = 60
+	cooldown = 60,
+	reduce = { all = true, duration = 10 }
 }

@@ -3,7 +3,7 @@ local MXP = PA:NewModule('MasterXP', 'AceTimer-3.0', 'AceEvent-3.0')
 
 MXP.Title = PA.ACL['|cFF16C3F2Master|r |cFFFFFFFFExperience|r']
 MXP.Description = PA.ACL['Shows Experience Bars for Party / Battle.net Friends']
-MXP.Authors = 'Azilroka     NihilisticPandemonium'
+MXP.Authors = 'Azilroka     Nihilistzsche'
 MXP.isEnabled = false
 PA.MXP, _G.MasterExperience = MXP, MXP
 
@@ -283,7 +283,7 @@ function MXP:QUEST_LOG_UPDATE()
 
 	for i = 1, C_QuestLog.GetNumQuestLogEntries() do
 		local info = C_QuestLog.GetInfo(i)
-		if not info.isHidden then
+		if info and not info.isHidden then
 			MXP:CheckQuests(C_QuestLog.GetQuestIDForLogIndex(i), info.isOnMap)
 		end
 	end
@@ -328,9 +328,14 @@ end
 
 function MXP:UpdateAllBars()
 	MXP:ClearBars()
-	MXP:SendMessage()
 
-	if MXP.db.Party and IsInGroup(LE_PARTY_CATEGORY_HOME) and not IsInRaid() then
+	local inParty = IsInGroup() and not IsInRaid()
+
+	if MXP.db.BattleNet and MXP.isBNConnected or MXP.db.Party and inParty then
+		MXP:SendMessage()
+	end
+
+	if MXP.db.Party and inParty then
 		C_ChatInfo.SendAddonMessage('PA_MXP', 'REQUESTINFO', 'PARTY')
 	end
 

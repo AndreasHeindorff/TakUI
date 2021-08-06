@@ -4,7 +4,7 @@ PA.SMB, _G.SquareMinimapButtons = SMB, SMB
 
 SMB.Title = PA.ACL['|cFF16C3F2Square|r |cFFFFFFFFMinimap Buttons|r']
 SMB.Description = PA.ACL['Minimap Button Bar / Minimap Button Skinning']
-SMB.Authors = 'Azilroka    NihilisticPandemonium    Sinaris    Omega    Durc'
+SMB.Authors = 'Azilroka    Nihilistzsche    Sinaris    Omega    Durc'
 SMB.isEnabled = false
 
 local _G = _G
@@ -58,6 +58,7 @@ SMB.IgnoreButton = {
 	'TukuiMinimapZone',
 	'TukuiMinimapCoord',
 	'RecipeRadarMinimapButtonFrame',
+	'InstanceDifficultyFrame',
 }
 
 SMB.GenericIgnore = {
@@ -121,12 +122,23 @@ function SMB:LockButton(Button)
 	for _, Function in pairs(ButtonFunctions) do
 		Button[Function] = PA.Noop
 	end
+
+	if Button.SetFixedFrameStrata then Button:SetFixedFrameStrata(true) end
+	if Button.SetFixedFrameLevel then Button:SetFixedFrameLevel(true) end
 end
 
 function SMB:UnlockButton(Button)
 	for _, Function in pairs(ButtonFunctions) do
 		Button[Function] = nil
 	end
+
+	if Button.SetFixedFrameStrata then Button:SetFixedFrameStrata(false) end
+	if Button.SetFixedFrameLevel then Button:SetFixedFrameLevel(false) end
+end
+
+function SMB:ToggleBar_FrameStrataLevel(value)
+	if SMB.Bar.SetFixedFrameStrata then SMB.Bar:SetFixedFrameStrata(value) end
+	if SMB.Bar.SetFixedFrameLevel then SMB.Bar:SetFixedFrameLevel(value) end
 end
 
 function SMB:OnUpdate()
@@ -218,9 +230,11 @@ function SMB:HandleBlizzardButtons()
 			_G.GarrisonLandingPageMinimapButton:SetParent(SMB.Hider)
 			_G.GarrisonLandingPageMinimapButton:Hide()
 		elseif SMB.db.MoveGarrison and (C_Garrison.GetLandingPageGarrisonType() > 0) and not _G.GarrisonLandingPageMinimapButton.SMB then
+			Mixin(GarrisonLandingPageMinimapButton, BackdropTemplateMixin)
 			_G.GarrisonLandingPageMinimapButton:SetParent(Minimap)
 			_G.GarrisonLandingPageMinimapButton_OnLoad(_G.GarrisonLandingPageMinimapButton)
 			_G.GarrisonLandingPageMinimapButton_UpdateIcon(_G.GarrisonLandingPageMinimapButton)
+			_G.GarrisonLandingPageMinimapButton:UnregisterEvent('GARRISON_HIDE_LANDING_PAGE')
 			_G.GarrisonLandingPageMinimapButton:Show()
 			_G.GarrisonLandingPageMinimapButton:SetScale(1)
 			_G.GarrisonLandingPageMinimapButton:SetHitRectInsets(0, 0, 0, 0)
@@ -250,6 +264,7 @@ function SMB:HandleBlizzardButtons()
 			_G.MiniMapTracking.Show = nil
 
 			_G.MiniMapTracking:Show()
+			PA:SetTemplate(_G.MiniMapTracking)
 
 			_G.MiniMapTracking:SetParent(SMB.Bar)
 			_G.MiniMapTracking:SetSize(Size, Size)
@@ -469,7 +484,9 @@ function SMB:SkinMinimapButton(Button)
 	tinsert(SMB.Buttons, Button)
 end
 
-function SMB:GrabMinimapButtons()
+SMB.ButtonCounts = {}
+
+function SMB:GrabMinimapButtons(forceUpdate)
 	if (InCombatLockdown() or C_PetBattles and C_PetBattles.IsInBattle()) then return end
 
 	for _, Button in pairs(SMB.UnrulyButtons) do
@@ -478,10 +495,10 @@ function SMB:GrabMinimapButtons()
 		end
 	end
 
-	local UpdateBar
+	local UpdateBar = forceUpdate
 	for _, Frame in pairs({ Minimap, _G.MinimapBackdrop, _G.MinimapCluster }) do
 		local NumChildren = Frame:GetNumChildren()
-		if NumChildren > (Frame.SMBNumChildren or 0) then
+		if NumChildren > (SMB.ButtonCounts[Frame] or 0) then
 			for i = 1, NumChildren do
 				local object = select(i, Frame:GetChildren())
 				if object then
@@ -493,7 +510,7 @@ function SMB:GrabMinimapButtons()
 				end
 			end
 
-			Frame.SMBNumChildren = NumChildren
+			SMB.ButtonCounts[Frame] = NumChildren
 			UpdateBar = true
 		end
 	end
@@ -518,6 +535,11 @@ function SMB:Update()
 		Anchor, DirMult = 'TOPRIGHT', -1
 	end
 
+	SMB:ToggleBar_FrameStrataLevel(false)
+	SMB.Bar:SetFrameStrata(SMB.db.Strata)
+	SMB.Bar:SetFrameLevel(SMB.db.Level)
+	SMB:ToggleBar_FrameStrataLevel(true)
+
 	for _, Button in pairs(SMB.Buttons) do
 		if Button:IsVisible() then
 			AnchorX, ActualButtons = AnchorX + 1, ActualButtons + 1
@@ -535,8 +557,8 @@ function SMB:Update()
 			Button:SetPoint(Anchor, SMB.Bar, Anchor, DirMult * (Spacing + ((Size + Spacing) * (AnchorX - 1))), (- Spacing - ((Size + Spacing) * (AnchorY - 1))))
 			Button:SetSize(Size, Size)
 			Button:SetScale(1)
-			Button:SetFrameStrata('MEDIUM')
-			Button:SetFrameLevel(SMB.Bar:GetFrameLevel() + 1)
+			Button:SetFrameStrata(SMB.db.Strata)
+			Button:SetFrameLevel(SMB.db.Level + 1)
 			Button:SetScript('OnDragStart', nil)
 			Button:SetScript('OnDragStop', nil)
 			--Button:SetScript('OnEvent', nil)
@@ -592,7 +614,12 @@ function SMB:GetOptions()
 	SquareMinimapButtons.args.General.args.MBB.args.ButtonsPerRow = PA.ACH:Range(PA.ACL['Buttons Per Row'], nil, 6, { min = 1, max = 100, step = 1 })
 	SquareMinimapButtons.args.General.args.MBB.args.Shadows = PA.ACH:Toggle(PA.ACL['Shadows'], nil, 7)
 	SquareMinimapButtons.args.General.args.MBB.args.ReverseDirection = PA.ACH:Toggle(PA.ACL['Reverse Direction'], nil, 8)
-	SquareMinimapButtons.args.General.args.MBB.args.Visibility = PA.ACH:Input(PA.ACL['Visibility'], nil, 8, nil, 'double')
+	SquareMinimapButtons.args.General.args.MBB.args.ReverseDirection = PA.ACH:Toggle(PA.ACL['Reverse Direction'], nil, 8)
+	SquareMinimapButtons.args.General.args.MBB.args.ReverseDirection = PA.ACH:Toggle(PA.ACL['Reverse Direction'], nil, 8)
+	SquareMinimapButtons.args.General.args.Strata = PA.ACH:Select(PA.ACL['Frame Strata'], nil, 3, { BACKGROUND = 'BACKGROUND', LOW = 'LOW', MEDIUM = 'MEDIUM', HIGH = 'HIGH', DIALOG = 'DIALOG', FULLSCREEN = 'FULLSCREEN', FULLSCREEN_DIALOG = 'FULLSCREEN_DIALOG', TOOLTIP = 'TOOLTIP' })
+	SquareMinimapButtons.args.General.args.Level = PA.ACH:Range(PA.ACL['Frame Level'], nil, 4, { min = 0, max = 255, step = 1 })
+
+	SquareMinimapButtons.args.General.args.MBB.args.Visibility = PA.ACH:Input(PA.ACL['Visibility'], nil, 12, nil, 'double')
 
 	SquareMinimapButtons.args.General.args.Blizzard = PA.ACH:Group(PA.ACL['Blizzard'], nil, 2, nil, nil, function(info, value) SMB.db[info[#info]] = value SMB:HandleBlizzardButtons() end)
 	SquareMinimapButtons.args.General.args.Blizzard.inline = true
@@ -610,6 +637,8 @@ end
 function SMB:BuildProfile()
 	PA.Defaults.profile.SquareMinimapButtons = {
 		Enable = true,
+		Strata = 'MEDIUM',
+		Level = 12,
 		BarMouseOver = false,
 		BarEnabled = true,
 		Backdrop = true,
@@ -632,6 +661,11 @@ function SMB:UpdateSettings()
 	SMB.db = PA.db.SquareMinimapButtons
 end
 
+function SMB:PLAYER_ENTERING_WORLD()
+	wipe(SMB.ButtonCounts)
+	SMB:GrabMinimapButtons(true)
+end
+
 function SMB:Initialize()
 	SMB:UpdateSettings()
 
@@ -646,8 +680,6 @@ function SMB:Initialize()
 	SMB.Bar = CreateFrame('Frame', 'SquareMinimapButtonBar', _G.UIParent)
 	SMB.Bar:Hide()
 	SMB.Bar:SetPoint('RIGHT', _G.UIParent, 'RIGHT', -45, 0)
-	SMB.Bar:SetFrameStrata('MEDIUM')
-	SMB.Bar:SetFrameLevel(1)
 	SMB.Bar:SetClampedToScreen(true)
 	SMB.Bar:SetMovable(true)
 	SMB.Bar:EnableMouse(true)
@@ -667,6 +699,7 @@ function SMB:Initialize()
 		_G.ElvUI[1]:CreateMover(SMB.Bar, 'SquareMinimapButtonBarMover', 'SquareMinimapButtonBar Anchor', nil, nil, nil, 'ALL,GENERAL')
 	end
 
+	SMB:RegisterEvent("PLAYER_ENTERING_WORLD")
 	SMB:ScheduleRepeatingTimer('GrabMinimapButtons', 6)
 	SMB:ScheduleTimer('HandleBlizzardButtons', 7)
 end

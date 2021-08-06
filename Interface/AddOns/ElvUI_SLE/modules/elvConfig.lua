@@ -1,19 +1,28 @@
-local SLE, T, E, L, V, P, G = unpack(select(2, ...))
-local EC = SLE:NewModule('ElvConfig', 'AceEvent-3.0')
+﻿local SLE, T, E, L, V, P, G = unpack(select(2, ...))
+local EC = SLE.ElvConfig
 
 function EC:UpdateUnitframes()
-	-- Change Group frames min spacing
 	E.Options.args.unitframe.args.groupUnits.args.boss.args.generalGroup.args.positionsGroup.args.spacing.min = -4
+
 	E.Options.args.unitframe.args.groupUnits.args.arena.args.generalGroup.args.positionsGroup.args.spacing.min = -4
+
 	E.Options.args.unitframe.args.groupUnits.args.party.args.generalGroup.args.positionsGroup.args.horizontalSpacing.min = -4
+	E.Options.args.unitframe.args.groupUnits.args.party.args.generalGroup.args.positionsGroup.args.horizontalSpacing.max = 100 --Roxanne
 	E.Options.args.unitframe.args.groupUnits.args.party.args.generalGroup.args.positionsGroup.args.verticalSpacing.min = -4
+
 	E.Options.args.unitframe.args.groupUnits.args.raid.args.generalGroup.args.positionsGroup.args.horizontalSpacing.min = -4
+	E.Options.args.unitframe.args.groupUnits.args.raid.args.generalGroup.args.positionsGroup.args.horizontalSpacing.max = 100 --Roxanne
 	E.Options.args.unitframe.args.groupUnits.args.raid.args.generalGroup.args.positionsGroup.args.verticalSpacing.min = -4
+
 	E.Options.args.unitframe.args.groupUnits.args.raid40.args.generalGroup.args.positionsGroup.args.horizontalSpacing.min = -4
+	E.Options.args.unitframe.args.groupUnits.args.raid40.args.generalGroup.args.positionsGroup.args.horizontalSpacing.max = 100 --Roxanne
 	E.Options.args.unitframe.args.groupUnits.args.raid40.args.generalGroup.args.positionsGroup.args.verticalSpacing.min = -4
+
 	E.Options.args.unitframe.args.groupUnits.args.raidpet.args.generalGroup.args.positionsGroup.args.horizontalSpacing.min = -4
 	E.Options.args.unitframe.args.groupUnits.args.raidpet.args.generalGroup.args.positionsGroup.args.verticalSpacing.min = -4
+
 	E.Options.args.unitframe.args.groupUnits.args.tank.args.generalGroup.args.positionsGroup.args.verticalSpacing.min = -4
+
 	E.Options.args.unitframe.args.groupUnits.args.assist.args.generalGroup.args.positionsGroup.args.verticalSpacing.min = -4
 
 	-- Change Portrait max camDistanceScale

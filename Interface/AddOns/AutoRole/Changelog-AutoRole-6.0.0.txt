@@ -1,0 +1,13 @@
+tag 6.0.0
+7e0ea8117db815a5bdb77fc24ca593c40be77ce7
+Matthew Casey <mdcasey@chabloom.com>
+2014-10-14 22:52:34 -0400
+
+Tagging as release version 6.0.0
+
+
+--------------------
+
+Matthew Casey:
+	- Update for 6.0
+	- Update PayPal donation link

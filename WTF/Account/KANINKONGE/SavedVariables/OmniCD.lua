@@ -8,17 +8,18 @@ OmniCDDB = {
 		["Takidin - Kazzak"] = "Default",
 	},
 	["global"] = {
-		["oodVer"] = 2512,
-		["oodChk"] = 210210,
 		["disableElvMsg"] = true,
+		["oodChk"] = 210617,
+		["oodVer"] = 2602,
+		["oodMsg"] = "|cfff16436 A new update is available. (Major update)",
 	},
 	["namespaces"] = {
 		["LibDualSpec-1.0"] = {
 		},
 	},
-	["version"] = 2.51,
 	["cooldowns"] = {
 	},
+	["version"] = 2.51,
 	["profiles"] = {
 		["Default"] = {
 			["Party"] = {
@@ -27,22 +28,22 @@ OmniCDDB = {
 						["scale"] = 0.9000000000000001,
 					},
 					["position"] = {
+						["uf"] = "ElvUI",
 						["columns"] = 10,
 						["attach"] = "TOPLEFT",
 						["preset"] = "TOPLEFT",
-						["uf"] = "ElvUI",
 						["offsetX"] = 1,
 						["anchor"] = "TOPRIGHT",
 						["offsetY"] = 1,
 					},
 					["manualPos"] = {
-						["interruptBar"] = {
-							["y"] = 547.2001000556702,
-							["x"] = 854.4008019387911,
-						},
 						["raidCDBar"] = {
-							["y"] = 692.977751155031,
-							["x"] = 11.73312067256518,
+							["y"] = 750.5777959525585,
+							["x"] = 10.66645330190141,
+						},
+						["interruptBar"] = {
+							["y"] = 381.8666325105551,
+							["x"] = 827.2003672523715,
 						},
 					},
 				},
@@ -51,10 +52,10 @@ OmniCDDB = {
 						["scale"] = 0.9000000000000001,
 					},
 					["position"] = {
+						["offsetX"] = 1,
 						["columns"] = 10,
 						["attach"] = "TOPLEFT",
 						["preset"] = "TOPLEFT",
-						["offsetX"] = 1,
 						["uf"] = "ElvUI",
 						["anchor"] = "TOPRIGHT",
 						["offsetY"] = 1,
@@ -62,24 +63,24 @@ OmniCDDB = {
 				},
 			},
 			["General"] = {
+				["textures"] = {
+					["statusBar"] = {
+						["BG"] = "Tukui",
+						["bar"] = "Tukui",
+					},
+				},
 				["fonts"] = {
 					["statusBar"] = {
 						["font"] = "Gotham Narrow Black",
 						["flag"] = "OUTLINE",
 						["size"] = 21,
 					},
-					["icon"] = {
-						["font"] = "Gotham Narrow Black",
-						["size"] = 12,
-					},
 					["anchor"] = {
 						["font"] = "Gotham Narrow Black",
 					},
-				},
-				["textures"] = {
-					["statusBar"] = {
-						["BG"] = "Tukui",
-						["bar"] = "Tukui",
+					["icon"] = {
+						["font"] = "Gotham Narrow Black",
+						["size"] = 12,
 					},
 				},
 			},

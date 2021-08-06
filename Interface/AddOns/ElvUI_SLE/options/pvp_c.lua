@@ -1,4 +1,4 @@
-local SLE, _, E, L = unpack(select(2, ...))
+﻿local SLE, _, E, L = unpack(select(2, ...))
 
 local PVP = PVP
 local DUEL, PET_BATTLE_PVP_DUEL = DUEL, PET_BATTLE_PVP_DUEL
@@ -35,7 +35,7 @@ local function configTable()
 						desc = L["Do not release if reincarnation or soulstone is up."],
 						disabled = function() return not E.db.sle.pvp.autorelease end,
 						get = function(info) return E.db.sle.pvp[info[#info]] end,
-						set = function(info, value) E.db.sle.pvp[info[#info]] = value; end
+						set = function(info, value) E.db.sle.pvp[info[#info]] = value end
 					},
 				},
 			},

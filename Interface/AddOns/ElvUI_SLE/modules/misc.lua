@@ -1,5 +1,5 @@
 local SLE, T, E, L, V, P, G = unpack(select(2, ...))
-local M = SLE:NewModule('Misc', 'AceHook-3.0', 'AceEvent-3.0')
+local M = SLE.Misc
 
 local _G = _G
 
@@ -96,11 +96,11 @@ function M:Initialize()
 	--Viewport
 	function CinematicFrame_CancelCinematic()
 		if ( CinematicFrame.isRealCinematic ) then
-			StopCinematic();
+			StopCinematic()
 		elseif ( CanCancelScene() ) then
-			CancelScene();
+			CancelScene()
 		else
-			VehicleExit();
+			VehicleExit()
 		end
 	end
 

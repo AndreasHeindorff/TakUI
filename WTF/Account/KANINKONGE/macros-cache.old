@@ -5,6 +5,10 @@ END
 VER 3 0000000000000096 "Ankh" "INV_MISC_QUESTIONMARK"
 #showtooltip reincarnation
 END
+VER 3 00000000000000D7 "asd" "INV_MISC_QUESTIONMARK"
+/tar mothbane
+/cast frost shock
+END
 VER 3 00000000000000CA "asd" "136043"
 /cancelaura Atonement
 /cancelaura Rejuvenation
@@ -13,10 +17,6 @@ VER 3 00000000000000CA "asd" "136043"
 /cancelaura Glimmer of Light
 /cancelaura Concentrated Mending
 /cancelaura Bracing Chill
-END
-VER 3 00000000000000D7 "asd" "INV_MISC_QUESTIONMARK"
-/tar mothbane
-/cast frost shock
 END
 VER 3 00000000000000CD "asdf" "136103"
 /script TradeSkillFrame.DetailsFrame:Create();
@@ -93,14 +93,14 @@ END
 VER 3 000000000000005C "Focus Kick" "INV_MISC_QUESTIONMARK"
 /cast [@focus] Wind Shear
 END
-VER 3 000000000000006C "FS mo" "INV_MISC_QUESTIONMARK"
-#showtooltip Blessing of Freedom
-/cast [@mouseover] Blessing of Freedom
-END
 VER 3 00000000000000E3 "fs mo" "INV_MISC_QUESTIONMARK"
 #showtooltip Flame Shock
 /cast [nomod] flame shock
 /cast [mod:alt, @mouseover] flame shock 
+END
+VER 3 000000000000006C "FS mo" "INV_MISC_QUESTIONMARK"
+#showtooltip Blessing of Freedom
+/cast [@mouseover] Blessing of Freedom
 END
 VER 3 00000000000000B9 "healing rain cur" "INV_MISC_QUESTIONMARK"
 #showtooltip Healing Rain
@@ -166,6 +166,11 @@ VER 3 00000000000000D1 "OK" "236681"
 END
 VER 3 00000000000000A9 "Rematch" "SPELL_MISC_PETHEAL"
 /Rematch
+END
+VER 3 00000000000000E6 "RocketJump" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast Rocket Jump
+/use Prismatic Bauble
 END
 VER 3 00000000000000DA "ShamanMount" "136103"
 /cast [flyable] Iron Skyreaver

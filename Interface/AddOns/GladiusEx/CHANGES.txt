@@ -1,18 +1,23 @@
-lightweight tag ad4d58be35d661c19cd842caf138a8ba0d3eefd6 1.9
+lightweight tag 3521d5b3aaafaeed5a3db1bd4187decb9f26c788 1.10
 Author:	vendethiel <vendethiel@hotmail.fr>
-Date:	Thu Feb 25 11:28:48 2021 +0100
+Date:	Sun Apr 11 18:44:57 2021 +0200
 
-commit ad4d58be35d661c19cd842caf138a8ba0d3eefd6
+commit 3521d5b3aaafaeed5a3db1bd4187decb9f26c788
 Author: vendethiel <vendethiel@hotmail.fr>
-Date:   Thu Feb 25 11:28:48 2021 +0100
+Date:   Sun Apr 11 18:44:57 2021 +0200
 
-    Classicon updates + kick reduction fixed
+    bump toc
 
-commit cc78a9f72a8492c100c3a19400521f43d71819e3
+commit 5678de30664609b664f1469757cbd4c5ac64fdd4
 Author: vendethiel <vendethiel@hotmail.fr>
-Date:   Sun Feb 21 21:00:22 2021 +0100
+Date:   Sun Apr 11 15:01:34 2021 +0200
 
-    Covenant refactor, more test spells, attempted #34
+    DR, Options, Tags, Classicon
     
-    You now see trinkets and covenant spells while in test mode
+    DR: Switched to DRList instead of self-maintained DRData.
+    Cooldowns: pet cooldowns should be detected.
+    Tags: Added unit, index0, index1 tags.
+    Options: Can now disable glow. Added internal option to disable duration
+    display, but not available as an option to the user (yet).
+    Classicon: Cleanup up the default icon list.
 

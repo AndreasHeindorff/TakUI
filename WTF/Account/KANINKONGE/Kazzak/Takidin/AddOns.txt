@@ -90,3 +90,5 @@ AAP-Shadowlands: disabled
 BetterWardrobe: disabled
 BetterWardrobe_Tooltips: disabled
 BigWigs_CastleNathria: enabled
+Tukui: disabled
+ElvUI_BenikUI: enabled
