@@ -1,5 +1,6 @@
-local E, L, V, P, G = unpack(select(2, ...)); --Import: Engine, Locales, PrivateDB, ProfileDB, GlobalDB
+local E, L, V, P, G = unpack(select(2, ...)) --Import: Engine, Locales, PrivateDB, ProfileDB, GlobalDB
 local NP = E:GetModule('NamePlates')
+local UF = E:GetModule('UnitFrames')
 local LSM = E.Libs.LSM
 
 local unpack = unpack
@@ -10,7 +11,7 @@ local UnitReaction = UnitReaction
 local UnitIsConnected = UnitIsConnected
 local CreateFrame = CreateFrame
 local UnitPowerType = UnitPowerType
-local ALTERNATE_POWER_INDEX = Enum.PowerType.Alternate or 10
+local POWERTYPE_ALTERNATE = Enum.PowerType.Alternate or 10
 
 function NP:Power_UpdateColor(_, unit)
 	if self.unit ~= unit then return end
@@ -30,7 +31,7 @@ function NP:Power_UpdateColor(_, unit)
 	elseif element.colorTapping and not UnitPlayerControlled(unit) and UnitIsTapDenied(unit) then
 		t = self.colors.tapped
 	elseif element.colorPower then
-		if element.displayType ~= ALTERNATE_POWER_INDEX then
+		if element.displayType ~= POWERTYPE_ALTERNATE then
 			t = NP.db.colors.power[ptoken or ptype]
 			if not t then
 				if element.GetAlternativeColor then
@@ -56,8 +57,7 @@ function NP:Power_UpdateColor(_, unit)
 		t = NP.db.colors.selection[Selection]
 	elseif element.colorReaction and UnitReaction(unit, 'player') then
 		local reaction = UnitReaction(unit, 'player')
-		if reaction <= 3 then reaction = 'bad' elseif reaction == 4 then reaction = 'neutral' else reaction = 'good' end
-		t = NP.db.colors.reactions[reaction]
+		t = NP.db.colors.reactions[reaction == 4 and 'neutral' or reaction <= 3 and 'bad' or 'good']
 	elseif element.colorSmooth then
 		local adjust = 0 - (element.min or 0)
 		r, g, b = self:ColorGradient((element.cur or 1) + adjust, (element.max or 1) + adjust, unpack(element.smoothGradient or self.colors.smooth))
@@ -102,13 +102,7 @@ function NP:Construct_Power(nameplate)
 	local Power = CreateFrame('StatusBar', nameplate:GetName()..'Power', nameplate)
 	Power:SetFrameStrata(nameplate:GetFrameStrata())
 	Power:SetFrameLevel(5)
-	Power:CreateBackdrop('Transparent', nil, nil, nil, nil, true)
-
-	local clipFrame = CreateFrame('Frame', nil, Power)
-	clipFrame:SetClipsChildren(true)
-	clipFrame:SetAllPoints()
-	clipFrame:EnableMouse(false)
-	Power.ClipFrame = clipFrame
+	Power:CreateBackdrop('Transparent', nil, nil, nil, nil, true, true)
 
 	NP.StatusBars[Power] = true
 
@@ -118,6 +112,8 @@ function NP:Construct_Power(nameplate)
 
 	Power.PostUpdate = NP.Power_PostUpdate
 	Power.UpdateColor = NP.Power_UpdateColor
+
+	UF:Construct_ClipFrame(nameplate, Power)
 
 	return Power
 end

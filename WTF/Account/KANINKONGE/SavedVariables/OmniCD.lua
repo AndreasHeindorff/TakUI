@@ -9,9 +9,8 @@ OmniCDDB = {
 	},
 	["global"] = {
 		["disableElvMsg"] = true,
-		["oodChk"] = 210617,
-		["oodVer"] = 2602,
-		["oodMsg"] = "|cfff16436 A new update is available. (Major update)",
+		["oodChk"] = 210802,
+		["oodVer"] = 2620,
 	},
 	["namespaces"] = {
 		["LibDualSpec-1.0"] = {
@@ -42,8 +41,8 @@ OmniCDDB = {
 							["x"] = 10.66645330190141,
 						},
 						["interruptBar"] = {
-							["y"] = 381.8666325105551,
-							["x"] = 827.2003672523715,
+							["y"] = 380.2662852495814,
+							["x"] = 848.000801783819,
 						},
 					},
 				},

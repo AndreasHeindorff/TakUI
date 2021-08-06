@@ -5,6 +5,10 @@ END
 VER 3 0000000000000096 "Ankh" "INV_MISC_QUESTIONMARK"
 #showtooltip reincarnation
 END
+VER 3 00000000000000D7 "asd" "INV_MISC_QUESTIONMARK"
+/tar mothbane
+/cast frost shock
+END
 VER 3 00000000000000CA "asd" "136043"
 /cancelaura Atonement
 /cancelaura Rejuvenation
@@ -13,10 +17,6 @@ VER 3 00000000000000CA "asd" "136043"
 /cancelaura Glimmer of Light
 /cancelaura Concentrated Mending
 /cancelaura Bracing Chill
-END
-VER 3 00000000000000D7 "asd" "INV_MISC_QUESTIONMARK"
-/tar mothbane
-/cast frost shock
 END
 VER 3 00000000000000CD "asdf" "136103"
 /script TradeSkillFrame.DetailsFrame:Create();
@@ -93,6 +93,9 @@ END
 VER 3 000000000000005C "Focus Kick" "INV_MISC_QUESTIONMARK"
 /cast [@focus] Wind Shear
 END
+VER 3 00000000000000E7 "focus purge" "INV_MISC_QUESTIONMARK"
+/cast [@focus] Purge
+END
 VER 3 000000000000006C "FS mo" "INV_MISC_QUESTIONMARK"
 #showtooltip Blessing of Freedom
 /cast [@mouseover] Blessing of Freedom
@@ -102,6 +105,10 @@ VER 3 00000000000000E3 "fs mo" "INV_MISC_QUESTIONMARK"
 /cast [nomod] flame shock
 /cast [mod:alt, @mouseover] flame shock 
 END
+VER 3 00000000000000E8 "ft mo" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@cursor] fae transfusion
+END
 VER 3 00000000000000B9 "healing rain cur" "INV_MISC_QUESTIONMARK"
 #showtooltip Healing Rain
 /cast [@cursor] Healing Rain
@@ -110,6 +117,7 @@ VER 3 00000000000000C7 "HS+Belt" "INV_MISC_QUESTIONMARK"
 #showtooltip
 /use healthstone
 /use 6
+/use Sinful Gladiator's Emblem
 END
 VER 3 00000000000000DB "hs+belt" "INV_MISC_QUESTIONMARK"
 #showtooltip healthstone

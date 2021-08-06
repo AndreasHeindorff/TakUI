@@ -3,6 +3,12 @@ local AddOn, Plugin = ...
 local oUF = Plugin.oUF or oUF
 local Noop = function() end
 local UnitFrames = T["UnitFrames"]
+local HealComm, CheckRange
+local myGUID = UnitGUID("player")
+
+if T.BCC then
+	HealComm = LibStub("LibHealComm-4.0")
+end
 
 -- Lib globals
 local strfind = strfind
@@ -22,26 +28,7 @@ local UnitPowerType = UnitPowerType
 UnitFrames.oUF = oUF
 UnitFrames.Units = {}
 UnitFrames.Headers = {}
-
-UnitFrames.HighlightBorder = {
-	bgFile = "Interface\\Buttons\\WHITE8x8",
-	insets = {top = -2, left = -2, bottom = -2, right = -2}
-}
-
 UnitFrames.AddClassFeatures = {}
-
-UnitFrames.NameplatesVariables = {
-	nameplateMaxAlpha = 1,
-	nameplateMinAlpha = 1,
-	nameplateSelectedAlpha = 1,
-	nameplateNotSelectedAlpha = 1,
-	nameplateMaxScale = 1,
-	nameplateMinScale = 1,
-	nameplateSelectedScale = 1,
-	nameplateSelfScale = 1,
-	nameplateSelfAlpha = 1,
-	nameplateOccludedAlphaMult = 1,
-}
 
 function UnitFrames:DisableBlizzard()
 	if not C.UnitFrames.Enable then
@@ -53,7 +40,7 @@ function UnitFrames:DisableBlizzard()
 		CompactRaidFrameManager:SetParent(T.Hider)
 		CompactRaidFrameManager:UnregisterAllEvents()
 		CompactRaidFrameManager:Hide()
-		
+
 		CompactRaidFrameContainer:SetParent(T.Hider)
 		CompactRaidFrameContainer:UnregisterAllEvents()
 		CompactRaidFrameContainer:Hide()
@@ -111,19 +98,23 @@ function UnitFrames:UTF8Sub(i, dots)
 	end
 end
 
-function UnitFrames:MouseOnPlayer()
+function UnitFrames:ShowWarMode()
 	local Status = self.Status
 	local MouseOver = GetMouseFocus()
+	local IsPvP = C_PvP.IsWarModeDesired and C_PvP.IsWarModeDesired or UnitIsPVP("player")
 
-	if (MouseOver == self) then
+	if (IsPvP) and (MouseOver == self) and (not InCombatLockdown()) then
 		Status:Show()
 
-		if (UnitIsPVP("player")) then
-			Status:SetText("PVP")
+		if self.RestingIndicator then
+			self.RestingIndicator:SetAlpha(0)
 		end
 	else
 		Status:Hide()
-		Status:SetText()
+
+		if self.RestingIndicator then
+			self.RestingIndicator:SetAlpha(1)
+		end
 	end
 end
 
@@ -152,7 +143,7 @@ end
 function UnitFrames:UpdateNameplateClassIcon()
 	if UnitIsPlayer(self.unit) then
 		local Class = select(2, UnitClass(self.unit))
-		
+
 		if Class then
 			local Left, Right, Top, Bottom = unpack(CLASS_ICON_TCOORDS[Class])
 
@@ -243,7 +234,7 @@ function UnitFrames:SetStatusCastBarColor(unit)
 	else
 		self:SetStatusBarColor(1, 1, 1)
 	end
-	
+
 	if C.NamePlates.ClassIcon and unit:find("nameplate") and self.Button and self.Button.Shadow then
 		self.Button.Shadow:SetBackdropBorderColor(self:GetStatusBarColor())
 	end
@@ -303,7 +294,7 @@ function UnitFrames:PostUpdateHealth(unit, min, max)
 		end
 	else
 		local IsRaid = string.match(self:GetParent():GetName(), "Button") or false
-		
+
 		if (IsRaid) and (min == max) then
 			self.Value:SetText("")
 		else
@@ -371,7 +362,7 @@ end
 function UnitFrames:PostCreateAura(button, unit)
 	-- Set "self.Buffs.isCancellable" to true to a buffs frame to be able to cancel click
 	local isCancellable = button:GetParent().isCancellable
-	local isAnimated = button:GetParent().isAnimated
+	local isAnimated = C.UnitFrames.FlashRemovableBuffs and button:GetParent().isAnimated
 
 	-- Right-click-cancel script
 	if isCancellable then
@@ -396,7 +387,7 @@ function UnitFrames:PostCreateAura(button, unit)
 	button.cd:ClearAllPoints()
 	button.cd:SetInside()
 	button.cd:SetHideCountdownNumbers(true)
-	
+
 	button.Remaining = button.cd:CreateFontString(nil, "OVERLAY")
 	button.Remaining:SetFont(C.Medias.Font, 12, "THINOUTLINE")
 	button.Remaining:SetPoint("CENTER", 1, 0)
@@ -416,8 +407,8 @@ function UnitFrames:PostCreateAura(button, unit)
 
 		button.Animation.FadeOut = button.Animation:CreateAnimation("Alpha")
 		button.Animation.FadeOut:SetFromAlpha(1)
-		button.Animation.FadeOut:SetToAlpha(.3)
-		button.Animation.FadeOut:SetDuration(.3)
+		button.Animation.FadeOut:SetToAlpha(.7)
+		button.Animation.FadeOut:SetDuration(.15)
 		button.Animation.FadeOut:SetSmoothing("IN_OUT")
 	end
 end
@@ -427,7 +418,7 @@ function UnitFrames:PostUpdateAura(unit, button, index, offset, filter, isDebuff
 
 	if button then
 		if(button.filter == "HARMFUL") then
-			if (not UnitIsFriend("player", unit) and not button.isPlayer) then
+			if C.UnitFrames.DesaturateDebuffs and (not UnitIsFriend("player", unit) and not button.isPlayer) then
 				button.icon:SetDesaturated(true)
 				button.Backdrop:SetBorderColor(unpack(C["General"].BorderColor))
 			else
@@ -436,15 +427,18 @@ function UnitFrames:PostUpdateAura(unit, button, index, offset, filter, isDebuff
 				button.Backdrop:SetBorderColor(color.r * 0.8, color.g * 0.8, color.b * 0.8)
 			end
 		else
-			-- These classes can purge, show them
 			if button.Animation then
 				if (IsStealable or DType == "Magic") and UnitIsEnemy("player", unit) then
 					if not button.Animation:IsPlaying() then
 						button.Animation:Play()
+
+						button.Backdrop:SetBorderColor(0.2, 0.6, 1)
 					end
 				else
 					if button.Animation:IsPlaying() then
 						button.Animation:Stop()
+
+						button.Backdrop:SetBorderColor(unpack(C["General"].BorderColor))
 					end
 				end
 			end
@@ -452,14 +446,14 @@ function UnitFrames:PostUpdateAura(unit, button, index, offset, filter, isDebuff
 
 		if button.Remaining then
 			local Size = button:GetSize()
-			
+
 			if (Duration and Duration > 0 and Size > 20) then
 				button.Remaining:Show()
-				
+
 				button:SetScript("OnUpdate", UnitFrames.SetAuraTimer)
 			else
 				button.Remaining:Hide()
-				
+
 				button:SetScript("OnUpdate", nil)
 			end
 		end
@@ -476,6 +470,12 @@ function UnitFrames:PostUpdateAura(unit, button, index, offset, filter, isDebuff
 		button.Duration = Duration
 		button.TimeLeft = ExpirationTime
 		button.Elapsed = GetTime()
+	end
+end
+
+function UnitFrames:DesaturateBuffs(unit, button)
+	if button.icon then
+		button.icon:SetDesaturated(not button.isPlayer)
 	end
 end
 
@@ -523,7 +523,7 @@ function UnitFrames:DisplayNameplatePowerAndCastBar(unit, cur, min, max)
 
 			PowerBar:SetAlpha(0)
 			PowerBar.IsHidden = true
-			
+
 			if CastBar then
 				CastBar:ClearAllPoints()
 				CastBar:SetSize(Health:GetWidth(), PowerBar:GetHeight())
@@ -536,7 +536,7 @@ function UnitFrames:DisplayNameplatePowerAndCastBar(unit, cur, min, max)
 			Health:SetPoint("TOPLEFT")
 			Health:SetPoint("TOPRIGHT")
 			Health:SetHeight(Nameplate:GetHeight() - PowerBar:GetHeight() - 1)
-			
+
 			if CastBar then
 				CastBar:ClearAllPoints()
 				CastBar:SetAllPoints(PowerBar)
@@ -564,15 +564,16 @@ function UnitFrames:RunesPostUpdate(runemap)
 end
 
 function UnitFrames:UpdateTotemTimer(elapsed)
-	self.Elapsed = (self.Elapsed) - elapsed
+	self.Elapsed = (self.Elapsed and self.Elapsed or 0) - elapsed
 
 	if self.Elapsed < 0 then
 		local TimeLeft = math.ceil(self.Duration - (GetTime() - self.Start))
 
 		if TimeLeft > -.5 then
-			self.Text:SetText(TimeLeft)
+			self:SetMinMaxValues(0, self.Duration)
+			self:SetValue(TimeLeft)
 		end
-		
+
 		self.Elapsed = 0.5
 	end
 end
@@ -594,14 +595,20 @@ function UnitFrames:UpdateTotemOverride(event, slot)
 
 	if (HaveTotem) then
 		Totem.Slot = slot
+		Totem.Duration = Duration
+		Totem.Start = Start
 		Totem:Show()
 
-		if Totem.Icon then
+		if (Totem.Icon) then
 			Totem.Icon:SetTexture(Icon)
 		end
 
 		if (Totem.Cooldown) then
 			Totem.Cooldown:SetCooldown(Start, Duration)
+		end
+
+		if Totem.SetValue then
+			Totem:SetScript("OnUpdate", UnitFrames.UpdateTotemTimer)
 		end
 
 		-- Workaround to allow right-click destroy totem
@@ -610,21 +617,26 @@ function UnitFrames:UpdateTotemOverride(event, slot)
 			local Cooldown = _G["TotemFrameTotem"..i.."IconCooldown"]
 
 			if BlizzardTotem:IsShown() then
-				local CancelButtonSlot = BlizzardTotem.slot
-				local CancelButton = _G["TotemFrameTotem"..CancelButtonSlot]
+				local Where = BlizzardTotem.slot
 
-				CancelButton:ClearAllPoints()
-				CancelButton:SetAllPoints(Bar[i])
-				CancelButton:SetAlpha(0)
+				BlizzardTotem:ClearAllPoints()
+				BlizzardTotem:SetAllPoints(Bar[Where])
+				BlizzardTotem:SetAlpha(0)
 
 				Cooldown:SetAlpha(0)
 			end
 		end
+
+		--Totem:SetScript("OnUpdate", UnitFrames.UpdateTotemTimer)
 	else
 		Totem:Hide()
 
 		if Totem.Icon then
 			Totem.Icon:SetTexture(nil)
+		end
+
+		if Totem.SetValue then
+			Totem:SetScript("OnUpdate", nil)
 		end
 	end
 
@@ -850,12 +862,12 @@ function UnitFrames:CreateUnits()
 		Pet:SetParent(T.PetHider)
 		Pet:SetPoint("BOTTOM", T.PetHider, "BOTTOM", 0, 176)
 		Pet:SetSize(130, 36)
-		
+
 		local Focus = oUF:Spawn("focus", "TukuiFocusFrame")
 		Focus:SetPoint("BOTTOM", T.PetHider, "BOTTOM", -279, 316)
 		Focus:SetParent(T.PetHider)
 		Focus:SetSize(164, 20)
-		
+
 		local FocusTarget = oUF:Spawn("focustarget", "TukuiFocusTargetFrame")
 		FocusTarget:SetPoint("BOTTOM", Focus, "TOP", 0, 62)
 		FocusTarget:SetParent(T.PetHider)
@@ -870,7 +882,7 @@ function UnitFrames:CreateUnits()
 
 		if C.Party.Enable then
 			local Party = oUF:SpawnHeader(UnitFrames:GetPartyFramesAttributes())
-		
+
 			Party:SetParent(T.PetHider)
 			Party:SetPoint("LEFT", T.PetHider, "LEFT", 28, 0)
 
@@ -903,7 +915,7 @@ function UnitFrames:CreateUnits()
 
 				Movers:RegisterFrame(Pet, "Raid Pets")
 			end
-			
+
 			local Raid40 = oUF:SpawnHeader(UnitFrames:GetBigRaidFramesAttributes())
 			Raid40:SetParent(T.PetHider)
 			Raid40:SetPoint("TOPLEFT", T.PetHider, "TOPLEFT", 30, -30)
@@ -924,7 +936,7 @@ function UnitFrames:CreateUnits()
 			Movers:RegisterFrame(Raid, "Raid")
 			Movers:RegisterFrame(Raid40, "Raid 26/40")
 		end
-		
+
 		if (C.UnitFrames.Arena) then
 			local Arena = {}
 
@@ -938,15 +950,17 @@ function UnitFrames:CreateUnits()
 				end
 				Arena[i]:SetSize(164, 20)
 
-				Movers:RegisterFrame(Arena[i], "Arena #"..i)
+				if i == 1 then
+					Movers:RegisterFrame(Arena[i], "Arena Frames")
+				end
 			end
 
 			self.Units.Arena = Arena
-			
+
 			SetCVar("showArenaEnemyFrames", 0)
 		end
 
-		
+
 		if (C.UnitFrames.Boss) then
 			local Boss = {}
 
@@ -960,7 +974,9 @@ function UnitFrames:CreateUnits()
 				end
 				Boss[i]:SetSize(164, 20)
 
-				Movers:RegisterFrame(Boss[i], "Boss #"..i)
+				if i == 1 then
+					Movers:RegisterFrame(Boss[i], "Boss Frames")
+				end
 			end
 
 			self.Units.Boss = Boss
@@ -975,11 +991,21 @@ function UnitFrames:CreateUnits()
 	end
 
 	if C.NamePlates.Enable then
-		local PersonalResource = ClassNameplateManaBarFrame
-		
-		-- No need for this bar, already included with oUF
-		PersonalResource:SetAlpha(0)
-		
+		if T.Retail then
+			local PersonalResource = ClassNameplateManaBarFrame
+
+			-- No need for this bar, already included with oUF
+			PersonalResource:SetAlpha(0)
+		end
+
+		-- Add threat colors (https://wowpedia.fandom.com/wiki/API_UnitThreatSituation)
+		oUF.colors.threat = {
+			[0] = C.NamePlates.AggroColor1,
+			[1] = C.NamePlates.AggroColor2,
+			[2] = C.NamePlates.AggroColor3,
+			[3] = C.NamePlates.AggroColor4,
+		}
+
 		oUF:SpawnNamePlates("Tukui", nil, UnitFrames.NameplatesVariables)
 	end
 end
@@ -989,26 +1015,58 @@ function UnitFrames:UpdateRaidDebuffIndicator()
 
 	if (ORD) then
 		local _, InstanceType = IsInInstance()
+
 		ORD:ResetDebuffData()
 
 		if (InstanceType == "party" or InstanceType == "raid") then
-			ORD:RegisterDebuffs(UnitFrames.DebuffsTracking.PvE.spells)
-		elseif (InstanceType == "pvp") then
-			if (T.MyClass == "PRIEST") or (T.MyClass == "PALADIN" and GetActiveSpecGroup() == 1) or (T.MyClass == "SHAMAN" and GetActiveSpecGroup() == 3) or (T.MyClass == "DRUID" and GetActiveSpecGroup() == 4) or (T.MyClass == "MONK" and GetActiveSpecGroup() == 2) then
-				ORD:RegisterDebuffs(UnitFrames.DebuffsTracking.PvP.spells)
-			else
-				ORD:RegisterDebuffs(UnitFrames.DebuffsTracking.CrowdControl.spells)
+			if C.Raid.DebuffWatchDefault then
+				ORD:RegisterDebuffs(UnitFrames.Debuffs.PvE.spells)
 			end
+
+			ORD:RegisterDebuffs(TukuiDatabase.Variables[T.MyRealm][T.MyName].Tracking.PvE)
 		else
-			ORD:RegisterDebuffs(UnitFrames.DebuffsTracking.PvP.spells) -- replace this one later with a new list
+			if C.Raid.DebuffWatchDefault then
+				ORD:RegisterDebuffs(UnitFrames.Debuffs.PvP.spells)
+			end
+
+			ORD:RegisterDebuffs(TukuiDatabase.Variables[T.MyRealm][T.MyName].Tracking.PvP)
 		end
 	end
 end
 
 function UnitFrames:Enable()
+	-- Enable HealComm lib
+	if T.BCC and C.UnitFrames.HealComm then
+		HealComm:PLAYER_LOGIN()
+	end
+	
+	-- Security for Nameplates
+	if IsAddOnLoaded("Plater") then
+		-- Force Tukui nameplates OFF if running plater, because causing issues
+		C.NamePlates.Enable = false
+	end
+
 	self.Backdrop = {
-		bgFile = C.Medias.Blank,
-		insets = {top = -1, left = -1, bottom = -1, right = -1},
+		bgFile = C.Medias.Blank, 
+		insets = {top = -1, left = -1, bottom = -1, right = -1}
+	}
+	
+	self.HighlightBorder = {
+		bgFile = "Interface\\Buttons\\WHITE8x8",
+		insets = {top = -2, left = -2, bottom = -2, right = -2}
+	}
+	
+	self.NameplatesVariables = {
+		nameplateMaxAlpha = 1,
+		nameplateMinAlpha = C.NamePlates.NotSelectedAlpha / 100,
+		nameplateSelectedAlpha = 1,
+		nameplateNotSelectedAlpha = C.NamePlates.NotSelectedAlpha / 100,
+		nameplateOccludedAlphaMult = 1,
+		nameplateMaxAlphaDistance = 0,
+		nameplateMaxScale = 1,
+		nameplateMinScale = 1,
+		nameplateSelectedScale = C.NamePlates.SelectedScale / 100,
+		nameplateMaxDistance = T.Retail and 61 or 41
 	}
 
 	oUF:RegisterStyle("Tukui", UnitFrames.Style)
@@ -1029,6 +1087,8 @@ function UnitFrames:Enable()
 			ORD.FilterDispellableDebuff = true
 			ORD.MatchBySpellName = false
 		end
+		
+		self.Tracking:Enable()
 	end
 	
 	-- Overwrite oUF Pet Battle frame visibility

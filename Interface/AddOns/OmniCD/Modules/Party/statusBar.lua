@@ -1,7 +1,7 @@
 local E, L, C = select(2, ...):unpack()
 
 local P = E["Party"]
-local date = date
+--local date = date
 local ceil = math.ceil
 
 local unusedStatusBars = {}
@@ -382,6 +382,18 @@ local function CastingBarFrame_UpdateInterruptibleState(self, notInterruptible)
 end
 
 function P.OmniCDCastingBarFrame_OnEvent(self, event, ...)
+	local statusBar = self.statusBar
+	if E.db.extraBars[statusBar.key].hideBar then
+		local isChannel = event == "UNIT_SPELLCAST_CHANNEL_START" or event == "UNIT_SPELLCAST_CHANNEL_UPDATE"
+		local startColor, startBGColor, startTextColor = CastingBarFrame_GetEffectiveStartColor(self, isChannel, notInterruptible);
+		if ( isChannel or event == "UNIT_SPELLCAST_START" or event == "UNIT_SPELLCAST_CAST_UPDATE" ) then
+			statusBar.Text:SetTextColor(startTextColor:GetRGB())
+		elseif ( event == "UNIT_SPELLCAST_STOP" or event == "UNIT_SPELLCAST_CHANNEL_STOP" or event == "UNIT_SPELLCAST_FAILED" ) then
+			P:SetExStatusBarColor(statusBar:GetParent(), statusBar.key)
+		end
+
+		return
+	end
 
 	if ( event == "UNIT_SPELLCAST_START" ) then
 		local text, texture, notInterruptible = self.name

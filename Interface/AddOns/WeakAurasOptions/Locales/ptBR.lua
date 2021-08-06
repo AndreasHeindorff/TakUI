@@ -100,6 +100,8 @@ local L = WeakAuras.L
 	L["Anchor Point"] = "Ponto da âncora"
 	L["Anchored To"] = "Ancorado a"
 	L["And "] = "E"
+	--[[Translation missing --]]
+	L["and"] = "and"
 	L["and aligned left"] = "e alinhado à esquerda"
 	L["and aligned right"] = "e alinhado à direita"
 	L["and rotated left"] = "e girado para a esquerda"
@@ -141,6 +143,8 @@ Off Screen]=] ] = "Aura está fora da tela"
 	L["Auto-cloning enabled"] = "Auto-cloning enabled"
 	L["Automatic"] = "Automático"
 	L["Automatic length"] = "Comprimento Automático"
+	--[[Translation missing --]]
+	L["Available Voices are system specific"] = "Available Voices are system specific"
 	--[[Translation missing --]]
 	L["Backdrop Color"] = "Backdrop Color"
 	--[[Translation missing --]]
@@ -415,6 +419,8 @@ Off Screen]=] ] = "Aura está fora da tela"
 	L["False"] = "False"
 	--[[Translation missing --]]
 	L["Fetch Affected/Unaffected Names"] = "Fetch Affected/Unaffected Names"
+	--[[Translation missing --]]
+	L["Filter by Arena Spec"] = "Filter by Arena Spec"
 	--[[Translation missing --]]
 	L["Filter by Class"] = "Filter by Class"
 	--[[Translation missing --]]
@@ -1010,6 +1016,8 @@ Supports multiple entries, separated by commas
 	--[[Translation missing --]]
 	L["Spark Texture"] = "Spark Texture"
 	--[[Translation missing --]]
+	L["Specialization"] = "Specialization"
+	--[[Translation missing --]]
 	L["Specific Unit"] = "Specific Unit"
 	L["Spell ID"] = "ID da magia"
 	L["Stack Count"] = "Contagem do Monte"
@@ -1202,6 +1210,8 @@ Supports multiple entries, separated by commas
 	L["Vertical Bar"] = "Vertical Bar"
 	--[[Translation missing --]]
 	L["View"] = "View"
+	--[[Translation missing --]]
+	L["Voice"] = "Voice"
 	--[[Translation missing --]]
 	L["Whole Area"] = "Whole Area"
 	--[[Translation missing --]]

@@ -72,7 +72,7 @@ function ActionBars:SkinButton(button)
 			Normal:SetPoint("TOPLEFT")
 			Normal:SetPoint("BOTTOMRIGHT")
 
-			if (Button:GetChecked()) then
+			if (Button:GetChecked() and Button.UpdateState) then
 				Button:UpdateState(Button)
 			end
 		end
@@ -86,11 +86,11 @@ function ActionBars:SkinButton(button)
 		end
 		
 		if C.ActionBars.HotKey then
-			if Button.UpdateHotkeys then
-				hooksecurefunc(Button, "UpdateHotkeys", ActionBars.BetterHotKeyText)
+			if T.Retail and Button.UpdateHotkeys then
+				hooksecurefunc(Button, "UpdateHotkeys", ActionBars.SetHotKeyText)
 			end
 
-			ActionBars.BetterHotKeyText(Button)
+			ActionBars.SetHotKeyText(Button)
 		end
 		
 		Button:StyleButton()
@@ -183,7 +183,7 @@ function ActionBars:SkinPetAndShiftButton(Normal, Button, Icon, Name, Pet)
 	end
 	
 	if C.ActionBars.HotKey then
-		ActionBars.BetterHotKeyText(Button)
+		ActionBars.SetHotKeyText(Button)
 	end
 
 	Button:StyleButton()

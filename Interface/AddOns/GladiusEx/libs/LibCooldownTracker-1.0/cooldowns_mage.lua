@@ -49,7 +49,6 @@ LCT_SpellData[45438] = {
 LCT_SpellData[55342] = {
 	class = "MAGE",
 	offensive = true,
-	talent = true,
 	cooldown = 120
 }
 -- Time Warp
@@ -205,6 +204,13 @@ LCT_SpellData[205032] = {
 	talent = true,
 	cooldown = 40
 }
+-- Arcanosphere
+LCT_SpellData[353128] = {
+	class = "MAGE",
+	specID = { SPEC_MAGE_ARCANE },
+	talent = true,
+	cooldown = 45
+}
 
 -- Mage/Fire
 -- Combustion
@@ -274,6 +280,13 @@ LCT_SpellData[257541] = {
 	talent = true,
 	cooldown = 30,
 	charges = 3,
+}
+-- Ring of Fire
+LCT_SpellData[353082] = {
+	class = "MAGE",
+	specID = { SPEC_MAGE_FIRE },
+	talent = true,
+	cooldown = 30,
 }
 
 -- Mage/Frost
@@ -367,6 +380,13 @@ LCT_SpellData[257537] = {
 	talent = true,
 	offensive = true,
 	cooldown = 45,
+}
+-- Ice Wall
+LCT_SpellData[352278] = {
+	class = "MAGE",
+	specID = { SPEC_MAGE_FROST },
+	talent = true,
+	cooldown = 90,
 }
 
 -- Mage/Pet

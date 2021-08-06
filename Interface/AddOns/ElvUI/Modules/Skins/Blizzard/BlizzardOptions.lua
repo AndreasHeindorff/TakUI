@@ -1,4 +1,4 @@
-local E, L, V, P, G = unpack(select(2, ...)); --Import: Engine, Locales, PrivateDB, ProfileDB, GlobalDB
+local E, L, V, P, G = unpack(select(2, ...)) --Import: Engine, Locales, PrivateDB, ProfileDB, GlobalDB
 local S = E:GetModule('Skins')
 
 local _G = _G
@@ -24,13 +24,41 @@ local function HandlePushToTalkButton(button)
 	button.MiddleMiddle:Hide()
 	button:SetHighlightTexture('')
 
-	button:CreateBackdrop(nil, true)
+	button:SetTemplate(nil, true)
 	button:HookScript('OnEnter', S.SetModifiedBackdrop)
 	button:HookScript('OnLeave', S.SetOriginalBackdrop)
 end
 
 function S.AudioOptionsVoicePanel_InitializeCommunicationModeUI(btn)
 	HandlePushToTalkButton(btn.PushToTalkKeybindButton)
+end
+
+local function reskinPickerOptions(self)
+	local scrollTarget = self.ScrollBox.ScrollTarget
+	if scrollTarget then
+		for i = 1, scrollTarget:GetNumChildren() do
+			local child = select(i, scrollTarget:GetChildren())
+			if not child.IsSkinned then
+				child.UnCheck:SetTexture(nil)
+				child.Highlight:SetColorTexture(1, .82, 0, 0.4)
+
+				local check = child.Check
+				check:SetColorTexture(1, .82, 0, 0.8)
+				check:SetSize(10, 10)
+				check:SetPoint('LEFT', 2, 0)
+				check:CreateBackdrop('Transparent')
+
+				child.IsSkinned = true
+			end
+		end
+	end
+end
+
+local function HandleVoicePicker(voicePicker)
+	local customFrame = voicePicker:GetChildren()
+	customFrame:StripTextures()
+	customFrame:CreateBackdrop('Transparent')
+	voicePicker:HookScript('OnShow', reskinPickerOptions)
 end
 
 function S:BlizzardOptions()
@@ -63,7 +91,7 @@ function S:BlizzardOptions()
 	end)
 
 	_G.RolePollPopup:StripTextures()
-	_G.RolePollPopup:CreateBackdrop('Transparent')
+	_G.RolePollPopup:SetTemplate('Transparent')
 	S:HandleCloseButton(_G.RolePollPopupCloseButton)
 
 	_G.InterfaceOptionsFrame:SetClampedToScreen(true)
@@ -157,7 +185,7 @@ function S:BlizzardOptions()
 
 	for _, Frame in pairs(ChatFrames) do
 		Frame:StripTextures()
-		Frame:CreateBackdrop('Transparent')
+		Frame:SetTemplate('Transparent')
 	end
 
 	for _, CheckBox in pairs(ChatCheckBoxs) do
@@ -233,6 +261,50 @@ function S:BlizzardOptions()
 		end
 	end)
 
+	--9.1 -- Text To Speech
+	local TextToSpeechCheckBoxes = {
+		'PlayActivitySoundWhenNotFocusedCheckButton',
+		'PlaySoundSeparatingChatLinesCheckButton',
+		'AddCharacterNameToSpeechCheckButton',
+		'NarrateMyMessagesCheckButton',
+		'UseAlternateVoiceForSystemMessagesCheckButton',
+	}
+
+	for _, checkbox in pairs(TextToSpeechCheckBoxes) do
+		S:HandleCheckBox(_G.TextToSpeechFramePanelContainer[checkbox])
+	end
+
+	S:HandleButton(_G.TextToSpeechFramePlaySampleButton)
+	S:HandleButton(_G.TextToSpeechFramePlaySampleAlternateButton)
+	S:HandleButton(_G.TextToSpeechDefaultButton)
+
+	S:HandleDropDownBox(_G.TextToSpeechFrameTtsVoiceDropdown)
+	S:HandleDropDownBox(_G.TextToSpeechFrameTtsVoiceAlternateDropdown)
+
+	S:HandleSliderFrame(_G.TextToSpeechFrameAdjustRateSlider)
+	S:HandleSliderFrame(_G.TextToSpeechFrameAdjustVolumeSlider)
+
+	hooksecurefunc('TextToSpeechFrame_UpdateMessageCheckboxes', function(frame)
+		local checkBoxTable = frame.checkBoxTable
+		if checkBoxTable then
+			local checkBoxNameString = frame:GetName()..'CheckBox'
+			local checkBoxName, checkBox
+			for index, value in ipairs(checkBoxTable) do
+				checkBoxName = checkBoxNameString..index
+				checkBox = _G[checkBoxName]
+				if checkBox and not checkBox.styled then
+					S:HandleCheckBox(checkBox)
+					checkBox.styled = true
+				end
+			end
+		end
+	end)
+
+	HandleVoicePicker(_G.TextToSpeechFrameTtsVoicePicker)
+	HandleVoicePicker(_G.TextToSpeechFrameTtsVoiceAlternatePicker)
+
+	_G.ChatConfigTextToSpeechChannelSettingsLeft:StripTextures()
+
 	local OptionsFrames = { _G.InterfaceOptionsFrame, _G.InterfaceOptionsFrameCategories, _G.InterfaceOptionsFramePanelContainer, _G.InterfaceOptionsFrameAddOns, _G.VideoOptionsFrame, _G.VideoOptionsFrameCategoryFrame, _G.VideoOptionsFramePanelContainer, _G.Display_, _G.Graphics_, _G.RaidGraphics_ }
 	local OptionsFrameBackdrops = { _G.AudioOptionsSoundPanelHardware, _G.AudioOptionsSoundPanelVolume, _G.AudioOptionsSoundPanelPlayback, _G.AudioOptionsVoicePanelTalking, _G.AudioOptionsVoicePanelListening, _G.AudioOptionsVoicePanelBinding }
 	local OptionsButtons = { _G.GraphicsButton, _G.RaidButton }
@@ -240,6 +312,7 @@ function S:BlizzardOptions()
 	local InterfaceOptions = {
 		_G.InterfaceOptionsFrame,
 		_G.InterfaceOptionsControlsPanel,
+		_G.InterfaceOptionsColorblindPanel,
 		_G.InterfaceOptionsCombatPanel,
 		_G.InterfaceOptionsCombatPanelEnemyCastBars,
 		_G.InterfaceOptionsCombatTextPanel,
@@ -280,7 +353,7 @@ function S:BlizzardOptions()
 
 	for _, Frame in pairs(OptionsFrames) do
 		Frame:StripTextures()
-		Frame:CreateBackdrop('Transparent')
+		Frame:SetTemplate('Transparent')
 	end
 
 	local InterfaceOptionsFrame = _G.InterfaceOptionsFrame
@@ -296,7 +369,7 @@ function S:BlizzardOptions()
 
 	for _, Frame in pairs(OptionsFrameBackdrops) do
 		Frame:StripTextures()
-		Frame:CreateBackdrop('Transparent')
+		Frame:SetTemplate('Transparent')
 	end
 
 	for _, Tab in pairs(OptionsButtons) do
@@ -322,10 +395,25 @@ function S:BlizzardOptions()
 		end
 	end
 
-	_G.InterfaceOptionsFrameTab1:Point('BOTTOMLEFT', _G.InterfaceOptionsFrameCategories, 'TOPLEFT', 6, 1)
-	_G.InterfaceOptionsFrameTab1:StripTextures()
-	_G.InterfaceOptionsFrameTab2:Point('TOPLEFT', _G.InterfaceOptionsFrameTab1, 'TOPRIGHT', 1, 0)
-	_G.InterfaceOptionsFrameTab2:StripTextures()
+	-- System options buttons
+	_G.VideoOptionsFrameDefaults:ClearAllPoints()
+	_G.VideoOptionsFrameDefaults:Point('TOPLEFT', _G.VideoOptionsFrameCategoryFrame, 'BOTTOMLEFT', 0, -5)
+	_G.VideoOptionsFrameCancel:ClearAllPoints()
+	_G.VideoOptionsFrameCancel:Point('RIGHT', _G.VideoOptionsFrameApply, 'LEFT', -4, 0)
+	_G.VideoOptionsFrameOkay:ClearAllPoints()
+	_G.VideoOptionsFrameOkay:Point('RIGHT', _G.VideoOptionsFrameCancel, 'LEFT', -4, 0)
+
+	-- Interface options buttons
+	_G.InterfaceOptionsFrameTab1:ClearAllPoints()
+	_G.InterfaceOptionsFrameTab1:Point('BOTTOMLEFT', _G.InterfaceOptionsFrameCategories, 'TOPLEFT', 0, 1)
+	_G.InterfaceOptionsFrameTab2:ClearAllPoints()
+	_G.InterfaceOptionsFrameTab2:Point('TOPLEFT', _G.InterfaceOptionsFrameTab1, 'TOPRIGHT', 3, 0)
+	_G.InterfaceOptionsFrameDefaults:ClearAllPoints()
+	_G.InterfaceOptionsFrameDefaults:Point('TOPLEFT', _G.InterfaceOptionsFrameCategories, 'BOTTOMLEFT', 0, -5)
+	_G.InterfaceOptionsFrameOkay:ClearAllPoints()
+	_G.InterfaceOptionsFrameOkay:Point('RIGHT', _G.InterfaceOptionsFrameCancel, 'LEFT', -4, 0)
+	_G.InterfaceOptionsFrameCancel:ClearAllPoints()
+	_G.InterfaceOptionsFrameCancel:Point('TOPRIGHT', _G.InterfaceOptionsFramePanelContainer, 'BOTTOMRIGHT', 0, -6)
 	_G.InterfaceOptionsSocialPanel.EnableTwitter.Logo:SetAtlas('WoWShare-TwitterLogo')
 
 	do -- plus minus buttons in addons category
@@ -347,7 +435,7 @@ function S:BlizzardOptions()
 	local newProfileDialog = _G.CompactUnitFrameProfilesNewProfileDialog
 	if newProfileDialog then
 		newProfileDialog:StripTextures()
-		newProfileDialog:CreateBackdrop('Transparent')
+		newProfileDialog:SetTemplate('Transparent')
 
 		S:HandleDropDownBox(_G.CompactUnitFrameProfilesNewProfileDialogBaseProfileSelector)
 		S:HandleButton(_G.CompactUnitFrameProfilesNewProfileDialogCreateButton)
@@ -363,7 +451,7 @@ function S:BlizzardOptions()
 	local deleteProfileDialog = _G.CompactUnitFrameProfilesDeleteProfileDialog
 	if deleteProfileDialog then
 		deleteProfileDialog:StripTextures()
-		deleteProfileDialog:CreateBackdrop('Transparent')
+		deleteProfileDialog:SetTemplate('Transparent')
 
 		S:HandleButton(_G.CompactUnitFrameProfilesDeleteProfileDialogDeleteButton)
 		S:HandleButton(_G.CompactUnitFrameProfilesDeleteProfileDialogCancelButton)
@@ -389,7 +477,7 @@ function S:BlizzardOptions()
 
 	--What's New
 	local SplashFrame = _G.SplashFrame
-	SplashFrame:CreateBackdrop('Transparent')
+	SplashFrame:SetTemplate('Transparent')
 	SplashFrame.Header:FontTemplate(nil, 22)
 	S:HandleButton(SplashFrame.BottomCloseButton)
 	S:HandleCloseButton(SplashFrame.TopCloseButton)

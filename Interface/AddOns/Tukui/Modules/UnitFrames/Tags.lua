@@ -7,20 +7,36 @@ local CHAT_FLAG_AFK = CHAT_FLAG_AFK
 
 UnitFrames.ShortNameLength = 10
 
-oUF.Tags.Events["Tukui:GetRaidNameColor"] = "RAID_ROSTER_UPDATE GROUP_ROSTER_UPDATE"
-oUF.Tags.Methods["Tukui:GetRaidNameColor"] = function(unit)
-	local Role = UnitGroupRolesAssigned(unit)
-	local R, G, B
+if T.Retail then
+	oUF.Tags.Events["Tukui:GetRaidNameColor"] = "RAID_ROSTER_UPDATE GROUP_ROSTER_UPDATE"
+	oUF.Tags.Methods["Tukui:GetRaidNameColor"] = function(unit)
+		local Role = UnitGroupRolesAssigned(unit)
+		local R, G, B
 
-	if Role == "TANK" then
-		R, G, B = 0.4, 0.7, 1 -- Blue for tanks
-	elseif Role == "HEALER" then
-		R, G, B = 0, 1, 0 -- Green for healers
-	else
-		R, G, B = 1, 1, 1 -- White for DPS or unknown role
+		if Role == "TANK" then
+			R, G, B = 0.4, 0.7, 1 -- Blue for tanks
+		elseif Role == "HEALER" then
+			R, G, B = 0, 1, 0 -- Green for healers
+		else
+			R, G, B = 1, 1, 1 -- White for DPS or unknown role
+		end
+
+		return string.format("|cff%02x%02x%02x", R * 255, G * 255, B * 255)
 	end
+	
+	oUF.Tags.Events["Tukui:Role"] = "PLAYER_ROLES_ASSIGNED GROUP_ROSTER_UPDATE"
+	oUF.Tags.Methods["Tukui:Role"] = function(unit)
+		local Role = UnitGroupRolesAssigned(unit)
+		local String = ""
 
-	return string.format("|cff%02x%02x%02x", R * 255, G * 255, B * 255)
+		if Role == "TANK" then
+			String = "|cff0099CC(" .. TANK .. ")|r"
+		elseif Role == "HEALER" then
+			String = "|cff00FF00(" .. HEALER .. ")|r"
+		end
+
+		return String
+	end
 end
 
 oUF.Tags.Events["Tukui:GetNameColor"] = "UNIT_POWER_UPDATE"
@@ -53,28 +69,10 @@ end
 
 oUF.Tags.Events["Tukui:DiffColor"] = "UNIT_LEVEL PLAYER_LEVEL_UP"
 oUF.Tags.Methods["Tukui:DiffColor"] = function(unit)
-	local r, g, b
 	local Level = UnitLevel(unit)
+	local Color = Level and GetQuestDifficultyColor(Level) or {r = 1, g = 1, b = 1}
 
-	if (Level < 1) then
-		r, g, b = 0.69, 0.31, 0.31
-	else
-		local DiffColor = UnitLevel(unit) - UnitLevel("player")
-
-		if (DiffColor >= 5) then
-			r, g, b = 0.69, 0.31, 0.31
-		elseif (DiffColor >= 3) then
-			r, g, b = 0.71, 0.43, 0.27
-		elseif (DiffColor >= -2) then
-			r, g, b = 0.84, 0.75, 0.65
-		--elseif (-DiffColor <= GetQuestGreenRange()) then
-			--r, g, b = 0.33, 0.59, 0.33
-		else
-			r, g, b = 0.55, 0.57, 0.61
-		end
-	end
-
-	return string.format("|cff%02x%02x%02x", r * 255, g * 255, b * 255)
+	return string.format("|cff%02x%02x%02x", Color.r * 255, Color.g * 255, Color.b * 255)
 end
 
 oUF.Tags.Events["Tukui:NameShort"] = "UNIT_NAME_UPDATE PARTY_LEADER_CHANGED GROUP_ROSTER_UPDATE"
@@ -135,20 +133,6 @@ oUF.Tags.Methods["Tukui:Classification"] = function(unit)
 	elseif(C == "minus") then
 		return "|cff888888- |r"
 	end
-end
-
-oUF.Tags.Events["Tukui:Role"] = "PLAYER_ROLES_ASSIGNED GROUP_ROSTER_UPDATE"
-oUF.Tags.Methods["Tukui:Role"] = function(unit)
-	local Role = UnitGroupRolesAssigned(unit)
-	local String = ""
-
-	if Role == "TANK" then
-		String = "|cff0099CC(" .. TANK .. ")|r"
-	elseif Role == "HEALER" then
-		String = "|cff00FF00(" .. HEALER .. ")|r"
-	end
-
-	return String
 end
 
 UnitFrames.Tags = oUF.Tags

@@ -12,7 +12,7 @@ local function GetLocalization()
 	localization = localization:gsub("enUS", ENUS):gsub("deDE", DEDE)
 	localization = localization:gsub("esES", ESES):gsub("esMX", ESMX)
 	localization = localization:gsub("frFR", FRFR):gsub("koKR", KOKR)
-	localization = localization:gsub("ruRU", RURU):gsub("zhCN", "")--ZHCN)
+	localization = localization:gsub("ruRU", RURU):gsub("zhCN", ZHCN)
 	localization = localization:gsub("zhTW", ZHTW)
 	localization = localization:gsub("itIT", LFG_LIST_LANGUAGE_ITIT)
 	localization = localization:gsub("ptBR", LFG_LIST_LANGUAGE_PTBR)
@@ -62,10 +62,20 @@ local getField = function(info) local label = info[#info] return fields[label] o
 local COPY_URL =  L["Press Ctrl+C to copy URL"]
 
 local isFound
-local changelog = E.changelog:gsub("^[ \t\n]*", E.HEX_C.PERFORMANCE_BLUE):gsub("v(%d[^\n%s]+)",function(ver)
+local changelog = E.changelog:gsub("^[ \t\n]*", E.HEX_C[WOW_PROJECT_ID]):gsub("v([%d%.]+)([^\n]*).-\n\n", function(ver, xpac)
+	if E.isBCC then
+		local version = ver:gsub("[^%d]", "")
+		version = tonumber(version)
+		if xpac ~= "" and xpac ~= "-bcc" or (version and version < 2600) then
+			return ""
+		end
+	elseif xpac ~= "" and xpac ~= "-sl" then
+		return ""
+	end
+end):gsub("\n\nv([%d%.]+)",function(ver)
 	if not isFound and ver ~= E.Version then
 		isFound = true
-		return "|cff9d9d9dv"..ver
+		return "|cff9d9d9d\n\nv"..ver
 	end
 end)
 
@@ -110,24 +120,6 @@ local function GetOptions()
 							order = 12,
 							type = "toggle",
 						},
-						--[[ opt scale
-						-- slider fret. parent frame or toggle or auto adjust to 0.8 if UI < 0.65
-						optionScale = {
-							name = "Option Scale",
-							order = 13,
-							type = "range",
-							min = 0.5, max = 1.5, step = 0.1,
-							set = function(info, value)
-								E.DB.profile.optionScale = value
-
-								local f = E.Libs.ACD.OpenFrames.OmniCD.frame
-								if f then
-									f:SetScale(value)
-									-- TODO: update dackdrop
-								end
-							end,
-						},
-						--]]
 						pd3 = {
 							name = "\n", order = 14, type = "description",
 						},
@@ -138,6 +130,7 @@ local function GetOptions()
 							type = "description",
 						},
 						notice1 = {
+							hidden = E.isBCC,
 							name = "|cffff2020 " .. L["|cffff2020Important!|r Covenant and Soulbind Conduit data can only be acquired from group members with OmniCD installed."],
 							order = 16,
 							type = "description",
@@ -148,6 +141,7 @@ local function GetOptions()
 							type = "description",
 						},
 						notice3 = {
+							hidden = E.isBCC,
 							name = "|cffff2020 " .. L["None of the CD counter skins support modrate. Timers will fluctuate erratically whenever CD recovery rate is modulated."],
 							order = 18,
 							type = "description",
@@ -287,9 +281,12 @@ function E:SetupOptions()
 		fontSize = "large",
 	}
 
-	local LDS = LibStub("LibDualSpec-1.0")
-	LDS:EnhanceDatabase(self.DB, "OmniCDDB")
-	LDS:EnhanceOptions(self.optionsFrames.profiles, self.DB)
+	-- TODO: add support for profile sharing dual spec
+	if not self.isBCC then
+		local LDS = LibStub("LibDualSpec-1.0")
+		LDS:EnhanceDatabase(self.DB, "OmniCDDB")
+		LDS:EnhanceOptions(self.optionsFrames.profiles, self.DB)
+	end
 
 	self.SetupOptions = nil
 end

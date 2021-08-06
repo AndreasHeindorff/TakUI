@@ -77,12 +77,28 @@ T.Popups.Popup["TUKUI_SWITCH_PROFILE"] = {
 	Function1 = function(self)
 		local SelectedServer, SelectedNickname = strsplit("-", MySelectedProfile)
 
-		TukuiData[T.MyRealm][T.MyName] = TukuiData[SelectedServer][SelectedNickname]
-		TukuiSettingsPerCharacter[T.MyRealm][T.MyName] = TukuiSettingsPerCharacter[SelectedServer][SelectedNickname]
+		TukuiDatabase.Variables[T.MyRealm][T.MyName] = TukuiDatabase.Variables[SelectedServer][SelectedNickname]
+		TukuiDatabase.Settings[T.MyRealm][T.MyName] = TukuiDatabase.Settings[SelectedServer][SelectedNickname]
 		
 		ReloadUI()
 	end,
 }
+
+local CheckClient = function(self)
+	local Client = string.upper(self)
+	
+	if Client == "RETAIL" and WOW_PROJECT_ID == 1 then
+		return true
+	elseif Client == "BCC" and WOW_PROJECT_ID == 5 then
+		return true
+	elseif Client == "CLASSIC" and WOW_PROJECT_ID == 2 then
+		return true
+	elseif Client == "ALL" then
+		return true
+	else
+		return false
+	end
+end
 
 local SetValue = function(group, option, value)
 	if (type(C[group][option]) == "table") then
@@ -97,19 +113,15 @@ local SetValue = function(group, option, value)
 
 	local Settings
 
-	if (not TukuiSettingsPerCharacter) then
-		TukuiSettingsPerCharacter = {}
+	if (not TukuiDatabase.Settings[T.MyRealm]) then
+		TukuiDatabase.Settings[T.MyRealm] = {}
 	end
 
-	if (not TukuiSettingsPerCharacter[T.MyRealm]) then
-		TukuiSettingsPerCharacter[T.MyRealm] = {}
+	if (not TukuiDatabase.Settings[T.MyRealm][T.MyName]) then
+		TukuiDatabase.Settings[T.MyRealm][T.MyName] = {}
 	end
 
-	if (not TukuiSettingsPerCharacter[T.MyRealm][T.MyName]) then
-		TukuiSettingsPerCharacter[T.MyRealm][T.MyName] = {}
-	end
-
-	Settings = TukuiSettingsPerCharacter[T.MyRealm][T.MyName]
+	Settings = TukuiDatabase.Settings[T.MyRealm][T.MyName]
 
 	if (not Settings[group]) then
 		Settings[group] = {}
@@ -174,7 +186,13 @@ local Reverse = function(value)
 end
 
 -- Sections
-local CreateSection = function(self, text)
+local CreateSection = function(self, client, text)
+	local IsEnabled = CheckClient(client)
+	
+	if not IsEnabled then
+		return
+	end
+	
 	local Anchor = CreateFrame("Frame", nil, self)
 	Anchor:SetSize(WidgetListWidth - (Spacing * 2), WidgetHeight)
 	Anchor.IsSection = true
@@ -296,9 +314,14 @@ local SwitchOnLeave = function(self)
 	self.Highlight:SetAlpha(0)
 end
 
-local CreateSwitch = function(self, group, option, text)
+local CreateSwitch = function(self, client, group, option, text)
 	local Font = C.Medias.Font
 	local Value = C[group][option]
+	local IsEnabled = CheckClient(client)
+	
+	if not IsEnabled then
+		return
+	end
 
 	local Anchor = CreateFrame("Frame", nil, self)
 	Anchor:SetSize(WidgetListWidth - (Spacing * 2), WidgetHeight)
@@ -497,9 +520,14 @@ local EditBoxOnMouseWheel = function(self, delta)
 	self.Slider:SetValue(self.Value)
 end
 
-local CreateSlider = function(self, group, option, text, minvalue, maxvalue, stepvalue)
+local CreateSlider = function(self, client, group, option, text, minvalue, maxvalue, stepvalue)
 	local Font = C.Medias.Font
 	local Value = C[group][option]
+	local IsEnabled = CheckClient(client)
+	
+	if not IsEnabled then
+		return
+	end
 
 	local Anchor = CreateFrame("Frame", nil, self)
 	Anchor:SetSize(WidgetListWidth - (Spacing * 2), WidgetHeight)
@@ -870,10 +898,15 @@ local AddDropdownScrollBar = function(self)
 	self:SetHeight(((WidgetHeight - 1) * ListItemsToShow) + 1)
 end
 
-local CreateDropdown = function(self, group, option, text, custom)
+local CreateDropdown = function(self, client, group, option, text, custom)
 	local Font = C.Medias.Font
 	local Value
 	local Selections
+	local IsEnabled = CheckClient(client)
+	
+	if not IsEnabled then
+		return
+	end
 
 	if custom then
 		Value = C[group][option]
@@ -1187,10 +1220,15 @@ local ColorOnLeave = function(self)
 	self.Highlight:SetAlpha(0)
 end
 
-local CreateColorSelection = function(self, group, option, text)
+local CreateColorSelection = function(self, client, group, option, text)
 	local Font = C.Medias.Font
 	local Value = C[group][option]
 	local Selections
+	local IsEnabled = CheckClient(client)
+	
+	if not IsEnabled then
+		return
+	end
 
 	local CurrentR, CurrentG, CurrentB = unpack(Value)
 
@@ -1661,7 +1699,7 @@ GUI.Enable = function(self)
 	self.Footer:SetSize(HeaderWidth, 1)
 	self.Footer:SetPoint("BOTTOM", self, 0, Spacing)
 
-	local FooterButtonWidth = ((HeaderWidth / 5) - Spacing) + 1
+	local FooterButtonWidth = ((HeaderWidth / 6) - Spacing) + 1
 
 	-- Apply button
 	local Apply = CreateFrame("Frame", nil, self.Footer)
@@ -1762,15 +1800,20 @@ GUI.Enable = function(self)
 	Keybinds:SetScript("OnEnter", ButtonOnEnter)
 	Keybinds:SetScript("OnLeave", ButtonOnLeave)
 	Keybinds:SetScript("OnMouseUp", function()
-		if QuickKeybindFrame and QuickKeybindFrame:IsShown() then
-			return
+		if T.Retail then
+			if QuickKeybindFrame and QuickKeybindFrame:IsShown() then
+				return
+			end
+
+			GameMenuButtonKeybindings:Click()
+
+			KeyBindingFrame.quickKeybindButton:Click()
+
+			T.GUI:Toggle()
+		else
+			T.GUI:Toggle()
+			T.Miscellaneous.Keybinds:Toggle()
 		end
-		
-		GameMenuButtonKeybindings:Click()
-		
-		KeyBindingFrame.quickKeybindButton:Click()
-						
-		T.GUI:Toggle()
 	end)
 
 	Keybinds.Highlight = Keybinds:CreateTexture(nil, "OVERLAY")
@@ -1785,11 +1828,41 @@ GUI.Enable = function(self)
 	StyleFont(Keybinds.Middle, Font, 14)
 	Keybinds.Middle:SetJustifyH("CENTER")
 	Keybinds.Middle:SetText("Keybinds")
+				
+	-- Profiles button
+	local Profiles = CreateFrame("Frame", nil, self.Footer)
+	Profiles:SetSize(FooterButtonWidth + 1, HeaderHeight)
+	Profiles:SetPoint("LEFT", Keybinds, "RIGHT", (Spacing - 1), 0)
+	Profiles:CreateBackdrop(nil, Texture)
+	Profiles:CreateShadow()
+	Profiles.Backdrop:SetBackdropColor(unpack(BrightColor))
+	Profiles:SetScript("OnMouseDown", ButtonOnMouseDown)
+	Profiles:SetScript("OnMouseUp", ButtonOnMouseUp)
+	Profiles:SetScript("OnEnter", ButtonOnEnter)
+	Profiles:SetScript("OnLeave", ButtonOnLeave)
+	Profiles:SetScript("OnMouseUp", function()
+		T.Profiles:Toggle()
+						
+		T.GUI:Toggle()
+	end)
+
+	Profiles.Highlight = Profiles:CreateTexture(nil, "OVERLAY")
+	Profiles.Highlight:SetAllPoints()
+	Profiles.Highlight:SetTexture(Texture)
+	Profiles.Highlight:SetVertexColor(0.5, 0.5, 0.5)
+	Profiles.Highlight:SetAlpha(0)
+
+	Profiles.Middle = Profiles:CreateFontString(nil, "OVERLAY")
+	Profiles.Middle:SetPoint("CENTER", Profiles, 0, 0)
+	Profiles.Middle:SetWidth(FooterButtonWidth - (Spacing * 2))
+	StyleFont(Profiles.Middle, Font, 14)
+	Profiles.Middle:SetJustifyH("CENTER")
+	Profiles.Middle:SetText("Profiles")
 
 	-- Credits button
 	local Credits = CreateFrame("Frame", nil, self.Footer)
 	Credits:SetHeight(HeaderHeight)
-	Credits:SetPoint("LEFT", Keybinds, "RIGHT", (Spacing - 1), 0)
+	Credits:SetPoint("LEFT", Profiles, "RIGHT", (Spacing - 1), 0)
 	Credits:SetPoint("RIGHT")
 	Credits:CreateBackdrop(nil, Texture)
 	Credits:CreateShadow()

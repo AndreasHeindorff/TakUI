@@ -1,4 +1,4 @@
-local E, L, V, P, G = unpack(select(2, ...)); --Import: Engine, Locales, PrivateDB, ProfileDB, GlobalDB
+local E, L, V, P, G = unpack(select(2, ...)) --Import: Engine, Locales, PrivateDB, ProfileDB, GlobalDB
 local B = E:GetModule('Blizzard')
 local Misc = E:GetModule('Misc')
 
@@ -146,7 +146,7 @@ end
 function B:AlertMovers()
 	local AlertFrameHolder = CreateFrame('Frame', 'AlertFrameHolder', E.UIParent)
 	AlertFrameHolder:Size(180, 20)
-	AlertFrameHolder:Point('TOP', E.UIParent, 'TOP', -1, -18)
+	AlertFrameHolder:Point('TOP', E.UIParent, 'TOP', 0, -20)
 
 	_G.GroupLootContainer:EnableMouse(false) -- Prevent this weird non-clickable area stuff since 8.1; Monitor this, as it may cause addon compatibility.
 	_G.UIPARENT_MANAGED_FRAME_POSITIONS.GroupLootContainer = nil

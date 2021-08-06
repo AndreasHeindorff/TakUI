@@ -98,6 +98,8 @@ local L = WeakAuras.L
 	L["Anchored To"] = "anclado a"
 	L["And "] = "y"
 	--[[Translation missing --]]
+	L["and"] = "and"
+	--[[Translation missing --]]
 	L["and aligned left"] = "and aligned left"
 	--[[Translation missing --]]
 	L["and aligned right"] = "and aligned right"
@@ -160,6 +162,8 @@ Off Screen]=]
 	L["Automatic"] = "Automatic"
 	--[[Translation missing --]]
 	L["Automatic length"] = "Automatic length"
+	--[[Translation missing --]]
+	L["Available Voices are system specific"] = "Available Voices are system specific"
 	L["Backdrop Color"] = "Color de fondo"
 	--[[Translation missing --]]
 	L["Backdrop in Front"] = "Backdrop in Front"
@@ -473,6 +477,8 @@ UNIT_POWER, UNIT_AURA PLAYER_TARGET_CHANGED
 	L["False"] = "False"
 	--[[Translation missing --]]
 	L["Fetch Affected/Unaffected Names"] = "Fetch Affected/Unaffected Names"
+	--[[Translation missing --]]
+	L["Filter by Arena Spec"] = "Filter by Arena Spec"
 	--[[Translation missing --]]
 	L["Filter by Class"] = "Filter by Class"
 	--[[Translation missing --]]
@@ -1069,6 +1075,8 @@ Sólo un valor coincidente puede ser escogido.]=]
 	--[[Translation missing --]]
 	L["Spark Texture"] = "Spark Texture"
 	--[[Translation missing --]]
+	L["Specialization"] = "Specialization"
+	--[[Translation missing --]]
 	L["Specific Unit"] = "Specific Unit"
 	L["Spell ID"] = "ID de Hechizo"
 	L["Stack Count"] = "Contar Acumulaciones"
@@ -1236,6 +1244,8 @@ Sólo un valor coincidente puede ser escogido.]=]
 	L["Vertical Bar"] = "Vertical Bar"
 	--[[Translation missing --]]
 	L["View"] = "View"
+	--[[Translation missing --]]
+	L["Voice"] = "Voice"
 	--[[Translation missing --]]
 	L["Whole Area"] = "Whole Area"
 	L["Width"] = "Ancho"

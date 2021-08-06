@@ -39,7 +39,7 @@ function UnitFrames:Player()
 	
 	Health.Background = Health:CreateTexture(nil, "BACKGROUND")
 	Health.Background:SetTexture(HealthTexture)
-    Health.Background:SetAllPoints(Health)
+	Health.Background:SetAllPoints(Health)
 	Health.Background.multiplier = C.UnitFrames.StatusBarBackgroundMultiplier / 100
 
 	Health.Value = Health:CreateFontString(nil, "OVERLAY")
@@ -69,32 +69,36 @@ function UnitFrames:Player()
 
 	Power.frequentUpdates = true
 	Power.colorPower = true
-
-	Power.Prediction = CreateFrame("StatusBar", nil, Power)
-	Power.Prediction:SetReverseFill(true)
-	Power.Prediction:SetPoint("TOP")
-	Power.Prediction:SetPoint("BOTTOM")
-	Power.Prediction:SetPoint("RIGHT", Power:GetStatusBarTexture(), "RIGHT")
-	Power.Prediction:SetWidth(250)
-	Power.Prediction:SetStatusBarTexture(PowerTexture)
-	Power.Prediction:SetStatusBarColor(1, 1, 1, .3)
-
-	Power.PostUpdate = UnitFrames.PostUpdatePower
 	
-	local AdditionalPower = CreateFrame("StatusBar", self:GetName().."AdditionalPower", Health)
-	AdditionalPower:SetHeight(6)
-	AdditionalPower:SetPoint("BOTTOMLEFT", Health, "BOTTOMLEFT")
-	AdditionalPower:SetPoint("BOTTOMRIGHT", Health, "BOTTOMRIGHT")
-	AdditionalPower:SetStatusBarTexture(HealthTexture)
-	AdditionalPower:SetFrameLevel(Health:GetFrameLevel() + 1)
-	AdditionalPower:CreateBackdrop()
-	AdditionalPower:SetStatusBarColor(unpack(T.Colors.power.MANA))
-	AdditionalPower.Backdrop:SetOutside()
+	local Prediction = CreateFrame("StatusBar", nil, Power)
+	Prediction:SetReverseFill(true)
+	Prediction:SetPoint("TOP")
+	Prediction:SetPoint("BOTTOM")
+	Prediction:SetPoint("RIGHT", Power:GetStatusBarTexture(), "RIGHT")
+	Prediction:SetWidth(250)
+	Prediction:SetStatusBarTexture(PowerTexture)
+	Prediction:SetStatusBarColor(1, 1, 1, .3)
 
-	AdditionalPower.Background = AdditionalPower:CreateTexture(nil, "BORDER")
-	AdditionalPower.Background:SetAllPoints(AdditionalPower)
-	AdditionalPower.Background:SetTexture(HealthTexture)
-	AdditionalPower.Background:SetColorTexture(T.Colors.power.MANA[1], T.Colors.power.MANA[2], T.Colors.power.MANA[3], C.UnitFrames.StatusBarBackgroundMultiplier / 100)
+	if T.Retail then
+		local AdditionalPower = CreateFrame("StatusBar", self:GetName().."AdditionalPower", Health)
+		AdditionalPower:SetHeight(6)
+		AdditionalPower:SetPoint("BOTTOMLEFT", Health, "BOTTOMLEFT")
+		AdditionalPower:SetPoint("BOTTOMRIGHT", Health, "BOTTOMRIGHT")
+		AdditionalPower:SetStatusBarTexture(HealthTexture)
+		AdditionalPower:SetFrameLevel(Health:GetFrameLevel() + 1)
+		AdditionalPower:CreateBackdrop()
+		AdditionalPower:SetStatusBarColor(unpack(T.Colors.power.MANA))
+		AdditionalPower.Backdrop:SetOutside()
+
+		AdditionalPower.Background = AdditionalPower:CreateTexture(nil, "BORDER")
+		AdditionalPower.Background:SetAllPoints(AdditionalPower)
+		AdditionalPower.Background:SetTexture(HealthTexture)
+		AdditionalPower.Background:SetColorTexture(T.Colors.power.MANA[1], T.Colors.power.MANA[2], T.Colors.power.MANA[3], C.UnitFrames.StatusBarBackgroundMultiplier / 100)
+		
+		self.AdditionalPower = AdditionalPower
+	end
+	
+	Power.PostUpdate = UnitFrames.PostUpdatePower
 
 	local Name = Panel:CreateFontString(nil, "OVERLAY")
 	Name:SetPoint("LEFT", Panel, "LEFT", 4, 0)
@@ -103,12 +107,11 @@ function UnitFrames:Player()
 	Name:SetAlpha(0)
 
 	if C.UnitFrames.PlayerAuraBars then
-		local Gap = (T.MyClass == "ROGUE" or T.MyClass == "DRUID") and 8 or 0
 		local AuraBars = CreateFrame("Frame", self:GetName().."AuraBars", self)
 
 		AuraBars:SetHeight(10)
 		AuraBars:SetWidth(250)
-		AuraBars:SetPoint("TOPLEFT", 0, 12 + Gap)
+		AuraBars:SetPoint("TOPLEFT", 0, 12)
 		AuraBars.auraBarTexture = HealthTexture
 		AuraBars.PostCreateBar = UnitFrames.PostCreateAuraBar
 		AuraBars.onlyShowPlayer = C.UnitFrames.OnlySelfBuffs
@@ -131,8 +134,8 @@ function UnitFrames:Player()
 			Buffs:SetHeight(28)
 			Buffs:SetWidth(252)
 			Buffs.size = 28
-			Buffs.num = 32
-			Buffs.numRow = 4
+			Buffs.num = 40
+			Buffs.numRow = 5
 
 			Buffs.spacing = 4
 			Buffs.initialAnchor = "TOPLEFT"
@@ -163,8 +166,8 @@ function UnitFrames:Player()
 			end
 				
 			Debuffs.size = 28
-			Debuffs.num = 16
-			Debuffs.numRow = 2
+			Debuffs.num = 40
+			Debuffs.numRow = 5
 
 			Debuffs.spacing = 4
 			Debuffs.initialAnchor = "TOPRIGHT"
@@ -189,7 +192,7 @@ function UnitFrames:Player()
 	Combat:SetSize(19, 19)
 	Combat:SetPoint("LEFT", 0, 1)
 	Combat:SetVertexColor(0.69, 0.31, 0.31)
-
+	
 	local Status = Panel:CreateFontString(nil, "OVERLAY", nil, 1)
 	Status:SetFontObject(Font)
 	Status:SetPoint("CENTER", Panel, "CENTER", 0, 0)
@@ -380,10 +383,10 @@ function UnitFrames:Player()
 	RaidIcon:SetPoint("TOP", self, 0, C.UnitFrames.RaidIconSize / 2)
 	RaidIcon:SetTexture([[Interface\AddOns\Tukui\Medias\Textures\Others\RaidIcons]])
 
-	local RestingIndicator = Panel:CreateTexture(nil, "OVERLAY", nil, 7)
+	local RestingIndicator = Health:CreateTexture(nil, "OVERLAY", nil, 7)
 	RestingIndicator:SetTexture([[Interface\AddOns\Tukui\Medias\Textures\Others\Resting]])
-	RestingIndicator:SetSize(20, 20)
-	RestingIndicator:SetPoint("CENTER", Panel, "CENTER", 0, 0)
+	RestingIndicator:SetSize(24, 24)
+	RestingIndicator:SetPoint("LEFT", Health, "LEFT", 4, 0)
 
 	if C.UnitFrames.ScrollingCombatText then
 		local DamageFont = T.GetFont(C.UnitFrames.ScrollingCombatTextFont)
@@ -391,7 +394,7 @@ function UnitFrames:Player()
 
 		local ScrollingCombatText = CreateFrame("Frame", "TukuiPlayerFrameScrollingCombatText", UIParent)
 		ScrollingCombatText:SetSize(32, 32)
-		ScrollingCombatText:SetPoint("CENTER", 0, -100)
+		ScrollingCombatText:SetPoint("CENTER", 0, -200)
 		ScrollingCombatText.scrollTime = C.UnitFrames.ScrollingCombatTextDisplayTime
 		ScrollingCombatText.font = DamageFontPath
 		ScrollingCombatText.fontHeight = C.UnitFrames.ScrollingCombatTextFontSize
@@ -423,8 +426,21 @@ function UnitFrames:Player()
 
 		self.FloatingCombatFeedback = ScrollingCombatText
 
-		T.Movers:RegisterFrame(ScrollingCombatText, "Player SCT")
+		T.Movers:RegisterFrame(ScrollingCombatText, "Scrolling Combat Text")
 	end
+	
+	if T.BCC and C.UnitFrames.PowerTick then
+		local EnergyManaRegen = CreateFrame("StatusBar", nil, Power)
+
+		EnergyManaRegen:SetFrameLevel(Power:GetFrameLevel() + 3)
+		EnergyManaRegen:SetAllPoints()
+		EnergyManaRegen.Spark = EnergyManaRegen:CreateTexture(nil, "OVERLAY")
+
+		self.EnergyManaRegen = EnergyManaRegen
+	end
+
+	self:HookScript("OnEnter", UnitFrames.ShowWarMode)
+	self:HookScript("OnLeave", UnitFrames.ShowWarMode)
 
 	if C.UnitFrames.HealComm then
 		local myBar = CreateFrame("StatusBar", nil, Health)
@@ -436,24 +452,30 @@ function UnitFrames:Player()
 		myBar:SetPoint("TOP")
 		myBar:SetPoint("BOTTOM")
 		myBar:SetPoint("LEFT", Health:GetStatusBarTexture(), "RIGHT")
-		myBar:SetWidth(129)
+		myBar:SetWidth(250)
 		myBar:SetStatusBarColor(unpack(C.UnitFrames.HealCommSelfColor))
+		myBar:SetMinMaxValues(0, 1)
+		myBar:SetValue(0)
 
 		otherBar:SetFrameLevel(Health:GetFrameLevel())
 		otherBar:SetPoint("TOP")
 		otherBar:SetPoint("BOTTOM")
-		otherBar:SetPoint("LEFT", Health:GetStatusBarTexture(), "RIGHT")
-		otherBar:SetWidth(129)
+		otherBar:SetPoint("LEFT", myBar:GetStatusBarTexture(), "RIGHT")
+		otherBar:SetWidth(250)
 		otherBar:SetStatusBarTexture(HealthTexture)
 		otherBar:SetStatusBarColor(unpack(C.UnitFrames.HealCommOtherColor))
+		otherBar:SetMinMaxValues(0, 1)
+		otherBar:SetValue(0)
 		
 		absorbBar:SetFrameLevel(Health:GetFrameLevel())
 		absorbBar:SetPoint("TOP")
 		absorbBar:SetPoint("BOTTOM")
-		absorbBar:SetPoint("LEFT", Health:GetStatusBarTexture(), "RIGHT")
-		absorbBar:SetWidth(129)
+		absorbBar:SetPoint("LEFT", otherBar:GetStatusBarTexture(), "RIGHT")
+		absorbBar:SetWidth(250)
 		absorbBar:SetStatusBarTexture(HealthTexture)
 		absorbBar:SetStatusBarColor(unpack(C.UnitFrames.HealCommAbsorbColor))
+		absorbBar:SetMinMaxValues(0, 1)
+		absorbBar:SetValue(0)
 
 		local HealthPrediction = {
 			myBar = myBar,
@@ -467,53 +489,107 @@ function UnitFrames:Player()
 	
 	if (C.UnitFrames.TotemBar) then
 		local Bar = CreateFrame("Frame", "TukuiTotemBar", self)
-		
-		Bar:SetFrameStrata(self:GetFrameStrata())
-		Bar:SetPoint("TOPLEFT", Minimap, "BOTTOMLEFT", -1, -42)
-		Bar:SetSize(Minimap:GetWidth(), 16)
 
-		Bar.Override = UnitFrames.UpdateTotemOverride
+		if C.UnitFrames.TotemBarStyle.Value == "On Screen" then
+			Bar:SetFrameStrata(self:GetFrameStrata())
+			Bar:SetPoint("CENTER", UIParent, "CENTER", 0, -250)
+			Bar:SetSize(140, 32)
 
-		-- Totem Bar
-		for i = 1, MAX_TOTEMS do
-			Bar[i] = CreateFrame("Button", "TukuiTotemBarSlot"..i, Bar)
-			Bar[i]:CreateBackdrop()
-			Bar[i]:SetHeight(32)
-			Bar[i]:SetWidth(32)
-			Bar[i]:SetFrameLevel(Health:GetFrameLevel())
-			Bar[i]:CreateShadow()
-			
-			Bar[i].Text = Bar[i]:CreateFontString(nil, "OVERLAY")
-			Bar[i].Text:SetPoint("CENTER", 1, 0)
-			Bar[i].Text:SetFontTemplate(C.Medias.Font, 16)
+			-- Totem Bar
+			for i = 1, MAX_TOTEMS do
+				Bar[i] = CreateFrame("Button", "TukuiTotemBarSlot"..i, Bar)
+				Bar[i]:CreateBackdrop()
+				Bar[i]:SetHeight(32)
+				Bar[i]:SetWidth(32)
 
-			if i == 1 then
-				Bar[i]:SetPoint("BOTTOMRIGHT", Bar, "BOTTOMRIGHT", 0, 0)
-			else
-				Bar[i]:SetPoint("BOTTOMRIGHT", Bar[i-1], "BOTTOMRIGHT", -36, 0)
+				Bar[i].Backdrop:SetParent(Bar)
+				Bar[i].Backdrop:SetFrameLevel(Bar[i]:GetFrameLevel() - 1)
+				Bar[i].Backdrop:CreateShadow()
+
+				Bar[i].Backdrop.BackgroundTexture = Bar[i].Backdrop:CreateTexture(nil, "OVERLAY", 1)
+				Bar[i].Backdrop.BackgroundTexture:SetAllPoints(Bar[i].Backdrop)
+				Bar[i].Backdrop.BackgroundTexture:SetTexture(C.Medias.Blank)
+				Bar[i].Backdrop.BackgroundTexture:SetVertexColor(unpack(T.Colors.totems[i]))
+
+				Bar[i].Text = Bar[i]:CreateFontString(nil, "OVERLAY")
+				Bar[i].Text:SetPoint("CENTER", 1, 0)
+				Bar[i].Text:SetFontTemplate(C.Medias.Font, 16)
+
+				if i == 1 then
+					Bar[i]:SetPoint("TOPLEFT", Bar, "TOPLEFT", 0, 0)
+				else
+					Bar[i]:SetPoint("LEFT", Bar[i-1], "RIGHT", 4, 0)
+				end
+
+				Bar[i].Icon = Bar[i]:CreateTexture(nil, "BORDER", 7)
+				Bar[i].Icon:SetInside()
+				Bar[i].Icon:SetAlpha(1)
+				Bar[i].Icon:SetTexCoord(0.1, 0.9, 0.1, 0.9)
+
+				Bar[i].Cooldown = CreateFrame("Cooldown", nil, Bar[i], "CooldownFrameTemplate")
+				Bar[i].Cooldown:SetInside()
+				Bar[i].Cooldown:SetFrameLevel(Bar[i]:GetFrameLevel())
 			end
+			
+			Movers:RegisterFrame(Bar, "Totem Bar")
+		elseif C.UnitFrames.TotemBarStyle.Value == "On Player" then
+			Bar:SetPoint("TOPLEFT", self, "TOPLEFT", -1, 10)
+			Bar:SetFrameStrata(Health:GetFrameStrata())
+			Bar:SetFrameLevel(Health:GetFrameLevel() + 3)
+			Bar:SetSize(252, 10)
+			Bar:CreateBackdrop()
 
-			Bar[i].Icon = Bar[i]:CreateTexture(nil, "BORDER")
-			Bar[i].Icon:SetInside()
-			Bar[i].Icon:SetAlpha(1)
-			Bar[i].Icon:SetTexCoord(0.1, 0.9, 0.1, 0.9)
+			for i = 1, 4 do
+				local r, g, b = unpack(T.Colors.totems[i])
 
-			Bar[i].Cooldown = CreateFrame("Cooldown", nil, Bar[i], "CooldownFrameTemplate")
-			Bar[i].Cooldown:SetInside()
-			Bar[i].Cooldown:SetFrameLevel(Bar[i]:GetFrameLevel())
+				Bar[i] = CreateFrame("StatusBar", self:GetName().."Totem"..i, Bar)
+				Bar[i]:SetStatusBarTexture(HealthTexture)
+				Bar[i]:SetStatusBarColor(r, g, b)
+				Bar[i]:SetMinMaxValues(0, 1)
+				Bar[i]:SetValue(0)
+
+				if i == 1 then
+					Bar[i]:SetPoint("TOPLEFT", Bar, "TOPLEFT", 1, -1)
+					Bar[i]:SetSize(61, 8)
+				else
+					Bar[i]:SetPoint("TOPLEFT", Bar[i-1], "TOPRIGHT", 1, 0)
+					Bar[i]:SetSize(62, 8)
+				end
+				
+				Bar[i].Background = Bar[i]:CreateTexture(nil, "BORDER")
+				Bar[i].Background:SetParent(Bar)
+				Bar[i].Background:SetAllPoints(Bar[i])
+				Bar[i].Background:SetTexture(HealthTexture)
+				Bar[i].Background:SetVertexColor(r, g, b)
+				Bar[i].Background:SetAlpha(.15)
+			end
+			
+			self.Shadow:SetPoint("TOPLEFT", -4, 12)
+			
+			if self.AuraBars then
+				self.AuraBars:ClearAllPoints()
+				self.AuraBars:SetPoint("TOPLEFT", 0, 22)
+			elseif self.Buffs then
+				self.Buffs:ClearAllPoints()
+				self.Buffs:SetPoint("BOTTOMLEFT", self, "TOPLEFT", 0, 13)
+			end
 		end
-
-		Movers:RegisterFrame(Bar, "Totem Bar")
 
 		-- To allow right-click destroy totem.
 		TotemFrame:SetParent(UIParent)
 
 		self.Totems = Bar
+		self.Totems.Override = UnitFrames.UpdateTotemOverride
 	end
 
+	local Status = Health:CreateTexture(nil, "OVERLAY", nil, 7)
+	Status:SetTexture("Interface\\PvPRankBadges\\PvPRank"..T.MyFaction)
+	Status:SetSize(24, 24)
+	Status:SetPoint("LEFT", Health, "LEFT", 4, 0)
+	Status:Hide()
 
-	self:HookScript("OnEnter", UnitFrames.MouseOnPlayer)
-	self:HookScript("OnLeave", UnitFrames.MouseOnPlayer)
+	self:HookScript("OnEnter", UnitFrames.ShowWarMode)
+	self:HookScript("OnLeave", UnitFrames.ShowWarMode)
 
 	-- Register with oUF
 	self:Tag(Name, "[Tukui:Classification][Tukui:DiffColor][level] [Tukui:GetNameColor][Tukui:NameLong]")
@@ -522,7 +598,8 @@ function UnitFrames:Player()
 	self.Health = Health
 	self.Health.bg = Health.Background
 	self.Power = Power
-	self.AdditionalPower = AdditionalPower
+	self.PowerPrediction = {}
+	self.PowerPrediction.mainBar = Prediction
 	self.Name = Name
 	self.Power.bg = Power.Background
 	self.CombatIndicator = Combat
@@ -530,14 +607,16 @@ function UnitFrames:Player()
 	self.LeaderIndicator = Leader
 	self.MasterLooterIndicator = MasterLooter
 	self.RaidTargetIndicator = RaidIcon
-	self.PowerPrediction = {}
-	self.PowerPrediction.mainBar = Power.Prediction
 	self.RestingIndicator = RestingIndicator
 	
 	-- Enable smoothing bars animation?
 	if C.UnitFrames.Smoothing then
 		Health.smoothing = true
 		Power.smoothing = true
+
+		if self.HealthPrediction then
+			self.HealthPrediction.smoothing = true
+		end
 	end
 	
 	-- Classes

@@ -91,6 +91,8 @@ local function UpdateColor(self, event, unit)
 		t = self.colors.disconnected
 	elseif(element.colorTapping and not UnitPlayerControlled(unit) and UnitIsTapDenied(unit)) then
 		t = self.colors.tapped
+	elseif(element.colorHappiness and UnitIsUnit(unit, "pet") and GetPetHappiness and GetPetHappiness()) then
+		t = self.colors.happiness[GetPetHappiness()]
 	elseif(element.colorThreat and not UnitPlayerControlled(unit) and UnitThreatSituation('player', unit)) then
 		t =  self.colors.threat[UnitThreatSituation('player', unit)]
 	elseif(element.colorClass and UnitIsPlayer(unit))
@@ -316,8 +318,13 @@ local function Enable(self, unit)
 			element.SetSmoothedValue = SmoothStatusBarMixin.SetSmoothedValue
 			element.SetMinMaxSmoothedValue = SmoothStatusBarMixin.SetMinMaxSmoothedValue
 		end
-
-		self:RegisterEvent('UNIT_HEALTH', Path)
+		
+		if oUF.Retail then
+			self:RegisterEvent('UNIT_HEALTH', Path)
+		else
+			self:RegisterEvent('UNIT_HEALTH_FREQUENT', Path)
+		end
+		
 		self:RegisterEvent('UNIT_MAXHEALTH', Path)
 
 		if(element:IsObjectType('StatusBar') and not (element:GetStatusBarTexture() or element:GetStatusBarAtlas())) then

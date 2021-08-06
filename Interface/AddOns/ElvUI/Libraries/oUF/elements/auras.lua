@@ -171,7 +171,7 @@ local function updateIcon(element, unit, index, offset, filter, isDebuff, visibl
 
 	-- ElvUI changed block
 	if element.forceShow or element.forceCreate then
-		spellID = 47540
+		spellID = 5782
 		name, _, texture = GetSpellInfo(spellID)
 		if element.forceShow then
 			count, debuffType, duration, expiration, caster, isStealable, nameplateShowSelf, isBossDebuff = 5, "Magic", 0, 60, "player", nil, nil, nil
@@ -266,7 +266,7 @@ local function updateIcon(element, unit, index, offset, filter, isDebuff, visibl
 			if(button.count) then button.count:SetText(count > 1 and count) end
 
 			local size = element.size or 16
-			button:SetSize(size, size)
+			button:SetSize(size, element.height or size)
 
 			button:EnableMouse(not element.disableMouse)
 			button:SetID(index)

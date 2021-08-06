@@ -37,7 +37,7 @@ LCT_SpellData[2983] = {
 LCT_SpellData[1966] = {
 	class = "ROGUE",
 	defensive = true,
-	duration = 5,
+	duration = 6,
 	cooldown = 15
 }
 -- Crimson Vial
@@ -68,7 +68,6 @@ LCT_SpellData[2094] = {
 -- Kidney Shot
 LCT_SpellData[408] = {
 	class = "ROGUE",
-	specID = { SPEC_ROGUE_ASSA, SPEC_ROGUE_SUB },
 	stun = true,
 	cooldown = 20
 }

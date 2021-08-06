@@ -29,12 +29,13 @@ end
 function Movers:RestoreDefaults(button)
 	local FrameName = self.Parent:GetName()
 	local Data = Movers.Defaults[FrameName]
-	local SavedVariables = TukuiData[T.MyRealm][T.MyName].Move
+	local SavedVariables = TukuiDatabase.Variables[T.MyRealm][T.MyName].Move
 
 	if (button == "RightButton") and (Data) then
 		local Anchor1, ParentName, Anchor2, X, Y = unpack(Data)
 		local Frame = _G[FrameName]
 		local Parent = _G[ParentName]
+		local Name = Frame.MoverName or Frame:GetName() or UNKNOWN
 
 		if not Parent then
 			Parent = UIParent
@@ -45,6 +46,8 @@ function Movers:RestoreDefaults(button)
 
 		Frame.DragInfo:ClearAllPoints()
 		Frame.DragInfo:SetAllPoints(Frame)
+		
+		Frame.DragInfo.Text:SetText(Name)
 
 		-- Delete Saved Variable
 		SavedVariables[FrameName] = nil
@@ -65,10 +68,13 @@ end
 
 function Movers:OnDragFollowMe()
 	local Anchor1, Parent, Anchor2, X, Y = self:GetPoint()
+	local Name = self.Parent.MoverName or self.Parent:GetName() or UNKNOWN
 
 	if not Parent then
 		Parent = UIParent
 	end
+	
+	self.Text:SetText(Name.."\n|cffff9300X: "..T.Round(X).."|r ".."|cff79bde9Y: "..T.Round(Y).."|r")
 	
 	self.Parent:ClearAllPoints()
 	self.Parent:SetPoint(Anchor1, Parent, Anchor2, X, Y)
@@ -85,7 +91,7 @@ function Movers:OnDragStop()
 	self:StopMovingOrSizing()
 	self:SetScript("OnUpdate", nil)
 
-	local Data = TukuiData[T.MyRealm][T.MyName].Move
+	local Data = TukuiDatabase.Variables[T.MyRealm][T.MyName].Move
 	local Anchor1, Parent, Anchor2, X, Y = self:GetPoint()
 	local FrameName = self.Parent:GetName()
 	local Frame = self.Parent
@@ -125,8 +131,8 @@ function Movers:CreateDragInfo()
 	self.DragInfo.Text:SetText(self.MoverName or self:GetName() or UNKNOWN)
 	self.DragInfo.Text:SetPoint("CENTER")
 	self.DragInfo.Text:SetTextColor(1, 0, 0)
-	self.DragInfo:SetFrameLevel(100)
-	self.DragInfo:SetFrameStrata("HIGH")
+	self.DragInfo:SetFrameLevel(1000)
+	self.DragInfo:SetFrameStrata("TOOLTIP")
 	self.DragInfo:SetMovable(true)
 	self.DragInfo:RegisterForDrag("LeftButton")
 	self.DragInfo:SetClampedToScreen(true)
@@ -168,12 +174,12 @@ function Movers:StartOrStopMoving()
 			Frame.DragInfo:SetParent(UIParent)
 			Frame.DragInfo:Show()
 
-			if Frame.DragInfo:GetFrameLevel() ~= 100 then
-				Frame.DragInfo:SetFrameLevel(100)
+			if Frame.DragInfo:GetFrameLevel() ~= 1000 then
+				Frame.DragInfo:SetFrameLevel(1000)
 			end
 
-			if Frame.DragInfo:GetFrameStrata() ~= "HIGH" then
-				Frame.DragInfo:SetFrameStrata("HIGH")
+			if Frame.DragInfo:GetFrameStrata() ~= "TOOLTIP" then
+				Frame.DragInfo:SetFrameStrata("TOOLTIP")
 			end
 		else
 			if Frame.unit then
@@ -205,9 +211,7 @@ end
 
 Movers:SetScript("OnEvent", function(self, event)
 	if (event == "PLAYER_ENTERING_WORLD") then
-		T.VerifyDataTable()
-			
-		local Data = TukuiData[T.MyRealm][T.MyName].Move
+		local Data = TukuiDatabase.Variables[T.MyRealm][T.MyName].Move
 
 		for Frame, Position in pairs(Data) do
 			local Frame = _G[Frame]

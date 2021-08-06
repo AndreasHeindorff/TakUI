@@ -16,9 +16,7 @@ T.Popups.Popup["TUKUI_RESET_SETTINGS"] = {
 
 -- Reset GUI settings
 function Install:ResetSettings()
-	TukuiSettingsPerCharacter[T.MyRealm][T.MyName] = {}
-
-	T:VerifyDataTable()
+	TukuiDatabase.Settings[T.MyRealm][T.MyName] = {}
 end
 
 -- Reset datatext & chats
@@ -27,9 +25,7 @@ function Install:ResetData()
 		T.DataTexts:Reset()
 	end
 
-	TukuiData[T.MyRealm][T.MyName] = {}
-	
-	T.VerifyDataTable()
+	TukuiDatabase.Variables[T.MyRealm][T.MyName] = {}
 
 	FCF_ResetChatWindows()
 
@@ -38,16 +34,6 @@ function Install:ResetData()
 	end
 
 	ReloadUI()
-end
-
-function Install:DeprecatedCheck()
-	local OldConfig = "Tukui_Config"
-	
-	if IsAddOnLoaded(OldConfig) then
-		T.Print("|CFFFF0000WARNING! |r")
-		print("    -> |CFFFF0000"..OldConfig.."|r is not needed anymore, please remove it from your WoW AddOns directory")
-		print("    -> |CFF00FF00..\\World of Warcraft\\_retail_\\Interface\\AddOns|r")
-	end
 end
 
 function Install:SetDefaultsCVars()
@@ -82,12 +68,14 @@ function Install:SetDefaultsCVars()
 	SetCVar("nameplateShowFriendlyMinions", 0)
 	SetCVar("cameraSmoothStyle", 0)
 	SetCVar("profanityFilter", 0)
-	SetCVar("nameplateMaxDistance", 60)
 	SetCVar("showLootSpam", 1)
-	SetCVar("lossOfControl", 1)
 	SetCVar("showArenaEnemyFrames", 0)
-	SetCVar("nameplateShowSelf", 0)
-	SetCVar("nameplateResourceOnTarget", 0)
+	
+	if T.Retail then
+		SetCVar("lossOfControl", 1)
+		SetCVar("nameplateShowSelf", 0)
+		SetCVar("nameplateResourceOnTarget", 0)
+	end
 end
 
 Install:RegisterEvent("PLAYER_ENTERING_WORLD")
@@ -96,7 +84,7 @@ Install:SetScript("OnEvent", function(self, event)
 	local Realm = GetRealmName()
 
 	if (event == "PLAYER_ENTERING_WORLD") then
-		local IsInstall = TukuiData[Realm][Name].Installation.Done
+		local IsInstall = TukuiDatabase.Variables[Realm][Name].Installation.Done
 			
 		if (not IsInstall) then
 			local Chat = T["Chat"]
@@ -105,10 +93,8 @@ Install:SetScript("OnEvent", function(self, event)
 				
 			Chat:Reset()
 
-			TukuiData[T.MyRealm][T.MyName].Installation.Done = true
+			TukuiDatabase.Variables[T.MyRealm][T.MyName].Installation.Done = true
 		end
-			
-		self:DeprecatedCheck()
 	end
 end)
 

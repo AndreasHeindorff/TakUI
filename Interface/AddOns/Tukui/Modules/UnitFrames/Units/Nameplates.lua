@@ -32,7 +32,7 @@ function UnitFrames:Nameplates()
 
 	Health.Background = Health:CreateTexture(nil, "BACKGROUND")
 	Health.Background:SetTexture(HealthTexture)
-    Health.Background:SetAllPoints(Health)
+	Health.Background:SetAllPoints(Health)
 	Health.Background.multiplier = C.UnitFrames.StatusBarBackgroundMultiplier / 100
 
 	Health.Value = Health:CreateFontString(nil, "OVERLAY")
@@ -43,7 +43,9 @@ function UnitFrames:Nameplates()
 	Health.colorReaction = true
 	Health.colorDisconnected = true
 	Health.colorClass = true
+	Health.colorHealth = true
 	Health.colorThreat = C.NamePlates.ColorThreat
+	Health.colorReaction = true
 
 	local Name = Health:CreateFontString(nil, "OVERLAY")
 	Name:SetPoint("BOTTOMLEFT", Health, "TOPLEFT", -2, 4)
@@ -154,7 +156,7 @@ function UnitFrames:Nameplates()
 	Highlight:SetFrameLevel(0)
 	Highlight:Hide()
 	
-	if C.NamePlates.QuestIcon then
+	if T.Retail and C.NamePlates.QuestIcon then
 		local QuestIcon = self:CreateTexture(nil, "OVERLAY")
 		QuestIcon:SetSize(C.NamePlates.Height, C.NamePlates.Height)
 		QuestIcon:SetPoint("LEFT", self, "RIGHT", 4, 0)
@@ -175,13 +177,15 @@ function UnitFrames:Nameplates()
 		ClassIcon.Texture:SetTexture("Interface\\Glues\\CharacterCreate\\UI-CharacterCreate-Classes")
 		
 		-- Reposition castbar icon to cover class icon
-		self.Castbar.Button:ClearAllPoints()
-		self.Castbar.Button:SetAllPoints(ClassIcon)
-		
-		self.Castbar.Button.Shadow:ClearAllPoints()
-		self.Castbar.Button.Shadow:SetOutside(self.Castbar.Button, 4, 4)
-		self.Castbar.Button.Shadow:SetFrameLevel(ClassIcon:GetFrameLevel() + 1)
-		self.Castbar.Button.Shadow:SetFrameStrata(ClassIcon:GetFrameStrata())
+		if self.Castbar then
+			self.Castbar.Button:ClearAllPoints()
+			self.Castbar.Button:SetAllPoints(ClassIcon)
+
+			self.Castbar.Button.Shadow:ClearAllPoints()
+			self.Castbar.Button.Shadow:SetOutside(self.Castbar.Button, 4, 4)
+			self.Castbar.Button.Shadow:SetFrameLevel(ClassIcon:GetFrameLevel() + 1)
+			self.Castbar.Button.Shadow:SetFrameStrata(ClassIcon:GetFrameStrata())
+		end
 		
 		self.ClassIcon = ClassIcon
 		
@@ -192,6 +196,10 @@ function UnitFrames:Nameplates()
 	if C.UnitFrames.Smoothing then
 		Health.smoothing = true
 		Power.smoothing = true
+
+		if self.HealthPrediction then
+			self.HealthPrediction.smoothing = true
+		end
 	end
 
 	self:Tag(Name, "[Tukui:Classification][Tukui:DiffColor][level] [Tukui:GetNameHostilityColor]"..NameLength)

@@ -1,30 +1,25 @@
 
 TomCats_Account = {
-	["notifications"] = {
-		["NZOTHLAUNCH"] = true,
-	},
-	["tutorials"] = {
-		["Rares Log Toggle"] = true,
-	},
-	["versionInfo"] = {
-		["encoded"] = "Fu06UShTm9VSLypOcGbBrrglegVvBiAnjXeelcZ9uNeX3SoyiZlsFV+TRmMBAQYBAgEEAwMBBAYEAQQIBQEEBgYBBAYHAQQXCAECCAkCBgAKAQADCwEGBQwAAQYNAQASDgEAGg8BAAY=",
-		["messageID"] = 1603487331,
-	},
+	["discoveriesVersion"] = "2.3.11",
+	["lastVersionSeen"] = "2.3.11",
 	["preferences"] = {
-		["TomCatsWorldmapRaresButton1355"] = {
-			["position"] = -2.656844502696879,
+		["TomCats-MinimapButton"] = {
+			["hidden"] = false,
+			["position"] = -2.888,
 		},
-		["TomCatsWorldmapRaresButton118"] = {
-			["position"] = -2.657094711587241,
+		["MapOptions"] = {
+			["iconScale"] = 1,
+			["iconAnimationEnabled"] = true,
 		},
-		["TomCatsBundledDeathsRisingMinimapButton"] = {
-			["position"] = -2.657094711587241,
+		["betaEnabled"] = false,
+		["defaultVignetteIcon"] = "default",
+	},
+	["lastExpirationWarning"] = 0,
+	["discoveriesResetCount"] = 0,
+	["discoveries"] = {
+		["vignetteAtlases"] = {
 		},
-		["TomCatsMinimapButton"] = {
-			["position"] = 3,
-		},
-		["TomCatsWorldmapRaresButton"] = {
-			["position"] = -2.656844502696879,
+		["vignettes"] = {
 		},
 	},
 }

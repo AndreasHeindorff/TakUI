@@ -86,6 +86,9 @@ V["sle"] = {
 				["showBothTimers"] = false,
 				["showMarks"] = true,
 			},
+			torghastPowers = {
+				enable = false,
+			},
 		},
 		["petbattles"] = {
 			["enable"] = true,

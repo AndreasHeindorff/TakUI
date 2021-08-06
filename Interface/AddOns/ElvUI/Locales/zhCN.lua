@@ -1,9 +1,6 @@
 -- Simplified Chinese localization file for zhCN.
-local E = unpack(select(2, ...)); --Import: Engine, Locales, PrivateDB, ProfileDB, GlobalDB
+local E = unpack(select(2, ...)) --Import: Engine, Locales, PrivateDB, ProfileDB, GlobalDB
 local L = E.Libs.ACL:NewLocale("ElvUI", "zhCN")
-
-local COLOR1 = '|cFF1784d1'
-local COLOR2 = '|cfd9b9b9b'
 
 L["BoP"] = true
 L["BoE"] = true
@@ -128,6 +125,7 @@ L["ElvUI Status"] = true
 L["Empty Slot"] = "空拾取位"
 L["Enable"] = "启用"
 L["Error resetting UnitFrame."] = "重置单位框架出现错误."
+L["Event Log"] = true
 L["Experience Bar"] = "经验条"
 L["Experience"] = "经验/声望条"
 L["Feet"] = "脚"
@@ -158,7 +156,7 @@ L["Honor Bar"] = "荣誉条"
 L["Honor Remaining:"] = "荣誉值剩余:"
 L["Honor XP:"] = "荣誉值:"
 L["Horde: "] = true
-L["Hover your mouse over any |cFF1784d1action|r, |cFF1784d1micro|r, |cFF1784d1macro|r, or |cFF1784d1spellbook|r button to bind it. This also works for items in your |cFF1784d1bag|r. Press the |cfd9b9b9bESC|r key to |cfd9b9b9bclear|r the current bindings."] = true
+L["BINDINGS_HELP"] = ("Hover your mouse over any *action|r, *micro|r, *macro|r, or *spellbook|r button to bind it. This also works for items in your *bag|r. Press the ^ESC|r key to ^clear|r the current bindings."):gsub('*', E.InfoColor):gsub('%^', E.InfoColor2)
 L["HP"] = "生命值"
 L["HPS"] = "治疗输出"
 L["I Swear"] = "我承诺"
@@ -200,11 +198,11 @@ L["Layout"] = "界面布局"
 L["Left Chat"] = "左侧对话框"
 L["Left Click:"] = "左键:"
 L["Legs"] = "腿"
-L["Level Up Display / Boss Banner"] = "升级提示/Boss拾取"
+L["Level"] = "等级"
 L["List of installations in queue:"] = "即将安装的列表:"
 L["Lock"] = "锁定"
-L["LOGIN_MSG_HELP"] = ("Please use */ehelp|r for a list of available *ElvUI|r commands."):gsub('*', COLOR1)
-L["LOGIN_MSG"] = ("Welcome to *ElvUI|r version *%s|r, type */ec|r to access the in-game configuration menu. If you are in need of technical support you can visit us at https://www.tukui.org or join our Discord: https://discord.gg/xFWcfgE"):gsub('*', COLOR1)
+L["LOGIN_MSG_HELP"] = ("Please use */ehelp|r for a list of available *ElvUI|r commands."):gsub('*', E.InfoColor)
+L["LOGIN_MSG"] = ("Welcome to *ElvUI|r version *%s|r, type */ec|r to access the in-game configuration menu. If you are in need of technical support you can visit us at https://www.tukui.org or join our Discord: https://discord.gg/xFWcfgE"):gsub('*', E.InfoColor)
 L["Loot / Alert Frames"] = "拾取/提醒框"
 L["Loot Frame"] = "拾取框架"
 L["Lord! It's a miracle! The download up and vanished like a fart in the wind! Try Again!"] = "天啊! 太奇葩了! 下载消失了! 就像在风中放了一个屁... 再试一次吧!"
@@ -287,7 +285,7 @@ L["Save"] = "储存"
 L["Saved Dungeon(s)"] = "已有进度的地下城"
 L["Saved Raid(s)"] = "已有进度的副本"
 L["says"] = "说"
-L["Select the type of aura system you want to use with ElvUI's unitframes. Set to Aura Bar & Icons to use both aura bars and icons, set to icons only to only see icons."] = "选择你想使用的光环系统类型. 选择光环条及图标将会同时显示光环条及图标，选择图标将只会显示图标."
+L["Select the type of aura system you want to use with ElvUI's unitframes. Set to Aura Bars to use both aura bars and icons, set to Icons Only to only see icons."] = "选择你想使用的光环系统类型. 选择光环条及图标将会同时显示光环条及图标，选择图标将只会显示图标."
 L["Server: "] = "服务器: "
 L["Session:"] = "本次登陆:"
 L["Setup Chat"] = "设定聊天框"
@@ -340,8 +338,11 @@ L["Total: "] = "合计: "
 L["Trigger"] = "触发器"
 L["Type /hellokitty to revert to old settings."] = "输入/hellokitty以撤销到原来的设定"
 L["BelowMinimapWidget"] = true
-L["TopWidget"] = true
+L["TopCenterWidget"] = true
+L["MawBuffsWidget"] = true
 L["PowerBarWidget"] = true
+L["EventToastWidget"] = true
+L["BossBannerWidget"] = "Boss拾取"
 L["Unhittable:"] = "未命中:"
 L["Vehicle Seat Frame"] = "载具座位框"
 L["Vendor / Delete Grays"] = "出售/删除灰色物品"
@@ -398,4 +399,4 @@ L["EHELP_COMMANDS"] = ([=[Here is a list of all important *ElvUI|r commands:
  */luaerror|r ^on|r or ^off|r  -  Disable all AddOns except ElvUI.
   NOTE: */luaerror|r ^off|r will re-enable the addons disabled from
   using */luaerror|r ^on|r within that session.
-]=]):gsub('*', COLOR1):gsub('%^', COLOR2)
+]=]):gsub('*', E.InfoColor):gsub('%^', E.InfoColor2)

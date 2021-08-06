@@ -1,4 +1,4 @@
-local E, L, V, P, G = unpack(select(2, ...)); --Import: Engine, Locales, PrivateDB, ProfileDB, GlobalDB
+local E, L, V, P, G = unpack(select(2, ...)) --Import: Engine, Locales, PrivateDB, ProfileDB, GlobalDB
 local S = E:GetModule('Skins')
 
 local _G = _G
@@ -71,12 +71,13 @@ function S:Blizzard_WeeklyRewards()
 
 	if E.private.skins.parchmentRemoverEnable then
 		frame:StripTextures()
-		header:StripTextures()
-	end
+		frame:SetTemplate('Transparent')
 
-	frame:CreateBackdrop('Transparent')
-	header:CreateBackdrop('Transparent')
-	header:Point('TOP', 1, -42)
+		header:StripTextures()
+		header:SetTemplate('Transparent')
+		header:ClearAllPoints()
+		header:Point('TOP', 1, -42)
+	end
 
 	S:HandleCloseButton(frame.CloseButton)
 	S:HandleButton(frame.SelectRewardButton)
@@ -108,10 +109,7 @@ function S:Blizzard_WeeklyRewards()
 		local overlay = frame.Overlay
 		if overlay then
 			overlay:StripTextures()
-
-			if not overlay.backdrop then
-				overlay:CreateBackdrop() --transparent is not visibly at all
-			end
+			overlay:SetTemplate()
 		end
 	end)
 

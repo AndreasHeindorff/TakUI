@@ -1,4 +1,4 @@
-local E, L, V, P, G = unpack(select(2, ...)); --Import: Engine, Locales, PrivateDB, ProfileDB, GlobalDB
+local E, L, V, P, G = unpack(select(2, ...)) --Import: Engine, Locales, PrivateDB, ProfileDB, GlobalDB
 local TT = E:GetModule('Tooltip')
 local AB = E:GetModule('ActionBars')
 local Skins = E:GetModule('Skins')
@@ -68,6 +68,7 @@ local UnitRealmRelationship = UnitRealmRelationship
 local UnitSex = UnitSex
 
 local C_QuestLog_GetQuestIDForLogIndex = C_QuestLog.GetQuestIDForLogIndex
+local C_ChallengeMode_GetDungeonScoreRarityColor = C_ChallengeMode.GetDungeonScoreRarityColor
 local C_CurrencyInfo_GetCurrencyListLink = C_CurrencyInfo.GetCurrencyListLink
 local C_CurrencyInfo_GetBackpackCurrencyInfo = C_CurrencyInfo.GetBackpackCurrencyInfo
 local C_MountJournal_GetMountIDs = C_MountJournal.GetMountIDs
@@ -75,6 +76,7 @@ local C_MountJournal_GetMountInfoByID = C_MountJournal.GetMountInfoByID
 local C_MountJournal_GetMountInfoExtraByID = C_MountJournal.GetMountInfoExtraByID
 local C_PetJournalGetPetTeamAverageLevel = C_PetJournal.GetPetTeamAverageLevel
 local C_PetBattles_IsInBattle = C_PetBattles.IsInBattle
+local C_PlayerInfo_GetPlayerMythicPlusRatingSummary = C_PlayerInfo.GetPlayerMythicPlusRatingSummary
 local PRIEST_COLOR = RAID_CLASS_COLORS.PRIEST
 local UNKNOWN = UNKNOWN
 
@@ -89,6 +91,7 @@ local targetList, TAPPED_COLOR, keybindFrame = {}, { r=0.6, g=0.6, b=0.6 }
 local AFK_LABEL = ' |cffFFFFFF[|r|cffFF0000'..L["AFK"]..'|r|cffFFFFFF]|r'
 local DND_LABEL = ' |cffFFFFFF[|r|cffFFFF00'..L["DND"]..'|r|cffFFFFFF]|r'
 local genderTable = { _G.UNKNOWN..' ', _G.MALE..' ', _G.FEMALE..' ' }
+local blanchyFix = '|n%s+|n' -- thanks blizz -x- lol
 
 function TT:IsModKeyDown(db)
 	local k = db or TT.db.modifierID -- defaulted to 'HIDE' unless otherwise specified
@@ -96,10 +99,8 @@ function TT:IsModKeyDown(db)
 end
 
 function TT:GameTooltip_SetDefaultAnchor(tt, parent)
-	if E.private.tooltip.enable ~= true then return end
-	if tt:IsForbidden() then return end
-	if not TT.db.visibility then return end
-	if tt:GetAnchorType() ~= 'ANCHOR_NONE' then return end
+	if not E.private.tooltip.enable or not TT.db.visibility then return end
+	if tt:IsForbidden() or tt:GetAnchorType() ~= 'ANCHOR_NONE' then return end
 
 	if InCombatLockdown() and not TT:IsModKeyDown(TT.db.visibility.combatOverride) then
 		tt:Hide()
@@ -143,7 +144,6 @@ function TT:GameTooltip_SetDefaultAnchor(tt, parent)
 		end
 	end
 
-	local ElvUI_ContainerFrame = ElvUI_ContainerFrame
 	local RightChatPanel = _G.RightChatPanel
 	local TooltipMover = _G.TooltipMover
 	local _, anchor = tt:GetPoint()
@@ -275,6 +275,18 @@ function TT:SetUnitText(tt, unit)
 			end
 		end
 
+		if TT.db.mythicDataEnable then
+			if TT.db.dungeonScore then
+				local data = C_PlayerInfo_GetPlayerMythicPlusRatingSummary(unit)
+				local seasonScore = data and data.currentSeasonScore
+
+				if seasonScore and seasonScore > 0 then
+					local color = TT.db.dungeonScoreColor and C_ChallengeMode_GetDungeonScoreRarityColor(seasonScore)
+					GameTooltip:AddDoubleLine(L["Mythic+ Score:"], seasonScore, nil, nil, nil, color and color.r or 1, color and color.g or 1, color and color.b or 1)
+				end
+			end
+		end
+
 		if TT.db.showElvUIUsers then
 			local addonUser = E.UserList[nameRealm]
 			if addonUser then
@@ -287,7 +299,7 @@ function TT:SetUnitText(tt, unit)
 	else
 		local levelLine = TT:GetLevelLine(tt, 2)
 		if levelLine then
-			local isPetWild, isPetCompanion = UnitIsWildBattlePet(unit), UnitIsBattlePetCompanion(unit);
+			local isPetWild, isPetCompanion = UnitIsWildBattlePet(unit), UnitIsBattlePetCompanion(unit)
 			local creatureClassification = UnitClassification(unit)
 			local creatureType = UnitCreatureType(unit) or ''
 			local pvpFlag, classificationString, diffColor = '', ''
@@ -453,7 +465,6 @@ function TT:GameTooltip_OnTooltipSetUnit(tt)
 
 	local isShiftKeyDown = IsShiftKeyDown()
 	local isControlKeyDown = IsControlKeyDown()
-	local color = TT:SetUnitText(tt, unit)
 	if TT.db.showMount and isPlayerUnit and unit ~= 'player' and not isShiftKeyDown then
 		for i = 1, 40 do
 			local name, _, _, _, _, _, _, _, _, id = UnitBuff(unit, i)
@@ -463,14 +474,15 @@ function TT:GameTooltip_OnTooltipSetUnit(tt)
 				local _, _, sourceText = C_MountJournal_GetMountInfoExtraByID(TT.MountIDs[id])
 				tt:AddDoubleLine(format('%s:', _G.MOUNT), name, nil, nil, nil, 1, 1, 1)
 
-				if sourceText and isControlKeyDown then
-					local sourceModified = gsub(sourceText, '|n', '\10')
+				local mountText = isControlKeyDown and sourceText and gsub(sourceText, blanchyFix, '|n')
+				if mountText then
+					local sourceModified = gsub(mountText, '|n', '\10')
 					for x in gmatch(sourceModified, '[^\10]+\10?') do
 						local left, right = strmatch(x, '(.-|r)%s?([^\10]+)\10?')
 						if left and right then
 							tt:AddDoubleLine(left, right, nil, nil, nil, 1, 1, 1)
 						else
-							tt:AddDoubleLine(_G.FROM, gsub(sourceText, '|c%x%x%x%x%x%x%x%x',''), nil, nil, nil, 1, 1, 1)
+							tt:AddDoubleLine(_G.FROM, gsub(mountText, '|c%x%x%x%x%x%x%x%x',''), nil, nil, nil, 1, 1, 1)
 						end
 					end
 				end
@@ -496,33 +508,37 @@ function TT:GameTooltip_OnTooltipSetUnit(tt)
 		end
 
 		if TT.db.targetInfo and IsInGroup() then
+			local isInRaid = IsInRaid()
 			for i = 1, GetNumGroupMembers() do
-				local groupUnit = (IsInRaid() and 'raid'..i or 'party'..i);
+				local groupUnit = (isInRaid and 'raid' or 'party')..i
 				if UnitIsUnit(groupUnit..'target', unit) and not UnitIsUnit(groupUnit,'player') then
-					local _, class = UnitClass(groupUnit);
+					local _, class = UnitClass(groupUnit)
 					local classColor = E:ClassColor(class) or PRIEST_COLOR
 					tinsert(targetList, format('|c%s%s|r', classColor.colorStr, UnitName(groupUnit)))
 				end
 			end
+
 			local numList = #targetList
 			if numList > 0 then
-				tt:AddLine(format('%s (|cffffffff%d|r): %s', L["Targeted By:"], numList, tconcat(targetList, ', ')), nil, nil, nil, true);
-				wipe(targetList);
+				tt:AddLine(format('%s (|cffffffff%d|r): %s', L["Targeted By:"], numList, tconcat(targetList, ', ')), nil, nil, nil, true)
+				wipe(targetList)
 			end
 		end
 	end
 
+	local color = TT:SetUnitText(tt, unit)
 	if isShiftKeyDown and isPlayerUnit then
 		TT:AddInspectInfo(tt, unit, 0, color.r, color.g, color.b)
 	end
 
 	-- NPC ID's
 	if unit and not isPlayerUnit and TT:IsModKeyDown() then
-		if C_PetBattles_IsInBattle() then return end
-		local guid = UnitGUID(unit) or ''
-		local id = tonumber(strmatch(guid, '%-(%d-)%-%x-$'), 10)
-		if id then
-			tt:AddLine(format(IDLine, _G.ID, id))
+		if not C_PetBattles_IsInBattle() then
+			local guid = UnitGUID(unit) or ''
+			local id = tonumber(strmatch(guid, '%-(%d-)%-%x-$'), 10)
+			if id then
+				tt:AddLine(format(IDLine, _G.ID, id))
+			end
 		end
 	end
 
@@ -696,17 +712,22 @@ function TT:SetUnitAura(tt, unit, index, filter)
 	local _, _, _, _, _, _, caster, _, _, id = UnitAura(unit, index, filter)
 
 	if id then
-		local sourceText
+		local mountText
 		if TT.MountIDs[id] then
-			_, _, sourceText = C_MountJournal_GetMountInfoExtraByID(TT.MountIDs[id])
-			tt:AddLine(' ')
-			tt:AddLine(sourceText, 1, 1, 1)
+			local _, _, sourceText = C_MountJournal_GetMountInfoExtraByID(TT.MountIDs[id])
+			mountText = sourceText and gsub(sourceText, blanchyFix, '|n')
+
+			if mountText then
+				tt:AddLine(' ')
+				tt:AddLine(mountText, 1, 1, 1)
+			end
 		end
 
 		if TT:IsModKeyDown() then
-			if sourceText then
+			if mountText then
 				tt:AddLine(' ')
 			end
+
 			if caster then
 				local name = UnitName(caster)
 				local _, class = UnitClass(caster)
@@ -797,7 +818,7 @@ end
 function TT:RepositionBNET(frame, _, anchor)
 	if anchor ~= _G.BNETMover then
 		frame:ClearAllPoints()
-		frame:Point(_G.BNETMover.anchorPoint or 'TOPLEFT', _G.BNETMover, _G.BNETMover.anchorPoint or 'TOPLEFT');
+		frame:Point(_G.BNETMover.anchorPoint or 'TOPLEFT', _G.BNETMover, _G.BNETMover.anchorPoint or 'TOPLEFT')
 	end
 end
 
@@ -843,12 +864,12 @@ function TT:Initialize()
 	TT.db = E.db.tooltip
 
 	TT.MountIDs = {}
-	local mountIDs = C_MountJournal_GetMountIDs();
+	local mountIDs = C_MountJournal_GetMountIDs()
 	for _, mountID in ipairs(mountIDs) do
 		TT.MountIDs[select(2, C_MountJournal_GetMountInfoByID(mountID))] = mountID
 	end
 
-	if E.private.tooltip.enable ~= true then return end
+	if not E.private.tooltip.enable then return end
 	TT.Initialized = true
 
 	GameTooltip.StatusBar = GameTooltipStatusBar

@@ -3,8 +3,8 @@ OneRing_Config = {
 	["CharProfiles"] = {
 		["Ravencrest-Rentaki"] = "default",
 	},
-	["_GameVersion"] = "9.0.5",
-	["_OPieVersion"] = "Xe 2a (3.104)",
+	["_GameVersion"] = "9.1.0",
+	["_OPieVersion"] = "Xe 6 (3.106)",
 	["ProfileStorage"] = {
 		["default"] = {
 			["Bindings"] = {
@@ -161,67 +161,72 @@ OneRing_Config = {
 				}, -- [3]
 				{
 					"toy", -- [1]
+					166746, -- [2]
+					["sliceToken"] = "ABuezUpxW6e",
+				}, -- [4]
+				{
+					"toy", -- [1]
 					172924, -- [2]
 					["sliceToken"] = "ABuek9oOYKe",
-				}, -- [4]
+				}, -- [5]
 				{
 					"toy", -- [1]
 					182773, -- [2]
 					["sliceToken"] = "ABuekGIIEgr",
-				}, -- [5]
+				}, -- [6]
 				{
 					"item", -- [1]
 					140192, -- [2]
 					["sliceToken"] = "ABuedrLpazH",
-				}, -- [6]
+				}, -- [7]
 				{
 					"item", -- [1]
 					110560, -- [2]
 					["sliceToken"] = "ABuedrLpaz0",
-				}, -- [7]
+				}, -- [8]
 				{
 					"item", -- [1]
 					141605, -- [2]
 					["sliceToken"] = "ABuedrLpazG",
-				}, -- [8]
+				}, -- [9]
 				{
 					"item", -- [1]
 					52251, -- [2]
 					["sliceToken"] = "ABuedrLpazF",
-				}, -- [9]
+				}, -- [10]
 				{
 					"mount", -- [1]
 					407, -- [2]
 					["sliceToken"] = "ABuegWfPp7e",
-				}, -- [10]
+				}, -- [11]
 				{
 					"mount", -- [1]
 					1039, -- [2]
 					["sliceToken"] = "ABue4R8V2Ee",
-				}, -- [11]
+				}, -- [12]
 				{
 					["sliceToken"] = "ABuedrLpaztI",
 					["id"] = 122708,
-				}, -- [12]
+				}, -- [13]
 				{
 					["sliceToken"] = "ABuejA9FANs",
 					["id"] = 69046,
-				}, -- [13]
+				}, -- [14]
 				{
 					"item", -- [1]
 					49040, -- [2]
 					["sliceToken"] = "ABuejA9FANa",
-				}, -- [14]
+				}, -- [15]
 				{
 					"toy", -- [1]
 					40768, -- [2]
 					["sliceToken"] = "ABuejA9FANp",
-				}, -- [15]
+				}, -- [16]
 				{
 					"toy", -- [1]
 					156833, -- [2]
 					["sliceToken"] = "ABuedrLpazt8",
-				}, -- [16]
+				}, -- [17]
 				["name"] = "Important Stuff",
 				["save"] = true,
 				["hotkey"] = "F1",

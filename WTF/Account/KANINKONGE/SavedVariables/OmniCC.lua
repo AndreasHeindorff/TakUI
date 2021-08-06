@@ -2,7 +2,7 @@
 OmniCCDB = {
 	["global"] = {
 		["dbVersion"] = 6,
-		["addonVersion"] = "9.0.10",
+		["addonVersion"] = "9.1.0",
 	},
 	["profileKeys"] = {
 		["Takidari - Ravencrest"] = "Default",
@@ -100,6 +100,8 @@ OmniCCDB = {
 	},
 }
 OmniCC4Config = {
+	["groups"] = {
+	},
 	["version"] = "8.2.5",
 	["groupSettings"] = {
 		["base"] = {
@@ -155,7 +157,5 @@ OmniCC4Config = {
 			["minEffectDuration"] = 30,
 			["fontSize"] = 16,
 		},
-	},
-	["groups"] = {
 	},
 }

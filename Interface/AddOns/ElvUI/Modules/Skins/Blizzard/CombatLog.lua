@@ -1,4 +1,4 @@
-local E, L, V, P, G = unpack(select(2, ...)); --Import: Engine, Locales, PrivateDB, ProfileDB, GlobalDB
+local E, L, V, P, G = unpack(select(2, ...)) --Import: Engine, Locales, PrivateDB, ProfileDB, GlobalDB
 local S = E:GetModule('Skins')
 local CH = E:GetModule('Chat')
 local LSM = E.Libs.LSM
@@ -19,7 +19,7 @@ end
 
 -- credit: Aftermathh, edited by Simpy
 function S:Blizzard_CombatLog()
-	if E.private.chat.enable ~= true then return end
+	if not E.private.chat.enable then return end
 	-- this is always on with the chat module, it's only handle the top bar in combat log chat frame
 
 	hooksecurefunc('Blizzard_CombatLog_Update_QuickButtons', StyleButtons)
@@ -27,7 +27,7 @@ function S:Blizzard_CombatLog()
 
 	local bar = _G.CombatLogQuickButtonFrame_Custom
 	bar:StripTextures()
-	bar:CreateBackdrop('Transparent', nil, nil, nil, nil, nil, true)
+	bar:SetTemplate('Transparent')
 
 	bar:ClearAllPoints()
 	bar:SetPoint('BOTTOMLEFT', _G.ChatFrame2, 'TOPLEFT', -3, 2)
@@ -35,7 +35,7 @@ function S:Blizzard_CombatLog()
 
 	local progress = _G.CombatLogQuickButtonFrame_CustomProgressBar
 	progress:SetStatusBarTexture(E.media.normTex)
-	progress:SetInside(bar.backdrop)
+	progress:SetInside(bar)
 
 	S:HandleNextPrevButton(_G.CombatLogQuickButtonFrame_CustomAdditionalFilterButton)
 	_G.CombatLogQuickButtonFrame_CustomAdditionalFilterButton:ClearAllPoints()

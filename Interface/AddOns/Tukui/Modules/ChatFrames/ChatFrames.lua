@@ -3,9 +3,32 @@ local T, C, L = select(2, ...):unpack()
 local Chat = T["Chat"]
 local Toast = BNToastFrame
 local Noop = function() end
+local IsRightChatFound = false
 
 -- Set name for right chat
 Chat.RightChatName = OTHER
+
+-- Chat default positions
+Chat.Positions = {
+	["Frame1"] = {
+		["Anchor1"] = "BOTTOMLEFT",
+		["Anchor2"] = "BOTTOMLEFT",
+		["X"] = 34,
+		["Y"] = 50,
+		["Width"] = 370,
+		["Height"] = 108,
+		["IsUndocked"] = false,
+	},
+	["Frame4"] = {
+		["Anchor1"] = "BOTTOMRIGHT",
+		["Anchor2"] = "BOTTOMRIGHT",
+		["X"] = -34,
+		["Y"] = 50,
+		["Width"] = 370,
+		["Height"] = 108,
+		["IsUndocked"] = true,
+	},
+}
 
 -- Update editbox border color
 function Chat:UpdateEditBoxColor()
@@ -35,7 +58,7 @@ function Chat:UpdateEditBoxColor()
 end
 
 function Chat:LockChat()
-	T.Print(L.Help.ChatMove)
+	T.Print(L.Others.ChatMove)
 end
 
 function Chat:MoveAudioButtons()
@@ -162,9 +185,11 @@ function Chat:StyleFrame(frame)
 	_G[format("ChatFrame%sEditBoxMid", ID)]:Kill()
 	_G[format("ChatFrame%sEditBoxRight", ID)]:Kill()
 	
-	_G[format("ChatFrame%sEditBoxFocusLeft", ID)]:Kill()
-	_G[format("ChatFrame%sEditBoxFocusMid", ID)]:Kill()
-	_G[format("ChatFrame%sEditBoxFocusRight", ID)]:Kill()
+	if T.Retail then
+		_G[format("ChatFrame%sEditBoxFocusLeft", ID)]:Kill()
+		_G[format("ChatFrame%sEditBoxFocusMid", ID)]:Kill()
+		_G[format("ChatFrame%sEditBoxFocusRight", ID)]:Kill()
+	end
 
 	-- Mouse Wheel
 	Frame:SetScript("OnMouseWheel", Chat.OnMouseWheel)
@@ -193,59 +218,76 @@ function Chat:StyleTempFrame()
 end
 
 function Chat:SaveChatFramePositionAndDimensions()
-	local Anchor1, _, Anchor2, X, Y = self:GetPoint()
+	local Anchor1, Parent, Anchor2, X, Y = self:GetPoint()
 	local Width, Height = self:GetSize()
 	local ID = self:GetID()
+	local IsUndocked
+	
+	if self.isDocked then
+		IsUndocked = false
+	else
+		IsUndocked = true
+	end
+	
+	TukuiDatabase.Variables[T.MyRealm][T.MyName].Chat.Positions["Frame" .. ID] = {
+		["Anchor1"] = Anchor1,
+		["Anchor2"] = Anchor2,
+		["X"] = X,
+		["Y"] = Y,
+		["Width"] = Width,
+		["Height"] = Height,
+		["IsUndocked"] = IsUndocked,
+	}
+end
 
-	TukuiData[GetRealmName()][UnitName("Player")].Chat["Frame" .. ID] = {Anchor1, Anchor2, X, Y, Width, Height}
+function Chat:Dock(frame)
+	FCF_DockFrame(frame, #FCFDock_GetChatFrames(GENERAL_CHAT_DOCK) + 1, true)
+end
+
+function Chat:Undock(frame)
+	FCF_UnDockFrame(frame)
+	FCF_SetTabPosition(frame, 0)
 end
 
 function Chat:SetChatFramePosition()
 	local Frame = self
 	local ID = Frame:GetID()
+	local Tab = _G["ChatFrame"..ID.."Tab"]
+	local IsMovable = Frame:IsMovable()
+	local Settings = TukuiDatabase.Variables[T.MyRealm][T.MyName].Chat.Positions["Frame" .. ID]
+	
+	if Tab:IsShown() then
+		if IsRightChatFound and not Frame.isDocked then
+			Chat:Dock(Frame)
+		end
 
-	local Settings = TukuiData[GetRealmName()][UnitName("Player")].Chat["Frame" .. ID]
-
-	if Settings then
-		if C.General.Themes.Value == "Tukui" then
-			local Anchor1, Anchor2, X, Y, Width, Height = unpack(Settings)
-			local Movers = T.Movers
-
-			if ID == 1 then
-				Frame:SetParent(T.DataTexts.Panels.Left)
-				Frame:SetUserPlaced(true)
-				Frame:ClearAllPoints()
-				Frame:SetSize(C.Chat.LeftWidth, C.Chat.LeftHeight - 62)
-				Frame:SetPoint("BOTTOMLEFT", T.DataTexts.Panels.Left, "TOPLEFT", 0, 2)
-			elseif (ID == 4) then
-				if Frame:IsShown() and not Frame.isDocked then
-					Frame:SetParent(T.DataTexts.Panels.Right)
-					Frame:SetUserPlaced(true)
-					Frame:ClearAllPoints()
-					Frame:SetSize(C.Chat.RightWidth, C.Chat.RightHeight - 62)
-					Frame:SetPoint("BOTTOMLEFT", T.DataTexts.Panels.Right, "TOPLEFT", 0, 2)
-
-					if C.Chat.RightChatAlignRight then
-						Frame:SetJustifyH("RIGHT")
-					end
-				end
-			end
-		else
-			if not Frame:IsMovable() then
-				return
-			end
-
-			local Anchor1, Anchor2, X, Y, Width, Height = unpack(Settings)
-
+		if ID == 1 then
+			Frame:SetParent(T.DataTexts.Panels.Left)
 			Frame:SetUserPlaced(true)
 			Frame:ClearAllPoints()
-			Frame:SetPoint(Anchor1, UIParent, Anchor2, X, Y)
-			Frame:SetSize(Width, Height)
-
-			if (ID == 4) and (C.Chat.RightChatAlignRight) then
-				Frame:SetJustifyH("RIGHT")
-			end
+			Frame:SetSize(C.Chat.LeftWidth, C.Chat.LeftHeight - 62)
+			Frame:SetPoint("BOTTOMLEFT", T.DataTexts.Panels.Left, "TOPLEFT", 0, 4)
 		end
+
+		if ID > 1 and Settings and Settings.IsUndocked and not IsRightChatFound then
+			if Frame.isDocked then
+				Chat:Undock(Frame)
+			end
+
+			Frame:SetParent(T.DataTexts.Panels.Right)
+			Frame:SetUserPlaced(true)
+			Frame:ClearAllPoints()
+			Frame:SetSize(C.Chat.RightWidth, C.Chat.RightHeight - 62)
+			Frame:SetPoint("BOTTOMLEFT", T.DataTexts.Panels.Right, "TOPLEFT", 0, 4)
+
+			IsRightChatFound = true
+		end
+
+		if C.Chat.RightChatAlignRight and Settings and Settings.IsUndocked then
+			Frame:SetJustifyH("RIGHT")
+		end
+		
+		FCF_SavePositionAndDimensions(Frame)
 	end
 end
 
@@ -259,19 +301,38 @@ function Chat:Reset()
 		return
 	end
 	
+	-- Reset chat database
+	TukuiDatabase.Variables[T.MyRealm][T.MyName].Chat.Positions = Chat.Positions
+	
+	-- Reset right chat frame detection
+	IsRightChatFound = false
+	
 	-- Create our custom chatframes
 	FCF_ResetChatWindows()
 	FCF_SetLocked(ChatFrame1, 1)
 	FCF_DockFrame(ChatFrame2)
 	FCF_SetLocked(ChatFrame2, 1)
-	FCF_OpenNewWindow(GLOBAL_CHANNELS)
+	
+	if T.BCC then
+		FCF_OpenNewWindow(COMMUNITIES_DEFAULT_CHANNEL_NAME)
+	end
+	
 	FCF_SetLocked(ChatFrame3, 1)
 	FCF_DockFrame(ChatFrame3)
+	
 	FCF_OpenNewWindow(Chat.RightChatName)
 	FCF_UnDockFrame(ChatFrame4)
 	FCF_OpenNewWindow(NPC_NAMES_DROPDOWN_ALL)
 	FCF_SetLocked(ChatFrame5, 1)
 	FCF_DockFrame(ChatFrame5)
+	
+	if T.Retail then
+		FCF_OpenNewWindow(GLOBAL_CHANNELS)
+		FCF_SetLocked(ChatFrame6, 1)
+		FCF_DockFrame(ChatFrame6)
+		FCF_SetChatWindowFontSize(nil, ChatFrame6, 12)
+	end
+	
 	FCF_SetChatWindowFontSize(nil, ChatFrame1, 12)
 	FCF_SetChatWindowFontSize(nil, ChatFrame2, 12)
 	FCF_SetChatWindowFontSize(nil, ChatFrame3, 12)
@@ -290,8 +351,8 @@ function Chat:Reset()
 	end
 	
 	-- Remove everything in first 4 chat windows
-	for i = 1, 5 do
-		if i ~= 2 then
+	for i = 1, 6 do
+		if (T.Retail and i ~= 2 and i ~= 3) or (T.BCC and i ~= 2 and i ~= 6) then
 			local ChatFrame = _G["ChatFrame"..i]
 
 			ChatFrame_RemoveAllMessageGroups(ChatFrame)
@@ -319,23 +380,25 @@ function Chat:Reset()
 	end
 	
 	FCF_SelectDockFrame(ChatFrame1)
-
+	
 	-----------------------
 	-- ChatFrame 3 Setup --
 	-----------------------
-
-	for i = 1, #Channels do
-		ChatFrame_RemoveChannel(ChatFrame1, Channels[i])
-		ChatFrame_AddChannel(ChatFrame3, Channels[i])
-	end
 	
-	-- Adjust Chat Colors
-	ChangeChatColor("CHANNEL1", 195/255, 230/255, 232/255)
-	ChangeChatColor("CHANNEL2", 232/255, 158/255, 121/255)
-	ChangeChatColor("CHANNEL3", 232/255, 228/255, 121/255)
-	ChangeChatColor("CHANNEL4", 232/255, 228/255, 121/255)
-	ChangeChatColor("CHANNEL5", 0/255, 228/255, 121/255)
-	ChangeChatColor("CHANNEL6", 0/255, 228/255, 0/255)
+	if T.BCC then
+		for i = 1, #Channels do
+			ChatFrame_RemoveChannel(ChatFrame1, Channels[i])
+			ChatFrame_AddChannel(ChatFrame3, Channels[i])
+		end
+
+		-- Adjust Chat Colors
+		ChangeChatColor("CHANNEL1", 195/255, 230/255, 232/255)
+		ChangeChatColor("CHANNEL2", 232/255, 158/255, 121/255)
+		ChangeChatColor("CHANNEL3", 232/255, 228/255, 121/255)
+		ChangeChatColor("CHANNEL4", 232/255, 228/255, 121/255)
+		ChangeChatColor("CHANNEL5", 0/255, 228/255, 121/255)
+		ChangeChatColor("CHANNEL6", 0/255, 228/255, 0/255)
+	end
 	
 	-----------------------
 	-- ChatFrame 4 Setup --
@@ -364,6 +427,25 @@ function Chat:Reset()
 	
 	for _, v in ipairs(ChatGroup) do
 		ChatFrame_AddMessageGroup(_G.ChatFrame5, v)
+	end
+	
+	-----------------------
+	-- ChatFrame 6 Setup --
+	-----------------------
+
+	if T.Retail then
+		for i = 1, #Channels do
+			ChatFrame_RemoveChannel(ChatFrame1, Channels[i])
+			ChatFrame_AddChannel(ChatFrame6, Channels[i])
+		end
+
+		-- Adjust Chat Colors
+		ChangeChatColor("CHANNEL1", 195/255, 230/255, 232/255)
+		ChangeChatColor("CHANNEL2", 232/255, 158/255, 121/255)
+		ChangeChatColor("CHANNEL3", 232/255, 228/255, 121/255)
+		ChangeChatColor("CHANNEL4", 232/255, 228/255, 121/255)
+		ChangeChatColor("CHANNEL5", 0/255, 228/255, 121/255)
+		ChangeChatColor("CHANNEL6", 0/255, 228/255, 0/255)
 	end
 end
 
@@ -440,7 +522,7 @@ function Chat:HideChatFrame(button, id)
 	button.state = "hidden"
 	button.Texture:SetTexture(C.Medias.ArrowUp)
 
-	local Data = TukuiData[T.MyRealm][T.MyName]
+	local Data = TukuiDatabase.Variables[T.MyRealm][T.MyName]
 
 	if id == 1 then
 		Data.ChatLeftHidden = true
@@ -486,7 +568,7 @@ function Chat:ShowChatFrame(button, id)
 	button.state = "show"
 	button.Texture:SetTexture(C.Medias.ArrowDown)
 
-	local Data = TukuiData[T.MyRealm][T.MyName]
+	local Data = TukuiDatabase.Variables[T.MyRealm][T.MyName]
 
 	if id == 1 then
 		Data.ChatLeftHidden = false
@@ -504,10 +586,6 @@ function Chat:ToggleChat()
 end
 
 function Chat:AddToggles()
-	if C.General.Themes.Value ~= "Tukui" then
-		return
-	end
-
 	for i = 1, 2 do
 		local Button = CreateFrame("Button", nil, UIParent)
 
@@ -547,6 +625,7 @@ function Chat:Setup()
 		Tab.noMouseAlpha = 0
 		Tab:SetAlpha(0)
 		Tab:HookScript("OnClick", self.SwitchSpokenDialect)
+		Tab:SetFrameLevel(6)
 
 		self:StyleFrame(Frame)
 
@@ -570,7 +649,9 @@ function Chat:Setup()
 	ChatConfigFrameDefaultButton:Kill()
 	ChatFrameMenuButton:Kill()
 	
-	QuickJoinToastButton:Kill()
+	if T.Retail then
+		QuickJoinToastButton:Kill()
+	end
 
 	ChatMenu:ClearAllPoints()
 	ChatMenu:SetPoint("BOTTOMLEFT", LeftBG, "TOPLEFT", -1, 16)
@@ -634,17 +715,15 @@ function Chat:Setup()
 end
 
 function Chat:DisplayChat()
-	if C.General.Themes.Value == "Tukui" then
-		local Data = TukuiData[T.MyRealm][T.MyName]
+	local Data = TukuiDatabase.Variables[T.MyRealm][T.MyName]
 
-		if Data.ChatLeftHidden then
-			-- Need to delay this one, because of docked tabs
-			C_Timer.After(1, function() Chat.ToggleChat(T.Chat.Panels.LeftChatToggle) end)
-		end
+	if Data.ChatLeftHidden then
+		-- Need to delay this one, because of docked tabs
+		C_Timer.After(1, function() Chat.ToggleChat(T.Chat.Panels.LeftChatToggle) end)
+	end
 
-		if Data.ChatRightHidden then
-			C_Timer.After(1, function() Chat.ToggleChat(T.Chat.Panels.RightChatToggle) end)
-		end
+	if Data.ChatRightHidden then
+		C_Timer.After(1, function() Chat.ToggleChat(T.Chat.Panels.RightChatToggle) end)
 	end
 end
 
@@ -678,16 +757,16 @@ function Chat:AddHooks()
 end
 
 function Chat:AddPanels()
-	local LeftChatBG = CreateFrame("Frame", "ChatLeftBackground", T.DataTexts.Panels.Left)
-	LeftChatBG:SetSize(T.DataTexts.Panels.Left:GetWidth() + 12, C.General.Themes.Value == "Tukui" and C.Chat.LeftHeight or 177)
+	local LeftChatBG = CreateFrame("Frame", "TukuiChatLeftBackground", T.DataTexts.Panels.Left)
+	LeftChatBG:SetSize(T.DataTexts.Panels.Left:GetWidth() + 12, C.Chat.LeftHeight)
 	LeftChatBG:SetPoint("BOTTOM", T.DataTexts.Panels.Left, "BOTTOM", 0, -6)
 	LeftChatBG:SetFrameLevel(1)
 	LeftChatBG:SetFrameStrata("BACKGROUND")
 	LeftChatBG:CreateBackdrop("Transparent")
 	LeftChatBG.Backdrop:CreateShadow()
 
-	local RightChatBG = CreateFrame("Frame", "ChatRightBackground", T.DataTexts.Panels.Right)
-	RightChatBG:SetSize(T.DataTexts.Panels.Right:GetWidth() + 12, C.General.Themes.Value == "Tukui" and C.Chat.RightHeight or 177)
+	local RightChatBG = CreateFrame("Frame", "TukuiChatRightBackground", T.DataTexts.Panels.Right)
+	RightChatBG:SetSize(T.DataTexts.Panels.Right:GetWidth() + 12, C.Chat.RightHeight)
 	RightChatBG:SetPoint("BOTTOM", T.DataTexts.Panels.Right, "BOTTOM", 0, -6)
 	RightChatBG:SetFrameLevel(1)
 	RightChatBG:SetFrameStrata("BACKGROUND")
@@ -696,15 +775,15 @@ function Chat:AddPanels()
 
 	local TabsBGLeft = CreateFrame("Frame", nil, LeftChatBG)
 	TabsBGLeft:CreateBackdrop()
-	TabsBGLeft:SetSize(T.DataTexts.Panels.Left:GetWidth(), 23)
-	TabsBGLeft:SetPoint("TOP", LeftChatBG, "TOP", 0, -6)
-	TabsBGLeft:SetFrameLevel(2)
+	TabsBGLeft:SetSize(T.DataTexts.Panels.Left:GetWidth(), 21)
+	TabsBGLeft:SetPoint("TOP", LeftChatBG, "TOP", 0, -5)
+	TabsBGLeft:SetFrameLevel(5)
 
 	local TabsBGRight = CreateFrame("Frame", nil, RightChatBG)
 	TabsBGRight:CreateBackdrop()
-	TabsBGRight:SetSize(T.DataTexts.Panels.Right:GetWidth(), 23)
-	TabsBGRight:SetPoint("TOP", RightChatBG, "TOP", 0, -6)
-	TabsBGRight:SetFrameLevel(2)
+	TabsBGRight:SetSize(T.DataTexts.Panels.Right:GetWidth(), 21)
+	TabsBGRight:SetPoint("TOP", RightChatBG, "TOP", 0, -5)
+	TabsBGRight:SetFrameLevel(5)
 	
 	self.Panels = {}
 	self.Panels.LeftChat = LeftChatBG
@@ -744,10 +823,8 @@ function Chat:Enable()
 
 	FCF_UpdateButtonSide = function() end
 
-	if C.General.Themes.Value == "Tukui" then
-		FCF_ToggleLock = self.LockChat
-		FCF_ToggleLockOnDockedFrame = self.LockChat
-	end
+	FCF_ToggleLock = self.LockChat
+	FCF_ToggleLockOnDockedFrame = self.LockChat
 
 	if (not C.Chat.WhisperSound) then
 		return

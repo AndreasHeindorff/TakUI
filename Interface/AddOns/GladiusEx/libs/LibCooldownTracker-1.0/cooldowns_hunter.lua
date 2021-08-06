@@ -37,7 +37,7 @@ LCT_SpellData[1543] = {
 LCT_SpellData[187698] = {
 	class = "HUNTER",
 	cc = true,
-	cooldown = 30
+	cooldown = 25
 }
 -- Ice Trap
 LCT_SpellData[13809] = {
@@ -62,10 +62,7 @@ LCT_SpellData[109304] = {
 LCT_SpellData[187650] = {
 	class = "HUNTER",
 	cc = true,
-	cooldown = 30,
-	cooldown_overload = {
-		[SPEC_HUNTER_SURV] = 24, -- Survival
-	}
+	cooldown = 25
 }
 -- Aspect of Turtle
 LCT_SpellData[186265] = {
@@ -78,7 +75,8 @@ LCT_SpellData[186265] = {
 LCT_SpellData[5384] = {
   class = "HUNTER",
   defensive = true,
-  cooldown = 30
+  cooldown = 30,
+  opt_lower_cooldown = 15 -- With "Craven Strategem" legendary
 }
 -- Spider Sting
 LCT_SpellData[202914] = {

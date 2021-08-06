@@ -27,7 +27,7 @@ function UnitFrames:Arena()
 
 	Health.Background = Health:CreateTexture(nil, "BACKGROUND")
 	Health.Background:SetTexture(HealthTexture)
-    Health.Background:SetAllPoints(Health)
+	Health.Background:SetAllPoints(Health)
 	Health.Background.multiplier = C.UnitFrames.StatusBarBackgroundMultiplier / 100
 
 	Health.colorDisconnected = true
@@ -147,6 +147,21 @@ function UnitFrames:Arena()
 		self.Debuffs = Debuffs
 	end
 	
+	if T.BCC then
+		local Trinket = CreateFrame("Frame", nil, self)
+		Trinket:SetSize(35, 35)
+		Trinket:SetPoint("BOTTOMRIGHT", self, "BOTTOMLEFT", -6, 0)
+		Trinket:CreateBackdrop()
+		Trinket:CreateShadow()
+		
+		Trinket.Icon = Trinket:CreateTexture(nil, "ARTWORK")
+		Trinket.Icon:SetInside(Trinket)
+		Trinket.Icon:SetTexture(T.MyFaction == "Horde" and "Interface\\Icons\\inv_jewelry_trinketpvp_01" or "Interface\\Icons\\inv_jewelry_trinketpvp_02")
+		Trinket.Icon:SetTexCoord(unpack(T.IconCoord))
+		
+		self.Trinket = Trinket
+	end
+	
 	local Highlight = CreateFrame("Frame", nil, self, "BackdropTemplate")
 	Highlight:SetBackdrop({edgeFile = C.Medias.Glow, edgeSize = C.UnitFrames.HighlightSize})
 	Highlight:SetOutside(self, C.UnitFrames.HighlightSize, C.UnitFrames.HighlightSize)
@@ -158,11 +173,14 @@ function UnitFrames:Arena()
 	if C.UnitFrames.Smoothing then
 		Health.smoothing = true
 		Power.smoothing = true
+
+		if self.HealthPrediction then
+			self.HealthPrediction.smoothing = true
+		end
 	end
 	
 	self:RegisterEvent("PLAYER_TARGET_CHANGED", UnitFrames.Highlight, true)
 
-	self:Tag(Name, "[raidcolor][Tukui:NameLong] [arenaspec]")
 	self.Health = Health
 	self.Health.bg = Health.Background
 	self.Power = Power
@@ -170,4 +188,10 @@ function UnitFrames:Arena()
 	self.Name = Name
 	self.RaidTargetIndicator = RaidIcon
 	self.Highlight = Highlight
+	
+	if T.Retail then
+		self:Tag(Name, "[raidcolor][Tukui:NameLong] [arenaspec]")
+	else
+		self:Tag(Name, "[raidcolor][Tukui:NameLong]")
+	end
 end

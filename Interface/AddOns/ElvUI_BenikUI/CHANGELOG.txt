@@ -1,3 +1,35 @@
+4.09 (Aug 4, 2021)
+*Hardcode Renown DT max to 80
+*Style CovenantRenown frame
+*Followed Azils fixes for DBM Bar icons
+*Added shadows on Nameplate buff/debuff icons
+*Fix buff/debuff border color
+*Style animaDiversionUI
+
+4.08 (Jul 18, 2021)
+*Fixed broken options
+*Fixed Install Chat step not moving the Loot/Trade tab to the left chat panel
+*Set min ElvUI version to 12.35
+
+4.07 (Jul 11, 2021)
+*More backdrop fixes
+*Updated Donators/Patrons
+*Fixed ClassTactics style
+*Screen size var update (Simpy)
+
+4.06 (Jun 29, 2021)
+*More backdrop fixes
+*Achievements frame still has a backdrop
+*Fixed Actionbar errors
+*toc update for patch 9.1
+*Credits update
+*Removed all .backdrop from skins
+*Updated Patrons/Donators list
+*I thought I added Blom in the list. Getting old...
+*Prevent CT style
+*Style ClassTactics
+*Disable BigWigs profile till I permanently delete it. Fed up with it
+
 4.05 (Apr 4, 2021)
 *Added a Dashboard like statusbar on the Objective Tracker
 *Added option to toggle Objective Tracker edit

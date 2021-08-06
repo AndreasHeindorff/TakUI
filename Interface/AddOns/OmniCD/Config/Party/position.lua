@@ -137,6 +137,7 @@ local position = {
 			order = 10,
 			type = "select",
 			values = E.L_LAYOUT,
+			sorting = {"horizontal", "doubleRow", "tripleRow", "vertical", "doubleColumn", "tripleColumn"},
 		},
 		columns = {
 			disabled = isMultiline,
@@ -170,14 +171,14 @@ local position = {
 			desc = L["Set the padding space between icon columns"],
 			order = 14,
 			type = "range",
-			min = 0, max = 100, softMax = 10, step = 1,
+			min = -5, max = 100, softMin = 0, softMax = 10, step = 1,
 		},
 		paddingY = {
 			name = L["Padding Y"],
 			desc = L["Set the padding space between icon rows"],
 			order = 15,
 			type = "range",
-			min = 0, max = 100, softMax = 10, step = 1,
+			min = -5, max = 100, softMin = 0, softMax = 10, step = 1,
 		},
 		displayInactive = {
 			name = L["Display Inactive Icons"],

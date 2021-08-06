@@ -72,7 +72,11 @@ LCT_SpellData[32375] = {
 LCT_SpellData[8122] = {
 	class = "PRIEST",
 	cc = true,
-	cooldown = 30, -- Technically 60, but most priests play with -30s talent.
+	cooldown = 60,
+	opt_lower_cooldown = 30, -- Some holy priests don't spec into chastise stun, and keep the 60s cd on fear.
+	cooldown_overload = {
+		[SPEC_PRIEST_DISC] = 30, -- Most disc priests play with -30s talent, therefore make it baseline.
+	}
 }
 -- Priest/talents
 -- Thoughtsteal
@@ -195,8 +199,16 @@ LCT_SpellData[47536] = {
 	duration = 10,
 	cooldown = 90,
 }
--- Priest/Discipline/talents
 
+-- Priest/Discipline/talents
+-- Spirit Shell
+LCT_SpellData[109964] = {
+	class = "PRIEST",
+	specID = { SPEC_PRIEST_DISC },
+	talent = true,
+	defensive = true,
+	cooldown = 90,
+}
 -- Schism
 LCT_SpellData[214621] = {
 	class = "PRIEST",
@@ -307,13 +319,6 @@ LCT_SpellData[213602] = {
 	cooldown = 45,
 	replaces = 586 -- Fade
 }
--- Inner Focus
-LCT_SpellData[196762] = {
-	class = "PRIEST",
-	specID = { SPEC_PRIEST_HOLY },
-	talent = true,
-	cooldown = 30
-}
 -- Ray of Hope
 LCT_SpellData[197268] = {
 	class = "PRIEST",
@@ -322,11 +327,9 @@ LCT_SpellData[197268] = {
 	cooldown = 60
 }
 -- Holy Word: Sanctify
--- V: old Circle of Healing
 LCT_SpellData[34861] = {
 	class = "PRIEST",
 	specID = { SPEC_PRIEST_HOLY },
-	talent = true,
 	heal = true,
 	cooldown = 60
 }

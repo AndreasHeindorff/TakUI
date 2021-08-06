@@ -1,4 +1,4 @@
-local E, L, V, P, G = unpack(select(2, ...)); --Import: Engine, Locales, PrivateDB, ProfileDB, GlobalDB
+local E, L, V, P, G = unpack(select(2, ...)) --Import: Engine, Locales, PrivateDB, ProfileDB, GlobalDB
 local NP = E:GetModule('NamePlates')
 
 local _G = _G
@@ -33,7 +33,7 @@ end
 function NP:Construct_Portrait(nameplate)
 	local Portrait = nameplate:CreateTexture(nameplate:GetName() .. 'Portrait', 'OVERLAY', nil, 2)
 	Portrait:SetTexCoord(.18, .82, .18, .82)
-	Portrait:CreateBackdrop(nil, nil, nil, nil, nil, true)
+	Portrait:CreateBackdrop(nil, nil, nil, nil, nil, true, true)
 	Portrait:Hide()
 
 	Portrait.PostUpdate = NP.Portrait_PostUpdate

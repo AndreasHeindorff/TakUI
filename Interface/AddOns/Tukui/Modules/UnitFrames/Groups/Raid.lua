@@ -33,7 +33,7 @@ function UnitFrames:Raid()
 
 	Health.Background = Health:CreateTexture(nil, "BACKGROUND")
 	Health.Background:SetTexture(HealthTexture)
-    Health.Background:SetAllPoints(Health)
+	Health.Background:SetAllPoints(Health)
 	Health.Background.multiplier = C.UnitFrames.StatusBarBackgroundMultiplier / 100
 
 	Health.Value = Health:CreateFontString(nil, "OVERLAY")
@@ -87,16 +87,17 @@ function UnitFrames:Raid()
 		outsideAlpha = C["Raid"].RangeAlpha,
 	}
 	
-	if C.Raid.AuraTrack then
+	if C.Raid.RaidBuffsStyle.Value == "Aura Track" then
 		local AuraTrack = CreateFrame("Frame", nil, Health)
 		AuraTrack:SetAllPoints()
 		AuraTrack.Texture = C.Medias.Normal
 		AuraTrack.Icons = C.Raid.AuraTrackIcons
 		AuraTrack.SpellTextures = C.Raid.AuraTrackSpellTextures
 		AuraTrack.Thickness = C.Raid.AuraTrackThickness
+		AuraTrack.Font = C.Medias.Font
 
 		self.AuraTrack = AuraTrack
-	elseif C.Raid.RaidBuffs.Value ~= "Hide" then
+	elseif C.Raid.RaidBuffsStyle.Value == "Standard" then
 		local Buffs = CreateFrame("Frame", self:GetName().."Buffs", Health)
 		local onlyShowPlayer = C.Raid.RaidBuffs.Value == "Self"
 		local filter = C.Raid.RaidBuffs.Value == "All" and "HELPFUL" or "HELPFUL|RAID"
@@ -112,19 +113,21 @@ function UnitFrames:Raid()
 		Buffs.disableCooldown = true
 		Buffs.disableMouse = true
 		Buffs.onlyShowPlayer = onlyShowPlayer
-		Buffs.desaturateNonPlayerBuffs = C.Raid.DesaturateNonPlayerBuffs
 		Buffs.filter = filter
 		Buffs.IsRaid = true
 		Buffs.PostCreateIcon = UnitFrames.PostCreateAura
+		Buffs.PostUpdateIcon = UnitFrames.DesaturateBuffs
 
 		self.Buffs = Buffs
 	end
 
 	if C.Raid.DebuffWatch then
 		local RaidDebuffs = CreateFrame("Frame", nil, Health)
-		
-		RaidDebuffs:SetHeight(Health:GetHeight() - 16)
-		RaidDebuffs:SetWidth(Health:GetHeight() - 16)
+		local Height = Health:GetHeight()
+		local DebuffSize = Height >= 32 and Height - 16 or Height
+
+		RaidDebuffs:SetHeight(DebuffSize)
+		RaidDebuffs:SetWidth(DebuffSize)
 		RaidDebuffs:SetPoint("CENTER", Health)
 		RaidDebuffs:SetFrameLevel(Health:GetFrameLevel() + 10)
 		RaidDebuffs:CreateBackdrop()
@@ -141,7 +144,7 @@ function UnitFrames:Raid()
 		RaidDebuffs.cd:SetHideCountdownNumbers(true)
 		RaidDebuffs.cd:SetAlpha(.7)
 		RaidDebuffs.onlyMatchSpellID = true
-		RaidDebuffs.showDispellableDebuff = false
+		RaidDebuffs.showDispellableDebuff = true
 		RaidDebuffs.time = RaidDebuffs:CreateFontString(nil, "OVERLAY")
 		RaidDebuffs.time:SetFont(C.Medias.Font, 12, "OUTLINE")
 		RaidDebuffs.time:SetPoint("CENTER", RaidDebuffs, 1, 0)
@@ -158,30 +161,40 @@ function UnitFrames:Raid()
 		local myBar = CreateFrame("StatusBar", nil, Health)
 		local otherBar = CreateFrame("StatusBar", nil, Health)
 		local absorbBar = CreateFrame("StatusBar", nil, Health)
+		local Vertical = Health:GetOrientation("VERTICAL") == "VERTICAL" and true or false
 
+		myBar:SetOrientation(Vertical and "VERTICAL" or "HORIZONTAL")
 		myBar:SetFrameLevel(Health:GetFrameLevel())
 		myBar:SetStatusBarTexture(HealthTexture)
-		myBar:SetPoint("TOP")
-		myBar:SetPoint("BOTTOM")
-		myBar:SetPoint("LEFT", Health:GetStatusBarTexture(), "RIGHT")
-		myBar:SetWidth(129)
+		myBar:SetPoint(Vertical and "LEFT" or "TOP")
+		myBar:SetPoint(Vertical and "RIGHT" or "BOTTOM")
+		myBar:SetPoint(Vertical and "BOTTOM" or "LEFT", Health:GetStatusBarTexture(), Vertical and "TOP" or "RIGHT")
+		myBar:SetWidth(C.Raid.WidthSize)
 		myBar:SetStatusBarColor(unpack(C.UnitFrames.HealCommSelfColor))
+		myBar:SetMinMaxValues(0, 1)
+		myBar:SetValue(0)
 
+		otherBar:SetOrientation(Vertical and "VERTICAL" or "HORIZONTAL")
 		otherBar:SetFrameLevel(Health:GetFrameLevel())
-		otherBar:SetPoint("TOP")
-		otherBar:SetPoint("BOTTOM")
-		otherBar:SetPoint("LEFT", Health:GetStatusBarTexture(), "RIGHT")
-		otherBar:SetWidth(129)
+		otherBar:SetPoint(Vertical and "LEFT" or "TOP")
+		otherBar:SetPoint(Vertical and "RIGHT" or "BOTTOM")
+		otherBar:SetPoint(Vertical and "BOTTOM" or "LEFT", myBar:GetStatusBarTexture(), Vertical and "TOP" or "RIGHT")
+		otherBar:SetWidth(C.Raid.WidthSize)
 		otherBar:SetStatusBarTexture(HealthTexture)
 		otherBar:SetStatusBarColor(unpack(C.UnitFrames.HealCommOtherColor))
+		otherBar:SetMinMaxValues(0, 1)
+		otherBar:SetValue(0)
 		
+		absorbBar:SetOrientation(Vertical and "VERTICAL" or "HORIZONTAL")
 		absorbBar:SetFrameLevel(Health:GetFrameLevel())
-		absorbBar:SetPoint("TOP")
-		absorbBar:SetPoint("BOTTOM")
-		absorbBar:SetPoint("LEFT", Health:GetStatusBarTexture(), "RIGHT")
-		absorbBar:SetWidth(129)
+		absorbBar:SetPoint(Vertical and "LEFT" or "TOP")
+		absorbBar:SetPoint(Vertical and "RIGHT" or "BOTTOM")
+		absorbBar:SetPoint(Vertical and "BOTTOM" or "LEFT", otherBar:GetStatusBarTexture(), Vertical and "TOP" or "RIGHT")
+		absorbBar:SetWidth(C.Raid.WidthSize)
 		absorbBar:SetStatusBarTexture(HealthTexture)
 		absorbBar:SetStatusBarColor(unpack(C.UnitFrames.HealCommAbsorbColor))
+		absorbBar:SetMinMaxValues(0, 1)
+		absorbBar:SetValue(0)
 
 		local HealthPrediction = {
 			myBar = myBar,
@@ -193,10 +206,10 @@ function UnitFrames:Raid()
 		self.HealthPrediction = HealthPrediction
 	end
 	
-    local ResurrectIndicator = Health:CreateTexture(nil, "OVERLAY")
-    ResurrectIndicator:SetSize(24, 24)
-    ResurrectIndicator:SetPoint("CENTER", Health)
-
+	local ResurrectIndicator = Health:CreateTexture(nil, "OVERLAY")
+	ResurrectIndicator:SetSize(24, 24)
+	ResurrectIndicator:SetPoint("CENTER", Health)
+	
 	local Highlight = CreateFrame("Frame", nil, self, "BackdropTemplate")
 	Highlight:SetBackdrop({edgeFile = C.Medias.Glow, edgeSize = C.Raid.HighlightSize})
 	Highlight:SetOutside(self, C.Raid.HighlightSize, C.Raid.HighlightSize)
@@ -208,9 +221,12 @@ function UnitFrames:Raid()
 	if C.UnitFrames.Smoothing then
 		Health.smoothing = true
 		Power.smoothing = true
+
+		if self.HealthPrediction then
+			self.HealthPrediction.smoothing = true
+		end
 	end
 
-	self:Tag(Name, "[Tukui:GetRaidNameColor][Tukui:NameShort]")
 	self:Tag(Health.Value, C.Raid.HealthTag.Value)
 	self.Health = Health
 	self.Health.bg = Health.Background
@@ -223,6 +239,12 @@ function UnitFrames:Raid()
 	self.RaidTargetIndicator = RaidIcon
 	self.Highlight = Highlight
 	self.ResurrectIndicator = ResurrectIndicator
+	
+	if T.Retail then
+		self:Tag(Name, "[Tukui:GetRaidNameColor][Tukui:NameShort]")
+	else
+		self:Tag(Name, "[Tukui:NameShort]")
+	end
 
 	self:RegisterEvent("PLAYER_TARGET_CHANGED", UnitFrames.Highlight, true)
 	self:RegisterEvent("RAID_ROSTER_UPDATE", UnitFrames.Highlight, true)

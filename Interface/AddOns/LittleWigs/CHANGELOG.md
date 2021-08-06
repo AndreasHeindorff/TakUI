@@ -1,11 +1,13 @@
 # LittleWigs
 
-## [v9.0.34](https://github.com/BigWigsMods/LittleWigs/tree/v9.0.34) (2021-05-31)
-[Full Changelog](https://github.com/BigWigsMods/LittleWigs/compare/v9.0.33...v9.0.34) [Previous Releases](https://github.com/BigWigsMods/LittleWigs/releases)
+## [v9.1.3](https://github.com/BigWigsMods/LittleWigs/tree/v9.1.3) (2021-07-09)
+[Full Changelog](https://github.com/BigWigsMods/LittleWigs/compare/v9.1.2...v9.1.3) [Previous Releases](https://github.com/BigWigsMods/LittleWigs/releases)
 
-- Update option files  
-- Classic/Deadmines/Cookie: Rename module  
-- Update option files  
-- Shadowlands/DeOtherSide/Muehzala: Add Say countdown to Cosmic Artifice  
-- Update workflow  
-- TBC/TheMechanar/Sepethrea: Error fix, closes #596  
+- Shadowlands/TazaveshTheVeiledMarket/Soleah: Add timers  
+- Shadowlands/TazaveshTheVeiledMarket/Soazmi: Improve Shuri timer  
+- Shadowlands/TazaveshTheVeiledMarket/Hylbrande: Fix Sanitizing Cycle message appearing twice  
+- Shadowlands/TazaveshTheVeiledMarket/MyzasOasis: Fix Engage not triggering until stage 2  
+- Shadowlands/TazaveshTheVeiledMarket/TheGrandMenagerie: Stop Gluttony bar when debuff is removed  
+- Shadowlands/TazaveshTheVeiledMarket/TheGrandMenagerie: Stop timers on boss death  
+- Shadowlands/TazaveshTheVeiledMarket/Zophex: Improve Interrogation and Armed Security timers  
+- Use reaction API  

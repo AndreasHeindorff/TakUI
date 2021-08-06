@@ -36,6 +36,9 @@ local MAX_CLASSES = MAX_CLASSES
 local NotifyInspect = NotifyInspect
 local SlashCmdList = SlashCmdList
 local UIParent = UIParent
+local UNITNAME_SUMMON_TITLE1 = UNITNAME_SUMMON_TITLE1
+local UNITNAME_SUMMON_TITLE2 = UNITNAME_SUMMON_TITLE2
+local UNITNAME_SUMMON_TITLE3 = UNITNAME_SUMMON_TITLE3
 local UnitClass = UnitClass
 local UnitGUID = UnitGUID
 local UnitInParty = UnitInParty
@@ -131,6 +134,21 @@ function OmniBar:OnInitialize()
 	self:RegisterEvent("COMBAT_LOG_EVENT_UNFILTERED")
 	self:RegisterEvent("UNIT_SPELLCAST_SUCCEEDED")
 	self:RegisterEvent("GROUP_ROSTER_UPDATE", "GetSpecs")
+
+	-- Remove invalid custom cooldowns
+	for k,v in pairs(self.db.global.cooldowns) do
+		if (not GetSpellInfo(k)) then
+			self.db.global.cooldowns[k] = nil
+		end
+	end
+
+	-- Populate cooldowns with spell names and icons
+	for spellId,_ in pairs(self.cooldowns) do
+		local name, _, icon = GetSpellInfo(spellId)
+		self.cooldowns[spellId].icon = self.cooldowns[spellId].icon or icon
+		self.cooldowns[spellId].name = name
+	end
+
 	self:SetupOptions()
 end
 
@@ -236,21 +254,20 @@ function OmniBar:AddCustomSpells()
 
 	-- Add custom spells
 	for k,v in pairs(self.db.global.cooldowns) do
-		-- Backup if we are going to override
-		if addon.Cooldowns[k] and (not addon.Cooldowns[k].custom) and (not self.BackupCooldowns[k]) then
-			self.BackupCooldowns[k] = self:CopyCooldown(addon.Cooldowns[k])
+		local name, _, icon = GetSpellInfo(k)
+		if name then
+			-- Backup if we are going to override
+			if addon.Cooldowns[k] and (not addon.Cooldowns[k].custom) and (not self.BackupCooldowns[k]) then
+				self.BackupCooldowns[k] = self:CopyCooldown(addon.Cooldowns[k])
+			end
+			addon.Cooldowns[k] = v
+			addon.Cooldowns[k].icon = addon.Cooldowns[k].icon or icon
+			addon.Cooldowns[k].name = name
+			if SPELL_ID_BY_NAME then SPELL_ID_BY_NAME[name] = k end
+		else
+			self.db.global.cooldowns[k] = nil
 		end
-		addon.Cooldowns[k] = v
-		if SPELL_ID_BY_NAME then SPELL_ID_BY_NAME[GetSpellInfo(k)] = k end
 	end
-
-	-- Populate cooldowns with spell names and icons
-	for spellId,_ in pairs(addon.Cooldowns) do
-		local name, _, icon = GetSpellInfo(spellId)
-		addon.Cooldowns[spellId].icon = addon.Cooldowns[spellId].icon or icon
-		addon.Cooldowns[spellId].name = name
-	end
-
 end
 
 local function OmniBar_IsAdaptive(self)
@@ -301,6 +318,13 @@ function OmniBar:Initialize(key, name)
 	-- Upgrade units
 	f.settings.units = nil
 	if (not f.settings.trackUnit) then f.settings.trackUnit = "ENEMY" end
+
+	-- Remove invalid spells
+	if f.settings.spells then
+		for k,_ in pairs(f.settings.spells) do
+			if (not addon.Cooldowns[k]) or addon.Cooldowns[k].parent then f.settings.spells[k] = nil end
+		end
+	end
 
 	f.adaptive = OmniBar_IsAdaptive(f)
 
@@ -577,24 +601,27 @@ function OmniBar_SetZone(self, refresh)
 
 end
 
+local UNITNAME_SUMMON_TITLES = {
+    UNITNAME_SUMMON_TITLE1,
+    UNITNAME_SUMMON_TITLE2,
+    UNITNAME_SUMMON_TITLE3,
+}
 local tooltip = CreateFrame("GameTooltip", "OmniBarPetTooltip", nil, "GameTooltipTemplate")
 local tooltipText = OmniBarPetTooltipTextLeft2
-local tooltipTextPatterns = {}
-for i = 1, 3 do
-    local constant = _G["UNITNAME_SUMMON_TITLE" .. i]
-    if (not constant) then break end
-    tinsert(tooltipTextPatterns, tostring(constant:gsub("%%s", "(.+)")))
-end
 local function UnitOwnerName(guid)
     if (not guid) then return end
+    for i = 1, 3 do
+        _G["UNITNAME_SUMMON_TITLE" .. i] = "OmniBar %s"
+    end
     tooltip:SetOwner(UIParent, "ANCHOR_NONE")
     tooltip:SetHyperlink("unit:" .. guid)
     local name = tooltipText:GetText()
-    if (not name) then return end
     for i = 1, 3 do
-        local owner = name:match(tooltipTextPatterns[i])
-        if owner then return owner end
+        _G["UNITNAME_SUMMON_TITLE" .. i] = UNITNAME_SUMMON_TITLES[i]
     end
+    if (not name) then return end
+    local owner = name:match("OmniBar (.+)")
+    if owner then return owner end
 end
 
 local function IsSourceHostile(sourceFlags)
@@ -923,10 +950,14 @@ function OmniBar:GetSpecs()
 		self.specs[PLAYER_NAME] = GetSpecializationInfo(GetSpecialization())
 		self:SendMessage("OmniBar_SpecUpdated", PLAYER_NAME)
 	end
+	if self.lastInspect and GetTime() - self.lastInspect < 3 then
+		return
+	end
 	for i = 1, GetNumGroupMembers() do
 		local name, _,_,_,_, class = GetRaidRosterInfo(i)
 		if name and (not self.specs[name]) and (not UnitIsUnit("player", name)) and CanInspect(name) then
 			self.inspectUnit = name
+			self.lastInspect = GetTime()
 			self:RegisterEvent("INSPECT_READY")
 			NotifyInspect(name)
 			return
@@ -1288,7 +1319,8 @@ function OmniBar_Position(self)
 	if self.settings.showUnused then
 		table.sort(self.active, function(a, b)
 			local x, y = a.ownerName or a.sourceName or "", b.ownerName or b.sourceName or ""
-			if a.class == b.class then
+			local aClass, bClass = a.class or 0, b.class or 0
+			if aClass == bClass then
 				-- if we are tracking a single unit we don't need to sort by name
 				if self.settings.trackUnit ~= "ENEMY" and self.settings.trackUnit ~= "GROUP" then
 					return a.spellID < b.spellID
@@ -1296,7 +1328,7 @@ function OmniBar_Position(self)
 				if x < y then return true end
 				if x == y then return a.spellID < b.spellID end
 			end
-			return CLASS_ORDER[a.class] < CLASS_ORDER[b.class]
+			return CLASS_ORDER[aClass] < CLASS_ORDER[bClass]
 		end)
 	else
 		-- if we aren't showing unused, just sort by added time

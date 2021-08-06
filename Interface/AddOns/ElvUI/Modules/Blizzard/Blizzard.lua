@@ -1,13 +1,11 @@
-local E, L, V, P, G = unpack(select(2, ...)); --Import: Engine, Locales, PrivateDB, ProfileDB, GlobalDB
+local E, L, V, P, G = unpack(select(2, ...)) --Import: Engine, Locales, PrivateDB, ProfileDB, GlobalDB
 local B = E:GetModule('Blizzard')
-local Skins = E:GetModule('Skins')
 local TT = E:GetModule('Tooltip')
 
 local _G = _G
 local CreateFrame = CreateFrame
 local GetQuestLogRewardXP = GetQuestLogRewardXP
 local GetRewardXP = GetRewardXP
-local IsAddOnLoaded = IsAddOnLoaded
 local UnitXP = UnitXP
 local UnitXPMax = UnitXPMax
 local C_QuestLog_ShouldShowQuestRewards = C_QuestLog.ShouldShowQuestRewards
@@ -15,8 +13,8 @@ local C_QuestLog_GetSelectedQuest = C_QuestLog.GetSelectedQuest
 
 --This changes the growth direction of the toast frame depending on position of the mover
 local function PostBNToastMove(mover)
-	local x, y = mover:GetCenter();
-	local screenHeight = E.UIParent:GetTop();
+	local x, y = mover:GetCenter()
+	local screenHeight = E.UIParent:GetTop()
 	local screenWidth = E.UIParent:GetRight()
 
 	local anchorPoint
@@ -61,20 +59,17 @@ function B:Initialize()
 	B:DisableHelpTip()
 	B:DisableNPE()
 	B:AlertMovers()
-	B:PositionCaptureBar()
-	B:PositionDurabilityFrame()
-	B:PositionGMFrames()
 	B:SkinBlizzTimers()
+	B:PositionCaptureBar()
 	B:PositionVehicleFrame()
 	B:PositionTalkingHead()
-	B:Handle_LevelUpDisplay_BossBanner()
-	B:Handle_UIWidgets()
+	B:HandleWidgets()
 
-	if not (IsAddOnLoaded('DugisGuideViewerZ') or IsAddOnLoaded('!KalielsTracker')) then
+	if not (E:IsAddOnEnabled('DugisGuideViewerZ') or E:IsAddOnEnabled('!KalielsTracker')) then
 		B:MoveObjectiveFrame()
 	end
 
-	if not IsAddOnLoaded('SimplePowerBar') then
+	if not E:IsAddOnEnabled('SimplePowerBar') then
 		B:PositionAltPowerBar()
 		B:SkinAltPowerBar()
 	end
@@ -96,27 +91,6 @@ function B:Initialize()
 
 	--Add (+X%) to quest rewards experience text
 	B:SecureHook('QuestInfo_Display', 'QuestXPPercent')
-
-	-- MicroButton Talent Alert
-	local TalentMicroButtonAlert = _G.TalentMicroButtonAlert
-	if TalentMicroButtonAlert then -- why do we need to check this?
-		if E.global.general.showMissingTalentAlert then
-			TalentMicroButtonAlert:ClearAllPoints()
-			TalentMicroButtonAlert:Point('CENTER', E.UIParent, 'TOP', 0, -75)
-			TalentMicroButtonAlert:StripTextures()
-			TalentMicroButtonAlert.Arrow:Hide()
-			TalentMicroButtonAlert.Text:FontTemplate()
-			TalentMicroButtonAlert:CreateBackdrop('Transparent')
-			Skins:HandleCloseButton(TalentMicroButtonAlert.CloseButton)
-
-			TalentMicroButtonAlert.tex = TalentMicroButtonAlert:CreateTexture(nil, 'OVERLAY')
-			TalentMicroButtonAlert.tex:Point('RIGHT', -10, 0)
-			TalentMicroButtonAlert.tex:SetTexture([[Interface\DialogFrame\UI-Dialog-Icon-AlertNew]])
-			TalentMicroButtonAlert.tex:Size(32, 32)
-		else
-			TalentMicroButtonAlert:Kill() -- Kill it, because then the blizz default will show
-		end
-	end
 end
 
 E:RegisterModule(B:GetName())

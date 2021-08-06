@@ -97,7 +97,6 @@ LCT_SpellData[61336] = {
 	defensive = true,
 	cooldown = 180,
 	duration = 6,
-	charges = 2
 }
 -- Druid/talents/mixed
 -- Thorns
@@ -246,10 +245,11 @@ LCT_SpellData[202028] = {
 }
 
 -- Druid/Guardian
--- Disorienting Roar
+-- Incapacitating Roar
 LCT_SpellData[99] = {
 	class = "DRUID",
-	specID = { SPEC_DRUID_GUARDIAN },
+	specID = { SPEC_DRUID_GUARDIAN, SPEC_DRUID_BALANCE, SPEC_DRUID_FERAL, SPEC_DRUID_RESTO },
+	talent = true, -- Baseline for Guardian, but talent for other specs
 	cooldown = 30
 }
 -- Frenzied Regeneration
@@ -260,8 +260,8 @@ LCT_SpellData[22842] = {
 	charges = 2,
 	cooldown = 36,
 }
--- Druid/guardian/talents
--- Incarnation (guardian)
+-- Druid/Guardian/talents
+-- Incarnation (Guardian)
 LCT_SpellData[102558] = {
 	class = "DRUID",
 	specID = { SPEC_DRUID_GUARDIAN },
@@ -308,6 +308,14 @@ LCT_SpellData[201664] = {
 	specID = { SPEC_DRUID_GUARDIAN },
 	talent = true,
 	cooldown = 30
+}
+-- Emerald Slumber
+LCT_SpellData[329042] = {
+	class = "DRUID",
+	specID = { SPEC_DRUID_GUARDIAN },
+	talent = true,
+	cooldown = 120,
+  duration = 8
 }
 
 -- Druid/Restoration
@@ -418,7 +426,6 @@ LCT_SpellData[323546] = {
 LCT_SpellData[325727] = {
 	class = "DRUID",
 	covenant = "NECROLORD",
-	offensive = true,		-- alternates as it moves...
 	duration = 12,
 	cooldown = 25
 }

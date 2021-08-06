@@ -15,13 +15,17 @@ LCT_SpellData[56222] = {
 LCT_SpellData[49576] = {
 	class = "DEATHKNIGHT",
 	offensive = true,
-	cooldown = 25
+	cooldown = 25,
+  opt_charges = 2, -- Death's Echo
+  opt_charges_linked = { 48265, 43265 } -- Death's Advance, Death and Decay
 }
 -- Death's Advance
 LCT_SpellData[48265] = {
 	class = "DEATHKNIGHT",
 	cooldown = 45,
 	duration = 8,
+  opt_charges = 2, -- Death's Echo
+  opt_charges_linked = { 49576, 43265 } -- Death Grip, Death and Decay
 }
 -- Mind Freeze
 LCT_SpellData[47528] = {
@@ -35,13 +39,13 @@ LCT_SpellData[48792] = {
 	defensive = true,
 	duration = 8,
 	cooldown = 180,
-	opt_lower_cooldown = 148 -- With conduit cooldown reduction, season 1 max is 32 sec, update in future seasons
+	opt_lower_cooldown = 148 -- With conduit cooldown reduction, season 2 max is ?? sec, update in future seasons
 }
 -- Anti-Magic Shell
 LCT_SpellData[48707] = {
 	class = "DEATHKNIGHT",
 	defensive = true,
-	duration = 5,
+	duration = 8,
 	cooldown = 60
 }
 -- Anti-Magic Zone
@@ -66,7 +70,9 @@ LCT_SpellData[43265] = {
 	specID = { SPEC_DK_BLOOD, SPEC_DK_UNHOLY },
 	offensive = true,
 	duration = 10,
-	cooldown = 30
+	cooldown = 30,
+  opt_charges = 2, -- Death's Echo
+  opt_charges_linked = { 49576, 48265 } -- Death Grip, Death's Advance
 }
 
 -- DK/talents
@@ -256,6 +262,7 @@ LCT_SpellData[207167] = {
 	class = "DEATHKNIGHT",
 	specID = { SPEC_DK_FROST },
 	talent = true,
+	cc = true,
 	cooldown = 60
 }
 -- Horn of Winter
@@ -303,6 +310,13 @@ LCT_SpellData[63560] = {
 	duration = 15,
 	cooldown = 60
 }
+-- Apocalypse
+LCT_SpellData[275699] = {
+	class = "DEATHKNIGHT",
+	specID = { SPEC_DK_UNHOLY },
+	offensive = true,
+	cooldown = 75
+}
 -- DK/Unholy/talents
 -- Raise Abomination
 LCT_SpellData[288853] = {
@@ -341,7 +355,7 @@ LCT_SpellData[152280] = {
 	duration = 10,
 	cooldown = 20
 }
--- Unholy Frenzy
+-- Unholy Assault (old Frenzy)
 LCT_SpellData[207289] = {
 	class = "DEATHKNIGHT",
 	specID = { SPEC_DK_UNHOLY },

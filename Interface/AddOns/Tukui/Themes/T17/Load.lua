@@ -14,10 +14,13 @@ local DataText = T["DataTexts"]
 -- Let's go
 local Tukz = CreateFrame("Frame")
 
+local ToggleLock = FCF_ToggleLock
+local ToggleLockOnDockedFrame = FCF_ToggleLockOnDockedFrame
+
 function Tukz:MoveXPBars()
 	local Experience = Misc.Experience
 
-	if Experience and Experience.NumBars then
+	if C.Misc.ExperienceEnable then
 		for i = 1, Experience.NumBars do
 			local Bar = Experience["XPBar"..i]
 			local RestedBar = Experience["RestedBar"..i]
@@ -89,6 +92,32 @@ function Tukz:NoMouseAlphaOnTab()
 	end
 end
 
+function Tukz:SetChatFramePosition()
+	local Frame = self
+	local ID = Frame:GetID()
+	local IsMovable = Frame:IsMovable()
+	local Settings = TukuiDatabase.Variables[T.MyRealm][T.MyName].Chat.Positions["Frame" .. ID]
+
+	if Settings and IsMovable then
+		Frame:SetUserPlaced(true)
+		Frame:ClearAllPoints()
+
+		if ID == 1 then
+			Frame:SetParent(T.DataTexts.Panels.Left)
+			Frame:SetPoint("BOTTOMLEFT", T.DataTexts.Panels.Left, "TOPLEFT", 0, 4)
+			Frame:SetWidth(370)
+			Frame:SetHeight(124)
+		elseif Settings.IsUndocked then
+			Frame:SetParent(T.DataTexts.Panels.Right)
+			Frame:SetPoint("BOTTOMRIGHT", T.DataTexts.Panels.Right, "TOPRIGHT", 0, 4)
+			Frame:SetWidth(370)
+			Frame:SetHeight(124)
+		end
+	end
+	
+	FCF_SavePositionAndDimensions(Frame)
+end
+
 function Tukz:SetupChat()
 	local LC = T.Chat.Panels.LeftChat
 	local RC = T.Chat.Panels.RightChat
@@ -99,6 +128,16 @@ function Tukz:SetupChat()
 	RC:SetAlpha(0)
 	DTL:CreateShadow()
 	DTR:CreateShadow()
+	
+	hooksecurefunc("FCFTab_UpdateAlpha", Tukz.NoMouseAlphaOnTab)
+	hooksecurefunc(T.Chat, "SetChatFramePosition", Tukz.SetChatFramePosition)
+	hooksecurefunc(T.Chat, "Reset", function()
+		for i = 1, NUM_CHAT_WINDOWS do
+			local ChatFrame = _G["ChatFrame"..i]
+				
+			Tukz.SetChatFramePosition(ChatFrame)
+		end
+	end)
 
 	for i = 1, NUM_CHAT_WINDOWS do
 		local Frame = _G["ChatFrame"..i]
@@ -106,9 +145,17 @@ function Tukz:SetupChat()
 
 		Tab.SetAlpha = Frame.SetAlpha
 		Tab:SetAlpha(0)
+		
+		Tukz.SetChatFramePosition(Frame)
 	end
-
-	hooksecurefunc("FCFTab_UpdateAlpha", Tukz.NoMouseAlphaOnTab)
+	
+	T.Chat.Panels.LeftChatToggle:SetParent(T.Hider)
+	T.Chat.Panels.RightChatToggle:SetParent(T.Hider)
+	
+	FCF_ToggleLock = ToggleLock
+	FCF_ToggleLockOnDockedFrame = ToggleLockOnDockedFrame
+	
+	T.Chat.DisplayChat = function() return end
 end
 
 function Tukz:MoveTooltip()
@@ -155,6 +202,19 @@ function Tukz:MoveDataTextTooltip()
 	end
 end
 
+function Tukz:SetDataTextSize()
+	TukuiLeftDataTextBox:SetWidth(370)
+	TukuiRightDataTextBox:SetWidth(370)
+	
+	for i = 1, 6 do
+		local DataText = T.DataTexts.Anchors[i]
+		local LeftWidth = (TukuiLeftDataTextBox:GetWidth() / 3) - 1
+		local RightWidth = (TukuiRightDataTextBox:GetWidth() / 3) - 1
+		
+		DataText:SetWidth(i <= 3 and LeftWidth or RightWidth)
+	end
+end
+
 function Tukz:OnEvent(event)
 	if (C.General.Themes.Value == "Tukz") then
 		self:SetupChat()
@@ -162,6 +222,7 @@ function Tukz:OnEvent(event)
 		self:MoveXPBars()
 		self:MoveTooltip()
 		self:MoveDataTextTooltip()
+		self:SetDataTextSize()
 	end
 end
 

@@ -1,4 +1,4 @@
-local E, L, V, P, G = unpack(select(2, ...)); --Import: Engine, Locales, PrivateDB, ProfileDB, GlobalDB
+local E, L, V, P, G = unpack(select(2, ...)) --Import: Engine, Locales, PrivateDB, ProfileDB, GlobalDB
 local B = E:GetModule('Blizzard')
 local LSM = E.Libs.LSM
 
@@ -56,7 +56,7 @@ end
 
 function B:PositionAltPowerBar()
 	local holder = CreateFrame('Frame', 'AltPowerBarHolder', E.UIParent)
-	holder:Point('TOP', E.UIParent, 'TOP', -1, -36)
+	holder:Point('TOP', E.UIParent, 'TOP', 0, -40)
 	holder:Size(128, 50)
 
 	_G.PlayerPowerBarAlt:ClearAllPoints()
@@ -111,8 +111,8 @@ function B:UpdateAltPowerBar()
 	_G.PlayerPowerBarAlt:UnregisterAllEvents()
 	_G.PlayerPowerBarAlt:Hide()
 
-	local barInfo = GetUnitPowerBarInfo('player');
-	local powerName, powerTooltip = GetUnitPowerBarStrings('player');
+	local barInfo = GetUnitPowerBarInfo('player')
+	local powerName, powerTooltip = GetUnitPowerBarStrings('player')
 	if barInfo then
 		local power = UnitPower('player', _G.ALTERNATE_POWER_INDEX)
 		local maxPower = UnitPowerMax('player', _G.ALTERNATE_POWER_INDEX) or 0

@@ -106,8 +106,6 @@ local function SetupLayout(layout)
 	E.db["benikui"]["general"]["auras"] = false
 	E.db["benikui"]["datatexts"]["chat"]["enable"] = true
 
-	if E.screenheight == 1080 then E.db["general"]["UIScale"] = 0.711 end
-
 	E.private["general"]["normTex"] = "BuiFlat"
 	E.private["general"]["glossTex"] = "BuiFlat"
 	E.private["general"]["chatBubbles"] = 'backdrop'
@@ -300,15 +298,15 @@ local loot = LOOT:match"^.?[\128-\191]*"
 local trade = TRADE:match"^.?[\128-\191]*"
 
 local function SetupChat()
-	for i = 1, NUM_CHAT_WINDOWS do
-		local frame = _G[format('ChatFrame%s', i)]
-		local chatFrameId = frame:GetID()
-		local chatName = FCF_GetChatWindowInfo(chatFrameId)
+	for _, name in ipairs(_G.CHAT_FRAMES) do
+		local frame = _G[name]
+		local id = frame:GetID()
+		local chatName = FCF_GetChatWindowInfo(id)
 
 		FCF_SetChatWindowFontSize(nil, frame, 11)
 
 		-- move ElvUI default loot frame to the left chat, so that Recount/Skada can go to the right chat.
-		if i == 3 and (chatName == (LOOT..' / '..TRADE) or chatName == (loot..' / '..trade)) then
+		if id == 4 and (chatName == (LOOT..' / '..TRADE) or chatName == (loot..' / '..trade)) then
 			FCF_UnDockFrame(frame)
 			frame:ClearAllPoints()
 			frame:Point('BOTTOMLEFT', LeftChatToggleButton, 'TOPLEFT', 1, 3)
@@ -1879,8 +1877,8 @@ local function SetupAddons()
 
 	-- BigWigs
 	if BUI:IsAddOnEnabled('BigWigs') then
-		BUI:LoadBigWigsProfile()
-		tinsert(addonNames, 'BigWigs')
+		--BUI:LoadBigWigsProfile()
+		--tinsert(addonNames, 'BigWigs')
 	end
 
 	-- DBM

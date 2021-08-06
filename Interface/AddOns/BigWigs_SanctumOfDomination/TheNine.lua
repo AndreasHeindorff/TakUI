@@ -2,7 +2,6 @@
 -- Module Declaration
 --
 
-if not IsTestBuild() then return end
 local mod, CL = BigWigs:NewBoss("The Nine", 2450, 2439)
 if not mod then return end
 mod:RegisterEnableMob(177095, 177094, 175726) -- Kyra, Signe, Skyja
@@ -38,9 +37,9 @@ local L = mod:GetLocale()
 if L then
 	L.fragments = "Fragments" -- Short for Fragments of Destiny
 	L.fragment = "Fragment" -- Singular Fragment of Destiny
-	L.pullin = "Run Away" -- Wings of Rage
+	L.run_away = "Run Away" -- Wings of Rage
 	L.song = "Song" -- Short for Song of Dissolution
-	L.pushback = "Go in" -- Reverberating Refrain
+	L.go_in = "Go in" -- Reverberating Refrain
 	L.valkyr = "Val'kyr" -- Short for Call of the Val'kyr
 	L.blades = "Blades" -- Agatha's Eternal Blade
 	L.big_bombs = "Big Bombs" -- Daschla's Mighty Impact
@@ -56,6 +55,8 @@ if L then
 
 	L.berserk_stage1 = "Berserk Stage 1"
 	L.berserk_stage2 = "Berserk Stage 2"
+
+	L.image_special = "%s [Skyja]" -- Stage 2 boss name
 end
 
 --------------------------------------------------------------------------------
@@ -79,7 +80,6 @@ function mod:GetOptions()
 		350339, -- Siphon Vitality
 		350365, -- Wings of Rage
 		-- Signe, The Voice
-		350283, -- Soulful Blast
 		{350286, "TANK"}, -- Song of Dissolution
 		350385, -- Reverberating Refrain
 		-- Call of the Val'kyr
@@ -92,22 +92,22 @@ function mod:GetOptions()
 		{350039, "SAY", "SAY_COUNTDOWN"}, -- Arthura's Crushing Gaze
 		-- Stage Two: The First of the Mawsworn
 		{350475, "TANK"}, -- Pierce Soul
-		351399, -- Resentment
+		355294, -- Resentment
 		350482, -- Link Essence
 		{350687, "INFOBOX"}, -- Word of Recall
 	},{
 		["stages"] = "general",
 		[350542] = mod:SpellName(-22877), -- Stage One: The Unending Voice
 		[350202] = mod:SpellName(-23202), -- Kyra, The Unending
-		[350283] = mod:SpellName(-23203), -- Signe, The Voice
+		[350286] = mod:SpellName(-23203), -- Signe, The Voice
 		[350467] = mod:SpellName(-23206), -- Call of the Val'kyr
 		[350475] = mod:SpellName(-22879), -- Stage Two: The First of the Mawsworn
 	},{
 		[350542] = L.fragments, -- Fragments of Destiny (Fragments)
 		[350342] = CL.add, -- Formless Mass (Add)
-		[350365] = L.pushback, -- Wings of Rage (Run Away)
+		[350365] = L.run_away, -- Wings of Rage (Run Away)
 		[350286] = L.song,-- Song of Dissolution (Song)
-		[350385] = L.pullin, -- Reverberating Refrain (Go in)
+		[350385] = L.go_in, -- Reverberating Refrain (Go in)
 		[350467] = L.valkyr, -- Call of the Val'kyr (Val'kyr)
 		[350031] = L.blades, -- Agatha's Eternal Blade (Blades)
 		[350184] = L.big_bombs, -- Daschla's Mighty Impact (Big Bombs)
@@ -162,7 +162,7 @@ function mod:OnBossEnable()
 	self:Log("SPELL_CAST_SUCCESS", "SkyjasAdvance", 350745) -- Stage 2
 	self:Log("SPELL_AURA_APPLIED", "PierceSoulApplied", 350475)
 	self:Log("SPELL_AURA_APPLIED_DOSE", "PierceSoulApplied", 350475)
-	self:Log("SPELL_CAST_SUCCESS", "Resentment", 351399)
+	self:Log("SPELL_CAST_SUCCESS", "Resentment", 355294)
 	self:Log("SPELL_CAST_START", "LinkEssence", 350482)
 	self:Log("SPELL_CAST_SUCCESS", "LinkEssenceSuccess", 350482)
 	self:Log("SPELL_AURA_APPLIED", "LinkEssenceApplied", 350482)
@@ -189,10 +189,14 @@ function mod:OnEngage()
 	self:Bar(350202, 6, unendingStrikeText) -- Unending Strike
 	self:Bar(350342, 12, CL.count:format(CL.add, formlessMassCount)) -- Formless Mass
 	self:Bar(350467, 14.6, CL.count:format(L.valkyr, callOfTheValkyrCount)) -- Call of the Val'kyr
-	self:Bar(350286, 16, CL.count:format(L.song, songOfDissolutionCount)) -- Song of Dissolution
-	self:Bar(350365, 47.5, CL.count:format(L.pullin, wingsOfRageCount)) -- Wings of Rage
-	self:Bar(350385, 71.5, CL.count:format(L.pushback, reverberatingRefrainCount)) -- Reverberating Refrain
+	self:Bar(350286, 16, CL.count:format(L.song, songOfDissolutionCount)) -- Song of Dissolution 14.5-21.9 (same variances in heroic and mythic)
+	self:Bar(350365, 40, CL.count:format(L.run_away, wingsOfRageCount)) -- Wings of Rage 39.3-42.6
+	self:Bar(350385, 61, CL.count:format(L.go_in, reverberatingRefrainCount)) -- Reverberating Refrain 61.1-64.5
 	self:Bar("berserk", 300, L.berserk_stage1, 26662) -- Custom Berserk bar
+
+	if self:Mythic() then
+		self:CDBar(350542, 5, CL.count:format(L.fragments, fragmentOfDestinyCount))
+	end
 	self:RegisterUnitEvent("UNIT_HEALTH", nil, "boss2", "boss3") -- Boss 1: Skyja, Boss 2: Kyra, Boss 3: Signe
 end
 
@@ -236,16 +240,17 @@ function mod:SkyjasAdvance() -- Stage 2
 	self:Message("stages", "green", CL.stage:format(2), false)
 	self:PlaySound("stages", "long")
 
-	self:Bar(351399, 6.9) -- Resentment
-	self:Bar(350475, 9.4) -- Pierce Soul
+	self:Bar(350475, 9.4) -- Pierce Soul 8.8-12.9
 	self:Bar(350482, 24.4) -- Link Essence
+	self:CDBar(350542, 13, CL.count:format(L.fragments, fragmentOfDestinyCount))
+	self:Bar(355294, 27.5) -- Resentment 27-31
 	self:Bar(350467, 43.9, CL.count:format(L.valkyr, callOfTheValkyrCount)) -- Call of the Val'kyr
 	self:Bar(350687, 76.5, CL.count:format(L.recall, callOfTheValkyrCount)) -- Word of Recall
 
-	--if self:Mythic() then
-		--self:Bar(11111, 43.9, L.pullin.."[image]") -- Run Away [image]
-		--self:Bar(11111, 43.9, L.pushback.."[image]") -- Go in [image]
-	--end
+	if self:Mythic() then
+		self:Bar(350365, 58.5, L.image_special:format(L.run_away)) -- Run Away [Skyra] // Wings of Rage
+		self:Bar(350385, 97, L.image_special:format(L.go_in)) -- Go in [Skyra] //  Reverberating Refrain
+	end
 
 	self:Bar("berserk", 604, L.berserk_stage2, 26662) -- Custom Berserk bar
 end
@@ -265,7 +270,15 @@ do
 		playerList = {}
 		allowed = true
 		fragmentOfDestinyCount = fragmentOfDestinyCount + 1
-		self:CDBar(350542, self:Mythic() and 37.7 or 47.5, CL.count:format(L.fragments, fragmentOfDestinyCount))
+		if self:Mythic() then
+			if self:GetStage() == 1 then
+				self:CDBar(350542, fragmentOfDestinyCount % 2 == 0 and 37.7 or 35, CL.count:format(L.fragments, fragmentOfDestinyCount)) -- 34.1/35.3, 37.7
+			else
+				self:CDBar(350542, 43, CL.count:format(L.fragments, fragmentOfDestinyCount))
+			end
+		else
+			self:CDBar(350542, 47.5, CL.count:format(L.fragments, fragmentOfDestinyCount))
+		end
 	end
 
 	function mod:FragmentsOfDestinyApplied(args)
@@ -277,7 +290,7 @@ do
 		end
 		if allowed then -- Can use _SUCCESS as it's only on the initial players
 			self:NewTargetsMessage(args.spellId, "cyan", playerList, nil, CL.count:format(L.fragment, fragmentOfDestinyCount-1))
-			self:SimpleTimer(1, function() allowed = false end)
+			self:SimpleTimer(function() allowed = false end, 1)
 		end
 		if self:GetOption(fragmentsMarker) then
 			for i = 1, 4 do -- 1, 2, 3, 4
@@ -300,8 +313,12 @@ function mod:FragmentsOfDestinyStacks(args)
 end
 
 function mod:FragmentsOfDestinyRemoved(args)
+	if self:Me(args.destGUID) then
+		self:Message(args.spellId, "green", CL.removed:format(L.fragment))
+		self:PlaySound(args.spellId, "info")
+	end
 	if self:GetOption(fragmentsMarker) then
-		for i = 1, 3, 1 do -- 1, 2, 3
+		for i = 1, 4 do -- 1, 2, 3, 4
 			if fragmentMarks[i] == args.destGUID then
 				fragmentMarks[i] = nil
 				self:CustomIcon(fragmentsMarker, args.destName, 0)
@@ -370,20 +387,22 @@ function mod:SiphonVitality(args)
 end
 
 function mod:WingsOfRage(args)
-	self:Message(350365, "red", CL.casting:format(CL.count:format(L.pullin, wingsOfRageCount)))
+	self:Message(350365, "red", CL.casting:format(CL.count:format(L.run_away, wingsOfRageCount)))
 	self:PlaySound(350365, "warning")
-	self:CastBar(350365, args.spellId == 352756 and 10 or 9.5, L.pullin) -- 2.5 pre-cast, 7s channel, 3s precast in stage 2???
+	self:CastBar(350365, args.spellId == 352756 and 10 or 9.5, L.run_away) -- 2.5 pre-cast, 7s channel, 3s precast in stage 2???
 	wingsOfRageCount = wingsOfRageCount + 1
-	self:Bar(350365, 72.9, CL.count:format(L.pullin, wingsOfRageCount))
+	self:Bar(350365, 72.9, CL.count:format(L.run_away, wingsOfRageCount))
 end
 
 function mod:KyraDeath(args)
 	kyraAlive = false
 	self:StopBar(unendingStrikeText) -- Unending Strike
 	self:StopBar(CL.count:format(CL.add, formlessMassCount)) -- Formless Mass
-	self:StopBar(CL.count:format(L.pullin, wingsOfRageCount)) -- Wings of Rage
-	--self:Bar(00000, self:BarTimeLeft(L.pullin.."[image]"), L.pullin)
-	--self:StopBar(L.pullin.."[image]") -- Go in [image]
+	self:StopBar(CL.count:format(L.run_away, wingsOfRageCount)) -- Wings of Rage
+
+	self:Bar(350365, self:BarTimeLeft(L.image_special:format(L.run_away)), L.run_away) -- Wings of Rage
+	self:StopBar(L.image_special:format(L.run_away)) -- Run Away [Skyra]
+
 	if not signeAlive then
 		self:StopBar(L.berserk_stage1)
 	end
@@ -398,20 +417,22 @@ function mod:SongOfDissolution(args)
 end
 
 function mod:ReverberatingRefrain(args)
-	self:Message(350385, "red", CL.casting:format(CL.count:format(L.pushback, reverberatingRefrainCount)))
+	self:Message(350385, "red", CL.casting:format(CL.count:format(L.go_in, reverberatingRefrainCount)))
 	self:PlaySound(350385, "warning")
-	self:CastBar(350385, args.spellId == 352752 and 10 or 9.5, CL.count:format(L.pushback, reverberatingRefrainCount)) -- 2.5 pre-cast, 7s channel, 3s precast in stage 2???
+	self:CastBar(350385, args.spellId == 352752 and 10 or 9.5, CL.count:format(L.go_in, reverberatingRefrainCount)) -- 2.5 pre-cast, 7s channel, 3s precast in stage 2???
 	reverberatingRefrainCount = reverberatingRefrainCount + 1
-	self:Bar(350385, 72.9, CL.count:format(L.pushback, reverberatingRefrainCount))
+	self:Bar(350385, 72.9, CL.count:format(L.go_in, reverberatingRefrainCount))
 end
 
 
 function mod:SigneDeath(args)
 	signeAlive = false
 	self:StopBar(CL.count:format(L.song, songOfDissolutionCount)) -- Song of Dissolution
-	self:StopBar(CL.count:format(L.pushback, reverberatingRefrainCount)) -- Reverberating Refrain
-	--self:Bar(00000, self:BarTimeLeft(L.pushback.."[image]"), L.pushback)
-	--self:StopBar(L.pushback.."[image]") -- Go in [image]
+	self:StopBar(CL.count:format(L.go_in, reverberatingRefrainCount)) -- Reverberating Refrain
+
+	self:Bar(350385, self:BarTimeLeft(L.image_special:format(L.go_in)), L.go_in) -- Reverberating Refrain
+	self:StopBar(L.image_special:format(L.go_in)) -- Go in [Skyra]
+
 	if not kyraAlive then
 		self:StopBar(L.berserk_stage1)
 	end
@@ -437,11 +458,12 @@ end
 
 do
 	local prev = 0
+	local playerList = {}
 	function mod:DaschlasMightyImpact(args)
 		local t = args.time
 		if t-prev > 5 then
+			playerList = {}
 			prev = t
-			self:Message(args.spellId, "cyan", L.big_bombs)
 			self:CastBar(args.spellId, 10, L.big_bombs)
 			if infoboxAllowed then
 				table.insert(incomingValkyrList, "|T425955:16:16:0:0:64:64:4:60:4:60|t "..L.big_bombs)
@@ -449,14 +471,15 @@ do
 			end
 		end
 	end
-end
 
-function mod:DaschlasMightyImpactApplied(args)
-	if self:Me(args.destGUID) then
-		self:PersonalMessage(args.spellId, L.big_bomb)
-		self:Say(args.spellId, L.big_bomb)
-		self:SayCountdown(args.spellId, 10, L.big_bomb) -- Big 3, Big 2, Big 1
-		self:PlaySound(args.spellId, "warning")
+	function mod:DaschlasMightyImpactApplied(args)
+		playerList[#playerList+1] = args.destName
+		self:NewTargetsMessage(args.spellId, "cyan", playerList, nil, L.big_bomb)
+		if self:Me(args.destGUID) then
+			self:Say(args.spellId, L.big_bomb)
+			self:SayCountdown(args.spellId, 10, L.big_bomb) -- Big 3, Big 2, Big 1
+			self:PlaySound(args.spellId, "warning")
+		end
 	end
 end
 
@@ -471,21 +494,18 @@ end
 -- end
 
 do
-	local playerList = {}
 	local prev = 0
 	function mod:BrynjasMournfulDirgeApplied(args)
 		local t = args.time
 		if t-prev > 5 then
 			prev = t
-			playerList = {}
 			self:Message(350109, "yellow", L.small_bombs)
 			if infoboxAllowed then
 				table.insert(incomingValkyrList, "|T460699:16:16:0:0:64:64:4:60:4:60|t "..L.small_bombs)
 				mod:UpdateInfoBox()
 			end
 		end
-		local count = #playerList+1
-		playerList[count] = args.destName
+
 		if self:Me(args.destGUID) then
 			self:Say(350109, L.small_bombs)
 			self:SayCountdown(350109, 6)
@@ -537,7 +557,7 @@ end
 function mod:Resentment(args)
 	self:Message(args.spellId, "yellow")
 	self:PlaySound(args.spellId, "alert")
-	self:CDBar(args.spellId, 8.5)
+	self:CDBar(args.spellId, 22)
 end
 
 do

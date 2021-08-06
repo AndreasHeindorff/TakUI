@@ -1,9 +1,6 @@
 -- Portuguese localization file for ptBR.
-local E = unpack(select(2, ...)); --Import: Engine, Locales, PrivateDB, ProfileDB, GlobalDB
+local E = unpack(select(2, ...)) --Import: Engine, Locales, PrivateDB, ProfileDB, GlobalDB
 local L = E.Libs.ACL:NewLocale("ElvUI", "ptBR")
-
-local COLOR1 = '|cFF1784d1'
-local COLOR2 = '|cfd9b9b9b'
 
 L["BoP"] = true
 L["BoE"] = true
@@ -128,6 +125,7 @@ L["ElvUI Status"] = "Status do ElvUI"
 L["Empty Slot"] = "Slot vazio"
 L["Enable"] = "Ativar"
 L["Error resetting UnitFrame."] = "Erro ao resetar o Quadro de Unidade"
+L["Event Log"] = true
 L["Experience Bar"] = "Barra de Experiência"
 L["Experience"] = "Experiência"
 L["Feet"] = "Pés"
@@ -158,7 +156,7 @@ L["Honor Bar"] = "Barra de honra"
 L["Honor Remaining:"] = "Honra restante"
 L["Honor XP:"] = "EXP de Honra"
 L["Horde: "] = "Horda: "
-L["Hover your mouse over any |cFF1784d1action|r, |cFF1784d1micro|r, |cFF1784d1macro|r, or |cFF1784d1spellbook|r button to bind it. This also works for items in your |cFF1784d1bag|r. Press the |cfd9b9b9bESC|r key to |cfd9b9b9bclear|r the current bindings."] = true
+L["BINDINGS_HELP"] = ("Hover your mouse over any *action|r, *micro|r, *macro|r, or *spellbook|r button to bind it. This also works for items in your *bag|r. Press the ^ESC|r key to ^clear|r the current bindings."):gsub('*', E.InfoColor):gsub('%^', E.InfoColor2)
 L["HP"] = "PV"
 L["HPS"] = "PVS"
 L["I Swear"] = "Eu Juro"
@@ -200,11 +198,11 @@ L["Layout"] = "Layout"
 L["Left Chat"] = "Bate-papo esquerdo"
 L["Left Click:"] = "Clique Esquerdo:"
 L["Legs"] = "Pernas"
-L["Level Up Display / Boss Banner"] = "Display de Subida de Nível / Banner do Boss"
+L["Level"] = "Nível"
 L["List of installations in queue:"] = "Lista de instalações na fila:"
 L["Lock"] = "Travar"
-L["LOGIN_MSG_HELP"] = ("Por favor use */ehelp|r para ver a lista de comandos do *ElvUI|r."):gsub('*', COLOR1)
-L["LOGIN_MSG"] = ("Bem-vindo ao *ElvUI|r versão *%s|r, digite */ec|r para acessar as configurações dentro do jogo. Se você precisa de suporte técnico nos contate em https://www.tukui.org ou se entre no Discord: https://discord.gg/xFWcfgE"):gsub('*', COLOR1)
+L["LOGIN_MSG_HELP"] = ("Por favor use */ehelp|r para ver a lista de comandos do *ElvUI|r."):gsub('*', E.InfoColor)
+L["LOGIN_MSG"] = ("Bem-vindo ao *ElvUI|r versão *%s|r, digite */ec|r para acessar as configurações dentro do jogo. Se você precisa de suporte técnico nos contate em https://www.tukui.org ou se entre no Discord: https://discord.gg/xFWcfgE"):gsub('*', E.InfoColor)
 L["Loot / Alert Frames"] = "Quadro de Saque / Alerta"
 L["Loot Frame"] = "Quadro de Saque"
 L["Lord! It's a miracle! The download up and vanished like a fart in the wind! Try Again!"] = "Senhor! É um milagre! O Download sumiu como um peido no vento! Tente novamente!"
@@ -287,7 +285,7 @@ L["Save"] = "Salvar"
 L["Saved Dungeon(s)"] = "Masmorra(s) salva(s)"
 L["Saved Raid(s)"] = "Raide(s) Salva(s)"
 L["says"] = "diz"
-L["Select the type of aura system you want to use with ElvUI's unitframes. Set to Aura Bar & Icons to use both aura bars and icons, set to icons only to only see icons."] = "Selecione o tipo de sistema de auras para se usar com os quadros de unidade do ElvUI. Selecione Aura Bar % Ícones para usar os dois ou Ícones para ver apenas os ícones."
+L["Select the type of aura system you want to use with ElvUI's unitframes. Set to Aura Bars to use both aura bars and icons, set to Icons Only to only see icons."] = "Selecione o tipo de sistema de auras para se usar com os quadros de unidade do ElvUI. Selecione Aura Bar % Ícones para usar os dois ou Ícones para ver apenas os ícones."
 L["Server: "] = "Servidor: "
 L["Session:"] = "Sessão:"
 L["Setup Chat"] = "Configurar Bate-papo"
@@ -340,8 +338,11 @@ L["Total: "] = "Total: "
 L["Trigger"] = "Gatilho"
 L["Type /hellokitty to revert to old settings."] = "Digite /hellokitty para reverter para as configurações anteriores."
 L["BelowMinimapWidget"] = true
-L["TopWidget"] = true
+L["TopCenterWidget"] = true
+L["MawBuffsWidget"] = true
 L["PowerBarWidget"] = true
+L["EventToastWidget"] = true
+L["BossBannerWidget"] = "Banner do Boss"
 L["Unhittable:"] = "Inacertável"
 L["Vehicle Seat Frame"] = "Quadro de Assento de Veículo"
 L["Vendor / Delete Grays"] = "Vendedor / Deletar Cinzentos"
@@ -397,4 +398,4 @@ L["EHELP_COMMANDS"] = ([=[Aqui está a lista de todos os comandos importantes do
  */luaerror|r ^on|r or ^off|r  -  Desabilitar todos os AddOns exceto ElvUI.
   NOTA: */luaerror|r ^off|r irá reabilitar os addons desabilitados por ter
   usar */luaerror|r ^on|r nesta sessão.
-]=]):gsub('*', COLOR1):gsub('%^', COLOR2)
+]=]):gsub('*', E.InfoColor):gsub('%^', E.InfoColor2)

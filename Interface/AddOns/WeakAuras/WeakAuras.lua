@@ -1470,10 +1470,13 @@ local function scanForLoadsImpl(toCheck, event, arg1, ...)
     if (data and not data.controlledChildren) then
       local loadFunc = loadFuncs[id];
       local loadOpt = loadFuncsForOptions[id];
-      if not WeakAuras.IsRetail() then
+      if WeakAuras.IsClassic() then
         shouldBeLoaded = loadFunc and loadFunc("ScanForLoads_Auras", inCombat, inEncounter, alive, vehicle, group, player, realm, class, race, faction, playerLevel, zone, encounter_id, size, raidRole);
         couldBeLoaded =  loadOpt and loadOpt("ScanForLoads_Auras",   inCombat, inEncounter, alive, vehicle, group, player, realm, class, race, faction, playerLevel, zone, encounter_id, size, raidRole);
-      else
+      elseif WeakAuras.IsBCC() then
+        shouldBeLoaded = loadFunc and loadFunc("ScanForLoads_Auras", inCombat, inEncounter, alive, vehicle, group, player, realm, class, race, faction, playerLevel, zone, encounter_id, size, difficulty, raidRole);
+        couldBeLoaded =  loadOpt and loadOpt("ScanForLoads_Auras",   inCombat, inEncounter, alive, vehicle, group, player, realm, class, race, faction, playerLevel, zone, encounter_id, size, difficulty, raidRole);
+      elseif WeakAuras.IsRetail() then
         shouldBeLoaded = loadFunc and loadFunc("ScanForLoads_Auras", inCombat, inEncounter, alive, warmodeActive, inPetBattle, vehicle, vehicleUi, group, player, realm, class, spec, specId, covenant, race, faction, playerLevel, effectiveLevel, zone, zoneId, zonegroupId, encounter_id, size, difficulty, difficultyIndex, role, affixes);
         couldBeLoaded =  loadOpt and loadOpt("ScanForLoads_Auras",   inCombat, inEncounter, alive, warmodeActive, inPetBattle, vehicle, vehicleUi, group, player, realm, class, spec, specId, covenant, race, faction, playerLevel, effectiveLevel, zone, zoneId, zonegroupId, encounter_id, size, difficulty, difficultyIndex, role, affixes);
       end
@@ -1503,12 +1506,17 @@ local function scanForLoadsImpl(toCheck, event, arg1, ...)
     Private.FinishLoadUnload();
   end
 
+  -- This iterates over all auras and could be optimized to only check
+  -- parents of children that have changed. (A further optimization would be to distinguish
+  -- between auras that changed from unloaded to loaded and vice versa.
+  -- The complicated bit is that a full check must be done if the group memberships changed,
+  -- and currently this function handles that too.
   for id, data in pairs(db.displays) do
     if(data.controlledChildren) then
       if(#data.controlledChildren > 0) then
         local any_loaded;
-        for index, childId in pairs(data.controlledChildren) do
-          if(loaded[childId] ~= nil) then
+        for child in Private.TraverseLeafs(data) do
+          if(loaded[child.id] ~= nil) then
             any_loaded = true;
             break;
           end
@@ -2983,13 +2991,26 @@ function Private.ReleaseClone(id, cloneId, regionType)
   clonePool[regionType][#clonePool[regionType] + 1] = region;
 end
 
-function Private.HandleChatAction(message_type, message, message_dest, message_channel, r, g, b, region, customFunc, when, formatters)
+function Private.HandleChatAction(message_type, message, message_dest, message_channel, r, g, b, region, customFunc, when, formatters, voice)
   local useHiddenStates = when == "finish"
   if (message:find('%%')) then
     message = Private.ReplacePlaceHolders(message, region, customFunc, useHiddenStates, formatters);
   end
   if(message_type == "PRINT") then
     DEFAULT_CHAT_FRAME:AddMessage(message, r or 1, g or 1, b or 1);
+  elseif message_type == "TTS" and WeakAuras.IsRetail() then
+    local validVoice = voice and Private.tts_voices[voice]
+    if not Private.SquelchingActions() then
+      pcall(function()
+        C_VoiceChat.SpeakText(
+          validVoice and voice or 0,
+          message,
+          0,
+          TEXTTOSPEECH_CONFIG.speechRate or 0,
+          TEXTTOSPEECH_CONFIG.speechVolume or 100
+        );
+      end)
+    end
   elseif message_type == "ERROR" then
     UIErrorsFrame:AddMessage(message, r or 1, g or 1, b or 1)
   elseif(message_type == "COMBAT") then
@@ -3238,7 +3259,7 @@ function Private.PerformActions(data, when, region)
 
   if(actions.do_message and actions.message_type and actions.message) then
     local customFunc = Private.customActionsFunctions[data.id][when .. "_message"];
-    Private.HandleChatAction(actions.message_type, actions.message, actions.message_dest, actions.message_channel, actions.r, actions.g, actions.b, region, customFunc, when, formatters);
+    Private.HandleChatAction(actions.message_type, actions.message, actions.message_dest, actions.message_channel, actions.r, actions.g, actions.b, region, customFunc, when, formatters, actions.message_tts_voice);
   end
 
   if (actions.stop_sound) then
@@ -4762,7 +4783,7 @@ function Private.ensurePRDFrame()
     personalRessourceDisplayFrame:SetScale(1);
     local frame = C_NamePlate.GetNamePlateForUnit("player");
     if (frame) then
-      if (Plater and frame.Plater and frame.unitFrame.Plater) then
+      if (Plater and frame.unitFrame.PlaterOnScreen) then
         personalRessourceDisplayFrame:Attach(frame, frame.unitFrame.healthBar, frame.unitFrame.powerBar);
       elseif (frame.kui and frame.kui.bg and frame.kui:IsShown()) then
         personalRessourceDisplayFrame:Attach(frame.kui, frame.kui.bg, frame.kui.bg);
@@ -4788,7 +4809,7 @@ function Private.ensurePRDFrame()
       if (UnitIsUnit(nameplate, "player")) then
         local frame = C_NamePlate.GetNamePlateForUnit("player");
         if (frame) then
-          if (Plater and frame.Plater and frame.unitFrame.Plater) then
+          if (Plater and frame.unitFrame.PlaterOnScreen) then
             personalRessourceDisplayFrame:Attach(frame, frame.unitFrame.healthBar, frame.unitFrame.powerBar);
           elseif (frame.kui and frame.kui.bg and frame.kui:IsShown()) then
             personalRessourceDisplayFrame:Attach(frame.kui, KuiNameplatesPlayerAnchor, KuiNameplatesPlayerAnchor);

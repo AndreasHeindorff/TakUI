@@ -64,7 +64,10 @@ local OnMouseDown = function()
 end
 
 local Enable = function(self)
-	self:RegisterEvent("PLAYER_TALENT_UPDATE")
+	if T.Retail then
+		self:RegisterEvent("PLAYER_TALENT_UPDATE")
+	end
+	
 	self:RegisterEvent("PLAYER_LOOT_SPEC_UPDATED")
 	self:RegisterEvent("PLAYER_ENTERING_WORLD")
 	self:RegisterEvent("CONFIRM_TALENT_WIPE")
@@ -88,4 +91,6 @@ local Disable = function(self)
 	self.Text:SetText("")
 end
 
-DataText:Register("Talents", Enable, Disable, Update)
+if T.Retail then
+	DataText:Register("Talents", Enable, Disable, Update)
+end

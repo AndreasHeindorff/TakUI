@@ -81,11 +81,13 @@ do
 		},
 		['SHAMAN'] = {
 			['Magic'] = false,
-			['Curse'] = true,
+			['Curse'] = oUF.Retail and true or false,
+			['Poison'] = true,
+			['Disease'] = true,
 		},
 		['PALADIN'] = {
 			['Poison'] = true,
-			['Magic'] = false,
+			['Magic'] = true,
 			['Disease'] = true,
 		},
 		['DRUID'] = {
@@ -93,6 +95,9 @@ do
 			['Curse'] = true,
 			['Poison'] = true,
 			['Disease'] = false,
+		},
+		['MAGE'] = {
+			['Curse'] = true,
 		},
 		['MONK'] = {
 			['Magic'] = false,
@@ -190,7 +195,7 @@ local function UpdateDebuff(self, name, icon, count, debuffType, duration, endTi
 		end
 
 		if f.time then
-			if duration and (duration > 0) then
+			if duration and (duration > 0) and f:GetSize() > 20 then
 				f.endTime = endTime
 				f.nextUpdate = 0
 				f:SetScript('OnUpdate', OnUpdate)
@@ -296,8 +301,11 @@ end
 
 local function Enable(self)
 	if self.RaidDebuffs then
-		self:RegisterEvent("PLAYER_TALENT_UPDATE", CheckSpec, true)
-		self:RegisterEvent("CHARACTER_POINTS_CHANGED", CheckSpec, true)
+		if oUF.Retail then
+			self:RegisterEvent("PLAYER_TALENT_UPDATE", CheckSpec, true)
+			self:RegisterEvent("CHARACTER_POINTS_CHANGED", CheckSpec, true)
+		end
+		
 		self:RegisterEvent('UNIT_AURA', Update)
 		
 		self.RaidDebuffs.BlackList = self.RaidDebuffs.BlackList or {
@@ -313,8 +321,11 @@ end
 
 local function Disable(self)
 	if self.RaidDebuffs then
-		self:UnregisterEvent("PLAYER_TALENT_UPDATE", CheckSpec, true)
-		self:UnregisterEvent("CHARACTER_POINTS_CHANGED", CheckSpec, true)
+		if oUF.Retail then
+			self:UnregisterEvent("PLAYER_TALENT_UPDATE", CheckSpec, true)
+			self:UnregisterEvent("CHARACTER_POINTS_CHANGED", CheckSpec, true)
+		end
+		
 		self:UnregisterEvent('UNIT_AURA', Update)
 
 		self.RaidDebuffs:Hide()

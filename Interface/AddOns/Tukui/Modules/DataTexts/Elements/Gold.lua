@@ -50,7 +50,7 @@ local OnEnter = function(self)
 	local TotalGold = 0
 	GameTooltip:AddLine(L.DataText.Character)
 
-	for key, value in pairs(TukuiGold[MyRealm]) do
+	for key, value in pairs(TukuiDatabase.Gold[MyRealm]) do
 		GameTooltip:AddDoubleLine(key, FormatTooltipMoney(value), 1, 1, 1, 1, 1, 1)
 		TotalGold = TotalGold + value
 	end
@@ -68,12 +68,11 @@ local Update = function(self, event)
 	end
 
 	local NewMoney = GetMoney()
+	
+	TukuiDatabase.Gold[MyRealm] = TukuiDatabase.Gold[MyRealm] or {}
+	TukuiDatabase.Gold[MyRealm][MyName] = TukuiDatabase.Gold[MyRealm][MyName] or NewMoney
 
-	TukuiGold = TukuiGold or {}
-	TukuiGold[MyRealm] = TukuiGold[MyRealm] or {}
-	TukuiGold[MyRealm][MyName] = TukuiGold[MyRealm][MyName] or NewMoney
-
-	local OldMoney = TukuiGold[MyRealm][MyName] or NewMoney
+	local OldMoney = TukuiDatabase.Gold[MyRealm][MyName] or NewMoney
 
 	local Change = NewMoney - OldMoney
 
@@ -85,22 +84,11 @@ local Update = function(self, event)
 
 	self.Text:SetText(FormatMoney(NewMoney))
 
-	TukuiGold[MyRealm][MyName] = NewMoney
+	TukuiDatabase.Gold[MyRealm][MyName] = NewMoney
 end
 
 local OnMouseDown = function(self)
-	if BankFrame:IsShown() then
-		CloseBankBagFrames()
-		CloseBankFrame()
-		CloseAllBags()
-		CloseBag(-2)
-	else
-		if ContainerFrame1:IsShown() then
-			CloseAllBags()
-		else
-			ToggleAllBags()
-		end
-	end
+	ToggleAllBags()
 end
 
 local Enable = function(self)

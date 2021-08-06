@@ -1,6 +1,8 @@
 local T, C, L = select(2, ...):unpack()
 
 local Loading = CreateFrame("Frame")
+local LibDeflate = LibStub:GetLibrary("LibDeflate")
+local LibSerialize = LibStub("LibSerialize")
 
 function Loading:StoreDefaults()
 	T.Defaults = {}
@@ -27,34 +29,7 @@ function Loading:StoreDefaults()
 end
 
 function Loading:LoadCustomSettings()
-	local Settings
-
-	if (not TukuiSettingsPerCharacter) then
-		TukuiSettingsPerCharacter = {}
-	end
-
-	if (not TukuiSettingsPerCharacter[T.MyRealm]) then
-		TukuiSettingsPerCharacter[T.MyRealm] = {}
-	end
-
-	if (not TukuiSettingsPerCharacter[T.MyRealm][T.MyName]) then
-		TukuiSettingsPerCharacter[T.MyRealm][T.MyName] = {}
-	end
-	
-	if not TukuiSettings then
-		TukuiSettings = {}
-	end
-	
-	-- Globals settings will be removed in the next coming weeks, if currently using globals, move into current character profile
-	if TukuiSettingsPerCharacter[T.MyRealm][T.MyName].General and TukuiSettingsPerCharacter[T.MyRealm][T.MyName].General.UseGlobal == true then
-		TukuiSettingsPerCharacter[T.MyRealm][T.MyName] = TukuiSettings
-		
-		if TukuiSettingsPerCharacter[T.MyRealm][T.MyName].General then
-			TukuiSettingsPerCharacter[T.MyRealm][T.MyName].General.UseGlobal = false
-		end
-	end
-
-	Settings = TukuiSettingsPerCharacter[T.MyRealm][T.MyName]
+	local Settings = TukuiDatabase.Settings[T.MyRealm][T.MyName]
 
 	for group, options in pairs(Settings) do
 		if C[group] then
@@ -93,8 +68,8 @@ end
 function Loading:LoadProfiles()
 	local Profiles = C.General.Profiles
 	local Menu = Profiles.Options
-	local Data = TukuiData
-	local GUISettings = TukuiSettingsPerCharacter
+	local Data = TukuiDatabase.Variables
+	local GUISettings = TukuiDatabase.Settings
 	local Nickname = T.MyName
 	local Server = T.MyRealm
 	
@@ -132,7 +107,129 @@ function Loading:Enable()
 	end
 end
 
+function Loading:MergeDatabase()
+	if TukuiData then
+		TukuiDatabase["Variables"] = TukuiData
+		
+		TukuiData = nil
+	end
+	
+	if TukuiSettingsPerCharacter then
+		TukuiDatabase["Settings"] = TukuiSettingsPerCharacter
+		
+		TukuiSettingsPerCharacter = nil
+	end
+	
+	if TukuiGold then
+		TukuiDatabase["Gold"] = TukuiGold
+		
+		TukuiGold = nil
+	end
+	
+	if TukuiChatHistory then
+		TukuiDatabase["ChatHistory"] = TukuiChatHistory 
+		
+		TukuiChatHistory = nil
+	end
+end
+
+function Loading:VerifyDatabase()
+	if not TukuiDatabase then
+		TukuiDatabase = {}
+	end
+	
+	-- VARIABLES
+	if not TukuiDatabase.Variables then
+		TukuiDatabase.Variables = {}
+	end
+	
+	if not TukuiDatabase.Variables[T.MyRealm] then
+		TukuiDatabase.Variables[T.MyRealm] = {}
+	end
+	
+	if not TukuiDatabase.Variables[T.MyRealm][T.MyName] then
+		TukuiDatabase.Variables[T.MyRealm][T.MyName] = {}
+	end
+	
+	if not TukuiDatabase.Variables[T.MyRealm][T.MyName].Move then
+		TukuiDatabase.Variables[T.MyRealm][T.MyName].Move = {}
+	end
+	
+	if not TukuiDatabase.Variables[T.MyRealm][T.MyName].ActionBars then
+		TukuiDatabase.Variables[T.MyRealm][T.MyName].ActionBars = {}
+	end
+	
+	if not TukuiDatabase.Variables[T.MyRealm][T.MyName].Tracking then
+		TukuiDatabase.Variables[T.MyRealm][T.MyName].Tracking = {}
+		TukuiDatabase.Variables[T.MyRealm][T.MyName].Tracking.PvP = {}
+		TukuiDatabase.Variables[T.MyRealm][T.MyName].Tracking.PvE = {}
+	end
+	
+	if (not TukuiDatabase.Variables[T.MyRealm][T.MyName].DataTexts) then
+		local DataTexts = T.DataTexts
+		
+		DataTexts:AddDefaults()
+	end
+	
+	if not TukuiDatabase.Variables[T.MyRealm][T.MyName].Chat then
+		TukuiDatabase.Variables[T.MyRealm][T.MyName].Chat = {}
+		
+		if not TukuiDatabase.Variables[T.MyRealm][T.MyName].Chat.Positions then
+			TukuiDatabase.Variables[T.MyRealm][T.MyName].Chat.Positions = T.Chat.Positions
+		end
+	else
+		-- We recently changed this table, make sure it work with our new layout
+		if not TukuiDatabase.Variables[T.MyRealm][T.MyName].Chat.Positions then
+			-- Reset Chat Database
+			TukuiDatabase.Variables[T.MyRealm][T.MyName].Chat = {}
+			
+			-- Set frames position default
+			TukuiDatabase.Variables[T.MyRealm][T.MyName].Chat.Positions = T.Chat.Positions
+			
+			-- Warn user
+			T.Print("|CFFFF0000WARNING:|r Your chat position have been reset to default")
+		end
+	end
+	
+	if (not TukuiDatabase.Variables[T.MyRealm][T.MyName].Misc) then
+		TukuiDatabase.Variables[T.MyRealm][T.MyName].Misc = {}
+	end
+	
+	if (not TukuiDatabase.Variables[T.MyRealm][T.MyName].Installation) then
+		TukuiDatabase.Variables[T.MyRealm][T.MyName].Installation = {}
+	end
+	
+	-- SETTINGS
+	if (not TukuiDatabase.Settings) then
+		TukuiDatabase.Settings = {}
+	end
+	
+	if not TukuiDatabase.Settings[T.MyRealm] then
+		TukuiDatabase.Settings[T.MyRealm] = {}
+	end
+	
+	if not TukuiDatabase.Settings[T.MyRealm][T.MyName] then
+		TukuiDatabase.Settings[T.MyRealm][T.MyName] = {}
+	end
+	
+	-- Chat History
+	if not TukuiDatabase.ChatHistory then
+		TukuiDatabase.ChatHistory = {}
+	end
+	
+	-- Gold
+	if not TukuiDatabase.Gold then
+		TukuiDatabase.Gold = {}
+	end
+end
+
 function Loading:OnEvent(event)
+	-- We verify everything is ok with our savedvariables
+	self:VerifyDatabase()
+	
+	-- Patch 9.0 was using different table to save settings, when players will hit 9.1, we need to move their settings into our new table
+	self:MergeDatabase()
+	
 	if (event == "PLAYER_LOGIN") then
 		T["Inventory"]["Bags"]:Enable()
 		T["Inventory"]["Loot"]:Enable()
@@ -160,42 +257,55 @@ function Loading:OnEvent(event)
 		T["Miscellaneous"]["Keybinds"]:Enable()
 		T["Miscellaneous"]["TimeManager"]:Enable()
 		T["Miscellaneous"]["ThreatBar"]:Enable()
-		T["Miscellaneous"]["TalkingHead"]:Enable()
-		T["Miscellaneous"]["LossControl"]:Enable()
-		T["Miscellaneous"]["DeathRecap"]:Enable()
-		T["Miscellaneous"]["Ghost"]:Enable()
-		T["Miscellaneous"]["TimerTracker"]:Enable()
-		T["Miscellaneous"]["AltPowerBar"]:Enable()
-		T["Miscellaneous"]["OrderHall"]:Enable()
-		T["Miscellaneous"]["Tutorials"]:Enable()
-		T["Miscellaneous"]["VehicleIndicator"]:Enable()
 		T["Miscellaneous"]["ItemLevel"]:Enable()
-		T["Miscellaneous"]["RaidUtilities"]:Enable()
 		T["Miscellaneous"]["Alerts"]:Enable()
 		T["UnitFrames"]:Enable()
 		T["Tooltips"]:Enable()
-		T["PetBattles"]:Enable()
+		
+		if T.Retail then
+			T["Miscellaneous"]["TalkingHead"]:Enable()
+			T["Miscellaneous"]["LossControl"]:Enable()
+			T["Miscellaneous"]["DeathRecap"]:Enable()
+			T["Miscellaneous"]["Ghost"]:Enable()
+			T["Miscellaneous"]["TimerTracker"]:Enable()
+			T["Miscellaneous"]["AltPowerBar"]:Enable()
+			T["Miscellaneous"]["OrderHall"]:Enable()
+			T["Miscellaneous"]["Tutorials"]:Enable()
+			T["Miscellaneous"]["VehicleIndicator"]:Enable()
+			T["Miscellaneous"]["RaidUtilities"]:Enable()
+			T["PetBattles"]:Enable()
+		end
 
 		-- restore original stopwatch commands
 		SlashCmdList["STOPWATCH"] = Stopwatch_Toggle
 	elseif (event == "PLAYER_ENTERING_WORLD") then
 		T["Miscellaneous"]["ObjectiveTracker"]:Enable()
 		
-		-- Temp Fix for Action MultiBarBottomRight buttons 1 to 6 on low monitor resolution
-		for i = 1, 6 do
-			local Button = _G["MultiBarBottomRightButton"..i]
+		if T.Retail then
+			-- Temp Fix for Action MultiBarBottomRight buttons 1 to 6 on low monitor resolution
+			for i = 1, 6 do
+				local Button = _G["MultiBarBottomRightButton"..i]
 
-			Button:SetAttribute("showgrid", 1)
-			Button:Show()
+				Button:SetAttribute("showgrid", 1)
+				Button:Show()
+			end
 		end
 	elseif (event == "VARIABLES_LOADED") then
-		T["Loading"]:Enable()
-		T["GUI"]:Enable()
+		local Locale = GetLocale()
 		
-		-- welcome message
-		local HexClassColor = T.RGBToHex(unpack(T.Colors.class[T.MyClass]))
+		T["Loading"]:Enable()
+		
+		if (Locale ~= "koKR" or Locale ~= "zhTW" or Locale ~= "zhCN" or Locale ~= "ruRU") then
+			C.Medias.Font = C.General.GlobalFont.Value
 
-		T.Print("Welcome "..HexClassColor..T.MyName.."|r! For a commands list, type /tukui")
+			TukuiFont:SetFont(C.Medias.Font, 12)
+			TukuiFontOutline:SetFont(C.Medias.Font, 12, "THINOUTLINE")
+		end
+		
+		T["Fonts"]:Enable()
+		T["GUI"]:Enable()
+		T["Profiles"]:Enable()
+		T["Help"]:Enable()
 	end
 end
 

@@ -121,6 +121,8 @@ local L = WeakAuras.L
 	L["Anchor Point"] = "Ankerpunkt"
 	L["Anchored To"] = "Angeheftet an"
 	L["And "] = "Und"
+	--[[Translation missing --]]
+	L["and"] = "and"
 	L["and aligned left"] = "und links ausgerichtet"
 	L["and aligned right"] = "und rechts ausgerichtet"
 	--[[Translation missing --]]
@@ -174,6 +176,8 @@ Off Screen]=]
 	L["Automatic"] = "Automatisch"
 	--[[Translation missing --]]
 	L["Automatic length"] = "Automatic length"
+	--[[Translation missing --]]
+	L["Available Voices are system specific"] = "Available Voices are system specific"
 	L["Backdrop Color"] = "Hintergrundfarbe"
 	--[[Translation missing --]]
 	L["Backdrop in Front"] = "Backdrop in Front"
@@ -440,6 +444,8 @@ UNIT_POWER, UNIT_AURA PLAYER_TARGET_CHANGED]=]
 	L["False"] = "Falsch"
 	--[[Translation missing --]]
 	L["Fetch Affected/Unaffected Names"] = "Fetch Affected/Unaffected Names"
+	--[[Translation missing --]]
+	L["Filter by Arena Spec"] = "Filter by Arena Spec"
 	L["Filter by Class"] = "Nach Klasse filtern"
 	L["Filter by Group Role"] = "Nach Gruppenrolle filtern"
 	--[[Translation missing --]]
@@ -937,6 +943,8 @@ Nur ein Wert kann ausgewählt werden.]=]
 	L["Spark"] = "Funken"
 	L["Spark Settings"] = "Funkeneinstellungen"
 	L["Spark Texture"] = "Funkentextur"
+	--[[Translation missing --]]
+	L["Specialization"] = "Specialization"
 	L["Specific Unit"] = "Spezifische Einheit"
 	L["Spell ID"] = "Zauber-ID"
 	L["Stack Count"] = "Stapelanzahl"
@@ -1081,6 +1089,8 @@ Nur ein Wert kann ausgewählt werden.]=]
 	L["Vertical Align"] = "Vertikale Ausrichtung"
 	L["Vertical Bar"] = "Vertikaler Balken"
 	L["View"] = "Ansicht"
+	--[[Translation missing --]]
+	L["Voice"] = "Voice"
 	--[[Translation missing --]]
 	L["Whole Area"] = "Whole Area"
 	L["Width"] = "Breite"

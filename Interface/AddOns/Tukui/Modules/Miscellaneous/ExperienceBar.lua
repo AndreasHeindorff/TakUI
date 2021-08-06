@@ -14,6 +14,7 @@ Experience.PetXPColor = {255 / 255, 255 / 255, 105 / 255}
 Experience.AZColor = {229 / 255, 204 / 255, 127 / 255}
 Experience.HNColor = {222 / 255, 22 / 255, 22 / 255}
 Experience.AnimaColor = {153 / 255, 204 / 255, 255 / 255}
+
 Experience.Menu = {
 	{
 		text = XP,
@@ -22,29 +23,18 @@ Experience.Menu = {
 			
 			Experience:Update()
 			
-			TukuiData[T.MyRealm][T.MyName].Misc[BarSelected:GetName()] = BarSelected.BarType
+			TukuiDatabase.Variables[T.MyRealm][T.MyName].Misc[BarSelected:GetName()] = BarSelected.BarType
 		end,
 		notCheckable = true
 	},
 	{
-		text = HONOR,
+		text = REPUTATION,
 		func = function()
-			BarSelected.BarType = "HONOR"
+			BarSelected.BarType = "REP"
 			
 			Experience:Update()
 
-			TukuiData[T.MyRealm][T.MyName].Misc[BarSelected:GetName()] = BarSelected.BarType
-		end,
-		notCheckable = true
-	},
-	{
-		text = "Azerite",
-		func = function()
-			BarSelected.BarType = "AZERITE"
-			
-			Experience:Update()
-            
-            TukuiData[T.MyRealm][T.MyName].Misc[BarSelected:GetName()] = BarSelected.BarType
+			TukuiDatabase.Variables[T.MyRealm][T.MyName].Misc[BarSelected:GetName()] = BarSelected.BarType
 		end,
 		notCheckable = true,
 		disabled = true,
@@ -56,31 +46,45 @@ Experience.Menu = {
 			
 			Experience:Update()
 
-			TukuiData[T.MyRealm][T.MyName].Misc[BarSelected:GetName()] = BarSelected.BarType
+			TukuiDatabase.Variables[T.MyRealm][T.MyName].Misc[BarSelected:GetName()] = BarSelected.BarType
 		end,
 		notCheckable = true,
 		disabled = true,
 	},
+}
+
+Experience.MenuRetail = {
 	{
-		text = REPUTATION,
+		text = HONOR,
 		func = function()
-			BarSelected.BarType = "REP"
+			BarSelected.BarType = "HONOR"
 			
 			Experience:Update()
 
-			TukuiData[T.MyRealm][T.MyName].Misc[BarSelected:GetName()] = BarSelected.BarType
+			TukuiDatabase.Variables[T.MyRealm][T.MyName].Misc[BarSelected:GetName()] = BarSelected.BarType
+		end,
+		notCheckable = true
+	},
+	{
+		text = "Azerite",
+		func = function()
+			BarSelected.BarType = "AZERITE"
+			
+			Experience:Update()
+            
+            TukuiDatabase.Variables[T.MyRealm][T.MyName].Misc[BarSelected:GetName()] = BarSelected.BarType
 		end,
 		notCheckable = true,
 		disabled = true,
 	},
 	{
-		text = ANIMA_DIVERSION_CURRENCY_TOOLTIP_TITLE,
+		text = "Anima",
 		func = function()
 			BarSelected.BarType = "ANIMA"
 			
 			Experience:Update()
 
-			TukuiData[T.MyRealm][T.MyName].Misc[BarSelected:GetName()] = BarSelected.BarType
+			TukuiDatabase.Variables[T.MyRealm][T.MyName].Misc[BarSelected:GetName()] = BarSelected.BarType
 		end,
 		notCheckable = true,
 		disabled = true,
@@ -189,10 +193,17 @@ end
 
 function Experience:GetAzerite()
 	local AzeriteItems = C_AzeriteItem.FindActiveAzeriteItem()
-	local XP, TotalXP = C_AzeriteItem.GetAzeriteItemXPInfo(AzeriteItems)
-    
-	local Level = C_AzeriteItem.GetPowerLevel(AzeriteItems)
-
+	local InBank = AzeriteUtil.IsAzeriteItemLocationBankBag(AzeriteItems)
+	local XP, TotalXP, Level
+	
+	if InBank then
+		XP, TotalXP = 0, 0
+		Level = 0
+	else
+		XP, TotalXP = C_AzeriteItem.GetAzeriteItemXPInfo(AzeriteItems)
+		Level = C_AzeriteItem.GetPowerLevel(AzeriteItems)
+	end
+	
 	return XP, TotalXP, Level, AzeriteItems
 end
 
@@ -220,34 +231,43 @@ function Experience:GetAnima()
 end
 
 function Experience:VerifyMenu()
-	local AzeriteItem = C_AzeriteItem.FindActiveAzeriteItem()
+	local AzeriteItem = T.Retail and C_AzeriteItem.FindActiveAzeriteItem()
+	local Honor = T.Retail and UnitHonorLevel
 	local HavePetXP = select(2, HasPetUI())
 	local WatchedFaction = GetWatchedFactionInfo()
-	local AnimaCurrency = C_CovenantSanctumUI.GetAnimaInfo()
-	local AnimaCurrencyInfo = C_CurrencyInfo.GetCurrencyInfo(AnimaCurrency)
+	local AnimaCurrency = T.Retail and C_CovenantSanctumUI.GetAnimaInfo()
+	local AnimaCurrencyInfo = AnimaCurrency and C_CurrencyInfo.GetCurrencyInfo(AnimaCurrency)
 	
-	if AzeriteItem then
+	if WatchedFaction then
+		Experience.Menu[2].disabled = false
+	else
+		Experience.Menu[2].disabled = true
+	end
+
+	if HavePetXP then
 		Experience.Menu[3].disabled = false
 	else
 		Experience.Menu[3].disabled = true
 	end
-
-	if HavePetXP then
-		Experience.Menu[4].disabled = false
-	else
-		Experience.Menu[4].disabled = true
-	end
-
-	if WatchedFaction then
-		Experience.Menu[5].disabled = false
-	else
-		Experience.Menu[5].disabled = true
-	end
 	
-	if AnimaCurrency and AnimaCurrencyInfo.quantity ~= 0 and AnimaCurrencyInfo.maxQuantity ~= 0 then
-		Experience.Menu[6].disabled = false
-	else
-		Experience.Menu[6].disabled = true
+	if T.Retail then
+		if Honor then
+			Experience.Menu[4].disabled = false
+		else
+			Experience.Menu[4].disabled = true
+		end
+
+		if AzeriteItem then
+			Experience.Menu[5].disabled = false
+		else
+			Experience.Menu[5].disabled = true
+		end
+
+		if AnimaCurrency and AnimaCurrencyInfo.quantity ~= 0 and AnimaCurrencyInfo.maxQuantity ~= 0 then
+			Experience.Menu[6].disabled = false
+		else
+			Experience.Menu[6].disabled = true
+		end
 	end
 end
 
@@ -255,9 +275,9 @@ function Experience:Update()
 	local Current, Max
 	local Rested = GetXPExhaustion()
 	local IsRested = GetRestState()
-	local AnimaCurrency = C_CovenantSanctumUI.GetAnimaInfo()
-	local AnimaCurrencyInfo = C_CurrencyInfo.GetCurrencyInfo(AnimaCurrency)
-	local AzeriteItem = C_AzeriteItem.FindActiveAzeriteItem()
+	local AnimaCurrency = T.Retail and C_CovenantSanctumUI.GetAnimaInfo()
+	local AnimaCurrencyInfo = AnimaCurrency and C_CurrencyInfo.GetCurrencyInfo(AnimaCurrency)
+	local AzeriteItem = T.Retail and C_AzeriteItem.FindActiveAzeriteItem()
 	local HavePetXP = select(2, HasPetUI())
 	local WatchedFaction = GetWatchedFactionInfo()
 
@@ -266,15 +286,7 @@ function Experience:Update()
 		local RestedBar = self["RestedBar"..i]
 		local R, G, B
 		
-		if (Bar.BarType == "AZERITE" and not AzeriteItem) or (Bar.BarType == "PETXP" and not HavePetXP) or (Bar.BarType == "REP" and not WatchedFaction) or (Bar.BarType == "ANIMA" and AnimaCurrencyInfo.quantity == 0 and AnimaCurrencyInfo.maxQuantity == 0) then
-			local MoreText = ""
-			
-			if Bar.BarType == "REP" then
-				MoreText = " Please select a reputation to track in your character panel!"
-			end
-			
-			T.Print("[|CFFFFFF00" .. POWER_TYPE_EXPERIENCE .. "|r] You cannot track |CFFFF0000".. Bar.BarType .."|r at the moment, switching to |CFF00FF00XP|r"..MoreText)
-			
+		if (Bar.BarType == "AZERITE" and not AzeriteItem) or (Bar.BarType == "PETXP" and not HavePetXP) or (Bar.BarType == "REP" and not WatchedFaction) or (Bar.BarType == "ANIMA" and AnimaCurrency and AnimaCurrencyInfo.quantity == 0 and AnimaCurrencyInfo.maxQuantity == 0) then
 			Bar.BarType = "XP"
 		end
 
@@ -334,7 +346,7 @@ function Experience:Create()
 	for i = 1, self.NumBars do
 		local XPBar = CreateFrame("StatusBar", "TukuiExperienceBar" .. i, UIParent)
 		local RestedBar = CreateFrame("StatusBar", nil, XPBar)
-		local Data = TukuiData[T.MyRealm][T.MyName]
+		local Data = TukuiDatabase.Variables[T.MyRealm][T.MyName]
 		
 		XPBar:SetStatusBarTexture(C.Medias.Normal)
 		XPBar:EnableMouse()
@@ -369,7 +381,11 @@ function Experience:Create()
 			if i == 1 then
 				XPBar.BarType = "XP"
 			else
-				XPBar.BarType = "HONOR"
+				if i == 2 and T.Retail then
+					XPBar.BarType = "HONOR"
+				else
+					XPBar.BarType = "XP"
+				end
 			end
 		end
 
@@ -386,14 +402,18 @@ function Experience:Create()
 	self:RegisterEvent("UPDATE_EXHAUSTION")
 	self:RegisterEvent("PLAYER_ENTERING_WORLD")
 	self:RegisterEvent("PLAYER_UPDATE_RESTING")
-	self:RegisterEvent("HONOR_XP_UPDATE")
-	self:RegisterEvent("HONOR_LEVEL_UPDATE")
-	self:RegisterEvent("AZERITE_ITEM_EXPERIENCE_CHANGED")
 	self:RegisterEvent("PLAYER_EQUIPMENT_CHANGED")
 	self:RegisterEvent("PLAYER_MONEY")
 	self:RegisterEvent("UNIT_PET")
 	self:RegisterEvent("UNIT_PET_EXPERIENCE")
-	self:RegisterEvent("CURRENCY_DISPLAY_UPDATE")
+	self:RegisterEvent("BAG_UPDATE")
+	
+	if T.Retail then
+		self:RegisterEvent("CURRENCY_DISPLAY_UPDATE")
+		self:RegisterEvent("HONOR_XP_UPDATE")
+		self:RegisterEvent("HONOR_LEVEL_UPDATE")
+		self:RegisterEvent("AZERITE_ITEM_EXPERIENCE_CHANGED")
+	end
 
 	self:SetScript("OnEvent", self.Update)
 end
@@ -414,6 +434,12 @@ function Experience:Enable()
 
 		if not self["RestedBar"..i]:IsShown() then
 			self["RestedBar"..i]:Show()
+		end
+	end
+	
+	if T.Retail then
+		for _, Menu in pairs(Experience.MenuRetail) do
+			table.insert(Experience.Menu, Menu)
 		end
 	end
 end

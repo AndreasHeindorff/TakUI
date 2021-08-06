@@ -122,6 +122,20 @@ MasqueDB = {
 					["Backdrop"] = true,
 					["SkinID"] = "ElvUIesque",
 				},
+				["WeakAuras_4lqvRql23dr"] = {
+					["Backdrop"] = true,
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Backdrop"] = {
+							1, -- [1]
+							1, -- [2]
+							1, -- [3]
+							1, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "ElvUIesque - No Backdrop",
+				},
 				["WeakAuras_Xsm7)izBwDo"] = {
 					["Backdrop"] = true,
 					["Upgraded"] = true,
@@ -175,6 +189,20 @@ MasqueDB = {
 						},
 					},
 					["SkinID"] = "ElvUIesque",
+					["Inherit"] = false,
+				},
+				["WeakAuras_eu2JyxDg6h9"] = {
+					["Backdrop"] = true,
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Backdrop"] = {
+							1, -- [1]
+							1, -- [2]
+							1, -- [3]
+							1, -- [4]
+						},
+					},
+					["SkinID"] = "ElvUIesque - No Backdrop",
 					["Inherit"] = false,
 				},
 				["WeakAuras_32HN36pzETM"] = {
@@ -976,6 +1004,20 @@ MasqueDB = {
 					["Inherit"] = false,
 					["SkinID"] = "ElvUIesque - No Backdrop",
 				},
+				["WeakAuras_XPBsAIUVkwq"] = {
+					["Backdrop"] = true,
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Backdrop"] = {
+							1, -- [1]
+							1, -- [2]
+							1, -- [3]
+							1, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "ElvUIesque - No Backdrop",
+				},
 				["WeakAuras_crackling_surge_-_active"] = {
 					["Colors"] = {
 						["Backdrop"] = {
@@ -1143,6 +1185,20 @@ MasqueDB = {
 					},
 					["Inherit"] = false,
 					["SkinID"] = "ElvUIesque - No Backdrop",
+				},
+				["WeakAuras_rLPcN0KyIMm"] = {
+					["Backdrop"] = true,
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Backdrop"] = {
+							1, -- [1]
+							1, -- [2]
+							1, -- [3]
+							1, -- [4]
+						},
+					},
+					["SkinID"] = "ElvUIesque - No Backdrop",
+					["Inherit"] = false,
 				},
 				["WeakAuras_vS1jUXwUfXE"] = {
 					["Backdrop"] = true,
@@ -1390,6 +1446,20 @@ MasqueDB = {
 					["Inherit"] = false,
 					["Backdrop"] = true,
 				},
+				["WeakAuras_tYJhcPjNRpB"] = {
+					["Backdrop"] = true,
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Backdrop"] = {
+							1, -- [1]
+							1, -- [2]
+							1, -- [3]
+							1, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "ElvUIesque - No Backdrop",
+				},
 				["WeakAuras_02:_slipstream"] = {
 					["Colors"] = {
 						["Backdrop"] = {
@@ -1458,6 +1528,20 @@ MasqueDB = {
 					["SkinID"] = "ElvUIesque",
 					["Inherit"] = false,
 				},
+				["WeakAuras_d4wF(gHy)2P"] = {
+					["Backdrop"] = true,
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Backdrop"] = {
+							1, -- [1]
+							1, -- [2]
+							1, -- [3]
+							1, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "ElvUIesque - No Backdrop",
+				},
 				["WeakAuras_dps_trinket"] = {
 					["Colors"] = {
 						["Backdrop"] = {
@@ -1512,7 +1596,35 @@ MasqueDB = {
 					["Inherit"] = false,
 					["SkinID"] = "ElvUIesque",
 				},
+				["WeakAuras_Q(VReLgT6FB"] = {
+					["Backdrop"] = true,
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Backdrop"] = {
+							1, -- [1]
+							1, -- [2]
+							1, -- [3]
+							1, -- [4]
+						},
+					},
+					["SkinID"] = "ElvUIesque - No Backdrop",
+					["Inherit"] = false,
+				},
 				["WeakAuras_RcaCnV0dbCF"] = {
+					["Backdrop"] = true,
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Backdrop"] = {
+							1, -- [1]
+							1, -- [2]
+							1, -- [3]
+							1, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "ElvUIesque - No Backdrop",
+				},
+				["WeakAuras_3wElbhWXaZJ"] = {
 					["Backdrop"] = true,
 					["Upgraded"] = true,
 					["Colors"] = {
@@ -1698,6 +1810,20 @@ MasqueDB = {
 					["Inherit"] = false,
 					["Backdrop"] = true,
 					["SkinID"] = "ElvUIesque",
+				},
+				["WeakAuras_IJyvTnXtusT"] = {
+					["Backdrop"] = true,
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Backdrop"] = {
+							1, -- [1]
+							1, -- [2]
+							1, -- [3]
+							1, -- [4]
+						},
+					},
+					["SkinID"] = "ElvUIesque - No Backdrop",
+					["Inherit"] = false,
 				},
 				["WeakAuras_EdY0bi6Inwd"] = {
 					["Backdrop"] = true,
@@ -1998,6 +2124,20 @@ MasqueDB = {
 						},
 					},
 					["SkinID"] = "ElvUIesque",
+					["Inherit"] = false,
+				},
+				["WeakAuras_qgDnZpUXD2T"] = {
+					["Backdrop"] = true,
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Backdrop"] = {
+							1, -- [1]
+							1, -- [2]
+							1, -- [3]
+							1, -- [4]
+						},
+					},
+					["SkinID"] = "ElvUIesque - No Backdrop",
 					["Inherit"] = false,
 				},
 				["WeakAuras_beast_cleave_buff"] = {
@@ -2599,6 +2739,20 @@ MasqueDB = {
 					["SkinID"] = "ElvUIesque",
 					["Backdrop"] = true,
 				},
+				["WeakAuras_VTauRyTe)n5"] = {
+					["Backdrop"] = true,
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Backdrop"] = {
+							1, -- [1]
+							1, -- [2]
+							1, -- [3]
+							1, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "ElvUIesque - No Backdrop",
+				},
 				["WeakAuras_jXV9i8AXb))"] = {
 					["Backdrop"] = true,
 					["Upgraded"] = true,
@@ -3020,6 +3174,20 @@ MasqueDB = {
 					["SkinID"] = "Epix",
 					["Inherit"] = false,
 				},
+				["WeakAuras_I8PdstZx9rV"] = {
+					["Backdrop"] = true,
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Backdrop"] = {
+							1, -- [1]
+							1, -- [2]
+							1, -- [3]
+							1, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "ElvUIesque - No Backdrop",
+				},
 				["WeakAuras_sideright(time)_||_dark_purpose_(mythic)"] = {
 					["Colors"] = {
 						["Backdrop"] = {
@@ -3399,6 +3567,20 @@ MasqueDB = {
 					["Inherit"] = false,
 					["Backdrop"] = true,
 					["SkinID"] = "ElvUIesque",
+				},
+				["WeakAuras_X18UJiTUZLQ"] = {
+					["Backdrop"] = true,
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Backdrop"] = {
+							1, -- [1]
+							1, -- [2]
+							1, -- [3]
+							1, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "ElvUIesque - No Backdrop",
 				},
 				["WeakAuras_lava_burst_stack"] = {
 					["Colors"] = {
@@ -4148,6 +4330,20 @@ MasqueDB = {
 					["Inherit"] = false,
 					["SkinID"] = "ElvUIesque",
 				},
+				["WeakAuras_WIGhvxD31er"] = {
+					["Backdrop"] = true,
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Backdrop"] = {
+							1, -- [1]
+							1, -- [2]
+							1, -- [3]
+							1, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "ElvUIesque - No Backdrop",
+				},
 				["OmniBar_Spell Lock"] = {
 					["Inherit"] = false,
 					["Backdrop"] = true,
@@ -4285,6 +4481,20 @@ MasqueDB = {
 					["Inherit"] = false,
 					["Backdrop"] = true,
 					["SkinID"] = "ElvUIesque",
+				},
+				["WeakAuras_HfTxXrQ6xW3"] = {
+					["Backdrop"] = true,
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Backdrop"] = {
+							1, -- [1]
+							1, -- [2]
+							1, -- [3]
+							1, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "ElvUIesque - No Backdrop",
 				},
 				["WeakAuras_09_burning_explosion2"] = {
 					["Colors"] = {
@@ -4814,6 +5024,20 @@ MasqueDB = {
 					["SkinID"] = "ElvUIesque",
 					["Inherit"] = false,
 				},
+				["WeakAuras_Nnh5j4CKzlu"] = {
+					["Backdrop"] = true,
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Backdrop"] = {
+							1, -- [1]
+							1, -- [2]
+							1, -- [3]
+							1, -- [4]
+						},
+					},
+					["SkinID"] = "ElvUIesque - No Backdrop",
+					["Inherit"] = false,
+				},
 				["WeakAuras_g'huun_-_bursting_boil_(group_swap_on_explosion)"] = {
 					["Colors"] = {
 						["Backdrop"] = {
@@ -5265,6 +5489,20 @@ MasqueDB = {
 					["Inherit"] = false,
 					["Backdrop"] = true,
 					["SkinID"] = "ElvUIesque",
+				},
+				["WeakAuras_F0F)yHtkI2F"] = {
+					["Backdrop"] = true,
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Backdrop"] = {
+							1, -- [1]
+							1, -- [2]
+							1, -- [3]
+							1, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "ElvUIesque - No Backdrop",
 				},
 				["WeakAuras_5(fML5JCw5O"] = {
 					["Backdrop"] = true,
@@ -6271,6 +6509,20 @@ MasqueDB = {
 					["Backdrop"] = true,
 					["SkinID"] = "ElvUIesque",
 				},
+				["WeakAuras_yAVXDZtIClr"] = {
+					["Backdrop"] = true,
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Backdrop"] = {
+							1, -- [1]
+							1, -- [2]
+							1, -- [3]
+							1, -- [4]
+						},
+					},
+					["SkinID"] = "ElvUIesque - No Backdrop",
+					["Inherit"] = false,
+				},
 				["WeakAuras_hVcnt7agE01"] = {
 					["Backdrop"] = true,
 					["Upgraded"] = true,
@@ -6286,6 +6538,20 @@ MasqueDB = {
 					["Inherit"] = false,
 				},
 				["WeakAuras_OSx8fOEQgqp"] = {
+					["Backdrop"] = true,
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Backdrop"] = {
+							1, -- [1]
+							1, -- [2]
+							1, -- [3]
+							1, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "ElvUIesque - No Backdrop",
+				},
+				["WeakAuras_hPRAaQcL3jn"] = {
 					["Backdrop"] = true,
 					["Upgraded"] = true,
 					["Colors"] = {
@@ -7792,6 +8058,20 @@ MasqueDB = {
 					["Backdrop"] = true,
 					["SkinID"] = "ElvUIesque",
 				},
+				["WeakAuras_Y18jHqsO7mA"] = {
+					["Backdrop"] = true,
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Backdrop"] = {
+							1, -- [1]
+							1, -- [2]
+							1, -- [3]
+							1, -- [4]
+						},
+					},
+					["SkinID"] = "ElvUIesque - No Backdrop",
+					["Inherit"] = false,
+				},
 				["WeakAuras_IfHZA5UbNkZ"] = {
 					["Backdrop"] = true,
 					["Upgraded"] = true,
@@ -8071,6 +8351,20 @@ MasqueDB = {
 					["Backdrop"] = true,
 					["SkinID"] = "ElvUIesque",
 				},
+				["WeakAuras_LEJ8OiNloqC"] = {
+					["Backdrop"] = true,
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Backdrop"] = {
+							1, -- [1]
+							1, -- [2]
+							1, -- [3]
+							1, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "ElvUIesque - No Backdrop",
+				},
 				["WeakAuras_bXilX3bhIEg"] = {
 					["Backdrop"] = true,
 					["Upgraded"] = true,
@@ -8126,6 +8420,20 @@ MasqueDB = {
 					},
 					["Inherit"] = false,
 					["SkinID"] = "ElvUIesque",
+				},
+				["WeakAuras_(V2RH6pjXVH"] = {
+					["Backdrop"] = true,
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Backdrop"] = {
+							1, -- [1]
+							1, -- [2]
+							1, -- [3]
+							1, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "ElvUIesque - No Backdrop",
 				},
 				["WeakAuras_0(Jh)aayujw"] = {
 					["Backdrop"] = true,
@@ -8541,6 +8849,20 @@ MasqueDB = {
 					["Backdrop"] = true,
 					["SkinID"] = "ElvUIesque",
 				},
+				["WeakAuras_Rq1Am0GHzr9"] = {
+					["Backdrop"] = true,
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Backdrop"] = {
+							1, -- [1]
+							1, -- [2]
+							1, -- [3]
+							1, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "ElvUIesque - No Backdrop",
+				},
 				["WeakAuras_harden_skin"] = {
 					["Colors"] = {
 						["Backdrop"] = {
@@ -8760,6 +9082,20 @@ MasqueDB = {
 					["Inherit"] = false,
 					["Backdrop"] = true,
 					["SkinID"] = "ElvUIesque",
+				},
+				["WeakAuras_sBT7er79Khc"] = {
+					["Backdrop"] = true,
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Backdrop"] = {
+							1, -- [1]
+							1, -- [2]
+							1, -- [3]
+							1, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "ElvUIesque - No Backdrop",
 				},
 				["WeakAuras_banish5"] = {
 					["Colors"] = {
@@ -10557,6 +10893,20 @@ MasqueDB = {
 					["Inherit"] = false,
 					["SkinID"] = "ElvUIesque",
 				},
+				["WeakAuras_9IR2s5j61qr"] = {
+					["Backdrop"] = true,
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Backdrop"] = {
+							1, -- [1]
+							1, -- [2]
+							1, -- [3]
+							1, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "ElvUIesque - No Backdrop",
+				},
 				["WeakAuras_dps_potion_noc_test_2"] = {
 					["Colors"] = {
 						["Backdrop"] = {
@@ -10656,6 +11006,20 @@ MasqueDB = {
 						},
 					},
 					["SkinID"] = "ElvUIesque",
+					["Inherit"] = false,
+				},
+				["WeakAuras_vWRqMU57oNn"] = {
+					["Backdrop"] = true,
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Backdrop"] = {
+							1, -- [1]
+							1, -- [2]
+							1, -- [3]
+							1, -- [4]
+						},
+					},
+					["SkinID"] = "ElvUIesque - No Backdrop",
 					["Inherit"] = false,
 				},
 				["WeakAuras_zZqsB(UHQFp"] = {
@@ -11083,6 +11447,20 @@ MasqueDB = {
 					["Inherit"] = false,
 					["SkinID"] = "ElvUIesque",
 				},
+				["WeakAuras_EP0xtf)E1Eb"] = {
+					["Backdrop"] = true,
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Backdrop"] = {
+							1, -- [1]
+							1, -- [2]
+							1, -- [3]
+							1, -- [4]
+						},
+					},
+					["SkinID"] = "ElvUIesque - No Backdrop",
+					["Inherit"] = false,
+				},
 				["WeakAuras_KFzL1VA7)bX"] = {
 					["Backdrop"] = true,
 					["Upgraded"] = true,
@@ -11331,6 +11709,20 @@ MasqueDB = {
 					["SkinID"] = "Epix",
 					["Inherit"] = false,
 				},
+				["WeakAuras_WaAe5EQsOLf"] = {
+					["Backdrop"] = true,
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Backdrop"] = {
+							1, -- [1]
+							1, -- [2]
+							1, -- [3]
+							1, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "ElvUIesque - No Backdrop",
+				},
 				["WeakAuras_high_tide"] = {
 					["Colors"] = {
 						["Backdrop"] = {
@@ -11512,6 +11904,20 @@ MasqueDB = {
 					},
 					["SkinID"] = "ElvUIesque",
 					["Inherit"] = false,
+				},
+				["WeakAuras_fzP9RBsoKIP"] = {
+					["Backdrop"] = true,
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Backdrop"] = {
+							1, -- [1]
+							1, -- [2]
+							1, -- [3]
+							1, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "ElvUIesque - No Backdrop",
 				},
 				["WeakAuras_QoyNin6TSXQ"] = {
 					["Backdrop"] = true,
@@ -12030,6 +12436,20 @@ MasqueDB = {
 					["SkinID"] = "ElvUIesque",
 					["Inherit"] = false,
 				},
+				["WeakAuras_AHM)l)Dr53D"] = {
+					["Backdrop"] = true,
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Backdrop"] = {
+							1, -- [1]
+							1, -- [2]
+							1, -- [3]
+							1, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "ElvUIesque - No Backdrop",
+				},
 				["WeakAuras_trap5"] = {
 					["Colors"] = {
 						["Backdrop"] = {
@@ -12524,6 +12944,20 @@ MasqueDB = {
 					["Backdrop"] = true,
 					["SkinID"] = "ElvUIesque",
 				},
+				["WeakAuras_UnjUGnH5h(s"] = {
+					["Backdrop"] = true,
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Backdrop"] = {
+							1, -- [1]
+							1, -- [2]
+							1, -- [3]
+							1, -- [4]
+						},
+					},
+					["SkinID"] = "ElvUIesque - No Backdrop",
+					["Inherit"] = false,
+				},
 				["WeakAuras_5OyO42Iweyl"] = {
 					["Backdrop"] = true,
 					["Upgraded"] = true,
@@ -12843,6 +13277,20 @@ MasqueDB = {
 					["SkinID"] = "ElvUIesque",
 				},
 				["WeakAuras_9FNfg2cOSnE"] = {
+					["Backdrop"] = true,
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Backdrop"] = {
+							1, -- [1]
+							1, -- [2]
+							1, -- [3]
+							1, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "ElvUIesque - No Backdrop",
+				},
+				["WeakAuras_)IAy)soIlh7"] = {
 					["Backdrop"] = true,
 					["Upgraded"] = true,
 					["Colors"] = {
@@ -13698,7 +14146,35 @@ MasqueDB = {
 					["SkinID"] = "ElvUIesque",
 					["Inherit"] = false,
 				},
+				["WeakAuras_2EXgH3ivpTT"] = {
+					["Backdrop"] = true,
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Backdrop"] = {
+							1, -- [1]
+							1, -- [2]
+							1, -- [3]
+							1, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "ElvUIesque - No Backdrop",
+				},
 				["WeakAuras_8)iTN5y921t"] = {
+					["Backdrop"] = true,
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Backdrop"] = {
+							1, -- [1]
+							1, -- [2]
+							1, -- [3]
+							1, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "ElvUIesque - No Backdrop",
+				},
+				["WeakAuras_u469jL1KIXu"] = {
 					["Backdrop"] = true,
 					["Upgraded"] = true,
 					["Colors"] = {
@@ -14701,6 +15177,20 @@ MasqueDB = {
 					["SkinID"] = "ElvUIesque",
 					["Inherit"] = false,
 				},
+				["WeakAuras_OQQlTz1Kg5d"] = {
+					["Backdrop"] = true,
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Backdrop"] = {
+							1, -- [1]
+							1, -- [2]
+							1, -- [3]
+							1, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "ElvUIesque - No Backdrop",
+				},
 				["WeakAuras_TBxFDbVys3V"] = {
 					["Backdrop"] = true,
 					["Upgraded"] = true,
@@ -14836,6 +15326,20 @@ MasqueDB = {
 					["Inherit"] = false,
 					["Backdrop"] = true,
 					["SkinID"] = "ElvUIesque",
+				},
+				["WeakAuras_7eyZYtj9h7q"] = {
+					["Backdrop"] = true,
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Backdrop"] = {
+							1, -- [1]
+							1, -- [2]
+							1, -- [3]
+							1, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "ElvUIesque - No Backdrop",
 				},
 				["WeakAuras_mpi)ZHhdhfX"] = {
 					["Backdrop"] = true,
@@ -15305,6 +15809,20 @@ MasqueDB = {
 					["SkinID"] = "ElvUIesque",
 					["Inherit"] = false,
 				},
+				["WeakAuras_zQx78kRccr0"] = {
+					["Backdrop"] = true,
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Backdrop"] = {
+							1, -- [1]
+							1, -- [2]
+							1, -- [3]
+							1, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "ElvUIesque - No Backdrop",
+				},
 				["WeakAuras_bfa_talents\\items\\azerite_traits_(current_setup)__7"] = {
 					["Colors"] = {
 						["Backdrop"] = {
@@ -15389,6 +15907,20 @@ MasqueDB = {
 					},
 					["Inherit"] = false,
 					["SkinID"] = "ElvUIesque",
+				},
+				["WeakAuras_oDpnnQDFHGI"] = {
+					["Backdrop"] = true,
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Backdrop"] = {
+							1, -- [1]
+							1, -- [2]
+							1, -- [3]
+							1, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "ElvUIesque - No Backdrop",
 				},
 				["WeakAuras_04:_i'm_(blue)_da_bu_de"] = {
 					["Colors"] = {
@@ -15973,6 +16505,20 @@ MasqueDB = {
 					["SkinID"] = "Epix",
 					["Inherit"] = false,
 				},
+				["WeakAuras_k82oX0vcYlM"] = {
+					["Backdrop"] = true,
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Backdrop"] = {
+							1, -- [1]
+							1, -- [2]
+							1, -- [3]
+							1, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "ElvUIesque - No Backdrop",
+				},
 				["WeakAuras_stoneform_cooldown_2"] = {
 					["Colors"] = {
 						["Backdrop"] = {
@@ -16178,6 +16724,20 @@ MasqueDB = {
 					["Inherit"] = false,
 					["SkinID"] = "ElvUIesque",
 				},
+				["WeakAuras_)6hLeKgwpWt"] = {
+					["Backdrop"] = true,
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Backdrop"] = {
+							1, -- [1]
+							1, -- [2]
+							1, -- [3]
+							1, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "ElvUIesque - No Backdrop",
+				},
 				["WeakAuras_pyTwu5sgYMi"] = {
 					["Backdrop"] = true,
 					["Upgraded"] = true,
@@ -16318,6 +16878,20 @@ MasqueDB = {
 					["Inherit"] = false,
 				},
 				["WeakAuras_9(CLJdf75pb"] = {
+					["Backdrop"] = true,
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Backdrop"] = {
+							1, -- [1]
+							1, -- [2]
+							1, -- [3]
+							1, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "ElvUIesque - No Backdrop",
+				},
+				["WeakAuras_lFEzbFtJ3vO"] = {
 					["Backdrop"] = true,
 					["Upgraded"] = true,
 					["Colors"] = {
@@ -17316,9 +17890,37 @@ MasqueDB = {
 					["Backdrop"] = true,
 					["SkinID"] = "ElvUIesque",
 				},
+				["WeakAuras_tlgW9audrEz"] = {
+					["Backdrop"] = true,
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Backdrop"] = {
+							1, -- [1]
+							1, -- [2]
+							1, -- [3]
+							1, -- [4]
+						},
+					},
+					["SkinID"] = "ElvUIesque - No Backdrop",
+					["Inherit"] = false,
+				},
 				["OmniBar_Mind Freeze"] = {
 					["Inherit"] = false,
 					["Backdrop"] = true,
+				},
+				["WeakAuras_5qZSoHcc5q5"] = {
+					["Backdrop"] = true,
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Backdrop"] = {
+							1, -- [1]
+							1, -- [2]
+							1, -- [3]
+							1, -- [4]
+						},
+					},
+					["SkinID"] = "ElvUIesque",
+					["Inherit"] = false,
 				},
 				["WeakAuras_storm_elemental_duration_2"] = {
 					["Colors"] = {
@@ -17332,6 +17934,142 @@ MasqueDB = {
 					["Inherit"] = false,
 					["Backdrop"] = true,
 					["SkinID"] = "ElvUIesque",
+				},
+				["WeakAuras_Ga3RMT49Orb"] = {
+					["Backdrop"] = true,
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Backdrop"] = {
+							1, -- [1]
+							1, -- [2]
+							1, -- [3]
+							1, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "ElvUIesque - No Backdrop",
+				},
+				["WeakAuras_maddening_gaze4"] = {
+					["Colors"] = {
+						["Backdrop"] = {
+							1, -- [1]
+							1, -- [2]
+							1, -- [3]
+							1, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "ElvUIesque",
+				},
+				["WeakAuras_wind_shear_23"] = {
+					["Colors"] = {
+						["Backdrop"] = {
+							1, -- [1]
+							1, -- [2]
+							1, -- [3]
+							1, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "ElvUIesque",
+				},
+				["WeakAuras_V7zH5Jw0DPW"] = {
+					["Backdrop"] = true,
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Backdrop"] = {
+							1, -- [1]
+							1, -- [2]
+							1, -- [3]
+							1, -- [4]
+						},
+					},
+					["SkinID"] = "ElvUIesque",
+					["Inherit"] = false,
+				},
+				["WeakAuras_storm_elemental_duration_3"] = {
+					["Colors"] = {
+						["Backdrop"] = {
+							1, -- [1]
+							1, -- [2]
+							1, -- [3]
+							1, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "ElvUIesque",
+				},
+				["WeakAuras_N6jOWYWsXqi"] = {
+					["Backdrop"] = true,
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Backdrop"] = {
+							1, -- [1]
+							1, -- [2]
+							1, -- [3]
+							1, -- [4]
+						},
+					},
+					["SkinID"] = "ElvUIesque - No Backdrop",
+					["Inherit"] = false,
+				},
+				["WeakAuras_9oSo)oHa3wr"] = {
+					["Backdrop"] = true,
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Backdrop"] = {
+							1, -- [1]
+							1, -- [2]
+							1, -- [3]
+							1, -- [4]
+						},
+					},
+					["SkinID"] = "ElvUIesque - No Backdrop",
+					["Inherit"] = false,
+				},
+				["WeakAuras_current_equipped_panel_icn2"] = {
+					["Colors"] = {
+						["Backdrop"] = {
+							1, -- [1]
+							1, -- [2]
+							1, -- [3]
+							1, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "ElvUIesque",
+				},
+				["WeakAuras_1OGhyQ4ElqM"] = {
+					["Backdrop"] = true,
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Backdrop"] = {
+							1, -- [1]
+							1, -- [2]
+							1, -- [3]
+							1, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "ElvUIesque - No Backdrop",
+				},
+				["WeakAuras_mZQWpoPVbdS"] = {
+					["Backdrop"] = true,
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Backdrop"] = {
+							1, -- [1]
+							1, -- [2]
+							1, -- [3]
+							1, -- [4]
+						},
+					},
+					["SkinID"] = "ElvUIesque",
+					["Inherit"] = false,
 				},
 				["WeakAuras_SFVxkcDCdOC"] = {
 					["Backdrop"] = true,
@@ -17348,6 +18086,34 @@ MasqueDB = {
 					["Inherit"] = false,
 				},
 				["WeakAuras_kETXsCQHbGk"] = {
+					["Backdrop"] = true,
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Backdrop"] = {
+							1, -- [1]
+							1, -- [2]
+							1, -- [3]
+							1, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "ElvUIesque - No Backdrop",
+				},
+				["WeakAuras_PYJKTPa57pu"] = {
+					["Backdrop"] = true,
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Backdrop"] = {
+							1, -- [1]
+							1, -- [2]
+							1, -- [3]
+							1, -- [4]
+						},
+					},
+					["SkinID"] = "ElvUIesque",
+					["Inherit"] = false,
+				},
+				["WeakAuras_4gPgMBQa2pW"] = {
 					["Backdrop"] = true,
 					["Upgraded"] = true,
 					["Colors"] = {
@@ -17388,6 +18154,20 @@ MasqueDB = {
 					["SkinID"] = "ElvUIesque",
 					["Inherit"] = false,
 				},
+				["WeakAuras_AHy8sHIempT"] = {
+					["Backdrop"] = true,
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Backdrop"] = {
+							1, -- [1]
+							1, -- [2]
+							1, -- [3]
+							1, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "ElvUIesque",
+				},
 				["WeakAuras_stormkeeper_cd_missing_buff"] = {
 					["Colors"] = {
 						["Backdrop"] = {
@@ -17415,6 +18195,48 @@ MasqueDB = {
 					["SkinID"] = "ElvUIesque",
 				},
 				["WeakAuras_4vWj71yIMtG"] = {
+					["Backdrop"] = true,
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Backdrop"] = {
+							1, -- [1]
+							1, -- [2]
+							1, -- [3]
+							1, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "ElvUIesque - No Backdrop",
+				},
+				["WeakAuras_(lhLYmK2oeq"] = {
+					["Backdrop"] = true,
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Backdrop"] = {
+							1, -- [1]
+							1, -- [2]
+							1, -- [3]
+							1, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "ElvUIesque - No Backdrop",
+				},
+				["WeakAuras_Q5VY7Xzf90U"] = {
+					["Backdrop"] = true,
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Backdrop"] = {
+							1, -- [1]
+							1, -- [2]
+							1, -- [3]
+							1, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "ElvUIesque - No Backdrop",
+				},
+				["WeakAuras_NPTszh2Qx0y"] = {
 					["Backdrop"] = true,
 					["Upgraded"] = true,
 					["Colors"] = {
@@ -17508,6 +18330,33 @@ MasqueDB = {
 					["Backdrop"] = true,
 					["SkinID"] = "ElvUIesque",
 				},
+				["WeakAuras_equipped_trinket_2"] = {
+					["Colors"] = {
+						["Backdrop"] = {
+							1, -- [1]
+							1, -- [2]
+							1, -- [3]
+							1, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "ElvUIesque",
+				},
+				["WeakAuras_Jea1CzXHVqI"] = {
+					["Backdrop"] = true,
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Backdrop"] = {
+							1, -- [1]
+							1, -- [2]
+							1, -- [3]
+							1, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "ElvUIesque - No Backdrop",
+				},
 				["WeakAuras_slobber_knocker2"] = {
 					["Colors"] = {
 						["Backdrop"] = {
@@ -17519,6 +18368,48 @@ MasqueDB = {
 					},
 					["Inherit"] = false,
 					["Backdrop"] = true,
+					["SkinID"] = "ElvUIesque",
+				},
+				["WeakAuras_1hH3fWYNAC2"] = {
+					["Backdrop"] = true,
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Backdrop"] = {
+							1, -- [1]
+							1, -- [2]
+							1, -- [3]
+							1, -- [4]
+						},
+					},
+					["SkinID"] = "Epix",
+					["Inherit"] = false,
+				},
+				["WeakAuras_qzcmCcAhGzw"] = {
+					["Backdrop"] = true,
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Backdrop"] = {
+							1, -- [1]
+							1, -- [2]
+							1, -- [3]
+							1, -- [4]
+						},
+					},
+					["SkinID"] = "ElvUIesque",
+					["Inherit"] = false,
+				},
+				["WeakAuras_pFqqOS3GnFO"] = {
+					["Backdrop"] = true,
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Backdrop"] = {
+							1, -- [1]
+							1, -- [2]
+							1, -- [3]
+							1, -- [4]
+						},
+					},
+					["Inherit"] = false,
 					["SkinID"] = "ElvUIesque",
 				},
 				["WeakAuras_yF5reg5OaQg"] = {
@@ -17535,6 +18426,61 @@ MasqueDB = {
 					["SkinID"] = "ElvUIesque",
 					["Inherit"] = false,
 				},
+				["WeakAuras_Z5yKCtttyJk"] = {
+					["Backdrop"] = true,
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Backdrop"] = {
+							1, -- [1]
+							1, -- [2]
+							1, -- [3]
+							1, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "ElvUIesque - No Backdrop",
+				},
+				["WeakAuras_fjvxczvRc4f"] = {
+					["Backdrop"] = true,
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Backdrop"] = {
+							1, -- [1]
+							1, -- [2]
+							1, -- [3]
+							1, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "ElvUIesque - No Backdrop",
+				},
+				["WeakAuras_rop_cd_available_3"] = {
+					["Colors"] = {
+						["Backdrop"] = {
+							1, -- [1]
+							1, -- [2]
+							1, -- [3]
+							1, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "ElvUIesque",
+				},
+				["WeakAuras_RXd)Xjp39Cv"] = {
+					["Backdrop"] = true,
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Backdrop"] = {
+							1, -- [1]
+							1, -- [2]
+							1, -- [3]
+							1, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "ElvUIesque - No Backdrop",
+				},
 				["WeakAuras_tremor_totem2"] = {
 					["Colors"] = {
 						["Backdrop"] = {
@@ -17547,6 +18493,118 @@ MasqueDB = {
 					["Inherit"] = false,
 					["Backdrop"] = true,
 					["SkinID"] = "ElvUIesque",
+				},
+				["WeakAuras_jAVXpY6ildk"] = {
+					["Backdrop"] = true,
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Backdrop"] = {
+							1, -- [1]
+							1, -- [2]
+							1, -- [3]
+							1, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "ElvUIesque",
+				},
+				["WeakAuras_LfBzA4tteqs"] = {
+					["Backdrop"] = true,
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Backdrop"] = {
+							1, -- [1]
+							1, -- [2]
+							1, -- [3]
+							1, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "ElvUIesque",
+				},
+				["WeakAuras_xpkim8Ds5LV"] = {
+					["Backdrop"] = true,
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Backdrop"] = {
+							1, -- [1]
+							1, -- [2]
+							1, -- [3]
+							1, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "ElvUIesque - No Backdrop",
+				},
+				["WeakAuras_6)vRmlkR5cO"] = {
+					["Backdrop"] = true,
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Backdrop"] = {
+							1, -- [1]
+							1, -- [2]
+							1, -- [3]
+							1, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "ElvUIesque - No Backdrop",
+				},
+				["WeakAuras_Tb3rtGkZ58c"] = {
+					["Backdrop"] = true,
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Backdrop"] = {
+							1, -- [1]
+							1, -- [2]
+							1, -- [3]
+							1, -- [4]
+						},
+					},
+					["SkinID"] = "ElvUIesque",
+					["Inherit"] = false,
+				},
+				["WeakAuras_GKfFakzJTUD"] = {
+					["Backdrop"] = true,
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Backdrop"] = {
+							1, -- [1]
+							1, -- [2]
+							1, -- [3]
+							1, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "ElvUIesque - No Backdrop",
+				},
+				["WeakAuras_6pIdANQDCeJ"] = {
+					["Backdrop"] = true,
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Backdrop"] = {
+							1, -- [1]
+							1, -- [2]
+							1, -- [3]
+							1, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "ElvUIesque - No Backdrop",
+				},
+				["WeakAuras_bewk07zhBfk"] = {
+					["Backdrop"] = true,
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Backdrop"] = {
+							1, -- [1]
+							1, -- [2]
+							1, -- [3]
+							1, -- [4]
+						},
+					},
+					["SkinID"] = "ElvUIesque",
+					["Inherit"] = false,
 				},
 				["WeakAuras_NzRkFvmRmz2"] = {
 					["Backdrop"] = true,
@@ -17562,7 +18620,132 @@ MasqueDB = {
 					["SkinID"] = "ElvUIesque",
 					["Inherit"] = false,
 				},
+				["WeakAuras_DAluosrcmO7"] = {
+					["Backdrop"] = true,
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Backdrop"] = {
+							1, -- [1]
+							1, -- [2]
+							1, -- [3]
+							1, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "ElvUIesque - No Backdrop",
+				},
 				["WeakAuras_decurse"] = {
+					["Colors"] = {
+						["Backdrop"] = {
+							1, -- [1]
+							1, -- [2]
+							1, -- [3]
+							1, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "ElvUIesque",
+				},
+				["WeakAuras_o04GIsyIFAC"] = {
+					["Backdrop"] = true,
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Backdrop"] = {
+							1, -- [1]
+							1, -- [2]
+							1, -- [3]
+							1, -- [4]
+						},
+					},
+					["SkinID"] = "Epix",
+					["Inherit"] = false,
+				},
+				["WeakAuras_OsmRlzaaDBF"] = {
+					["Backdrop"] = true,
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Backdrop"] = {
+							1, -- [1]
+							1, -- [2]
+							1, -- [3]
+							1, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "ElvUIesque - No Backdrop",
+				},
+				["WeakAuras_UHDXcUpLcZS"] = {
+					["Backdrop"] = true,
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Backdrop"] = {
+							1, -- [1]
+							1, -- [2]
+							1, -- [3]
+							1, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "ElvUIesque - No Backdrop",
+				},
+				["WeakAuras_6v1O2dhh(6W"] = {
+					["Backdrop"] = true,
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Backdrop"] = {
+							1, -- [1]
+							1, -- [2]
+							1, -- [3]
+							1, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "ElvUIesque - No Backdrop",
+				},
+				["WeakAuras_ctywShHfhOE"] = {
+					["Backdrop"] = true,
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Backdrop"] = {
+							1, -- [1]
+							1, -- [2]
+							1, -- [3]
+							1, -- [4]
+						},
+					},
+					["SkinID"] = "ElvUIesque",
+					["Inherit"] = false,
+				},
+				["WeakAuras_WX8UFeoozgP"] = {
+					["Backdrop"] = true,
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Backdrop"] = {
+							1, -- [1]
+							1, -- [2]
+							1, -- [3]
+							1, -- [4]
+						},
+					},
+					["SkinID"] = "ElvUIesque",
+					["Inherit"] = false,
+				},
+				["WeakAuras_3VDQFKnpUYl"] = {
+					["Backdrop"] = true,
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Backdrop"] = {
+							1, -- [1]
+							1, -- [2]
+							1, -- [3]
+							1, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "ElvUIesque - No Backdrop",
+				},
+				["WeakAuras_05:_missed_interrupt"] = {
 					["Colors"] = {
 						["Backdrop"] = {
 							1, -- [1]
@@ -17588,7 +18771,173 @@ MasqueDB = {
 					["Backdrop"] = true,
 					["SkinID"] = "ElvUIesque",
 				},
+				["WeakAuras_rotten_bile5"] = {
+					["Colors"] = {
+						["Backdrop"] = {
+							1, -- [1]
+							1, -- [2]
+							1, -- [3]
+							1, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "ElvUIesque",
+				},
+				["WeakAuras_kuRymWZ)Wam"] = {
+					["Backdrop"] = true,
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Backdrop"] = {
+							1, -- [1]
+							1, -- [2]
+							1, -- [3]
+							1, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "ElvUIesque - No Backdrop",
+				},
 				["WeakAuras_y)dbyWxgpnZ"] = {
+					["Backdrop"] = true,
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Backdrop"] = {
+							1, -- [1]
+							1, -- [2]
+							1, -- [3]
+							1, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "ElvUIesque - No Backdrop",
+				},
+				["WeakAuras_1DsTGjjLe(4"] = {
+					["Backdrop"] = true,
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Backdrop"] = {
+							1, -- [1]
+							1, -- [2]
+							1, -- [3]
+							1, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "ElvUIesque - No Backdrop",
+				},
+				["WeakAuras_tRllZBGMSvk"] = {
+					["Backdrop"] = true,
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Backdrop"] = {
+							1, -- [1]
+							1, -- [2]
+							1, -- [3]
+							1, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "ElvUIesque - No Backdrop",
+				},
+				["WeakAuras_anchors_wa_to_spawn_of_g'huun_nameplate_if_it_targets_you3"] = {
+					["Colors"] = {
+						["Backdrop"] = {
+							1, -- [1]
+							1, -- [2]
+							1, -- [3]
+							1, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "ElvUIesque",
+				},
+				["WeakAuras_mCXjSUsUbVk"] = {
+					["Backdrop"] = true,
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Backdrop"] = {
+							1, -- [1]
+							1, -- [2]
+							1, -- [3]
+							1, -- [4]
+						},
+					},
+					["SkinID"] = "Epix",
+					["Inherit"] = false,
+				},
+				["WeakAuras_qzVGQtmKQwu"] = {
+					["Backdrop"] = true,
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Backdrop"] = {
+							1, -- [1]
+							1, -- [2]
+							1, -- [3]
+							1, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "ElvUIesque",
+				},
+				["WeakAuras_9Z2Qm7jrTw1"] = {
+					["Backdrop"] = true,
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Backdrop"] = {
+							1, -- [1]
+							1, -- [2]
+							1, -- [3]
+							1, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "ElvUIesque",
+				},
+				["WeakAuras_mQTVhSLwtLd"] = {
+					["Backdrop"] = true,
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Backdrop"] = {
+							1, -- [1]
+							1, -- [2]
+							1, -- [3]
+							1, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "ElvUIesque - No Backdrop",
+				},
+				["WeakAuras_vMM3NHus8X5"] = {
+					["Backdrop"] = true,
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Backdrop"] = {
+							1, -- [1]
+							1, -- [2]
+							1, -- [3]
+							1, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "ElvUIesque",
+				},
+				["WeakAuras_8nELOteOwty"] = {
+					["Backdrop"] = true,
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Backdrop"] = {
+							1, -- [1]
+							1, -- [2]
+							1, -- [3]
+							1, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "ElvUIesque - No Backdrop",
+				},
+				["WeakAuras_IBfxCUqhxxv"] = {
 					["Backdrop"] = true,
 					["Upgraded"] = true,
 					["Colors"] = {
@@ -17615,6 +18964,19 @@ MasqueDB = {
 					["Backdrop"] = true,
 					["SkinID"] = "ElvUIesque",
 				},
+				["WeakAuras_orgozoa"] = {
+					["Colors"] = {
+						["Backdrop"] = {
+							1, -- [1]
+							1, -- [2]
+							1, -- [3]
+							1, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "ElvUIesque",
+				},
 				["WeakAuras_xMpDviwEM0M"] = {
 					["Backdrop"] = true,
 					["Upgraded"] = true,
@@ -17629,6 +18991,19 @@ MasqueDB = {
 					["SkinID"] = "ElvUIesque",
 					["Inherit"] = false,
 				},
+				["WeakAuras_zt_-_nnogga's_party_cd_front_end33"] = {
+					["Colors"] = {
+						["Backdrop"] = {
+							1, -- [1]
+							1, -- [2]
+							1, -- [3]
+							1, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "ElvUIesque",
+				},
 				["WeakAuras_ascendance_v2"] = {
 					["Colors"] = {
 						["Backdrop"] = {
@@ -17641,6 +19016,80 @@ MasqueDB = {
 					["Inherit"] = false,
 					["Backdrop"] = true,
 					["SkinID"] = "ElvUIesque",
+				},
+				["WeakAuras_sqZTmCyV5kT"] = {
+					["Backdrop"] = true,
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Backdrop"] = {
+							1, -- [1]
+							1, -- [2]
+							1, -- [3]
+							1, -- [4]
+						},
+					},
+					["SkinID"] = "ElvUIesque",
+					["Inherit"] = false,
+				},
+				["WeakAuras_gAqBpzyOMzh"] = {
+					["Backdrop"] = true,
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Backdrop"] = {
+							1, -- [1]
+							1, -- [2]
+							1, -- [3]
+							1, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "ElvUIesque - No Backdrop",
+				},
+				["WeakAuras_OmWuouLMKoO"] = {
+					["Backdrop"] = true,
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Backdrop"] = {
+							1, -- [1]
+							1, -- [2]
+							1, -- [3]
+							1, -- [4]
+						},
+					},
+					["SkinID"] = "Epix",
+					["Inherit"] = false,
+				},
+				["OmniBar_Healing Tide Totem"] = {
+					["Inherit"] = false,
+					["Backdrop"] = true,
+				},
+				["WeakAuras_f0vjQJLiXFa"] = {
+					["Backdrop"] = true,
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Backdrop"] = {
+							1, -- [1]
+							1, -- [2]
+							1, -- [3]
+							1, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "ElvUIesque - No Backdrop",
+				},
+				["WeakAuras_6CooJaZWQyP"] = {
+					["Backdrop"] = true,
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Backdrop"] = {
+							1, -- [1]
+							1, -- [2]
+							1, -- [3]
+							1, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "ElvUIesque - No Backdrop",
 				},
 				["WeakAuras_hA19vOA1qSB"] = {
 					["Backdrop"] = true,
@@ -17656,6 +19105,33 @@ MasqueDB = {
 					["SkinID"] = "ElvUIesque",
 					["Inherit"] = false,
 				},
+				["WeakAuras_exposed_elements_inactive"] = {
+					["Colors"] = {
+						["Backdrop"] = {
+							1, -- [1]
+							1, -- [2]
+							1, -- [3]
+							1, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "ElvUIesque",
+				},
+				["WeakAuras_sei9ziJzJ7T"] = {
+					["Backdrop"] = true,
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Backdrop"] = {
+							1, -- [1]
+							1, -- [2]
+							1, -- [3]
+							1, -- [4]
+						},
+					},
+					["SkinID"] = "Epix",
+					["Inherit"] = false,
+				},
 				["WeakAuras_L7BXE0y4tvF"] = {
 					["Backdrop"] = true,
 					["Upgraded"] = true,
@@ -17669,6 +19145,34 @@ MasqueDB = {
 					},
 					["SkinID"] = "ElvUIesque",
 					["Inherit"] = false,
+				},
+				["WeakAuras_DebrmvX34Lh"] = {
+					["Backdrop"] = true,
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Backdrop"] = {
+							1, -- [1]
+							1, -- [2]
+							1, -- [3]
+							1, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "ElvUIesque",
+				},
+				["WeakAuras_YVq(2KByzri"] = {
+					["Backdrop"] = true,
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Backdrop"] = {
+							1, -- [1]
+							1, -- [2]
+							1, -- [3]
+							1, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "ElvUIesque - No Backdrop",
 				},
 				["WeakAuras_fsTOmD4gzEu"] = {
 					["Backdrop"] = true,
@@ -17751,9 +19255,37 @@ MasqueDB = {
 					["SkinID"] = "Epix",
 					["Inherit"] = false,
 				},
+				["WeakAuras_1qZbnVPMYGl"] = {
+					["Backdrop"] = true,
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Backdrop"] = {
+							1, -- [1]
+							1, -- [2]
+							1, -- [3]
+							1, -- [4]
+						},
+					},
+					["SkinID"] = "Epix",
+					["Inherit"] = false,
+				},
 				["OmniBar_Vampiric Embrace"] = {
 					["Inherit"] = false,
 					["Backdrop"] = true,
+				},
+				["WeakAuras_nUOCVE8C6qY"] = {
+					["Backdrop"] = true,
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Backdrop"] = {
+							1, -- [1]
+							1, -- [2]
+							1, -- [3]
+							1, -- [4]
+						},
+					},
+					["SkinID"] = "ElvUIesque",
+					["Inherit"] = false,
 				},
 				["WeakAuras_flame_shock_resto_2"] = {
 					["Colors"] = {
@@ -17782,7 +19314,20 @@ MasqueDB = {
 					["SkinID"] = "ElvUIesque",
 					["Inherit"] = false,
 				},
-				["WeakAuras_nUOCVE8C6qY"] = {
+				["WeakAuras_liquid_magma_totem_2"] = {
+					["Colors"] = {
+						["Backdrop"] = {
+							1, -- [1]
+							1, -- [2]
+							1, -- [3]
+							1, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "ElvUIesque",
+				},
+				["WeakAuras_Lk4HtAZWZRw"] = {
 					["Backdrop"] = true,
 					["Upgraded"] = true,
 					["Colors"] = {
@@ -17793,8 +19338,8 @@ MasqueDB = {
 							1, -- [4]
 						},
 					},
-					["SkinID"] = "ElvUIesque",
 					["Inherit"] = false,
+					["SkinID"] = "ElvUIesque - No Backdrop",
 				},
 				["WeakAuras_masteroftheelements_active"] = {
 					["Colors"] = {
@@ -17808,6 +19353,66 @@ MasqueDB = {
 					["Inherit"] = false,
 					["Backdrop"] = true,
 					["SkinID"] = "ElvUIesque",
+				},
+				["WeakAuras_SGpHz9vLsoe"] = {
+					["Backdrop"] = true,
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Backdrop"] = {
+							1, -- [1]
+							1, -- [2]
+							1, -- [3]
+							1, -- [4]
+						},
+					},
+					["SkinID"] = "Epix",
+					["Inherit"] = false,
+				},
+				["WeakAuras_GqKZJf7XLXG"] = {
+					["Backdrop"] = true,
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Backdrop"] = {
+							1, -- [1]
+							1, -- [2]
+							1, -- [3]
+							1, -- [4]
+						},
+					},
+					["SkinID"] = "ElvUIesque",
+					["Inherit"] = false,
+				},
+				["WeakAuras_4kpuDLnbThQ"] = {
+					["Backdrop"] = true,
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Backdrop"] = {
+							1, -- [1]
+							1, -- [2]
+							1, -- [3]
+							1, -- [4]
+						},
+					},
+					["SkinID"] = "Epix",
+					["Inherit"] = false,
+				},
+				["WeakAuras_0HV341ua)q6"] = {
+					["Backdrop"] = true,
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Backdrop"] = {
+							1, -- [1]
+							1, -- [2]
+							1, -- [3]
+							1, -- [4]
+						},
+					},
+					["SkinID"] = "ElvUIesque",
+					["Inherit"] = false,
+				},
+				["OmniBar_Intimidating Shout"] = {
+					["Inherit"] = false,
+					["Backdrop"] = true,
 				},
 				["WeakAuras_KMSfQXDDxXR"] = {
 					["Backdrop"] = true,
@@ -17823,7 +19428,75 @@ MasqueDB = {
 					["SkinID"] = "Epix",
 					["Inherit"] = false,
 				},
-				["WeakAuras_Ffw)4JAdQ66"] = {
+				["WeakAuras_zt_-_nnogga's_party_cd_front_end16"] = {
+					["Colors"] = {
+						["Backdrop"] = {
+							1, -- [1]
+							1, -- [2]
+							1, -- [3]
+							1, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "ElvUIesque",
+				},
+				["WeakAuras_uYSl3NOneN5"] = {
+					["Backdrop"] = true,
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Backdrop"] = {
+							1, -- [1]
+							1, -- [2]
+							1, -- [3]
+							1, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "ElvUIesque",
+				},
+				["WeakAuras_HO(ULJmHGJb"] = {
+					["Backdrop"] = true,
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Backdrop"] = {
+							1, -- [1]
+							1, -- [2]
+							1, -- [3]
+							1, -- [4]
+						},
+					},
+					["SkinID"] = "ElvUIesque",
+					["Inherit"] = false,
+				},
+				["WeakAuras_surge_of_power2"] = {
+					["Colors"] = {
+						["Backdrop"] = {
+							1, -- [1]
+							1, -- [2]
+							1, -- [3]
+							1, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "ElvUIesque",
+				},
+				["WeakAuras_k9Dus(SA5lO"] = {
+					["Backdrop"] = true,
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Backdrop"] = {
+							1, -- [1]
+							1, -- [2]
+							1, -- [3]
+							1, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "ElvUIesque - No Backdrop",
+				},
+				["WeakAuras_zwjpI29Vpsd"] = {
 					["Backdrop"] = true,
 					["Upgraded"] = true,
 					["Colors"] = {
@@ -17865,21 +19538,7 @@ MasqueDB = {
 					["SkinID"] = "ElvUIesque",
 					["Inherit"] = false,
 				},
-				["WeakAuras_5qZSoHcc5q5"] = {
-					["Backdrop"] = true,
-					["Upgraded"] = true,
-					["Colors"] = {
-						["Backdrop"] = {
-							1, -- [1]
-							1, -- [2]
-							1, -- [3]
-							1, -- [4]
-						},
-					},
-					["SkinID"] = "ElvUIesque",
-					["Inherit"] = false,
-				},
-				["WeakAuras_OmWuouLMKoO"] = {
+				["WeakAuras_HJyuUxs4mFX"] = {
 					["Backdrop"] = true,
 					["Upgraded"] = true,
 					["Colors"] = {
@@ -17893,9 +19552,7 @@ MasqueDB = {
 					["SkinID"] = "Epix",
 					["Inherit"] = false,
 				},
-				["WeakAuras_oPng8KbE9aP"] = {
-					["Backdrop"] = true,
-					["Upgraded"] = true,
+				["WeakAuras_06:_verdict"] = {
 					["Colors"] = {
 						["Backdrop"] = {
 							1, -- [1]
@@ -17905,7 +19562,12 @@ MasqueDB = {
 						},
 					},
 					["Inherit"] = false,
-					["SkinID"] = "ElvUIesque - No Backdrop",
+					["Backdrop"] = true,
+					["SkinID"] = "ElvUIesque",
+				},
+				["WeakAuras_lava_surge_proc_2"] = {
+					["Inherit"] = false,
+					["SkinID"] = "ElvUIesque",
 				},
 				["WeakAuras_jcMD53wjWvZ"] = {
 					["Backdrop"] = true,
@@ -17921,6 +19583,20 @@ MasqueDB = {
 					["SkinID"] = "ElvUIesque",
 					["Inherit"] = false,
 				},
+				["WeakAuras_hAstefZ5Rtd"] = {
+					["Backdrop"] = true,
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Backdrop"] = {
+							1, -- [1]
+							1, -- [2]
+							1, -- [3]
+							1, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "ElvUIesque",
+				},
 				["WeakAuras_heavy_slash7"] = {
 					["Colors"] = {
 						["Backdrop"] = {
@@ -17934,7 +19610,7 @@ MasqueDB = {
 					["Backdrop"] = true,
 					["SkinID"] = "ElvUIesque",
 				},
-				["WeakAuras_f0vjQJLiXFa"] = {
+				["WeakAuras_aY36Tq0tzSS"] = {
 					["Backdrop"] = true,
 					["Upgraded"] = true,
 					["Colors"] = {
@@ -17946,22 +19622,9 @@ MasqueDB = {
 						},
 					},
 					["Inherit"] = false,
-					["SkinID"] = "ElvUIesque - No Backdrop",
-				},
-				["WeakAuras_veins_2"] = {
-					["Colors"] = {
-						["Backdrop"] = {
-							1, -- [1]
-							1, -- [2]
-							1, -- [3]
-							1, -- [4]
-						},
-					},
-					["Inherit"] = false,
-					["Backdrop"] = true,
 					["SkinID"] = "ElvUIesque",
 				},
-				["WeakAuras_skyfury"] = {
+				["WeakAuras_veins_2"] = {
 					["Colors"] = {
 						["Backdrop"] = {
 							1, -- [1]
@@ -18028,7 +19691,7 @@ MasqueDB = {
 					["SkinID"] = "ElvUIesque",
 					["Inherit"] = false,
 				},
-				["WeakAuras_YVq(2KByzri"] = {
+				["WeakAuras_awglLF0AkcA"] = {
 					["Backdrop"] = true,
 					["Upgraded"] = true,
 					["Colors"] = {
@@ -18042,7 +19705,9 @@ MasqueDB = {
 					["Inherit"] = false,
 					["SkinID"] = "ElvUIesque - No Backdrop",
 				},
-				["WeakAuras_liquid_magma_totem_2"] = {
+				["WeakAuras_iAbtUCDY0cG"] = {
+					["Backdrop"] = true,
+					["Upgraded"] = true,
 					["Colors"] = {
 						["Backdrop"] = {
 							1, -- [1]
@@ -18052,7 +19717,6 @@ MasqueDB = {
 						},
 					},
 					["Inherit"] = false,
-					["Backdrop"] = true,
 					["SkinID"] = "ElvUIesque",
 				},
 				["WeakAuras_counterspell"] = {
@@ -18082,9 +19746,7 @@ MasqueDB = {
 					["SkinID"] = "ElvUIesque",
 					["Inherit"] = false,
 				},
-				["WeakAuras_1hH3fWYNAC2"] = {
-					["Backdrop"] = true,
-					["Upgraded"] = true,
+				["WeakAuras_sap3"] = {
 					["Colors"] = {
 						["Backdrop"] = {
 							1, -- [1]
@@ -18093,8 +19755,9 @@ MasqueDB = {
 							1, -- [4]
 						},
 					},
-					["SkinID"] = "Epix",
 					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "ElvUIesque",
 				},
 				["WeakAuras_elemental_trinket"] = {
 					["Colors"] = {
@@ -18109,7 +19772,7 @@ MasqueDB = {
 					["Backdrop"] = true,
 					["SkinID"] = "ElvUIesque",
 				},
-				["WeakAuras_current_equipped_panel_icn2"] = {
+				["WeakAuras_queen's_court_next_decree"] = {
 					["Colors"] = {
 						["Backdrop"] = {
 							1, -- [1]
@@ -18122,7 +19785,7 @@ MasqueDB = {
 					["Backdrop"] = true,
 					["SkinID"] = "ElvUIesque",
 				},
-				["WeakAuras_1qZbnVPMYGl"] = {
+				["WeakAuras_tgBM)7i4rg("] = {
 					["Backdrop"] = true,
 					["Upgraded"] = true,
 					["Colors"] = {
@@ -18133,10 +19796,10 @@ MasqueDB = {
 							1, -- [4]
 						},
 					},
-					["SkinID"] = "Epix",
+					["SkinID"] = "ElvUIesque",
 					["Inherit"] = false,
 				},
-				["WeakAuras_kuRymWZ)Wam"] = {
+				["WeakAuras_pUnmoKjEFbL"] = {
 					["Backdrop"] = true,
 					["Upgraded"] = true,
 					["Colors"] = {
@@ -18164,7 +19827,7 @@ MasqueDB = {
 					["SkinID"] = "ElvUIesque",
 					["Inherit"] = false,
 				},
-				["WeakAuras_PYJKTPa57pu"] = {
+				["WeakAuras_TCPitNHE4zL"] = {
 					["Backdrop"] = true,
 					["Upgraded"] = true,
 					["Colors"] = {
@@ -18175,22 +19838,22 @@ MasqueDB = {
 							1, -- [4]
 						},
 					},
-					["SkinID"] = "ElvUIesque",
 					["Inherit"] = false,
-				},
-				["WeakAuras_SGpHz9vLsoe"] = {
-					["Backdrop"] = true,
-					["Upgraded"] = true,
-					["Colors"] = {
-						["Backdrop"] = {
-							1, -- [1]
-							1, -- [2]
-							1, -- [3]
-							1, -- [4]
-						},
-					},
 					["SkinID"] = "Epix",
+				},
+				["WeakAuras_0Sj1BVaJkrb"] = {
+					["Backdrop"] = true,
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Backdrop"] = {
+							1, -- [1]
+							1, -- [2]
+							1, -- [3]
+							1, -- [4]
+						},
+					},
 					["Inherit"] = false,
+					["SkinID"] = "ElvUIesque",
 				},
 				["WeakAuras_06:_outburst"] = {
 					["Colors"] = {
@@ -18205,7 +19868,7 @@ MasqueDB = {
 					["Backdrop"] = true,
 					["SkinID"] = "ElvUIesque",
 				},
-				["WeakAuras_AHy8sHIempT"] = {
+				["WeakAuras_Dax4YrMDSPi"] = {
 					["Backdrop"] = true,
 					["Upgraded"] = true,
 					["Colors"] = {
@@ -18217,9 +19880,9 @@ MasqueDB = {
 						},
 					},
 					["Inherit"] = false,
-					["SkinID"] = "ElvUIesque",
+					["SkinID"] = "ElvUIesque - No Backdrop",
 				},
-				["WeakAuras_4kpuDLnbThQ"] = {
+				["WeakAuras_BT8dj395CeK"] = {
 					["Backdrop"] = true,
 					["Upgraded"] = true,
 					["Colors"] = {
@@ -18230,7 +19893,7 @@ MasqueDB = {
 							1, -- [4]
 						},
 					},
-					["SkinID"] = "Epix",
+					["SkinID"] = "ElvUIesque",
 					["Inherit"] = false,
 				},
 				["WeakAuras_ascendance_v2_2"] = {
@@ -18287,7 +19950,7 @@ MasqueDB = {
 					["SkinID"] = "ElvUIesque",
 					["Inherit"] = false,
 				},
-				["WeakAuras_k9Dus(SA5lO"] = {
+				["WeakAuras_f(BQCNCmAZF"] = {
 					["Backdrop"] = true,
 					["Upgraded"] = true,
 					["Colors"] = {
@@ -18298,8 +19961,8 @@ MasqueDB = {
 							1, -- [4]
 						},
 					},
+					["SkinID"] = "ElvUIesque",
 					["Inherit"] = false,
-					["SkinID"] = "ElvUIesque - No Backdrop",
 				},
 				["WeakAuras_Lk(jmqP6o7G"] = {
 					["Backdrop"] = true,
@@ -18315,21 +19978,11 @@ MasqueDB = {
 					["SkinID"] = "ElvUIesque",
 					["Inherit"] = false,
 				},
-				["WeakAuras_Bl(8SvWD8aY"] = {
-					["Backdrop"] = true,
-					["Upgraded"] = true,
-					["Colors"] = {
-						["Backdrop"] = {
-							1, -- [1]
-							1, -- [2]
-							1, -- [3]
-							1, -- [4]
-						},
-					},
+				["OmniBar_Ascendance"] = {
 					["Inherit"] = false,
-					["SkinID"] = "Epix",
+					["Backdrop"] = true,
 				},
-				["WeakAuras_aY36Tq0tzSS"] = {
+				["WeakAuras_OOMonYb5o0z"] = {
 					["Backdrop"] = true,
 					["Upgraded"] = true,
 					["Colors"] = {
@@ -18341,7 +19994,7 @@ MasqueDB = {
 						},
 					},
 					["Inherit"] = false,
-					["SkinID"] = "ElvUIesque",
+					["SkinID"] = "ElvUIesque - No Backdrop",
 				},
 				["WeakAuras_z6F6Ek74Ul("] = {
 					["Backdrop"] = true,
@@ -18413,7 +20066,7 @@ MasqueDB = {
 					["SkinID"] = "ElvUIesque",
 					["Inherit"] = false,
 				},
-				["WeakAuras_yI8m)FWsTMc"] = {
+				["WeakAuras_hmvJxSd8Oy2"] = {
 					["Backdrop"] = true,
 					["Upgraded"] = true,
 					["Colors"] = {
@@ -18440,7 +20093,7 @@ MasqueDB = {
 					["Backdrop"] = true,
 					["SkinID"] = "ElvUIesque",
 				},
-				["WeakAuras_mZQWpoPVbdS"] = {
+				["WeakAuras_u60cSk617b3"] = {
 					["Backdrop"] = true,
 					["Upgraded"] = true,
 					["Colors"] = {
@@ -18451,24 +20104,10 @@ MasqueDB = {
 							1, -- [4]
 						},
 					},
-					["SkinID"] = "ElvUIesque",
 					["Inherit"] = false,
-				},
-				["WeakAuras_qzcmCcAhGzw"] = {
-					["Backdrop"] = true,
-					["Upgraded"] = true,
-					["Colors"] = {
-						["Backdrop"] = {
-							1, -- [1]
-							1, -- [2]
-							1, -- [3]
-							1, -- [4]
-						},
-					},
 					["SkinID"] = "ElvUIesque",
-					["Inherit"] = false,
 				},
-				["WeakAuras_GKfFakzJTUD"] = {
+				["WeakAuras_Imd0w)UP1UP"] = {
 					["Backdrop"] = true,
 					["Upgraded"] = true,
 					["Colors"] = {
@@ -18482,7 +20121,11 @@ MasqueDB = {
 					["Inherit"] = false,
 					["SkinID"] = "ElvUIesque - No Backdrop",
 				},
-				["WeakAuras_)Mk69iKUlm9"] = {
+				["OmniBar_Blinding Light"] = {
+					["Inherit"] = false,
+					["Backdrop"] = true,
+				},
+				["WeakAuras_WbvfFd)74m7"] = {
 					["Backdrop"] = true,
 					["Upgraded"] = true,
 					["Colors"] = {
@@ -18494,7 +20137,7 @@ MasqueDB = {
 						},
 					},
 					["Inherit"] = false,
-					["SkinID"] = "Epix",
+					["SkinID"] = "ElvUIesque - No Backdrop",
 				},
 				["WeakAuras_storm_elemental_duration_22"] = {
 					["Colors"] = {
@@ -18549,62 +20192,7 @@ MasqueDB = {
 					["SkinID"] = "Epix",
 					["Inherit"] = false,
 				},
-				["WeakAuras_fLcK5(vkVvT"] = {
-					["Backdrop"] = true,
-					["Upgraded"] = true,
-					["Colors"] = {
-						["Backdrop"] = {
-							1, -- [1]
-							1, -- [2]
-							1, -- [3]
-							1, -- [4]
-						},
-					},
-					["Inherit"] = false,
-					["SkinID"] = "ElvUIesque - No Backdrop",
-				},
-				["WeakAuras_rop_cd_available_3"] = {
-					["Colors"] = {
-						["Backdrop"] = {
-							1, -- [1]
-							1, -- [2]
-							1, -- [3]
-							1, -- [4]
-						},
-					},
-					["Inherit"] = false,
-					["Backdrop"] = true,
-					["SkinID"] = "ElvUIesque",
-				},
-				["WeakAuras_hmvJxSd8Oy2"] = {
-					["Backdrop"] = true,
-					["Upgraded"] = true,
-					["Colors"] = {
-						["Backdrop"] = {
-							1, -- [1]
-							1, -- [2]
-							1, -- [3]
-							1, -- [4]
-						},
-					},
-					["Inherit"] = false,
-					["SkinID"] = "ElvUIesque - No Backdrop",
-				},
-				["WeakAuras_pUnmoKjEFbL"] = {
-					["Backdrop"] = true,
-					["Upgraded"] = true,
-					["Colors"] = {
-						["Backdrop"] = {
-							1, -- [1]
-							1, -- [2]
-							1, -- [3]
-							1, -- [4]
-						},
-					},
-					["Inherit"] = false,
-					["SkinID"] = "ElvUIesque - No Backdrop",
-				},
-				["WeakAuras_BT8dj395CeK"] = {
+				["WeakAuras_ZmfXa7oLofZ"] = {
 					["Backdrop"] = true,
 					["Upgraded"] = true,
 					["Colors"] = {
@@ -18617,6 +20205,62 @@ MasqueDB = {
 					},
 					["SkinID"] = "ElvUIesque",
 					["Inherit"] = false,
+				},
+				["WeakAuras_o9fAQtkq3u4"] = {
+					["Backdrop"] = true,
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Backdrop"] = {
+							1, -- [1]
+							1, -- [2]
+							1, -- [3]
+							1, -- [4]
+						},
+					},
+					["SkinID"] = "Epix",
+					["Inherit"] = false,
+				},
+				["WeakAuras_ORBpHYbRwai"] = {
+					["Backdrop"] = true,
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Backdrop"] = {
+							1, -- [1]
+							1, -- [2]
+							1, -- [3]
+							1, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "ElvUIesque",
+				},
+				["WeakAuras_bIj11goyHtZ"] = {
+					["Backdrop"] = true,
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Backdrop"] = {
+							1, -- [1]
+							1, -- [2]
+							1, -- [3]
+							1, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "ElvUIesque",
+				},
+				["WeakAuras_FKRKR8S9DrF"] = {
+					["Backdrop"] = true,
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Backdrop"] = {
+							1, -- [1]
+							1, -- [2]
+							1, -- [3]
+							1, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "ElvUIesque",
 				},
 				["WeakAuras_battle_potion_of_strength_off"] = {
 					["Colors"] = {
@@ -18631,7 +20275,20 @@ MasqueDB = {
 					["Backdrop"] = true,
 					["SkinID"] = "ElvUIesque",
 				},
-				["WeakAuras_o04GIsyIFAC"] = {
+				["WeakAuras_08:_arcane_detonation"] = {
+					["Colors"] = {
+						["Backdrop"] = {
+							1, -- [1]
+							1, -- [2]
+							1, -- [3]
+							1, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "ElvUIesque",
+				},
+				["WeakAuras_00z4oEJJ3do"] = {
 					["Backdrop"] = true,
 					["Upgraded"] = true,
 					["Colors"] = {
@@ -18642,7 +20299,7 @@ MasqueDB = {
 							1, -- [4]
 						},
 					},
-					["SkinID"] = "Epix",
+					["SkinID"] = "ElvUIesque",
 					["Inherit"] = false,
 				},
 				["WeakAuras_fWfZlq169Wd"] = {
@@ -18659,20 +20316,6 @@ MasqueDB = {
 					["SkinID"] = "ElvUIesque",
 					["Inherit"] = false,
 				},
-				["WeakAuras_OOMonYb5o0z"] = {
-					["Backdrop"] = true,
-					["Upgraded"] = true,
-					["Colors"] = {
-						["Backdrop"] = {
-							1, -- [1]
-							1, -- [2]
-							1, -- [3]
-							1, -- [4]
-						},
-					},
-					["Inherit"] = false,
-					["SkinID"] = "ElvUIesque - No Backdrop",
-				},
 				["WeakAuras_cdwMk)c1JBn"] = {
 					["Backdrop"] = true,
 					["Upgraded"] = true,
@@ -18687,21 +20330,7 @@ MasqueDB = {
 					["SkinID"] = "ElvUIesque",
 					["Inherit"] = false,
 				},
-				["WeakAuras_WsLFPUo9RCk"] = {
-					["Backdrop"] = true,
-					["Upgraded"] = true,
-					["Colors"] = {
-						["Backdrop"] = {
-							1, -- [1]
-							1, -- [2]
-							1, -- [3]
-							1, -- [4]
-						},
-					},
-					["SkinID"] = "Epix",
-					["Inherit"] = false,
-				},
-				["WeakAuras_L0yApV82wQl"] = {
+				["WeakAuras_Q)Jb6ugant0"] = {
 					["Backdrop"] = true,
 					["Upgraded"] = true,
 					["Colors"] = {
@@ -18715,20 +20344,7 @@ MasqueDB = {
 					["SkinID"] = "ElvUIesque",
 					["Inherit"] = false,
 				},
-				["WeakAuras_anchors_wa_to_spawn_of_g'huun_nameplate_if_it_targets_you3"] = {
-					["Colors"] = {
-						["Backdrop"] = {
-							1, -- [1]
-							1, -- [2]
-							1, -- [3]
-							1, -- [4]
-						},
-					},
-					["Inherit"] = false,
-					["Backdrop"] = true,
-					["SkinID"] = "ElvUIesque",
-				},
-				["WeakAuras_Hs2APo6PqjG"] = {
+				["WeakAuras_6ZBuTvEcKX7"] = {
 					["Backdrop"] = true,
 					["Upgraded"] = true,
 					["Colors"] = {
@@ -18739,8 +20355,36 @@ MasqueDB = {
 							1, -- [4]
 						},
 					},
-					["SkinID"] = "ElvUIesque",
 					["Inherit"] = false,
+					["SkinID"] = "ElvUIesque - No Backdrop",
+				},
+				["WeakAuras_EUjOz(TY)em"] = {
+					["Backdrop"] = true,
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Backdrop"] = {
+							1, -- [1]
+							1, -- [2]
+							1, -- [3]
+							1, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "ElvUIesque",
+				},
+				["WeakAuras_OSMzVi7HSJk"] = {
+					["Backdrop"] = true,
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Backdrop"] = {
+							1, -- [1]
+							1, -- [2]
+							1, -- [3]
+							1, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "ElvUIesque - No Backdrop",
 				},
 				["WeakAuras_liquid_magma"] = {
 					["Colors"] = {
@@ -18755,7 +20399,7 @@ MasqueDB = {
 					["Backdrop"] = true,
 					["SkinID"] = "ElvUIesque",
 				},
-				["WeakAuras_bewk07zhBfk"] = {
+				["WeakAuras_6B(afkj0uJb"] = {
 					["Backdrop"] = true,
 					["Upgraded"] = true,
 					["Colors"] = {
@@ -18769,7 +20413,7 @@ MasqueDB = {
 					["SkinID"] = "ElvUIesque",
 					["Inherit"] = false,
 				},
-				["WeakAuras_vMM3NHus8X5"] = {
+				["WeakAuras_uExiC2dlUtp"] = {
 					["Backdrop"] = true,
 					["Upgraded"] = true,
 					["Colors"] = {
@@ -18780,12 +20424,10 @@ MasqueDB = {
 							1, -- [4]
 						},
 					},
-					["Inherit"] = false,
 					["SkinID"] = "ElvUIesque",
+					["Inherit"] = false,
 				},
-				["WeakAuras_7qImWUkH)1U"] = {
-					["Backdrop"] = true,
-					["Upgraded"] = true,
+				["WeakAuras_arcane_torrent_2"] = {
 					["Colors"] = {
 						["Backdrop"] = {
 							1, -- [1]
@@ -18795,7 +20437,8 @@ MasqueDB = {
 						},
 					},
 					["Inherit"] = false,
-					["SkinID"] = "ElvUIesque - No Backdrop",
+					["Backdrop"] = true,
+					["SkinID"] = "ElvUIesque",
 				},
 				["WeakAuras_MrxnfiWb6Q("] = {
 					["Backdrop"] = true,
@@ -18839,7 +20482,34 @@ MasqueDB = {
 					["Inherit"] = false,
 					["SkinID"] = "ElvUIesque",
 				},
-				["WeakAuras_OOOj)zFym8G"] = {
+				["WeakAuras_atmt4gusCvC"] = {
+					["Backdrop"] = true,
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Backdrop"] = {
+							1, -- [1]
+							1, -- [2]
+							1, -- [3]
+							1, -- [4]
+						},
+					},
+					["SkinID"] = "ElvUIesque",
+					["Inherit"] = false,
+				},
+				["WeakAuras_creeping_rot2"] = {
+					["Colors"] = {
+						["Backdrop"] = {
+							1, -- [1]
+							1, -- [2]
+							1, -- [3]
+							1, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "ElvUIesque",
+				},
+				["WeakAuras_dhacWVq8u0("] = {
 					["Backdrop"] = true,
 					["Upgraded"] = true,
 					["Colors"] = {
@@ -18852,40 +20522,12 @@ MasqueDB = {
 					},
 					["Inherit"] = false,
 					["SkinID"] = "ElvUIesque",
-				},
-				["WeakAuras_37lvzG)lsri"] = {
-					["Backdrop"] = true,
-					["Upgraded"] = true,
-					["Colors"] = {
-						["Backdrop"] = {
-							1, -- [1]
-							1, -- [2]
-							1, -- [3]
-							1, -- [4]
-						},
-					},
-					["Inherit"] = false,
-					["SkinID"] = "ElvUIesque - No Backdrop",
-				},
-				["WeakAuras_Ciiz)8m3P8c"] = {
-					["Backdrop"] = true,
-					["Upgraded"] = true,
-					["Colors"] = {
-						["Backdrop"] = {
-							1, -- [1]
-							1, -- [2]
-							1, -- [3]
-							1, -- [4]
-						},
-					},
-					["Inherit"] = false,
-					["SkinID"] = "ElvUIesque - No Backdrop",
 				},
 				["OmniBar_Muzzle"] = {
 					["Inherit"] = false,
 					["Backdrop"] = true,
 				},
-				["WeakAuras_FKRKR8S9DrF"] = {
+				["WeakAuras_8KoWyaul8o0"] = {
 					["Backdrop"] = true,
 					["Upgraded"] = true,
 					["Colors"] = {
@@ -18897,7 +20539,7 @@ MasqueDB = {
 						},
 					},
 					["Inherit"] = false,
-					["SkinID"] = "ElvUIesque",
+					["SkinID"] = "ElvUIesque - No Backdrop",
 				},
 				["WeakAuras_4rEt0DWRXHV"] = {
 					["Backdrop"] = true,
@@ -18940,7 +20582,7 @@ MasqueDB = {
 					["Backdrop"] = true,
 					["SkinID"] = "ElvUIesque",
 				},
-				["WeakAuras_C2r9RilcH28"] = {
+				["WeakAuras_3H5UNvEoKHP"] = {
 					["Backdrop"] = true,
 					["Upgraded"] = true,
 					["Colors"] = {
@@ -18954,7 +20596,7 @@ MasqueDB = {
 					["Inherit"] = false,
 					["SkinID"] = "Epix",
 				},
-				["WeakAuras_zt_-_nnogga's_party_cd_front_end33"] = {
+				["WeakAuras_hero/lust_3"] = {
 					["Colors"] = {
 						["Backdrop"] = {
 							1, -- [1]
@@ -18967,20 +20609,7 @@ MasqueDB = {
 					["Backdrop"] = true,
 					["SkinID"] = "ElvUIesque",
 				},
-				["WeakAuras_rotten_bile10"] = {
-					["Colors"] = {
-						["Backdrop"] = {
-							1, -- [1]
-							1, -- [2]
-							1, -- [3]
-							1, -- [4]
-						},
-					},
-					["Inherit"] = false,
-					["Backdrop"] = true,
-					["SkinID"] = "ElvUIesque",
-				},
-				["WeakAuras_Q)Jb6ugant0"] = {
+				["WeakAuras_NvgRfCLlbXA"] = {
 					["Backdrop"] = true,
 					["Upgraded"] = true,
 					["Colors"] = {
@@ -18991,7 +20620,21 @@ MasqueDB = {
 							1, -- [4]
 						},
 					},
-					["SkinID"] = "ElvUIesque",
+					["Inherit"] = false,
+					["SkinID"] = "ElvUIesque - No Backdrop",
+				},
+				["WeakAuras_JDwfZwcrc6p"] = {
+					["Backdrop"] = true,
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Backdrop"] = {
+							1, -- [1]
+							1, -- [2]
+							1, -- [3]
+							1, -- [4]
+						},
+					},
+					["SkinID"] = "Epix",
 					["Inherit"] = false,
 				},
 				["WeakAuras_wYyphWF3txC"] = {
@@ -19021,7 +20664,7 @@ MasqueDB = {
 					["Backdrop"] = true,
 					["SkinID"] = "ElvUIesque",
 				},
-				["WeakAuras_ORBpHYbRwai"] = {
+				["WeakAuras_SaEsREVFqvP"] = {
 					["Backdrop"] = true,
 					["Upgraded"] = true,
 					["Colors"] = {
@@ -19033,7 +20676,7 @@ MasqueDB = {
 						},
 					},
 					["Inherit"] = false,
-					["SkinID"] = "ElvUIesque",
+					["SkinID"] = "ElvUIesque - No Backdrop",
 				},
 				["WeakAuras_flametongue_-_active"] = {
 					["Colors"] = {
@@ -19048,9 +20691,7 @@ MasqueDB = {
 					["Backdrop"] = true,
 					["SkinID"] = "ElvUIesque",
 				},
-				["WeakAuras_o9fAQtkq3u4"] = {
-					["Backdrop"] = true,
-					["Upgraded"] = true,
+				["WeakAuras_rotten_bile10"] = {
 					["Colors"] = {
 						["Backdrop"] = {
 							1, -- [1]
@@ -19059,10 +20700,11 @@ MasqueDB = {
 							1, -- [4]
 						},
 					},
-					["SkinID"] = "Epix",
 					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "ElvUIesque",
 				},
-				["WeakAuras_JDwfZwcrc6p"] = {
+				["WeakAuras_(UHiSZOlmTx"] = {
 					["Backdrop"] = true,
 					["Upgraded"] = true,
 					["Colors"] = {
@@ -19073,8 +20715,8 @@ MasqueDB = {
 							1, -- [4]
 						},
 					},
-					["SkinID"] = "Epix",
 					["Inherit"] = false,
+					["SkinID"] = "Epix",
 				},
 				["WeakAuras_cold_snap"] = {
 					["Colors"] = {
@@ -19089,9 +20731,7 @@ MasqueDB = {
 					["Backdrop"] = true,
 					["SkinID"] = "ElvUIesque",
 				},
-				["WeakAuras_2f)6juTf6jH"] = {
-					["Backdrop"] = true,
-					["Upgraded"] = true,
+				["WeakAuras_诡诈锁喉2"] = {
 					["Colors"] = {
 						["Backdrop"] = {
 							1, -- [1]
@@ -19101,7 +20741,8 @@ MasqueDB = {
 						},
 					},
 					["Inherit"] = false,
-					["SkinID"] = "ElvUIesque - No Backdrop",
+					["Backdrop"] = true,
+					["SkinID"] = "ElvUIesque",
 				},
 				["WeakAuras_force_cannon3"] = {
 					["Colors"] = {
@@ -19130,7 +20771,7 @@ MasqueDB = {
 					["SkinID"] = "ElvUIesque",
 					["Inherit"] = false,
 				},
-				["WeakAuras_6Q)wzTaQlti"] = {
+				["WeakAuras_s(WgrxTgVuB"] = {
 					["Backdrop"] = true,
 					["Upgraded"] = true,
 					["Colors"] = {
@@ -19141,8 +20782,8 @@ MasqueDB = {
 							1, -- [4]
 						},
 					},
+					["SkinID"] = "Epix",
 					["Inherit"] = false,
-					["SkinID"] = "ElvUIesque",
 				},
 				["WeakAuras_explosive_corruption_2"] = {
 					["Colors"] = {
@@ -19157,7 +20798,7 @@ MasqueDB = {
 					["Backdrop"] = true,
 					["SkinID"] = "ElvUIesque",
 				},
-				["WeakAuras_EUjOz(TY)em"] = {
+				["WeakAuras_5qfLA8lQnTH"] = {
 					["Backdrop"] = true,
 					["Upgraded"] = true,
 					["Colors"] = {
@@ -19168,10 +20809,12 @@ MasqueDB = {
 							1, -- [4]
 						},
 					},
-					["Inherit"] = false,
 					["SkinID"] = "ElvUIesque",
+					["Inherit"] = false,
 				},
-				["WeakAuras_banish4"] = {
+				["WeakAuras_klNxsL3PYR7"] = {
+					["Backdrop"] = true,
+					["Upgraded"] = true,
 					["Colors"] = {
 						["Backdrop"] = {
 							1, -- [1]
@@ -19180,9 +20823,8 @@ MasqueDB = {
 							1, -- [4]
 						},
 					},
-					["Inherit"] = false,
-					["Backdrop"] = true,
 					["SkinID"] = "ElvUIesque",
+					["Inherit"] = false,
 				},
 				["WeakAuras_azshara_diamond"] = {
 					["Colors"] = {
@@ -19214,19 +20856,9 @@ MasqueDB = {
 					["Inherit"] = false,
 					["SkinID"] = "ElvUIesque",
 				},
-				["WeakAuras_a)nw78pnvQj"] = {
-					["Backdrop"] = true,
-					["Upgraded"] = true,
-					["Colors"] = {
-						["Backdrop"] = {
-							1, -- [1]
-							1, -- [2]
-							1, -- [3]
-							1, -- [4]
-						},
-					},
+				["OmniBar_Smoke Bomb"] = {
 					["Inherit"] = false,
-					["SkinID"] = "ElvUIesque - No Backdrop",
+					["Backdrop"] = true,
 				},
 				["WeakAuras_paralysis-5"] = {
 					["Colors"] = {
@@ -19241,9 +20873,11 @@ MasqueDB = {
 					["Backdrop"] = true,
 					["SkinID"] = "ElvUIesque",
 				},
-				["WeakAuras_K4lechu8mxp"] = {
+				["OmniBar_Spirit Link Totem"] = {
+					["Inherit"] = false,
 					["Backdrop"] = true,
-					["Upgraded"] = true,
+				},
+				["WeakAuras_bloodlust_heroism"] = {
 					["Colors"] = {
 						["Backdrop"] = {
 							1, -- [1]
@@ -19252,10 +20886,11 @@ MasqueDB = {
 							1, -- [4]
 						},
 					},
-					["SkinID"] = "Epix",
 					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "ElvUIesque",
 				},
-				["WeakAuras_dhacWVq8u0("] = {
+				["WeakAuras_vfVdZEJr4Pa"] = {
 					["Backdrop"] = true,
 					["Upgraded"] = true,
 					["Colors"] = {
@@ -19269,7 +20904,7 @@ MasqueDB = {
 					["Inherit"] = false,
 					["SkinID"] = "ElvUIesque",
 				},
-				["WeakAuras_eMr7xJlmlw4"] = {
+				["WeakAuras_9PQ7cXngIKz"] = {
 					["Backdrop"] = true,
 					["Upgraded"] = true,
 					["Colors"] = {
@@ -19281,9 +20916,9 @@ MasqueDB = {
 						},
 					},
 					["Inherit"] = false,
-					["SkinID"] = "ElvUIesque",
+					["SkinID"] = "ElvUIesque - No Backdrop",
 				},
-				["WeakAuras_creeping_rot2"] = {
+				["WeakAuras_lava_burst_v2"] = {
 					["Colors"] = {
 						["Backdrop"] = {
 							1, -- [1]
@@ -19294,20 +20929,6 @@ MasqueDB = {
 					},
 					["Inherit"] = false,
 					["Backdrop"] = true,
-					["SkinID"] = "ElvUIesque",
-				},
-				["WeakAuras_kaI3OdrMei("] = {
-					["Backdrop"] = true,
-					["Upgraded"] = true,
-					["Colors"] = {
-						["Backdrop"] = {
-							1, -- [1]
-							1, -- [2]
-							1, -- [3]
-							1, -- [4]
-						},
-					},
-					["Inherit"] = false,
 					["SkinID"] = "ElvUIesque",
 				},
 				["WeakAuras_uw)jIpeEJo0"] = {
@@ -19324,7 +20945,7 @@ MasqueDB = {
 					["SkinID"] = "ElvUIesque",
 					["Inherit"] = false,
 				},
-				["WeakAuras_sqZTmCyV5kT"] = {
+				["WeakAuras_)CXMjniCsm5"] = {
 					["Backdrop"] = true,
 					["Upgraded"] = true,
 					["Colors"] = {
@@ -19335,12 +20956,10 @@ MasqueDB = {
 							1, -- [4]
 						},
 					},
-					["SkinID"] = "ElvUIesque",
+					["SkinID"] = "ElvUIesque - No Backdrop",
 					["Inherit"] = false,
 				},
-				["WeakAuras_z(6YNOw(mzf"] = {
-					["Backdrop"] = true,
-					["Upgraded"] = true,
+				["WeakAuras_judgement_2"] = {
 					["Colors"] = {
 						["Backdrop"] = {
 							1, -- [1]
@@ -19350,7 +20969,8 @@ MasqueDB = {
 						},
 					},
 					["Inherit"] = false,
-					["SkinID"] = "Epix",
+					["Backdrop"] = true,
+					["SkinID"] = "ElvUIesque",
 				},
 				["WeakAuras_ascendance_elem"] = {
 					["Colors"] = {
@@ -19365,11 +20985,35 @@ MasqueDB = {
 					["Backdrop"] = true,
 					["SkinID"] = "ElvUIesque",
 				},
-				["WeakAuras_elemental_blast_cd_2"] = {
+				["WeakAuras_9UiA)LYR4z7"] = {
+					["Backdrop"] = true,
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Backdrop"] = {
+							1, -- [1]
+							1, -- [2]
+							1, -- [3]
+							1, -- [4]
+						},
+					},
 					["Inherit"] = false,
-					["SkinID"] = "ElvUIesque",
+					["SkinID"] = "ElvUIesque - No Backdrop",
 				},
-				["WeakAuras_7jHDzrfZcOG"] = {
+				["WeakAuras_yI8m)FWsTMc"] = {
+					["Backdrop"] = true,
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Backdrop"] = {
+							1, -- [1]
+							1, -- [2]
+							1, -- [3]
+							1, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "ElvUIesque - No Backdrop",
+				},
+				["WeakAuras_lZVwOTSWcS8"] = {
 					["Backdrop"] = true,
 					["Upgraded"] = true,
 					["Colors"] = {
@@ -19383,20 +21027,7 @@ MasqueDB = {
 					["Inherit"] = false,
 					["SkinID"] = "ElvUIesque",
 				},
-				["WeakAuras_bloodlust_heroism"] = {
-					["Colors"] = {
-						["Backdrop"] = {
-							1, -- [1]
-							1, -- [2]
-							1, -- [3]
-							1, -- [4]
-						},
-					},
-					["Inherit"] = false,
-					["Backdrop"] = true,
-					["SkinID"] = "ElvUIesque",
-				},
-				["WeakAuras_mRVB9M)a6xK"] = {
+				["WeakAuras_5DG6JvFmrGU"] = {
 					["Backdrop"] = true,
 					["Upgraded"] = true,
 					["Colors"] = {
@@ -19408,7 +21039,7 @@ MasqueDB = {
 						},
 					},
 					["Inherit"] = false,
-					["SkinID"] = "Epix",
+					["SkinID"] = "ElvUIesque - No Backdrop",
 				},
 				["WeakAuras_elemental_trinket_off_cd"] = {
 					["Colors"] = {
@@ -19423,76 +21054,7 @@ MasqueDB = {
 					["Backdrop"] = true,
 					["SkinID"] = "ElvUIesque",
 				},
-				["WeakAuras_exposed_elements_inactive"] = {
-					["Colors"] = {
-						["Backdrop"] = {
-							1, -- [1]
-							1, -- [2]
-							1, -- [3]
-							1, -- [4]
-						},
-					},
-					["Inherit"] = false,
-					["Backdrop"] = true,
-					["SkinID"] = "ElvUIesque",
-				},
-				["WeakAuras_FpUuA38wcEq"] = {
-					["Backdrop"] = true,
-					["Upgraded"] = true,
-					["Colors"] = {
-						["Backdrop"] = {
-							1, -- [1]
-							1, -- [2]
-							1, -- [3]
-							1, -- [4]
-						},
-					},
-					["Inherit"] = false,
-					["SkinID"] = "Epix",
-				},
-				["WeakAuras_gBS3QhGGU5C"] = {
-					["Backdrop"] = true,
-					["Upgraded"] = true,
-					["Colors"] = {
-						["Backdrop"] = {
-							1, -- [1]
-							1, -- [2]
-							1, -- [3]
-							1, -- [4]
-						},
-					},
-					["SkinID"] = "ElvUIesque",
-					["Inherit"] = false,
-				},
-				["WeakAuras_ZUj6gROF9bz"] = {
-					["Backdrop"] = true,
-					["Upgraded"] = true,
-					["Colors"] = {
-						["Backdrop"] = {
-							1, -- [1]
-							1, -- [2]
-							1, -- [3]
-							1, -- [4]
-						},
-					},
-					["Inherit"] = false,
-					["SkinID"] = "ElvUIesque",
-				},
-				["WeakAuras_s(WgrxTgVuB"] = {
-					["Backdrop"] = true,
-					["Upgraded"] = true,
-					["Colors"] = {
-						["Backdrop"] = {
-							1, -- [1]
-							1, -- [2]
-							1, -- [3]
-							1, -- [4]
-						},
-					},
-					["SkinID"] = "Epix",
-					["Inherit"] = false,
-				},
-				["WeakAuras_iH1CGp7XuzH"] = {
+				["WeakAuras_Z2nP97osAPX"] = {
 					["Backdrop"] = true,
 					["Upgraded"] = true,
 					["Colors"] = {
@@ -19505,6 +21067,66 @@ MasqueDB = {
 					},
 					["Inherit"] = false,
 					["SkinID"] = "ElvUIesque - No Backdrop",
+				},
+				["OmniBar_Shield of Vengeance"] = {
+					["Inherit"] = false,
+					["Backdrop"] = true,
+				},
+				["WeakAuras_EpeZeTYNwnE"] = {
+					["Backdrop"] = true,
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Backdrop"] = {
+							1, -- [1]
+							1, -- [2]
+							1, -- [3]
+							1, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "ElvUIesque",
+				},
+				["WeakAuras_BW7Apzt(LNT"] = {
+					["Backdrop"] = true,
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Backdrop"] = {
+							1, -- [1]
+							1, -- [2]
+							1, -- [3]
+							1, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "ElvUIesque",
+				},
+				["WeakAuras_qKzH3nivSXg"] = {
+					["Backdrop"] = true,
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Backdrop"] = {
+							1, -- [1]
+							1, -- [2]
+							1, -- [3]
+							1, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "ElvUIesque - No Backdrop",
+				},
+				["WeakAuras_nebgnv0pSAj"] = {
+					["Backdrop"] = true,
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Backdrop"] = {
+							1, -- [1]
+							1, -- [2]
+							1, -- [3]
+							1, -- [4]
+						},
+					},
+					["SkinID"] = "ElvUIesque",
+					["Inherit"] = false,
 				},
 				["WeakAuras_whirling_slam5"] = {
 					["Colors"] = {
@@ -19532,7 +21154,7 @@ MasqueDB = {
 					["Backdrop"] = true,
 					["SkinID"] = "ElvUIesque",
 				},
-				["OmniBar_Smoke Bomb"] = {
+				["OmniBar_Celestial Alignment"] = {
 					["Inherit"] = false,
 					["Backdrop"] = true,
 				},
@@ -19549,11 +21171,9 @@ MasqueDB = {
 					["Backdrop"] = true,
 					["SkinID"] = "ElvUIesque",
 				},
-				["OmniBar_Shield of Vengeance"] = {
-					["Inherit"] = false,
+				["WeakAuras_Ak(V1je2MIM"] = {
 					["Backdrop"] = true,
-				},
-				["WeakAuras_rotten_bile5"] = {
+					["Upgraded"] = true,
 					["Colors"] = {
 						["Backdrop"] = {
 							1, -- [1]
@@ -19563,14 +21183,11 @@ MasqueDB = {
 						},
 					},
 					["Inherit"] = false,
-					["Backdrop"] = true,
-					["SkinID"] = "ElvUIesque",
+					["SkinID"] = "ElvUIesque - No Backdrop",
 				},
-				["OmniBar_Spirit Link Totem"] = {
-					["Inherit"] = false,
+				["WeakAuras_qJjOGssajTK"] = {
 					["Backdrop"] = true,
-				},
-				["WeakAuras_judgment"] = {
+					["Upgraded"] = true,
 					["Colors"] = {
 						["Backdrop"] = {
 							1, -- [1]
@@ -19580,8 +21197,35 @@ MasqueDB = {
 						},
 					},
 					["Inherit"] = false,
-					["Backdrop"] = true,
 					["SkinID"] = "ElvUIesque",
+				},
+				["WeakAuras_qqdDytexhDt"] = {
+					["Backdrop"] = true,
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Backdrop"] = {
+							1, -- [1]
+							1, -- [2]
+							1, -- [3]
+							1, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "ElvUIesque",
+				},
+				["WeakAuras_6VqOFbll4H4"] = {
+					["Backdrop"] = true,
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Backdrop"] = {
+							1, -- [1]
+							1, -- [2]
+							1, -- [3]
+							1, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "ElvUIesque - No Backdrop",
 				},
 				["WeakAuras_9TxSh4pSyec"] = {
 					["Backdrop"] = true,
@@ -19611,7 +21255,9 @@ MasqueDB = {
 					["Inherit"] = false,
 					["SkinID"] = "ElvUIesque - No Backdrop",
 				},
-				["WeakAuras_lava_burst_v2"] = {
+				["WeakAuras_Swdk79kPjxL"] = {
+					["Backdrop"] = true,
+					["Upgraded"] = true,
 					["Colors"] = {
 						["Backdrop"] = {
 							1, -- [1]
@@ -19620,9 +21266,8 @@ MasqueDB = {
 							1, -- [4]
 						},
 					},
-					["Inherit"] = false,
-					["Backdrop"] = true,
 					["SkinID"] = "ElvUIesque",
+					["Inherit"] = false,
 				},
 				["WeakAuras_mAN9kcULgQG"] = {
 					["Backdrop"] = true,
@@ -19664,7 +21309,35 @@ MasqueDB = {
 					["Backdrop"] = true,
 					["SkinID"] = "ElvUIesque",
 				},
-				["WeakAuras_decaying_eruption_(big_add_interrupt)5"] = {
+				["WeakAuras_Ed2yNWZKn3d"] = {
+					["Backdrop"] = true,
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Backdrop"] = {
+							1, -- [1]
+							1, -- [2]
+							1, -- [3]
+							1, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "ElvUIesque",
+				},
+				["WeakAuras_L0yApV82wQl"] = {
+					["Backdrop"] = true,
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Backdrop"] = {
+							1, -- [1]
+							1, -- [2]
+							1, -- [3]
+							1, -- [4]
+						},
+					},
+					["SkinID"] = "ElvUIesque",
+					["Inherit"] = false,
+				},
+				["WeakAuras_fire_time_warp"] = {
 					["Colors"] = {
 						["Backdrop"] = {
 							1, -- [1]
@@ -19676,23 +21349,6 @@ MasqueDB = {
 					["Inherit"] = false,
 					["Backdrop"] = true,
 					["SkinID"] = "ElvUIesque",
-				},
-				["WeakAuras_zt_-_nnogga's_party_cd_front_end16"] = {
-					["Colors"] = {
-						["Backdrop"] = {
-							1, -- [1]
-							1, -- [2]
-							1, -- [3]
-							1, -- [4]
-						},
-					},
-					["Inherit"] = false,
-					["Backdrop"] = true,
-					["SkinID"] = "ElvUIesque",
-				},
-				["OmniBar_Touch of Karma"] = {
-					["Inherit"] = false,
-					["Backdrop"] = true,
 				},
 				["WeakAuras_kill_command"] = {
 					["Colors"] = {
@@ -19747,7 +21403,21 @@ MasqueDB = {
 					["Backdrop"] = true,
 					["SkinID"] = "ElvUIesque",
 				},
-				["WeakAuras_BW7Apzt(LNT"] = {
+				["WeakAuras_36lx76S)W(v"] = {
+					["Backdrop"] = true,
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Backdrop"] = {
+							1, -- [1]
+							1, -- [2]
+							1, -- [3]
+							1, -- [4]
+						},
+					},
+					["SkinID"] = "Epix",
+					["Inherit"] = false,
+				},
+				["WeakAuras_3YhPpn4bN5E"] = {
 					["Backdrop"] = true,
 					["Upgraded"] = true,
 					["Colors"] = {
@@ -19759,22 +21429,9 @@ MasqueDB = {
 						},
 					},
 					["Inherit"] = false,
-					["SkinID"] = "ElvUIesque",
+					["SkinID"] = "ElvUIesque - No Backdrop",
 				},
-				["WeakAuras_surge_of_power2"] = {
-					["Colors"] = {
-						["Backdrop"] = {
-							1, -- [1]
-							1, -- [2]
-							1, -- [3]
-							1, -- [4]
-						},
-					},
-					["Inherit"] = false,
-					["Backdrop"] = true,
-					["SkinID"] = "ElvUIesque",
-				},
-				["WeakAuras_lZVwOTSWcS8"] = {
+				["WeakAuras_V)ASnUul2Iw"] = {
 					["Backdrop"] = true,
 					["Upgraded"] = true,
 					["Colors"] = {
@@ -19786,7 +21443,7 @@ MasqueDB = {
 						},
 					},
 					["Inherit"] = false,
-					["SkinID"] = "ElvUIesque",
+					["SkinID"] = "ElvUIesque - No Backdrop",
 				},
 				["WeakAuras_lLQUbvNHs5M"] = {
 					["Backdrop"] = true,
@@ -19802,7 +21459,9 @@ MasqueDB = {
 					["Inherit"] = false,
 					["SkinID"] = "ElvUIesque - No Backdrop",
 				},
-				["WeakAuras_suffer:_soak"] = {
+				["WeakAuras_8sA05CyDgB9"] = {
+					["Backdrop"] = true,
+					["Upgraded"] = true,
 					["Colors"] = {
 						["Backdrop"] = {
 							1, -- [1]
@@ -19811,9 +21470,8 @@ MasqueDB = {
 							1, -- [4]
 						},
 					},
-					["Inherit"] = false,
-					["Backdrop"] = true,
 					["SkinID"] = "ElvUIesque",
+					["Inherit"] = false,
 				},
 				["WeakAuras_battle_potion_of_stamina_on"] = {
 					["Colors"] = {
@@ -19828,21 +21486,7 @@ MasqueDB = {
 					["Backdrop"] = true,
 					["SkinID"] = "ElvUIesque",
 				},
-				["WeakAuras_hELd5y7oDmK"] = {
-					["Backdrop"] = true,
-					["Upgraded"] = true,
-					["Colors"] = {
-						["Backdrop"] = {
-							1, -- [1]
-							1, -- [2]
-							1, -- [3]
-							1, -- [4]
-						},
-					},
-					["Inherit"] = false,
-					["SkinID"] = "ElvUIesque",
-				},
-				["WeakAuras_06:_verdict"] = {
+				["WeakAuras_shiver_venom_relic_2"] = {
 					["Colors"] = {
 						["Backdrop"] = {
 							1, -- [1]
@@ -19855,61 +21499,7 @@ MasqueDB = {
 					["Backdrop"] = true,
 					["SkinID"] = "ElvUIesque",
 				},
-				["WeakAuras_lava_surge_proc_2"] = {
-					["Inherit"] = false,
-					["SkinID"] = "ElvUIesque",
-				},
-				["OmniBar_Healing Tide Totem"] = {
-					["Inherit"] = false,
-					["Backdrop"] = true,
-				},
-				["WeakAuras_qJjOGssajTK"] = {
-					["Backdrop"] = true,
-					["Upgraded"] = true,
-					["Colors"] = {
-						["Backdrop"] = {
-							1, -- [1]
-							1, -- [2]
-							1, -- [3]
-							1, -- [4]
-						},
-					},
-					["Inherit"] = false,
-					["SkinID"] = "ElvUIesque",
-				},
-				["OmniBar_Blinding Light"] = {
-					["Inherit"] = false,
-					["Backdrop"] = true,
-				},
-				["WeakAuras_U3mWJXjRtul"] = {
-					["Backdrop"] = true,
-					["Upgraded"] = true,
-					["Colors"] = {
-						["Backdrop"] = {
-							1, -- [1]
-							1, -- [2]
-							1, -- [3]
-							1, -- [4]
-						},
-					},
-					["Inherit"] = false,
-					["SkinID"] = "ElvUIesque - No Backdrop",
-				},
-				["WeakAuras_iAbtUCDY0cG"] = {
-					["Backdrop"] = true,
-					["Upgraded"] = true,
-					["Colors"] = {
-						["Backdrop"] = {
-							1, -- [1]
-							1, -- [2]
-							1, -- [3]
-							1, -- [4]
-						},
-					},
-					["Inherit"] = false,
-					["SkinID"] = "ElvUIesque",
-				},
-				["WeakAuras_sap3"] = {
+				["WeakAuras_judgment"] = {
 					["Colors"] = {
 						["Backdrop"] = {
 							1, -- [1]
@@ -19922,21 +21512,7 @@ MasqueDB = {
 					["Backdrop"] = true,
 					["SkinID"] = "ElvUIesque",
 				},
-				["WeakAuras_ci6jDAQTVAU"] = {
-					["Backdrop"] = true,
-					["Upgraded"] = true,
-					["Colors"] = {
-						["Backdrop"] = {
-							1, -- [1]
-							1, -- [2]
-							1, -- [3]
-							1, -- [4]
-						},
-					},
-					["Inherit"] = false,
-					["SkinID"] = "ElvUIesque - No Backdrop",
-				},
-				["WeakAuras_VVwkSjscVGV"] = {
+				["WeakAuras_7pdPyfYoSlf"] = {
 					["Backdrop"] = true,
 					["Upgraded"] = true,
 					["Colors"] = {
@@ -19950,7 +21526,49 @@ MasqueDB = {
 					["SkinID"] = "ElvUIesque",
 					["Inherit"] = false,
 				},
-				["WeakAuras_f(BQCNCmAZF"] = {
+				["WeakAuras_JjNY1RND5By"] = {
+					["Backdrop"] = true,
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Backdrop"] = {
+							1, -- [1]
+							1, -- [2]
+							1, -- [3]
+							1, -- [4]
+						},
+					},
+					["SkinID"] = "ElvUIesque",
+					["Inherit"] = false,
+				},
+				["WeakAuras_GCEJvzt71Vi"] = {
+					["Backdrop"] = true,
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Backdrop"] = {
+							1, -- [1]
+							1, -- [2]
+							1, -- [3]
+							1, -- [4]
+						},
+					},
+					["SkinID"] = "Epix",
+					["Inherit"] = false,
+				},
+				["WeakAuras_dmQ4tDwCXzC"] = {
+					["Backdrop"] = true,
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Backdrop"] = {
+							1, -- [1]
+							1, -- [2]
+							1, -- [3]
+							1, -- [4]
+						},
+					},
+					["SkinID"] = "ElvUIesque",
+					["Inherit"] = false,
+				},
+				["WeakAuras_TEAIa0qagjf"] = {
 					["Backdrop"] = true,
 					["Upgraded"] = true,
 					["Colors"] = {
@@ -19968,6 +21586,73 @@ MasqueDB = {
 					["Inherit"] = false,
 					["Backdrop"] = true,
 				},
+				["WeakAuras_zt_-_nnogga's_party_cd_front_end18"] = {
+					["Colors"] = {
+						["Backdrop"] = {
+							1, -- [1]
+							1, -- [2]
+							1, -- [3]
+							1, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "ElvUIesque",
+				},
+				["WeakAuras_flame_shock_(boss1)_2"] = {
+					["Colors"] = {
+						["Backdrop"] = {
+							1, -- [1]
+							1, -- [2]
+							1, -- [3]
+							1, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "ElvUIesque",
+				},
+				["WeakAuras_VVwkSjscVGV"] = {
+					["Backdrop"] = true,
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Backdrop"] = {
+							1, -- [1]
+							1, -- [2]
+							1, -- [3]
+							1, -- [4]
+						},
+					},
+					["SkinID"] = "ElvUIesque",
+					["Inherit"] = false,
+				},
+				["WeakAuras_Hp0)6zDvq1n"] = {
+					["Backdrop"] = true,
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Backdrop"] = {
+							1, -- [1]
+							1, -- [2]
+							1, -- [3]
+							1, -- [4]
+						},
+					},
+					["SkinID"] = "ElvUIesque",
+					["Inherit"] = false,
+				},
+				["WeakAuras_liquid_magma_totem_23"] = {
+					["Colors"] = {
+						["Backdrop"] = {
+							1, -- [1]
+							1, -- [2]
+							1, -- [3]
+							1, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "ElvUIesque",
+				},
 				["WeakAuras_F)dpypokohz"] = {
 					["Backdrop"] = true,
 					["Upgraded"] = true,
@@ -19982,7 +21667,9 @@ MasqueDB = {
 					["SkinID"] = "ElvUIesque",
 					["Inherit"] = false,
 				},
-				["WeakAuras_crusader_strike"] = {
+				["WeakAuras_bEog4eqd3Of"] = {
+					["Backdrop"] = true,
+					["Upgraded"] = true,
 					["Colors"] = {
 						["Backdrop"] = {
 							1, -- [1]
@@ -19992,10 +21679,23 @@ MasqueDB = {
 						},
 					},
 					["Inherit"] = false,
-					["Backdrop"] = true,
-					["SkinID"] = "ElvUIesque",
+					["SkinID"] = "ElvUIesque - No Backdrop",
 				},
-				["WeakAuras_hAv0rYFQiSm"] = {
+				["WeakAuras_3EYcLL6Fl)X"] = {
+					["Backdrop"] = true,
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Backdrop"] = {
+							1, -- [1]
+							1, -- [2]
+							1, -- [3]
+							1, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "ElvUIesque - No Backdrop",
+				},
+				["WeakAuras_CElygrqjrrT"] = {
 					["Backdrop"] = true,
 					["Upgraded"] = true,
 					["Colors"] = {
@@ -20009,7 +21709,7 @@ MasqueDB = {
 					["SkinID"] = "ElvUIesque",
 					["Inherit"] = false,
 				},
-				["WeakAuras_Ed2yNWZKn3d"] = {
+				["WeakAuras_elA62r8S7j9"] = {
 					["Backdrop"] = true,
 					["Upgraded"] = true,
 					["Colors"] = {
@@ -20020,29 +21720,10 @@ MasqueDB = {
 							1, -- [4]
 						},
 					},
-					["Inherit"] = false,
-					["SkinID"] = "ElvUIesque",
-				},
-				["WeakAuras_zclxBllzhK8"] = {
-					["Backdrop"] = true,
-					["Upgraded"] = true,
-					["Colors"] = {
-						["Backdrop"] = {
-							1, -- [1]
-							1, -- [2]
-							1, -- [3]
-							1, -- [4]
-						},
-					},
-					["SkinID"] = "ElvUIesque",
+					["SkinID"] = "Epix",
 					["Inherit"] = false,
 				},
-				["GladiusEx_Buffs"] = {
-					["Inherit"] = false,
-					["Backdrop"] = true,
-					["SkinID"] = "ElvUIesque",
-				},
-				["WeakAuras_JjNY1RND5By"] = {
+				["WeakAuras_Eqmpu9UatCN"] = {
 					["Backdrop"] = true,
 					["Upgraded"] = true,
 					["Colors"] = {
@@ -20056,7 +21737,7 @@ MasqueDB = {
 					["SkinID"] = "ElvUIesque",
 					["Inherit"] = false,
 				},
-				["WeakAuras_ZmfXa7oLofZ"] = {
+				["WeakAuras_eMr7xJlmlw4"] = {
 					["Backdrop"] = true,
 					["Upgraded"] = true,
 					["Colors"] = {
@@ -20067,10 +21748,10 @@ MasqueDB = {
 							1, -- [4]
 						},
 					},
-					["SkinID"] = "ElvUIesque",
 					["Inherit"] = false,
+					["SkinID"] = "ElvUIesque",
 				},
-				["WeakAuras_6B(afkj0uJb"] = {
+				["WeakAuras_xJuTfVf4KBc"] = {
 					["Backdrop"] = true,
 					["Upgraded"] = true,
 					["Colors"] = {
@@ -20081,8 +21762,21 @@ MasqueDB = {
 							1, -- [4]
 						},
 					},
-					["SkinID"] = "ElvUIesque",
 					["Inherit"] = false,
+					["SkinID"] = "ElvUIesque",
+				},
+				["WeakAuras_lava_surge"] = {
+					["Colors"] = {
+						["Backdrop"] = {
+							1, -- [1]
+							1, -- [2]
+							1, -- [3]
+							1, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "ElvUIesque",
 				},
 				["WeakAuras_hQqmLNNgalJ"] = {
 					["Backdrop"] = true,
@@ -20098,9 +21792,19 @@ MasqueDB = {
 					["SkinID"] = "ElvUIesque",
 					["Inherit"] = false,
 				},
-				["OmniBar_Darkness"] = {
-					["Inherit"] = false,
+				["WeakAuras_jSTSJ2E3dKd"] = {
 					["Backdrop"] = true,
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Backdrop"] = {
+							1, -- [1]
+							1, -- [2]
+							1, -- [3]
+							1, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "ElvUIesque",
 				},
 				["WeakAuras_07:_hysteria"] = {
 					["Colors"] = {
@@ -20115,7 +21819,9 @@ MasqueDB = {
 					["Backdrop"] = true,
 					["SkinID"] = "ElvUIesque",
 				},
-				["WeakAuras_astral_shift_32"] = {
+				["WeakAuras_hZE6lqdhGD9"] = {
+					["Backdrop"] = true,
+					["Upgraded"] = true,
 					["Colors"] = {
 						["Backdrop"] = {
 							1, -- [1]
@@ -20124,9 +21830,8 @@ MasqueDB = {
 							1, -- [4]
 						},
 					},
-					["Inherit"] = false,
-					["Backdrop"] = true,
 					["SkinID"] = "ElvUIesque",
+					["Inherit"] = false,
 				},
 				["WeakAuras_fx4MQJZb5am"] = {
 					["Backdrop"] = true,
@@ -20142,7 +21847,7 @@ MasqueDB = {
 					["SkinID"] = "ElvUIesque",
 					["Inherit"] = false,
 				},
-				["WeakAuras_Imd0w)UP1UP"] = {
+				["WeakAuras_rSPIg86dwPG"] = {
 					["Backdrop"] = true,
 					["Upgraded"] = true,
 					["Colors"] = {
@@ -20153,8 +21858,8 @@ MasqueDB = {
 							1, -- [4]
 						},
 					},
+					["SkinID"] = "ElvUIesque",
 					["Inherit"] = false,
-					["SkinID"] = "ElvUIesque - No Backdrop",
 				},
 				["WeakAuras_LahNaNy0D2j"] = {
 					["Backdrop"] = true,
@@ -20184,20 +21889,6 @@ MasqueDB = {
 					["SkinID"] = "ElvUIesque",
 					["Inherit"] = false,
 				},
-				["WeakAuras_uExiC2dlUtp"] = {
-					["Backdrop"] = true,
-					["Upgraded"] = true,
-					["Colors"] = {
-						["Backdrop"] = {
-							1, -- [1]
-							1, -- [2]
-							1, -- [3]
-							1, -- [4]
-						},
-					},
-					["SkinID"] = "ElvUIesque",
-					["Inherit"] = false,
-				},
 				["WeakAuras_BSPajPffowg"] = {
 					["Backdrop"] = true,
 					["Upgraded"] = true,
@@ -20211,6 +21902,19 @@ MasqueDB = {
 					},
 					["Inherit"] = false,
 					["SkinID"] = "ElvUIesque - No Backdrop",
+				},
+				["WeakAuras_unlimited_power_active"] = {
+					["Colors"] = {
+						["Backdrop"] = {
+							1, -- [1]
+							1, -- [2]
+							1, -- [3]
+							1, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "ElvUIesque",
 				},
 				["WeakAuras_8tMCCtk0Pyl"] = {
 					["Backdrop"] = true,
@@ -20226,7 +21930,7 @@ MasqueDB = {
 					["Inherit"] = false,
 					["SkinID"] = "ElvUIesque",
 				},
-				["WeakAuras_Hp0)6zDvq1n"] = {
+				["WeakAuras_4quPIWRKYzp"] = {
 					["Backdrop"] = true,
 					["Upgraded"] = true,
 					["Colors"] = {
@@ -20240,7 +21944,7 @@ MasqueDB = {
 					["SkinID"] = "ElvUIesque",
 					["Inherit"] = false,
 				},
-				["WeakAuras_dmQ4tDwCXzC"] = {
+				["WeakAuras_yue8eTsjXWd"] = {
 					["Backdrop"] = true,
 					["Upgraded"] = true,
 					["Colors"] = {
@@ -20254,7 +21958,9 @@ MasqueDB = {
 					["SkinID"] = "ElvUIesque",
 					["Inherit"] = false,
 				},
-				["WeakAuras_storm_elemental_duration_3"] = {
+				["WeakAuras_DtkuZVnNY9N"] = {
+					["Backdrop"] = true,
+					["Upgraded"] = true,
 					["Colors"] = {
 						["Backdrop"] = {
 							1, -- [1]
@@ -20264,10 +21970,9 @@ MasqueDB = {
 						},
 					},
 					["Inherit"] = false,
-					["Backdrop"] = true,
-					["SkinID"] = "ElvUIesque",
+					["SkinID"] = "ElvUIesque - No Backdrop",
 				},
-				["WeakAuras_unlimited_power_active"] = {
+				["WeakAuras_wind_shear_(resto)_2"] = {
 					["Colors"] = {
 						["Backdrop"] = {
 							1, -- [1]
@@ -20294,7 +21999,7 @@ MasqueDB = {
 					["Inherit"] = false,
 					["SkinID"] = "Epix",
 				},
-				["WeakAuras_3EYcLL6Fl)X"] = {
+				["WeakAuras_i2ZWu0h1tBb"] = {
 					["Backdrop"] = true,
 					["Upgraded"] = true,
 					["Colors"] = {
@@ -20305,8 +22010,8 @@ MasqueDB = {
 							1, -- [4]
 						},
 					},
+					["SkinID"] = "ElvUIesque",
 					["Inherit"] = false,
-					["SkinID"] = "ElvUIesque - No Backdrop",
 				},
 				["WeakAuras_frozen_orb_22"] = {
 					["Colors"] = {
@@ -20348,9 +22053,7 @@ MasqueDB = {
 					["Inherit"] = false,
 					["SkinID"] = "ElvUIesque - No Backdrop",
 				},
-				["WeakAuras_jSTSJ2E3dKd"] = {
-					["Backdrop"] = true,
-					["Upgraded"] = true,
+				["WeakAuras_06:_in_formation"] = {
 					["Colors"] = {
 						["Backdrop"] = {
 							1, -- [1]
@@ -20360,6 +22063,7 @@ MasqueDB = {
 						},
 					},
 					["Inherit"] = false,
+					["Backdrop"] = true,
 					["SkinID"] = "ElvUIesque",
 				},
 				["WeakAuras_d1YQUixhsXg"] = {
@@ -20376,18 +22080,9 @@ MasqueDB = {
 					["Inherit"] = false,
 					["SkinID"] = "ElvUIesque - No Backdrop",
 				},
-				["WeakAuras_08:_arcane_detonation"] = {
-					["Colors"] = {
-						["Backdrop"] = {
-							1, -- [1]
-							1, -- [2]
-							1, -- [3]
-							1, -- [4]
-						},
-					},
+				["OmniBar"] = {
 					["Inherit"] = false,
 					["Backdrop"] = true,
-					["SkinID"] = "ElvUIesque",
 				},
 				["WeakAuras_GNBuho1uBIG"] = {
 					["Backdrop"] = true,
@@ -20403,35 +22098,7 @@ MasqueDB = {
 					["SkinID"] = "ElvUIesque",
 					["Inherit"] = false,
 				},
-				["WeakAuras_atmt4gusCvC"] = {
-					["Backdrop"] = true,
-					["Upgraded"] = true,
-					["Colors"] = {
-						["Backdrop"] = {
-							1, -- [1]
-							1, -- [2]
-							1, -- [3]
-							1, -- [4]
-						},
-					},
-					["SkinID"] = "ElvUIesque",
-					["Inherit"] = false,
-				},
-				["WeakAuras_hZE6lqdhGD9"] = {
-					["Backdrop"] = true,
-					["Upgraded"] = true,
-					["Colors"] = {
-						["Backdrop"] = {
-							1, -- [1]
-							1, -- [2]
-							1, -- [3]
-							1, -- [4]
-						},
-					},
-					["SkinID"] = "ElvUIesque",
-					["Inherit"] = false,
-				},
-				["WeakAuras_6ZBuTvEcKX7"] = {
+				["WeakAuras_iH1CGp7XuzH"] = {
 					["Backdrop"] = true,
 					["Upgraded"] = true,
 					["Colors"] = {
@@ -20445,33 +22112,7 @@ MasqueDB = {
 					["Inherit"] = false,
 					["SkinID"] = "ElvUIesque - No Backdrop",
 				},
-				["WeakAuras_04:_high_boss_energy"] = {
-					["Colors"] = {
-						["Backdrop"] = {
-							1, -- [1]
-							1, -- [2]
-							1, -- [3]
-							1, -- [4]
-						},
-					},
-					["Inherit"] = false,
-					["Backdrop"] = true,
-					["SkinID"] = "ElvUIesque",
-				},
-				["WeakAuras_brutal_blackhand4"] = {
-					["Colors"] = {
-						["Backdrop"] = {
-							1, -- [1]
-							1, -- [2]
-							1, -- [3]
-							1, -- [4]
-						},
-					},
-					["Inherit"] = false,
-					["Backdrop"] = true,
-					["SkinID"] = "ElvUIesque",
-				},
-				["WeakAuras_5qfLA8lQnTH"] = {
+				["WeakAuras_qRXxosPKTkm"] = {
 					["Backdrop"] = true,
 					["Upgraded"] = true,
 					["Colors"] = {
@@ -20485,7 +22126,62 @@ MasqueDB = {
 					["SkinID"] = "ElvUIesque",
 					["Inherit"] = false,
 				},
-				["WeakAuras_arcane_torrent_2"] = {
+				["WeakAuras_85ZaNErAqmV"] = {
+					["Backdrop"] = true,
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Backdrop"] = {
+							1, -- [1]
+							1, -- [2]
+							1, -- [3]
+							1, -- [4]
+						},
+					},
+					["SkinID"] = "ElvUIesque",
+					["Inherit"] = false,
+				},
+				["WeakAuras_zt_-_nnogga's_party_cd_front_end30"] = {
+					["Colors"] = {
+						["Backdrop"] = {
+							1, -- [1]
+							1, -- [2]
+							1, -- [3]
+							1, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "ElvUIesque",
+				},
+				["WeakAuras_bRob7v24mCv"] = {
+					["Backdrop"] = true,
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Backdrop"] = {
+							1, -- [1]
+							1, -- [2]
+							1, -- [3]
+							1, -- [4]
+						},
+					},
+					["SkinID"] = "ElvUIesque",
+					["Inherit"] = false,
+				},
+				["WeakAuras_5()ixMvUaNc"] = {
+					["Backdrop"] = true,
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Backdrop"] = {
+							1, -- [1]
+							1, -- [2]
+							1, -- [3]
+							1, -- [4]
+						},
+					},
+					["SkinID"] = "ElvUIesque",
+					["Inherit"] = false,
+				},
+				["WeakAuras_tremor_totem_cooldown_2"] = {
 					["Colors"] = {
 						["Backdrop"] = {
 							1, -- [1]
@@ -20566,7 +22262,7 @@ MasqueDB = {
 					["SkinID"] = "Epix",
 					["Inherit"] = false,
 				},
-				["WeakAuras_YPFe0Za5Pf6"] = {
+				["WeakAuras_9wGutSRpXsF"] = {
 					["Backdrop"] = true,
 					["Upgraded"] = true,
 					["Colors"] = {
@@ -20577,7 +22273,7 @@ MasqueDB = {
 							1, -- [4]
 						},
 					},
-					["SkinID"] = "ElvUIesque",
+					["SkinID"] = "ElvUIesque - No Backdrop",
 					["Inherit"] = false,
 				},
 				["WeakAuras_vZIDEzMyzmR"] = {
@@ -20594,9 +22290,7 @@ MasqueDB = {
 					["SkinID"] = "ElvUIesque",
 					["Inherit"] = false,
 				},
-				["WeakAuras_tuy4gbmebOJ"] = {
-					["Backdrop"] = true,
-					["Upgraded"] = true,
+				["WeakAuras_ascendance(resto)_buff_missing"] = {
 					["Colors"] = {
 						["Backdrop"] = {
 							1, -- [1]
@@ -20606,11 +22300,10 @@ MasqueDB = {
 						},
 					},
 					["Inherit"] = false,
-					["SkinID"] = "ElvUIesque - No Backdrop",
-				},
-				["WeakAuras_DtkuZVnNY9N"] = {
 					["Backdrop"] = true,
-					["Upgraded"] = true,
+					["SkinID"] = "ElvUIesque",
+				},
+				["WeakAuras_decaying_eruption_(big_add_interrupt)5"] = {
 					["Colors"] = {
 						["Backdrop"] = {
 							1, -- [1]
@@ -20620,11 +22313,10 @@ MasqueDB = {
 						},
 					},
 					["Inherit"] = false,
-					["SkinID"] = "ElvUIesque - No Backdrop",
-				},
-				["WeakAuras_9PQ7cXngIKz"] = {
 					["Backdrop"] = true,
-					["Upgraded"] = true,
+					["SkinID"] = "ElvUIesque",
+				},
+				["WeakAuras_imminent_ruin_p1"] = {
 					["Colors"] = {
 						["Backdrop"] = {
 							1, -- [1]
@@ -20634,9 +22326,10 @@ MasqueDB = {
 						},
 					},
 					["Inherit"] = false,
-					["SkinID"] = "ElvUIesque - No Backdrop",
+					["Backdrop"] = true,
+					["SkinID"] = "ElvUIesque",
 				},
-				["WeakAuras_oU)eQyA)Znk"] = {
+				["WeakAuras_f0tpcM5f1de"] = {
 					["Backdrop"] = true,
 					["Upgraded"] = true,
 					["Colors"] = {
@@ -20664,33 +22357,7 @@ MasqueDB = {
 					["SkinID"] = "ElvUIesque",
 					["Inherit"] = false,
 				},
-				["WeakAuras_hero/lust_3"] = {
-					["Colors"] = {
-						["Backdrop"] = {
-							1, -- [1]
-							1, -- [2]
-							1, -- [3]
-							1, -- [4]
-						},
-					},
-					["Inherit"] = false,
-					["Backdrop"] = true,
-					["SkinID"] = "ElvUIesque",
-				},
-				["WeakAuras_zt_-_nnogga's_party_cd_front_end25"] = {
-					["Colors"] = {
-						["Backdrop"] = {
-							1, -- [1]
-							1, -- [2]
-							1, -- [3]
-							1, -- [4]
-						},
-					},
-					["Inherit"] = false,
-					["Backdrop"] = true,
-					["SkinID"] = "ElvUIesque",
-				},
-				["WeakAuras_SaEsREVFqvP"] = {
+				["WeakAuras_DlWAsX9dnrm"] = {
 					["Backdrop"] = true,
 					["Upgraded"] = true,
 					["Colors"] = {
@@ -20701,10 +22368,10 @@ MasqueDB = {
 							1, -- [4]
 						},
 					},
+					["SkinID"] = "ElvUIesque",
 					["Inherit"] = false,
-					["SkinID"] = "ElvUIesque - No Backdrop",
 				},
-				["WeakAuras_trinket_(resto)"] = {
+				["WeakAuras_rotten_bile13"] = {
 					["Colors"] = {
 						["Backdrop"] = {
 							1, -- [1]
@@ -20716,6 +22383,34 @@ MasqueDB = {
 					["Inherit"] = false,
 					["Backdrop"] = true,
 					["SkinID"] = "ElvUIesque",
+				},
+				["WeakAuras_Mon9sYhF25d"] = {
+					["Backdrop"] = true,
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Backdrop"] = {
+							1, -- [1]
+							1, -- [2]
+							1, -- [3]
+							1, -- [4]
+						},
+					},
+					["SkinID"] = "ElvUIesque",
+					["Inherit"] = false,
+				},
+				["WeakAuras_Ot8wCBLkO8r"] = {
+					["Backdrop"] = true,
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Backdrop"] = {
+							1, -- [1]
+							1, -- [2]
+							1, -- [3]
+							1, -- [4]
+						},
+					},
+					["SkinID"] = "ElvUIesque",
+					["Inherit"] = false,
 				},
 				["WeakAuras_dps_potion_noc_2"] = {
 					["Colors"] = {
@@ -20730,19 +22425,9 @@ MasqueDB = {
 					["Backdrop"] = true,
 					["SkinID"] = "ElvUIesque",
 				},
-				["WeakAuras_(UHiSZOlmTx"] = {
-					["Backdrop"] = true,
-					["Upgraded"] = true,
-					["Colors"] = {
-						["Backdrop"] = {
-							1, -- [1]
-							1, -- [2]
-							1, -- [3]
-							1, -- [4]
-						},
-					},
+				["OmniBar_Repentance"] = {
 					["Inherit"] = false,
-					["SkinID"] = "Epix",
+					["Backdrop"] = true,
 				},
 				["WeakAuras_barrier_2"] = {
 					["Colors"] = {
@@ -20771,7 +22456,9 @@ MasqueDB = {
 					["Inherit"] = false,
 					["SkinID"] = "ElvUIesque - No Backdrop",
 				},
-				["WeakAuras_twitching_tentacle_of_xalzaix_proc_2"] = {
+				["WeakAuras_exuNGGJJh61"] = {
+					["Backdrop"] = true,
+					["Upgraded"] = true,
 					["Colors"] = {
 						["Backdrop"] = {
 							1, -- [1]
@@ -20781,7 +22468,6 @@ MasqueDB = {
 						},
 					},
 					["Inherit"] = false,
-					["Backdrop"] = true,
 					["SkinID"] = "ElvUIesque",
 				},
 				["WeakAuras_LZVmVNhlRvu"] = {
@@ -20798,7 +22484,7 @@ MasqueDB = {
 					["Inherit"] = false,
 					["SkinID"] = "ElvUIesque",
 				},
-				["WeakAuras_85ZaNErAqmV"] = {
+				["WeakAuras_5LPL8K91hhj"] = {
 					["Backdrop"] = true,
 					["Upgraded"] = true,
 					["Colors"] = {
@@ -20812,7 +22498,9 @@ MasqueDB = {
 					["SkinID"] = "ElvUIesque",
 					["Inherit"] = false,
 				},
-				["WeakAuras_zt_-_nnogga's_party_cd_front_end30"] = {
+				["WeakAuras_)XsIgcHWo5x"] = {
+					["Backdrop"] = true,
+					["Upgraded"] = true,
 					["Colors"] = {
 						["Backdrop"] = {
 							1, -- [1]
@@ -20821,9 +22509,8 @@ MasqueDB = {
 							1, -- [4]
 						},
 					},
-					["Inherit"] = false,
-					["Backdrop"] = true,
 					["SkinID"] = "ElvUIesque",
+					["Inherit"] = false,
 				},
 				["OmniBar_Exhilaration"] = {
 					["Inherit"] = false,
@@ -20871,11 +22558,7 @@ MasqueDB = {
 					["SkinID"] = "ElvUIesque",
 					["Inherit"] = false,
 				},
-				["OmniBar_Repentance"] = {
-					["Inherit"] = false,
-					["Backdrop"] = true,
-				},
-				["WeakAuras_klNxsL3PYR7"] = {
+				["WeakAuras_aZHHkJQd6cq"] = {
 					["Backdrop"] = true,
 					["Upgraded"] = true,
 					["Colors"] = {
@@ -20889,7 +22572,7 @@ MasqueDB = {
 					["SkinID"] = "ElvUIesque",
 					["Inherit"] = false,
 				},
-				["WeakAuras_5()ixMvUaNc"] = {
+				["WeakAuras_0(D1vF)0WY2"] = {
 					["Backdrop"] = true,
 					["Upgraded"] = true,
 					["Colors"] = {
@@ -20902,6 +22585,19 @@ MasqueDB = {
 					},
 					["SkinID"] = "ElvUIesque",
 					["Inherit"] = false,
+				},
+				["WeakAuras_invisibility_2"] = {
+					["Colors"] = {
+						["Backdrop"] = {
+							1, -- [1]
+							1, -- [2]
+							1, -- [3]
+							1, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "ElvUIesque",
 				},
 				["WeakAuras_1RHnRWyJ7lb"] = {
 					["Backdrop"] = true,
@@ -20917,7 +22613,9 @@ MasqueDB = {
 					["Inherit"] = false,
 					["SkinID"] = "ElvUIesque",
 				},
-				["WeakAuras_ascendance(resto)_buff_missing"] = {
+				["WeakAuras_ksZqeRWLLw6"] = {
+					["Backdrop"] = true,
+					["Upgraded"] = true,
 					["Colors"] = {
 						["Backdrop"] = {
 							1, -- [1]
@@ -20926,9 +22624,8 @@ MasqueDB = {
 							1, -- [4]
 						},
 					},
-					["Inherit"] = false,
-					["Backdrop"] = true,
 					["SkinID"] = "ElvUIesque",
+					["Inherit"] = false,
 				},
 				["WeakAuras_UBZrX35(4Pd"] = {
 					["Backdrop"] = true,
@@ -20944,9 +22641,7 @@ MasqueDB = {
 					["Inherit"] = false,
 					["SkinID"] = "ElvUIesque",
 				},
-				["WeakAuras_jaRY71jGBYy"] = {
-					["Backdrop"] = true,
-					["Upgraded"] = true,
+				["WeakAuras_spookfish"] = {
 					["Colors"] = {
 						["Backdrop"] = {
 							1, -- [1]
@@ -20955,8 +22650,9 @@ MasqueDB = {
 							1, -- [4]
 						},
 					},
-					["SkinID"] = "ElvUIesque",
 					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "ElvUIesque",
 				},
 				["WeakAuras_twitching_tentacle_of_xalzaix_proc"] = {
 					["Colors"] = {
@@ -20985,7 +22681,7 @@ MasqueDB = {
 					["SkinID"] = "ElvUIesque",
 					["Inherit"] = false,
 				},
-				["WeakAuras_o19dzgqf7wd"] = {
+				["WeakAuras_fdAg3)ASPi7"] = {
 					["Backdrop"] = true,
 					["Upgraded"] = true,
 					["Colors"] = {
@@ -20999,21 +22695,7 @@ MasqueDB = {
 					["SkinID"] = "ElvUIesque",
 					["Inherit"] = false,
 				},
-				["WeakAuras_3ZMxbtGJEee"] = {
-					["Backdrop"] = true,
-					["Upgraded"] = true,
-					["Colors"] = {
-						["Backdrop"] = {
-							1, -- [1]
-							1, -- [2]
-							1, -- [3]
-							1, -- [4]
-						},
-					},
-					["SkinID"] = "Epix",
-					["Inherit"] = false,
-				},
-				["WeakAuras_Ot8wCBLkO8r"] = {
+				["WeakAuras_inpQpXrexNP"] = {
 					["Backdrop"] = true,
 					["Upgraded"] = true,
 					["Colors"] = {
@@ -21026,6 +22708,19 @@ MasqueDB = {
 					},
 					["SkinID"] = "ElvUIesque",
 					["Inherit"] = false,
+				},
+				["WeakAuras_stay_2"] = {
+					["Colors"] = {
+						["Backdrop"] = {
+							1, -- [1]
+							1, -- [2]
+							1, -- [3]
+							1, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "ElvUIesque",
 				},
 				["WeakAuras_07:_mind_tether_(tank)"] = {
 					["Colors"] = {
@@ -21040,9 +22735,19 @@ MasqueDB = {
 					["Backdrop"] = true,
 					["SkinID"] = "ElvUIesque",
 				},
-				["OmniBar_Dark Soul: Instability"] = {
-					["Inherit"] = false,
+				["WeakAuras_zFfLsKHTZtE"] = {
 					["Backdrop"] = true,
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Backdrop"] = {
+							1, -- [1]
+							1, -- [2]
+							1, -- [3]
+							1, -- [4]
+						},
+					},
+					["SkinID"] = "Epix",
+					["Inherit"] = false,
 				},
 				["WeakAuras_alchemist_stone"] = {
 					["Colors"] = {
@@ -21097,21 +22802,7 @@ MasqueDB = {
 					["Inherit"] = false,
 					["SkinID"] = "ElvUIesque - No Backdrop",
 				},
-				["WeakAuras_9UiA)LYR4z7"] = {
-					["Backdrop"] = true,
-					["Upgraded"] = true,
-					["Colors"] = {
-						["Backdrop"] = {
-							1, -- [1]
-							1, -- [2]
-							1, -- [3]
-							1, -- [4]
-						},
-					},
-					["Inherit"] = false,
-					["SkinID"] = "ElvUIesque - No Backdrop",
-				},
-				["WeakAuras_oOenWyk6m56"] = {
+				["WeakAuras_zB)Wsw1nMBY"] = {
 					["Backdrop"] = true,
 					["Upgraded"] = true,
 					["Colors"] = {
@@ -21125,7 +22816,7 @@ MasqueDB = {
 					["SkinID"] = "ElvUIesque",
 					["Inherit"] = false,
 				},
-				["WeakAuras_5LPL8K91hhj"] = {
+				["WeakAuras_Y6xcGt)(g6Y"] = {
 					["Backdrop"] = true,
 					["Upgraded"] = true,
 					["Colors"] = {
@@ -21138,6 +22829,10 @@ MasqueDB = {
 					},
 					["SkinID"] = "ElvUIesque",
 					["Inherit"] = false,
+				},
+				["OmniBar_Bestial Wrath"] = {
+					["Inherit"] = false,
+					["Backdrop"] = true,
 				},
 				["WeakAuras_02:_toxic_spine"] = {
 					["Colors"] = {
@@ -21152,7 +22847,7 @@ MasqueDB = {
 					["Backdrop"] = true,
 					["SkinID"] = "ElvUIesque",
 				},
-				["WeakAuras_5greIdGXEn7"] = {
+				["WeakAuras_wC0FEM5(m4C"] = {
 					["Backdrop"] = true,
 					["Upgraded"] = true,
 					["Colors"] = {
@@ -21163,23 +22858,10 @@ MasqueDB = {
 							1, -- [4]
 						},
 					},
-					["SkinID"] = "ElvUIesque",
+					["SkinID"] = "Epix",
 					["Inherit"] = false,
 				},
-				["WeakAuras_ghuun_fear"] = {
-					["Colors"] = {
-						["Backdrop"] = {
-							1, -- [1]
-							1, -- [2]
-							1, -- [3]
-							1, -- [4]
-						},
-					},
-					["Inherit"] = false,
-					["Backdrop"] = true,
-					["SkinID"] = "ElvUIesque",
-				},
-				["WeakAuras_OFt)BUeawrO"] = {
+				["WeakAuras_BY1y3l1G35A"] = {
 					["Backdrop"] = true,
 					["Upgraded"] = true,
 					["Colors"] = {
@@ -21190,7 +22872,7 @@ MasqueDB = {
 							1, -- [4]
 						},
 					},
-					["SkinID"] = "ElvUIesque",
+					["SkinID"] = "Epix",
 					["Inherit"] = false,
 				},
 				["WeakAuras_icefury_-_active"] = {
@@ -21206,6 +22888,20 @@ MasqueDB = {
 					["Backdrop"] = true,
 					["SkinID"] = "ElvUIesque",
 				},
+				["WeakAuras_1kQxkXxjqa7"] = {
+					["Backdrop"] = true,
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Backdrop"] = {
+							1, -- [1]
+							1, -- [2]
+							1, -- [3]
+							1, -- [4]
+						},
+					},
+					["SkinID"] = "ElvUIesque",
+					["Inherit"] = false,
+				},
 				["WeakAuras_Y7OH)ZyQFOl"] = {
 					["Backdrop"] = true,
 					["Upgraded"] = true,
@@ -21220,7 +22916,7 @@ MasqueDB = {
 					["Inherit"] = false,
 					["SkinID"] = "ElvUIesque - No Backdrop",
 				},
-				["WeakAuras_GCEJvzt71Vi"] = {
+				["WeakAuras_(iQn(6n1xKI"] = {
 					["Backdrop"] = true,
 					["Upgraded"] = true,
 					["Colors"] = {
@@ -21231,7 +22927,21 @@ MasqueDB = {
 							1, -- [4]
 						},
 					},
-					["SkinID"] = "Epix",
+					["SkinID"] = "ElvUIesque",
+					["Inherit"] = false,
+				},
+				["WeakAuras_ETvYnuvyiL1"] = {
+					["Backdrop"] = true,
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Backdrop"] = {
+							1, -- [1]
+							1, -- [2]
+							1, -- [3]
+							1, -- [4]
+						},
+					},
+					["SkinID"] = "ElvUIesque",
 					["Inherit"] = false,
 				},
 				["WeakAuras_57cRlDQ6m8w"] = {
@@ -21248,7 +22958,7 @@ MasqueDB = {
 					["Inherit"] = false,
 					["SkinID"] = "ElvUIesque - No Backdrop",
 				},
-				["WeakAuras_DJsDbCQcWPv"] = {
+				["WeakAuras_dBPDGqcnTHj"] = {
 					["Backdrop"] = true,
 					["Upgraded"] = true,
 					["Colors"] = {
@@ -21259,22 +22969,8 @@ MasqueDB = {
 							1, -- [4]
 						},
 					},
-					["Inherit"] = false,
-					["SkinID"] = "ElvUIesque - No Backdrop",
-				},
-				["WeakAuras_i42kiJ4QZBd"] = {
-					["Backdrop"] = true,
-					["Upgraded"] = true,
-					["Colors"] = {
-						["Backdrop"] = {
-							1, -- [1]
-							1, -- [2]
-							1, -- [3]
-							1, -- [4]
-						},
-					},
-					["Inherit"] = false,
 					["SkinID"] = "ElvUIesque",
+					["Inherit"] = false,
 				},
 				["WeakAuras_elemental_trinket_3"] = {
 					["Colors"] = {
@@ -21289,9 +22985,7 @@ MasqueDB = {
 					["Backdrop"] = true,
 					["SkinID"] = "ElvUIesque",
 				},
-				["WeakAuras_inpQpXrexNP"] = {
-					["Backdrop"] = true,
-					["Upgraded"] = true,
+				["WeakAuras_totem_mastery_active"] = {
 					["Colors"] = {
 						["Backdrop"] = {
 							1, -- [1]
@@ -21300,10 +22994,11 @@ MasqueDB = {
 							1, -- [4]
 						},
 					},
-					["SkinID"] = "ElvUIesque",
 					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "ElvUIesque",
 				},
-				["WeakAuras_qqdDytexhDt"] = {
+				["WeakAuras_(SxKddTuHzH"] = {
 					["Backdrop"] = true,
 					["Upgraded"] = true,
 					["Colors"] = {
@@ -21314,8 +23009,8 @@ MasqueDB = {
 							1, -- [4]
 						},
 					},
-					["Inherit"] = false,
 					["SkinID"] = "ElvUIesque",
+					["Inherit"] = false,
 				},
 				["WeakAuras_iS2Ji6Mk4)5"] = {
 					["Backdrop"] = true,
@@ -21331,7 +23026,7 @@ MasqueDB = {
 					["SkinID"] = "Epix",
 					["Inherit"] = false,
 				},
-				["WeakAuras_iR)TtdBfT9i"] = {
+				["WeakAuras_BxRYJzTvtAp"] = {
 					["Backdrop"] = true,
 					["Upgraded"] = true,
 					["Colors"] = {
@@ -21342,8 +23037,8 @@ MasqueDB = {
 							1, -- [4]
 						},
 					},
+					["SkinID"] = "ElvUIesque - No Backdrop",
 					["Inherit"] = false,
-					["SkinID"] = "ElvUIesque",
 				},
 				["WeakAuras_368lgiAfxKu"] = {
 					["Backdrop"] = true,
@@ -21387,7 +23082,9 @@ MasqueDB = {
 					["SkinID"] = "ElvUIesque",
 					["Inherit"] = false,
 				},
-				["WeakAuras_07:_crushing_grasp"] = {
+				["WeakAuras_WHRBILg4kZ4"] = {
+					["Backdrop"] = true,
+					["Upgraded"] = true,
 					["Colors"] = {
 						["Backdrop"] = {
 							1, -- [1]
@@ -21397,8 +23094,7 @@ MasqueDB = {
 						},
 					},
 					["Inherit"] = false,
-					["Backdrop"] = true,
-					["SkinID"] = "ElvUIesque",
+					["SkinID"] = "ElvUIesque - No Backdrop",
 				},
 				["WeakAuras_a96HgWeacTr"] = {
 					["Backdrop"] = true,
@@ -21414,7 +23110,7 @@ MasqueDB = {
 					["SkinID"] = "ElvUIesque",
 					["Inherit"] = false,
 				},
-				["WeakAuras_wind_shear_23"] = {
+				["WeakAuras_08_drained_soul"] = {
 					["Colors"] = {
 						["Backdrop"] = {
 							1, -- [1]
@@ -21427,9 +23123,7 @@ MasqueDB = {
 					["Backdrop"] = true,
 					["SkinID"] = "ElvUIesque",
 				},
-				["WeakAuras_BY1y3l1G35A"] = {
-					["Backdrop"] = true,
-					["Upgraded"] = true,
+				["WeakAuras_unleash_life_2"] = {
 					["Colors"] = {
 						["Backdrop"] = {
 							1, -- [1]
@@ -21438,28 +23132,24 @@ MasqueDB = {
 							1, -- [4]
 						},
 					},
-					["SkinID"] = "Epix",
-					["Inherit"] = false,
-				},
-				["OmniBar_Bestial Wrath"] = {
 					["Inherit"] = false,
 					["Backdrop"] = true,
-				},
-				["WeakAuras_rhQFrZq68KA"] = {
-					["Backdrop"] = true,
-					["Upgraded"] = true,
-					["Colors"] = {
-						["Backdrop"] = {
-							1, -- [1]
-							1, -- [2]
-							1, -- [3]
-							1, -- [4]
-						},
-					},
 					["SkinID"] = "ElvUIesque",
-					["Inherit"] = false,
 				},
-				["WeakAuras_SYUJYdjwcV)"] = {
+				["WeakAuras_zt_-_nnogga's_party_cd_front_end32"] = {
+					["Colors"] = {
+						["Backdrop"] = {
+							1, -- [1]
+							1, -- [2]
+							1, -- [3]
+							1, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "ElvUIesque",
+				},
+				["WeakAuras_GafiL6YcGO5"] = {
 					["Backdrop"] = true,
 					["Upgraded"] = true,
 					["Colors"] = {
@@ -21470,8 +23160,21 @@ MasqueDB = {
 							1, -- [4]
 						},
 					},
-					["SkinID"] = "ElvUIesque",
 					["Inherit"] = false,
+					["SkinID"] = "ElvUIesque",
+				},
+				["WeakAuras_icy_veins_23"] = {
+					["Colors"] = {
+						["Backdrop"] = {
+							1, -- [1]
+							1, -- [2]
+							1, -- [3]
+							1, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "ElvUIesque",
 				},
 				["WeakAuras_DYpJbMarNmY"] = {
 					["Backdrop"] = true,
@@ -21487,7 +23190,21 @@ MasqueDB = {
 					["SkinID"] = "ElvUIesque",
 					["Inherit"] = false,
 				},
-				["WeakAuras_7pdPyfYoSlf"] = {
+				["WeakAuras_Rtq0YBiBvYn"] = {
+					["Backdrop"] = true,
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Backdrop"] = {
+							1, -- [1]
+							1, -- [2]
+							1, -- [3]
+							1, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "ElvUIesque - No Backdrop",
+				},
+				["WeakAuras_(QCH56YSAV2"] = {
 					["Backdrop"] = true,
 					["Upgraded"] = true,
 					["Colors"] = {
@@ -21501,21 +23218,7 @@ MasqueDB = {
 					["SkinID"] = "ElvUIesque",
 					["Inherit"] = false,
 				},
-				["WeakAuras_M4TE6m25HGT"] = {
-					["Backdrop"] = true,
-					["Upgraded"] = true,
-					["Colors"] = {
-						["Backdrop"] = {
-							1, -- [1]
-							1, -- [2]
-							1, -- [3]
-							1, -- [4]
-						},
-					},
-					["SkinID"] = "ElvUIesque",
-					["Inherit"] = false,
-				},
-				["WeakAuras_MkEiT41z1I8"] = {
+				["WeakAuras_pIPKRlI3Hek"] = {
 					["Backdrop"] = true,
 					["Upgraded"] = true,
 					["Colors"] = {
@@ -21543,7 +23246,7 @@ MasqueDB = {
 					["SkinID"] = "ElvUIesque",
 					["Inherit"] = false,
 				},
-				["WeakAuras_pIPKRlI3Hek"] = {
+				["WeakAuras_kHRaLgh8Htk"] = {
 					["Backdrop"] = true,
 					["Upgraded"] = true,
 					["Colors"] = {
@@ -21554,8 +23257,8 @@ MasqueDB = {
 							1, -- [4]
 						},
 					},
-					["SkinID"] = "ElvUIesque",
 					["Inherit"] = false,
+					["SkinID"] = "ElvUIesque",
 				},
 				["WeakAuras_decaying_eruption_(big_add_interrupt)2"] = {
 					["Colors"] = {
@@ -21598,7 +23301,7 @@ MasqueDB = {
 					["SkinID"] = "Epix",
 					["Inherit"] = false,
 				},
-				["WeakAuras_9BxycDN7uRY"] = {
+				["WeakAuras_fRPi4)LhLHS"] = {
 					["Backdrop"] = true,
 					["Upgraded"] = true,
 					["Colors"] = {
@@ -21667,9 +23370,7 @@ MasqueDB = {
 					["SkinID"] = "ElvUIesque",
 					["Inherit"] = false,
 				},
-				["WeakAuras_uiktMpPn59j"] = {
-					["Backdrop"] = true,
-					["Upgraded"] = true,
+				["WeakAuras_exposedelements_debuff"] = {
 					["Colors"] = {
 						["Backdrop"] = {
 							1, -- [1]
@@ -21679,7 +23380,7 @@ MasqueDB = {
 						},
 					},
 					["SkinID"] = "ElvUIesque",
-					["Inherit"] = false,
+					["Backdrop"] = true,
 				},
 				["WeakAuras_elemental_blast_cd"] = {
 					["Colors"] = {
@@ -21694,7 +23395,9 @@ MasqueDB = {
 					["Backdrop"] = true,
 					["SkinID"] = "ElvUIesque",
 				},
-				["WeakAuras_zt_-_nnogga's_party_cd_front_end18"] = {
+				["WeakAuras_M4TE6m25HGT"] = {
+					["Backdrop"] = true,
+					["Upgraded"] = true,
 					["Colors"] = {
 						["Backdrop"] = {
 							1, -- [1]
@@ -21703,11 +23406,12 @@ MasqueDB = {
 							1, -- [4]
 						},
 					},
-					["Inherit"] = false,
-					["Backdrop"] = true,
 					["SkinID"] = "ElvUIesque",
+					["Inherit"] = false,
 				},
-				["WeakAuras_flame_shock_(boss1)_2"] = {
+				["WeakAuras_oU)eQyA)Znk"] = {
+					["Backdrop"] = true,
+					["Upgraded"] = true,
 					["Colors"] = {
 						["Backdrop"] = {
 							1, -- [1]
@@ -21716,11 +23420,12 @@ MasqueDB = {
 							1, -- [4]
 						},
 					},
-					["Inherit"] = false,
-					["Backdrop"] = true,
 					["SkinID"] = "ElvUIesque",
+					["Inherit"] = false,
 				},
-				["WeakAuras_08_drained_soul"] = {
+				["WeakAuras_FpUuA38wcEq"] = {
+					["Backdrop"] = true,
+					["Upgraded"] = true,
 					["Colors"] = {
 						["Backdrop"] = {
 							1, -- [1]
@@ -21730,8 +23435,7 @@ MasqueDB = {
 						},
 					},
 					["Inherit"] = false,
-					["Backdrop"] = true,
-					["SkinID"] = "ElvUIesque",
+					["SkinID"] = "Epix",
 				},
 				["WeakAuras_medallion"] = {
 					["Colors"] = {
@@ -21759,7 +23463,7 @@ MasqueDB = {
 					["Backdrop"] = true,
 					["SkinID"] = "ElvUIesque",
 				},
-				["WeakAuras_wC0FEM5(m4C"] = {
+				["WeakAuras_E9XRdB87jxw"] = {
 					["Backdrop"] = true,
 					["Upgraded"] = true,
 					["Colors"] = {
@@ -21770,7 +23474,7 @@ MasqueDB = {
 							1, -- [4]
 						},
 					},
-					["SkinID"] = "Epix",
+					["SkinID"] = "ElvUIesque",
 					["Inherit"] = false,
 				},
 				["WeakAuras_lava_surge_proc"] = {
@@ -21799,6 +23503,33 @@ MasqueDB = {
 					["SkinID"] = "ElvUIesque",
 					["Inherit"] = false,
 				},
+				["WeakAuras_zt_-_nnogga's_party_cd_front_end19"] = {
+					["Colors"] = {
+						["Backdrop"] = {
+							1, -- [1]
+							1, -- [2]
+							1, -- [3]
+							1, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "ElvUIesque",
+				},
+				["WeakAuras_Er5HjreFftE"] = {
+					["Backdrop"] = true,
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Backdrop"] = {
+							1, -- [1]
+							1, -- [2]
+							1, -- [3]
+							1, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "ElvUIesque - No Backdrop",
+				},
 				["WeakAuras_trinket_2"] = {
 					["Colors"] = {
 						["Backdrop"] = {
@@ -21812,7 +23543,7 @@ MasqueDB = {
 					["Backdrop"] = true,
 					["SkinID"] = "ElvUIesque",
 				},
-				["WeakAuras_liquid_magma_totem_23"] = {
+				["WeakAuras_skyfury_2"] = {
 					["Colors"] = {
 						["Backdrop"] = {
 							1, -- [1]
@@ -21825,20 +23556,7 @@ MasqueDB = {
 					["Backdrop"] = true,
 					["SkinID"] = "ElvUIesque",
 				},
-				["WeakAuras_zt_-_nnogga's_party_cd_front_end29"] = {
-					["Colors"] = {
-						["Backdrop"] = {
-							1, -- [1]
-							1, -- [2]
-							1, -- [3]
-							1, -- [4]
-						},
-					},
-					["Inherit"] = false,
-					["Backdrop"] = true,
-					["SkinID"] = "ElvUIesque",
-				},
-				["WeakAuras_WX8UFeoozgP"] = {
+				["WeakAuras_sg)OzHlx53v"] = {
 					["Backdrop"] = true,
 					["Upgraded"] = true,
 					["Colors"] = {
@@ -21849,24 +23567,10 @@ MasqueDB = {
 							1, -- [4]
 						},
 					},
-					["SkinID"] = "ElvUIesque",
+					["SkinID"] = "Epix",
 					["Inherit"] = false,
 				},
-				["WeakAuras_(iQn(6n1xKI"] = {
-					["Backdrop"] = true,
-					["Upgraded"] = true,
-					["Colors"] = {
-						["Backdrop"] = {
-							1, -- [1]
-							1, -- [2]
-							1, -- [3]
-							1, -- [4]
-						},
-					},
-					["SkinID"] = "ElvUIesque",
-					["Inherit"] = false,
-				},
-				["WeakAuras_fire_mirror_image"] = {
+				["WeakAuras_hex_cooldown_2"] = {
 					["Colors"] = {
 						["Backdrop"] = {
 							1, -- [1]
@@ -21879,7 +23583,7 @@ MasqueDB = {
 					["Backdrop"] = true,
 					["SkinID"] = "ElvUIesque",
 				},
-				["WeakAuras_cDPFay4LVVU"] = {
+				["WeakAuras_jqqm(pvtITC"] = {
 					["Backdrop"] = true,
 					["Upgraded"] = true,
 					["Colors"] = {
@@ -21920,9 +23624,7 @@ MasqueDB = {
 					["SkinID"] = "ElvUIesque",
 					["Inherit"] = false,
 				},
-				["WeakAuras_xJuTfVf4KBc"] = {
-					["Backdrop"] = true,
-					["Upgraded"] = true,
+				["WeakAuras_twitching_tentacle_of_xalzaix_stacks_2"] = {
 					["Colors"] = {
 						["Backdrop"] = {
 							1, -- [1]
@@ -21932,6 +23634,7 @@ MasqueDB = {
 						},
 					},
 					["Inherit"] = false,
+					["Backdrop"] = true,
 					["SkinID"] = "ElvUIesque",
 				},
 				["WeakAuras_astral_shift_4"] = {
@@ -21947,7 +23650,7 @@ MasqueDB = {
 					["Backdrop"] = true,
 					["SkinID"] = "ElvUIesque",
 				},
-				["WeakAuras_5)Xby15T0qu"] = {
+				["WeakAuras_Tyksk57)wtE"] = {
 					["Backdrop"] = true,
 					["Upgraded"] = true,
 					["Colors"] = {
@@ -21958,7 +23661,7 @@ MasqueDB = {
 							1, -- [4]
 						},
 					},
-					["SkinID"] = "Epix",
+					["SkinID"] = "ElvUIesque",
 					["Inherit"] = false,
 				},
 				["WeakAuras_znwJtlA(FdC"] = {
@@ -22003,7 +23706,21 @@ MasqueDB = {
 					["Inherit"] = false,
 					["SkinID"] = "ElvUIesque",
 				},
-				["WeakAuras_vhsm8KCnjAI"] = {
+				["WeakAuras_yotGA1TSDXR"] = {
+					["Backdrop"] = true,
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Backdrop"] = {
+							1, -- [1]
+							1, -- [2]
+							1, -- [3]
+							1, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "ElvUIesque",
+				},
+				["WeakAuras_qFsw5Jcg)mE"] = {
 					["Backdrop"] = true,
 					["Upgraded"] = true,
 					["Colors"] = {
@@ -22016,10 +23733,6 @@ MasqueDB = {
 					},
 					["SkinID"] = "ElvUIesque",
 					["Inherit"] = false,
-				},
-				["OmniBar_Psychic Scream"] = {
-					["Inherit"] = false,
-					["Backdrop"] = true,
 				},
 				["WeakAuras_gift_of_the_naaru"] = {
 					["Colors"] = {
@@ -22062,13 +23775,7 @@ MasqueDB = {
 					["Inherit"] = false,
 					["SkinID"] = "ElvUIesque - No Backdrop",
 				},
-				["OmniBar_Power Word: Barrier"] = {
-					["Inherit"] = false,
-					["Backdrop"] = true,
-				},
-				["WeakAuras_4quPIWRKYzp"] = {
-					["Backdrop"] = true,
-					["Upgraded"] = true,
+				["WeakAuras_07:_shattered_psyche"] = {
 					["Colors"] = {
 						["Backdrop"] = {
 							1, -- [1]
@@ -22077,12 +23784,15 @@ MasqueDB = {
 							1, -- [4]
 						},
 					},
-					["SkinID"] = "ElvUIesque",
 					["Inherit"] = false,
-				},
-				["WeakAuras_yue8eTsjXWd"] = {
 					["Backdrop"] = true,
-					["Upgraded"] = true,
+					["SkinID"] = "ElvUIesque",
+				},
+				["OmniBar_Counterspell"] = {
+					["Inherit"] = false,
+					["Backdrop"] = true,
+				},
+				["WeakAuras_supression_fire8"] = {
 					["Colors"] = {
 						["Backdrop"] = {
 							1, -- [1]
@@ -22091,8 +23801,9 @@ MasqueDB = {
 							1, -- [4]
 						},
 					},
-					["SkinID"] = "ElvUIesque",
 					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "ElvUIesque",
 				},
 				["WeakAuras_GI1B4KZ9SjM"] = {
 					["Backdrop"] = true,
@@ -22122,34 +23833,6 @@ MasqueDB = {
 					["SkinID"] = "ElvUIesque",
 					["Inherit"] = false,
 				},
-				["WeakAuras_KR)c35sKbYe"] = {
-					["Backdrop"] = true,
-					["Upgraded"] = true,
-					["Colors"] = {
-						["Backdrop"] = {
-							1, -- [1]
-							1, -- [2]
-							1, -- [3]
-							1, -- [4]
-						},
-					},
-					["SkinID"] = "ElvUIesque",
-					["Inherit"] = false,
-				},
-				["WeakAuras_i2ZWu0h1tBb"] = {
-					["Backdrop"] = true,
-					["Upgraded"] = true,
-					["Colors"] = {
-						["Backdrop"] = {
-							1, -- [1]
-							1, -- [2]
-							1, -- [3]
-							1, -- [4]
-						},
-					},
-					["SkinID"] = "ElvUIesque",
-					["Inherit"] = false,
-				},
 				["WeakAuras_tiLppfyLWeM"] = {
 					["Backdrop"] = true,
 					["Upgraded"] = true,
@@ -22164,7 +23847,7 @@ MasqueDB = {
 					["Inherit"] = false,
 					["SkinID"] = "ElvUIesque",
 				},
-				["WeakAuras_maddening_gaze4"] = {
+				["WeakAuras_(pot)_intellect"] = {
 					["Colors"] = {
 						["Backdrop"] = {
 							1, -- [1]
@@ -22176,6 +23859,24 @@ MasqueDB = {
 					["Inherit"] = false,
 					["Backdrop"] = true,
 					["SkinID"] = "ElvUIesque",
+				},
+				["WeakAuras_o19dzgqf7wd"] = {
+					["Backdrop"] = true,
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Backdrop"] = {
+							1, -- [1]
+							1, -- [2]
+							1, -- [3]
+							1, -- [4]
+						},
+					},
+					["SkinID"] = "ElvUIesque",
+					["Inherit"] = false,
+				},
+				["OmniBar_Icy Veins"] = {
+					["Inherit"] = false,
+					["Backdrop"] = true,
 				},
 				["WeakAuras_01_divine_mallet4"] = {
 					["Colors"] = {
@@ -22207,7 +23908,7 @@ MasqueDB = {
 					["Inherit"] = false,
 					["Backdrop"] = true,
 				},
-				["WeakAuras_PUE03JmSAzT"] = {
+				["WeakAuras_hmP)P6098o3"] = {
 					["Backdrop"] = true,
 					["Upgraded"] = true,
 					["Colors"] = {
@@ -22218,8 +23919,8 @@ MasqueDB = {
 							1, -- [4]
 						},
 					},
+					["SkinID"] = "Epix",
 					["Inherit"] = false,
-					["SkinID"] = "ElvUIesque - No Backdrop",
 				},
 				["WeakAuras_beckon"] = {
 					["Colors"] = {
@@ -22234,7 +23935,7 @@ MasqueDB = {
 					["Backdrop"] = true,
 					["SkinID"] = "ElvUIesque",
 				},
-				["WeakAuras_sg)OzHlx53v"] = {
+				["WeakAuras_WEjcZh1jgBp"] = {
 					["Backdrop"] = true,
 					["Upgraded"] = true,
 					["Colors"] = {
@@ -22248,7 +23949,7 @@ MasqueDB = {
 					["SkinID"] = "Epix",
 					["Inherit"] = false,
 				},
-				["WeakAuras_XFz8rBW4)yI"] = {
+				["WeakAuras_GG(lhsV40db"] = {
 					["Backdrop"] = true,
 					["Upgraded"] = true,
 					["Colors"] = {
@@ -22259,8 +23960,8 @@ MasqueDB = {
 							1, -- [4]
 						},
 					},
+					["SkinID"] = "Epix",
 					["Inherit"] = false,
-					["SkinID"] = "ElvUIesque",
 				},
 				["WeakAuras_whirling_slam6"] = {
 					["Colors"] = {
@@ -22275,7 +23976,9 @@ MasqueDB = {
 					["Backdrop"] = true,
 					["SkinID"] = "ElvUIesque",
 				},
-				["WeakAuras_zt_-_nnogga's_party_cd_front_end15"] = {
+				["WeakAuras_9uyK9PtE4ca"] = {
+					["Backdrop"] = true,
+					["Upgraded"] = true,
 					["Colors"] = {
 						["Backdrop"] = {
 							1, -- [1]
@@ -22284,9 +23987,8 @@ MasqueDB = {
 							1, -- [4]
 						},
 					},
-					["Inherit"] = false,
-					["Backdrop"] = true,
 					["SkinID"] = "ElvUIesque",
+					["Inherit"] = false,
 				},
 				["OmniBar_Avatar"] = {
 					["Inherit"] = false,
@@ -22333,7 +24035,20 @@ MasqueDB = {
 					["SkinID"] = "ElvUIesque",
 					["Inherit"] = false,
 				},
-				["WeakAuras_yotGA1TSDXR"] = {
+				["WeakAuras_supression_fire12"] = {
+					["Colors"] = {
+						["Backdrop"] = {
+							1, -- [1]
+							1, -- [2]
+							1, -- [3]
+							1, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "ElvUIesque",
+				},
+				["WeakAuras_1j51PORGl7F"] = {
 					["Backdrop"] = true,
 					["Upgraded"] = true,
 					["Colors"] = {
@@ -22345,9 +24060,22 @@ MasqueDB = {
 						},
 					},
 					["Inherit"] = false,
+					["SkinID"] = "ElvUIesque - No Backdrop",
+				},
+				["WeakAuras_anchors_wa_to_spawn_of_g'huun_nameplate_if_it_targets_you2"] = {
+					["Colors"] = {
+						["Backdrop"] = {
+							1, -- [1]
+							1, -- [2]
+							1, -- [3]
+							1, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["Backdrop"] = true,
 					["SkinID"] = "ElvUIesque",
 				},
-				["WeakAuras_1Jzv(4JITSO"] = {
+				["WeakAuras_OFt)BUeawrO"] = {
 					["Backdrop"] = true,
 					["Upgraded"] = true,
 					["Colors"] = {
@@ -22360,23 +24088,6 @@ MasqueDB = {
 					},
 					["SkinID"] = "ElvUIesque",
 					["Inherit"] = false,
-				},
-				["OmniBar_Counterspell"] = {
-					["Inherit"] = false,
-					["Backdrop"] = true,
-				},
-				["WeakAuras_tremor_totem_cooldown_2"] = {
-					["Colors"] = {
-						["Backdrop"] = {
-							1, -- [1]
-							1, -- [2]
-							1, -- [3]
-							1, -- [4]
-						},
-					},
-					["Inherit"] = false,
-					["Backdrop"] = true,
-					["SkinID"] = "ElvUIesque",
 				},
 				["WeakAuras_QQOiESYIzL3"] = {
 					["Backdrop"] = true,
@@ -22419,7 +24130,7 @@ MasqueDB = {
 					["Backdrop"] = true,
 					["SkinID"] = "ElvUIesque",
 				},
-				["WeakAuras_NACxO3ZCoCT"] = {
+				["WeakAuras_5UaQwxGVFBS"] = {
 					["Backdrop"] = true,
 					["Upgraded"] = true,
 					["Colors"] = {
@@ -22433,7 +24144,7 @@ MasqueDB = {
 					["SkinID"] = "ElvUIesque",
 					["Inherit"] = false,
 				},
-				["WeakAuras_rypBbuEek8w"] = {
+				["WeakAuras_QmAJBQ97AyM"] = {
 					["Backdrop"] = true,
 					["Upgraded"] = true,
 					["Colors"] = {
@@ -22447,7 +24158,9 @@ MasqueDB = {
 					["SkinID"] = "ElvUIesque",
 					["Inherit"] = false,
 				},
-				["WeakAuras_feral_lunge"] = {
+				["WeakAuras_UhSXd03PNAl"] = {
+					["Backdrop"] = true,
+					["Upgraded"] = true,
 					["Colors"] = {
 						["Backdrop"] = {
 							1, -- [1]
@@ -22456,11 +24169,12 @@ MasqueDB = {
 							1, -- [4]
 						},
 					},
-					["Inherit"] = false,
-					["Backdrop"] = true,
 					["SkinID"] = "ElvUIesque",
+					["Inherit"] = false,
 				},
-				["WeakAuras_zt_-_nnogga's_party_cd_front_end11"] = {
+				["WeakAuras_BUnrwObpNXH"] = {
+					["Backdrop"] = true,
+					["Upgraded"] = true,
 					["Colors"] = {
 						["Backdrop"] = {
 							1, -- [1]
@@ -22470,8 +24184,7 @@ MasqueDB = {
 						},
 					},
 					["Inherit"] = false,
-					["Backdrop"] = true,
-					["SkinID"] = "ElvUIesque",
+					["SkinID"] = "ElvUIesque - No Backdrop",
 				},
 				["WeakAuras_GmVSf6fzXiN"] = {
 					["Backdrop"] = true,
@@ -22487,46 +24200,7 @@ MasqueDB = {
 					["Inherit"] = false,
 					["SkinID"] = "Epix",
 				},
-				["WeakAuras_totem_mastery_active_+_range_3"] = {
-					["Colors"] = {
-						["Backdrop"] = {
-							1, -- [1]
-							1, -- [2]
-							1, -- [3]
-							1, -- [4]
-						},
-					},
-					["Inherit"] = false,
-					["Backdrop"] = true,
-					["SkinID"] = "ElvUIesque",
-				},
-				["WeakAuras_08_beckon_on_you"] = {
-					["Colors"] = {
-						["Backdrop"] = {
-							1, -- [1]
-							1, -- [2]
-							1, -- [3]
-							1, -- [4]
-						},
-					},
-					["Inherit"] = false,
-					["Backdrop"] = true,
-					["SkinID"] = "ElvUIesque",
-				},
-				["WeakAuras_rotten_bile13"] = {
-					["Colors"] = {
-						["Backdrop"] = {
-							1, -- [1]
-							1, -- [2]
-							1, -- [3]
-							1, -- [4]
-						},
-					},
-					["Inherit"] = false,
-					["Backdrop"] = true,
-					["SkinID"] = "ElvUIesque",
-				},
-				["WeakAuras_ctywShHfhOE"] = {
+				["WeakAuras_Ae5tN6m8EYk"] = {
 					["Backdrop"] = true,
 					["Upgraded"] = true,
 					["Colors"] = {
@@ -22539,88 +24213,6 @@ MasqueDB = {
 					},
 					["SkinID"] = "ElvUIesque",
 					["Inherit"] = false,
-				},
-				["WeakAuras_9uyK9PtE4ca"] = {
-					["Backdrop"] = true,
-					["Upgraded"] = true,
-					["Colors"] = {
-						["Backdrop"] = {
-							1, -- [1]
-							1, -- [2]
-							1, -- [3]
-							1, -- [4]
-						},
-					},
-					["SkinID"] = "ElvUIesque",
-					["Inherit"] = false,
-				},
-				["WeakAuras_yEb2e1ZB6R0"] = {
-					["Backdrop"] = true,
-					["Upgraded"] = true,
-					["Colors"] = {
-						["Backdrop"] = {
-							1, -- [1]
-							1, -- [2]
-							1, -- [3]
-							1, -- [4]
-						},
-					},
-					["Inherit"] = false,
-					["SkinID"] = "ElvUIesque",
-				},
-				["WeakAuras_hmP)P6098o3"] = {
-					["Backdrop"] = true,
-					["Upgraded"] = true,
-					["Colors"] = {
-						["Backdrop"] = {
-							1, -- [1]
-							1, -- [2]
-							1, -- [3]
-							1, -- [4]
-						},
-					},
-					["SkinID"] = "Epix",
-					["Inherit"] = false,
-				},
-				["WeakAuras_)XsIgcHWo5x"] = {
-					["Backdrop"] = true,
-					["Upgraded"] = true,
-					["Colors"] = {
-						["Backdrop"] = {
-							1, -- [1]
-							1, -- [2]
-							1, -- [3]
-							1, -- [4]
-						},
-					},
-					["SkinID"] = "ElvUIesque",
-					["Inherit"] = false,
-				},
-				["WeakAuras_anchors_wa_to_spawn_of_g'huun_nameplate_if_it_targets_you2"] = {
-					["Colors"] = {
-						["Backdrop"] = {
-							1, -- [1]
-							1, -- [2]
-							1, -- [3]
-							1, -- [4]
-						},
-					},
-					["Inherit"] = false,
-					["Backdrop"] = true,
-					["SkinID"] = "ElvUIesque",
-				},
-				["WeakAuras_wind_shear_32"] = {
-					["Colors"] = {
-						["Backdrop"] = {
-							1, -- [1]
-							1, -- [2]
-							1, -- [3]
-							1, -- [4]
-						},
-					},
-					["Inherit"] = false,
-					["Backdrop"] = true,
-					["SkinID"] = "ElvUIesque",
 				},
 				["WeakAuras_V0JMMC4ajHB"] = {
 					["Backdrop"] = true,
@@ -22635,6 +24227,129 @@ MasqueDB = {
 					},
 					["SkinID"] = "Epix",
 					["Inherit"] = false,
+				},
+				["WeakAuras_Fec5POVuXqp"] = {
+					["Backdrop"] = true,
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Backdrop"] = {
+							1, -- [1]
+							1, -- [2]
+							1, -- [3]
+							1, -- [4]
+						},
+					},
+					["SkinID"] = "ElvUIesque",
+					["Inherit"] = false,
+				},
+				["WeakAuras_O)X6RpAVN)y"] = {
+					["Backdrop"] = true,
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Backdrop"] = {
+							1, -- [1]
+							1, -- [2]
+							1, -- [3]
+							1, -- [4]
+						},
+					},
+					["SkinID"] = "ElvUIesque",
+					["Inherit"] = false,
+				},
+				["WeakAuras_fury_of_air"] = {
+					["Colors"] = {
+						["Backdrop"] = {
+							1, -- [1]
+							1, -- [2]
+							1, -- [3]
+							1, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "ElvUIesque",
+				},
+				["WeakAuras_unlimited_power"] = {
+					["Colors"] = {
+						["Backdrop"] = {
+							1, -- [1]
+							1, -- [2]
+							1, -- [3]
+							1, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "ElvUIesque",
+				},
+				["WeakAuras_xhmrzAdaH3J"] = {
+					["Backdrop"] = true,
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Backdrop"] = {
+							1, -- [1]
+							1, -- [2]
+							1, -- [3]
+							1, -- [4]
+						},
+					},
+					["SkinID"] = "ElvUIesque",
+					["Inherit"] = false,
+				},
+				["WeakAuras_J2xRq1zECos"] = {
+					["Backdrop"] = true,
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Backdrop"] = {
+							1, -- [1]
+							1, -- [2]
+							1, -- [3]
+							1, -- [4]
+						},
+					},
+					["SkinID"] = "ElvUIesque",
+					["Inherit"] = false,
+				},
+				["WeakAuras_lava_burst_stack_2"] = {
+					["Colors"] = {
+						["Backdrop"] = {
+							1, -- [1]
+							1, -- [2]
+							1, -- [3]
+							1, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "ElvUIesque",
+				},
+				["WeakAuras_NACxO3ZCoCT"] = {
+					["Backdrop"] = true,
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Backdrop"] = {
+							1, -- [1]
+							1, -- [2]
+							1, -- [3]
+							1, -- [4]
+						},
+					},
+					["SkinID"] = "ElvUIesque",
+					["Inherit"] = false,
+				},
+				["WeakAuras_E6gGWKtvzp3"] = {
+					["Backdrop"] = true,
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Backdrop"] = {
+							1, -- [1]
+							1, -- [2]
+							1, -- [3]
+							1, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "ElvUIesque",
 				},
 				["WeakAuras_bfa_talents\\items\\azerite_traits_(current_setup)__2"] = {
 					["Colors"] = {
@@ -22663,7 +24378,7 @@ MasqueDB = {
 					["SkinID"] = "ElvUIesque",
 					["Inherit"] = false,
 				},
-				["WeakAuras_zRy8RZrCjVX"] = {
+				["WeakAuras_tzDIbEr6D)B"] = {
 					["Backdrop"] = true,
 					["Upgraded"] = true,
 					["Colors"] = {
@@ -22677,7 +24392,7 @@ MasqueDB = {
 					["SkinID"] = "ElvUIesque",
 					["Inherit"] = false,
 				},
-				["WeakAuras_supression_fire12"] = {
+				["WeakAuras_08:_cold_blast_(tank)"] = {
 					["Colors"] = {
 						["Backdrop"] = {
 							1, -- [1]
@@ -22704,7 +24419,7 @@ MasqueDB = {
 					["Inherit"] = false,
 					["SkinID"] = "ElvUIesque - No Backdrop",
 				},
-				["WeakAuras_zt_-_nnogga's_party_cd_front_end21"] = {
+				["WeakAuras_current_equipped_panel_icn"] = {
 					["Colors"] = {
 						["Backdrop"] = {
 							1, -- [1]
@@ -22717,7 +24432,7 @@ MasqueDB = {
 					["Backdrop"] = true,
 					["SkinID"] = "ElvUIesque",
 				},
-				["WeakAuras_fury_of_air"] = {
+				["WeakAuras_decaying_eruption_(big_add_interrupt)"] = {
 					["Colors"] = {
 						["Backdrop"] = {
 							1, -- [1]
@@ -22730,9 +24445,7 @@ MasqueDB = {
 					["Backdrop"] = true,
 					["SkinID"] = "ElvUIesque",
 				},
-				["WeakAuras_(QCH56YSAV2"] = {
-					["Backdrop"] = true,
-					["Upgraded"] = true,
+				["WeakAuras_hot_hand"] = {
 					["Colors"] = {
 						["Backdrop"] = {
 							1, -- [1]
@@ -22741,12 +24454,11 @@ MasqueDB = {
 							1, -- [4]
 						},
 					},
-					["SkinID"] = "ElvUIesque",
 					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "ElvUIesque",
 				},
-				["WeakAuras_xhmrzAdaH3J"] = {
-					["Backdrop"] = true,
-					["Upgraded"] = true,
+				["WeakAuras_07:_manifest_nightmares"] = {
 					["Colors"] = {
 						["Backdrop"] = {
 							1, -- [1]
@@ -22755,8 +24467,9 @@ MasqueDB = {
 							1, -- [4]
 						},
 					},
-					["SkinID"] = "ElvUIesque",
 					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "ElvUIesque",
 				},
 				["WeakAuras_crash_lightning_-_cooldown"] = {
 					["Colors"] = {
@@ -22771,7 +24484,7 @@ MasqueDB = {
 					["Backdrop"] = true,
 					["SkinID"] = "ElvUIesque",
 				},
-				["WeakAuras_lava_burst_stack_2"] = {
+				["WeakAuras_04_crush2"] = {
 					["Colors"] = {
 						["Backdrop"] = {
 							1, -- [1]
@@ -22783,20 +24496,6 @@ MasqueDB = {
 					["Inherit"] = false,
 					["Backdrop"] = true,
 					["SkinID"] = "ElvUIesque",
-				},
-				["WeakAuras_Y6xcGt)(g6Y"] = {
-					["Backdrop"] = true,
-					["Upgraded"] = true,
-					["Colors"] = {
-						["Backdrop"] = {
-							1, -- [1]
-							1, -- [2]
-							1, -- [3]
-							1, -- [4]
-						},
-					},
-					["SkinID"] = "ElvUIesque",
-					["Inherit"] = false,
 				},
 				["WeakAuras_arcane_burst"] = {
 					["Colors"] = {
@@ -22811,7 +24510,7 @@ MasqueDB = {
 					["Backdrop"] = true,
 					["SkinID"] = "ElvUIesque",
 				},
-				["WeakAuras_talents\\items"] = {
+				["WeakAuras_march:_keep_moving"] = {
 					["Colors"] = {
 						["Backdrop"] = {
 							1, -- [1]
@@ -22824,7 +24523,7 @@ MasqueDB = {
 					["Backdrop"] = true,
 					["SkinID"] = "ElvUIesque",
 				},
-				["WeakAuras_tzDIbEr6D)B"] = {
+				["WeakAuras_9GUgdlOE8iQ"] = {
 					["Backdrop"] = true,
 					["Upgraded"] = true,
 					["Colors"] = {
@@ -22835,7 +24534,7 @@ MasqueDB = {
 							1, -- [4]
 						},
 					},
-					["SkinID"] = "ElvUIesque",
+					["SkinID"] = "Epix",
 					["Inherit"] = false,
 				},
 				["WeakAuras_GLUFVkfk3E("] = {
@@ -22852,6 +24551,19 @@ MasqueDB = {
 					["SkinID"] = "ElvUIesque",
 					["Inherit"] = false,
 				},
+				["WeakAuras_final_blast6"] = {
+					["Colors"] = {
+						["Backdrop"] = {
+							1, -- [1]
+							1, -- [2]
+							1, -- [3]
+							1, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "ElvUIesque",
+				},
 				["WeakAuras_nCX0XKHINpa"] = {
 					["Backdrop"] = true,
 					["Upgraded"] = true,
@@ -22866,33 +24578,7 @@ MasqueDB = {
 					["SkinID"] = "ElvUIesque",
 					["Inherit"] = false,
 				},
-				["WeakAuras_unleash_life_2"] = {
-					["Colors"] = {
-						["Backdrop"] = {
-							1, -- [1]
-							1, -- [2]
-							1, -- [3]
-							1, -- [4]
-						},
-					},
-					["Inherit"] = false,
-					["Backdrop"] = true,
-					["SkinID"] = "ElvUIesque",
-				},
-				["WeakAuras_current_equipped_panel_icn"] = {
-					["Colors"] = {
-						["Backdrop"] = {
-							1, -- [1]
-							1, -- [2]
-							1, -- [3]
-							1, -- [4]
-						},
-					},
-					["Inherit"] = false,
-					["Backdrop"] = true,
-					["SkinID"] = "ElvUIesque",
-				},
-				["WeakAuras_GafiL6YcGO5"] = {
+				["WeakAuras_lqT0aHNgG4g"] = {
 					["Backdrop"] = true,
 					["Upgraded"] = true,
 					["Colors"] = {
@@ -22903,10 +24589,37 @@ MasqueDB = {
 							1, -- [4]
 						},
 					},
+					["SkinID"] = "ElvUIesque",
 					["Inherit"] = false,
+				},
+				["WeakAuras_zt_-_nnogga's_party_cd_front_end29"] = {
+					["Colors"] = {
+						["Backdrop"] = {
+							1, -- [1]
+							1, -- [2]
+							1, -- [3]
+							1, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["Backdrop"] = true,
 					["SkinID"] = "ElvUIesque",
 				},
-				["WeakAuras_dps_potion_on_cd_2"] = {
+				["WeakAuras_DKMXU0Z1YID"] = {
+					["Backdrop"] = true,
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Backdrop"] = {
+							1, -- [1]
+							1, -- [2]
+							1, -- [3]
+							1, -- [4]
+						},
+					},
+					["SkinID"] = "ElvUIesque",
+					["Inherit"] = false,
+				},
+				["WeakAuras_stormkeeper_v2"] = {
 					["Colors"] = {
 						["Backdrop"] = {
 							1, -- [1]
@@ -22933,9 +24646,7 @@ MasqueDB = {
 					["SkinID"] = "ElvUIesque",
 					["Inherit"] = false,
 				},
-				["WeakAuras_ETvYnuvyiL1"] = {
-					["Backdrop"] = true,
-					["Upgraded"] = true,
+				["WeakAuras_no_soak"] = {
 					["Colors"] = {
 						["Backdrop"] = {
 							1, -- [1]
@@ -22944,8 +24655,9 @@ MasqueDB = {
 							1, -- [4]
 						},
 					},
-					["SkinID"] = "ElvUIesque",
 					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "ElvUIesque",
 				},
 				["WeakAuras_Cp0WPtbXh8h"] = {
 					["Backdrop"] = true,
@@ -22961,7 +24673,7 @@ MasqueDB = {
 					["SkinID"] = "ElvUIesque",
 					["Inherit"] = false,
 				},
-				["WeakAuras_E6gGWKtvzp3"] = {
+				["WeakAuras_hv1mpBtTNm9"] = {
 					["Backdrop"] = true,
 					["Upgraded"] = true,
 					["Colors"] = {
@@ -22972,10 +24684,10 @@ MasqueDB = {
 							1, -- [4]
 						},
 					},
-					["Inherit"] = false,
 					["SkinID"] = "ElvUIesque",
+					["Inherit"] = false,
 				},
-				["WeakAuras_healing_tide_totem_2_-_active"] = {
+				["WeakAuras_02:_gaze_from_below"] = {
 					["Colors"] = {
 						["Backdrop"] = {
 							1, -- [1]
@@ -23016,9 +24728,7 @@ MasqueDB = {
 					["SkinID"] = "ElvUIesque",
 					["Inherit"] = false,
 				},
-				["WeakAuras_VrrxCuAcrx6"] = {
-					["Backdrop"] = true,
-					["Upgraded"] = true,
+				["WeakAuras_rotten_bile11"] = {
 					["Colors"] = {
 						["Backdrop"] = {
 							1, -- [1]
@@ -23027,8 +24737,9 @@ MasqueDB = {
 							1, -- [4]
 						},
 					},
-					["SkinID"] = "ElvUIesque",
 					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "ElvUIesque",
 				},
 				["WeakAuras_D357(g7Tu6k"] = {
 					["Backdrop"] = true,
@@ -23044,20 +24755,7 @@ MasqueDB = {
 					["SkinID"] = "ElvUIesque",
 					["Inherit"] = false,
 				},
-				["WeakAuras_08:_cold_blast_(tank)"] = {
-					["Colors"] = {
-						["Backdrop"] = {
-							1, -- [1]
-							1, -- [2]
-							1, -- [3]
-							1, -- [4]
-						},
-					},
-					["Inherit"] = false,
-					["Backdrop"] = true,
-					["SkinID"] = "ElvUIesque",
-				},
-				["WeakAuras_Yvt5e)cFlCm"] = {
+				["WeakAuras_9BxycDN7uRY"] = {
 					["Backdrop"] = true,
 					["Upgraded"] = true,
 					["Colors"] = {
@@ -23071,7 +24769,7 @@ MasqueDB = {
 					["SkinID"] = "ElvUIesque",
 					["Inherit"] = false,
 				},
-				["WeakAuras_zt_-_nnogga's_party_cd_front_end32"] = {
+				["WeakAuras_hybernate4"] = {
 					["Colors"] = {
 						["Backdrop"] = {
 							1, -- [1]
@@ -23084,7 +24782,33 @@ MasqueDB = {
 					["Backdrop"] = true,
 					["SkinID"] = "ElvUIesque",
 				},
-				["WeakAuras_bFC2vg117GR"] = {
+				["WeakAuras_windshear"] = {
+					["Colors"] = {
+						["Backdrop"] = {
+							1, -- [1]
+							1, -- [2]
+							1, -- [3]
+							1, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "ElvUIesque",
+				},
+				["WeakAuras_trap8"] = {
+					["Colors"] = {
+						["Backdrop"] = {
+							1, -- [1]
+							1, -- [2]
+							1, -- [3]
+							1, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "ElvUIesque",
+				},
+				["WeakAuras_FIVpuybpj7a"] = {
 					["Backdrop"] = true,
 					["Upgraded"] = true,
 					["Colors"] = {
@@ -23097,25 +24821,12 @@ MasqueDB = {
 					},
 					["SkinID"] = "ElvUIesque",
 					["Inherit"] = false,
-				},
-				["WeakAuras_prolonged_power_off"] = {
-					["Colors"] = {
-						["Backdrop"] = {
-							1, -- [1]
-							1, -- [2]
-							1, -- [3]
-							1, -- [4]
-						},
-					},
-					["Inherit"] = false,
-					["Backdrop"] = true,
-					["SkinID"] = "ElvUIesque",
 				},
 				["OmniBar_Blur"] = {
 					["Inherit"] = false,
 					["Backdrop"] = true,
 				},
-				["WeakAuras_stormkeeper_v2"] = {
+				["WeakAuras_07:_caustic_delirium"] = {
 					["Colors"] = {
 						["Backdrop"] = {
 							1, -- [1]
@@ -23168,20 +24879,7 @@ MasqueDB = {
 					["Backdrop"] = true,
 					["SkinID"] = "ElvUIesque",
 				},
-				["WeakAuras_rotten_bile11"] = {
-					["Colors"] = {
-						["Backdrop"] = {
-							1, -- [1]
-							1, -- [2]
-							1, -- [3]
-							1, -- [4]
-						},
-					},
-					["Inherit"] = false,
-					["Backdrop"] = true,
-					["SkinID"] = "ElvUIesque",
-				},
-				["WeakAuras_kHRaLgh8Htk"] = {
+				["WeakAuras_j0IUjw9(4wx"] = {
 					["Backdrop"] = true,
 					["Upgraded"] = true,
 					["Colors"] = {
@@ -23192,8 +24890,22 @@ MasqueDB = {
 							1, -- [4]
 						},
 					},
-					["Inherit"] = false,
 					["SkinID"] = "ElvUIesque",
+					["Inherit"] = false,
+				},
+				["WeakAuras_TzD05MAgMcf"] = {
+					["Backdrop"] = true,
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Backdrop"] = {
+							1, -- [1]
+							1, -- [2]
+							1, -- [3]
+							1, -- [4]
+						},
+					},
+					["SkinID"] = "ElvUIesque",
+					["Inherit"] = false,
 				},
 				["OmniBar_Anti-Magic Shell"] = {
 					["Inherit"] = false,
@@ -23212,7 +24924,21 @@ MasqueDB = {
 					["Backdrop"] = true,
 					["SkinID"] = "ElvUIesque",
 				},
-				["WeakAuras_tRGe31ik60)"] = {
+				["WeakAuras_zSP1CnLcdwI"] = {
+					["Backdrop"] = true,
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Backdrop"] = {
+							1, -- [1]
+							1, -- [2]
+							1, -- [3]
+							1, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "ElvUIesque",
+				},
+				["WeakAuras_xvCnSULrYEv"] = {
 					["Backdrop"] = true,
 					["Upgraded"] = true,
 					["Colors"] = {
@@ -23226,21 +24952,7 @@ MasqueDB = {
 					["SkinID"] = "ElvUIesque",
 					["Inherit"] = false,
 				},
-				["WeakAuras_E9XRdB87jxw"] = {
-					["Backdrop"] = true,
-					["Upgraded"] = true,
-					["Colors"] = {
-						["Backdrop"] = {
-							1, -- [1]
-							1, -- [2]
-							1, -- [3]
-							1, -- [4]
-						},
-					},
-					["SkinID"] = "ElvUIesque",
-					["Inherit"] = false,
-				},
-				["WeakAuras_wings"] = {
+				["WeakAuras_undulation_2"] = {
 					["Colors"] = {
 						["Backdrop"] = {
 							1, -- [1]
@@ -23253,7 +24965,7 @@ MasqueDB = {
 					["Backdrop"] = true,
 					["SkinID"] = "ElvUIesque",
 				},
-				["WeakAuras_trap8"] = {
+				["WeakAuras_zt_-_nnogga's_party_cd_front_end24"] = {
 					["Colors"] = {
 						["Backdrop"] = {
 							1, -- [1]
@@ -23279,9 +24991,7 @@ MasqueDB = {
 					["Backdrop"] = true,
 					["SkinID"] = "ElvUIesque",
 				},
-				["WeakAuras_lqT0aHNgG4g"] = {
-					["Backdrop"] = true,
-					["Upgraded"] = true,
+				["WeakAuras_elemental_blast_not_specced"] = {
 					["Colors"] = {
 						["Backdrop"] = {
 							1, -- [1]
@@ -23291,13 +25001,22 @@ MasqueDB = {
 						},
 					},
 					["SkinID"] = "ElvUIesque",
-					["Inherit"] = false,
-				},
-				["OmniBar_Vanish"] = {
-					["Inherit"] = false,
 					["Backdrop"] = true,
 				},
-				["WeakAuras_DKMXU0Z1YID"] = {
+				["WeakAuras_soak_2"] = {
+					["Colors"] = {
+						["Backdrop"] = {
+							1, -- [1]
+							1, -- [2]
+							1, -- [3]
+							1, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "ElvUIesque",
+				},
+				["WeakAuras_dlcLU17oAtn"] = {
 					["Backdrop"] = true,
 					["Upgraded"] = true,
 					["Colors"] = {
@@ -23339,7 +25058,9 @@ MasqueDB = {
 					["SkinID"] = "ElvUIesque",
 					["Inherit"] = false,
 				},
-				["WeakAuras_queen's_court_next_decree"] = {
+				["WeakAuras_M9IB))ZeY73"] = {
+					["Backdrop"] = true,
+					["Upgraded"] = true,
 					["Colors"] = {
 						["Backdrop"] = {
 							1, -- [1]
@@ -23349,10 +25070,9 @@ MasqueDB = {
 						},
 					},
 					["Inherit"] = false,
-					["Backdrop"] = true,
-					["SkinID"] = "ElvUIesque",
+					["SkinID"] = "ElvUIesque - No Backdrop",
 				},
-				["WeakAuras_M9IB))ZeY73"] = {
+				["WeakAuras_zxScg0nWQjw"] = {
 					["Backdrop"] = true,
 					["Upgraded"] = true,
 					["Colors"] = {
@@ -23380,9 +25100,7 @@ MasqueDB = {
 					["Inherit"] = false,
 					["SkinID"] = "ElvUIesque - No Backdrop",
 				},
-				["WeakAuras_FIVpuybpj7a"] = {
-					["Backdrop"] = true,
-					["Upgraded"] = true,
+				["WeakAuras_fuse_2"] = {
 					["Colors"] = {
 						["Backdrop"] = {
 							1, -- [1]
@@ -23391,10 +25109,11 @@ MasqueDB = {
 							1, -- [4]
 						},
 					},
-					["SkinID"] = "ElvUIesque",
 					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "ElvUIesque",
 				},
-				["WeakAuras_08:_charged_spear"] = {
+				["WeakAuras_living_bomb_target_off"] = {
 					["Colors"] = {
 						["Backdrop"] = {
 							1, -- [1]
@@ -23421,7 +25140,7 @@ MasqueDB = {
 					["Inherit"] = false,
 					["SkinID"] = "ElvUIesque - No Backdrop",
 				},
-				["WeakAuras_Cea4OhyDjcj"] = {
+				["WeakAuras_07ffCpM7v1k"] = {
 					["Backdrop"] = true,
 					["Upgraded"] = true,
 					["Colors"] = {
@@ -23462,9 +25181,7 @@ MasqueDB = {
 					["Backdrop"] = true,
 					["SkinID"] = "ElvUIesque",
 				},
-				["WeakAuras_NPTszh2Qx0y"] = {
-					["Backdrop"] = true,
-					["Upgraded"] = true,
+				["WeakAuras_azshara_x"] = {
 					["Colors"] = {
 						["Backdrop"] = {
 							1, -- [1]
@@ -23474,21 +25191,22 @@ MasqueDB = {
 						},
 					},
 					["Inherit"] = false,
-					["SkinID"] = "ElvUIesque - No Backdrop",
-				},
-				["WeakAuras_xvCnSULrYEv"] = {
 					["Backdrop"] = true,
-					["Upgraded"] = true,
-					["Colors"] = {
-						["Backdrop"] = {
-							1, -- [1]
-							1, -- [2]
-							1, -- [3]
-							1, -- [4]
-						},
-					},
 					["SkinID"] = "ElvUIesque",
+				},
+				["WeakAuras_MCEoj)Rl5sG"] = {
+					["Backdrop"] = true,
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Backdrop"] = {
+							1, -- [1]
+							1, -- [2]
+							1, -- [3]
+							1, -- [4]
+						},
+					},
 					["Inherit"] = false,
+					["SkinID"] = "ElvUIesque",
 				},
 				["WeakAuras_u)GPsp3s3j8"] = {
 					["Backdrop"] = true,
@@ -23517,7 +25235,9 @@ MasqueDB = {
 					["Backdrop"] = true,
 					["SkinID"] = "ElvUIesque",
 				},
-				["WeakAuras_undulation_2"] = {
+				["WeakAuras_tfE2iITS92X"] = {
+					["Backdrop"] = true,
+					["Upgraded"] = true,
 					["Colors"] = {
 						["Backdrop"] = {
 							1, -- [1]
@@ -23526,9 +25246,8 @@ MasqueDB = {
 							1, -- [4]
 						},
 					},
-					["Inherit"] = false,
-					["Backdrop"] = true,
 					["SkinID"] = "ElvUIesque",
+					["Inherit"] = false,
 				},
 				["WeakAuras_01pU8Y)b8MU"] = {
 					["Backdrop"] = true,
@@ -23544,50 +25263,7 @@ MasqueDB = {
 					["Inherit"] = false,
 					["SkinID"] = "ElvUIesque",
 				},
-				["WeakAuras_zt_-_nnogga's_party_cd_front_end24"] = {
-					["Colors"] = {
-						["Backdrop"] = {
-							1, -- [1]
-							1, -- [2]
-							1, -- [3]
-							1, -- [4]
-						},
-					},
-					["Inherit"] = false,
-					["Backdrop"] = true,
-					["SkinID"] = "ElvUIesque",
-				},
-				["OmniBar_Feign Death"] = {
-					["Inherit"] = false,
-					["Backdrop"] = true,
-				},
-				["WeakAuras_soak_2"] = {
-					["Colors"] = {
-						["Backdrop"] = {
-							1, -- [1]
-							1, -- [2]
-							1, -- [3]
-							1, -- [4]
-						},
-					},
-					["Inherit"] = false,
-					["Backdrop"] = true,
-					["SkinID"] = "ElvUIesque",
-				},
-				["WeakAuras_fuse_2"] = {
-					["Colors"] = {
-						["Backdrop"] = {
-							1, -- [1]
-							1, -- [2]
-							1, -- [3]
-							1, -- [4]
-						},
-					},
-					["Inherit"] = false,
-					["Backdrop"] = true,
-					["SkinID"] = "ElvUIesque",
-				},
-				["WeakAuras_IuUxHF6mvkB"] = {
+				["WeakAuras_hvn9mVYIlxA"] = {
 					["Backdrop"] = true,
 					["Upgraded"] = true,
 					["Colors"] = {
@@ -23598,14 +25274,50 @@ MasqueDB = {
 							1, -- [4]
 						},
 					},
-					["SkinID"] = "ElvUIesque",
+					["SkinID"] = "Epix",
 					["Inherit"] = false,
 				},
-				["OmniBar_Shadowfury"] = {
+				["WeakAuras_bV0HOq4hdVu"] = {
+					["Backdrop"] = true,
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Backdrop"] = {
+							1, -- [1]
+							1, -- [2]
+							1, -- [3]
+							1, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "ElvUIesque",
+				},
+				["WeakAuras_liquid_magma_totem_v2"] = {
+					["Colors"] = {
+						["Backdrop"] = {
+							1, -- [1]
+							1, -- [2]
+							1, -- [3]
+							1, -- [4]
+						},
+					},
 					["Inherit"] = false,
 					["Backdrop"] = true,
+					["SkinID"] = "ElvUIesque",
 				},
-				["WeakAuras_QJ36MbvexT9"] = {
+				["WeakAuras_call_lightning_pet"] = {
+					["Colors"] = {
+						["Backdrop"] = {
+							1, -- [1]
+							1, -- [2]
+							1, -- [3]
+							1, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "ElvUIesque",
+				},
+				["WeakAuras_ZVejj9oLgrT"] = {
 					["Backdrop"] = true,
 					["Upgraded"] = true,
 					["Colors"] = {
@@ -23619,7 +25331,11 @@ MasqueDB = {
 					["Inherit"] = false,
 					["SkinID"] = "ElvUIesque - No Backdrop",
 				},
-				["WeakAuras_supression_fire8"] = {
+				["OmniBar_Shadowfury"] = {
+					["Inherit"] = false,
+					["Backdrop"] = true,
+				},
+				["WeakAuras_cone_of_cold_2"] = {
 					["Colors"] = {
 						["Backdrop"] = {
 							1, -- [1]
@@ -23632,7 +25348,7 @@ MasqueDB = {
 					["Backdrop"] = true,
 					["SkinID"] = "ElvUIesque",
 				},
-				["WeakAuras_04_crush2"] = {
+				["WeakAuras_cleanse_spirit_cooldown_2"] = {
 					["Colors"] = {
 						["Backdrop"] = {
 							1, -- [1]
@@ -23643,6 +25359,20 @@ MasqueDB = {
 					},
 					["Inherit"] = false,
 					["Backdrop"] = true,
+					["SkinID"] = "ElvUIesque",
+				},
+				["WeakAuras_gyothkZCnNY"] = {
+					["Backdrop"] = true,
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Backdrop"] = {
+							1, -- [1]
+							1, -- [2]
+							1, -- [3]
+							1, -- [4]
+						},
+					},
+					["Inherit"] = false,
 					["SkinID"] = "ElvUIesque",
 				},
 				["WeakAuras_x1cBVv3as21"] = {
@@ -23659,9 +25389,7 @@ MasqueDB = {
 					["Inherit"] = false,
 					["SkinID"] = "ElvUIesque",
 				},
-				["WeakAuras_MCEoj)Rl5sG"] = {
-					["Backdrop"] = true,
-					["Upgraded"] = true,
+				["WeakAuras_flame_shock_(boss1)_4"] = {
 					["Colors"] = {
 						["Backdrop"] = {
 							1, -- [1]
@@ -23671,6 +25399,7 @@ MasqueDB = {
 						},
 					},
 					["Inherit"] = false,
+					["Backdrop"] = true,
 					["SkinID"] = "ElvUIesque",
 				},
 				["ElvUI_ActionBars"] = {
@@ -23686,7 +25415,7 @@ MasqueDB = {
 					["Backdrop"] = true,
 					["SkinID"] = "ElvUIesque",
 				},
-				["WeakAuras_ep6DoN06TAK"] = {
+				["WeakAuras_dxoTLsdLGWc"] = {
 					["Backdrop"] = true,
 					["Upgraded"] = true,
 					["Colors"] = {
@@ -23713,20 +25442,7 @@ MasqueDB = {
 					["Backdrop"] = true,
 					["SkinID"] = "ElvUIesque",
 				},
-				["WeakAuras_azshara_x"] = {
-					["Colors"] = {
-						["Backdrop"] = {
-							1, -- [1]
-							1, -- [2]
-							1, -- [3]
-							1, -- [4]
-						},
-					},
-					["Inherit"] = false,
-					["Backdrop"] = true,
-					["SkinID"] = "ElvUIesque",
-				},
-				["WeakAuras_mal261ovqs1"] = {
+				["WeakAuras_9Uew1GWD39q"] = {
 					["Backdrop"] = true,
 					["Upgraded"] = true,
 					["Colors"] = {
@@ -23740,11 +25456,7 @@ MasqueDB = {
 					["SkinID"] = "ElvUIesque",
 					["Inherit"] = false,
 				},
-				["OmniBar_Astral Shift"] = {
-					["Inherit"] = false,
-					["Backdrop"] = true,
-				},
-				["WeakAuras_icy_edge_-_active"] = {
+				["WeakAuras_dps_potion_noc"] = {
 					["Colors"] = {
 						["Backdrop"] = {
 							1, -- [1]
@@ -23756,6 +25468,24 @@ MasqueDB = {
 					["Inherit"] = false,
 					["Backdrop"] = true,
 					["SkinID"] = "ElvUIesque",
+				},
+				["OmniBar_Astral Shift"] = {
+					["Inherit"] = false,
+					["Backdrop"] = true,
+				},
+				["WeakAuras_w5oA()2zCbW"] = {
+					["Backdrop"] = true,
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Backdrop"] = {
+							1, -- [1]
+							1, -- [2]
+							1, -- [3]
+							1, -- [4]
+						},
+					},
+					["SkinID"] = "ElvUIesque",
+					["Inherit"] = false,
 				},
 				["WeakAuras_7q(KU6b(M2T"] = {
 					["Backdrop"] = true,
@@ -23771,20 +25501,6 @@ MasqueDB = {
 					["Inherit"] = false,
 					["SkinID"] = "ElvUIesque",
 				},
-				["WeakAuras_1GjyozG3Rui"] = {
-					["Backdrop"] = true,
-					["Upgraded"] = true,
-					["Colors"] = {
-						["Backdrop"] = {
-							1, -- [1]
-							1, -- [2]
-							1, -- [3]
-							1, -- [4]
-						},
-					},
-					["Inherit"] = false,
-					["SkinID"] = "ElvUIesque - No Backdrop",
-				},
 				["WeakAuras_0G3r1bY2PL7"] = {
 					["Backdrop"] = true,
 					["Upgraded"] = true,
@@ -23799,21 +25515,7 @@ MasqueDB = {
 					["SkinID"] = "ElvUIesque",
 					["Inherit"] = false,
 				},
-				["WeakAuras_bV0HOq4hdVu"] = {
-					["Backdrop"] = true,
-					["Upgraded"] = true,
-					["Colors"] = {
-						["Backdrop"] = {
-							1, -- [1]
-							1, -- [2]
-							1, -- [3]
-							1, -- [4]
-						},
-					},
-					["Inherit"] = false,
-					["SkinID"] = "ElvUIesque",
-				},
-				["WeakAuras_qeSxMEOWsMF"] = {
+				["WeakAuras_mal261ovqs1"] = {
 					["Backdrop"] = true,
 					["Upgraded"] = true,
 					["Colors"] = {
@@ -23827,7 +25529,23 @@ MasqueDB = {
 					["SkinID"] = "ElvUIesque",
 					["Inherit"] = false,
 				},
-				["WeakAuras_exposedelements_debuff"] = {
+				["WeakAuras_tbaDCUjP8ut"] = {
+					["Backdrop"] = true,
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Backdrop"] = {
+							1, -- [1]
+							1, -- [2]
+							1, -- [3]
+							1, -- [4]
+						},
+					},
+					["SkinID"] = "Epix",
+					["Inherit"] = false,
+				},
+				["WeakAuras_poXVs9yYBg4"] = {
+					["Backdrop"] = true,
+					["Upgraded"] = true,
 					["Colors"] = {
 						["Backdrop"] = {
 							1, -- [1]
@@ -23837,7 +25555,21 @@ MasqueDB = {
 						},
 					},
 					["SkinID"] = "ElvUIesque",
+					["Inherit"] = false,
+				},
+				["WeakAuras_RybRpRMOpYD"] = {
 					["Backdrop"] = true,
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Backdrop"] = {
+							1, -- [1]
+							1, -- [2]
+							1, -- [3]
+							1, -- [4]
+						},
+					},
+					["SkinID"] = "ElvUIesque",
+					["Inherit"] = false,
 				},
 				["WeakAuras_frost_nova_2"] = {
 					["Colors"] = {
@@ -23879,9 +25611,7 @@ MasqueDB = {
 					["SkinID"] = "ElvUIesque",
 					["Inherit"] = false,
 				},
-				["WeakAuras_WEjcZh1jgBp"] = {
-					["Backdrop"] = true,
-					["Upgraded"] = true,
+				["WeakAuras_icefury_v2_2"] = {
 					["Colors"] = {
 						["Backdrop"] = {
 							1, -- [1]
@@ -23890,8 +25620,9 @@ MasqueDB = {
 							1, -- [4]
 						},
 					},
-					["SkinID"] = "Epix",
 					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "ElvUIesque",
 				},
 				["WeakAuras_rop__3"] = {
 					["Colors"] = {
@@ -23906,20 +25637,7 @@ MasqueDB = {
 					["Backdrop"] = true,
 					["SkinID"] = "ElvUIesque",
 				},
-				["WeakAuras_demonic_consumption_amount"] = {
-					["Colors"] = {
-						["Backdrop"] = {
-							1, -- [1]
-							1, -- [2]
-							1, -- [3]
-							1, -- [4]
-						},
-					},
-					["Inherit"] = false,
-					["Backdrop"] = true,
-					["SkinID"] = "ElvUIesque",
-				},
-				["WeakAuras_5UaQwxGVFBS"] = {
+				["WeakAuras_Jeo8NKYrxhJ"] = {
 					["Backdrop"] = true,
 					["Upgraded"] = true,
 					["Colors"] = {
@@ -23933,7 +25651,7 @@ MasqueDB = {
 					["SkinID"] = "ElvUIesque",
 					["Inherit"] = false,
 				},
-				["WeakAuras_UhSXd03PNAl"] = {
+				["WeakAuras_st5VajIsXHE"] = {
 					["Backdrop"] = true,
 					["Upgraded"] = true,
 					["Colors"] = {
@@ -23947,7 +25665,7 @@ MasqueDB = {
 					["SkinID"] = "ElvUIesque",
 					["Inherit"] = false,
 				},
-				["WeakAuras_9Uew1GWD39q"] = {
+				["WeakAuras_zRy8RZrCjVX"] = {
 					["Backdrop"] = true,
 					["Upgraded"] = true,
 					["Colors"] = {
@@ -23961,7 +25679,20 @@ MasqueDB = {
 					["SkinID"] = "ElvUIesque",
 					["Inherit"] = false,
 				},
-				["WeakAuras_07ffCpM7v1k"] = {
+				["WeakAuras_twitching_tentacle_of_xalzaix_23"] = {
+					["Colors"] = {
+						["Backdrop"] = {
+							1, -- [1]
+							1, -- [2]
+							1, -- [3]
+							1, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "ElvUIesque",
+				},
+				["WeakAuras_TW0kvOpYST5"] = {
 					["Backdrop"] = true,
 					["Upgraded"] = true,
 					["Colors"] = {
@@ -23972,8 +25703,8 @@ MasqueDB = {
 							1, -- [4]
 						},
 					},
-					["SkinID"] = "ElvUIesque",
 					["Inherit"] = false,
+					["SkinID"] = "ElvUIesque - No Backdrop",
 				},
 				["WeakAuras_duelist_dash9"] = {
 					["Colors"] = {
@@ -23988,7 +25719,9 @@ MasqueDB = {
 					["Backdrop"] = true,
 					["SkinID"] = "ElvUIesque",
 				},
-				["WeakAuras_astral_shift_42"] = {
+				["WeakAuras_VrrxCuAcrx6"] = {
+					["Backdrop"] = true,
+					["Upgraded"] = true,
 					["Colors"] = {
 						["Backdrop"] = {
 							1, -- [1]
@@ -23997,9 +25730,8 @@ MasqueDB = {
 							1, -- [4]
 						},
 					},
-					["Inherit"] = false,
-					["Backdrop"] = true,
 					["SkinID"] = "ElvUIesque",
+					["Inherit"] = false,
 				},
 				["WeakAuras_repentance-3"] = {
 					["Colors"] = {
@@ -24027,35 +25759,7 @@ MasqueDB = {
 					["Backdrop"] = true,
 					["SkinID"] = "ElvUIesque",
 				},
-				["WeakAuras_)x)eG7yqHQH"] = {
-					["Backdrop"] = true,
-					["Upgraded"] = true,
-					["Colors"] = {
-						["Backdrop"] = {
-							1, -- [1]
-							1, -- [2]
-							1, -- [3]
-							1, -- [4]
-						},
-					},
-					["SkinID"] = "Epix",
-					["Inherit"] = false,
-				},
-				["WeakAuras_tbaDCUjP8ut"] = {
-					["Backdrop"] = true,
-					["Upgraded"] = true,
-					["Colors"] = {
-						["Backdrop"] = {
-							1, -- [1]
-							1, -- [2]
-							1, -- [3]
-							1, -- [4]
-						},
-					},
-					["SkinID"] = "Epix",
-					["Inherit"] = false,
-				},
-				["WeakAuras_unlimited_power"] = {
+				["WeakAuras_zt_-_nnogga's_party_cd_front_end14"] = {
 					["Colors"] = {
 						["Backdrop"] = {
 							1, -- [1]
@@ -24068,7 +25772,7 @@ MasqueDB = {
 					["Backdrop"] = true,
 					["SkinID"] = "ElvUIesque",
 				},
-				["WeakAuras_RybRpRMOpYD"] = {
+				["WeakAuras_okRVTzZVrcV"] = {
 					["Backdrop"] = true,
 					["Upgraded"] = true,
 					["Colors"] = {
@@ -24081,6 +25785,33 @@ MasqueDB = {
 					},
 					["SkinID"] = "ElvUIesque",
 					["Inherit"] = false,
+				},
+				["WeakAuras_zt_-_nnogga's_party_cd_front_end20"] = {
+					["Colors"] = {
+						["Backdrop"] = {
+							1, -- [1]
+							1, -- [2]
+							1, -- [3]
+							1, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "ElvUIesque",
+				},
+				["WeakAuras_Rk9u1j7Unh4"] = {
+					["Backdrop"] = true,
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Backdrop"] = {
+							1, -- [1]
+							1, -- [2]
+							1, -- [3]
+							1, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "ElvUIesque - No Backdrop",
 				},
 				["WeakAuras_fire_elemental_v3"] = {
 					["Colors"] = {
@@ -24095,7 +25826,9 @@ MasqueDB = {
 					["Backdrop"] = true,
 					["SkinID"] = "ElvUIesque",
 				},
-				["WeakAuras_march:_keep_moving"] = {
+				["WeakAuras_G1uA3(BGrqS"] = {
+					["Backdrop"] = true,
+					["Upgraded"] = true,
 					["Colors"] = {
 						["Backdrop"] = {
 							1, -- [1]
@@ -24104,9 +25837,8 @@ MasqueDB = {
 							1, -- [4]
 						},
 					},
-					["Inherit"] = false,
-					["Backdrop"] = true,
 					["SkinID"] = "ElvUIesque",
+					["Inherit"] = false,
 				},
 				["WeakAuras_yVJzRCDorvD"] = {
 					["Backdrop"] = true,
@@ -24122,7 +25854,7 @@ MasqueDB = {
 					["Inherit"] = false,
 					["SkinID"] = "ElvUIesque - No Backdrop",
 				},
-				["WeakAuras_G1uA3(BGrqS"] = {
+				["WeakAuras_8JIom6MKKa)"] = {
 					["Backdrop"] = true,
 					["Upgraded"] = true,
 					["Colors"] = {
@@ -24162,7 +25894,9 @@ MasqueDB = {
 					["Backdrop"] = true,
 					["SkinID"] = "ElvUIesque",
 				},
-				["WeakAuras_call_lightning_pet"] = {
+				["WeakAuras_EeGPh60vJq4"] = {
+					["Backdrop"] = true,
+					["Upgraded"] = true,
 					["Colors"] = {
 						["Backdrop"] = {
 							1, -- [1]
@@ -24171,11 +25905,10 @@ MasqueDB = {
 							1, -- [4]
 						},
 					},
+					["SkinID"] = "Epix",
 					["Inherit"] = false,
-					["Backdrop"] = true,
-					["SkinID"] = "ElvUIesque",
 				},
-				["WeakAuras_final_blast6"] = {
+				["WeakAuras_liquid_magma_totem_22"] = {
 					["Colors"] = {
 						["Backdrop"] = {
 							1, -- [1]
@@ -24201,7 +25934,20 @@ MasqueDB = {
 					["Backdrop"] = true,
 					["SkinID"] = "ElvUIesque",
 				},
-				["WeakAuras_Tb3rtGkZ58c"] = {
+				["WeakAuras_totem_mastery_none"] = {
+					["Colors"] = {
+						["Backdrop"] = {
+							1, -- [1]
+							1, -- [2]
+							1, -- [3]
+							1, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "ElvUIesque",
+				},
+				["WeakAuras_)NuNMm(B5CO"] = {
 					["Backdrop"] = true,
 					["Upgraded"] = true,
 					["Colors"] = {
@@ -24215,33 +25961,9 @@ MasqueDB = {
 					["SkinID"] = "ElvUIesque",
 					["Inherit"] = false,
 				},
-				["WeakAuras_8JIom6MKKa)"] = {
-					["Backdrop"] = true,
-					["Upgraded"] = true,
-					["Colors"] = {
-						["Backdrop"] = {
-							1, -- [1]
-							1, -- [2]
-							1, -- [3]
-							1, -- [4]
-						},
-					},
-					["SkinID"] = "ElvUIesque",
+				["WeakAuras_test_2"] = {
 					["Inherit"] = false,
-				},
-				["WeakAuras_)riJx4Vxfgf"] = {
-					["Backdrop"] = true,
-					["Upgraded"] = true,
-					["Colors"] = {
-						["Backdrop"] = {
-							1, -- [1]
-							1, -- [2]
-							1, -- [3]
-							1, -- [4]
-						},
-					},
 					["SkinID"] = "ElvUIesque",
-					["Inherit"] = false,
 				},
 				["WeakAuras_c)P9EKz0OlM"] = {
 					["Backdrop"] = true,
@@ -24257,7 +25979,9 @@ MasqueDB = {
 					["Inherit"] = false,
 					["SkinID"] = "ElvUIesque - No Backdrop",
 				},
-				["WeakAuras_icefury_v2_2"] = {
+				["WeakAuras_oqE4BfkoNcy"] = {
+					["Backdrop"] = true,
+					["Upgraded"] = true,
 					["Colors"] = {
 						["Backdrop"] = {
 							1, -- [1]
@@ -24267,7 +25991,6 @@ MasqueDB = {
 						},
 					},
 					["Inherit"] = false,
-					["Backdrop"] = true,
 					["SkinID"] = "ElvUIesque",
 				},
 				["OmniBar_Dragon's Breath"] = {
@@ -24288,9 +26011,7 @@ MasqueDB = {
 					["SkinID"] = "ElvUIesque",
 					["Inherit"] = false,
 				},
-				["WeakAuras_(GFZiI4FjpT"] = {
-					["Backdrop"] = true,
-					["Upgraded"] = true,
+				["WeakAuras_savage_cleave3"] = {
 					["Colors"] = {
 						["Backdrop"] = {
 							1, -- [1]
@@ -24299,10 +26020,11 @@ MasqueDB = {
 							1, -- [4]
 						},
 					},
+					["Inherit"] = false,
+					["Backdrop"] = true,
 					["SkinID"] = "ElvUIesque",
-					["Inherit"] = false,
 				},
-				["WeakAuras_buy9vstgqpA"] = {
+				["WeakAuras_wDw5hdRpKMR"] = {
 					["Backdrop"] = true,
 					["Upgraded"] = true,
 					["Colors"] = {
@@ -24313,8 +26035,8 @@ MasqueDB = {
 							1, -- [4]
 						},
 					},
-					["SkinID"] = "Epix",
 					["Inherit"] = false,
+					["SkinID"] = "ElvUIesque - No Backdrop",
 				},
 				["WeakAuras_7KqXdmK8rKO"] = {
 					["Backdrop"] = true,
@@ -24330,7 +26052,7 @@ MasqueDB = {
 					["SkinID"] = "Epix",
 					["Inherit"] = false,
 				},
-				["WeakAuras_07:_manifest_nightmares"] = {
+				["WeakAuras_stormkeeper_buff+stacks"] = {
 					["Colors"] = {
 						["Backdrop"] = {
 							1, -- [1]
@@ -24382,7 +26104,20 @@ MasqueDB = {
 					["Backdrop"] = true,
 					["SkinID"] = "ElvUIesque",
 				},
-				["WeakAuras_jAVXpY6ildk"] = {
+				["WeakAuras_08:_arcane_orb_timer"] = {
+					["Colors"] = {
+						["Backdrop"] = {
+							1, -- [1]
+							1, -- [2]
+							1, -- [3]
+							1, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "ElvUIesque",
+				},
+				["WeakAuras_G2HHNNuQTSK"] = {
 					["Backdrop"] = true,
 					["Upgraded"] = true,
 					["Colors"] = {
@@ -24393,37 +26128,24 @@ MasqueDB = {
 							1, -- [4]
 						},
 					},
+					["SkinID"] = "ElvUIesque - No Backdrop",
 					["Inherit"] = false,
-					["SkinID"] = "ElvUIesque",
+				},
+				["WeakAuras_buy9vstgqpA"] = {
+					["Backdrop"] = true,
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Backdrop"] = {
+							1, -- [1]
+							1, -- [2]
+							1, -- [3]
+							1, -- [4]
+						},
+					},
+					["SkinID"] = "Epix",
+					["Inherit"] = false,
 				},
 				["WeakAuras_ZV2mdV4nGRQ"] = {
-					["Backdrop"] = true,
-					["Upgraded"] = true,
-					["Colors"] = {
-						["Backdrop"] = {
-							1, -- [1]
-							1, -- [2]
-							1, -- [3]
-							1, -- [4]
-						},
-					},
-					["SkinID"] = "ElvUIesque",
-					["Inherit"] = false,
-				},
-				["WeakAuras_totem_mastery_inactive"] = {
-					["Colors"] = {
-						["Backdrop"] = {
-							1, -- [1]
-							1, -- [2]
-							1, -- [3]
-							1, -- [4]
-						},
-					},
-					["Inherit"] = false,
-					["Backdrop"] = true,
-					["SkinID"] = "ElvUIesque",
-				},
-				["WeakAuras_okRVTzZVrcV"] = {
 					["Backdrop"] = true,
 					["Upgraded"] = true,
 					["Colors"] = {
@@ -24451,7 +26173,9 @@ MasqueDB = {
 					["SkinID"] = "ElvUIesque",
 					["Inherit"] = false,
 				},
-				["WeakAuras_06:_decree:_stand_alone"] = {
+				["WeakAuras_Stswv2KJwbV"] = {
+					["Backdrop"] = true,
+					["Upgraded"] = true,
 					["Colors"] = {
 						["Backdrop"] = {
 							1, -- [1]
@@ -24460,11 +26184,12 @@ MasqueDB = {
 							1, -- [4]
 						},
 					},
+					["SkinID"] = "ElvUIesque - No Backdrop",
 					["Inherit"] = false,
-					["Backdrop"] = true,
-					["SkinID"] = "ElvUIesque",
 				},
-				["WeakAuras_zt_-_nnogga's_party_cd_front_end20"] = {
+				["WeakAuras_a0RkBwuxc)k"] = {
+					["Backdrop"] = true,
+					["Upgraded"] = true,
 					["Colors"] = {
 						["Backdrop"] = {
 							1, -- [1]
@@ -24473,9 +26198,8 @@ MasqueDB = {
 							1, -- [4]
 						},
 					},
+					["SkinID"] = "Epix",
 					["Inherit"] = false,
-					["Backdrop"] = true,
-					["SkinID"] = "ElvUIesque",
 				},
 				["WeakAuras_p(oJp23JhJh"] = {
 					["Backdrop"] = true,
@@ -24505,7 +26229,7 @@ MasqueDB = {
 					["SkinID"] = "Epix",
 					["Inherit"] = false,
 				},
-				["WeakAuras_MKIdJLHvA(Q"] = {
+				["WeakAuras_d86DNwSU0OQ"] = {
 					["Backdrop"] = true,
 					["Upgraded"] = true,
 					["Colors"] = {
@@ -24516,10 +26240,10 @@ MasqueDB = {
 							1, -- [4]
 						},
 					},
-					["SkinID"] = "ElvUIesque",
 					["Inherit"] = false,
+					["SkinID"] = "ElvUIesque - No Backdrop",
 				},
-				["WeakAuras_oqE4BfkoNcy"] = {
+				["WeakAuras_GOQ0UCn61Q1"] = {
 					["Backdrop"] = true,
 					["Upgraded"] = true,
 					["Colors"] = {
@@ -24530,8 +26254,8 @@ MasqueDB = {
 							1, -- [4]
 						},
 					},
-					["Inherit"] = false,
 					["SkinID"] = "ElvUIesque",
+					["Inherit"] = false,
 				},
 				["WeakAuras_anchors_wa_to_spawn_of_g'huun_nameplate_if_it_targets_you"] = {
 					["Colors"] = {
@@ -24546,7 +26270,7 @@ MasqueDB = {
 					["Backdrop"] = true,
 					["SkinID"] = "ElvUIesque",
 				},
-				["WeakAuras_zt_-_nnogga's_party_cd_front_end7"] = {
+				["WeakAuras_emote_soak_solo"] = {
 					["Colors"] = {
 						["Backdrop"] = {
 							1, -- [1]
@@ -24559,7 +26283,7 @@ MasqueDB = {
 					["Backdrop"] = true,
 					["SkinID"] = "ElvUIesque",
 				},
-				["WeakAuras_trap2"] = {
+				["WeakAuras_zt_-_nnogga's_party_cd_front_end7"] = {
 					["Colors"] = {
 						["Backdrop"] = {
 							1, -- [1]
@@ -24600,7 +26324,7 @@ MasqueDB = {
 					["Inherit"] = false,
 					["SkinID"] = "ElvUIesque",
 				},
-				["WeakAuras_a0RkBwuxc)k"] = {
+				["WeakAuras_MKIdJLHvA(Q"] = {
 					["Backdrop"] = true,
 					["Upgraded"] = true,
 					["Colors"] = {
@@ -24611,7 +26335,7 @@ MasqueDB = {
 							1, -- [4]
 						},
 					},
-					["SkinID"] = "Epix",
+					["SkinID"] = "ElvUIesque",
 					["Inherit"] = false,
 				},
 				["WeakAuras_drained_soul_2"] = {
@@ -24627,7 +26351,7 @@ MasqueDB = {
 					["Backdrop"] = true,
 					["SkinID"] = "ElvUIesque",
 				},
-				["WeakAuras_GOQ0UCn61Q1"] = {
+				["WeakAuras_Z6mbw8vbyZJ"] = {
 					["Backdrop"] = true,
 					["Upgraded"] = true,
 					["Colors"] = {
@@ -24638,8 +26362,8 @@ MasqueDB = {
 							1, -- [4]
 						},
 					},
-					["SkinID"] = "ElvUIesque",
 					["Inherit"] = false,
+					["SkinID"] = "ElvUIesque",
 				},
 				["WeakAuras_P(FsgqzjiSe"] = {
 					["Backdrop"] = true,
@@ -24655,7 +26379,21 @@ MasqueDB = {
 					["SkinID"] = "ElvUIesque",
 					["Inherit"] = false,
 				},
-				["WeakAuras_stormkeeper_buff+stacks"] = {
+				["WeakAuras_gpwsDtz)hQc"] = {
+					["Backdrop"] = true,
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Backdrop"] = {
+							1, -- [1]
+							1, -- [2]
+							1, -- [3]
+							1, -- [4]
+						},
+					},
+					["SkinID"] = "ElvUIesque",
+					["Inherit"] = false,
+				},
+				["WeakAuras_trap2"] = {
 					["Colors"] = {
 						["Backdrop"] = {
 							1, -- [1]
@@ -24668,11 +26406,7 @@ MasqueDB = {
 					["Backdrop"] = true,
 					["SkinID"] = "ElvUIesque",
 				},
-				["WeakAuras_test_2"] = {
-					["Inherit"] = false,
-					["SkinID"] = "ElvUIesque",
-				},
-				["WeakAuras_RIvsOoTUpkB"] = {
+				["WeakAuras_wBpFYJHm2xC"] = {
 					["Backdrop"] = true,
 					["Upgraded"] = true,
 					["Colors"] = {
@@ -24700,33 +26434,7 @@ MasqueDB = {
 					["Inherit"] = false,
 					["SkinID"] = "ElvUIesque",
 				},
-				["WeakAuras_08:_arcane_orb_timer"] = {
-					["Colors"] = {
-						["Backdrop"] = {
-							1, -- [1]
-							1, -- [2]
-							1, -- [3]
-							1, -- [4]
-						},
-					},
-					["Inherit"] = false,
-					["Backdrop"] = true,
-					["SkinID"] = "ElvUIesque",
-				},
-				["WeakAuras_heavy_slash4"] = {
-					["Colors"] = {
-						["Backdrop"] = {
-							1, -- [1]
-							1, -- [2]
-							1, -- [3]
-							1, -- [4]
-						},
-					},
-					["Inherit"] = false,
-					["Backdrop"] = true,
-					["SkinID"] = "ElvUIesque",
-				},
-				["WeakAuras_1alKkP2WYzv"] = {
+				["WeakAuras_9GObXiKOd)9"] = {
 					["Backdrop"] = true,
 					["Upgraded"] = true,
 					["Colors"] = {
@@ -24737,8 +26445,36 @@ MasqueDB = {
 							1, -- [4]
 						},
 					},
-					["Inherit"] = false,
 					["SkinID"] = "ElvUIesque",
+					["Inherit"] = false,
+				},
+				["WeakAuras_1943(Wc)Whv"] = {
+					["Backdrop"] = true,
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Backdrop"] = {
+							1, -- [1]
+							1, -- [2]
+							1, -- [3]
+							1, -- [4]
+						},
+					},
+					["SkinID"] = "ElvUIesque",
+					["Inherit"] = false,
+				},
+				["WeakAuras_DMXO3eSqWON"] = {
+					["Backdrop"] = true,
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Backdrop"] = {
+							1, -- [1]
+							1, -- [2]
+							1, -- [3]
+							1, -- [4]
+						},
+					},
+					["SkinID"] = "ElvUIesque",
+					["Inherit"] = false,
 				},
 				["WeakAuras_bait_add_p2"] = {
 					["Colors"] = {
@@ -24753,7 +26489,9 @@ MasqueDB = {
 					["Backdrop"] = true,
 					["SkinID"] = "ElvUIesque",
 				},
-				["WeakAuras_elemental_blast_not_specced"] = {
+				["WeakAuras_vkNzxU(fgF1"] = {
+					["Backdrop"] = true,
+					["Upgraded"] = true,
 					["Colors"] = {
 						["Backdrop"] = {
 							1, -- [1]
@@ -24762,8 +26500,8 @@ MasqueDB = {
 							1, -- [4]
 						},
 					},
-					["SkinID"] = "ElvUIesque",
-					["Backdrop"] = true,
+					["SkinID"] = "ElvUIesque - No Backdrop",
+					["Inherit"] = false,
 				},
 				["WeakAuras_W4eeYaeuy0m"] = {
 					["Backdrop"] = true,
@@ -24792,23 +26530,11 @@ MasqueDB = {
 					["Backdrop"] = true,
 					["SkinID"] = "ElvUIesque",
 				},
-				["WeakAuras_qFIbpmJax7w"] = {
-					["Backdrop"] = true,
-					["Upgraded"] = true,
-					["Colors"] = {
-						["Backdrop"] = {
-							1, -- [1]
-							1, -- [2]
-							1, -- [3]
-							1, -- [4]
-						},
-					},
-					["SkinID"] = "ElvUIesque",
+				["OmniBar_Coordinated Assault"] = {
 					["Inherit"] = false,
+					["Backdrop"] = true,
 				},
-				["WeakAuras_cGneotxewRw"] = {
-					["Backdrop"] = true,
-					["Upgraded"] = true,
+				["WeakAuras_icicles"] = {
 					["Colors"] = {
 						["Backdrop"] = {
 							1, -- [1]
@@ -24817,8 +26543,9 @@ MasqueDB = {
 							1, -- [4]
 						},
 					},
-					["SkinID"] = "ElvUIesque",
 					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "ElvUIesque",
 				},
 				["WeakAuras_0uoU5(hJGkj"] = {
 					["Backdrop"] = true,
@@ -24834,7 +26561,7 @@ MasqueDB = {
 					["Inherit"] = false,
 					["SkinID"] = "ElvUIesque - No Backdrop",
 				},
-				["WeakAuras_DMXO3eSqWON"] = {
+				["WeakAuras_rSF56VfWp)X"] = {
 					["Backdrop"] = true,
 					["Upgraded"] = true,
 					["Colors"] = {
@@ -24845,16 +26572,23 @@ MasqueDB = {
 							1, -- [4]
 						},
 					},
+					["Inherit"] = false,
+					["SkinID"] = "ElvUIesque - No Backdrop",
+				},
+				["WeakAuras_fire_elemental_2_-_active"] = {
+					["Colors"] = {
+						["Backdrop"] = {
+							1, -- [1]
+							1, -- [2]
+							1, -- [3]
+							1, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["Backdrop"] = true,
 					["SkinID"] = "ElvUIesque",
-					["Inherit"] = false,
 				},
-				["OmniBar_Pummel"] = {
-					["Inherit"] = false,
-					["Backdrop"] = true,
-				},
-				["WeakAuras_Z6mbw8vbyZJ"] = {
-					["Backdrop"] = true,
-					["Upgraded"] = true,
+				["WeakAuras_08:_arcane_orb_soak"] = {
 					["Colors"] = {
 						["Backdrop"] = {
 							1, -- [1]
@@ -24864,6 +26598,7 @@ MasqueDB = {
 						},
 					},
 					["Inherit"] = false,
+					["Backdrop"] = true,
 					["SkinID"] = "ElvUIesque",
 				},
 				["WeakAuras_1h(h9shEype"] = {
@@ -24908,20 +26643,6 @@ MasqueDB = {
 					["Inherit"] = false,
 					["SkinID"] = "ElvUIesque - No Backdrop",
 				},
-				["WeakAuras_wBpFYJHm2xC"] = {
-					["Backdrop"] = true,
-					["Upgraded"] = true,
-					["Colors"] = {
-						["Backdrop"] = {
-							1, -- [1]
-							1, -- [2]
-							1, -- [3]
-							1, -- [4]
-						},
-					},
-					["SkinID"] = "ElvUIesque",
-					["Inherit"] = false,
-				},
 				["WeakAuras_fire_elemental_duration_3"] = {
 					["Colors"] = {
 						["Backdrop"] = {
@@ -24935,7 +26656,7 @@ MasqueDB = {
 					["Backdrop"] = true,
 					["SkinID"] = "ElvUIesque",
 				},
-				["WeakAuras_9c2NLbB3plp"] = {
+				["WeakAuras_bV93L7IyTNz"] = {
 					["Backdrop"] = true,
 					["Upgraded"] = true,
 					["Colors"] = {
@@ -24949,7 +26670,7 @@ MasqueDB = {
 					["Inherit"] = false,
 					["SkinID"] = "ElvUIesque - No Backdrop",
 				},
-				["WeakAuras_08_tidal_shroud3"] = {
+				["WeakAuras_zt_-_nnogga's_party_cd_front_end17"] = {
 					["Colors"] = {
 						["Backdrop"] = {
 							1, -- [1]
@@ -24961,6 +26682,20 @@ MasqueDB = {
 					["Inherit"] = false,
 					["Backdrop"] = true,
 					["SkinID"] = "ElvUIesque",
+				},
+				["WeakAuras_icXNkAsNr71"] = {
+					["Backdrop"] = true,
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Backdrop"] = {
+							1, -- [1]
+							1, -- [2]
+							1, -- [3]
+							1, -- [4]
+						},
+					},
+					["SkinID"] = "Epix",
+					["Inherit"] = false,
 				},
 				["WeakAuras_0lZH4XyUdXz"] = {
 					["Backdrop"] = true,
@@ -24990,7 +26725,9 @@ MasqueDB = {
 					["SkinID"] = "Epix",
 					["Inherit"] = false,
 				},
-				["WeakAuras_march_2"] = {
+				["WeakAuras_RKNXXX9mNK5"] = {
+					["Backdrop"] = true,
+					["Upgraded"] = true,
 					["Colors"] = {
 						["Backdrop"] = {
 							1, -- [1]
@@ -25000,10 +26737,11 @@ MasqueDB = {
 						},
 					},
 					["Inherit"] = false,
-					["Backdrop"] = true,
 					["SkinID"] = "ElvUIesque",
 				},
-				["WeakAuras_crest_of_pa'ku_2"] = {
+				["WeakAuras_pJXdgckdXwP"] = {
+					["Backdrop"] = true,
+					["Upgraded"] = true,
 					["Colors"] = {
 						["Backdrop"] = {
 							1, -- [1]
@@ -25013,10 +26751,9 @@ MasqueDB = {
 						},
 					},
 					["Inherit"] = false,
-					["Backdrop"] = true,
-					["SkinID"] = "ElvUIesque",
+					["SkinID"] = "ElvUIesque - No Backdrop",
 				},
-				["WeakAuras_zt_-_nnogga's_party_cd_front_end4"] = {
+				["WeakAuras_icicles>1"] = {
 					["Colors"] = {
 						["Backdrop"] = {
 							1, -- [1]
@@ -25056,7 +26793,7 @@ MasqueDB = {
 					["Backdrop"] = true,
 					["SkinID"] = "ElvUIesque",
 				},
-				["WeakAuras_qJNdd85QZg5"] = {
+				["WeakAuras_IH7MxAe3tjg"] = {
 					["Backdrop"] = true,
 					["Upgraded"] = true,
 					["Colors"] = {
@@ -25084,7 +26821,7 @@ MasqueDB = {
 					["Inherit"] = false,
 					["SkinID"] = "ElvUIesque - No Backdrop",
 				},
-				["WeakAuras_AhEVyg3rIgh"] = {
+				["WeakAuras_cGneotxewRw"] = {
 					["Backdrop"] = true,
 					["Upgraded"] = true,
 					["Colors"] = {
@@ -25098,20 +26835,13 @@ MasqueDB = {
 					["SkinID"] = "ElvUIesque",
 					["Inherit"] = false,
 				},
-				["WeakAuras_fire_elemental_2_-_active"] = {
-					["Colors"] = {
-						["Backdrop"] = {
-							1, -- [1]
-							1, -- [2]
-							1, -- [3]
-							1, -- [4]
-						},
-					},
+				["OmniBar_Pummel"] = {
 					["Inherit"] = false,
 					["Backdrop"] = true,
-					["SkinID"] = "ElvUIesque",
 				},
-				["WeakAuras_zt_-_nnogga's_party_cd_front_end17"] = {
+				["WeakAuras_g40EFUcQ7q8"] = {
+					["Backdrop"] = true,
+					["Upgraded"] = true,
 					["Colors"] = {
 						["Backdrop"] = {
 							1, -- [1]
@@ -25120,9 +26850,8 @@ MasqueDB = {
 							1, -- [4]
 						},
 					},
+					["SkinID"] = "Epix",
 					["Inherit"] = false,
-					["Backdrop"] = true,
-					["SkinID"] = "ElvUIesque",
 				},
 				["WeakAuras_SsQWDs5PQTa"] = {
 					["Backdrop"] = true,
@@ -25206,7 +26935,7 @@ MasqueDB = {
 					["Backdrop"] = true,
 					["SkinID"] = "ElvUIesque",
 				},
-				["WeakAuras_RKNXXX9mNK5"] = {
+				["WeakAuras_fsrPaWdqEgf"] = {
 					["Backdrop"] = true,
 					["Upgraded"] = true,
 					["Colors"] = {
@@ -25217,8 +26946,22 @@ MasqueDB = {
 							1, -- [4]
 						},
 					},
-					["Inherit"] = false,
 					["SkinID"] = "ElvUIesque",
+					["Inherit"] = false,
+				},
+				["WeakAuras_i2CJd0XgSOO"] = {
+					["Backdrop"] = true,
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Backdrop"] = {
+							1, -- [1]
+							1, -- [2]
+							1, -- [3]
+							1, -- [4]
+						},
+					},
+					["SkinID"] = "ElvUIesque",
+					["Inherit"] = false,
 				},
 				["WeakAuras_MZcWw494L6h"] = {
 					["Backdrop"] = true,
@@ -25234,65 +26977,7 @@ MasqueDB = {
 					["SkinID"] = "ElvUIesque",
 					["Inherit"] = false,
 				},
-				["WeakAuras_duelist_dash10"] = {
-					["Colors"] = {
-						["Backdrop"] = {
-							1, -- [1]
-							1, -- [2]
-							1, -- [3]
-							1, -- [4]
-						},
-					},
-					["Inherit"] = false,
-					["Backdrop"] = true,
-					["SkinID"] = "ElvUIesque",
-				},
-				["WeakAuras_poXVs9yYBg4"] = {
-					["Backdrop"] = true,
-					["Upgraded"] = true,
-					["Colors"] = {
-						["Backdrop"] = {
-							1, -- [1]
-							1, -- [2]
-							1, -- [3]
-							1, -- [4]
-						},
-					},
-					["SkinID"] = "ElvUIesque",
-					["Inherit"] = false,
-				},
-				["WeakAuras_IH7MxAe3tjg"] = {
-					["Backdrop"] = true,
-					["Upgraded"] = true,
-					["Colors"] = {
-						["Backdrop"] = {
-							1, -- [1]
-							1, -- [2]
-							1, -- [3]
-							1, -- [4]
-						},
-					},
-					["SkinID"] = "ElvUIesque",
-					["Inherit"] = false,
-				},
-				["WeakAuras_liquid_magma_totem_v2"] = {
-					["Colors"] = {
-						["Backdrop"] = {
-							1, -- [1]
-							1, -- [2]
-							1, -- [3]
-							1, -- [4]
-						},
-					},
-					["Inherit"] = false,
-					["Backdrop"] = true,
-					["SkinID"] = "ElvUIesque",
-				},
-				["OmniBar_Coordinated Assault"] = {
-					["Inherit"] = false,
-					["Backdrop"] = true,
-				},
-				["WeakAuras_g40EFUcQ7q8"] = {
+				["WeakAuras_)x)eG7yqHQH"] = {
 					["Backdrop"] = true,
 					["Upgraded"] = true,
 					["Colors"] = {
@@ -25306,72 +26991,7 @@ MasqueDB = {
 					["SkinID"] = "Epix",
 					["Inherit"] = false,
 				},
-				["WeakAuras_01_divine_mallet2"] = {
-					["Colors"] = {
-						["Backdrop"] = {
-							1, -- [1]
-							1, -- [2]
-							1, -- [3]
-							1, -- [4]
-						},
-					},
-					["Inherit"] = false,
-					["Backdrop"] = true,
-					["SkinID"] = "ElvUIesque",
-				},
-				["WeakAuras_flame_shock_(boss1)_4"] = {
-					["Colors"] = {
-						["Backdrop"] = {
-							1, -- [1]
-							1, -- [2]
-							1, -- [3]
-							1, -- [4]
-						},
-					},
-					["Inherit"] = false,
-					["Backdrop"] = true,
-					["SkinID"] = "ElvUIesque",
-				},
-				["WeakAuras_twitching_tentacle_of_xalzaix_23"] = {
-					["Colors"] = {
-						["Backdrop"] = {
-							1, -- [1]
-							1, -- [2]
-							1, -- [3]
-							1, -- [4]
-						},
-					},
-					["Inherit"] = false,
-					["Backdrop"] = true,
-					["SkinID"] = "ElvUIesque",
-				},
-				["WeakAuras_dxoTLsdLGWc"] = {
-					["Backdrop"] = true,
-					["Upgraded"] = true,
-					["Colors"] = {
-						["Backdrop"] = {
-							1, -- [1]
-							1, -- [2]
-							1, -- [3]
-							1, -- [4]
-						},
-					},
-					["SkinID"] = "ElvUIesque",
-					["Inherit"] = false,
-				},
-				["WeakAuras_flame_shock_cd2"] = {
-					["Colors"] = {
-						["Backdrop"] = {
-							1, -- [1]
-							1, -- [2]
-							1, -- [3]
-							1, -- [4]
-						},
-					},
-					["SkinID"] = "ElvUIesque",
-					["Backdrop"] = true,
-				},
-				["WeakAuras_by(MSgvUY7I"] = {
+				["WeakAuras_U0k6mHqsXBL"] = {
 					["Backdrop"] = true,
 					["Upgraded"] = true,
 					["Colors"] = {
@@ -25398,6 +27018,127 @@ MasqueDB = {
 					["Backdrop"] = true,
 					["SkinID"] = "ElvUIesque",
 				},
+				["WeakAuras_02:_radiant_biomass_(tank)"] = {
+					["Colors"] = {
+						["Backdrop"] = {
+							1, -- [1]
+							1, -- [2]
+							1, -- [3]
+							1, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "ElvUIesque",
+				},
+				["WeakAuras_06:_repeated_>:l"] = {
+					["Colors"] = {
+						["Backdrop"] = {
+							1, -- [1]
+							1, -- [2]
+							1, -- [3]
+							1, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "ElvUIesque",
+				},
+				["WeakAuras_zt_-_nnogga's_party_cd_front_end22"] = {
+					["Colors"] = {
+						["Backdrop"] = {
+							1, -- [1]
+							1, -- [2]
+							1, -- [3]
+							1, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "ElvUIesque",
+				},
+				["WeakAuras_uHjWrJN(CDa"] = {
+					["Backdrop"] = true,
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Backdrop"] = {
+							1, -- [1]
+							1, -- [2]
+							1, -- [3]
+							1, -- [4]
+						},
+					},
+					["SkinID"] = "ElvUIesque",
+					["Inherit"] = false,
+				},
+				["WeakAuras_割裂"] = {
+					["Colors"] = {
+						["Backdrop"] = {
+							1, -- [1]
+							1, -- [2]
+							1, -- [3]
+							1, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "ElvUIesque",
+				},
+				["WeakAuras_Aaea0ZJ7MCW"] = {
+					["Backdrop"] = true,
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Backdrop"] = {
+							1, -- [1]
+							1, -- [2]
+							1, -- [3]
+							1, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "ElvUIesque",
+				},
+				["WeakAuras_DllaDntZJeq"] = {
+					["Backdrop"] = true,
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Backdrop"] = {
+							1, -- [1]
+							1, -- [2]
+							1, -- [3]
+							1, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "ElvUIesque - No Backdrop",
+				},
+				["WeakAuras_)riJx4Vxfgf"] = {
+					["Backdrop"] = true,
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Backdrop"] = {
+							1, -- [1]
+							1, -- [2]
+							1, -- [3]
+							1, -- [4]
+						},
+					},
+					["SkinID"] = "ElvUIesque",
+					["Inherit"] = false,
+				},
+				["WeakAuras_rotten_bile2"] = {
+					["Colors"] = {
+						["Backdrop"] = {
+							1, -- [1]
+							1, -- [2]
+							1, -- [3]
+							1, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "ElvUIesque",
+				},
 				["WeakAuras_Ii3w1Ui3K0e"] = {
 					["Backdrop"] = true,
 					["Upgraded"] = true,
@@ -25412,33 +27153,7 @@ MasqueDB = {
 					["SkinID"] = "ElvUIesque",
 					["Inherit"] = false,
 				},
-				["WeakAuras_02:_radiant_biomass_(tank)"] = {
-					["Colors"] = {
-						["Backdrop"] = {
-							1, -- [1]
-							1, -- [2]
-							1, -- [3]
-							1, -- [4]
-						},
-					},
-					["Inherit"] = false,
-					["Backdrop"] = true,
-					["SkinID"] = "ElvUIesque",
-				},
-				["WeakAuras_boss_beam_p2"] = {
-					["Colors"] = {
-						["Backdrop"] = {
-							1, -- [1]
-							1, -- [2]
-							1, -- [3]
-							1, -- [4]
-						},
-					},
-					["Inherit"] = false,
-					["Backdrop"] = true,
-					["SkinID"] = "ElvUIesque",
-				},
-				["WeakAuras_aiN3qOzUNCw"] = {
+				["WeakAuras_P65jF6lUOS4"] = {
 					["Backdrop"] = true,
 					["Upgraded"] = true,
 					["Colors"] = {
@@ -25452,7 +27167,20 @@ MasqueDB = {
 					["SkinID"] = "Epix",
 					["Inherit"] = false,
 				},
-				["WeakAuras_eRj(nRMOG8u"] = {
+				["WeakAuras_current_equipped_panel_icn4"] = {
+					["Colors"] = {
+						["Backdrop"] = {
+							1, -- [1]
+							1, -- [2]
+							1, -- [3]
+							1, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "ElvUIesque",
+				},
+				["WeakAuras_k6kZqXNoZ4k"] = {
 					["Backdrop"] = true,
 					["Upgraded"] = true,
 					["Colors"] = {
@@ -25463,10 +27191,24 @@ MasqueDB = {
 							1, -- [4]
 						},
 					},
+					["Inherit"] = false,
 					["SkinID"] = "ElvUIesque",
+				},
+				["WeakAuras_q5exmsVn3Fc"] = {
+					["Backdrop"] = true,
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Backdrop"] = {
+							1, -- [1]
+							1, -- [2]
+							1, -- [3]
+							1, -- [4]
+						},
+					},
+					["SkinID"] = "Epix",
 					["Inherit"] = false,
 				},
-				["WeakAuras_current_equipped_panel_icn4"] = {
+				["WeakAuras_final_blast9"] = {
 					["Colors"] = {
 						["Backdrop"] = {
 							1, -- [1]
@@ -25493,7 +27235,7 @@ MasqueDB = {
 					["SkinID"] = "ElvUIesque",
 					["Inherit"] = false,
 				},
-				["WeakAuras_Jeo8NKYrxhJ"] = {
+				["WeakAuras_wsjlD(LzpJT"] = {
 					["Backdrop"] = true,
 					["Upgraded"] = true,
 					["Colors"] = {
@@ -25504,8 +27246,8 @@ MasqueDB = {
 							1, -- [4]
 						},
 					},
-					["SkinID"] = "ElvUIesque",
 					["Inherit"] = false,
+					["SkinID"] = "ElvUIesque - No Backdrop",
 				},
 				["ElvUI_Pet Bar"] = {
 					["Colors"] = {
@@ -25520,7 +27262,9 @@ MasqueDB = {
 					["Backdrop"] = true,
 					["SkinID"] = "ElvUIesque",
 				},
-				["WeakAuras_dps_potion_noc"] = {
+				["WeakAuras_Sdjdn5aZiZn"] = {
+					["Backdrop"] = true,
+					["Upgraded"] = true,
 					["Colors"] = {
 						["Backdrop"] = {
 							1, -- [1]
@@ -25529,11 +27273,10 @@ MasqueDB = {
 							1, -- [4]
 						},
 					},
-					["Inherit"] = false,
-					["Backdrop"] = true,
 					["SkinID"] = "ElvUIesque",
+					["Inherit"] = false,
 				},
-				["WeakAuras_rotten_bile2"] = {
+				["WeakAuras_stormkeeper_buff_2"] = {
 					["Colors"] = {
 						["Backdrop"] = {
 							1, -- [1]
@@ -25573,9 +27316,7 @@ MasqueDB = {
 					["SkinID"] = "Epix",
 					["Inherit"] = false,
 				},
-				["WeakAuras_To8gZA6kurP"] = {
-					["Backdrop"] = true,
-					["Upgraded"] = true,
+				["WeakAuras_supression_fire11"] = {
 					["Colors"] = {
 						["Backdrop"] = {
 							1, -- [1]
@@ -25584,10 +27325,11 @@ MasqueDB = {
 							1, -- [4]
 						},
 					},
-					["SkinID"] = "Epix",
 					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "ElvUIesque",
 				},
-				["WeakAuras_06:_repeated_>:l"] = {
+				["WeakAuras_07:_maddening_eruption_(tank)"] = {
 					["Colors"] = {
 						["Backdrop"] = {
 							1, -- [1]
@@ -25627,7 +27369,9 @@ MasqueDB = {
 					["Backdrop"] = true,
 					["SkinID"] = "ElvUIesque",
 				},
-				["WeakAuras_07:_maddening_eruption_(tank)"] = {
+				["WeakAuras_XGMLZ4KzGX1"] = {
+					["Backdrop"] = true,
+					["Upgraded"] = true,
 					["Colors"] = {
 						["Backdrop"] = {
 							1, -- [1]
@@ -25636,9 +27380,8 @@ MasqueDB = {
 							1, -- [4]
 						},
 					},
-					["Inherit"] = false,
-					["Backdrop"] = true,
 					["SkinID"] = "ElvUIesque",
+					["Inherit"] = false,
 				},
 				["WeakAuras_0DbH0k7jscx"] = {
 					["Backdrop"] = true,
@@ -25654,7 +27397,21 @@ MasqueDB = {
 					["SkinID"] = "ElvUIesque",
 					["Inherit"] = false,
 				},
-				["WeakAuras_Sdjdn5aZiZn"] = {
+				["WeakAuras_aiN3qOzUNCw"] = {
+					["Backdrop"] = true,
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Backdrop"] = {
+							1, -- [1]
+							1, -- [2]
+							1, -- [3]
+							1, -- [4]
+						},
+					},
+					["SkinID"] = "Epix",
+					["Inherit"] = false,
+				},
+				["WeakAuras_eRj(nRMOG8u"] = {
 					["Backdrop"] = true,
 					["Upgraded"] = true,
 					["Colors"] = {
@@ -25668,7 +27425,7 @@ MasqueDB = {
 					["SkinID"] = "ElvUIesque",
 					["Inherit"] = false,
 				},
-				["WeakAuras_final_blast9"] = {
+				["WeakAuras_flame_shock_cd"] = {
 					["Colors"] = {
 						["Backdrop"] = {
 							1, -- [1]
@@ -25679,20 +27436,6 @@ MasqueDB = {
 					},
 					["Inherit"] = false,
 					["Backdrop"] = true,
-					["SkinID"] = "ElvUIesque",
-				},
-				["WeakAuras_k6kZqXNoZ4k"] = {
-					["Backdrop"] = true,
-					["Upgraded"] = true,
-					["Colors"] = {
-						["Backdrop"] = {
-							1, -- [1]
-							1, -- [2]
-							1, -- [3]
-							1, -- [4]
-						},
-					},
-					["Inherit"] = false,
 					["SkinID"] = "ElvUIesque",
 				},
 				["WeakAuras_JauJTJZuTmf"] = {
@@ -25736,7 +27479,20 @@ MasqueDB = {
 					["Backdrop"] = true,
 					["SkinID"] = "ElvUIesque",
 				},
-				["WeakAuras_P65jF6lUOS4"] = {
+				["WeakAuras_08:_beckoned"] = {
+					["Colors"] = {
+						["Backdrop"] = {
+							1, -- [1]
+							1, -- [2]
+							1, -- [3]
+							1, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "ElvUIesque",
+				},
+				["WeakAuras_by(MSgvUY7I"] = {
 					["Backdrop"] = true,
 					["Upgraded"] = true,
 					["Colors"] = {
@@ -25749,19 +27505,6 @@ MasqueDB = {
 					},
 					["SkinID"] = "Epix",
 					["Inherit"] = false,
-				},
-				["WeakAuras_stormkeeper_buff_2"] = {
-					["Colors"] = {
-						["Backdrop"] = {
-							1, -- [1]
-							1, -- [2]
-							1, -- [3]
-							1, -- [4]
-						},
-					},
-					["Inherit"] = false,
-					["Backdrop"] = true,
-					["SkinID"] = "ElvUIesque",
 				},
 				["WeakAuras_01:_unstable_mixture_(other)"] = {
 					["Colors"] = {
@@ -25776,7 +27519,7 @@ MasqueDB = {
 					["Backdrop"] = true,
 					["SkinID"] = "ElvUIesque",
 				},
-				["WeakAuras_08:_beckoned"] = {
+				["WeakAuras_flame_shock_cd2"] = {
 					["Colors"] = {
 						["Backdrop"] = {
 							1, -- [1]
@@ -25785,9 +27528,8 @@ MasqueDB = {
 							1, -- [4]
 						},
 					},
-					["Inherit"] = false,
-					["Backdrop"] = true,
 					["SkinID"] = "ElvUIesque",
+					["Backdrop"] = true,
 				},
 				["WeakAuras_1BXFzJuekE7"] = {
 					["Backdrop"] = true,
@@ -25817,21 +27559,7 @@ MasqueDB = {
 					["Inherit"] = false,
 					["SkinID"] = "ElvUIesque",
 				},
-				["WeakAuras_Aaea0ZJ7MCW"] = {
-					["Backdrop"] = true,
-					["Upgraded"] = true,
-					["Colors"] = {
-						["Backdrop"] = {
-							1, -- [1]
-							1, -- [2]
-							1, -- [3]
-							1, -- [4]
-						},
-					},
-					["Inherit"] = false,
-					["SkinID"] = "ElvUIesque",
-				},
-				["WeakAuras_savage_cleave3"] = {
+				["WeakAuras_demonic_consumption_amount"] = {
 					["Colors"] = {
 						["Backdrop"] = {
 							1, -- [1]
@@ -25844,7 +27572,7 @@ MasqueDB = {
 					["Backdrop"] = true,
 					["SkinID"] = "ElvUIesque",
 				},
-				["WeakAuras_q5exmsVn3Fc"] = {
+				["WeakAuras_US)ZjLkT8vM"] = {
 					["Backdrop"] = true,
 					["Upgraded"] = true,
 					["Colors"] = {
@@ -25858,35 +27586,7 @@ MasqueDB = {
 					["SkinID"] = "Epix",
 					["Inherit"] = false,
 				},
-				["WeakAuras_qFsw5Jcg)mE"] = {
-					["Backdrop"] = true,
-					["Upgraded"] = true,
-					["Colors"] = {
-						["Backdrop"] = {
-							1, -- [1]
-							1, -- [2]
-							1, -- [3]
-							1, -- [4]
-						},
-					},
-					["SkinID"] = "ElvUIesque",
-					["Inherit"] = false,
-				},
-				["WeakAuras_uHjWrJN(CDa"] = {
-					["Backdrop"] = true,
-					["Upgraded"] = true,
-					["Colors"] = {
-						["Backdrop"] = {
-							1, -- [1]
-							1, -- [2]
-							1, -- [3]
-							1, -- [4]
-						},
-					},
-					["SkinID"] = "ElvUIesque",
-					["Inherit"] = false,
-				},
-				["WeakAuras_super_charged!"] = {
+				["WeakAuras_boss_beam_p2"] = {
 					["Colors"] = {
 						["Backdrop"] = {
 							1, -- [1]
@@ -25899,7 +27599,7 @@ MasqueDB = {
 					["Backdrop"] = true,
 					["SkinID"] = "ElvUIesque",
 				},
-				["WeakAuras_割裂"] = {
+				["WeakAuras_01_divine_mallet2"] = {
 					["Colors"] = {
 						["Backdrop"] = {
 							1, -- [1]
@@ -25925,7 +27625,7 @@ MasqueDB = {
 					["Backdrop"] = true,
 					["SkinID"] = "ElvUIesque",
 				},
-				["WeakAuras_emote_soak_solo"] = {
+				["WeakAuras_super_charged!"] = {
 					["Colors"] = {
 						["Backdrop"] = {
 							1, -- [1]
@@ -25938,7 +27638,7 @@ MasqueDB = {
 					["Backdrop"] = true,
 					["SkinID"] = "ElvUIesque",
 				},
-				["WeakAuras_notorious_gladiator's_medallion_2"] = {
+				["WeakAuras_duelist_dash10"] = {
 					["Colors"] = {
 						["Backdrop"] = {
 							1, -- [1]
@@ -25950,6 +27650,47 @@ MasqueDB = {
 					["Inherit"] = false,
 					["Backdrop"] = true,
 					["SkinID"] = "ElvUIesque",
+				},
+				["WeakAuras_qJNdd85QZg5"] = {
+					["Backdrop"] = true,
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Backdrop"] = {
+							1, -- [1]
+							1, -- [2]
+							1, -- [3]
+							1, -- [4]
+						},
+					},
+					["SkinID"] = "ElvUIesque",
+					["Inherit"] = false,
+				},
+				["WeakAuras_lava_burst_"] = {
+					["Colors"] = {
+						["Backdrop"] = {
+							1, -- [1]
+							1, -- [2]
+							1, -- [3]
+							1, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "ElvUIesque",
+				},
+				["WeakAuras_(LSI0lPhz(7"] = {
+					["Backdrop"] = true,
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Backdrop"] = {
+							1, -- [1]
+							1, -- [2]
+							1, -- [3]
+							1, -- [4]
+						},
+					},
+					["SkinID"] = "ElvUIesque",
+					["Inherit"] = false,
 				},
 				["WeakAuras_e60EiGEbe3g"] = {
 					["Backdrop"] = true,
@@ -25978,7 +27719,9 @@ MasqueDB = {
 					["Backdrop"] = true,
 					["SkinID"] = "ElvUIesque",
 				},
-				["WeakAuras_icicles>1"] = {
+				["WeakAuras_c4AHHHO4mAe"] = {
+					["Backdrop"] = true,
+					["Upgraded"] = true,
 					["Colors"] = {
 						["Backdrop"] = {
 							1, -- [1]
@@ -25987,9 +27730,8 @@ MasqueDB = {
 							1, -- [4]
 						},
 					},
-					["Inherit"] = false,
-					["Backdrop"] = true,
 					["SkinID"] = "ElvUIesque",
+					["Inherit"] = false,
 				},
 				["WeakAuras_98n0GPkUmuc"] = {
 					["Backdrop"] = true,
@@ -26005,7 +27747,20 @@ MasqueDB = {
 					["Inherit"] = false,
 					["SkinID"] = "ElvUIesque",
 				},
-				["WeakAuras_69D6qf4vYHq"] = {
+				["WeakAuras_zt_-_nnogga's_party_cd_front_end4"] = {
+					["Colors"] = {
+						["Backdrop"] = {
+							1, -- [1]
+							1, -- [2]
+							1, -- [3]
+							1, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "ElvUIesque",
+				},
+				["WeakAuras_1s4UGLq4SLN"] = {
 					["Backdrop"] = true,
 					["Upgraded"] = true,
 					["Colors"] = {
@@ -26017,20 +27772,6 @@ MasqueDB = {
 						},
 					},
 					["SkinID"] = "ElvUIesque",
-					["Inherit"] = false,
-				},
-				["WeakAuras_U0k6mHqsXBL"] = {
-					["Backdrop"] = true,
-					["Upgraded"] = true,
-					["Colors"] = {
-						["Backdrop"] = {
-							1, -- [1]
-							1, -- [2]
-							1, -- [3]
-							1, -- [4]
-						},
-					},
-					["SkinID"] = "Epix",
 					["Inherit"] = false,
 				},
 				["WeakAuras_uXZysZZwGN8"] = {
@@ -26061,6 +27802,20 @@ MasqueDB = {
 					["Inherit"] = false,
 					["SkinID"] = "ElvUIesque",
 				},
+				["WeakAuras_1alKkP2WYzv"] = {
+					["Backdrop"] = true,
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Backdrop"] = {
+							1, -- [1]
+							1, -- [2]
+							1, -- [3]
+							1, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "ElvUIesque",
+				},
 				["WeakAuras_WYawuwlcodR"] = {
 					["Backdrop"] = true,
 					["Upgraded"] = true,
@@ -26075,7 +27830,21 @@ MasqueDB = {
 					["Inherit"] = false,
 					["SkinID"] = "ElvUIesque",
 				},
-				["WeakAuras_08:_arcane_orb_soak"] = {
+				["WeakAuras_AhEVyg3rIgh"] = {
+					["Backdrop"] = true,
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Backdrop"] = {
+							1, -- [1]
+							1, -- [2]
+							1, -- [3]
+							1, -- [4]
+						},
+					},
+					["SkinID"] = "ElvUIesque",
+					["Inherit"] = false,
+				},
+				["WeakAuras_whirling_slam13"] = {
 					["Colors"] = {
 						["Backdrop"] = {
 							1, -- [1]
@@ -26088,21 +27857,7 @@ MasqueDB = {
 					["Backdrop"] = true,
 					["SkinID"] = "ElvUIesque",
 				},
-				["WeakAuras_US)ZjLkT8vM"] = {
-					["Backdrop"] = true,
-					["Upgraded"] = true,
-					["Colors"] = {
-						["Backdrop"] = {
-							1, -- [1]
-							1, -- [2]
-							1, -- [3]
-							1, -- [4]
-						},
-					},
-					["SkinID"] = "Epix",
-					["Inherit"] = false,
-				},
-				["WeakAuras_icicles"] = {
+				["WeakAuras_01_blinding_faith2"] = {
 					["Colors"] = {
 						["Backdrop"] = {
 							1, -- [1]
@@ -26114,20 +27869,6 @@ MasqueDB = {
 					["Inherit"] = false,
 					["Backdrop"] = true,
 					["SkinID"] = "ElvUIesque",
-				},
-				["WeakAuras_pJXdgckdXwP"] = {
-					["Backdrop"] = true,
-					["Upgraded"] = true,
-					["Colors"] = {
-						["Backdrop"] = {
-							1, -- [1]
-							1, -- [2]
-							1, -- [3]
-							1, -- [4]
-						},
-					},
-					["Inherit"] = false,
-					["SkinID"] = "ElvUIesque - No Backdrop",
 				},
 				["WeakAuras_duelist_dash3"] = {
 					["Colors"] = {
@@ -26155,9 +27896,7 @@ MasqueDB = {
 					["Backdrop"] = true,
 					["SkinID"] = "ElvUIesque",
 				},
-				["WeakAuras_d86DNwSU0OQ"] = {
-					["Backdrop"] = true,
-					["Upgraded"] = true,
+				["WeakAuras_crest_of_pa'ku_2"] = {
 					["Colors"] = {
 						["Backdrop"] = {
 							1, -- [1]
@@ -26167,7 +27906,8 @@ MasqueDB = {
 						},
 					},
 					["Inherit"] = false,
-					["SkinID"] = "ElvUIesque - No Backdrop",
+					["Backdrop"] = true,
+					["SkinID"] = "ElvUIesque",
 				},
 				["WeakAuras_e8mVWPdo78J"] = {
 					["Backdrop"] = true,
@@ -26223,33 +27963,7 @@ MasqueDB = {
 					["SkinID"] = "ElvUIesque",
 					["Inherit"] = false,
 				},
-				["WeakAuras_01_blinding_faith2"] = {
-					["Colors"] = {
-						["Backdrop"] = {
-							1, -- [1]
-							1, -- [2]
-							1, -- [3]
-							1, -- [4]
-						},
-					},
-					["Inherit"] = false,
-					["Backdrop"] = true,
-					["SkinID"] = "ElvUIesque",
-				},
-				["WeakAuras_whirling_slam13"] = {
-					["Colors"] = {
-						["Backdrop"] = {
-							1, -- [1]
-							1, -- [2]
-							1, -- [3]
-							1, -- [4]
-						},
-					},
-					["Inherit"] = false,
-					["Backdrop"] = true,
-					["SkinID"] = "ElvUIesque",
-				},
-				["WeakAuras_9GObXiKOd)9"] = {
+				["WeakAuras_hvkFRGfyxbe"] = {
 					["Backdrop"] = true,
 					["Upgraded"] = true,
 					["Colors"] = {
@@ -26260,10 +27974,37 @@ MasqueDB = {
 							1, -- [4]
 						},
 					},
-					["SkinID"] = "ElvUIesque",
 					["Inherit"] = false,
+					["SkinID"] = "ElvUIesque - No Backdrop",
 				},
-				["WeakAuras_1s4UGLq4SLN"] = {
+				["WeakAuras_notorious_gladiator's_medallion_2"] = {
+					["Colors"] = {
+						["Backdrop"] = {
+							1, -- [1]
+							1, -- [2]
+							1, -- [3]
+							1, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "ElvUIesque",
+				},
+				["WeakAuras_G2svOj0YsNy"] = {
+					["Backdrop"] = true,
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Backdrop"] = {
+							1, -- [1]
+							1, -- [2]
+							1, -- [3]
+							1, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "ElvUIesque - No Backdrop",
+				},
+				["WeakAuras_)EEZ4I3qtPs"] = {
 					["Backdrop"] = true,
 					["Upgraded"] = true,
 					["Colors"] = {
@@ -26290,9 +28031,7 @@ MasqueDB = {
 					["Backdrop"] = true,
 					["SkinID"] = "ElvUIesque",
 				},
-				["WeakAuras_gpwsDtz)hQc"] = {
-					["Backdrop"] = true,
-					["Upgraded"] = true,
+				["WeakAuras_zt_-_nnogga's_party_cd_front_end12"] = {
 					["Colors"] = {
 						["Backdrop"] = {
 							1, -- [1]
@@ -26301,8 +28040,9 @@ MasqueDB = {
 							1, -- [4]
 						},
 					},
-					["SkinID"] = "ElvUIesque",
 					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "ElvUIesque",
 				},
 				["WeakAuras_DEfo2)0M7eZ"] = {
 					["Backdrop"] = true,
@@ -26345,7 +28085,7 @@ MasqueDB = {
 					["Backdrop"] = true,
 					["SkinID"] = "ElvUIesque",
 				},
-				["WeakAuras_mHgaCSbWYmQ"] = {
+				["WeakAuras_(GFZiI4FjpT"] = {
 					["Backdrop"] = true,
 					["Upgraded"] = true,
 					["Colors"] = {
@@ -26359,7 +28099,7 @@ MasqueDB = {
 					["SkinID"] = "ElvUIesque",
 					["Inherit"] = false,
 				},
-				["WeakAuras_fsrPaWdqEgf"] = {
+				["WeakAuras_6UlhJDmSXpG"] = {
 					["Backdrop"] = true,
 					["Upgraded"] = true,
 					["Colors"] = {
@@ -26370,8 +28110,8 @@ MasqueDB = {
 							1, -- [4]
 						},
 					},
-					["SkinID"] = "ElvUIesque",
 					["Inherit"] = false,
+					["SkinID"] = "ElvUIesque - No Backdrop",
 				},
 				["WeakAuras_gT5ffOLWumW"] = {
 					["Backdrop"] = true,
@@ -26387,7 +28127,7 @@ MasqueDB = {
 					["SkinID"] = "Epix",
 					["Inherit"] = false,
 				},
-				["WeakAuras_i2CJd0XgSOO"] = {
+				["WeakAuras_mHgaCSbWYmQ"] = {
 					["Backdrop"] = true,
 					["Upgraded"] = true,
 					["Colors"] = {
@@ -26414,7 +28154,9 @@ MasqueDB = {
 					["Backdrop"] = true,
 					["SkinID"] = "ElvUIesque",
 				},
-				["WeakAuras_equipped_trinket_2"] = {
+				["WeakAuras_xQVdxPvMsUl"] = {
+					["Backdrop"] = true,
+					["Upgraded"] = true,
 					["Colors"] = {
 						["Backdrop"] = {
 							1, -- [1]
@@ -26423,9 +28165,8 @@ MasqueDB = {
 							1, -- [4]
 						},
 					},
-					["Inherit"] = false,
-					["Backdrop"] = true,
 					["SkinID"] = "ElvUIesque",
+					["Inherit"] = false,
 				},
 				["WeakAuras_ghuun_orb_root"] = {
 					["Colors"] = {
@@ -26440,7 +28181,9 @@ MasqueDB = {
 					["Backdrop"] = true,
 					["SkinID"] = "ElvUIesque",
 				},
-				["WeakAuras_totem_mastery_none"] = {
+				["WeakAuras_EDL4p32bH0s"] = {
+					["Backdrop"] = true,
+					["Upgraded"] = true,
 					["Colors"] = {
 						["Backdrop"] = {
 							1, -- [1]
@@ -26449,56 +28192,14 @@ MasqueDB = {
 							1, -- [4]
 						},
 					},
-					["Inherit"] = false,
-					["Backdrop"] = true,
 					["SkinID"] = "ElvUIesque",
+					["Inherit"] = false,
 				},
 				["WeakAuras_totem_mastery_inactive_2"] = {
 					["Inherit"] = false,
 					["SkinID"] = "ElvUIesque",
 				},
-				["WeakAuras_supression_fire11"] = {
-					["Colors"] = {
-						["Backdrop"] = {
-							1, -- [1]
-							1, -- [2]
-							1, -- [3]
-							1, -- [4]
-						},
-					},
-					["Inherit"] = false,
-					["Backdrop"] = true,
-					["SkinID"] = "ElvUIesque",
-				},
-				["WeakAuras_x7fL(zAzLwC"] = {
-					["Backdrop"] = true,
-					["Upgraded"] = true,
-					["Colors"] = {
-						["Backdrop"] = {
-							1, -- [1]
-							1, -- [2]
-							1, -- [3]
-							1, -- [4]
-						},
-					},
-					["SkinID"] = "ElvUIesque",
-					["Inherit"] = false,
-				},
-				["WeakAuras_)NuNMm(B5CO"] = {
-					["Backdrop"] = true,
-					["Upgraded"] = true,
-					["Colors"] = {
-						["Backdrop"] = {
-							1, -- [1]
-							1, -- [2]
-							1, -- [3]
-							1, -- [4]
-						},
-					},
-					["SkinID"] = "ElvUIesque",
-					["Inherit"] = false,
-				},
-				["WeakAuras_flame_shock_cd"] = {
+				["WeakAuras_spirit_link_totem_2"] = {
 					["Colors"] = {
 						["Backdrop"] = {
 							1, -- [1]
@@ -26524,7 +28225,9 @@ MasqueDB = {
 					["Backdrop"] = true,
 					["SkinID"] = "ElvUIesque",
 				},
-				["WeakAuras_bait_add"] = {
+				["WeakAuras_To8gZA6kurP"] = {
+					["Backdrop"] = true,
+					["Upgraded"] = true,
 					["Colors"] = {
 						["Backdrop"] = {
 							1, -- [1]
@@ -26533,9 +28236,8 @@ MasqueDB = {
 							1, -- [4]
 						},
 					},
+					["SkinID"] = "Epix",
 					["Inherit"] = false,
-					["Backdrop"] = true,
-					["SkinID"] = "ElvUIesque",
 				},
 				["WeakAuras_big_chungus"] = {
 					["Colors"] = {
@@ -26549,6 +28251,46 @@ MasqueDB = {
 					["Inherit"] = false,
 					["Backdrop"] = true,
 					["SkinID"] = "ElvUIesque",
+				},
+				["WeakAuras_wind_shear_32"] = {
+					["Colors"] = {
+						["Backdrop"] = {
+							1, -- [1]
+							1, -- [2]
+							1, -- [3]
+							1, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "ElvUIesque",
+				},
+				["WeakAuras_bait_add"] = {
+					["Colors"] = {
+						["Backdrop"] = {
+							1, -- [1]
+							1, -- [2]
+							1, -- [3]
+							1, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "ElvUIesque",
+				},
+				["WeakAuras_tMjcINxQjFo"] = {
+					["Backdrop"] = true,
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Backdrop"] = {
+							1, -- [1]
+							1, -- [2]
+							1, -- [3]
+							1, -- [4]
+						},
+					},
+					["SkinID"] = "ElvUIesque - No Backdrop",
+					["Inherit"] = false,
 				},
 				["WeakAuras_o26xsikSeWq"] = {
 					["Backdrop"] = true,
@@ -26590,7 +28332,33 @@ MasqueDB = {
 					["Backdrop"] = true,
 					["SkinID"] = "ElvUIesque",
 				},
-				["WeakAuras_st5VajIsXHE"] = {
+				["WeakAuras_02:_bioluminescence"] = {
+					["Colors"] = {
+						["Backdrop"] = {
+							1, -- [1]
+							1, -- [2]
+							1, -- [3]
+							1, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "ElvUIesque",
+				},
+				["WeakAuras_crash_lightning_-_active"] = {
+					["Colors"] = {
+						["Backdrop"] = {
+							1, -- [1]
+							1, -- [2]
+							1, -- [3]
+							1, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "ElvUIesque",
+				},
+				["WeakAuras_XT)5tEdwiMW"] = {
 					["Backdrop"] = true,
 					["Upgraded"] = true,
 					["Colors"] = {
@@ -26601,10 +28369,24 @@ MasqueDB = {
 							1, -- [4]
 						},
 					},
-					["SkinID"] = "ElvUIesque",
 					["Inherit"] = false,
+					["SkinID"] = "ElvUIesque - No Backdrop",
 				},
-				["WeakAuras_crash_lightning_-_active"] = {
+				["WeakAuras_1GjyozG3Rui"] = {
+					["Backdrop"] = true,
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Backdrop"] = {
+							1, -- [1]
+							1, -- [2]
+							1, -- [3]
+							1, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "ElvUIesque - No Backdrop",
+				},
+				["WeakAuras_icy_edge_-_active"] = {
 					["Colors"] = {
 						["Backdrop"] = {
 							1, -- [1]
@@ -26620,46 +28402,6 @@ MasqueDB = {
 				["OmniBar_Mortal Coil"] = {
 					["Inherit"] = false,
 					["Backdrop"] = true,
-				},
-				["WeakAuras_XGMLZ4KzGX1"] = {
-					["Backdrop"] = true,
-					["Upgraded"] = true,
-					["Colors"] = {
-						["Backdrop"] = {
-							1, -- [1]
-							1, -- [2]
-							1, -- [3]
-							1, -- [4]
-						},
-					},
-					["SkinID"] = "ElvUIesque",
-					["Inherit"] = false,
-				},
-				["WeakAuras_02:_bioluminescence"] = {
-					["Colors"] = {
-						["Backdrop"] = {
-							1, -- [1]
-							1, -- [2]
-							1, -- [3]
-							1, -- [4]
-						},
-					},
-					["Inherit"] = false,
-					["Backdrop"] = true,
-					["SkinID"] = "ElvUIesque",
-				},
-				["WeakAuras_zt_-_nnogga's_party_cd_front_end22"] = {
-					["Colors"] = {
-						["Backdrop"] = {
-							1, -- [1]
-							1, -- [2]
-							1, -- [3]
-							1, -- [4]
-						},
-					},
-					["Inherit"] = false,
-					["Backdrop"] = true,
-					["SkinID"] = "ElvUIesque",
 				},
 				["WeakAuras_YXg(LjfYPQX"] = {
 					["Backdrop"] = true,
@@ -26703,7 +28445,9 @@ MasqueDB = {
 					["Inherit"] = false,
 					["SkinID"] = "ElvUIesque",
 				},
-				["WeakAuras_cleanse_spirit_cooldown_2"] = {
+				["WeakAuras_QJ36MbvexT9"] = {
+					["Backdrop"] = true,
+					["Upgraded"] = true,
 					["Colors"] = {
 						["Backdrop"] = {
 							1, -- [1]
@@ -26713,23 +28457,9 @@ MasqueDB = {
 						},
 					},
 					["Inherit"] = false,
-					["Backdrop"] = true,
-					["SkinID"] = "ElvUIesque",
+					["SkinID"] = "ElvUIesque - No Backdrop",
 				},
-				["WeakAuras_cone_of_cold_2"] = {
-					["Colors"] = {
-						["Backdrop"] = {
-							1, -- [1]
-							1, -- [2]
-							1, -- [3]
-							1, -- [4]
-						},
-					},
-					["Inherit"] = false,
-					["Backdrop"] = true,
-					["SkinID"] = "ElvUIesque",
-				},
-				["WeakAuras_Jeold5dtui3"] = {
+				["WeakAuras_ep6DoN06TAK"] = {
 					["Backdrop"] = true,
 					["Upgraded"] = true,
 					["Colors"] = {
@@ -26742,6 +28472,10 @@ MasqueDB = {
 					},
 					["SkinID"] = "ElvUIesque",
 					["Inherit"] = false,
+				},
+				["OmniBar_Feign Death"] = {
+					["Inherit"] = false,
+					["Backdrop"] = true,
 				},
 				["WeakAuras_yl5L3MMgtoH"] = {
 					["Backdrop"] = true,
@@ -26757,7 +28491,7 @@ MasqueDB = {
 					["SkinID"] = "ElvUIesque",
 					["Inherit"] = false,
 				},
-				["WeakAuras_V7zH5Jw0DPW"] = {
+				["WeakAuras_qeSxMEOWsMF"] = {
 					["Backdrop"] = true,
 					["Upgraded"] = true,
 					["Colors"] = {
@@ -26798,20 +28532,7 @@ MasqueDB = {
 					["Inherit"] = false,
 					["SkinID"] = "ElvUIesque - No Backdrop",
 				},
-				["WeakAuras_lava_burst_"] = {
-					["Colors"] = {
-						["Backdrop"] = {
-							1, -- [1]
-							1, -- [2]
-							1, -- [3]
-							1, -- [4]
-						},
-					},
-					["Inherit"] = false,
-					["Backdrop"] = true,
-					["SkinID"] = "ElvUIesque",
-				},
-				["WeakAuras_(LSI0lPhz(7"] = {
+				["WeakAuras_gUVs6r44aGS"] = {
 					["Backdrop"] = true,
 					["Upgraded"] = true,
 					["Colors"] = {
@@ -26825,9 +28546,7 @@ MasqueDB = {
 					["SkinID"] = "ElvUIesque",
 					["Inherit"] = false,
 				},
-				["WeakAuras_icXNkAsNr71"] = {
-					["Backdrop"] = true,
-					["Upgraded"] = true,
+				["WeakAuras_08_tidal_shroud3"] = {
 					["Colors"] = {
 						["Backdrop"] = {
 							1, -- [1]
@@ -26836,10 +28555,11 @@ MasqueDB = {
 							1, -- [4]
 						},
 					},
-					["SkinID"] = "Epix",
 					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "ElvUIesque",
 				},
-				["WeakAuras_c4AHHHO4mAe"] = {
+				["WeakAuras_DUdSwcmgOeD"] = {
 					["Backdrop"] = true,
 					["Upgraded"] = true,
 					["Colors"] = {
@@ -26853,7 +28573,7 @@ MasqueDB = {
 					["SkinID"] = "ElvUIesque",
 					["Inherit"] = false,
 				},
-				["WeakAuras_hvn9mVYIlxA"] = {
+				["WeakAuras_9HqDmiFNMmk"] = {
 					["Backdrop"] = true,
 					["Upgraded"] = true,
 					["Colors"] = {
@@ -26864,7 +28584,21 @@ MasqueDB = {
 							1, -- [4]
 						},
 					},
-					["SkinID"] = "Epix",
+					["SkinID"] = "ElvUIesque - No Backdrop",
+					["Inherit"] = false,
+				},
+				["WeakAuras_IuUxHF6mvkB"] = {
+					["Backdrop"] = true,
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Backdrop"] = {
+							1, -- [1]
+							1, -- [2]
+							1, -- [3]
+							1, -- [4]
+						},
+					},
+					["SkinID"] = "ElvUIesque",
 					["Inherit"] = false,
 				},
 				["WeakAuras_fgFUhR05Xob"] = {
@@ -26881,7 +28615,7 @@ MasqueDB = {
 					["SkinID"] = "ElvUIesque",
 					["Inherit"] = false,
 				},
-				["WeakAuras_tfE2iITS92X"] = {
+				["WeakAuras_Y2p5rOWdUg8"] = {
 					["Backdrop"] = true,
 					["Upgraded"] = true,
 					["Colors"] = {
@@ -26892,10 +28626,10 @@ MasqueDB = {
 							1, -- [4]
 						},
 					},
-					["SkinID"] = "ElvUIesque",
 					["Inherit"] = false,
+					["SkinID"] = "ElvUIesque - No Backdrop",
 				},
-				["WeakAuras_gUVs6r44aGS"] = {
+				["WeakAuras_qFIbpmJax7w"] = {
 					["Backdrop"] = true,
 					["Upgraded"] = true,
 					["Colors"] = {
@@ -26922,7 +28656,41 @@ MasqueDB = {
 					["Backdrop"] = true,
 					["SkinID"] = "ElvUIesque",
 				},
-				["WeakAuras_1943(Wc)Whv"] = {
+				["OmniBar_Vanish"] = {
+					["Inherit"] = false,
+					["Backdrop"] = true,
+				},
+				["WeakAuras_heavy_slash4"] = {
+					["Colors"] = {
+						["Backdrop"] = {
+							1, -- [1]
+							1, -- [2]
+							1, -- [3]
+							1, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "ElvUIesque",
+				},
+				["OmniBar_Psychic Scream"] = {
+					["Inherit"] = false,
+					["Backdrop"] = true,
+				},
+				["WeakAuras_08:_charged_spear"] = {
+					["Colors"] = {
+						["Backdrop"] = {
+							1, -- [1]
+							1, -- [2]
+							1, -- [3]
+							1, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "ElvUIesque",
+				},
+				["WeakAuras_RIvsOoTUpkB"] = {
 					["Backdrop"] = true,
 					["Upgraded"] = true,
 					["Colors"] = {
@@ -26936,48 +28704,7 @@ MasqueDB = {
 					["SkinID"] = "ElvUIesque",
 					["Inherit"] = false,
 				},
-				["WeakAuras_bV93L7IyTNz"] = {
-					["Backdrop"] = true,
-					["Upgraded"] = true,
-					["Colors"] = {
-						["Backdrop"] = {
-							1, -- [1]
-							1, -- [2]
-							1, -- [3]
-							1, -- [4]
-						},
-					},
-					["Inherit"] = false,
-					["SkinID"] = "ElvUIesque - No Backdrop",
-				},
-				["WeakAuras_zSP1CnLcdwI"] = {
-					["Backdrop"] = true,
-					["Upgraded"] = true,
-					["Colors"] = {
-						["Backdrop"] = {
-							1, -- [1]
-							1, -- [2]
-							1, -- [3]
-							1, -- [4]
-						},
-					},
-					["Inherit"] = false,
-					["SkinID"] = "ElvUIesque",
-				},
-				["WeakAuras_zt_-_nnogga's_party_cd_front_end12"] = {
-					["Colors"] = {
-						["Backdrop"] = {
-							1, -- [1]
-							1, -- [2]
-							1, -- [3]
-							1, -- [4]
-						},
-					},
-					["Inherit"] = false,
-					["Backdrop"] = true,
-					["SkinID"] = "ElvUIesque",
-				},
-				["WeakAuras_j0IUjw9(4wx"] = {
+				["WeakAuras_Cea4OhyDjcj"] = {
 					["Backdrop"] = true,
 					["Upgraded"] = true,
 					["Colors"] = {
@@ -26990,19 +28717,6 @@ MasqueDB = {
 					},
 					["SkinID"] = "ElvUIesque",
 					["Inherit"] = false,
-				},
-				["WeakAuras_living_bomb_target_off"] = {
-					["Colors"] = {
-						["Backdrop"] = {
-							1, -- [1]
-							1, -- [2]
-							1, -- [3]
-							1, -- [4]
-						},
-					},
-					["Inherit"] = false,
-					["Backdrop"] = true,
-					["SkinID"] = "ElvUIesque",
 				},
 				["WeakAuras_3iN7nWbetkv"] = {
 					["Backdrop"] = true,
@@ -27018,7 +28732,9 @@ MasqueDB = {
 					["SkinID"] = "ElvUIesque",
 					["Inherit"] = false,
 				},
-				["WeakAuras_hybernate4"] = {
+				["WeakAuras_9BTRMrdGjNT"] = {
+					["Backdrop"] = true,
+					["Upgraded"] = true,
 					["Colors"] = {
 						["Backdrop"] = {
 							1, -- [1]
@@ -27027,9 +28743,8 @@ MasqueDB = {
 							1, -- [4]
 						},
 					},
+					["SkinID"] = "Epix",
 					["Inherit"] = false,
-					["Backdrop"] = true,
-					["SkinID"] = "ElvUIesque",
 				},
 				["WeakAuras_pvxCQwoRPGR"] = {
 					["Backdrop"] = true,
@@ -27059,9 +28774,7 @@ MasqueDB = {
 					["SkinID"] = "Epix",
 					["Inherit"] = false,
 				},
-				["WeakAuras_EDL4p32bH0s"] = {
-					["Backdrop"] = true,
-					["Upgraded"] = true,
+				["WeakAuras_06:_decree:_stand_alone"] = {
 					["Colors"] = {
 						["Backdrop"] = {
 							1, -- [1]
@@ -27070,8 +28783,9 @@ MasqueDB = {
 							1, -- [4]
 						},
 					},
-					["SkinID"] = "ElvUIesque",
 					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "ElvUIesque",
 				},
 				["WeakAuras_whirling_slam9"] = {
 					["Colors"] = {
@@ -27086,7 +28800,7 @@ MasqueDB = {
 					["Backdrop"] = true,
 					["SkinID"] = "ElvUIesque",
 				},
-				["WeakAuras_)EEZ4I3qtPs"] = {
+				["WeakAuras_)dBM(hyKcT4"] = {
 					["Backdrop"] = true,
 					["Upgraded"] = true,
 					["Colors"] = {
@@ -27097,10 +28811,10 @@ MasqueDB = {
 							1, -- [4]
 						},
 					},
-					["SkinID"] = "ElvUIesque",
 					["Inherit"] = false,
+					["SkinID"] = "ElvUIesque - No Backdrop",
 				},
-				["WeakAuras_01:_delirious/frozen"] = {
+				["WeakAuras_dps_potion_on_cd_2"] = {
 					["Colors"] = {
 						["Backdrop"] = {
 							1, -- [1]
@@ -27139,7 +28853,7 @@ MasqueDB = {
 					["Backdrop"] = true,
 					["SkinID"] = "ElvUIesque",
 				},
-				["WeakAuras_icy_veins_23"] = {
+				["WeakAuras_totem_mastery_inactive"] = {
 					["Colors"] = {
 						["Backdrop"] = {
 							1, -- [1]
@@ -27152,7 +28866,7 @@ MasqueDB = {
 					["Backdrop"] = true,
 					["SkinID"] = "ElvUIesque",
 				},
-				["WeakAuras_windshear"] = {
+				["WeakAuras_prolonged_power_off"] = {
 					["Colors"] = {
 						["Backdrop"] = {
 							1, -- [1]
@@ -27178,7 +28892,7 @@ MasqueDB = {
 					["Backdrop"] = true,
 					["SkinID"] = "ElvUIesque",
 				},
-				["WeakAuras_9GUgdlOE8iQ"] = {
+				["WeakAuras_Yvt5e)cFlCm"] = {
 					["Backdrop"] = true,
 					["Upgraded"] = true,
 					["Colors"] = {
@@ -27189,7 +28903,7 @@ MasqueDB = {
 							1, -- [4]
 						},
 					},
-					["SkinID"] = "Epix",
+					["SkinID"] = "ElvUIesque",
 					["Inherit"] = false,
 				},
 				["WeakAuras_astral_shift_cooldown_2"] = {
@@ -27205,9 +28919,7 @@ MasqueDB = {
 					["Backdrop"] = true,
 					["SkinID"] = "ElvUIesque",
 				},
-				["WeakAuras_xQVdxPvMsUl"] = {
-					["Backdrop"] = true,
-					["Upgraded"] = true,
+				["WeakAuras_sap5"] = {
 					["Colors"] = {
 						["Backdrop"] = {
 							1, -- [1]
@@ -27216,8 +28928,9 @@ MasqueDB = {
 							1, -- [4]
 						},
 					},
-					["SkinID"] = "ElvUIesque",
 					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "ElvUIesque",
 				},
 				["WeakAuras_tcig96(Oeac"] = {
 					["Backdrop"] = true,
@@ -27302,33 +29015,7 @@ MasqueDB = {
 					["Backdrop"] = true,
 					["SkinID"] = "ElvUIesque",
 				},
-				["WeakAuras_zt_-_nnogga's_party_cd_front_end14"] = {
-					["Colors"] = {
-						["Backdrop"] = {
-							1, -- [1]
-							1, -- [2]
-							1, -- [3]
-							1, -- [4]
-						},
-					},
-					["Inherit"] = false,
-					["Backdrop"] = true,
-					["SkinID"] = "ElvUIesque",
-				},
-				["WeakAuras_liquid_magma_totem_22"] = {
-					["Colors"] = {
-						["Backdrop"] = {
-							1, -- [1]
-							1, -- [2]
-							1, -- [3]
-							1, -- [4]
-						},
-					},
-					["Inherit"] = false,
-					["Backdrop"] = true,
-					["SkinID"] = "ElvUIesque",
-				},
-				["WeakAuras_TW0kvOpYST5"] = {
+				["WeakAuras_Zvl81iKnxrr"] = {
 					["Backdrop"] = true,
 					["Upgraded"] = true,
 					["Colors"] = {
@@ -27340,11 +29027,9 @@ MasqueDB = {
 						},
 					},
 					["Inherit"] = false,
-					["SkinID"] = "ElvUIesque - No Backdrop",
+					["SkinID"] = "ElvUIesque",
 				},
-				["WeakAuras_hv1mpBtTNm9"] = {
-					["Backdrop"] = true,
-					["Upgraded"] = true,
+				["WeakAuras_astral_shift_42"] = {
 					["Colors"] = {
 						["Backdrop"] = {
 							1, -- [1]
@@ -27353,8 +29038,35 @@ MasqueDB = {
 							1, -- [4]
 						},
 					},
-					["SkinID"] = "ElvUIesque",
 					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "ElvUIesque",
+				},
+				["WeakAuras_talents\\items"] = {
+					["Colors"] = {
+						["Backdrop"] = {
+							1, -- [1]
+							1, -- [2]
+							1, -- [3]
+							1, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "ElvUIesque",
+				},
+				["WeakAuras_feral_lunge"] = {
+					["Colors"] = {
+						["Backdrop"] = {
+							1, -- [1]
+							1, -- [2]
+							1, -- [3]
+							1, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "ElvUIesque",
 				},
 				["WeakAuras_bY(R4TegyWX"] = {
 					["Backdrop"] = true,
@@ -27370,7 +29082,7 @@ MasqueDB = {
 					["SkinID"] = "ElvUIesque",
 					["Inherit"] = false,
 				},
-				["WeakAuras_hot_hand"] = {
+				["WeakAuras_hex-3"] = {
 					["Colors"] = {
 						["Backdrop"] = {
 							1, -- [1]
@@ -27396,9 +29108,7 @@ MasqueDB = {
 					["Backdrop"] = true,
 					["SkinID"] = "ElvUIesque",
 				},
-				["WeakAuras_FvJsESODciy"] = {
-					["Backdrop"] = true,
-					["Upgraded"] = true,
+				["WeakAuras_final_blast2"] = {
 					["Colors"] = {
 						["Backdrop"] = {
 							1, -- [1]
@@ -27407,8 +29117,9 @@ MasqueDB = {
 							1, -- [4]
 						},
 					},
-					["SkinID"] = "Epix",
 					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "ElvUIesque",
 				},
 				["WeakAuras_jqb3W21xaT3"] = {
 					["Backdrop"] = true,
@@ -27424,7 +29135,7 @@ MasqueDB = {
 					["SkinID"] = "Epix",
 					["Inherit"] = false,
 				},
-				["WeakAuras_EeGPh60vJq4"] = {
+				["WeakAuras_5greIdGXEn7"] = {
 					["Backdrop"] = true,
 					["Upgraded"] = true,
 					["Colors"] = {
@@ -27435,10 +29146,12 @@ MasqueDB = {
 							1, -- [4]
 						},
 					},
-					["SkinID"] = "Epix",
+					["SkinID"] = "ElvUIesque",
 					["Inherit"] = false,
 				},
-				["WeakAuras_hex-3"] = {
+				["WeakAuras_4nmRV0kCs8Z"] = {
+					["Backdrop"] = true,
+					["Upgraded"] = true,
 					["Colors"] = {
 						["Backdrop"] = {
 							1, -- [1]
@@ -27447,9 +29160,8 @@ MasqueDB = {
 							1, -- [4]
 						},
 					},
-					["Inherit"] = false,
-					["Backdrop"] = true,
 					["SkinID"] = "ElvUIesque",
+					["Inherit"] = false,
 				},
 				["WeakAuras_wind_rush_totem2"] = {
 					["Colors"] = {
@@ -27464,7 +29176,20 @@ MasqueDB = {
 					["Backdrop"] = true,
 					["SkinID"] = "ElvUIesque",
 				},
-				["WeakAuras_J2xRq1zECos"] = {
+				["WeakAuras_echo_blade6"] = {
+					["Colors"] = {
+						["Backdrop"] = {
+							1, -- [1]
+							1, -- [2]
+							1, -- [3]
+							1, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "ElvUIesque",
+				},
+				["WeakAuras_rypBbuEek8w"] = {
 					["Backdrop"] = true,
 					["Upgraded"] = true,
 					["Colors"] = {
@@ -27477,19 +29202,6 @@ MasqueDB = {
 					},
 					["SkinID"] = "ElvUIesque",
 					["Inherit"] = false,
-				},
-				["WeakAuras_final_blast2"] = {
-					["Colors"] = {
-						["Backdrop"] = {
-							1, -- [1]
-							1, -- [2]
-							1, -- [3]
-							1, -- [4]
-						},
-					},
-					["Inherit"] = false,
-					["Backdrop"] = true,
-					["SkinID"] = "ElvUIesque",
 				},
 				["WeakAuras_Twz4kKoFWDU"] = {
 					["Backdrop"] = true,
@@ -27519,7 +29231,7 @@ MasqueDB = {
 					["SkinID"] = "ElvUIesque",
 					["Inherit"] = false,
 				},
-				["WeakAuras_Fec5POVuXqp"] = {
+				["WeakAuras_yEb2e1ZB6R0"] = {
 					["Backdrop"] = true,
 					["Upgraded"] = true,
 					["Colors"] = {
@@ -27530,12 +29242,10 @@ MasqueDB = {
 							1, -- [4]
 						},
 					},
+					["Inherit"] = false,
 					["SkinID"] = "ElvUIesque",
-					["Inherit"] = false,
 				},
-				["WeakAuras_gyothkZCnNY"] = {
-					["Backdrop"] = true,
-					["Upgraded"] = true,
+				["WeakAuras_zt_-_nnogga's_party_cd_front_end15"] = {
 					["Colors"] = {
 						["Backdrop"] = {
 							1, -- [1]
@@ -27545,6 +29255,7 @@ MasqueDB = {
 						},
 					},
 					["Inherit"] = false,
+					["Backdrop"] = true,
 					["SkinID"] = "ElvUIesque",
 				},
 				["WeakAuras_nKS7untxQX1"] = {
@@ -27561,7 +29272,7 @@ MasqueDB = {
 					["SkinID"] = "ElvUIesque",
 					["Inherit"] = false,
 				},
-				["WeakAuras_echo_blade6"] = {
+				["WeakAuras_08_beckon_on_you"] = {
 					["Colors"] = {
 						["Backdrop"] = {
 							1, -- [1]
@@ -27574,9 +29285,7 @@ MasqueDB = {
 					["Backdrop"] = true,
 					["SkinID"] = "ElvUIesque",
 				},
-				["WeakAuras_4nmRV0kCs8Z"] = {
-					["Backdrop"] = true,
-					["Upgraded"] = true,
+				["WeakAuras_earthen_elemental"] = {
 					["Colors"] = {
 						["Backdrop"] = {
 							1, -- [1]
@@ -27585,8 +29294,9 @@ MasqueDB = {
 							1, -- [4]
 						},
 					},
-					["SkinID"] = "ElvUIesque",
 					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "ElvUIesque",
 				},
 				["WeakAuras_6f7a9V1qzqO"] = {
 					["Backdrop"] = true,
@@ -27616,9 +29326,7 @@ MasqueDB = {
 					["SkinID"] = "ElvUIesque",
 					["Inherit"] = false,
 				},
-				["WeakAuras_w5oA()2zCbW"] = {
-					["Backdrop"] = true,
-					["Upgraded"] = true,
+				["WeakAuras_zt_-_nnogga's_party_cd_front_end11"] = {
 					["Colors"] = {
 						["Backdrop"] = {
 							1, -- [1]
@@ -27627,10 +29335,11 @@ MasqueDB = {
 							1, -- [4]
 						},
 					},
-					["SkinID"] = "ElvUIesque",
 					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "ElvUIesque",
 				},
-				["WeakAuras_XT)5tEdwiMW"] = {
+				["WeakAuras_PUE03JmSAzT"] = {
 					["Backdrop"] = true,
 					["Upgraded"] = true,
 					["Colors"] = {
@@ -27686,105 +29395,7 @@ MasqueDB = {
 					["SkinID"] = "ElvUIesque",
 					["Inherit"] = false,
 				},
-				["WeakAuras_7eMj75kVuAa"] = {
-					["Backdrop"] = true,
-					["Upgraded"] = true,
-					["Colors"] = {
-						["Backdrop"] = {
-							1, -- [1]
-							1, -- [2]
-							1, -- [3]
-							1, -- [4]
-						},
-					},
-					["SkinID"] = "ElvUIesque",
-					["Inherit"] = false,
-				},
-				["WeakAuras_DUdSwcmgOeD"] = {
-					["Backdrop"] = true,
-					["Upgraded"] = true,
-					["Colors"] = {
-						["Backdrop"] = {
-							1, -- [1]
-							1, -- [2]
-							1, -- [3]
-							1, -- [4]
-						},
-					},
-					["SkinID"] = "ElvUIesque",
-					["Inherit"] = false,
-				},
-				["WeakAuras_high_energy_"] = {
-					["Colors"] = {
-						["Backdrop"] = {
-							1, -- [1]
-							1, -- [2]
-							1, -- [3]
-							1, -- [4]
-						},
-					},
-					["Inherit"] = false,
-					["Backdrop"] = true,
-					["SkinID"] = "ElvUIesque",
-				},
-				["WeakAuras_earthen_elemental"] = {
-					["Colors"] = {
-						["Backdrop"] = {
-							1, -- [1]
-							1, -- [2]
-							1, -- [3]
-							1, -- [4]
-						},
-					},
-					["Inherit"] = false,
-					["Backdrop"] = true,
-					["SkinID"] = "ElvUIesque",
-				},
-				["WeakAuras_sap2"] = {
-					["Colors"] = {
-						["Backdrop"] = {
-							1, -- [1]
-							1, -- [2]
-							1, -- [3]
-							1, -- [4]
-						},
-					},
-					["Inherit"] = false,
-					["Backdrop"] = true,
-					["SkinID"] = "ElvUIesque",
-				},
-				["WeakAuras_dlcLU17oAtn"] = {
-					["Backdrop"] = true,
-					["Upgraded"] = true,
-					["Colors"] = {
-						["Backdrop"] = {
-							1, -- [1]
-							1, -- [2]
-							1, -- [3]
-							1, -- [4]
-						},
-					},
-					["SkinID"] = "ElvUIesque",
-					["Inherit"] = false,
-				},
-				["WeakAuras_(pot)_intellect"] = {
-					["Colors"] = {
-						["Backdrop"] = {
-							1, -- [1]
-							1, -- [2]
-							1, -- [3]
-							1, -- [4]
-						},
-					},
-					["Inherit"] = false,
-					["Backdrop"] = true,
-					["SkinID"] = "ElvUIesque",
-				},
-				["OmniBar_Icy Veins"] = {
-					["Inherit"] = false,
-					["Backdrop"] = true,
-				},
-				["WeakAuras_UXZOjIv3LUA"] = {
+				["WeakAuras_KR)c35sKbYe"] = {
 					["Backdrop"] = true,
 					["Upgraded"] = true,
 					["Colors"] = {
@@ -27812,7 +29423,7 @@ MasqueDB = {
 					["SkinID"] = "Epix",
 					["Inherit"] = false,
 				},
-				["WeakAuras_07:_shattered_psyche"] = {
+				["WeakAuras_high_energy_"] = {
 					["Colors"] = {
 						["Backdrop"] = {
 							1, -- [1]
@@ -27825,7 +29436,106 @@ MasqueDB = {
 					["Backdrop"] = true,
 					["SkinID"] = "ElvUIesque",
 				},
-				["WeakAuras_TzD05MAgMcf"] = {
+				["OmniBar_Power Word: Barrier"] = {
+					["Inherit"] = false,
+					["Backdrop"] = true,
+				},
+				["WeakAuras_sap2"] = {
+					["Colors"] = {
+						["Backdrop"] = {
+							1, -- [1]
+							1, -- [2]
+							1, -- [3]
+							1, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "ElvUIesque",
+				},
+				["WeakAuras_1rF97WS1sre"] = {
+					["Backdrop"] = true,
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Backdrop"] = {
+							1, -- [1]
+							1, -- [2]
+							1, -- [3]
+							1, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "ElvUIesque - No Backdrop",
+				},
+				["WeakAuras_nQd5bQM3cWu"] = {
+					["Backdrop"] = true,
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Backdrop"] = {
+							1, -- [1]
+							1, -- [2]
+							1, -- [3]
+							1, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "ElvUIesque - No Backdrop",
+				},
+				["WeakAuras_XFz8rBW4)yI"] = {
+					["Backdrop"] = true,
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Backdrop"] = {
+							1, -- [1]
+							1, -- [2]
+							1, -- [3]
+							1, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "ElvUIesque",
+				},
+				["WeakAuras_UXZOjIv3LUA"] = {
+					["Backdrop"] = true,
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Backdrop"] = {
+							1, -- [1]
+							1, -- [2]
+							1, -- [3]
+							1, -- [4]
+						},
+					},
+					["SkinID"] = "ElvUIesque",
+					["Inherit"] = false,
+				},
+				["WeakAuras_supression_fire6"] = {
+					["Colors"] = {
+						["Backdrop"] = {
+							1, -- [1]
+							1, -- [2]
+							1, -- [3]
+							1, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "ElvUIesque",
+				},
+				["WeakAuras_wings"] = {
+					["Colors"] = {
+						["Backdrop"] = {
+							1, -- [1]
+							1, -- [2]
+							1, -- [3]
+							1, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "ElvUIesque",
+				},
+				["WeakAuras_1Jzv(4JITSO"] = {
 					["Backdrop"] = true,
 					["Upgraded"] = true,
 					["Colors"] = {
@@ -27853,7 +29563,7 @@ MasqueDB = {
 					["SkinID"] = "ElvUIesque",
 					["Inherit"] = false,
 				},
-				["WeakAuras_Y2p5rOWdUg8"] = {
+				["WeakAuras_bFC2vg117GR"] = {
 					["Backdrop"] = true,
 					["Upgraded"] = true,
 					["Colors"] = {
@@ -27864,23 +29574,10 @@ MasqueDB = {
 							1, -- [4]
 						},
 					},
-					["Inherit"] = false,
-					["SkinID"] = "ElvUIesque - No Backdrop",
-				},
-				["WeakAuras_twitching_tentacle_of_xalzaix_stacks_2"] = {
-					["Colors"] = {
-						["Backdrop"] = {
-							1, -- [1]
-							1, -- [2]
-							1, -- [3]
-							1, -- [4]
-						},
-					},
-					["Inherit"] = false,
-					["Backdrop"] = true,
 					["SkinID"] = "ElvUIesque",
+					["Inherit"] = false,
 				},
-				["WeakAuras_9BTRMrdGjNT"] = {
+				["WeakAuras_SYUJYdjwcV)"] = {
 					["Backdrop"] = true,
 					["Upgraded"] = true,
 					["Colors"] = {
@@ -27891,10 +29588,12 @@ MasqueDB = {
 							1, -- [4]
 						},
 					},
-					["SkinID"] = "Epix",
+					["SkinID"] = "ElvUIesque",
 					["Inherit"] = false,
 				},
-				["WeakAuras_hex_cooldown_2"] = {
+				["WeakAuras_vhsm8KCnjAI"] = {
+					["Backdrop"] = true,
+					["Upgraded"] = true,
 					["Colors"] = {
 						["Backdrop"] = {
 							1, -- [1]
@@ -27903,9 +29602,22 @@ MasqueDB = {
 							1, -- [4]
 						},
 					},
-					["Inherit"] = false,
-					["Backdrop"] = true,
 					["SkinID"] = "ElvUIesque",
+					["Inherit"] = false,
+				},
+				["WeakAuras_mHX0z(5TDo0"] = {
+					["Backdrop"] = true,
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Backdrop"] = {
+							1, -- [1]
+							1, -- [2]
+							1, -- [3]
+							1, -- [4]
+						},
+					},
+					["SkinID"] = "ElvUIesque",
+					["Inherit"] = false,
 				},
 				["WeakAuras_fMa5NRI350X"] = {
 					["Backdrop"] = true,
@@ -27935,7 +29647,7 @@ MasqueDB = {
 					["SkinID"] = "Epix",
 					["Inherit"] = false,
 				},
-				["WeakAuras_Rtq0YBiBvYn"] = {
+				["WeakAuras_5)Xby15T0qu"] = {
 					["Backdrop"] = true,
 					["Upgraded"] = true,
 					["Colors"] = {
@@ -27946,8 +29658,8 @@ MasqueDB = {
 							1, -- [4]
 						},
 					},
+					["SkinID"] = "Epix",
 					["Inherit"] = false,
-					["SkinID"] = "ElvUIesque - No Backdrop",
 				},
 				["WeakAuras_3ZDq0g7nuBO"] = {
 					["Backdrop"] = true,
@@ -27963,7 +29675,7 @@ MasqueDB = {
 					["SkinID"] = "Epix",
 					["Inherit"] = false,
 				},
-				["WeakAuras_mCXjSUsUbVk"] = {
+				["WeakAuras_g5)uq8GiBP("] = {
 					["Backdrop"] = true,
 					["Upgraded"] = true,
 					["Colors"] = {
@@ -27974,10 +29686,10 @@ MasqueDB = {
 							1, -- [4]
 						},
 					},
-					["SkinID"] = "Epix",
+					["SkinID"] = "ElvUIesque - No Backdrop",
 					["Inherit"] = false,
 				},
-				["WeakAuras_mHX0z(5TDo0"] = {
+				["WeakAuras_a)nw78pnvQj"] = {
 					["Backdrop"] = true,
 					["Upgraded"] = true,
 					["Colors"] = {
@@ -27988,21 +29700,12 @@ MasqueDB = {
 							1, -- [4]
 						},
 					},
-					["SkinID"] = "ElvUIesque",
 					["Inherit"] = false,
+					["SkinID"] = "ElvUIesque - No Backdrop",
 				},
-				["WeakAuras_02:_gaze_from_below"] = {
-					["Colors"] = {
-						["Backdrop"] = {
-							1, -- [1]
-							1, -- [2]
-							1, -- [3]
-							1, -- [4]
-						},
-					},
+				["OmniBar_Arcane Power"] = {
 					["Inherit"] = false,
 					["Backdrop"] = true,
-					["SkinID"] = "ElvUIesque",
 				},
 				["WeakAuras_plZCwPuzHdV"] = {
 					["Backdrop"] = true,
@@ -28032,7 +29735,9 @@ MasqueDB = {
 					["SkinID"] = "ElvUIesque",
 					["Inherit"] = false,
 				},
-				["WeakAuras_supression_fire6"] = {
+				["WeakAuras_nyD(TeHM(i4"] = {
+					["Backdrop"] = true,
+					["Upgraded"] = true,
 					["Colors"] = {
 						["Backdrop"] = {
 							1, -- [1]
@@ -28042,23 +29747,9 @@ MasqueDB = {
 						},
 					},
 					["Inherit"] = false,
-					["Backdrop"] = true,
-					["SkinID"] = "ElvUIesque",
+					["SkinID"] = "ElvUIesque - No Backdrop",
 				},
-				["WeakAuras_07:_caustic_delirium"] = {
-					["Colors"] = {
-						["Backdrop"] = {
-							1, -- [1]
-							1, -- [2]
-							1, -- [3]
-							1, -- [4]
-						},
-					},
-					["Inherit"] = false,
-					["Backdrop"] = true,
-					["SkinID"] = "ElvUIesque",
-				},
-				["WeakAuras_fRPi4)LhLHS"] = {
+				["WeakAuras_uiktMpPn59j"] = {
 					["Backdrop"] = true,
 					["Upgraded"] = true,
 					["Colors"] = {
@@ -28071,6 +29762,20 @@ MasqueDB = {
 					},
 					["SkinID"] = "ElvUIesque",
 					["Inherit"] = false,
+				},
+				["WeakAuras_iR)TtdBfT9i"] = {
+					["Backdrop"] = true,
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Backdrop"] = {
+							1, -- [1]
+							1, -- [2]
+							1, -- [3]
+							1, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "ElvUIesque",
 				},
 				["WeakAuras_ro1ZyzFCIAt"] = {
 					["Backdrop"] = true,
@@ -28086,7 +29791,9 @@ MasqueDB = {
 					["Inherit"] = false,
 					["SkinID"] = "ElvUIesque - No Backdrop",
 				},
-				["WeakAuras_supression_fire7"] = {
+				["WeakAuras_DJsDbCQcWPv"] = {
+					["Backdrop"] = true,
+					["Upgraded"] = true,
 					["Colors"] = {
 						["Backdrop"] = {
 							1, -- [1]
@@ -28096,8 +29803,7 @@ MasqueDB = {
 						},
 					},
 					["Inherit"] = false,
-					["Backdrop"] = true,
-					["SkinID"] = "ElvUIesque",
+					["SkinID"] = "ElvUIesque - No Backdrop",
 				},
 				["WeakAuras_talent_tier_1"] = {
 					["Colors"] = {
@@ -28112,7 +29818,7 @@ MasqueDB = {
 					["Backdrop"] = true,
 					["SkinID"] = "ElvUIesque",
 				},
-				["WeakAuras_sap5"] = {
+				["WeakAuras_supression_fire7"] = {
 					["Colors"] = {
 						["Backdrop"] = {
 							1, -- [1]
@@ -28139,7 +29845,7 @@ MasqueDB = {
 					["SkinID"] = "ElvUIesque",
 					["Inherit"] = false,
 				},
-				["WeakAuras_QmAJBQ97AyM"] = {
+				["WeakAuras_MkEiT41z1I8"] = {
 					["Backdrop"] = true,
 					["Upgraded"] = true,
 					["Colors"] = {
@@ -28167,7 +29873,7 @@ MasqueDB = {
 					["SkinID"] = "ElvUIesque - No Backdrop",
 					["Inherit"] = false,
 				},
-				["WeakAuras_no_soak"] = {
+				["WeakAuras_no_soak_2"] = {
 					["Colors"] = {
 						["Backdrop"] = {
 							1, -- [1]
@@ -28180,9 +29886,7 @@ MasqueDB = {
 					["Backdrop"] = true,
 					["SkinID"] = "ElvUIesque",
 				},
-				["WeakAuras_dBPDGqcnTHj"] = {
-					["Backdrop"] = true,
-					["Upgraded"] = true,
+				["WeakAuras_07:_crushing_grasp"] = {
 					["Colors"] = {
 						["Backdrop"] = {
 							1, -- [1]
@@ -28191,12 +29895,11 @@ MasqueDB = {
 							1, -- [4]
 						},
 					},
+					["Inherit"] = false,
+					["Backdrop"] = true,
 					["SkinID"] = "ElvUIesque",
-					["Inherit"] = false,
 				},
-				["WeakAuras_Zvl81iKnxrr"] = {
-					["Backdrop"] = true,
-					["Upgraded"] = true,
+				["WeakAuras_totem_mastery_active_+_range_3"] = {
 					["Colors"] = {
 						["Backdrop"] = {
 							1, -- [1]
@@ -28206,6 +29909,7 @@ MasqueDB = {
 						},
 					},
 					["Inherit"] = false,
+					["Backdrop"] = true,
 					["SkinID"] = "ElvUIesque",
 				},
 				["WeakAuras_pF6XVk3rcsg"] = {
@@ -28222,7 +29926,7 @@ MasqueDB = {
 					["SkinID"] = "ElvUIesque",
 					["Inherit"] = false,
 				},
-				["WeakAuras_zFfLsKHTZtE"] = {
+				["WeakAuras_i42kiJ4QZBd"] = {
 					["Backdrop"] = true,
 					["Upgraded"] = true,
 					["Colors"] = {
@@ -28233,10 +29937,12 @@ MasqueDB = {
 							1, -- [4]
 						},
 					},
-					["SkinID"] = "Epix",
 					["Inherit"] = false,
+					["SkinID"] = "ElvUIesque",
 				},
-				["WeakAuras_decaying_eruption_(big_add_interrupt)"] = {
+				["WeakAuras_hAv0rYFQiSm"] = {
+					["Backdrop"] = true,
+					["Upgraded"] = true,
 					["Colors"] = {
 						["Backdrop"] = {
 							1, -- [1]
@@ -28245,9 +29951,8 @@ MasqueDB = {
 							1, -- [4]
 						},
 					},
-					["Inherit"] = false,
-					["Backdrop"] = true,
 					["SkinID"] = "ElvUIesque",
+					["Inherit"] = false,
 				},
 				["WeakAuras_3YqhFKdZyKv"] = {
 					["Backdrop"] = true,
@@ -28263,7 +29968,7 @@ MasqueDB = {
 					["Inherit"] = false,
 					["SkinID"] = "ElvUIesque - No Backdrop",
 				},
-				["WeakAuras_totem_mastery_active"] = {
+				["WeakAuras_锁喉2"] = {
 					["Colors"] = {
 						["Backdrop"] = {
 							1, -- [1]
@@ -28303,20 +30008,7 @@ MasqueDB = {
 					["SkinID"] = "Epix",
 					["Inherit"] = false,
 				},
-				["WeakAuras_no_soak_2"] = {
-					["Colors"] = {
-						["Backdrop"] = {
-							1, -- [1]
-							1, -- [2]
-							1, -- [3]
-							1, -- [4]
-						},
-					},
-					["Inherit"] = false,
-					["Backdrop"] = true,
-					["SkinID"] = "ElvUIesque",
-				},
-				["WeakAuras_O)X6RpAVN)y"] = {
+				["WeakAuras_BsHBCTSWq4y"] = {
 					["Backdrop"] = true,
 					["Upgraded"] = true,
 					["Colors"] = {
@@ -28327,145 +30019,8 @@ MasqueDB = {
 							1, -- [4]
 						},
 					},
-					["SkinID"] = "ElvUIesque",
 					["Inherit"] = false,
-				},
-				["WeakAuras_MsAw9eCD1Wr"] = {
-					["Backdrop"] = true,
-					["Upgraded"] = true,
-					["Colors"] = {
-						["Backdrop"] = {
-							1, -- [1]
-							1, -- [2]
-							1, -- [3]
-							1, -- [4]
-						},
-					},
-					["SkinID"] = "ElvUIesque",
-					["Inherit"] = false,
-				},
-				["WeakAuras_rnGNwJ9n0A5"] = {
-					["Backdrop"] = true,
-					["Upgraded"] = true,
-					["Colors"] = {
-						["Backdrop"] = {
-							1, -- [1]
-							1, -- [2]
-							1, -- [3]
-							1, -- [4]
-						},
-					},
-					["SkinID"] = "ElvUIesque",
-					["Inherit"] = false,
-				},
-				["WeakAuras_heavy_slash6"] = {
-					["Colors"] = {
-						["Backdrop"] = {
-							1, -- [1]
-							1, -- [2]
-							1, -- [3]
-							1, -- [4]
-						},
-					},
-					["Inherit"] = false,
-					["Backdrop"] = true,
-					["SkinID"] = "ElvUIesque",
-				},
-				["WeakAuras_Ae5tN6m8EYk"] = {
-					["Backdrop"] = true,
-					["Upgraded"] = true,
-					["Colors"] = {
-						["Backdrop"] = {
-							1, -- [1]
-							1, -- [2]
-							1, -- [3]
-							1, -- [4]
-						},
-					},
-					["SkinID"] = "ElvUIesque",
-					["Inherit"] = false,
-				},
-				["WeakAuras_Mon9sYhF25d"] = {
-					["Backdrop"] = true,
-					["Upgraded"] = true,
-					["Colors"] = {
-						["Backdrop"] = {
-							1, -- [1]
-							1, -- [2]
-							1, -- [3]
-							1, -- [4]
-						},
-					},
-					["SkinID"] = "ElvUIesque",
-					["Inherit"] = false,
-				},
-				["WeakAuras_stay_2"] = {
-					["Colors"] = {
-						["Backdrop"] = {
-							1, -- [1]
-							1, -- [2]
-							1, -- [3]
-							1, -- [4]
-						},
-					},
-					["Inherit"] = false,
-					["Backdrop"] = true,
-					["SkinID"] = "ElvUIesque",
-				},
-				["WeakAuras_ksZqeRWLLw6"] = {
-					["Backdrop"] = true,
-					["Upgraded"] = true,
-					["Colors"] = {
-						["Backdrop"] = {
-							1, -- [1]
-							1, -- [2]
-							1, -- [3]
-							1, -- [4]
-						},
-					},
-					["SkinID"] = "ElvUIesque",
-					["Inherit"] = false,
-				},
-				["WeakAuras_73b3KC6Cn9("] = {
-					["Backdrop"] = true,
-					["Upgraded"] = true,
-					["Colors"] = {
-						["Backdrop"] = {
-							1, -- [1]
-							1, -- [2]
-							1, -- [3]
-							1, -- [4]
-						},
-					},
-					["SkinID"] = "Epix",
-					["Inherit"] = false,
-				},
-				["WeakAuras_0(D1vF)0WY2"] = {
-					["Backdrop"] = true,
-					["Upgraded"] = true,
-					["Colors"] = {
-						["Backdrop"] = {
-							1, -- [1]
-							1, -- [2]
-							1, -- [3]
-							1, -- [4]
-						},
-					},
-					["SkinID"] = "ElvUIesque",
-					["Inherit"] = false,
-				},
-				["WeakAuras_07_meteor_leap_/__on_you2"] = {
-					["Colors"] = {
-						["Backdrop"] = {
-							1, -- [1]
-							1, -- [2]
-							1, -- [3]
-							1, -- [4]
-						},
-					},
-					["Inherit"] = false,
-					["Backdrop"] = true,
-					["SkinID"] = "ElvUIesque",
+					["SkinID"] = "ElvUIesque - No Backdrop",
 				},
 				["WeakAuras_astral_shift_3"] = {
 					["Colors"] = {
@@ -28480,104 +30035,7 @@ MasqueDB = {
 					["Backdrop"] = true,
 					["SkinID"] = "ElvUIesque",
 				},
-				["WeakAuras_uz9x4FyzRJT"] = {
-					["Backdrop"] = true,
-					["Upgraded"] = true,
-					["Colors"] = {
-						["Backdrop"] = {
-							1, -- [1]
-							1, -- [2]
-							1, -- [3]
-							1, -- [4]
-						},
-					},
-					["Inherit"] = false,
-					["SkinID"] = "ElvUIesque",
-				},
-				["WeakAuras_GG(lhsV40db"] = {
-					["Backdrop"] = true,
-					["Upgraded"] = true,
-					["Colors"] = {
-						["Backdrop"] = {
-							1, -- [1]
-							1, -- [2]
-							1, -- [3]
-							1, -- [4]
-						},
-					},
-					["SkinID"] = "Epix",
-					["Inherit"] = false,
-				},
-				["WeakAuras_6gR(x0RSXLz"] = {
-					["Backdrop"] = true,
-					["Upgraded"] = true,
-					["Colors"] = {
-						["Backdrop"] = {
-							1, -- [1]
-							1, -- [2]
-							1, -- [3]
-							1, -- [4]
-						},
-					},
-					["SkinID"] = "ElvUIesque",
-					["Inherit"] = false,
-				},
-				["WeakAuras_Gt9hiykeKyS"] = {
-					["Backdrop"] = true,
-					["Upgraded"] = true,
-					["Colors"] = {
-						["Backdrop"] = {
-							1, -- [1]
-							1, -- [2]
-							1, -- [3]
-							1, -- [4]
-						},
-					},
-					["SkinID"] = "ElvUIesque",
-					["Inherit"] = false,
-				},
-				["WeakAuras_imminent_ruin_p1"] = {
-					["Colors"] = {
-						["Backdrop"] = {
-							1, -- [1]
-							1, -- [2]
-							1, -- [3]
-							1, -- [4]
-						},
-					},
-					["Inherit"] = false,
-					["Backdrop"] = true,
-					["SkinID"] = "ElvUIesque",
-				},
-				["WeakAuras_fdAg3)ASPi7"] = {
-					["Backdrop"] = true,
-					["Upgraded"] = true,
-					["Colors"] = {
-						["Backdrop"] = {
-							1, -- [1]
-							1, -- [2]
-							1, -- [3]
-							1, -- [4]
-						},
-					},
-					["SkinID"] = "ElvUIesque",
-					["Inherit"] = false,
-				},
-				["WeakAuras_f0tpcM5f1de"] = {
-					["Backdrop"] = true,
-					["Upgraded"] = true,
-					["Colors"] = {
-						["Backdrop"] = {
-							1, -- [1]
-							1, -- [2]
-							1, -- [3]
-							1, -- [4]
-						},
-					},
-					["SkinID"] = "ElvUIesque",
-					["Inherit"] = false,
-				},
-				["WeakAuras_qRXxosPKTkm"] = {
+				["WeakAuras_MsAw9eCD1Wr"] = {
 					["Backdrop"] = true,
 					["Upgraded"] = true,
 					["Colors"] = {
@@ -28605,11 +30063,267 @@ MasqueDB = {
 					["Inherit"] = false,
 					["SkinID"] = "ElvUIesque - No Backdrop",
 				},
-				["OmniBar"] = {
+				["WeakAuras_heavy_slash6"] = {
+					["Colors"] = {
+						["Backdrop"] = {
+							1, -- [1]
+							1, -- [2]
+							1, -- [3]
+							1, -- [4]
+						},
+					},
 					["Inherit"] = false,
 					["Backdrop"] = true,
+					["SkinID"] = "ElvUIesque",
 				},
-				["WeakAuras_06:_in_formation"] = {
+				["WeakAuras_uz9x4FyzRJT"] = {
+					["Backdrop"] = true,
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Backdrop"] = {
+							1, -- [1]
+							1, -- [2]
+							1, -- [3]
+							1, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "ElvUIesque",
+				},
+				["WeakAuras_twitching_tentacle_of_xalzaix_proc_2"] = {
+					["Colors"] = {
+						["Backdrop"] = {
+							1, -- [1]
+							1, -- [2]
+							1, -- [3]
+							1, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "ElvUIesque",
+				},
+				["WeakAuras_oOenWyk6m56"] = {
+					["Backdrop"] = true,
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Backdrop"] = {
+							1, -- [1]
+							1, -- [2]
+							1, -- [3]
+							1, -- [4]
+						},
+					},
+					["SkinID"] = "ElvUIesque",
+					["Inherit"] = false,
+				},
+				["WeakAuras_Gt9hiykeKyS"] = {
+					["Backdrop"] = true,
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Backdrop"] = {
+							1, -- [1]
+							1, -- [2]
+							1, -- [3]
+							1, -- [4]
+						},
+					},
+					["SkinID"] = "ElvUIesque",
+					["Inherit"] = false,
+				},
+				["WeakAuras_73b3KC6Cn9("] = {
+					["Backdrop"] = true,
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Backdrop"] = {
+							1, -- [1]
+							1, -- [2]
+							1, -- [3]
+							1, -- [4]
+						},
+					},
+					["SkinID"] = "Epix",
+					["Inherit"] = false,
+				},
+				["WeakAuras_3ZMxbtGJEee"] = {
+					["Backdrop"] = true,
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Backdrop"] = {
+							1, -- [1]
+							1, -- [2]
+							1, -- [3]
+							1, -- [4]
+						},
+					},
+					["SkinID"] = "Epix",
+					["Inherit"] = false,
+				},
+				["WeakAuras_07_meteor_leap_/__on_you2"] = {
+					["Colors"] = {
+						["Backdrop"] = {
+							1, -- [1]
+							1, -- [2]
+							1, -- [3]
+							1, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "ElvUIesque",
+				},
+				["WeakAuras_tuy4gbmebOJ"] = {
+					["Backdrop"] = true,
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Backdrop"] = {
+							1, -- [1]
+							1, -- [2]
+							1, -- [3]
+							1, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "ElvUIesque - No Backdrop",
+				},
+				["WeakAuras_o9pDjJoNeQu"] = {
+					["Backdrop"] = true,
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Backdrop"] = {
+							1, -- [1]
+							1, -- [2]
+							1, -- [3]
+							1, -- [4]
+						},
+					},
+					["SkinID"] = "ElvUIesque",
+					["Inherit"] = false,
+				},
+				["WeakAuras_4EmU1jR5GBQ"] = {
+					["Backdrop"] = true,
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Backdrop"] = {
+							1, -- [1]
+							1, -- [2]
+							1, -- [3]
+							1, -- [4]
+						},
+					},
+					["SkinID"] = "Epix",
+					["Inherit"] = false,
+				},
+				["WeakAuras_6gR(x0RSXLz"] = {
+					["Backdrop"] = true,
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Backdrop"] = {
+							1, -- [1]
+							1, -- [2]
+							1, -- [3]
+							1, -- [4]
+						},
+					},
+					["SkinID"] = "ElvUIesque",
+					["Inherit"] = false,
+				},
+				["WeakAuras_YPFe0Za5Pf6"] = {
+					["Backdrop"] = true,
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Backdrop"] = {
+							1, -- [1]
+							1, -- [2]
+							1, -- [3]
+							1, -- [4]
+						},
+					},
+					["SkinID"] = "ElvUIesque",
+					["Inherit"] = false,
+				},
+				["WeakAuras_eUZBt2nBL2F"] = {
+					["Backdrop"] = true,
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Backdrop"] = {
+							1, -- [1]
+							1, -- [2]
+							1, -- [3]
+							1, -- [4]
+						},
+					},
+					["SkinID"] = "Epix",
+					["Inherit"] = false,
+				},
+				["WeakAuras_zt_-_nnogga's_party_cd_front_end25"] = {
+					["Colors"] = {
+						["Backdrop"] = {
+							1, -- [1]
+							1, -- [2]
+							1, -- [3]
+							1, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "ElvUIesque",
+				},
+				["WeakAuras_z(6YNOw(mzf"] = {
+					["Backdrop"] = true,
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Backdrop"] = {
+							1, -- [1]
+							1, -- [2]
+							1, -- [3]
+							1, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Epix",
+				},
+				["WeakAuras_04:_high_boss_energy"] = {
+					["Colors"] = {
+						["Backdrop"] = {
+							1, -- [1]
+							1, -- [2]
+							1, -- [3]
+							1, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "ElvUIesque",
+				},
+				["WeakAuras_ZUj6gROF9bz"] = {
+					["Backdrop"] = true,
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Backdrop"] = {
+							1, -- [1]
+							1, -- [2]
+							1, -- [3]
+							1, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "ElvUIesque",
+				},
+				["WeakAuras_zt_-_nnogga's_party_cd_front_end23"] = {
+					["Colors"] = {
+						["Backdrop"] = {
+							1, -- [1]
+							1, -- [2]
+							1, -- [3]
+							1, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "ElvUIesque",
+				},
+				["WeakAuras_astral_shift_32"] = {
 					["Colors"] = {
 						["Backdrop"] = {
 							1, -- [1]
@@ -28650,9 +30364,7 @@ MasqueDB = {
 					["Inherit"] = false,
 					["SkinID"] = "ElvUIesque",
 				},
-				["WeakAuras_o9pDjJoNeQu"] = {
-					["Backdrop"] = true,
-					["Upgraded"] = true,
+				["WeakAuras_repentance-5"] = {
 					["Colors"] = {
 						["Backdrop"] = {
 							1, -- [1]
@@ -28661,8 +30373,9 @@ MasqueDB = {
 							1, -- [4]
 						},
 					},
-					["SkinID"] = "ElvUIesque",
 					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "ElvUIesque",
 				},
 				["OmniBar_Blessing of Sacrifice"] = {
 					["Inherit"] = false,
@@ -28695,180 +30408,6 @@ MasqueDB = {
 					["Inherit"] = false,
 					["SkinID"] = "ElvUIesque",
 				},
-				["WeakAuras_skyfury_2"] = {
-					["Colors"] = {
-						["Backdrop"] = {
-							1, -- [1]
-							1, -- [2]
-							1, -- [3]
-							1, -- [4]
-						},
-					},
-					["Inherit"] = false,
-					["Backdrop"] = true,
-					["SkinID"] = "ElvUIesque",
-				},
-				["WeakAuras_zt_-_nnogga's_party_cd_front_end19"] = {
-					["Colors"] = {
-						["Backdrop"] = {
-							1, -- [1]
-							1, -- [2]
-							1, -- [3]
-							1, -- [4]
-						},
-					},
-					["Inherit"] = false,
-					["Backdrop"] = true,
-					["SkinID"] = "ElvUIesque",
-				},
-				["WeakAuras_抽血锁喉2"] = {
-					["Colors"] = {
-						["Backdrop"] = {
-							1, -- [1]
-							1, -- [2]
-							1, -- [3]
-							1, -- [4]
-						},
-					},
-					["Inherit"] = false,
-					["Backdrop"] = true,
-					["SkinID"] = "ElvUIesque",
-				},
-				["WeakAuras_Tyksk57)wtE"] = {
-					["Backdrop"] = true,
-					["Upgraded"] = true,
-					["Colors"] = {
-						["Backdrop"] = {
-							1, -- [1]
-							1, -- [2]
-							1, -- [3]
-							1, -- [4]
-						},
-					},
-					["SkinID"] = "ElvUIesque",
-					["Inherit"] = false,
-				},
-				["WeakAuras_emote_stack_run"] = {
-					["Colors"] = {
-						["Backdrop"] = {
-							1, -- [1]
-							1, -- [2]
-							1, -- [3]
-							1, -- [4]
-						},
-					},
-					["Inherit"] = false,
-					["Backdrop"] = true,
-					["SkinID"] = "ElvUIesque",
-				},
-				["WeakAuras_jqqm(pvtITC"] = {
-					["Backdrop"] = true,
-					["Upgraded"] = true,
-					["Colors"] = {
-						["Backdrop"] = {
-							1, -- [1]
-							1, -- [2]
-							1, -- [3]
-							1, -- [4]
-						},
-					},
-					["SkinID"] = "ElvUIesque",
-					["Inherit"] = false,
-				},
-				["WeakAuras_eUZBt2nBL2F"] = {
-					["Backdrop"] = true,
-					["Upgraded"] = true,
-					["Colors"] = {
-						["Backdrop"] = {
-							1, -- [1]
-							1, -- [2]
-							1, -- [3]
-							1, -- [4]
-						},
-					},
-					["SkinID"] = "Epix",
-					["Inherit"] = false,
-				},
-				["WeakAuras_wind_shear_(resto)_2"] = {
-					["Colors"] = {
-						["Backdrop"] = {
-							1, -- [1]
-							1, -- [2]
-							1, -- [3]
-							1, -- [4]
-						},
-					},
-					["Inherit"] = false,
-					["Backdrop"] = true,
-					["SkinID"] = "ElvUIesque",
-				},
-				["WeakAuras_repentance-5"] = {
-					["Colors"] = {
-						["Backdrop"] = {
-							1, -- [1]
-							1, -- [2]
-							1, -- [3]
-							1, -- [4]
-						},
-					},
-					["Inherit"] = false,
-					["Backdrop"] = true,
-					["SkinID"] = "ElvUIesque",
-				},
-				["WeakAuras_exuNGGJJh61"] = {
-					["Backdrop"] = true,
-					["Upgraded"] = true,
-					["Colors"] = {
-						["Backdrop"] = {
-							1, -- [1]
-							1, -- [2]
-							1, -- [3]
-							1, -- [4]
-						},
-					},
-					["Inherit"] = false,
-					["SkinID"] = "ElvUIesque",
-				},
-				["WeakAuras_earthen_wall_totem_-_active"] = {
-					["Colors"] = {
-						["Backdrop"] = {
-							1, -- [1]
-							1, -- [2]
-							1, -- [3]
-							1, -- [4]
-						},
-					},
-					["Inherit"] = false,
-					["Backdrop"] = true,
-					["SkinID"] = "ElvUIesque",
-				},
-				["WeakAuras_CElygrqjrrT"] = {
-					["Backdrop"] = true,
-					["Upgraded"] = true,
-					["Colors"] = {
-						["Backdrop"] = {
-							1, -- [1]
-							1, -- [2]
-							1, -- [3]
-							1, -- [4]
-						},
-					},
-					["SkinID"] = "ElvUIesque",
-					["Inherit"] = false,
-				},
-				["WeakAuras_lava_surge"] = {
-					["Colors"] = {
-						["Backdrop"] = {
-							1, -- [1]
-							1, -- [2]
-							1, -- [3]
-							1, -- [4]
-						},
-					},
-					["Inherit"] = false,
-					["Backdrop"] = true,
-					["SkinID"] = "ElvUIesque",
-				},
 				["WeakAuras_zGNvy3NNK9s"] = {
 					["Backdrop"] = true,
 					["Upgraded"] = true,
@@ -28883,7 +30422,21 @@ MasqueDB = {
 					["SkinID"] = "Epix",
 					["Inherit"] = false,
 				},
-				["WeakAuras_ebonbolt_2"] = {
+				["WeakAuras_JfM6HbbHA)M"] = {
+					["Backdrop"] = true,
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Backdrop"] = {
+							1, -- [1]
+							1, -- [2]
+							1, -- [3]
+							1, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "ElvUIesque - No Backdrop",
+				},
+				["WeakAuras_抽血锁喉2"] = {
 					["Colors"] = {
 						["Backdrop"] = {
 							1, -- [1]
@@ -28896,7 +30449,7 @@ MasqueDB = {
 					["Backdrop"] = true,
 					["SkinID"] = "ElvUIesque",
 				},
-				["WeakAuras_TEAIa0qagjf"] = {
+				["WeakAuras_C2r9RilcH28"] = {
 					["Backdrop"] = true,
 					["Upgraded"] = true,
 					["Colors"] = {
@@ -28907,8 +30460,25 @@ MasqueDB = {
 							1, -- [4]
 						},
 					},
-					["SkinID"] = "ElvUIesque",
 					["Inherit"] = false,
+					["SkinID"] = "Epix",
+				},
+				["WeakAuras_emote_stack_run"] = {
+					["Colors"] = {
+						["Backdrop"] = {
+							1, -- [1]
+							1, -- [2]
+							1, -- [3]
+							1, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "ElvUIesque",
+				},
+				["OmniBar_Darkness"] = {
+					["Inherit"] = false,
+					["Backdrop"] = true,
 				},
 				["WeakAuras_combustion"] = {
 					["Colors"] = {
@@ -28923,7 +30493,7 @@ MasqueDB = {
 					["Backdrop"] = true,
 					["SkinID"] = "ElvUIesque",
 				},
-				["WeakAuras_hybernate3"] = {
+				["WeakAuras_drowned_mana_counter"] = {
 					["Colors"] = {
 						["Backdrop"] = {
 							1, -- [1]
@@ -28936,7 +30506,20 @@ MasqueDB = {
 					["Backdrop"] = true,
 					["SkinID"] = "ElvUIesque",
 				},
-				["WeakAuras_(SxKddTuHzH"] = {
+				["WeakAuras_crusader_strike"] = {
+					["Colors"] = {
+						["Backdrop"] = {
+							1, -- [1]
+							1, -- [2]
+							1, -- [3]
+							1, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "ElvUIesque",
+				},
+				["WeakAuras_zclxBllzhK8"] = {
 					["Backdrop"] = true,
 					["Upgraded"] = true,
 					["Colors"] = {
@@ -28950,7 +30533,121 @@ MasqueDB = {
 					["SkinID"] = "ElvUIesque",
 					["Inherit"] = false,
 				},
-				["WeakAuras_drowned_mana_counter"] = {
+				["WeakAuras_earthen_wall_totem_-_active"] = {
+					["Colors"] = {
+						["Backdrop"] = {
+							1, -- [1]
+							1, -- [2]
+							1, -- [3]
+							1, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "ElvUIesque",
+				},
+				["WeakAuras_rhQFrZq68KA"] = {
+					["Backdrop"] = true,
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Backdrop"] = {
+							1, -- [1]
+							1, -- [2]
+							1, -- [3]
+							1, -- [4]
+						},
+					},
+					["SkinID"] = "ElvUIesque",
+					["Inherit"] = false,
+				},
+				["WeakAuras_jlYfkCVH)9V"] = {
+					["Backdrop"] = true,
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Backdrop"] = {
+							1, -- [1]
+							1, -- [2]
+							1, -- [3]
+							1, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "ElvUIesque - No Backdrop",
+				},
+				["GladiusEx_Buffs"] = {
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "ElvUIesque",
+				},
+				["WeakAuras_ebonbolt_2"] = {
+					["Colors"] = {
+						["Backdrop"] = {
+							1, -- [1]
+							1, -- [2]
+							1, -- [3]
+							1, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "ElvUIesque",
+				},
+				["WeakAuras_48WM0a(EnH9"] = {
+					["Backdrop"] = true,
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Backdrop"] = {
+							1, -- [1]
+							1, -- [2]
+							1, -- [3]
+							1, -- [4]
+						},
+					},
+					["SkinID"] = "ElvUIesque - No Backdrop",
+					["Inherit"] = false,
+				},
+				["WeakAuras_WsLFPUo9RCk"] = {
+					["Backdrop"] = true,
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Backdrop"] = {
+							1, -- [1]
+							1, -- [2]
+							1, -- [3]
+							1, -- [4]
+						},
+					},
+					["SkinID"] = "Epix",
+					["Inherit"] = false,
+				},
+				["WeakAuras_hybernate3"] = {
+					["Colors"] = {
+						["Backdrop"] = {
+							1, -- [1]
+							1, -- [2]
+							1, -- [3]
+							1, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "ElvUIesque",
+				},
+				["WeakAuras_pFOzdDMq7Lg"] = {
+					["Backdrop"] = true,
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Backdrop"] = {
+							1, -- [1]
+							1, -- [2]
+							1, -- [3]
+							1, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "ElvUIesque - No Backdrop",
+				},
+				["WeakAuras_ghuun_fear"] = {
 					["Colors"] = {
 						["Backdrop"] = {
 							1, -- [1]
@@ -29003,11 +30700,7 @@ MasqueDB = {
 					["Backdrop"] = true,
 					["SkinID"] = "ElvUIesque",
 				},
-				["OmniBar_Arcane Power"] = {
-					["Inherit"] = false,
-					["Backdrop"] = true,
-				},
-				["WeakAuras_spirit_link_totem_2"] = {
+				["WeakAuras_suffer:_soak"] = {
 					["Colors"] = {
 						["Backdrop"] = {
 							1, -- [1]
@@ -29020,7 +30713,7 @@ MasqueDB = {
 					["Backdrop"] = true,
 					["SkinID"] = "ElvUIesque",
 				},
-				["WeakAuras_zB)Wsw1nMBY"] = {
+				["WeakAuras_hELd5y7oDmK"] = {
 					["Backdrop"] = true,
 					["Upgraded"] = true,
 					["Colors"] = {
@@ -29031,10 +30724,10 @@ MasqueDB = {
 							1, -- [4]
 						},
 					},
-					["SkinID"] = "ElvUIesque",
 					["Inherit"] = false,
+					["SkinID"] = "ElvUIesque",
 				},
-				["WeakAuras_GqKZJf7XLXG"] = {
+				["WeakAuras_U3mWJXjRtul"] = {
 					["Backdrop"] = true,
 					["Upgraded"] = true,
 					["Colors"] = {
@@ -29045,8 +30738,21 @@ MasqueDB = {
 							1, -- [4]
 						},
 					},
-					["SkinID"] = "ElvUIesque",
 					["Inherit"] = false,
+					["SkinID"] = "ElvUIesque - No Backdrop",
+				},
+				["WeakAuras_whirling_slam8"] = {
+					["Colors"] = {
+						["Backdrop"] = {
+							1, -- [1]
+							1, -- [2]
+							1, -- [3]
+							1, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "ElvUIesque",
 				},
 				["WeakAuras_t2_-_aftershock_2"] = {
 					["Colors"] = {
@@ -29075,7 +30781,7 @@ MasqueDB = {
 					["SkinID"] = "Epix",
 					["Inherit"] = false,
 				},
-				["WeakAuras_fire_time_warp"] = {
+				["WeakAuras_trinket_(resto)"] = {
 					["Colors"] = {
 						["Backdrop"] = {
 							1, -- [1]
@@ -29129,20 +30835,7 @@ MasqueDB = {
 					["SkinID"] = "ElvUIesque",
 					["Inherit"] = false,
 				},
-				["WeakAuras_锁喉2"] = {
-					["Colors"] = {
-						["Backdrop"] = {
-							1, -- [1]
-							1, -- [2]
-							1, -- [3]
-							1, -- [4]
-						},
-					},
-					["Inherit"] = false,
-					["Backdrop"] = true,
-					["SkinID"] = "ElvUIesque",
-				},
-				["WeakAuras_1kQxkXxjqa7"] = {
+				["WeakAuras_jaRY71jGBYy"] = {
 					["Backdrop"] = true,
 					["Upgraded"] = true,
 					["Colors"] = {
@@ -29154,6 +30847,20 @@ MasqueDB = {
 						},
 					},
 					["SkinID"] = "ElvUIesque",
+					["Inherit"] = false,
+				},
+				["WeakAuras_W7QEASKYBTI"] = {
+					["Backdrop"] = true,
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Backdrop"] = {
+							1, -- [1]
+							1, -- [2]
+							1, -- [3]
+							1, -- [4]
+						},
+					},
+					["SkinID"] = "Epix",
 					["Inherit"] = false,
 				},
 				["WeakAuras_emote_soak_rooted"] = {
@@ -29182,7 +30889,9 @@ MasqueDB = {
 					["Backdrop"] = true,
 					["SkinID"] = "ElvUIesque",
 				},
-				["WeakAuras_shiver_venom_relic_2"] = {
+				["WeakAuras_vcUsxp8zE5Z"] = {
+					["Backdrop"] = true,
+					["Upgraded"] = true,
 					["Colors"] = {
 						["Backdrop"] = {
 							1, -- [1]
@@ -29192,10 +30901,23 @@ MasqueDB = {
 						},
 					},
 					["Inherit"] = false,
-					["Backdrop"] = true,
-					["SkinID"] = "ElvUIesque",
+					["SkinID"] = "ElvUIesque - No Backdrop",
 				},
-				["WeakAuras_aZHHkJQd6cq"] = {
+				["WeakAuras_oPng8KbE9aP"] = {
+					["Backdrop"] = true,
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Backdrop"] = {
+							1, -- [1]
+							1, -- [2]
+							1, -- [3]
+							1, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "ElvUIesque - No Backdrop",
+				},
+				["WeakAuras_gBS3QhGGU5C"] = {
 					["Backdrop"] = true,
 					["Upgraded"] = true,
 					["Colors"] = {
@@ -29208,19 +30930,6 @@ MasqueDB = {
 					},
 					["SkinID"] = "ElvUIesque",
 					["Inherit"] = false,
-				},
-				["WeakAuras_invisibility_2"] = {
-					["Colors"] = {
-						["Backdrop"] = {
-							1, -- [1]
-							1, -- [2]
-							1, -- [3]
-							1, -- [4]
-						},
-					},
-					["Inherit"] = false,
-					["Backdrop"] = true,
-					["SkinID"] = "ElvUIesque",
 				},
 				["WeakAuras_brain_freeze_2"] = {
 					["Colors"] = {
@@ -29235,7 +30944,7 @@ MasqueDB = {
 					["Backdrop"] = true,
 					["SkinID"] = "ElvUIesque",
 				},
-				["WeakAuras_Swdk79kPjxL"] = {
+				["WeakAuras_7jHDzrfZcOG"] = {
 					["Backdrop"] = true,
 					["Upgraded"] = true,
 					["Colors"] = {
@@ -29246,14 +30955,23 @@ MasqueDB = {
 							1, -- [4]
 						},
 					},
+					["Inherit"] = false,
 					["SkinID"] = "ElvUIesque",
-					["Inherit"] = false,
 				},
-				["OmniBar_Celestial Alignment"] = {
+				["WeakAuras_01:_delirious/frozen"] = {
+					["Colors"] = {
+						["Backdrop"] = {
+							1, -- [1]
+							1, -- [2]
+							1, -- [3]
+							1, -- [4]
+						},
+					},
 					["Inherit"] = false,
 					["Backdrop"] = true,
+					["SkinID"] = "ElvUIesque",
 				},
-				["WeakAuras_pFOzdDMq7Lg"] = {
+				["WeakAuras_QQhLWqyABrp"] = {
 					["Backdrop"] = true,
 					["Upgraded"] = true,
 					["Colors"] = {
@@ -29264,10 +30982,10 @@ MasqueDB = {
 							1, -- [4]
 						},
 					},
-					["Inherit"] = false,
 					["SkinID"] = "ElvUIesque - No Backdrop",
+					["Inherit"] = false,
 				},
-				["WeakAuras_nebgnv0pSAj"] = {
+				["WeakAuras_6Q)wzTaQlti"] = {
 					["Backdrop"] = true,
 					["Upgraded"] = true,
 					["Colors"] = {
@@ -29278,8 +30996,8 @@ MasqueDB = {
 							1, -- [4]
 						},
 					},
-					["SkinID"] = "ElvUIesque",
 					["Inherit"] = false,
+					["SkinID"] = "ElvUIesque",
 				},
 				["WeakAuras_S5hFrl1MnZ1"] = {
 					["Backdrop"] = true,
@@ -29295,7 +31013,7 @@ MasqueDB = {
 					["SkinID"] = "ElvUIesque",
 					["Inherit"] = false,
 				},
-				["WeakAuras_judgement_2"] = {
+				["WeakAuras_banish4"] = {
 					["Colors"] = {
 						["Backdrop"] = {
 							1, -- [1]
@@ -29308,7 +31026,7 @@ MasqueDB = {
 					["Backdrop"] = true,
 					["SkinID"] = "ElvUIesque",
 				},
-				["WeakAuras_whirling_slam8"] = {
+				["WeakAuras_march_2"] = {
 					["Colors"] = {
 						["Backdrop"] = {
 							1, -- [1]
@@ -29348,7 +31066,20 @@ MasqueDB = {
 					["Backdrop"] = true,
 					["SkinID"] = "ElvUIesque",
 				},
-				["WeakAuras_vfVdZEJr4Pa"] = {
+				["WeakAuras_brutal_blackhand4"] = {
+					["Colors"] = {
+						["Backdrop"] = {
+							1, -- [1]
+							1, -- [2]
+							1, -- [3]
+							1, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "ElvUIesque",
+				},
+				["WeakAuras_pONdK1qevFk"] = {
 					["Backdrop"] = true,
 					["Upgraded"] = true,
 					["Colors"] = {
@@ -29359,21 +31090,8 @@ MasqueDB = {
 							1, -- [4]
 						},
 					},
-					["Inherit"] = false,
 					["SkinID"] = "ElvUIesque",
-				},
-				["WeakAuras_spookfish"] = {
-					["Colors"] = {
-						["Backdrop"] = {
-							1, -- [1]
-							1, -- [2]
-							1, -- [3]
-							1, -- [4]
-						},
-					},
 					["Inherit"] = false,
-					["Backdrop"] = true,
-					["SkinID"] = "ElvUIesque",
 				},
 				["WeakAuras_zcUpiH6xvwd"] = {
 					["Backdrop"] = true,
@@ -29416,7 +31134,7 @@ MasqueDB = {
 					["Backdrop"] = true,
 					["SkinID"] = "ElvUIesque",
 				},
-				["WeakAuras_bRob7v24mCv"] = {
+				["WeakAuras_BxV3LjImO1o"] = {
 					["Backdrop"] = true,
 					["Upgraded"] = true,
 					["Colors"] = {
@@ -29427,7 +31145,7 @@ MasqueDB = {
 							1, -- [4]
 						},
 					},
-					["SkinID"] = "ElvUIesque",
+					["SkinID"] = "Epix",
 					["Inherit"] = false,
 				},
 				["WeakAuras_combustion_buff"] = {
@@ -29443,19 +31161,9 @@ MasqueDB = {
 					["Backdrop"] = true,
 					["SkinID"] = "ElvUIesque",
 				},
-				["WeakAuras_W7QEASKYBTI"] = {
-					["Backdrop"] = true,
-					["Upgraded"] = true,
-					["Colors"] = {
-						["Backdrop"] = {
-							1, -- [1]
-							1, -- [2]
-							1, -- [3]
-							1, -- [4]
-						},
-					},
-					["SkinID"] = "Epix",
+				["WeakAuras_elemental_blast_cd_2"] = {
 					["Inherit"] = false,
+					["SkinID"] = "ElvUIesque",
 				},
 				["WeakAuras_F59RzUO3h6i"] = {
 					["Backdrop"] = true,
@@ -29471,7 +31179,7 @@ MasqueDB = {
 					["SkinID"] = "Epix",
 					["Inherit"] = false,
 				},
-				["WeakAuras_4EmU1jR5GBQ"] = {
+				["WeakAuras_elwdXYPyQBP"] = {
 					["Backdrop"] = true,
 					["Upgraded"] = true,
 					["Colors"] = {
@@ -29482,10 +31190,12 @@ MasqueDB = {
 							1, -- [4]
 						},
 					},
-					["SkinID"] = "Epix",
 					["Inherit"] = false,
+					["SkinID"] = "ElvUIesque - No Backdrop",
 				},
-				["WeakAuras_诡诈锁喉2"] = {
+				["WeakAuras_ci6jDAQTVAU"] = {
+					["Backdrop"] = true,
+					["Upgraded"] = true,
 					["Colors"] = {
 						["Backdrop"] = {
 							1, -- [1]
@@ -29495,10 +31205,9 @@ MasqueDB = {
 						},
 					},
 					["Inherit"] = false,
-					["Backdrop"] = true,
-					["SkinID"] = "ElvUIesque",
+					["SkinID"] = "ElvUIesque - No Backdrop",
 				},
-				["WeakAuras_zt_-_nnogga's_party_cd_front_end23"] = {
+				["WeakAuras_08_voltaic_flash2"] = {
 					["Colors"] = {
 						["Backdrop"] = {
 							1, -- [1]
@@ -29542,7 +31251,7 @@ MasqueDB = {
 					["Backdrop"] = true,
 					["SkinID"] = "ElvUIesque",
 				},
-				["WeakAuras_XPsmxW9BKrp"] = {
+				["WeakAuras_Hs2APo6PqjG"] = {
 					["Backdrop"] = true,
 					["Upgraded"] = true,
 					["Colors"] = {
@@ -29553,8 +31262,8 @@ MasqueDB = {
 							1, -- [4]
 						},
 					},
+					["SkinID"] = "ElvUIesque",
 					["Inherit"] = false,
-					["SkinID"] = "ElvUIesque - No Backdrop",
 				},
 				["WeakAuras_zt_-_nnogga's_party_cd_front_end28"] = {
 					["Colors"] = {
@@ -29625,21 +31334,7 @@ MasqueDB = {
 					["Inherit"] = false,
 					["SkinID"] = "ElvUIesque",
 				},
-				["WeakAuras_Eqmpu9UatCN"] = {
-					["Backdrop"] = true,
-					["Upgraded"] = true,
-					["Colors"] = {
-						["Backdrop"] = {
-							1, -- [1]
-							1, -- [2]
-							1, -- [3]
-							1, -- [4]
-						},
-					},
-					["SkinID"] = "ElvUIesque",
-					["Inherit"] = false,
-				},
-				["WeakAuras_nQd5bQM3cWu"] = {
+				["WeakAuras_u77yWTQ9QVU"] = {
 					["Backdrop"] = true,
 					["Upgraded"] = true,
 					["Colors"] = {
@@ -29653,7 +31348,7 @@ MasqueDB = {
 					["Inherit"] = false,
 					["SkinID"] = "ElvUIesque - No Backdrop",
 				},
-				["WeakAuras_elA62r8S7j9"] = {
+				["WeakAuras_OOOj)zFym8G"] = {
 					["Backdrop"] = true,
 					["Upgraded"] = true,
 					["Colors"] = {
@@ -29664,10 +31359,10 @@ MasqueDB = {
 							1, -- [4]
 						},
 					},
-					["SkinID"] = "Epix",
 					["Inherit"] = false,
+					["SkinID"] = "ElvUIesque",
 				},
-				["WeakAuras_elwdXYPyQBP"] = {
+				["WeakAuras_37lvzG)lsri"] = {
 					["Backdrop"] = true,
 					["Upgraded"] = true,
 					["Colors"] = {
@@ -29681,7 +31376,9 @@ MasqueDB = {
 					["Inherit"] = false,
 					["SkinID"] = "ElvUIesque - No Backdrop",
 				},
-				["WeakAuras_08_voltaic_flash2"] = {
+				["WeakAuras_7qImWUkH)1U"] = {
+					["Backdrop"] = true,
+					["Upgraded"] = true,
 					["Colors"] = {
 						["Backdrop"] = {
 							1, -- [1]
@@ -29691,8 +31388,21 @@ MasqueDB = {
 						},
 					},
 					["Inherit"] = false,
+					["SkinID"] = "ElvUIesque - No Backdrop",
+				},
+				["WeakAuras_Ciiz)8m3P8c"] = {
 					["Backdrop"] = true,
-					["SkinID"] = "ElvUIesque",
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Backdrop"] = {
+							1, -- [1]
+							1, -- [2]
+							1, -- [3]
+							1, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "ElvUIesque - No Backdrop",
 				},
 				["WeakAuras_hindering_cleave_tank"] = {
 					["Colors"] = {
@@ -29711,7 +31421,7 @@ MasqueDB = {
 					["Inherit"] = false,
 					["Backdrop"] = true,
 				},
-				["WeakAuras_8KoWyaul8o0"] = {
+				["WeakAuras_OscOyvYyEpN"] = {
 					["Backdrop"] = true,
 					["Upgraded"] = true,
 					["Colors"] = {
@@ -29767,7 +31477,7 @@ MasqueDB = {
 					["SkinID"] = "ElvUIesque",
 					["Inherit"] = false,
 				},
-				["WeakAuras_jlYfkCVH)9V"] = {
+				["WeakAuras_Jeold5dtui3"] = {
 					["Backdrop"] = true,
 					["Upgraded"] = true,
 					["Colors"] = {
@@ -29778,8 +31488,8 @@ MasqueDB = {
 							1, -- [4]
 						},
 					},
+					["SkinID"] = "ElvUIesque",
 					["Inherit"] = false,
-					["SkinID"] = "ElvUIesque - No Backdrop",
 				},
 				["WeakAuras_VrDtksyL2aP"] = {
 					["Backdrop"] = true,
@@ -29795,21 +31505,7 @@ MasqueDB = {
 					["SkinID"] = "ElvUIesque",
 					["Inherit"] = false,
 				},
-				["WeakAuras_36lx76S)W(v"] = {
-					["Backdrop"] = true,
-					["Upgraded"] = true,
-					["Colors"] = {
-						["Backdrop"] = {
-							1, -- [1]
-							1, -- [2]
-							1, -- [3]
-							1, -- [4]
-						},
-					},
-					["SkinID"] = "Epix",
-					["Inherit"] = false,
-				},
-				["WeakAuras_u77yWTQ9QVU"] = {
+				["WeakAuras_VxNfHjeefL)"] = {
 					["Backdrop"] = true,
 					["Upgraded"] = true,
 					["Colors"] = {
@@ -29823,7 +31519,7 @@ MasqueDB = {
 					["Inherit"] = false,
 					["SkinID"] = "ElvUIesque - No Backdrop",
 				},
-				["WeakAuras_rSPIg86dwPG"] = {
+				["WeakAuras_fLcK5(vkVvT"] = {
 					["Backdrop"] = true,
 					["Upgraded"] = true,
 					["Colors"] = {
@@ -29834,10 +31530,14 @@ MasqueDB = {
 							1, -- [4]
 						},
 					},
-					["SkinID"] = "ElvUIesque",
 					["Inherit"] = false,
+					["SkinID"] = "ElvUIesque - No Backdrop",
 				},
-				["WeakAuras_qzVGQtmKQwu"] = {
+				["OmniBar_Touch of Karma"] = {
+					["Inherit"] = false,
+					["Backdrop"] = true,
+				},
+				["WeakAuras_Bp77)G4RKd4"] = {
 					["Backdrop"] = true,
 					["Upgraded"] = true,
 					["Colors"] = {
@@ -29887,19 +31587,9 @@ MasqueDB = {
 					["SkinID"] = "ElvUIesque",
 					["Inherit"] = false,
 				},
-				["WeakAuras_8sA05CyDgB9"] = {
-					["Backdrop"] = true,
-					["Upgraded"] = true,
-					["Colors"] = {
-						["Backdrop"] = {
-							1, -- [1]
-							1, -- [2]
-							1, -- [3]
-							1, -- [4]
-						},
-					},
-					["SkinID"] = "ElvUIesque",
+				["OmniBar_Cloak of Shadows"] = {
 					["Inherit"] = false,
+					["Backdrop"] = true,
 				},
 				["WeakAuras_xd9zwK8D1MZ"] = {
 					["Backdrop"] = true,
@@ -29929,9 +31619,19 @@ MasqueDB = {
 					["Inherit"] = false,
 					["SkinID"] = "ElvUIesque",
 				},
-				["OmniBar_Freezing Trap"] = {
-					["Inherit"] = false,
+				["WeakAuras_bG3cdpJMpyl"] = {
 					["Backdrop"] = true,
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Backdrop"] = {
+							1, -- [1]
+							1, -- [2]
+							1, -- [3]
+							1, -- [4]
+						},
+					},
+					["SkinID"] = "ElvUIesque - No Backdrop",
+					["Inherit"] = false,
 				},
 				["WeakAuras_67ssYM7iBo8"] = {
 					["Backdrop"] = true,
@@ -29987,9 +31687,7 @@ MasqueDB = {
 					["Backdrop"] = true,
 					["SkinID"] = "ElvUIesque",
 				},
-				["WeakAuras_EpeZeTYNwnE"] = {
-					["Backdrop"] = true,
-					["Upgraded"] = true,
+				["WeakAuras_zt_-_nnogga's_party_cd_front_end34"] = {
 					["Colors"] = {
 						["Backdrop"] = {
 							1, -- [1]
@@ -29999,6 +31697,7 @@ MasqueDB = {
 						},
 					},
 					["Inherit"] = false,
+					["Backdrop"] = true,
 					["SkinID"] = "ElvUIesque",
 				},
 				["WeakAuras_shiver_venom_relic_cd"] = {
@@ -30055,7 +31754,7 @@ MasqueDB = {
 					["Backdrop"] = true,
 					["SkinID"] = "ElvUIesque",
 				},
-				["WeakAuras_5DG6JvFmrGU"] = {
+				["WeakAuras_mRVB9M)a6xK"] = {
 					["Backdrop"] = true,
 					["Upgraded"] = true,
 					["Colors"] = {
@@ -30067,7 +31766,7 @@ MasqueDB = {
 						},
 					},
 					["Inherit"] = false,
-					["SkinID"] = "ElvUIesque - No Backdrop",
+					["SkinID"] = "Epix",
 				},
 				["WeakAuras_08_electric_shroud3"] = {
 					["Colors"] = {
@@ -30082,7 +31781,21 @@ MasqueDB = {
 					["Backdrop"] = true,
 					["SkinID"] = "ElvUIesque",
 				},
-				["WeakAuras_DlWAsX9dnrm"] = {
+				["WeakAuras_K4lechu8mxp"] = {
+					["Backdrop"] = true,
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Backdrop"] = {
+							1, -- [1]
+							1, -- [2]
+							1, -- [3]
+							1, -- [4]
+						},
+					},
+					["SkinID"] = "Epix",
+					["Inherit"] = false,
+				},
+				["WeakAuras_o0EeU3nNPel"] = {
 					["Backdrop"] = true,
 					["Upgraded"] = true,
 					["Colors"] = {
@@ -30096,7 +31809,9 @@ MasqueDB = {
 					["SkinID"] = "ElvUIesque",
 					["Inherit"] = false,
 				},
-				["WeakAuras_zt_-_nnogga's_party_cd_front_end34"] = {
+				["WeakAuras_Gwp5x3VUiHx"] = {
+					["Backdrop"] = true,
+					["Upgraded"] = true,
 					["Colors"] = {
 						["Backdrop"] = {
 							1, -- [1]
@@ -30106,8 +31821,49 @@ MasqueDB = {
 						},
 					},
 					["Inherit"] = false,
+					["SkinID"] = "ElvUIesque - No Backdrop",
+				},
+				["WeakAuras_uYUh6L5DIN7"] = {
 					["Backdrop"] = true,
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Backdrop"] = {
+							1, -- [1]
+							1, -- [2]
+							1, -- [3]
+							1, -- [4]
+						},
+					},
+					["Inherit"] = false,
 					["SkinID"] = "ElvUIesque",
+				},
+				["WeakAuras_kaI3OdrMei("] = {
+					["Backdrop"] = true,
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Backdrop"] = {
+							1, -- [1]
+							1, -- [2]
+							1, -- [3]
+							1, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "ElvUIesque",
+				},
+				["WeakAuras_YbbrtNH5ucI"] = {
+					["Backdrop"] = true,
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Backdrop"] = {
+							1, -- [1]
+							1, -- [2]
+							1, -- [3]
+							1, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "ElvUIesque - No Backdrop",
 				},
 				["WeakAuras_J(AFALyKHGH"] = {
 					["Backdrop"] = true,
@@ -30123,13 +31879,7 @@ MasqueDB = {
 					["SkinID"] = "Epix",
 					["Inherit"] = false,
 				},
-				["OmniBar_Ascendance"] = {
-					["Inherit"] = false,
-					["Backdrop"] = true,
-				},
-				["WeakAuras_HJyuUxs4mFX"] = {
-					["Backdrop"] = true,
-					["Upgraded"] = true,
+				["WeakAuras_healing_tide_totem_2_-_active"] = {
 					["Colors"] = {
 						["Backdrop"] = {
 							1, -- [1]
@@ -30138,32 +31888,11 @@ MasqueDB = {
 							1, -- [4]
 						},
 					},
-					["SkinID"] = "Epix",
-					["Inherit"] = false,
-				},
-				["OmniBar_Cloak of Shadows"] = {
 					["Inherit"] = false,
 					["Backdrop"] = true,
-				},
-				["WeakAuras_HO(ULJmHGJb"] = {
-					["Backdrop"] = true,
-					["Upgraded"] = true,
-					["Colors"] = {
-						["Backdrop"] = {
-							1, -- [1]
-							1, -- [2]
-							1, -- [3]
-							1, -- [4]
-						},
-					},
 					["SkinID"] = "ElvUIesque",
-					["Inherit"] = false,
 				},
-				["OmniBar_Intimidating Shout"] = {
-					["Inherit"] = false,
-					["Backdrop"] = true,
-				},
-				["WeakAuras_Bp77)G4RKd4"] = {
+				["WeakAuras_S(VwMDBCC8l"] = {
 					["Backdrop"] = true,
 					["Upgraded"] = true,
 					["Colors"] = {
@@ -30203,23 +31932,7 @@ MasqueDB = {
 					["Backdrop"] = true,
 					["SkinID"] = "ElvUIesque",
 				},
-				["WeakAuras_0HV341ua)q6"] = {
-					["Backdrop"] = true,
-					["Upgraded"] = true,
-					["Colors"] = {
-						["Backdrop"] = {
-							1, -- [1]
-							1, -- [2]
-							1, -- [3]
-							1, -- [4]
-						},
-					},
-					["SkinID"] = "ElvUIesque",
-					["Inherit"] = false,
-				},
-				["WeakAuras_uYSl3NOneN5"] = {
-					["Backdrop"] = true,
-					["Upgraded"] = true,
+				["WeakAuras_fire_mirror_image"] = {
 					["Colors"] = {
 						["Backdrop"] = {
 							1, -- [1]
@@ -30229,23 +31942,10 @@ MasqueDB = {
 						},
 					},
 					["Inherit"] = false,
+					["Backdrop"] = true,
 					["SkinID"] = "ElvUIesque",
 				},
-				["WeakAuras_3H5UNvEoKHP"] = {
-					["Backdrop"] = true,
-					["Upgraded"] = true,
-					["Colors"] = {
-						["Backdrop"] = {
-							1, -- [1]
-							1, -- [2]
-							1, -- [3]
-							1, -- [4]
-						},
-					},
-					["Inherit"] = false,
-					["SkinID"] = "Epix",
-				},
-				["WeakAuras_Gwp5x3VUiHx"] = {
+				["WeakAuras_2f)6juTf6jH"] = {
 					["Backdrop"] = true,
 					["Upgraded"] = true,
 					["Colors"] = {
@@ -30258,6 +31958,34 @@ MasqueDB = {
 					},
 					["Inherit"] = false,
 					["SkinID"] = "ElvUIesque - No Backdrop",
+				},
+				["WeakAuras_P)hTuLta5Jf"] = {
+					["Backdrop"] = true,
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Backdrop"] = {
+							1, -- [1]
+							1, -- [2]
+							1, -- [3]
+							1, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "ElvUIesque",
+				},
+				["WeakAuras_Pvc8WuD6QSz"] = {
+					["Backdrop"] = true,
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Backdrop"] = {
+							1, -- [1]
+							1, -- [2]
+							1, -- [3]
+							1, -- [4]
+						},
+					},
+					["SkinID"] = "Epix",
+					["Inherit"] = false,
 				},
 				["WeakAuras_supression_fire15"] = {
 					["Colors"] = {
@@ -30286,7 +32014,21 @@ MasqueDB = {
 					["SkinID"] = "Epix",
 					["Inherit"] = false,
 				},
-				["WeakAuras_YbbrtNH5ucI"] = {
+				["WeakAuras_rnGNwJ9n0A5"] = {
+					["Backdrop"] = true,
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Backdrop"] = {
+							1, -- [1]
+							1, -- [2]
+							1, -- [3]
+							1, -- [4]
+						},
+					},
+					["SkinID"] = "ElvUIesque",
+					["Inherit"] = false,
+				},
+				["WeakAuras_vVtxc3hG6Xu"] = {
 					["Backdrop"] = true,
 					["Upgraded"] = true,
 					["Colors"] = {
@@ -30300,21 +32042,7 @@ MasqueDB = {
 					["Inherit"] = false,
 					["SkinID"] = "ElvUIesque - No Backdrop",
 				},
-				["WeakAuras_uYUh6L5DIN7"] = {
-					["Backdrop"] = true,
-					["Upgraded"] = true,
-					["Colors"] = {
-						["Backdrop"] = {
-							1, -- [1]
-							1, -- [2]
-							1, -- [3]
-							1, -- [4]
-						},
-					},
-					["Inherit"] = false,
-					["SkinID"] = "ElvUIesque",
-				},
-				["WeakAuras_pONdK1qevFk"] = {
+				["WeakAuras_tRGe31ik60)"] = {
 					["Backdrop"] = true,
 					["Upgraded"] = true,
 					["Colors"] = {
@@ -30332,7 +32060,7 @@ MasqueDB = {
 					["Inherit"] = false,
 					["Backdrop"] = true,
 				},
-				["WeakAuras_S(VwMDBCC8l"] = {
+				["WeakAuras_ReDCPIwAWev"] = {
 					["Backdrop"] = true,
 					["Upgraded"] = true,
 					["Colors"] = {
@@ -30344,9 +32072,13 @@ MasqueDB = {
 						},
 					},
 					["Inherit"] = false,
-					["SkinID"] = "ElvUIesque",
+					["SkinID"] = "ElvUIesque - No Backdrop",
 				},
-				["WeakAuras_hAstefZ5Rtd"] = {
+				["OmniBar_Freezing Trap"] = {
+					["Inherit"] = false,
+					["Backdrop"] = true,
+				},
+				["WeakAuras_7eMj75kVuAa"] = {
 					["Backdrop"] = true,
 					["Upgraded"] = true,
 					["Colors"] = {
@@ -30357,10 +32089,10 @@ MasqueDB = {
 							1, -- [4]
 						},
 					},
-					["Inherit"] = false,
 					["SkinID"] = "ElvUIesque",
+					["Inherit"] = false,
 				},
-				["WeakAuras_BxV3LjImO1o"] = {
+				["WeakAuras_KA(dTW0SGKG"] = {
 					["Backdrop"] = true,
 					["Upgraded"] = true,
 					["Colors"] = {
@@ -30371,21 +32103,8 @@ MasqueDB = {
 							1, -- [4]
 						},
 					},
-					["SkinID"] = "Epix",
-					["Inherit"] = false,
-				},
-				["WeakAuras_orgozoa"] = {
-					["Colors"] = {
-						["Backdrop"] = {
-							1, -- [1]
-							1, -- [2]
-							1, -- [3]
-							1, -- [4]
-						},
-					},
-					["Inherit"] = false,
-					["Backdrop"] = true,
 					["SkinID"] = "ElvUIesque",
+					["Inherit"] = false,
 				},
 				["WeakAuras_savage_cleave2"] = {
 					["Colors"] = {
@@ -30400,7 +32119,7 @@ MasqueDB = {
 					["Backdrop"] = true,
 					["SkinID"] = "ElvUIesque",
 				},
-				["WeakAuras_8FyAtamvQQh"] = {
+				["WeakAuras_MHWENKpS0rO"] = {
 					["Backdrop"] = true,
 					["Upgraded"] = true,
 					["Colors"] = {
@@ -30412,21 +32131,11 @@ MasqueDB = {
 						},
 					},
 					["Inherit"] = false,
-					["SkinID"] = "ElvUIesque",
+					["SkinID"] = "ElvUIesque - No Backdrop",
 				},
-				["WeakAuras_P)hTuLta5Jf"] = {
-					["Backdrop"] = true,
-					["Upgraded"] = true,
-					["Colors"] = {
-						["Backdrop"] = {
-							1, -- [1]
-							1, -- [2]
-							1, -- [3]
-							1, -- [4]
-						},
-					},
+				["OmniBar_Dark Soul: Instability"] = {
 					["Inherit"] = false,
-					["SkinID"] = "ElvUIesque",
+					["Backdrop"] = true,
 				},
 				["WeakAuras_queen's_court_form_ranks_active"] = {
 					["Colors"] = {
@@ -30441,7 +32150,7 @@ MasqueDB = {
 					["Backdrop"] = true,
 					["SkinID"] = "ElvUIesque",
 				},
-				["WeakAuras_9Z2Qm7jrTw1"] = {
+				["WeakAuras_2AjLnqrr8gu"] = {
 					["Backdrop"] = true,
 					["Upgraded"] = true,
 					["Colors"] = {
@@ -30453,7 +32162,7 @@ MasqueDB = {
 						},
 					},
 					["Inherit"] = false,
-					["SkinID"] = "ElvUIesque",
+					["SkinID"] = "ElvUIesque - No Backdrop",
 				},
 				["WeakAuras_t2_-_totem_mastery_2"] = {
 					["Colors"] = {
@@ -30481,7 +32190,7 @@ MasqueDB = {
 					["Backdrop"] = true,
 					["SkinID"] = "ElvUIesque",
 				},
-				["WeakAuras_Pvc8WuD6QSz"] = {
+				["WeakAuras_UX892WS5qH5"] = {
 					["Backdrop"] = true,
 					["Upgraded"] = true,
 					["Colors"] = {
@@ -30492,8 +32201,8 @@ MasqueDB = {
 							1, -- [4]
 						},
 					},
-					["SkinID"] = "Epix",
 					["Inherit"] = false,
+					["SkinID"] = "ElvUIesque - No Backdrop",
 				},
 				["WeakAuras_Lb3DtLmUG5L"] = {
 					["Backdrop"] = true,
@@ -30509,9 +32218,7 @@ MasqueDB = {
 					["Inherit"] = false,
 					["SkinID"] = "ElvUIesque",
 				},
-				["WeakAuras_bIj11goyHtZ"] = {
-					["Backdrop"] = true,
-					["Upgraded"] = true,
+				["WeakAuras_banana_rampage13"] = {
 					["Colors"] = {
 						["Backdrop"] = {
 							1, -- [1]
@@ -30521,9 +32228,10 @@ MasqueDB = {
 						},
 					},
 					["Inherit"] = false,
+					["Backdrop"] = true,
 					["SkinID"] = "ElvUIesque",
 				},
-				["WeakAuras_vVtxc3hG6Xu"] = {
+				["WeakAuras_)Mk69iKUlm9"] = {
 					["Backdrop"] = true,
 					["Upgraded"] = true,
 					["Colors"] = {
@@ -30535,9 +32243,9 @@ MasqueDB = {
 						},
 					},
 					["Inherit"] = false,
-					["SkinID"] = "ElvUIesque - No Backdrop",
+					["SkinID"] = "Epix",
 				},
-				["WeakAuras_WbvfFd)74m7"] = {
+				["WeakAuras_Bl(8SvWD8aY"] = {
 					["Backdrop"] = true,
 					["Upgraded"] = true,
 					["Colors"] = {
@@ -30549,7 +32257,7 @@ MasqueDB = {
 						},
 					},
 					["Inherit"] = false,
-					["SkinID"] = "ElvUIesque - No Backdrop",
+					["SkinID"] = "Epix",
 				},
 				["WeakAuras_56OLhc2J8Zc"] = {
 					["Backdrop"] = true,
@@ -30591,9 +32299,7 @@ MasqueDB = {
 					["Backdrop"] = true,
 					["SkinID"] = "ElvUIesque",
 				},
-				["WeakAuras_u60cSk617b3"] = {
-					["Backdrop"] = true,
-					["Upgraded"] = true,
+				["WeakAuras_boulderfist"] = {
 					["Colors"] = {
 						["Backdrop"] = {
 							1, -- [1]
@@ -30603,9 +32309,10 @@ MasqueDB = {
 						},
 					},
 					["Inherit"] = false,
+					["Backdrop"] = true,
 					["SkinID"] = "ElvUIesque",
 				},
-				["WeakAuras_KA(dTW0SGKG"] = {
+				["WeakAuras_9c2NLbB3plp"] = {
 					["Backdrop"] = true,
 					["Upgraded"] = true,
 					["Colors"] = {
@@ -30616,12 +32323,10 @@ MasqueDB = {
 							1, -- [4]
 						},
 					},
-					["SkinID"] = "ElvUIesque",
 					["Inherit"] = false,
+					["SkinID"] = "ElvUIesque - No Backdrop",
 				},
-				["WeakAuras_0Sj1BVaJkrb"] = {
-					["Backdrop"] = true,
-					["Upgraded"] = true,
+				["WeakAuras_zt_-_nnogga's_party_cd_front_end21"] = {
 					["Colors"] = {
 						["Backdrop"] = {
 							1, -- [1]
@@ -30631,6 +32336,7 @@ MasqueDB = {
 						},
 					},
 					["Inherit"] = false,
+					["Backdrop"] = true,
 					["SkinID"] = "ElvUIesque",
 				},
 				["WeakAuras_ey(Qe3(kxx0"] = {
@@ -30647,7 +32353,9 @@ MasqueDB = {
 					["Inherit"] = false,
 					["SkinID"] = "ElvUIesque - No Backdrop",
 				},
-				["WeakAuras_05:_missed_interrupt"] = {
+				["WeakAuras_x7fL(zAzLwC"] = {
+					["Backdrop"] = true,
+					["Upgraded"] = true,
 					["Colors"] = {
 						["Backdrop"] = {
 							1, -- [1]
@@ -30656,11 +32364,24 @@ MasqueDB = {
 							1, -- [4]
 						},
 					},
-					["Inherit"] = false,
-					["Backdrop"] = true,
 					["SkinID"] = "ElvUIesque",
+					["Inherit"] = false,
 				},
-				["WeakAuras_3VDQFKnpUYl"] = {
+				["WeakAuras_69D6qf4vYHq"] = {
+					["Backdrop"] = true,
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Backdrop"] = {
+							1, -- [1]
+							1, -- [2]
+							1, -- [3]
+							1, -- [4]
+						},
+					},
+					["SkinID"] = "ElvUIesque",
+					["Inherit"] = false,
+				},
+				["WeakAuras_yIlf4zguf18"] = {
 					["Backdrop"] = true,
 					["Upgraded"] = true,
 					["Colors"] = {
@@ -30673,20 +32394,6 @@ MasqueDB = {
 					},
 					["Inherit"] = false,
 					["SkinID"] = "ElvUIesque - No Backdrop",
-				},
-				["WeakAuras_TCPitNHE4zL"] = {
-					["Backdrop"] = true,
-					["Upgraded"] = true,
-					["Colors"] = {
-						["Backdrop"] = {
-							1, -- [1]
-							1, -- [2]
-							1, -- [3]
-							1, -- [4]
-						},
-					},
-					["Inherit"] = false,
-					["SkinID"] = "Epix",
 				},
 				["WeakAuras_2gXSpa9bbb)"] = {
 					["Backdrop"] = true,
@@ -30702,7 +32409,9 @@ MasqueDB = {
 					["Inherit"] = false,
 					["SkinID"] = "ElvUIesque - No Backdrop",
 				},
-				["WeakAuras_banana_rampage13"] = {
+				["WeakAuras_xMz4pSMyLDM"] = {
+					["Backdrop"] = true,
+					["Upgraded"] = true,
 					["Colors"] = {
 						["Backdrop"] = {
 							1, -- [1]
@@ -30712,8 +32421,7 @@ MasqueDB = {
 						},
 					},
 					["Inherit"] = false,
-					["Backdrop"] = true,
-					["SkinID"] = "ElvUIesque",
+					["SkinID"] = "ElvUIesque - No Backdrop",
 				},
 				["WeakAuras_dVrNj1HzkEL"] = {
 					["Backdrop"] = true,
@@ -30756,7 +32464,7 @@ MasqueDB = {
 					["Backdrop"] = true,
 					["SkinID"] = "ElvUIesque",
 				},
-				["WeakAuras_o0EeU3nNPel"] = {
+				["WeakAuras_fHIKOFXXI)4"] = {
 					["Backdrop"] = true,
 					["Upgraded"] = true,
 					["Colors"] = {
@@ -30767,8 +32475,8 @@ MasqueDB = {
 							1, -- [4]
 						},
 					},
-					["SkinID"] = "ElvUIesque",
 					["Inherit"] = false,
+					["SkinID"] = "ElvUIesque - No Backdrop",
 				},
 				["WeakAuras_oJJ6O(T0Vkt"] = {
 					["Backdrop"] = true,
@@ -30784,7 +32492,7 @@ MasqueDB = {
 					["Inherit"] = false,
 					["SkinID"] = "Epix",
 				},
-				["WeakAuras_Dax4YrMDSPi"] = {
+				["WeakAuras_8pG3yyBpYvo"] = {
 					["Backdrop"] = true,
 					["Upgraded"] = true,
 					["Colors"] = {
@@ -30795,8 +32503,8 @@ MasqueDB = {
 							1, -- [4]
 						},
 					},
-					["Inherit"] = false,
 					["SkinID"] = "ElvUIesque - No Backdrop",
+					["Inherit"] = false,
 				},
 				["WeakAuras_JoKyXfK3r6T"] = {
 					["Backdrop"] = true,
@@ -30812,7 +32520,7 @@ MasqueDB = {
 					["Inherit"] = false,
 					["SkinID"] = "ElvUIesque - No Backdrop",
 				},
-				["WeakAuras_LfBzA4tteqs"] = {
+				["WeakAuras_Ffw)4JAdQ66"] = {
 					["Backdrop"] = true,
 					["Upgraded"] = true,
 					["Colors"] = {
@@ -30824,9 +32532,9 @@ MasqueDB = {
 						},
 					},
 					["Inherit"] = false,
-					["SkinID"] = "ElvUIesque",
+					["SkinID"] = "ElvUIesque - No Backdrop",
 				},
-				["WeakAuras_tgBM)7i4rg("] = {
+				["WeakAuras_872Q3TG4HN3"] = {
 					["Backdrop"] = true,
 					["Upgraded"] = true,
 					["Colors"] = {
@@ -30837,14 +32545,14 @@ MasqueDB = {
 							1, -- [4]
 						},
 					},
-					["SkinID"] = "ElvUIesque",
+					["SkinID"] = "ElvUIesque - No Backdrop",
 					["Inherit"] = false,
 				},
 				["OmniBar_Storm, Earth, and Fire"] = {
 					["Inherit"] = false,
 					["Backdrop"] = true,
 				},
-				["WeakAuras_zwjpI29Vpsd"] = {
+				["WeakAuras_XPsmxW9BKrp"] = {
 					["Backdrop"] = true,
 					["Upgraded"] = true,
 					["Colors"] = {
@@ -30885,7 +32593,9 @@ MasqueDB = {
 					["SkinID"] = "ElvUIesque",
 					["Inherit"] = false,
 				},
-				["WeakAuras_boulderfist"] = {
+				["WeakAuras_8FyAtamvQQh"] = {
+					["Backdrop"] = true,
+					["Upgraded"] = true,
 					["Colors"] = {
 						["Backdrop"] = {
 							1, -- [1]
@@ -30895,7 +32605,6 @@ MasqueDB = {
 						},
 					},
 					["Inherit"] = false,
-					["Backdrop"] = true,
 					["SkinID"] = "ElvUIesque",
 				},
 				["WeakAuras_sonic_screech__2"] = {
@@ -30937,7 +32646,7 @@ MasqueDB = {
 					["Backdrop"] = true,
 					["SkinID"] = "ElvUIesque",
 				},
-				["WeakAuras_Z5yKCtttyJk"] = {
+				["WeakAuras_5cKHiMQzXJp"] = {
 					["Backdrop"] = true,
 					["Upgraded"] = true,
 					["Colors"] = {
@@ -30948,8 +32657,8 @@ MasqueDB = {
 							1, -- [4]
 						},
 					},
-					["Inherit"] = false,
 					["SkinID"] = "ElvUIesque - No Backdrop",
+					["Inherit"] = false,
 				},
 				["WeakAuras_stormkeeper_cd_missing_buff_2"] = {
 					["Colors"] = {
@@ -30964,7 +32673,7 @@ MasqueDB = {
 					["Backdrop"] = true,
 					["SkinID"] = "ElvUIesque",
 				},
-				["WeakAuras_DebrmvX34Lh"] = {
+				["WeakAuras_W5N8vC)NpyX"] = {
 					["Backdrop"] = true,
 					["Upgraded"] = true,
 					["Colors"] = {
@@ -30975,10 +32684,24 @@ MasqueDB = {
 							1, -- [4]
 						},
 					},
+					["SkinID"] = "ElvUIesque - No Backdrop",
 					["Inherit"] = false,
-					["SkinID"] = "ElvUIesque",
 				},
-				["WeakAuras_sei9ziJzJ7T"] = {
+				["WeakAuras_cDPFay4LVVU"] = {
+					["Backdrop"] = true,
+					["Upgraded"] = true,
+					["Colors"] = {
+						["Backdrop"] = {
+							1, -- [1]
+							1, -- [2]
+							1, -- [3]
+							1, -- [4]
+						},
+					},
+					["SkinID"] = "ElvUIesque",
+					["Inherit"] = false,
+				},
+				["WeakAuras_FvJsESODciy"] = {
 					["Backdrop"] = true,
 					["Upgraded"] = true,
 					["Colors"] = {
@@ -30991,20 +32714,6 @@ MasqueDB = {
 					},
 					["SkinID"] = "Epix",
 					["Inherit"] = false,
-				},
-				["WeakAuras_pFqqOS3GnFO"] = {
-					["Backdrop"] = true,
-					["Upgraded"] = true,
-					["Colors"] = {
-						["Backdrop"] = {
-							1, -- [1]
-							1, -- [2]
-							1, -- [3]
-							1, -- [4]
-						},
-					},
-					["Inherit"] = false,
-					["SkinID"] = "ElvUIesque",
 				},
 				["WeakAuras_(pot)_bursting_blood"] = {
 					["Colors"] = {

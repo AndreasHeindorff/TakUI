@@ -12,7 +12,7 @@ C["General"] = {
 	["HideShadows"] = false,
 	["UIScale"] = T.PerfectScale,
 	["MinimapScale"] = 100,
-	["WorldMapScale"] = 50,
+	["WorldMapScale"] = 60,
 	["Profiles"] = {
 		["Options"] = {},
 	},
@@ -24,6 +24,15 @@ C["General"] = {
 		},
 
 		["Value"] = "Tukui",
+	},
+	
+	["GlobalFont"] = {
+		["Options"] = {
+			["Express Way"] = "Interface\\AddOns\\Tukui\\Medias\\Fonts\\Expressway.ttf",
+			["PT Sans Narrow"] = "Interface\\AddOns\\Tukui\\Medias\\Fonts\\PtSansNarrow.ttf",
+		},
+
+		["Value"] = "Interface\\AddOns\\Tukui\\Medias\\Fonts\\Expressway.ttf",
 	},
 }
 
@@ -44,6 +53,7 @@ C["ActionBars"] = {
 	["Bar3ButtonsPerRow"] = 6,
 	["Bar4ButtonsPerRow"] = 1,
 	["Bar5ButtonsPerRow"] = 1,
+	["Bar1NumButtons"] = 12,
 	["Bar2NumButtons"] = 12,
 	["Bar3NumButtons"] = 12,
 	["Bar4NumButtons"] = 12,
@@ -74,6 +84,7 @@ C["Bags"] = {
 	["IdentifyQuestItems"] = true,
 	["FlashNewItems"] = true,
 	["ItemLevel"] = true,
+	["SortToBottom"] = true,
 	["ButtonSize"] = 32,
 	["Spacing"] = 4,
 	["ItemsPerRow"] = 12,
@@ -93,9 +104,9 @@ C["Chat"] = {
 	["BubblesTextSize"] = 9,
 	["SkinBubbles"] = true,
 	["LeftWidth"] = 450,
-	["LeftHeight"] = 200,
+	["LeftHeight"] = 204,
 	["RightWidth"] = 450,
-	["RightHeight"] = 200,
+	["RightHeight"] = 204,
 	["RightChatAlignRight"] = true,
 	["BackgroundAlpha"] = 70,
 	["WhisperSound"] = true,
@@ -131,7 +142,7 @@ C["Loot"] = {
 }
 
 C["Misc"] = {
-	["MicroMenu"] = true,
+	["BlizzardMicroMenu"] = false,
 	["ItemLevel"] = true,
 	["ThreatBar"] = true,
 	["WorldMapEnable"] = true,
@@ -154,18 +165,39 @@ C["Misc"] = {
 
 		["Value"] = "ALT-M",
 	},
+	["MicroStyle"] = {
+		["Options"] = {
+			["Minimalist"] = "Minimalist",
+			["Game Menu"] = "Game Menu",
+			["Blizzard"] = "Blizzard",
+			["None"] = "None",
+		},
+
+		["Value"] = "Game Menu",
+	},
+}
+
+C["Maps"] = {
+	["MinimapTracking"] = false,
+	["MinimapCoords"] = false,
 }
 
 C["NamePlates"] = {
 	["Enable"] = true,
-	["Width"] = 129,
+	["Width"] = 128,
 	["Height"] = 14,
+	["NotSelectedAlpha"] = 100,
+	["SelectedScale"] = 100,
 	["NameplateCastBar"] = true,
 	["Font"] = "Tukui Outline",
 	["OnlySelfDebuffs"] = true,
 	["QuestIcon"] = true,
 	["ClassIcon"] = true,
 	["HighlightColor"] = {1, 1, 0},
+	["AggroColor1"] = {0.50, 0.50, 0.50},
+	["AggroColor2"] = {1, 1, 0.5},
+	["AggroColor3"] = {1.00, 0.50, 0.00},
+	["AggroColor4"] = {1, 0.2, 0.2},
 	["HighlightSize"] = 10,
 	["ColorThreat"] = false, 
 	["HealthTag"] = {
@@ -207,6 +239,7 @@ C["Party"] = {
 C["Raid"] = {
 	["Enable"] = true,
 	["DebuffWatch"] = true,
+	["DebuffWatchDefault"] = true,
 	["ShowPets"] = true,
 	["RangeAlpha"] = 0.3,
 	["VerticalHealth"] = false,
@@ -214,17 +247,23 @@ C["Raid"] = {
 	["Raid40MaxUnitPerColumn"] = 10,
 	["Font"] = "Tukui",
 	["HealthFont"] = "Tukui Outline",
-	["DesaturateNonPlayerBuffs"] = false,
+	["DesaturateBuffs"] = false,
+	["RaidBuffsStyle"] = {
+		["Options"] = {
+			["Aura Track"] = "Aura Track",
+			["Standard"] = "Standard",
+			["None"] = "None",
+		},
+		["Value"] = "Aura Track",
+	},
 	["RaidBuffs"] = {
 		["Options"] = {
-			["Hide"] = "Hide",
 			["Only my buffs"] = "Self",
 			["Only castable buffs"] = "Castable",
 			["All buffs"] = "All",
 		},
 		["Value"] = "Self",
 	},
-	["ClassRaidBuffs"] = true,
 	["WidthSize"] = 99,
 	["HeightSize"] = 69,
 	["Raid40WidthSize"] = 79,
@@ -233,7 +272,6 @@ C["Raid"] = {
 	["Padding40"] = 10,
 	["HighlightColor"] = {0, 1, 0},
 	["HighlightSize"] = 10,
-	["AuraTrack"] = true,
 	["AuraTrackIcons"] = true,
 	["AuraTrackSpellTextures"] = true,
 	["AuraTrackThickness"] = 5,
@@ -266,6 +304,8 @@ C["Tooltips"] = {
 	["AlwaysCompareItems"] = false,
 	["UnitHealthText"] = true,
 	["MouseOver"] = false,
+	["ItemBorderColor"] = true,
+	["UnitBorderColor"] = true,
 	["HealthFont"] = "Tukui Outline",
 }
 
@@ -287,8 +327,15 @@ C["Textures"] = {
 C["UnitFrames"] = {
 	["Enable"] = true,
 	["TotemBar"] = T.MyClass == "SHAMAN" and true or false,
+	["TotemBarStyle"] = {
+		["Options"] = {
+			["On Screen"] = "On Screen",
+			["On Player"] = "On Player",
+		},
+
+		["Value"] = "On Screen",
+	},
 	["ClassBar"] = true,
-	["HealComm"] = true,
 	["PlayerAuraBars"] = false,
 	["ScrollingCombatText"] = false,
 	["ScrollingCombatTextIcon"] = true,
@@ -309,6 +356,7 @@ C["UnitFrames"] = {
 		["Value"] = "fountain",
 	},
 	["StatusBarBackgroundMultiplier"] = 25,
+	["PowerTick"] = true,
 	["Portrait2D"] = true,
 	["OOCNameLevel"] = true,
 	["OOCPetNameLevel"] = false,
@@ -325,6 +373,8 @@ C["UnitFrames"] = {
 	["PlayerDebuffs"] = true,
 	["TargetBuffs"] = true,
 	["TargetDebuffs"] = true,
+	["DesaturateDebuffs"] = true,
+	["FlashRemovableBuffs"] = true,
 	["FocusAuras"] = true,
 	["BossAuras"] = true,
 	["ArenaAuras"] = true,
@@ -337,6 +387,7 @@ C["UnitFrames"] = {
 	["CastingColor"] = {0.29, 0.77, 0.30},
 	["ChannelingColor"] = {0.29, 0.77, 0.30},
 	["NotInterruptibleColor"] = {0.85, 0.09, 0.09},
+	["HealComm"] = true,
 	["HealCommSelfColor"] = {0.29, 1, 0.30},
 	["HealCommOtherColor"] = {1, .72, 0.30},
 	["HealCommAbsorbColor"] = {207/255, 181/255, 59/255},

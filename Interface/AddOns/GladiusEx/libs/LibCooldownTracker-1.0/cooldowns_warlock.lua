@@ -15,13 +15,13 @@ LCT_SpellData[20707] = {
 LCT_SpellData[212295] = {
 	class = "WARLOCK",
 	defensive = true,
-	duration = 5,
+	talent = true,
+	duration = 3,
 	cooldown = 45
 }
 -- Demonic Circle: Teleport
 LCT_SpellData[48020] = {
 	class = "WARLOCK",
-	talent = true,
 	defensive = true,
 	cooldown = 30
 }
@@ -95,6 +95,20 @@ LCT_SpellData[108503] = {
 	talent = true,
 	cooldown = 30
 }
+-- Howl of Terror
+LCT_SpellData[5484] = {
+	class = "WARLOCK",
+	talent = true,
+	cc = true,
+	cooldown = 40
+}
+-- Shadow Rift
+LCT_SpellData[353294] = {
+	class = "WARLOCK",
+	talent = true,
+	cooldown = 60,
+  duration = 2
+}
 
 -- Warlock/Affliction
 -- Summon Darkglare
@@ -128,13 +142,21 @@ LCT_SpellData[113860] = {
 	duration = 20,
 	cooldown = 120
 }
+-- Rapid Contagion
+LCT_SpellData[344566] = {
+	class = "WARLOCK",
+	specID = { SPEC_WARLOCK_AFFLICTION },
+	talent = true,
+	offensive = true,
+	cooldown = 30
+}
 -- Deathbolt
 LCT_SpellData[264106] = {
 	class = "WARLOCK",
 	specID = { SPEC_WARLOCK_AFFLICTION },
 	talent = true,
 	offensive = true,
-	cooldown = 30
+	cooldown = 45
 }
 -- Haunt
 LCT_SpellData[48181] = {
@@ -149,13 +171,6 @@ LCT_SpellData[205179] = {
 	specID = { SPEC_WARLOCK_AFFLICTION },
 	talent = true,
 	cooldown = 45
-}
--- Soulshatter
-LCT_SpellData[212356] = {
-	class = "WARLOCK",
-	specID = { SPEC_WARLOCK_AFFLICTION },
-	talent = true,
-	cooldown = 60
 }
 
 -- Warlock/Demonology
@@ -264,6 +279,14 @@ LCT_SpellData[201996] = {
 	duration = 20,
 	cooldown = 90
 }
+-- Fel Obelisk
+LCT_SpellData[353601] = {
+	class = "WARLOCK",
+	specID = { SPEC_WARLOCK_DEMONOLOGY },
+	talent = true,
+	offensive = true,
+	cooldown = 45
+}
 
 -- Warlock/Destruction
 -- Havoc
@@ -342,6 +365,13 @@ LCT_SpellData[17877] = {
 	charges = 2,
 	offensive = true,
 	cooldown = 12
+}
+-- Bonds of Fel
+LCT_SpellData[353753] = {
+	class = "WARLOCK",
+	specID = { SPEC_WARLOCK_DESTRUCTION },
+	talent = true,
+	cooldown = 30
 }
 
 -- Warlock/Felguard

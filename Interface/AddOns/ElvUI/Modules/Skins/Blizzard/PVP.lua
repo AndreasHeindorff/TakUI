@@ -1,16 +1,16 @@
-local E, L, V, P, G = unpack(select(2, ...)); --Import: Engine, Locales, PrivateDB, ProfileDB, GlobalDB
+local E, L, V, P, G = unpack(select(2, ...)) --Import: Engine, Locales, PrivateDB, ProfileDB, GlobalDB
 local S = E:GetModule('Skins')
 
 local _G = _G
-local ipairs, pairs, select, unpack = ipairs, pairs, select, unpack
+local ipairs, pairs, unpack, next = ipairs, pairs, unpack, next
 
-local CreateFrame = CreateFrame
-local CurrencyContainerUtil_GetCurrencyContainerInfo = CurrencyContainerUtil.GetCurrencyContainerInfo
-local C_CurrencyInfo_GetCurrencyInfo = C_CurrencyInfo.GetCurrencyInfo
 local GetItemInfo = GetItemInfo
 local GetItemQualityColor = GetItemQualityColor
 local hooksecurefunc = hooksecurefunc
-local LE_ITEM_QUALITY_ARTIFACT = Enum.ItemQuality.Artifact
+
+local ITEMQUALITY_ARTIFACT = Enum.ItemQuality.Artifact
+local CurrencyContainerUtil_GetCurrencyContainerInfo = CurrencyContainerUtil.GetCurrencyContainerInfo
+local C_CurrencyInfo_GetCurrencyInfo = C_CurrencyInfo.GetCurrencyInfo
 
 local function HandleRoleChecks(button, ...)
 	button:StripTextures()
@@ -50,19 +50,16 @@ function S:Blizzard_PVPUI()
 	local PVPQueueFrame = _G.PVPQueueFrame
 	PVPQueueFrame.HonorInset:StripTextures()
 
-	PVPQueueFrame.CategoryButton1.Icon:SetTexture([[Interface\Icons\achievement_bg_winwsg]])
-	PVPQueueFrame.CategoryButton2.Icon:SetTexture([[Interface\Icons\achievement_bg_killxenemies_generalsroom]])
-	PVPQueueFrame.CategoryButton3.Icon:SetTexture([[Interface\Icons\Achievement_General_StayClassy]])
+	PVPQueueFrame.CategoryButton1.Icon:SetTexture(236396) -- interface/icons/achievement_bg_winwsg.blp
+	PVPQueueFrame.CategoryButton2.Icon:SetTexture(236368) -- interface/icons/achievement_bg_killxenemies_generalsroom.blp
+	PVPQueueFrame.CategoryButton3.Icon:SetTexture(464820) -- interface/icons/achievement_general_stayclassy.blp
 
 	local SeasonReward = PVPQueueFrame.HonorInset.RatedPanel.SeasonRewardFrame
+	SeasonReward:CreateBackdrop()
+	SeasonReward.Icon:SetInside(SeasonReward.backdrop)
+	SeasonReward.Icon:SetTexCoord(unpack(E.TexCoords))
 	SeasonReward.CircleMask:Hide()
 	SeasonReward.Ring:Hide()
-	SeasonReward.Icon:SetTexCoord(unpack(E.TexCoords))
-	local RewardFrameBorder = CreateFrame('Frame', nil, SeasonReward, 'BackdropTemplate')
-	RewardFrameBorder:SetTemplate()
-	RewardFrameBorder:SetOutside(SeasonReward.Icon)
-	SeasonReward.Icon:SetParent(RewardFrameBorder)
-	SeasonReward.Icon:SetDrawLayer('OVERLAY')
 
 	-- Honor Frame
 	local HonorFrame = _G.HonorFrame
@@ -89,7 +86,7 @@ function S:Blizzard_PVPUI()
 		S:HandleIcon(reward.Icon, true)
 
 		reward.EnlistmentBonus:StripTextures()
-		reward.EnlistmentBonus:CreateBackdrop()
+		reward.EnlistmentBonus:SetTemplate()
 		reward.EnlistmentBonus:Size(20, 20)
 		reward.EnlistmentBonus:Point('TOPRIGHT', 2, 2)
 
@@ -161,7 +158,7 @@ function S:Blizzard_PVPUI()
 		if currencyRewards then
 			for _, reward in ipairs(currencyRewards) do
 				local info = C_CurrencyInfo_GetCurrencyInfo(reward.id)
-				if info and info.quality == LE_ITEM_QUALITY_ARTIFACT then
+				if info and info.quality == ITEMQUALITY_ARTIFACT then
 					_, rewardTexture, _, rewardQuaility = CurrencyContainerUtil_GetCurrencyContainerInfo(reward.id, reward.quantity, info.name, info.iconFileID, info.quality)
 				end
 			end
@@ -190,29 +187,26 @@ function S:Blizzard_PVPUI()
 		Frame.ConquestBar.Background:Hide()
 		Frame.ConquestBar.Reward.Ring:Hide()
 		Frame.ConquestBar.Reward.CircleMask:Hide()
-
-		if not Frame.ConquestBar.backdrop then
-			Frame.ConquestBar:CreateBackdrop()
-			Frame.ConquestBar.backdrop:SetOutside()
-		end
+		Frame.ConquestBar:SetTemplate('Transparent')
 
 		Frame.ConquestBar.Reward:ClearAllPoints()
 		Frame.ConquestBar.Reward:Point('LEFT', Frame.ConquestBar, 'RIGHT', 0, 0)
 		S:HandleIcon(Frame.ConquestBar.Reward.Icon, true)
-
-		--[[ Keep blizzard default fo the statusbar here, the new atlas looks good
-			Frame.ConquestBar:SetStatusBarTexture(E.media.normTex)
-			Frame.ConquestBar:GetStatusBarTexture():SetGradient("VERTICAL", 1, .8, 0, 6, .4, 0)
-			Frame.ConquestBar:SetStatusBarColor(unpack(E.myfaction == 'Alliance' and {0.05, 0.15, 0.36} or {0.63, 0.09, 0.09}))
-		]]
 	end
 
 	-- New Season Frame
 	local NewSeasonPopup = _G.PVPQueueFrame.NewSeasonPopup
 	S:HandleButton(NewSeasonPopup.Leave)
 	NewSeasonPopup:StripTextures()
-	NewSeasonPopup:CreateBackdrop('Overlay')
+	NewSeasonPopup:SetTemplate()
 	NewSeasonPopup:SetFrameLevel(5)
+
+	local RewardFrame = NewSeasonPopup.SeasonRewardFrame
+	RewardFrame:CreateBackdrop()
+	RewardFrame.CircleMask:Hide()
+	RewardFrame.Ring:Hide()
+	RewardFrame.Icon:SetTexCoord(unpack(E.TexCoords))
+	RewardFrame.backdrop:SetOutside(RewardFrame.Icon)
 
 	if NewSeasonPopup.NewSeason then
 		NewSeasonPopup.NewSeason:SetTextColor(1, .8, 0)
@@ -224,20 +218,19 @@ function S:Blizzard_PVPUI()
 		NewSeasonPopup.SeasonRewardText:SetShadowOffset(1, -1)
 	end
 
-	if NewSeasonPopup.SeasonDescription then
-		NewSeasonPopup.SeasonDescription:SetTextColor(1, 1, 1)
-		NewSeasonPopup.SeasonDescription:SetShadowOffset(1, -1)
+	if NewSeasonPopup.SeasonDescriptionHeader then
+		NewSeasonPopup.SeasonDescriptionHeader:SetTextColor(1, 1, 1)
+		NewSeasonPopup.SeasonDescriptionHeader:SetShadowOffset(1, -1)
 	end
 
-	if NewSeasonPopup.SeasonDescription2 then
-		NewSeasonPopup.SeasonDescription2:SetTextColor(1, 1, 1)
-		NewSeasonPopup.SeasonDescription2:SetShadowOffset(1, -1)
-	end
-
-	local RewardFrame = NewSeasonPopup.SeasonRewardFrame
-	RewardFrame.CircleMask:Hide()
-	RewardFrame.Ring:Hide()
-	RewardFrame.Icon:SetTexCoord(unpack(E.TexCoords))
+	NewSeasonPopup:HookScript('OnShow', function(popup)
+		if popup.SeasonDescriptions then
+			for _, text in next, popup.SeasonDescriptions do
+				text:SetTextColor(1, 1, 1)
+				text:SetShadowOffset(1, -1)
+			end
+		end
+	end)
 end
 
 function S:PVPReadyDialog()
@@ -245,7 +238,7 @@ function S:PVPReadyDialog()
 
 	--PVP QUEUE FRAME
 	_G.PVPReadyDialog:StripTextures()
-	_G.PVPReadyDialog:CreateBackdrop('Transparent')
+	_G.PVPReadyDialog:SetTemplate('Transparent')
 	S:HandleButton(_G.PVPReadyDialogEnterBattleButton)
 	S:HandleButton(_G.PVPReadyDialogLeaveQueueButton)
 	S:HandleCloseButton(_G.PVPReadyDialogCloseButton)

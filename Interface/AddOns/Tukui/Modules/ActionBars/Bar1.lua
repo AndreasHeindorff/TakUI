@@ -10,7 +10,13 @@ function ActionBars:CreateBar1()
 	local Spacing = C.ActionBars.ButtonSpacing
 	local Druid, Rogue, Warrior, Priest = "", "", "", ""
 	local ButtonsPerRow = C.ActionBars.Bar1ButtonsPerRow
-	local NumRow = ceil(12 / ButtonsPerRow)
+	local NumButtons = C.ActionBars.Bar1NumButtons
+
+	if NumButtons <= ButtonsPerRow then
+		ButtonsPerRow = NumButtons
+	end
+
+	local NumRow = ceil(NumButtons / ButtonsPerRow)
 	
 	local ActionBar1 = CreateFrame("Frame", "TukuiActionBar1", T.PetHider, "SecureHandlerStateTemplate")
 	ActionBar1:SetPoint("BOTTOM", UIParent, "BOTTOM", 0, 12)
@@ -26,7 +32,7 @@ function ActionBars:CreateBar1()
 
 	if (C.ActionBars.SwitchBarOnStance) then
 		Rogue = "[bonusbar:1] 7;"
-		Druid = "[bonusbar:1,nostealth] 7; [bonusbar:1,stealth] 8; [bonusbar:2] 8; [bonusbar:3] 9; [bonusbar:4] 10;"
+		Druid = "[bonusbar:1,stealth] 2; [bonusbar:1,nostealth] 7; [bonusbar:2] 8; [bonusbar:3] 9; [bonusbar:4] 10;"
 		Warrior = "[bonusbar:1] 7; [bonusbar:2] 8; [bonusbar:3] 9;"
 		Priest = "[bonusbar:1] 7;"
 	end
@@ -79,8 +85,12 @@ function ActionBars:CreateBar1()
 	RegisterStateDriver(ActionBar1, "page", ActionBar1.GetBar())
 
 	ActionBar1:RegisterEvent("PLAYER_ENTERING_WORLD")
-	ActionBar1:RegisterEvent("UPDATE_VEHICLE_ACTIONBAR")
-	ActionBar1:RegisterEvent("UPDATE_OVERRIDE_ACTIONBAR")
+	
+	if T.Retail then
+		ActionBar1:RegisterEvent("UPDATE_VEHICLE_ACTIONBAR")
+		ActionBar1:RegisterEvent("UPDATE_OVERRIDE_ACTIONBAR")
+	end
+	
 	ActionBar1:SetScript("OnEvent", function(self, event, unit, ...)
 		if (event == "PLAYER_ENTERING_WORLD") then
 			local NumPerRows = ButtonsPerRow
@@ -94,19 +104,28 @@ function ActionBars:CreateBar1()
 				Button:ClearAllPoints()
 				Button:SetParent(self)
 				Button:SetAttribute("showgrid", 1)
-				Button:ShowGrid(ACTION_BUTTON_SHOW_GRID_REASON_EVENT)
+					
+				if T.Retail then
+					Button:ShowGrid(ACTION_BUTTON_SHOW_GRID_REASON_EVENT)
+				else
+					ActionButton_ShowGrid(Button)
+				end
 					
 				ActionBars:SkinButton(Button)
 
-				if (i == 1) then
-					Button:SetPoint("TOPLEFT", ActionBar1, "TOPLEFT", Spacing, -Spacing)
-				elseif (i == NumPerRows + 1) then
-					Button:SetPoint("TOPLEFT", NextRowButtonAnchor, "BOTTOMLEFT", 0, -Spacing)
-						
-					NumPerRows = NumPerRows + ButtonsPerRow
-					NextRowButtonAnchor = _G["ActionButton"..i]
+				if i <= NumButtons then
+					if (i == 1) then
+						Button:SetPoint("TOPLEFT", ActionBar1, "TOPLEFT", Spacing, -Spacing)
+					elseif (i == NumPerRows + 1) then
+						Button:SetPoint("TOPLEFT", NextRowButtonAnchor, "BOTTOMLEFT", 0, -Spacing)
+
+						NumPerRows = NumPerRows + ButtonsPerRow
+						NextRowButtonAnchor = _G["ActionButton"..i]
+					else
+						Button:SetPoint("LEFT", PreviousButton, "RIGHT", Spacing, 0)
+					end
 				else
-					Button:SetPoint("LEFT", PreviousButton, "RIGHT", Spacing, 0)
+					Button:SetPoint("TOP", UIParent, "TOP", 0, 200)
 				end
 			end
 		elseif (event == "UPDATE_VEHICLE_ACTIONBAR") or (event == "UPDATE_OVERRIDE_ACTIONBAR") then

@@ -68,8 +68,7 @@ function P:SetAnchor(f)
 end
 
 function P:SetIconScale(f)
-	local db = E.db.icons
-	local scale = db.scale
+	local scale = E.db.icons.scale
 	f.anchor:SetScale(math.min(math.max(0.7, scale), 1))
 	f.container:SetScale(scale)
 end
@@ -94,7 +93,12 @@ function P:SetBorder(icon)
 		icon.borderRight:SetPoint("TOPRIGHT", icon, "TOPRIGHT")
 		icon.borderRight:SetPoint("BOTTOMLEFT", icon, "BOTTOMRIGHT", -edgeSize, 0)
 
-		local r, g, b = db.borderColor.r, db.borderColor.g, db.borderColor.b
+		local r, g, b
+		if icon.spellID == 355589 then
+			r, g, b = 1.0, 0.50196, 0.0
+		else
+			r, g, b = db.borderColor.r, db.borderColor.g, db.borderColor.b
+		end
 		icon.borderTop:SetColorTexture(r, g, b)
 		icon.borderBottom:SetColorTexture(r, g, b)
 		icon.borderRight:SetColorTexture(r, g, b)
@@ -143,16 +147,18 @@ function P:SetAlpha(icon)
 end
 
 function P:SetSwipe(icon)
-	if icon.statusBar then
-		icon.cooldown:SetSwipeColor(0, 0, 0, 0)
+	if icon.statusBar and not E.db.extraBars[icon.statusBar.key].hideBar then
+		icon.cooldown:SetDrawSwipe(false)
 	else
+		local charges = icon.maxcharges and tonumber(icon.Count:GetText())
 		icon.cooldown:SetReverse(E.db.icons.reverse)
-		icon.cooldown:SetSwipeColor(0, 0, 0, E.db.icons.swipeAlpha)
+		icon.cooldown:SetDrawSwipe( not icon.isHighlighted and (not charges or charges < 1) )
 	end
+	icon.cooldown:SetSwipeColor(0, 0, 0, E.db.icons.swipeAlpha)
 end
 
 function P:SetCounter(icon)
-	if icon.statusBar then
+	if icon.statusBar and not E.db.extraBars[icon.statusBar.key].hideBar then
 		icon.cooldown:SetHideCountdownNumbers(true)
 	else
 		local charges = icon.maxcharges and tonumber(icon.Count:GetText())
@@ -170,11 +176,13 @@ function P:SetTooltip(icon)
 	icon:EnableMouse(E.db.icons.showTooltip)
 end
 
+--[[
 function P:SetAtlas(icon)
 	if E.db.highlight.glow then
 		icon.NewItemTexture:SetAtlas(E.db.highlight.glowColor)
 	end
 end
+]]
 
 function P:ApplySettings(f)
 	self:SetAnchor(f)
@@ -189,6 +197,6 @@ function P:ApplySettings(f)
 		self:SetCounter(icon)
 		self:SetChargeScale(icon)
 		self:SetTooltip(icon)
-		self:SetAtlas(icon)
+		--self:SetAtlas(icon)
 	end
 end
