@@ -1,25 +1,26 @@
 
 ElvCharacterDB = {
 	["ChatEditHistory"] = {
-		"/p i think so", -- [1]
-		"/p 290k hp", -- [2]
-		"/p y", -- [3]
-		" wut", -- [4]
-		" o", -- [5]
-		" yea", -- [6]
-		" they hid the chat now tho ", -- [7]
-		" lmao", -- [8]
-		" 1 min", -- [9]
-		" petko said something like ", -- [10]
-		" rip rank 1 parse ", -- [11]
-		" ppl getting hit by beam lol", -- [12]
-		" and extreme said top 500 guild never again", -- [13]
-		" they deleted the msgs shortly after sending them rofl", -- [14]
-		" probably so i wouldnt read them", -- [15]
-		" last night during mythraxx", -- [16]
-		" on the 300k wipe", -- [17]
-		" but idk", -- [18]
-		" prob just tilting from wiping", -- [19]
+		"they deleted the msgs shortly after sending them rofl", -- [1]
+		"/p i think so", -- [2]
+		"rip rank 1 parse", -- [3]
+		"yea", -- [4]
+		"and extreme said top 500 guild never again", -- [5]
+		"last night during mythraxx", -- [6]
+		"but idk", -- [7]
+		"/p y", -- [8]
+		"ppl getting hit by beam lol", -- [9]
+		"petko said something like", -- [10]
+		"on the 300k wipe", -- [11]
+		"o", -- [12]
+		"probably so i wouldnt read them", -- [13]
+		"lmao", -- [14]
+		"prob just tilting from wiping", -- [15]
+		"i thought it would be", -- [16]
+		"boa", -- [17]
+		"|cff0070dd|Hitem:128312::::::::100:258::::::|h[Elixir of the Rapid Mind]|h|r i found it just now", -- [18]
+		"its not boa", -- [19]
+		"kekw", -- [20]
 	},
 	["ChatHistoryLog"] = {
 		{
@@ -724,5 +725,343 @@ ElvCharacterDB = {
 			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
 			[53] = "Marmi",
 		}, -- [31]
+		{
+			"you can preorder during prepatch", -- [1]
+			"Syrigosa-ArgentDawn", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Syrigosa-ArgentDawn", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			2008, -- [11]
+			"Player-3702-09D0B77A", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cff3ec5e9Syrigosa|r",
+			[51] = 1602525413,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [32]
+		{
+			"its not BoE", -- [1]
+			"|Kq50|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			2009, -- [11]
+			false, -- [12]
+			89, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff006fdcHzD|r",
+			[51] = 1602525423,
+			[50] = "CHAT_MSG_BN_WHISPER",
+			[53] = "HzD",
+		}, -- [33]
+		{
+			"you buy it on AH", -- [1]
+			"|Kq50|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			2010, -- [11]
+			false, -- [12]
+			89, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff006fdcHzD|r",
+			[51] = 1602525426,
+			[50] = "CHAT_MSG_BN_WHISPER",
+			[53] = "HzD",
+		}, -- [34]
+		{
+			"you can still acces prepatch content without SL", -- [1]
+			"Syrigosa-ArgentDawn", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Syrigosa-ArgentDawn", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			2011, -- [11]
+			"Player-3702-09D0B77A", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cff3ec5e9Syrigosa|r",
+			[51] = 1602525428,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [35]
+		{
+			"for 9k gold", -- [1]
+			"|Kq50|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			2012, -- [11]
+			false, -- [12]
+			89, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff006fdcHzD|r",
+			[51] = 1602525428,
+			[50] = "CHAT_MSG_BN_WHISPER",
+			[53] = "HzD",
+		}, -- [36]
+		{
+			"I wasn't sure if you got more items if you ordered ahead - ty for the response. ", -- [1]
+			"Sukía-ArgentDawn", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Sukía-ArgentDawn", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			2013, -- [11]
+			"Player-3702-08844FAC", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cfffefefeSukía|r",
+			[51] = 1602525434,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [37]
+		{
+			"i thought it would be ", -- [1]
+			"|Kq50|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			2014, -- [11]
+			false, -- [12]
+			89, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff006fdcHzD|r",
+			[51] = 1602525435,
+			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
+			[53] = "HzD",
+		}, -- [38]
+		{
+			"boa", -- [1]
+			"|Kq50|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			2015, -- [11]
+			false, -- [12]
+			89, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff006fdcHzD|r",
+			[51] = 1602525435,
+			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
+			[53] = "HzD",
+		}, -- [39]
+		{
+			"guy dont let Kiritoxo-ArgentDawn buy anymore cloth the little shit for relic of the past u can make huge profit out of it under 20g ", -- [1]
+			"Clothfarmer-ArgentDawn", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Clothfarmer-ArgentDawn", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			2016, -- [11]
+			"Player-3702-09D0BB07", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cfffe7b09Clothfarmer|r",
+			[51] = 1602525437,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [40]
+		{
+			"< NOVA > is OFFERING [M+15=90k] --[2x M+15=171k] -- [4x M+15=324k] --/Nyalotha Heroic 120k- VIP trader only 60k!-/Nyalotha Mythic 12/12+3VIP trader for 4100k-/Jaina mount 350k-/Azshara R4 Essence-[KeyMaster=950k]- Mythic N'Zoth + Mount=2MIL-/5mask=60k", -- [1]
+			"Novaboostq-ArgentDawn", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Novaboostq-ArgentDawn", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			2017, -- [11]
+			"Player-3702-09CCD0FA", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cfffefefeNovaboostq|r",
+			[51] = 1602525438,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [41]
+		{
+			"|Hitem:128312::::::::100:258::::::|h[Elixir of the Rapid Mind]|h i found it just now", -- [1]
+			"|Kq50|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			2018, -- [11]
+			false, -- [12]
+			89, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff006fdcHzD|r",
+			[51] = 1602525442,
+			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
+			[53] = "HzD",
+		}, -- [42]
+		{
+			"its not boa", -- [1]
+			"|Kq50|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			2019, -- [11]
+			false, -- [12]
+			89, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff006fdcHzD|r",
+			[51] = 1602525444,
+			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
+			[53] = "HzD",
+		}, -- [43]
+		{
+			"kekw", -- [1]
+			"|Kq50|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			2020, -- [11]
+			false, -- [12]
+			89, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff006fdcHzD|r",
+			[51] = 1602525448,
+			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
+			[53] = "HzD",
+		}, -- [44]
+		{
+			"Theres not even a launch date yet, no rush to preorder", -- [1]
+			"Valkindra-ArgentDawn", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Valkindra-ArgentDawn", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			2021, -- [11]
+			"Player-3702-061DB1D8", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffa9d271Valkindra|r",
+			[51] = 1602525449,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [45]
+		{
+			"just stfu dude", -- [1]
+			"Clothfarmer-ArgentDawn", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Clothfarmer-ArgentDawn", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			2022, -- [11]
+			"Player-3702-09D0BB07", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cfffe7b09Clothfarmer|r",
+			[51] = 1602525452,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [46]
 	},
 }

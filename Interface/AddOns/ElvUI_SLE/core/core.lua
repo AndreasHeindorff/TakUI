@@ -1,7 +1,4 @@
 ﻿local E, _, V, P, G = unpack(ElvUI)
--- local locale = (E.global.general.locale and E.global.general.locale ~= "auto") and E.global.general.locale or GetLocale()
-
--- local L = E.Libs.ACL:GetLocale('ElvUI', locale)
 local L = E.Libs.ACL:GetLocale('ElvUI', E.global.general.locale)
 local EP = LibStub('LibElvUIPlugin-1.0')
 local AddOnName, Engine = ...
@@ -74,7 +71,7 @@ SLE.Toolbars = SLE:NewModule('Toolbars', 'AceHook-3.0', 'AceEvent-3.0')
 SLE.RaidProgress = SLE:NewModule('RaidProgress', 'AceHook-3.0', 'AceEvent-3.0')
 SLE.UIButtons = SLE:NewModule('UIButtons', 'AceHook-3.0')
 SLE.UnitFrames = SLE:NewModule('UnitFrames', 'AceHook-3.0', 'AceEvent-3.0', 'AceTimer-3.0')
-SLE.EnhancedVehicleBar = SLE:NewModule('EnhancedVehicleBar')
+SLE.DedicatedVehicleBar = SLE:NewModule('DedicatedVehicleBar')
 SLE.WarCampaign = SLE:NewModule('WarCampaign','AceHook-3.0', 'AceEvent-3.0')
 SLE.ElvConfig = SLE:NewModule('ElvConfig', 'AceEvent-3.0')
 SLE.RaidMarkers = SLE:NewModule('RaidMarkers', 'AceHook-3.0')

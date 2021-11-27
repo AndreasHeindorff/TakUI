@@ -1,43 +1,27 @@
-local SLE, T, E, L, V, P, G = unpack(select(2, ...))
+local SLE, _, E = unpack(select(2, ...))
 local SUF = SLE.UnitFrames
-local UF = E.UnitFrames
 
---GLOBALS: hooksecurefunc
-local _G = _G
-
-function SUF:Construct_BossFrame()
-	if not E.db.unitframe.units.boss.enable then return end
-
-	SUF:ArrangeBoss()
-end
-
-function SUF:ArrangeBoss()
-	local enableState = E.private.sle.module.shadows.enable and E.db.unitframe.units.boss.enable
-
-	for i = 1, 5 do
-		local frame = _G["ElvUF_Boss"..i]
-		local db = E.db.sle.shadows.unitframes.boss
-
-		do
-			frame.SLLEGACY_ENHSHADOW = enableState and db.legacy or false
-			frame.SLHEALTH_ENHSHADOW = enableState and db.health or false
-			frame.SLPOWER_ENHSHADOW = enableState and db.power or false
-		end
-
-		-- Health
-		SUF:Configure_Health(frame)
-
-		-- Power
-		SUF:Configure_Power(frame)
-
-		-- frame:UpdateAllElements("SLE_UpdateAllElements")
+function SUF:Construct_BossFrames(frame)
+	-- print('Construct_BossFrames: ', frame:GetName())
+	if self.Castbar then
+		self.Castbar.slBarID = 'castbar'
+	end
+	if self.Power then
+		self.Power.slBarID = 'powerbar'
 	end
 end
 
-function SUF:InitBoss()
-	SUF:Construct_BossFrame()
+function SUF:Update_BossFrames(frame)
+	-- print('Update_BossFrames: ', frame:GetName())
+	if not frame then return end
+	local enableState = E.private.sle.module.shadows.enable and E.db.unitframe.units.boss.enable
 
-	hooksecurefunc(UF, "Update_BossFrames", function(_, frame)
-		if frame.unitframeType == 'boss' then SUF:ArrangeBoss() end
-	end)
+	local db = E.db.sle.shadows.unitframes[frame.unitframeType]
+
+	frame.SLLEGACY_ENHSHADOW = enableState and db.legacy or false
+	frame.SLHEALTH_ENHSHADOW = enableState and db.health or false
+	frame.SLPOWER_ENHSHADOW = enableState and db.power or false
+
+	SUF:Configure_Health(frame)
+	SUF:Configure_Power(frame)
 end

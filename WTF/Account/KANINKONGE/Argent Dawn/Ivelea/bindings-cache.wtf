@@ -1,4 +1,3 @@
-BINDINGMODE 0
 bind BUTTON3 CLICK BT4Button69:LeftButton
 bind UP TOGGLESHEATH
 bind S CLICK BT4Button38:LeftButton

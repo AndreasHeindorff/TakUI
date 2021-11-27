@@ -1,7 +1,9 @@
 local E, _, V, P, G = unpack(ElvUI) --Import: Engine, Locales, PrivateDB, ProfileDB, GlobalDB
-local C, L = unpack(select(2, ...))
+local C, L = unpack(E.OptionsUI)
 local A = E:GetModule('Auras')
 local ACH = E.Libs.ACH
+
+local CopyTable = CopyTable
 
 local Auras = ACH:Group(L["BUFFOPTIONS_LABEL"], nil, 2, 'tab', function(info) return E.private.auras[info[#info]] end, function(info, value) E.private.auras[info[#info]] = value; E:StaticPopup_Show('PRIVATE_RL') end)
 E.Options.args.auras = Auras

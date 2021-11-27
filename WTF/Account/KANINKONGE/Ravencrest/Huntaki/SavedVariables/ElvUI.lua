@@ -1,13 +1,5 @@
 
 ElvCharacterDB = {
-	["ChatEditHistory"] = {
-		"/played", -- [1]
-		"/i follow me", -- [2]
-		"/cw Mimou-Ravencrest xD", -- [3]
-		"/cw Mimou ginv pls", -- [4]
-		"/cw Mimou-Ravencrest can u inv Texxy aswell?", -- [5]
-		"/i hello", -- [6]
-	},
 	["ChatHistoryLog"] = {
 		{
 			"ginv pls", -- [1]
@@ -1176,4 +1168,13 @@ ElvCharacterDB = {
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
 		}, -- [53]
 	},
+	["ChatEditHistory"] = {
+		"/i hello", -- [1]
+		"/cw Mimou-Ravencrest can u inv Texxy aswell?", -- [2]
+		"/i follow me", -- [3]
+		"/played", -- [4]
+		"/cw Mimou-Ravencrest xD", -- [5]
+		"/cw Mimou ginv pls", -- [6]
+	},
+	["ConvertKeybindings"] = true,
 }

@@ -2,6 +2,7 @@
 local ENH = SLE.EnhancedShadows
 local SUF = SLE.UnitFrames
 local DT = E.DataTexts
+local UF = E.UnitFrames
 
 -- GLOBALS: MICRO_BUTTONS
 
@@ -521,50 +522,47 @@ local function configTable()
 							},
 						},
 					},
-					-- -- TODO: Add Enhanced Vehicle UI Later
-					-- vehicle = {
-					-- 	order = 11,
-					-- 	type = 'group',
-					-- 	name = L["Enhanced Vehicle Bar"],
-					-- 	-- disabled = function() return not E.db.actionbar.stanceBar.enabled or not E.private.actionbar.enable end,
-					-- 	args = {
-					-- 		buttons = {
-					-- 			order = 1,
-					-- 			type = 'toggle',
-					-- 			name = L["Buttons"],
-					-- 			desc = format(L["Enables a shadow on the %s when it's enabled."], strlower(L["Buttons"])),
-					-- 			get = function(info) return E.db.sle.shadows.actionbars.vehicle[info[#info]] end,
-					-- 			set = function(info, value) E.db.sle.shadows.actionbars.vehicle[info[#info]] = value; ENH:ToggleABShadows() end,
-					-- 		},
-					-- 		backdrop = {
-					-- 			order = 2,
-					-- 			type = 'toggle',
-					-- 			name = L["Backdrop"],
-					-- 			desc = format(L["Enables a shadow on the %s when it's enabled."], strlower(L["Backdrop"])),
-					-- 			get = function(info) return E.db.sle.shadows.actionbars.vehicle[info[#info]] end,
-					-- 			set = function(info, value) E.db.sle.shadows.actionbars.vehicle[info[#info]] = value; ENH:ToggleABShadows() end,
-					-- 		},
-					-- 		size = {
-					-- 			order = 3,
-					-- 			type = 'range',
-					-- 			name = L["Size"],
-					-- 			min = 2, max = 10, step = 1,
-					-- 			get = function(info) return E.db.sle.shadows.actionbars.vehicle[info[#info]] end,
-					-- 			set = function(info, value)
-					-- 				E.db.sle.shadows.actionbars.vehicle[info[#info]] = value
+					vehicle = {
+						order = i,
+						type = 'group',
+						name = function() return format(E.db.sle.actionbar.vehicle.enabled and '%s' or '|cffFF3333%s|r', L["Dedicated Vehicle Bar"]) end,
+						disabled = function() return not E.ActionBars.Initialized end,
+						get = function(info) return E.db.sle.shadows.actionbars.vehicle[info[#info]] end,
+						set = function(info, value) E.db.sle.shadows.actionbars.vehicle[info[#info]] = value; ENH:ToggleABShadows() end,
+						args = {
+							buttons = {
+								order = 1,
+								type = 'toggle',
+								name = L["Buttons"],
+								desc = format(L["Enables a shadow on the %s when it's enabled."], strlower(L["Buttons"])),
+							},
+							backdrop = {
+								order = 2,
+								type = 'toggle',
+								name = L["Backdrop"],
+								desc = format(L["Enables a shadow on the %s when it's enabled."], strlower(L["Backdrop"])),
+							},
+							size = {
+								order = 3,
+								type = 'range',
+								name = L["Size"],
+								min = 2, max = 10, step = 1,
+								set = function(info, value)
+									E.db.sle.shadows.actionbars.vehicle[info[#info]] = value
+									_G['SL_DedicatedVehicleBar'].enhshadow.size = value
+									ENH:UpdateShadow(_G['SL_DedicatedVehicleBar'].enhshadow)
 
-					-- 				_G.ElvUISL_EnhancedVehicleBar.enhshadow.size = value
-					-- 				ENH:UpdateShadow(_G.ElvUISL_EnhancedVehicleBar.enhshadow)
-					-- 				for i = 1, 12 do
-					-- 					local button = _G['ElvUISL_EnhancedVehicleBarButton'..i]
-					-- 					if not button then break end
-					-- 					button.enhshadow.size = value
-					-- 					ENH:UpdateShadow(button.enhshadow)
-					-- 				end
-					-- 			end,
-					-- 		},
-					-- 	},
-					-- },
+									for k = 1, 7 do
+										local buttonBars = {_G['SL_DedicatedVehicleBarButton'..k]}
+										for _, button in pairs(buttonBars) do
+											button.enhshadow.size = value
+											ENH:UpdateShadow(button.enhshadow)
+										end
+									end
+								end,
+							},
+						},
+					}
 				},
 			},
 			databars = {
@@ -593,7 +591,10 @@ local function configTable()
 						name = L["Size"],
 						min = 2, max = 10, step = 1,
 						get = function(info) return E.db.sle.shadows.unitframes[info[#info]] end,
-						set = function(info, value) E.db.sle.shadows.unitframes[info[#info]] = value; SUF:UpdateUnitFrames() end,
+						set = function(info, value)
+							E.db.sle.shadows.unitframes[info[#info]] = value
+							UF:Update_AllFrames()
+						end,
 						disabled = function() return not E.UnitFrames.Initialized end,
 					},
 				},
@@ -699,8 +700,8 @@ local function configTable()
 			get = function(info) return E.db.sle.shadows.unitframes[unit][info[#info]] end,
 			set = function(info, value)
 				E.db.sle.shadows.unitframes[unit][info[#info]] = value
-				local ufname = E:StringTitle(unit):gsub('t(arget)', 'T%1')
-				SUF['Arrange'..ufname]()
+				-- local ufname = E:StringTitle(unit):gsub('t(arget)', 'T%1')
+				UF:Update_AllFrames()
 			end,
 			args = {
 				elvuiconfig = {

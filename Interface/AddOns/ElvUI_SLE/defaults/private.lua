@@ -19,10 +19,6 @@ V["sle"] = {
 	["minimap"] = {
 		rectangle = false,
 	},
-	["vehicle"] = {
-		["enable"] = false,
-		["numButtons"] = 7,
-	},
 	["professions"] = {
 		["deconButton"] = {
 			["enable"] = true,
@@ -49,15 +45,6 @@ V["sle"] = {
 		},
 		shadows = {
 			enable = true,
-		},
-	},
-	["unitframe"] = {
-		["resizeHealthPrediction"] = false,
-		["statusbarTextures"] = {
-			["power"] = false,
-			["cast"] = false,
-			["aura"] = false,
-			["class"] = false,
 		},
 	},
 	["pvp"] = {
@@ -109,7 +96,9 @@ V["sle"] = {
 		["level"] = 5,
 		["transparent"] = "Default",
 	},
-
+	viewport = {
+		enable = false,
+	},
 	["characterGoldsSorting"] = {},
 	}
 

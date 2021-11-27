@@ -1,14 +1,9 @@
 # BigWigs
 
-## [v231.1](https://github.com/BigWigsMods/BigWigs/tree/v231.1) (2021-07-21)
-[Full Changelog](https://github.com/BigWigsMods/BigWigs/compare/v231...v231.1) [Previous Releases](https://github.com/BigWigsMods/BigWigs/releases)
+## [v233](https://github.com/BigWigsMods/BigWigs/tree/v233) (2021-11-02)
+[Full Changelog](https://github.com/BigWigsMods/BigWigs/compare/v232...v233) [Previous Releases](https://github.com/BigWigsMods/BigWigs/releases)
 
-- bump version  
-- SanctumOfDomination/SylvanasWindrunner: 8 rives on heroic  
-- PainsmithRaznal: Fix various timers  
-- FatescribeRohKalo: Fix Beam cast count  
-- GuardianOfTheFirstOnes: Add locale string  
-- PainsmithRaznal: Change the "Add next" sound and add locale strings  
-- Fatescribe: Update for Mythic  
-- KelThuzad: Update timers?  
-    Hate this boss.  
+- Bump version  
+- Bump TOC for 9.1.5  
+- SanctumOfDomination/RemnantOfNerzhul: Fix a shatterCount check in Grasp of Malice  
+- SanctumOfDomination/KelThuzad: Update Soul Fracture spellid  

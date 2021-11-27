@@ -1,40 +1,26 @@
-local SLE, T, E, L, V, P, G = unpack(select(2, ...))
+local SLE, _, E = unpack(select(2, ...))
 local SUF = SLE.UnitFrames
-local UF = E.UnitFrames
 
---GLOBALS: hooksecurefunc
-local _G = _G
+function SUF:Construct_PetTargetFrame(frame)
+	-- print('Construct_PetTargetFrame: ', frame:GetName())
+	-- frame.SL_DeathIndicator = SUF:Construct_DeathIndicator(frame)
 
-function SUF:Construct_PetTargetFrame()
-	if not E.db.unitframe.units.pettarget.enable then return end
-
-	SUF:ArrangePetTarget()
+	if frame.Power then
+		frame.Power.slBarID = 'powerbar'
+	end
 end
 
-function SUF:ArrangePetTarget()
+function SUF:Update_PetTargetFrame(frame)
+	-- print('Update_PetTargetFrame: ', frame:GetName())
+	if not frame then return end
 	local enableState = E.private.sle.module.shadows.enable and E.db.unitframe.units.pettarget.enable
-	local frame = _G["ElvUF_PetTarget"]
 	local db = E.db.sle.shadows.unitframes[frame.unit]
 
-	do
-		frame.SLLEGACY_ENHSHADOW = enableState and db.legacy or false
-		frame.SLHEALTH_ENHSHADOW = enableState and db.health or false
-		frame.SLPOWER_ENHSHADOW = enableState and db.power or false
-	end
+	frame.SLLEGACY_ENHSHADOW = enableState and db.legacy or false
+	frame.SLHEALTH_ENHSHADOW = enableState and db.health or false
+	frame.SLPOWER_ENHSHADOW = enableState and db.power or false
 
-	-- Health
 	SUF:Configure_Health(frame)
-
-	-- Power
 	SUF:Configure_Power(frame)
-
-	frame:UpdateAllElements("SLE_UpdateAllElements")
-end
-
-function SUF:InitPetTarget()
-	SUF:Construct_PetTargetFrame()
-
-	hooksecurefunc(UF, 'Update_PetTargetFrame', function(_, frame)
-		if frame.unitframeType == 'pettarget' then SUF:ArrangePetTarget() end
-	end)
+	-- SUF:Configure_DeathIndicator(frame)
 end

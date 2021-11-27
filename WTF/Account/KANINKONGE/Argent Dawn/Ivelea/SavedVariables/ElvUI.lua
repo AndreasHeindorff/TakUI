@@ -1,27 +1,5 @@
 
 ElvCharacterDB = {
-	["ChatEditHistory"] = {
-		"they deleted the msgs shortly after sending them rofl", -- [1]
-		"/p i think so", -- [2]
-		"rip rank 1 parse", -- [3]
-		"yea", -- [4]
-		"and extreme said top 500 guild never again", -- [5]
-		"last night during mythraxx", -- [6]
-		"but idk", -- [7]
-		"/p y", -- [8]
-		"ppl getting hit by beam lol", -- [9]
-		"petko said something like", -- [10]
-		"on the 300k wipe", -- [11]
-		"o", -- [12]
-		"probably so i wouldnt read them", -- [13]
-		"lmao", -- [14]
-		"prob just tilting from wiping", -- [15]
-		"i thought it would be", -- [16]
-		"boa", -- [17]
-		"|cff0070dd|Hitem:128312::::::::100:258::::::|h[Elixir of the Rapid Mind]|h|r i found it just now", -- [18]
-		"its not boa", -- [19]
-		"kekw", -- [20]
-	},
 	["ChatHistoryLog"] = {
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:508:Player-3702-06236218:1:12:19:18:4294967295:4294967295:4294967295:4294967295|h[1500 Quests Completed]|h|r!", -- [1]
@@ -1064,4 +1042,27 @@ ElvCharacterDB = {
 			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [46]
 	},
+	["ChatEditHistory"] = {
+		"they deleted the msgs shortly after sending them rofl", -- [1]
+		"/p i think so", -- [2]
+		"rip rank 1 parse", -- [3]
+		"yea", -- [4]
+		"and extreme said top 500 guild never again", -- [5]
+		"last night during mythraxx", -- [6]
+		"but idk", -- [7]
+		"/p y", -- [8]
+		"ppl getting hit by beam lol", -- [9]
+		"petko said something like", -- [10]
+		"on the 300k wipe", -- [11]
+		"o", -- [12]
+		"probably so i wouldnt read them", -- [13]
+		"lmao", -- [14]
+		"prob just tilting from wiping", -- [15]
+		"i thought it would be", -- [16]
+		"boa", -- [17]
+		"|cff0070dd|Hitem:128312::::::::100:258::::::|h[Elixir of the Rapid Mind]|h|r i found it just now", -- [18]
+		"its not boa", -- [19]
+		"kekw", -- [20]
+	},
+	["ConvertKeybindings"] = true,
 }

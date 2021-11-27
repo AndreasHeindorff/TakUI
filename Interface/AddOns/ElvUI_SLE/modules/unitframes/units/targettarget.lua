@@ -1,40 +1,28 @@
-local SLE, T, E, L, V, P, G = unpack(select(2, ...))
+local SLE, _, E = unpack(select(2, ...))
 local SUF = SLE.UnitFrames
-local UF = E.UnitFrames
 
---GLOBALS: hooksecurefunc
-local _G = _G
+function SUF:Construct_TargetTargetFrame(frame)
+	-- print('Construct_TargetTargetFrame: ', frame:GetName())
+	frame.SL_DeathIndicator = SUF:Construct_DeathIndicator(frame)
+	frame.SL_OfflineIndicator = SUF:Construct_OfflineIndicator(frame)
 
-function SUF:Construct_TargetTargetFrame()
-	if not E.db.unitframe.units.targettarget.enable then return end
-
-	SUF:ArrangeTargetTarget()
-end
-
-function SUF:ArrangeTargetTarget()
-	local enableState = E.private.sle.module.shadows.enable and E.db.unitframe.units.targettarget.enable
-	local frame = _G["ElvUF_TargetTarget"]
-	local db = E.db.sle.shadows.unitframes[frame.unit]
-
-	do
-		frame.SLLEGACY_ENHSHADOW = enableState and db.legacy or false
-		frame.SLHEALTH_ENHSHADOW = enableState and db.health or false
-		frame.SLPOWER_ENHSHADOW = enableState and db.power or false
+	if frame.Power then
+		frame.Power.slBarID = 'powerbar'
 	end
-
-	-- Health
-	SUF:Configure_Health(frame)
-
-	-- Power
-	SUF:Configure_Power(frame)
-
-	frame:UpdateAllElements("SLE_UpdateAllElements")
 end
 
-function SUF:InitTargetTarget()
-	SUF:Construct_TargetTargetFrame()
+function SUF:Update_TargetTargetFrame(frame)
+	-- print('Update_TargetTargetFrame: ', frame:GetName())
+	if not frame then return end
+	local enableState = E.private.sle.module.shadows.enable and E.db.unitframe.units.targettarget.enable
+	local db = E.db.sle.shadows.unitframes[frame.unitframeType]
 
-	hooksecurefunc(UF, 'Update_TargetTargetFrame', function(_, frame)
-		if frame.unitframeType == 'targettarget' then SUF:ArrangeTargetTarget() end
-	end)
+	frame.SLLEGACY_ENHSHADOW = enableState and db.legacy or false
+	frame.SLHEALTH_ENHSHADOW = enableState and db.health or false
+	frame.SLPOWER_ENHSHADOW = enableState and db.power or false
+
+	SUF:Configure_Health(frame)
+	SUF:Configure_Power(frame)
+	SUF:Configure_DeathIndicator(frame)
+	SUF:Configure_OfflineIndicator(frame)
 end

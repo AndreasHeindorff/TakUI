@@ -1,76 +1,16 @@
-lightweight tag 6d4b43e061095df58c98412b2b801e1b7aa8f07e 2.0
+lightweight tag 6db10411883e420255791cae6260fb4536aacd30 2.0.1-BCC
 Author:	vendethiel <vendethiel@hotmail.fr>
-Date:	Fri Jul 16 12:50:23 2021 +0200
+Date:	Thu Aug 26 14:15:00 2021 +0200
 
-commit 6d4b43e061095df58c98412b2b801e1b7aa8f07e
+commit 6db10411883e420255791cae6260fb4536aacd30
 Author: vendethiel <vendethiel@hotmail.fr>
-Date:   Fri Jul 16 12:50:23 2021 +0200
+Date:   Thu Aug 26 14:15:00 2021 +0200
 
-    Remove intervene spell reflect
+    Fix bogus CanDispel
 
-commit cf1a711b0879e9459d81e950583d4c7543d45cf9
-Author: Topkek <eric.najork@gmail.com>
-Date:   Fri Jul 16 00:54:18 2021 -0700
-
-    add aura priority list
-
-commit cf1a711b0879e9459d81e950583d4c7543d45cf9
-Author: Topkek <eric.najork@gmail.com>
-Date:   Fri Jul 16 00:54:18 2021 -0700
-
-    add aura priority list
-
-commit 46368c794bfc6dd6bd2a183f76826c93241745d4
+commit 30e70a440622ab59c5cc631b82a9d6e52a86e8b3
 Author: vendethiel <vendethiel@hotmail.fr>
-Date:   Thu Jul 15 11:52:35 2021 +0200
+Date:   Mon Jul 19 11:29:59 2021 +0200
 
-    remove old ghostwolf talent id
-
-commit 1df7d0d26c7bbbbf21aed79fab46be0cc3660a14
-Author: vendethiel <vendethiel@hotmail.fr>
-Date:   Thu Jul 15 11:45:52 2021 +0200
-
-    Assorted 9.1/Data- updates
-
-commit 97668ac8fb813820865446e2ab0cd4b0f921703f
-Author: vendethiel <vendethiel@hotmail.fr>
-Date:   Tue Jun 22 15:53:15 2021 +0200
-
-    better defaults
-
-commit 9293a228783eed9505c95a2f9105dea1bda67e8d
-Author: vendethiel <vendethiel@hotmail.fr>
-Date:   Tue Jun 22 14:12:06 2021 +0200
-
-    SpecData -> Data file
-
-commit f05f6bb160a0fdfc16e4a25c95e8db841e18e618
-Author: vendethiel <vendethiel@hotmail.fr>
-Date:   Tue Jun 22 12:39:19 2021 +0200
-
-    GetSpecData factorization for retail
-
-commit 8c6a0d0b0f4b4c6fa738afb425c522b0dc726677
-Author: vendethiel <vendethiel@hotmail.fr>
-Date:   Tue Jun 22 12:28:25 2021 +0200
-
-    add missing files
-
-commit aecf1c9ba80f8267f4fb5544b2008104c93a2518
-Author: vendethiel <vendethiel@hotmail.fr>
-Date:   Tue Jun 22 00:11:14 2021 +0200
-
-    Tags etc
-
-commit e3382dbb653a05df6a9c68a6854ac17e98cdd404
-Author: vendethiel <vendethiel@hotmail.fr>
-Date:   Tue Jun 22 00:03:19 2021 +0200
-
-    No LibDualSpec on TBCC
-
-commit fdddc4fc992a769d263aa34cad8b99b370977dd1
-Author: vendethiel <vendethiel@hotmail.fr>
-Date:   Tue Jun 22 00:00:47 2021 +0200
-
-    First TBCC version
+    fix [spec] tag
 

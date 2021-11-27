@@ -147,7 +147,7 @@ BigWigs:AddColors("Kel'Thuzad", {
 	[355127] = "yellow",
 	[355137] = "blue",
 	[355389] = "blue",
-	["stages"] = "green",
+	["stages"] = "cyan",
 })
 
 BigWigs:AddColors("Sylvanas Windrunner", {

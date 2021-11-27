@@ -1,16 +1,21 @@
 
 OmniCDDB = {
 	["profileKeys"] = {
-		["Rentaki - Kazzak"] = "Default",
+		["Ivelea - Argent Dawn"] = "Default",
+		["Takidin - Kazzak"] = "Default",
+		["Takii - Argent Dawn"] = "Default",
+		["Renqqø - Kazzak"] = "Default",
 		["Takiscoper - Kazzak"] = "Default",
 		["Takibank - Argent Dawn"] = "Default",
-		["Renqqø - Kazzak"] = "Default",
-		["Takidin - Kazzak"] = "Default",
+		["Huntaki - Ravencrest"] = "Default",
+		["Rentaki - Kazzak"] = "Default",
+		["Takidari - Kazzak"] = "Default",
+		["Taaku - Kazzak"] = "Default",
 	},
 	["global"] = {
 		["disableElvMsg"] = true,
-		["oodChk"] = 210802,
-		["oodVer"] = 2620,
+		["oodChk"] = 210915,
+		["oodVer"] = 2632,
 	},
 	["namespaces"] = {
 		["LibDualSpec-1.0"] = {
@@ -23,26 +28,34 @@ OmniCDDB = {
 		["Default"] = {
 			["Party"] = {
 				["party"] = {
+					["extraBars"] = {
+						["interruptBar"] = {
+							["enabled"] = false,
+						},
+						["raidCDBar"] = {
+							["enabled"] = false,
+						},
+					},
 					["icons"] = {
-						["scale"] = 0.9000000000000001,
+						["scale"] = 1.1,
+						["borderPixels"] = 2,
 					},
 					["position"] = {
-						["uf"] = "ElvUI",
 						["columns"] = 10,
+						["paddingX"] = 1,
 						["attach"] = "TOPLEFT",
 						["preset"] = "TOPLEFT",
 						["offsetX"] = 1,
 						["anchor"] = "TOPRIGHT",
-						["offsetY"] = 1,
 					},
 					["manualPos"] = {
 						["interruptBar"] = {
-							["y"] = 380.2662852495814,
-							["x"] = 848.000801783819,
+							["y"] = 356.2665016823303,
+							["x"] = 834.1351764480714,
 						},
 						["raidCDBar"] = {
-							["y"] = 750.5777959525585,
-							["x"] = 10.66645330190141,
+							["y"] = 255.6443638291603,
+							["x"] = 201.0665630284257,
 						},
 					},
 				},
@@ -51,11 +64,10 @@ OmniCDDB = {
 						["scale"] = 0.9000000000000001,
 					},
 					["position"] = {
-						["offsetX"] = 1,
 						["columns"] = 10,
 						["attach"] = "TOPLEFT",
 						["preset"] = "TOPLEFT",
-						["uf"] = "ElvUI",
+						["offsetX"] = 1,
 						["anchor"] = "TOPRIGHT",
 						["offsetY"] = 1,
 					},

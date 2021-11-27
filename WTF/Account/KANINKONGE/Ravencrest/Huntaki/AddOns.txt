@@ -76,3 +76,7 @@ ElvUI_CastBarOverlay: disabled
 ElvUI_EverySecondCounts: disabled
 ElvUI_AuraBarsMovers: disabled
 HandyNotes_VisionsOfNZoth: enabled
+ElvUI_CustomTweaks: disabled
+ElvUI_DTBars2: disabled
+ElvUI_QuestXP: disabled
+WeakAurasArchive: enabled

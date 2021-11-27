@@ -101,3 +101,16 @@ ElvUI_CustomTweaks: disabled
 ElvUI_DTBars2: disabled
 WeakAurasCompanion: enabled
 WeakAurasArchive: enabled
+ElvUI_QuestXP: disabled
+TomCats-ArathiHighlandsRares: disabled
+TomCats-DarkshoreRares: disabled
+TomCats-Mechagon: disabled
+TomCats-Nazjatar: disabled
+TomCats-Nzoth: disabled
+TomCats-WarfrontsCommandCenter: disabled
+TomCats-Complete: disabled
+TomCats-ChildrensWeek: disabled
+TomCats-HallowsEnd: disabled
+TomCats-LoveIsInTheAir: disabled
+TomCats-LunarFestival: disabled
+TomCats-Noblegarden: disabled

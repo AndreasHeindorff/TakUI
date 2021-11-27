@@ -68,6 +68,9 @@ function S:BlizzardOptions()
 	S:HandleButton(_G.ReadyCheckFrameYesButton)
 	S:HandleButton(_G.ReadyCheckFrameNoButton)
 	S:HandleButton(_G.RolePollPopupAcceptButton)
+
+	_G.LFDReadyCheckPopup:StripTextures()
+	_G.LFDReadyCheckPopup:SetTemplate('Transparent')
 	S:HandleButton(_G.LFDReadyCheckPopup.YesButton)
 	S:HandleButton(_G.LFDReadyCheckPopup.NoButton)
 
@@ -81,8 +84,10 @@ function S:BlizzardOptions()
 	_G.ReadyCheckFrameText:SetParent(ReadyCheckFrame)
 	_G.ReadyCheckFrameText:ClearAllPoints()
 	_G.ReadyCheckFrameText:Point('TOP', 0, -15)
-
 	_G.ReadyCheckListenerFrame:SetAlpha(0)
+
+	ReadyCheckFrame:StripTextures()
+	ReadyCheckFrame:SetTemplate('Transparent')
 	ReadyCheckFrame:HookScript('OnShow', function(rcf)
 		-- bug fix, don't show it if player is initiator
 		if rcf.initiator and UnitIsUnit('player', rcf.initiator) then
@@ -381,11 +386,11 @@ function S:BlizzardOptions()
 			for i = 1, Panel:GetNumChildren() do
 				local Child = select(i, Panel:GetChildren())
 				if Child:IsObjectType('CheckButton') then
-					S:HandleCheckBox(Child)
+					S:HandleCheckBox(Child, nil, nil, true)
 				elseif Child:IsObjectType('Button') then
 					S:HandleButton(Child)
 				elseif Child:IsObjectType('Slider') then
-					S:HandleSliderFrame(Child)
+					S:HandleSliderFrame(Child, nil, true)
 				elseif Child:IsObjectType('Tab') then
 					S:HandleTab(Child)
 				elseif Child:IsObjectType('Frame') and Child.Left and Child.Middle and Child.Right then

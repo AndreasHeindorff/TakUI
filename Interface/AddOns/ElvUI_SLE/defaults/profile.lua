@@ -1,12 +1,52 @@
 local SLE, T, E, L, V, P, G = unpack(select(2, ...))
 
+local UF_Auras = {
+	enable = false,
+	threshold = 4,
+}
+
+local sharedIndicatorOptions = {
+	enable = false,
+	keepSizeRatio = true,
+	size = 36,
+	height = 36,
+	anchorPoint = 'CENTER',
+	xOffset = 0,
+	yOffset = 0,
+	texture = 'SKULL',
+	custom = '',
+}
+
 P["sle"] = {
-	--Actionbars
-	["actionbars"] = {
-		["vehicle"] = {
-			["buttonsize"] = 40,
-			["buttonspacing"] = 2,
-			-- ["template"] = "Transparent",
+	--Actionbar
+	actionbar = {
+		vehicle = {
+			enabled = true,
+			mouseover = false,
+			clickThrough = false,
+			keepSizeRatio = true,
+			buttonsPerRow = 7,
+			point = 'TOPLEFT',
+			backdrop = true,
+			heightMult = 1,
+			widthMult = 1,
+			backdropSpacing = 2,
+			buttonSize = 40,
+			buttonHeight = 40,
+			buttonSpacing = 2,
+			alpha = 1,
+			showGrid = true,
+			hotkeyColor = { r = 1, g = 1, b = 1 },
+			hotkeyFont = 'Homespun',
+			hotkeyFontOutline = 'MONOCHROMEOUTLINE',
+			hotkeyFontSize = 12,
+			hotkeytext = true,
+			hotkeyTextPosition = 'TOPRIGHT',
+			hotkeyTextXOffset = 0,
+			hotkeyTextYOffset = -3,
+			useHotkeyColor = false,
+			frameStrata = 'LOW',
+			frameLevel = 1,
 		},
 	},
 	--Armory
@@ -612,10 +652,6 @@ P["sle"] = {
 	},
 	--Misc
 	["misc"] = {
-		["threat"] = {
-			["enable"] = false,
-			["position"] = "RightChatDataPanel",
-		},
 		["viewport"] = {
 			["left"] = 0,
 			["right"] = 0,
@@ -964,6 +1000,7 @@ P["sle"] = {
 			},
 		},
 		chat = {
+			show = true,
 			inversePoint = false,
 			anchorPoint = 'TOPLEFT',
 			xOffset = 0,
@@ -1065,11 +1102,11 @@ P["sle"] = {
 				buttons = false,
 				size = 3,
 			},
-			-- vehicle = { -- TODO: Add Enhanced Vehicle UI Later
-			-- 	backdrop = false,
-			-- 	buttons = false,
-			-- 	size = 3,
-			-- },
+			vehicle = {
+				backdrop = false,
+				buttons = false,
+				size = 3,
+			},
 		},
 		chat = {
 			LeftChatPanel = {
@@ -1292,215 +1329,188 @@ P["sle"] = {
 			["called"] = "Hundred",
 		},
 	},
+	--! Unitframe (slowly transition to match elvui db)
+	unitframe = {
+		roleIcons = {
+			enable = false,
+			icons = 'ElvUI',
+		},
+		statusbarTextures = {
+			aurabar = {
+				enable = false,
+				texture = 'ElvUI Norm',
+			},
+			castbar = {
+				enable = false,
+				texture = 'ElvUI Norm',
+			},
+			classbar = {
+				enable = false,
+				texture = 'ElvUI Norm',
+			},
+			powerbar = {
+				enable = false,
+				texture = 'ElvUI Norm',
+			},
+		},
+		units = {
+			--* Individual Units
+			player = {
+				buffs = CopyTable(UF_Auras),
+				deathIndicator = CopyTable(sharedIndicatorOptions),
+				debuffs = CopyTable(UF_Auras),
+				pvpicontext = {
+					level = {
+						enable = false,
+						anchorPoint = 'TOP',
+						xOffset = 1,
+						yOffset = 5,
+						font = 'PT Sans Narrow',
+						fontSize = 12,
+						fontOutline = 'THICKOUTLINE',
+					},
+					timer = {
+						enable = false,
+						anchorPoint = 'BOTTOM',
+						xOffset = 1,
+						yOffset = -6,
+						font = 'PT Sans Narrow',
+						fontSize = 13,
+						fontOutline = 'THICKOUTLINE',
+					},
+				},
+			},
+			target = {
+				buffs = CopyTable(UF_Auras),
+				deathIndicator = CopyTable(sharedIndicatorOptions),
+				debuffs = CopyTable(UF_Auras),
+				offlineIndicator = CopyTable(sharedIndicatorOptions),
+				pvpicontext = {
+					level = {
+						enable = false,
+						anchorPoint = 'TOP',
+						xOffset = 1,
+						yOffset = 5,
+						font = 'PT Sans Narrow',
+						fontSize = 12,
+						fontOutline = 'THICKOUTLINE',
+					},
+					timer = {
+						enable = false,
+						anchorPoint = 'BOTTOM',
+						xOffset = 1,
+						yOffset = -6,
+						font = 'PT Sans Narrow',
+						fontSize = 13,
+						fontOutline = 'THICKOUTLINE',
+					},
+				},
+			},
+			targettarget = {
+				buffs = CopyTable(UF_Auras),
+				deathIndicator = CopyTable(sharedIndicatorOptions),
+				debuffs = CopyTable(UF_Auras),
+				offlineIndicator = CopyTable(sharedIndicatorOptions),
+			},
+			targettargettarget = {
+				buffs = CopyTable(UF_Auras),
+				deathIndicator = CopyTable(sharedIndicatorOptions),
+				debuffs = CopyTable(UF_Auras),
+				offlineIndicator = CopyTable(sharedIndicatorOptions),
+			},
+			focus = {
+				buffs = CopyTable(UF_Auras),
+				deathIndicator = CopyTable(sharedIndicatorOptions),
+				debuffs = CopyTable(UF_Auras),
+				offlineIndicator = CopyTable(sharedIndicatorOptions),
+			},
+			focustarget = {
+				buffs = CopyTable(UF_Auras),
+				deathIndicator = CopyTable(sharedIndicatorOptions),
+				debuffs = CopyTable(UF_Auras),
+				offlineIndicator = CopyTable(sharedIndicatorOptions),
+			},
+			pet = {
+				buffs = CopyTable(UF_Auras),
+				deathIndicator = CopyTable(sharedIndicatorOptions),
+				debuffs = CopyTable(UF_Auras),
+			},
+			pettarget = {
+				buffs = CopyTable(UF_Auras),
+				debuffs = CopyTable(UF_Auras),
+			},
+			--* Group Units
+			party = {
+				buffs = CopyTable(UF_Auras),
+				deathIndicator = CopyTable(sharedIndicatorOptions),
+				debuffs = CopyTable(UF_Auras),
+				offlineIndicator = CopyTable(sharedIndicatorOptions),
+			},
+			raid = {
+				buffs = CopyTable(UF_Auras),
+				deathIndicator = CopyTable(sharedIndicatorOptions),
+				debuffs = CopyTable(UF_Auras),
+				offlineIndicator = CopyTable(sharedIndicatorOptions),
+			},
+			raid40 = {
+				buffs = CopyTable(UF_Auras),
+				deathIndicator = CopyTable(sharedIndicatorOptions),
+				debuffs = CopyTable(UF_Auras),
+				offlineIndicator = CopyTable(sharedIndicatorOptions),
+			},
+			raidpet = {
+				buffs = CopyTable(UF_Auras),
+				debuffs = CopyTable(UF_Auras),
+			},
+			tank = {
+				buffs = CopyTable(UF_Auras),
+				deathIndicator = CopyTable(sharedIndicatorOptions),
+				debuffs = CopyTable(UF_Auras),
+				offlineIndicator = CopyTable(sharedIndicatorOptions),
+			},
+			assist = {
+				buffs = CopyTable(UF_Auras),
+				deathIndicator = CopyTable(sharedIndicatorOptions),
+				debuffs = CopyTable(UF_Auras),
+				offlineIndicator = CopyTable(sharedIndicatorOptions),
+			},
+			arena = {
+				buffs = CopyTable(UF_Auras),
+				deathIndicator = CopyTable(sharedIndicatorOptions),
+				debuffs = CopyTable(UF_Auras),
+				offlineIndicator = CopyTable(sharedIndicatorOptions),
+			},
+			boss = {
+				buffs = CopyTable(UF_Auras),
+				debuffs = CopyTable(UF_Auras),
+			},
+		}
+	},
 	--Unitfrmes
 	["unitframes"] = {
 		["unit"] = {
-			["player"] = {
-				["pvpIconText"] = {
-					["enable"] = false,
-					["xoffset"] = 0,
-					["yoffset"] = 0,
-					["level"] = true,
-				},
-				["auras"] = {
-					["buffs"] = {
-						["threshold"] = 4,
-					},
-					["debuffs"] = {
-						["threshold"] = 4,
-					},
-				},
-			},
-			["pet"] = {
-				["auras"] = {
-					["buffs"] = {
-						["threshold"] = 4,
-					},
-					["debuffs"] = {
-						["threshold"] = 4,
-					},
-				},
-			},
-			["pettarget"] = {
-				["auras"] = {
-					["buffs"] = {
-						["threshold"] = 4,
-					},
-					["debuffs"] = {
-						["threshold"] = 4,
-					},
-				},
-			},
-			["target"] = {
-				["pvpIconText"] = {
-					["level"] = true,
-				},
-				["auras"] = {
-					["buffs"] = {
-						["threshold"] = 4,
-					},
-					["debuffs"] = {
-						["threshold"] = 4,
-					},
-				},
-			},
-			["targettarget"] = {
-				["auras"] = {
-					["buffs"] = {
-						["threshold"] = 4,
-					},
-					["debuffs"] = {
-						["threshold"] = 4,
-					},
-				},
-			},
-			["targettargettarget"] = {
-				["auras"] = {
-					["buffs"] = {
-						["threshold"] = 4,
-					},
-					["debuffs"] = {
-						["threshold"] = 4,
-					},
-				},
-			},
-			["focus"] = {
-				["auras"] = {
-					["buffs"] = {
-						["threshold"] = 4,
-					},
-					["debuffs"] = {
-						["threshold"] = 4,
-					},
-				},
-			},
-			["focustarget"] = {
-				["auras"] = {
-					["buffs"] = {
-						["threshold"] = 4,
-					},
-					["debuffs"] = {
-						["threshold"] = 4,
-					},
-				},
-			},
 			["party"] = {
-				["offline"] = {
-					["enable"] = false,
-					["size"] = 36,
-					["xOffset"] = 0,
-					["yOffset"] = 0,
-					["texture"] = "ALERT",
-					["CustomTexture"] = "",
-				},
-				["dead"] = {
-					["enable"] = false,
-					["size"] = 36,
-					["xOffset"] = 0,
-					["yOffset"] = 0,
-					["texture"] = "SKULL",
-					["CustomTexture"] = "",
-				},
 				["role"] = {
 					["xoffset"] = 0,
 					["yoffset"] = 0,
-				},
-				["auras"] = {
-					["buffs"] = {
-						["threshold"] = 4,
-					},
-					["debuffs"] = {
-						["threshold"] = 4,
-					},
 				},
 			},
 			["raid"] = {
-				["offline"] = {
-					["enable"] = false,
-					["size"] = 36,
-					["xOffset"] = 0,
-					["yOffset"] = 0,
-					["texture"] = "ALERT",
-					["CustomTexture"] = "",
-				},
-				["dead"] = {
-					["enable"] = false,
-					["size"] = 36,
-					["xOffset"] = 0,
-					["yOffset"] = 0,
-					["texture"] = "SKULL",
-					["CustomTexture"] = "",
-				},
 				["role"] = {
 					["xoffset"] = 0,
 					["yoffset"] = 0,
-				},
-				["auras"] = {
-					["buffs"] = {
-						["threshold"] = 4,
-					},
-					["debuffs"] = {
-						["threshold"] = 4,
-					},
 				},
 			},
 			["raid40"] = {
-				["offline"] = {
-					["enable"] = false,
-					["size"] = 20,
-					["xOffset"] = 0,
-					["yOffset"] = 0,
-					["texture"] = "ALERT",
-					["CustomTexture"] = "",
-				},
-				["dead"] = {
-					["enable"] = false,
-					["size"] = 36,
-					["xOffset"] = 0,
-					["yOffset"] = 0,
-					["texture"] = "SKULL",
-					["CustomTexture"] = "",
-				},
-				["auras"] = {
-					["buffs"] = {
-						["threshold"] = 4,
-					},
-					["debuffs"] = {
-						["threshold"] = 4,
-					},
-				},
 				["role"] = {
 					["xoffset"] = 0,
 					["yoffset"] = 0,
 				},
 			},
-			["boss"] = {
-				["auras"] = {
-					["buffs"] = {
-						["threshold"] = 4,
-					},
-					["debuffs"] = {
-						["threshold"] = 4,
-					},
-				},
-			},
-			["arena"] = {
-				["auras"] = {
-					["buffs"] = {
-						["threshold"] = 4,
-					},
-					["debuffs"] = {
-						["threshold"] = 4,
-					},
-				},
-			},
 		},
-		["roleicons"] = "ElvUI",
-		["statusTextures"] = {
-			["powerTexture"] = "ElvUI Norm",
-			["castTexture"] = "ElvUI Norm",
-			["auraTexture"] = "ElvUI Norm",
-			["classTexture"] = "ElvUI Norm",
+		roleIcons = {
+			enable = false,
+			icons = 'ElvUI',
 		},
 	},
 }

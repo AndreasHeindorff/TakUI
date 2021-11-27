@@ -21,7 +21,7 @@ local strfind = string.find
 -- Generate our version variables
 --
 
-local BIGWIGS_VERSION = 231
+local BIGWIGS_VERSION = 233
 local BIGWIGS_RELEASE_STRING, BIGWIGS_VERSION_STRING = "", ""
 local versionQueryString, versionResponseString = "Q^%d^%s^%d^%s", "V^%d^%s^%d^%s"
 local customGuildName = false
@@ -36,7 +36,7 @@ do
 	local RELEASE = "RELEASE"
 
 	local releaseType = RELEASE
-	local myGitHash = "4ad2102" -- The ZIP packager will replace this with the Git hash.
+	local myGitHash = "7b6549a" -- The ZIP packager will replace this with the Git hash.
 	local releaseString = ""
 	--[=[@alpha@
 	-- The following code will only be present in alpha ZIPs.
@@ -539,8 +539,9 @@ do
 				local tbl = {strsplit(",", meta)}
 				for j=1, #tbl do
 					local slash = tbl[j]:trim():upper()
-					_G["SLASH_"..slash..1] = slash
-					SlashCmdList[slash] = function(text)
+					local slashName = "BIGWIGS"..strsub(slash, 2) -- strip the "/"
+					_G["SLASH_"..slashName.."1"] = slash
+					SlashCmdList[slashName] = function(text)
 						if strfind(name, "BigWigs", nil, true) then
 							-- Attempting to be smart. Only load core & config if it's a BW plugin.
 							loadAndEnableCore()
@@ -549,16 +550,16 @@ do
 						if load(nil, i) then -- Load the addon/plugin
 							-- Call the slash command again, which should have been set by the addon.
 							-- Authors, do NOT delay setting it in OnInitialize/OnEnable/etc.
-							ChatFrame_ImportAllListsToHash()
+							ChatFrame_ImportListToHash(SlashCmdList, hash_SlashCmdList)
 							local func = hash_SlashCmdList[slash]
 							if func then
 								func(text)
-							else
-								-- Addon didn't register the slash command for whatever reason, print the default invalid slash message.
-								local info = ChatTypeInfo["SYSTEM"]
-								DEFAULT_CHAT_FRAME:AddMessage(HELP_TEXT_SIMPLE, info.r, info.g, info.b, info.id)
+								return
 							end
 						end
+						-- Addon didn't register the slash command for whatever reason, print the default invalid slash message.
+						local info = ChatTypeInfo["SYSTEM"]
+						DEFAULT_CHAT_FRAME:AddMessage(HELP_TEXT_SIMPLE, info.r, info.g, info.b, info.id)
 					end
 					loadOnSlash[i][j] = slash
 				end
@@ -580,7 +581,7 @@ do
 		end
 
 		if next(loadOnSlash) then
-			ChatFrame_ImportAllListsToHash() -- Add our slashes to the hash.
+			ChatFrame_ImportListToHash(SlashCmdList, hash_SlashCmdList) -- Add our slashes to the hash.
 		end
 	end
 
@@ -1074,9 +1075,9 @@ end
 --
 
 do
-	local DBMdotRevision = "20210721011804" -- The changing version of the local client, changes with every new zip using the project-date-integer packager replacement.
-	local DBMdotDisplayVersion = "9.1.6" -- "N.N.N" for a release and "N.N.N alpha" for the alpha duration.
-	local DBMdotReleaseRevision = "20210720000000" -- Hardcoded time, manually changed every release, they use it to track the highest release version, a new DBM release is the only time it will change.
+	local DBMdotRevision = "20211102000000" -- The changing version of the local client, changes with every new zip using the project-date-integer packager replacement.
+	local DBMdotDisplayVersion = "9.1.20" -- "N.N.N" for a release and "N.N.N alpha" for the alpha duration.
+	local DBMdotReleaseRevision = "20211102000000" -- Hardcoded time, manually changed every release, they use it to track the highest release version, a new DBM release is the only time it will change.
 
 	local timer, prevUpgradedUser = nil, nil
 	local function sendMsg()
@@ -1507,6 +1508,11 @@ function mod:BigWigs_CoreEnabled()
 	self.isFakingDBM = nil
 	self.isShowingZoneMessages = nil
 	self.isSoundOn = nil
+
+	-- Make sure we've loaded everything. git checkout installs will load core
+	-- immediately, but won't hit loadAndEnableCore until a boss module loads.
+	-- E.g., LoD assets not being available for local, break, and pull bars.
+	loadAddons(loadOnCoreEnabled)
 end
 public.RegisterMessage(mod, "BigWigs_CoreEnabled")
 

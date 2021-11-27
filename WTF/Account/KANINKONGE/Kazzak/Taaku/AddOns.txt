@@ -97,3 +97,6 @@ OPie_Classic: disabled
 WeakAurasCompanion: enabled
 BetterWardrobe: disabled
 BetterWardrobe_Tooltips: disabled
+Tukui: disabled
+GladiusEx: disabled
+AutoRole: disabled

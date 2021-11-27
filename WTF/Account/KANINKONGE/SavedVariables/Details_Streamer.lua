@@ -24,7 +24,7 @@ Details_StreamerDB = {
 		["Rentakidh - Argent Dawn"] = "Hunteraki - Frostmane",
 		["Takidari - Kazzak"] = "Hunteraki - Frostmane",
 		["Rentakigold - Eredar"] = "Hunteraki - Frostmane",
-		["Ivelea - Argent Dawn"] = "Hunteraki - Frostmane",
+		["Rentaki - Kazzak"] = "Hunteraki - Frostmane",
 		["Takidin - Kazzak"] = "Hunteraki - Frostmane",
 		["Takigalywix - Aegwynn"] = "Hunteraki - Frostmane",
 		["Thaaeyn - Argent Dawn"] = "Hunteraki - Frostmane",
@@ -36,7 +36,7 @@ Details_StreamerDB = {
 		["Takitalon - Arathi"] = "Hunteraki - Frostmane",
 		["Nyumi - Argent Dawn"] = "Hunteraki - Frostmane",
 		["Rentaki - Ravencrest"] = "Hunteraki - Frostmane",
-		["Rentaki - Kazzak"] = "Hunteraki - Frostmane",
+		["Ivelea - Argent Dawn"] = "Hunteraki - Frostmane",
 		["Rintake - Argent Dawn"] = "Hunteraki - Frostmane",
 		["Rentaco - Ravencrest"] = "Hunteraki - Frostmane",
 		["Takidari - Ravencrest"] = "Hunteraki - Frostmane",
@@ -66,21 +66,32 @@ Details_StreamerDB = {
 				["radius"] = 160,
 				["hide"] = false,
 			},
-			["use_square_mode"] = false,
+			["arrow_anchor_y"] = 0,
 			["arrow_anchor_x"] = 0,
 			["main_frame_locked"] = false,
 			["row_texture"] = "Details Serenity",
-			["arrow_anchor_y"] = 0,
-			["font_size"] = 10,
 			["row_color"] = {
 				0.1, -- [1]
 				0.1, -- [2]
 				0.1, -- [3]
 				0.4, -- [4]
 			},
+			["font_size"] = 10,
+			["author"] = "Details! Team",
 			["square_amount"] = 5,
 			["enabled"] = false,
 			["arrow_size"] = 10,
+			["y"] = 4.57763671875e-05,
+			["row_spacement"] = 21,
+			["main_frame_color"] = {
+				0, -- [1]
+				0, -- [2]
+				0, -- [3]
+				0.2, -- [4]
+			},
+			["main_frame_strata"] = "LOW",
+			["arrow_texture"] = "Interface\\CHATFRAME\\ChatFrameExpandArrow",
+			["use_spark"] = true,
 			["per_second"] = {
 				["enabled"] = false,
 				["point"] = "CENTER",
@@ -92,24 +103,13 @@ Details_StreamerDB = {
 				["update_speed"] = 0.05,
 				["size"] = 32,
 			},
-			["row_spacement"] = 21,
-			["main_frame_color"] = {
-				0, -- [1]
-				0, -- [2]
-				0, -- [3]
-				0.2, -- [4]
-			},
-			["main_frame_strata"] = "LOW",
-			["arrow_texture"] = "Interface\\CHATFRAME\\ChatFrameExpandArrow",
-			["y"] = 4.57763671875e-05,
-			["use_spark"] = true,
 			["x"] = 0,
 			["font_face"] = "Friz Quadrata TT",
 			["square_size"] = 32,
-			["author"] = "Details! Team",
-			["point"] = "CENTER",
-			["row_height"] = 20,
+			["use_square_mode"] = false,
 			["scale"] = 1,
+			["row_height"] = 20,
+			["point"] = "CENTER",
 		},
 	},
 }

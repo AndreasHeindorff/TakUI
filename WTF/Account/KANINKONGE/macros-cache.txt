@@ -1,3 +1,7 @@
+VER 3 00000000000000E9 "@player windrush" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@player] wind rush totem
+END
 VER 3 00000000000000D0 "AAP_MACRO" "INV_MISC_QUESTIONMARK"
 #showtooltip
 /use Frostwolf Banner
@@ -109,6 +113,11 @@ VER 3 00000000000000E8 "ft mo" "INV_MISC_QUESTIONMARK"
 #showtooltip
 /cast [@cursor] fae transfusion
 END
+VER 3 00000000000000EA "ground/skyfury" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [pvptalent:3/7] grounding totem
+/cast [pvptalent:3/4] skyfury totem
+END
 VER 3 00000000000000B9 "healing rain cur" "INV_MISC_QUESTIONMARK"
 #showtooltip Healing Rain
 /cast [@cursor] Healing Rain
@@ -184,14 +193,17 @@ VER 3 00000000000000DA "ShamanMount" "136103"
 /cast [flyable] Iron Skyreaver
 /cast [noflyable] Vicious War Kodo
 END
+VER 3 00000000000000EB "shocktest" "INV_MISC_QUESTIONMARK"
+/cast [@mouseover, exists, nodead][] Holy Shock
+END
 VER 3 00000000000000D9 "ShowVault" "133154"
 /run LoadAddOn("Blizzard_WeeklyRewards"); WeeklyRewardsFrame:Show()
 END
-VER 3 00000000000000A0 "skull" "INV_MISC_QUESTIONMARK"
-/run SetRaidTarget("target", 8)
-END
 VER 3 00000000000000BE "skull" "INV_MISC_QUESTIONMARK"
 /run SetRaidTarget("target",8)
+END
+VER 3 00000000000000A0 "skull" "INV_MISC_QUESTIONMARK"
+/run SetRaidTarget("target", 8)
 END
 VER 3 00000000000000D6 "Skyfury banners" "INV_MISC_QUESTIONMARK"
 #showtooltip
@@ -218,6 +230,10 @@ VER 3 00000000000000E1 "use 14" "INV_MISC_QUESTIONMARK"
 END
 VER 3 00000000000000D5 "UseAzerite" "133487"
 /use Relinquished Azerite Chestpiece
+END
+VER 3 00000000000000EC "vt mo" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@cursor] vesper totem
 END
 VER 3 0000000000000095 "wind shear" "INV_MISC_QUESTIONMARK"
 #showtooltip
