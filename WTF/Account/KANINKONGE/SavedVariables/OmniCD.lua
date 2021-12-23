@@ -5,7 +5,10 @@ OmniCDDB = {
 		["Takidin - Kazzak"] = "Default",
 		["Takii - Argent Dawn"] = "Default",
 		["Renqqø - Kazzak"] = "Default",
+		["Rentakisham - EU Mythic Dungeons"] = "Default",
+		["Renwarri - Kazzak"] = "Default",
 		["Takiscoper - Kazzak"] = "Default",
+		["Rentaco - Kazzak"] = "Default",
 		["Takibank - Argent Dawn"] = "Default",
 		["Huntaki - Ravencrest"] = "Default",
 		["Rentaki - Kazzak"] = "Default",
@@ -21,18 +24,18 @@ OmniCDDB = {
 		["LibDualSpec-1.0"] = {
 		},
 	},
+	["version"] = 2.51,
 	["cooldowns"] = {
 	},
-	["version"] = 2.51,
 	["profiles"] = {
 		["Default"] = {
 			["Party"] = {
 				["party"] = {
 					["extraBars"] = {
-						["raidCDBar"] = {
+						["interruptBar"] = {
 							["enabled"] = false,
 						},
-						["interruptBar"] = {
+						["raidCDBar"] = {
 							["enabled"] = false,
 						},
 					},
@@ -49,13 +52,13 @@ OmniCDDB = {
 						["anchor"] = "TOPRIGHT",
 					},
 					["manualPos"] = {
-						["raidCDBar"] = {
-							["y"] = 255.6443638291603,
-							["x"] = 201.0665630284257,
-						},
 						["interruptBar"] = {
 							["y"] = 356.2665016823303,
 							["x"] = 834.1351764480714,
+						},
+						["raidCDBar"] = {
+							["y"] = 255.6443638291603,
+							["x"] = 201.0665630284257,
 						},
 					},
 				},
@@ -74,12 +77,6 @@ OmniCDDB = {
 				},
 			},
 			["General"] = {
-				["textures"] = {
-					["statusBar"] = {
-						["BG"] = "Tukui",
-						["bar"] = "Tukui",
-					},
-				},
 				["fonts"] = {
 					["statusBar"] = {
 						["font"] = "Gotham Narrow Black",
@@ -92,6 +89,12 @@ OmniCDDB = {
 					["icon"] = {
 						["font"] = "Gotham Narrow Black",
 						["size"] = 12,
+					},
+				},
+				["textures"] = {
+					["statusBar"] = {
+						["BG"] = "Tukui",
+						["bar"] = "Tukui",
 					},
 				},
 			},

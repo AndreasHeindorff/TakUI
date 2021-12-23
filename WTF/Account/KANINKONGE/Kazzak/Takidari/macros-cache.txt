@@ -1,0 +1,4 @@
+VER 3 0100000000000001 "F DISRUPT" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@focus] disrupt
+END

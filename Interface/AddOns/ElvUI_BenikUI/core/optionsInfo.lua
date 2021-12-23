@@ -48,6 +48,8 @@ local DONATORS = {
 	'Vlad P.',
 	'Esa L.',
 	'Ascor',
+	'David R.',
+	'Misaligned',
 }
 tsort(DONATORS, function(a, b) return E:StripString(a) < E:StripString(b) end)
 local DONATOR_STRING = tconcat(DONATORS, ", ")
@@ -60,6 +62,7 @@ local PATRONS = {
 	'Blom',
 	'bazooka',
 	'beyornd',
+	'bneusbaum',
 }
 tsort(PATRONS, function(a, b) return E:StripString(a) < E:StripString(b) end)
 local PATRONS_STRING = tconcat(PATRONS, ", ")
@@ -77,7 +80,7 @@ local CODING = {
 	'Repooc',
 	'Pristie (frFR)',
 	'|cffff005athurin|r',
-	'|TInterface/AddOns/ElvUI/Media/ChatLogos/Hibiscus:15:15:0:0:64:64:5:59:5:59|t Simpy',
+	'|TInterface/AddOns/ElvUI/Core/Media/ChatLogos/Hibiscus:15:15:0:0:64:64:5:59:5:59|t Simpy',
 	'Cara (ptBR)',
 	'nadugi (koKR)',
 }
@@ -168,7 +171,7 @@ local function Info()
 						order = 2,
 						type = 'execute',
 						name = L['Git Ticket tracker'],
-						func = function() StaticPopup_Show("BENIKUI_CREDITS", nil, nil, "https://git.tukui.org/Benik/ElvUI_BenikUI/issues") end,
+						func = function() StaticPopup_Show("BENIKUI_CREDITS", nil, nil, "https://github.com/Benik/BenikUI/issues") end,
 					},
 					discord = {
 						order = 3,
@@ -200,7 +203,7 @@ local function Info()
 						order = 3,
 						type = 'execute',
 						name = L['Beta versions'],
-						func = function() StaticPopup_Show("BENIKUI_CREDITS", nil, nil, "https://git.tukui.org/Benik/ElvUI_BenikUI/repository/archive.zip?ref=development") end,
+						func = function() StaticPopup_Show("BENIKUI_CREDITS", nil, nil, "https://github.com/Benik/BenikUI/archive/refs/heads/development.zip") end,
 					},
 				},
 			},

@@ -2,73 +2,73 @@
 ElvCharacterDB = {
 	["ChatHistoryLog"] = {
 		{
-			"Interrupted |cff71d5ff|Hspell:336277:0|h[Explosive Anger]|h|r on Remnant of Fury", -- [1]
-			"Teak-TheMaelstrom", -- [2]
+			"2", -- [1]
+			"Xplotter-Kazzak", -- [2]
 			"Orcish", -- [3]
 			"", -- [4]
-			"Teak-TheMaelstrom", -- [5]
+			"Xplotter-Kazzak", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1070, -- [11]
-			"Player-1596-0B986F1F", -- [12]
+			4140, -- [11]
+			"Player-1305-088667EF", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff00fe97Teak-TheMaelstrom|r",
-			[51] = 1637789275,
+			[52] = "|cff3ec6eaXplotter|r",
+			[51] = 1640040021,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [1]
 		{
-			"Interrupted |cff71d5ff|Hspell:335305:0|h[Barbed Shackles]|h|r on Depths Warden", -- [1]
-			"Teak-TheMaelstrom", -- [2]
+			"Curse of Obliteration on Mojahxd", -- [1]
+			"Mojahxd-Kazzak", -- [2]
 			"Orcish", -- [3]
 			"", -- [4]
-			"Teak-TheMaelstrom", -- [5]
+			"Mojahxd-Kazzak", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1077, -- [11]
-			"Player-1596-0B986F1F", -- [12]
+			4141, -- [11]
+			"Player-1305-0B735E22", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff00fe97Teak-TheMaelstrom|r",
-			[51] = 1637789319,
+			[52] = "|cff8687edMojahxd|r",
+			[51] = 1640040035,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [2]
 		{
-			"my cds in a minute", -- [1]
-			"Poumba-Karazhan", -- [2]
-			"", -- [3]
+			"3", -- [1]
+			"Mojahxd-Kazzak", -- [2]
+			"Orcish", -- [3]
 			"", -- [4]
-			"Poumba-Karazhan", -- [5]
+			"Mojahxd-Kazzak", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1079, -- [11]
-			"Player-1596-0ACF0CC5", -- [12]
+			4143, -- [11]
+			"Player-1305-0B735E22", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffe7b09Poumba-Karazhan|r",
-			[51] = 1637789348,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cff8687edMojahxd|r",
+			[51] = 1640040037,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [3]
 		{
-			"Castigate on Takidin", -- [1]
+			"Curse of Obliteration on Takidin", -- [1]
 			"Takidin-Kazzak", -- [2]
 			"Orcish", -- [3]
 			"", -- [4]
@@ -78,7 +78,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1082, -- [11]
+			4146, -- [11]
 			"Player-1305-0B0683B1", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -86,33 +86,33 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cfff38bb9Takidin|r",
-			[51] = 1637789351,
+			[51] = 1640040052,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [4]
 		{
-			"Прервал |cff71d5ff|Hspell:323764:0|h[Созыв духов]|h|r у Хоонор", -- [1]
-			"Хоонор-Галакронд", -- [2]
+			"3", -- [1]
+			"Takidin-Kazzak", -- [2]
 			"Orcish", -- [3]
 			"", -- [4]
-			"Хоонор-Галакронд", -- [5]
+			"Takidin-Kazzak", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1083, -- [11]
-			"Player-1614-0A8FCE2E", -- [12]
+			4147, -- [11]
+			"Player-1305-0B0683B1", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffe7b09Хоонор-Галакронд|r",
-			[51] = 1637789352,
+			[52] = "|cfff38bb9Takidin|r",
+			[51] = 1640040055,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [5]
 		{
-			"Castigate on Takidin", -- [1]
+			"2", -- [1]
 			"Takidin-Kazzak", -- [2]
 			"Orcish", -- [3]
 			"", -- [4]
@@ -122,7 +122,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1086, -- [11]
+			4148, -- [11]
 			"Player-1305-0B0683B1", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -130,121 +130,121 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cfff38bb9Takidin|r",
-			[51] = 1637789372,
+			[51] = 1640040056,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [6]
 		{
-			"<EH> Takidin-Kazzak got hit by |cff71d5ff|Hspell:323573:0|h[Осадок]|h|r for 27.5k (51%).", -- [1]
-			"Хоонор-Галакронд", -- [2]
-			"", -- [3]
+			"1", -- [1]
+			"Takidin-Kazzak", -- [2]
+			"Orcish", -- [3]
 			"", -- [4]
-			"Хоонор-Галакронд", -- [5]
+			"Takidin-Kazzak", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1087, -- [11]
-			"Player-1614-0A8FCE2E", -- [12]
+			4149, -- [11]
+			"Player-1305-0B0683B1", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffe7b09Хоонор-Галакронд|r",
-			[51] = 1637789373,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cfff38bb9Takidin|r",
+			[51] = 1640040057,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [7]
 		{
-			"<EH> Hordier-TwistingNether got hit by |cff71d5ff|Hspell:240448:0|h[Землетрясение]|h|r for 18.4k (32%) and |cff71d5ff|Hspell:323573:0|h[Осадок]|h|r for 23.8k (42%).", -- [1]
-			"Хоонор-Галакронд", -- [2]
+			"Interrupted Depraved Collector's |cff71d5ff|Hspell:325700:0|h[Collect Sins]|h|r!", -- [1]
+			"Xplotter-Kazzak", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Хоонор-Галакронд", -- [5]
+			"Xplotter-Kazzak", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1088, -- [11]
-			"Player-1614-0A8FCE2E", -- [12]
+			4152, -- [11]
+			"Player-1305-088667EF", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffe7b09Хоонор-Галакронд|r",
-			[51] = 1637789373,
+			[52] = "|cff3ec6eaXplotter|r",
+			[51] = 1640040117,
 			[50] = "CHAT_MSG_PARTY",
 		}, -- [8]
 		{
-			"<EH> Teak-TheMaelstrom got hit by |cff71d5ff|Hspell:323573:0|h[Осадок]|h|r for 17.8k (35%).", -- [1]
-			"Хоонор-Галакронд", -- [2]
+			"get rdy to move", -- [1]
+			"Tokzik-Kazzak", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Хоонор-Галакронд", -- [5]
+			"Tokzik-Kazzak", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1089, -- [11]
-			"Player-1614-0A8FCE2E", -- [12]
+			4153, -- [11]
+			"Player-1305-0B0DF88B", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffe7b09Хоонор-Галакронд|r",
-			[51] = 1637789374,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cffc31d39Tokzik|r",
+			[51] = 1640040156,
+			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [9]
 		{
-			"Castigate on Poumba", -- [1]
-			"Poumba-Karazhan", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Poumba-Karazhan", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1092, -- [11]
-			"Player-1596-0ACF0CC5", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffe7b09Poumba-Karazhan|r",
-			[51] = 1637789392,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [10]
-		{
-			"<EH> Hordier-TwistingNether got hit by |cff71d5ff|Hspell:323573:0|h[Осадок]|h|r for 28.4k (50%).", -- [1]
-			"Хоонор-Галакронд", -- [2]
+			"0% MANA", -- [1]
+			"Takidin-Kazzak", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Хоонор-Галакронд", -- [5]
+			"Takidin-Kazzak", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1093, -- [11]
-			"Player-1614-0A8FCE2E", -- [12]
+			4154, -- [11]
+			"Player-1305-0B0683B1", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffe7b09Хоонор-Галакронд|r",
-			[51] = 1637789407,
+			[52] = "|cfff38bb9Takidin|r",
+			[51] = 1640040163,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [10]
+		{
+			"Interrupted Depraved Obliterator's |cff71d5ff|Hspell:338003:0|h[Wicked Bolt]|h|r!", -- [1]
+			"Xplotter-Kazzak", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Xplotter-Kazzak", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			4156, -- [11]
+			"Player-1305-088667EF", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff3ec6eaXplotter|r",
+			[51] = 1640040180,
 			[50] = "CHAT_MSG_PARTY",
 		}, -- [11]
 		{
-			"Castigate on Takidin", -- [1]
+			"Curse of Obliteration on Takidin", -- [1]
 			"Takidin-Kazzak", -- [2]
 			"Orcish", -- [3]
 			"", -- [4]
@@ -254,7 +254,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1095, -- [11]
+			4158, -- [11]
 			"Player-1305-0B0683B1", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -262,99 +262,33 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cfff38bb9Takidin|r",
-			[51] = 1637789413,
+			[51] = 1640040186,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [12]
 		{
-			"Castigate on Teak", -- [1]
-			"Teak-TheMaelstrom", -- [2]
+			"Curse of Obliteration on Takidin", -- [1]
+			"Takidin-Kazzak", -- [2]
 			"Orcish", -- [3]
 			"", -- [4]
-			"Teak-TheMaelstrom", -- [5]
+			"Takidin-Kazzak", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1098, -- [11]
-			"Player-1596-0B986F1F", -- [12]
+			4159, -- [11]
+			"Player-1305-0B0683B1", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff00fe97Teak-TheMaelstrom|r",
-			[51] = 1637789434,
+			[52] = "|cfff38bb9Takidin|r",
+			[51] = 1640040203,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [13]
 		{
-			"<EH> Teak-TheMaelstrom got hit by |cff71d5ff|Hspell:323573:0|h[Осадок]|h|r for 25.3k (44%).", -- [1]
-			"Хоонор-Галакронд", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Хоонор-Галакронд", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1100, -- [11]
-			"Player-1614-0A8FCE2E", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffe7b09Хоонор-Галакронд|r",
-			[51] = 1637789437,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [14]
-		{
-			"<EH> Hordier-TwistingNether got hit by |cff71d5ff|Hspell:323573:0|h[Осадок]|h|r for 25.7k (45%).", -- [1]
-			"Хоонор-Галакронд", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Хоонор-Галакронд", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1101, -- [11]
-			"Player-1614-0A8FCE2E", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffe7b09Хоонор-Галакронд|r",
-			[51] = 1637789437,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [15]
-		{
-			"<EH> Hordier-TwistingNether got hit by |cff71d5ff|Hspell:323573:0|h[Осадок]|h|r for 25.7k (45%).", -- [1]
-			"Хоонор-Галакронд", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Хоонор-Галакронд", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1102, -- [11]
-			"Player-1614-0A8FCE2E", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffe7b09Хоонор-Галакронд|r",
-			[51] = 1637789442,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [16]
-		{
-			"Castigate on Takidin", -- [1]
+			"3", -- [1]
 			"Takidin-Kazzak", -- [2]
 			"Orcish", -- [3]
 			"", -- [4]
@@ -364,7 +298,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1105, -- [11]
+			4160, -- [11]
 			"Player-1305-0B0683B1", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -372,233 +306,167 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cfff38bb9Takidin|r",
-			[51] = 1637789454,
+			[51] = 1640040206,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [14]
+		{
+			"Curse of Obliteration on Xplotter", -- [1]
+			"Xplotter-Kazzak", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Xplotter-Kazzak", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			4161, -- [11]
+			"Player-1305-088667EF", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff3ec6eaXplotter|r",
+			[51] = 1640040220,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [15]
+		{
+			"3", -- [1]
+			"Xplotter-Kazzak", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Xplotter-Kazzak", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			4162, -- [11]
+			"Player-1305-088667EF", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff3ec6eaXplotter|r",
+			[51] = 1640040223,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [16]
+		{
+			"2", -- [1]
+			"Xplotter-Kazzak", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Xplotter-Kazzak", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			4163, -- [11]
+			"Player-1305-088667EF", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff3ec6eaXplotter|r",
+			[51] = 1640040224,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [17]
 		{
-			"<EH> Hordier-TwistingNether got hit by |cff71d5ff|Hspell:240448:0|h[Землетрясение]|h|r for 20.2k (35%).", -- [1]
-			"Хоонор-Галакронд", -- [2]
-			"", -- [3]
+			"1", -- [1]
+			"Xplotter-Kazzak", -- [2]
+			"Orcish", -- [3]
 			"", -- [4]
-			"Хоонор-Галакронд", -- [5]
+			"Xplotter-Kazzak", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1114, -- [11]
-			"Player-1614-0A8FCE2E", -- [12]
+			4164, -- [11]
+			"Player-1305-088667EF", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffe7b09Хоонор-Галакронд|r",
-			[51] = 1637789497,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cff3ec6eaXplotter|r",
+			[51] = 1640040225,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [18]
 		{
-			"<EH> Poumba-Karazhan got hit by |cff71d5ff|Hspell:240448:0|h[Землетрясение]|h|r for 17.2k (33%).", -- [1]
-			"Хоонор-Галакронд", -- [2]
+			"lust? or na", -- [1]
+			"Xplotter-Kazzak", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Хоонор-Галакронд", -- [5]
+			"Xplotter-Kazzak", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1117, -- [11]
-			"Player-1614-0A8FCE2E", -- [12]
+			4166, -- [11]
+			"Player-1305-088667EF", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffe7b09Хоонор-Галакронд|r",
-			[51] = 1637789517,
+			[52] = "|cff3ec6eaXplotter|r",
+			[51] = 1640040280,
 			[50] = "CHAT_MSG_PARTY",
 		}, -- [19]
 		{
-			"i mess up my cds", -- [1]
-			"Poumba-Karazhan", -- [2]
+			"up to you :)", -- [1]
+			"Tokzik-Kazzak", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Poumba-Karazhan", -- [5]
+			"Tokzik-Kazzak", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1121, -- [11]
-			"Player-1596-0ACF0CC5", -- [12]
+			4169, -- [11]
+			"Player-1305-0B0DF88B", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffe7b09Poumba-Karazhan|r",
-			[51] = 1637789563,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cffc31d39Tokzik|r",
+			[51] = 1640040286,
+			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [20]
 		{
-			"i immune", -- [1]
-			"Teak-TheMaelstrom", -- [2]
+			"Interrupted Depraved Obliterator's |cff71d5ff|Hspell:325876:0|h[Curse of Obliteration]|h|r!", -- [1]
+			"Xplotter-Kazzak", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Teak-TheMaelstrom", -- [5]
+			"Xplotter-Kazzak", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1132, -- [11]
-			"Player-1596-0B986F1F", -- [12]
+			4175, -- [11]
+			"Player-1305-088667EF", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff00fe97Teak-TheMaelstrom|r",
-			[51] = 1637789618,
+			[52] = "|cff3ec6eaXplotter|r",
+			[51] = 1640040338,
 			[50] = "CHAT_MSG_PARTY",
 		}, -- [21]
 		{
-			"<EH> Teak-TheMaelstrom got hit by |cff71d5ff|Hspell:325885:0|h[Крики страдания]|h|r for 34.2k (59%).", -- [1]
-			"Хоонор-Галакронд", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Хоонор-Галакронд", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1135, -- [11]
-			"Player-1614-0A8FCE2E", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffe7b09Хоонор-Галакронд|r",
-			[51] = 1637789651,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [22]
-		{
-			"<EH> Hordier-TwistingNether got hit by |cff71d5ff|Hspell:325885:0|h[Крики страдания]|h|r for 40.0k (70%).", -- [1]
-			"Хоонор-Галакронд", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Хоонор-Галакронд", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1136, -- [11]
-			"Player-1614-0A8FCE2E", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffe7b09Хоонор-Галакронд|r",
-			[51] = 1637789653,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [23]
-		{
-			"disp", -- [1]
-			"Teak-TheMaelstrom", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Teak-TheMaelstrom", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1137, -- [11]
-			"Player-1596-0B986F1F", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff00fe97Teak-TheMaelstrom|r",
-			[51] = 1637789653,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [24]
-		{
-			"<EH> Hordier-TwistingNether got hit by |cff71d5ff|Hspell:240448:0|h[Землетрясение]|h|r for 18.4k (32%).", -- [1]
-			"Хоонор-Галакронд", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Хоонор-Галакронд", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1138, -- [11]
-			"Player-1614-0A8FCE2E", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffe7b09Хоонор-Галакронд|r",
-			[51] = 1637789658,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [25]
-		{
-			"<EH> Poumba-Karazhan got hit by |cff71d5ff|Hspell:325885:0|h[Крики страдания]|h|r for 43.6k (83%).", -- [1]
-			"Хоонор-Галакронд", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Хоонор-Галакронд", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1142, -- [11]
-			"Player-1614-0A8FCE2E", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffe7b09Хоонор-Галакронд|r",
-			[51] = 1637789690,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [26]
-		{
-			"<EH> Hordier-TwistingNether got hit by |cff71d5ff|Hspell:334563:0|h[Неустойчивая ловушка]|h|r for 23.4k (41%).", -- [1]
-			"Хоонор-Галакронд", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Хоонор-Галакронд", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1154, -- [11]
-			"Player-1614-0A8FCE2E", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffe7b09Хоонор-Галакронд|r",
-			[51] = 1637789746,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [27]
-		{
-			"invis?", -- [1]
+			"Curse of Obliteration on Takidin", -- [1]
 			"Takidin-Kazzak", -- [2]
-			"", -- [3]
+			"Orcish", -- [3]
 			"", -- [4]
 			"Takidin-Kazzak", -- [5]
 			"", -- [6]
@@ -606,7 +474,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1156, -- [11]
+			4178, -- [11]
 			"Player-1305-0B0683B1", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -614,495 +482,627 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cfff38bb9Takidin|r",
-			[51] = 1637789770,
-			[50] = "CHAT_MSG_PARTY",
+			[51] = 1640040360,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [22]
+		{
+			"3", -- [1]
+			"Takidin-Kazzak", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Takidin-Kazzak", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			4179, -- [11]
+			"Player-1305-0B0683B1", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff38bb9Takidin|r",
+			[51] = 1640040363,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [23]
+		{
+			"2", -- [1]
+			"Takidin-Kazzak", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Takidin-Kazzak", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			4180, -- [11]
+			"Player-1305-0B0683B1", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff38bb9Takidin|r",
+			[51] = 1640040364,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [24]
+		{
+			"1", -- [1]
+			"Takidin-Kazzak", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Takidin-Kazzak", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			4181, -- [11]
+			"Player-1305-0B0683B1", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff38bb9Takidin|r",
+			[51] = 1640040365,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [25]
+		{
+			"Curse of Obliteration on Takidin", -- [1]
+			"Takidin-Kazzak", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Takidin-Kazzak", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			4182, -- [11]
+			"Player-1305-0B0683B1", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff38bb9Takidin|r",
+			[51] = 1640040392,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [26]
+		{
+			"3", -- [1]
+			"Takidin-Kazzak", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Takidin-Kazzak", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			4183, -- [11]
+			"Player-1305-0B0683B1", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff38bb9Takidin|r",
+			[51] = 1640040395,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [27]
+		{
+			"2", -- [1]
+			"Takidin-Kazzak", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Takidin-Kazzak", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			4184, -- [11]
+			"Player-1305-0B0683B1", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff38bb9Takidin|r",
+			[51] = 1640040396,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [28]
 		{
-			"sure", -- [1]
-			"Хоонор-Галакронд", -- [2]
-			"", -- [3]
+			"1", -- [1]
+			"Takidin-Kazzak", -- [2]
+			"Orcish", -- [3]
 			"", -- [4]
-			"Хоонор-Галакронд", -- [5]
+			"Takidin-Kazzak", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1157, -- [11]
-			"Player-1614-0A8FCE2E", -- [12]
+			4185, -- [11]
+			"Player-1305-0B0683B1", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffe7b09Хоонор-Галакронд|r",
-			[51] = 1637789775,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cfff38bb9Takidin|r",
+			[51] = 1640040397,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [29]
 		{
-			"overcap", -- [1]
-			"Хоонор-Галакронд", -- [2]
+			"how much count", -- [1]
+			"Tokzik-Kazzak", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Хоонор-Галакронд", -- [5]
+			"Tokzik-Kazzak", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1158, -- [11]
-			"Player-1614-0A8FCE2E", -- [12]
+			4187, -- [11]
+			"Player-1305-0B0DF88B", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffe7b09Хоонор-Галакронд|r",
-			[51] = 1637789777,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cffc31d39Tokzik|r",
+			[51] = 1640040410,
+			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [30]
 		{
-			"Guards! Slay them all!", -- [1]
-			"", -- [2]
+			"do we need before last", -- [1]
+			"Tokzik-Kazzak", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"General Kaal", -- [5]
+			"Tokzik-Kazzak", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1159, -- [11]
-			false, -- [12]
+			4188, -- [11]
+			"Player-1305-0B0DF88B", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "",
-			[51] = 1637789789,
-			[50] = "CHAT_MSG_YELL",
+			[52] = "|cffc31d39Tokzik|r",
+			[51] = 1640040412,
+			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [31]
 		{
-			"Guards! Slay them all!", -- [1]
-			"", -- [2]
+			"we're good right?", -- [1]
+			"Tokzik-Kazzak", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"General Kaal", -- [5]
+			"Tokzik-Kazzak", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1160, -- [11]
-			false, -- [12]
+			4190, -- [11]
+			"Player-1305-0B0DF88B", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "",
-			[51] = 1637789789,
-			[50] = "CHAT_MSG_YELL",
+			[52] = "|cffc31d39Tokzik|r",
+			[51] = 1640040415,
+			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [32]
 		{
-			"<EH> Teak-TheMaelstrom got hit by |cff71d5ff|Hspell:240448:0|h[Землетрясение]|h|r for 15.9k (31%).", -- [1]
-			"Хоонор-Галакронд", -- [2]
+			"dunno", -- [1]
+			"Mojahxd-Kazzak", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Хоонор-Галакронд", -- [5]
+			"Mojahxd-Kazzak", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1163, -- [11]
-			"Player-1614-0A8FCE2E", -- [12]
+			4191, -- [11]
+			"Player-1305-0B735E22", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffe7b09Хоонор-Галакронд|r",
-			[51] = 1637789798,
+			[52] = "|cff8687edMojahxd|r",
+			[51] = 1640040421,
 			[50] = "CHAT_MSG_PARTY",
 		}, -- [33]
 		{
-			"<EH> Hordier-TwistingNether got hit by |cff71d5ff|Hspell:240448:0|h[Землетрясение]|h|r for 18.4k (32%).", -- [1]
-			"Хоонор-Галакронд", -- [2]
+			"never do m+", -- [1]
+			"Mojahxd-Kazzak", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Хоонор-Галакронд", -- [5]
+			"Mojahxd-Kazzak", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1164, -- [11]
-			"Player-1614-0A8FCE2E", -- [12]
+			4192, -- [11]
+			"Player-1305-0B735E22", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffe7b09Хоонор-Галакронд|r",
-			[51] = 1637789798,
+			[52] = "|cff8687edMojahxd|r",
+			[51] = 1640040424,
 			[50] = "CHAT_MSG_PARTY",
 		}, -- [34]
 		{
-			"Interrupted |cff71d5ff|Hspell:326712:0|h[Dark Bolt]|h|r on Dark Acolyte", -- [1]
-			"Teak-TheMaelstrom", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Teak-TheMaelstrom", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1166, -- [11]
-			"Player-1596-0B986F1F", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff00fe97Teak-TheMaelstrom|r",
-			[51] = 1637789808,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [35]
-		{
-			"Яркое сияние на Хоонор!", -- [1]
-			"Хоонор-Галакронд", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Хоонор-Галакронд", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1168, -- [11]
-			"Player-1614-0A8FCE2E", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffe7b09Хоонор-Галакронд|r",
-			[51] = 1637789825,
-			[50] = "CHAT_MSG_YELL",
-		}, -- [36]
-		{
-			"move :)", -- [1]
-			"Hordier-TwistingNether", -- [2]
+			"79", -- [1]
+			"Takidin-Kazzak", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Hordier-TwistingNether", -- [5]
+			"Takidin-Kazzak", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1171, -- [11]
-			"Player-3674-0AA76B30", -- [12]
+			4193, -- [11]
+			"Player-1305-0B0683B1", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc31d39Hordier-TwistingNether|r",
-			[51] = 1637789844,
+			[52] = "|cfff38bb9Takidin|r",
+			[51] = 1640040427,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [35]
+		{
+			"Interrupted Stoneborn Reaver's |cff71d5ff|Hspell:326607:0|h[Turn to Stone]|h|r!", -- [1]
+			"Xplotter-Kazzak", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Xplotter-Kazzak", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			4200, -- [11]
+			"Player-1305-088667EF", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff3ec6eaXplotter|r",
+			[51] = 1640040469,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [36]
+		{
+			"invis", -- [1]
+			"Tokzik-Kazzak", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Tokzik-Kazzak", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			4202, -- [11]
+			"Player-1305-0B0DF88B", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc31d39Tokzik|r",
+			[51] = 1640040488,
 			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [37]
 		{
-			"That prisoner belongs to the Master. You will not take it!", -- [1]
-			"", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"General Kaal", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1181, -- [11]
-			false, -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "",
-			[51] = 1637789868,
-			[50] = "CHAT_MSG_YELL",
-		}, -- [38]
-		{
-			"That prisoner belongs to the Master. You will not take it!", -- [1]
-			"", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"General Kaal", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1182, -- [11]
-			false, -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "",
-			[51] = 1637789868,
-			[50] = "CHAT_MSG_YELL",
-		}, -- [39]
-		{
-			"<EH> Hordier-TwistingNether got hit by |cff71d5ff|Hspell:240448:0|h[Землетрясение]|h|r for 18.8k (33%).", -- [1]
-			"Хоонор-Галакронд", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Хоонор-Галакронд", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1184, -- [11]
-			"Player-1614-0A8FCE2E", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffe7b09Хоонор-Галакронд|r",
-			[51] = 1637789879,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [40]
-		{
-			"Interrupted |cff71d5ff|Hspell:326712:0|h[Dark Bolt]|h|r on Dark Acolyte", -- [1]
-			"Teak-TheMaelstrom", -- [2]
+			"Stone Shattering Leap on Takidin", -- [1]
+			"Takidin-Kazzak", -- [2]
 			"Orcish", -- [3]
 			"", -- [4]
-			"Teak-TheMaelstrom", -- [5]
+			"Takidin-Kazzak", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1185, -- [11]
-			"Player-1596-0B986F1F", -- [12]
+			4216, -- [11]
+			"Player-1305-0B0683B1", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff00fe97Teak-TheMaelstrom|r",
-			[51] = 1637789895,
+			[52] = "|cfff38bb9Takidin|r",
+			[51] = 1640040544,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [38]
+		{
+			"3", -- [1]
+			"Takidin-Kazzak", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Takidin-Kazzak", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			4217, -- [11]
+			"Player-1305-0B0683B1", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff38bb9Takidin|r",
+			[51] = 1640040546,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [39]
+		{
+			"2", -- [1]
+			"Takidin-Kazzak", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Takidin-Kazzak", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			4219, -- [11]
+			"Player-1305-0B0683B1", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff38bb9Takidin|r",
+			[51] = 1640040547,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [40]
+		{
+			"1", -- [1]
+			"Takidin-Kazzak", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Takidin-Kazzak", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			4220, -- [11]
+			"Player-1305-0B0683B1", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff38bb9Takidin|r",
+			[51] = 1640040548,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [41]
 		{
-			"These halls will be your tomb!", -- [1]
-			"", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"General Kaal", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1194, -- [11]
-			false, -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "",
-			[51] = 1637789911,
-			[50] = "CHAT_MSG_YELL",
-		}, -- [42]
-		{
-			"These halls will be your tomb!", -- [1]
-			"", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"General Kaal", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1195, -- [11]
-			false, -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "",
-			[51] = 1637789911,
-			[50] = "CHAT_MSG_YELL",
-		}, -- [43]
-		{
-			"Прервал |cff71d5ff|Hspell:322433:0|h[Каменная кожа]|h|r у Часовой чертогов", -- [1]
-			"Хоонор-Галакронд", -- [2]
+			"Stone Shattering Leap on Mojahxd", -- [1]
+			"Mojahxd-Kazzak", -- [2]
 			"Orcish", -- [3]
 			"", -- [4]
-			"Хоонор-Галакронд", -- [5]
+			"Mojahxd-Kazzak", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1199, -- [11]
-			"Player-1614-0A8FCE2E", -- [12]
+			4229, -- [11]
+			"Player-1305-0B735E22", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffe7b09Хоонор-Галакронд|r",
-			[51] = 1637789932,
+			[52] = "|cff8687edMojahxd|r",
+			[51] = 1640040576,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [42]
+		{
+			"3", -- [1]
+			"Mojahxd-Kazzak", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Mojahxd-Kazzak", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			4230, -- [11]
+			"Player-1305-0B735E22", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff8687edMojahxd|r",
+			[51] = 1640040578,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [43]
+		{
+			"2", -- [1]
+			"Mojahxd-Kazzak", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Mojahxd-Kazzak", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			4231, -- [11]
+			"Player-1305-0B735E22", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff8687edMojahxd|r",
+			[51] = 1640040579,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [44]
 		{
-			"Яркое сияние на Хоонор!", -- [1]
-			"Хоонор-Галакронд", -- [2]
+			"1", -- [1]
+			"Mojahxd-Kazzak", -- [2]
 			"Orcish", -- [3]
 			"", -- [4]
-			"Хоонор-Галакронд", -- [5]
+			"Mojahxd-Kazzak", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1208, -- [11]
-			"Player-1614-0A8FCE2E", -- [12]
+			4232, -- [11]
+			"Player-1305-0B735E22", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffe7b09Хоонор-Галакронд|r",
-			[51] = 1637789947,
-			[50] = "CHAT_MSG_YELL",
+			[52] = "|cff8687edMojahxd|r",
+			[51] = 1640040580,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [45]
 		{
-			"can we kill", -- [1]
-			"Teak-TheMaelstrom", -- [2]
-			"", -- [3]
+			"Stone Shattering Leap on Tokzik", -- [1]
+			"Tokzik-Kazzak", -- [2]
+			"Orcish", -- [3]
 			"", -- [4]
-			"Teak-TheMaelstrom", -- [5]
+			"Tokzik-Kazzak", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1209, -- [11]
-			"Player-1596-0B986F1F", -- [12]
+			4252, -- [11]
+			"Player-1305-0B0DF88B", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff00fe97Teak-TheMaelstrom|r",
-			[51] = 1637789969,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cffc31d39Tokzik|r",
+			[51] = 1640040638,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [46]
 		{
-			"next", -- [1]
-			"Teak-TheMaelstrom", -- [2]
-			"", -- [3]
+			"3", -- [1]
+			"Tokzik-Kazzak", -- [2]
+			"Orcish", -- [3]
 			"", -- [4]
-			"Teak-TheMaelstrom", -- [5]
+			"Tokzik-Kazzak", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1210, -- [11]
-			"Player-1596-0B986F1F", -- [12]
+			4253, -- [11]
+			"Player-1305-0B0DF88B", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff00fe97Teak-TheMaelstrom|r",
-			[51] = 1637789970,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cffc31d39Tokzik|r",
+			[51] = 1640040640,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [47]
 		{
-			"so i ahve cds", -- [1]
-			"Teak-TheMaelstrom", -- [2]
-			"", -- [3]
+			"2", -- [1]
+			"Tokzik-Kazzak", -- [2]
+			"Orcish", -- [3]
 			"", -- [4]
-			"Teak-TheMaelstrom", -- [5]
+			"Tokzik-Kazzak", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1211, -- [11]
-			"Player-1596-0B986F1F", -- [12]
+			4254, -- [11]
+			"Player-1305-0B0DF88B", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff00fe97Teak-TheMaelstrom|r",
-			[51] = 1637789971,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cffc31d39Tokzik|r",
+			[51] = 1640040641,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [48]
 		{
-			"pls", -- [1]
-			"Teak-TheMaelstrom", -- [2]
-			"", -- [3]
+			"1", -- [1]
+			"Tokzik-Kazzak", -- [2]
+			"Orcish", -- [3]
 			"", -- [4]
-			"Teak-TheMaelstrom", -- [5]
+			"Tokzik-Kazzak", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1215, -- [11]
-			"Player-1596-0B986F1F", -- [12]
+			4255, -- [11]
+			"Player-1305-0B0DF88B", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff00fe97Teak-TheMaelstrom|r",
-			[51] = 1637789978,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cffc31d39Tokzik|r",
+			[51] = 1640040642,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [49]
 		{
-			"<3", -- [1]
-			"Teak-TheMaelstrom", -- [2]
+			"sorry zoend out", -- [1]
+			"Mojahxd-Kazzak", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Teak-TheMaelstrom", -- [5]
+			"Mojahxd-Kazzak", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1216, -- [11]
-			"Player-1596-0B986F1F", -- [12]
+			4259, -- [11]
+			"Player-1305-0B735E22", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff00fe97Teak-TheMaelstrom|r",
-			[51] = 1637789980,
+			[52] = "|cff8687edMojahxd|r",
+			[51] = 1640040650,
 			[50] = "CHAT_MSG_PARTY",
 		}, -- [50]
 		{
-			"Wicked Rush on Takidin", -- [1]
+			"Carnage on ME", -- [1]
 			"Takidin-Kazzak", -- [2]
 			"Orcish", -- [3]
 			"", -- [4]
@@ -1112,7 +1112,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1229, -- [11]
+			4269, -- [11]
 			"Player-1305-0B0683B1", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -1120,55 +1120,33 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cfff38bb9Takidin|r",
-			[51] = 1637790000,
+			[51] = 1640040716,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [51]
 		{
-			"Wicked Rush on Poumba", -- [1]
-			"Poumba-Karazhan", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Poumba-Karazhan", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1230, -- [11]
-			"Player-1596-0ACF0CC5", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffe7b09Poumba-Karazhan|r",
-			[51] = 1637790000,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [52]
-		{
-			"<EH> Hordier-TwistingNether got hit by |cff71d5ff|Hspell:334563:0|h[Неустойчивая ловушка]|h|r for 25.0k (44%).", -- [1]
-			"Хоонор-Галакронд", -- [2]
+			"Interrupted Depraved Obliterator's |cff71d5ff|Hspell:338003:0|h[Wicked Bolt]|h|r!", -- [1]
+			"Xplotter-Kazzak", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Хоонор-Галакронд", -- [5]
+			"Xplotter-Kazzak", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1231, -- [11]
-			"Player-1614-0A8FCE2E", -- [12]
+			4278, -- [11]
+			"Player-1305-088667EF", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffe7b09Хоонор-Галакронд|r",
-			[51] = 1637790011,
+			[52] = "|cff3ec6eaXplotter|r",
+			[51] = 1640040828,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [53]
+		}, -- [52]
 		{
-			"Wicked Rush on Takidin", -- [1]
+			"Curse of Obliteration on Takidin", -- [1]
 			"Takidin-Kazzak", -- [2]
 			"Orcish", -- [3]
 			"", -- [4]
@@ -1178,7 +1156,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1234, -- [11]
+			4279, -- [11]
 			"Player-1305-0B0683B1", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -1186,77 +1164,55 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cfff38bb9Takidin|r",
-			[51] = 1637790016,
+			[51] = 1640040836,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [53]
+		{
+			"3", -- [1]
+			"Takidin-Kazzak", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Takidin-Kazzak", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			4280, -- [11]
+			"Player-1305-0B0683B1", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff38bb9Takidin|r",
+			[51] = 1640040839,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [54]
 		{
-			"Wicked Rush on Teak", -- [1]
-			"Teak-TheMaelstrom", -- [2]
+			"2", -- [1]
+			"Takidin-Kazzak", -- [2]
 			"Orcish", -- [3]
 			"", -- [4]
-			"Teak-TheMaelstrom", -- [5]
+			"Takidin-Kazzak", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1235, -- [11]
-			"Player-1596-0B986F1F", -- [12]
+			4281, -- [11]
+			"Player-1305-0B0683B1", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff00fe97Teak-TheMaelstrom|r",
-			[51] = 1637790016,
+			[52] = "|cfff38bb9Takidin|r",
+			[51] = 1640040840,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [55]
 		{
-			"<EH> Poumba-Karazhan got hit by |cff71d5ff|Hspell:240448:0|h[Землетрясение]|h|r for 17.3k (33%) and |cff71d5ff|Hspell:323810:0|h[Пронзающая дымка]|h|r for 18.0k (34%).", -- [1]
-			"Хоонор-Галакронд", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Хоонор-Галакронд", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1236, -- [11]
-			"Player-1614-0A8FCE2E", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffe7b09Хоонор-Галакронд|r",
-			[51] = 1637790019,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [56]
-		{
-			"Яркое сияние на Хоонор!", -- [1]
-			"Хоонор-Галакронд", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Хоонор-Галакронд", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1238, -- [11]
-			"Player-1614-0A8FCE2E", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffe7b09Хоонор-Галакронд|r",
-			[51] = 1637790031,
-			[50] = "CHAT_MSG_YELL",
-		}, -- [57]
-		{
-			"Wicked Rush on Takidin", -- [1]
+			"1", -- [1]
 			"Takidin-Kazzak", -- [2]
 			"Orcish", -- [3]
 			"", -- [4]
@@ -1266,7 +1222,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1241, -- [11]
+			4282, -- [11]
 			"Player-1305-0B0683B1", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -1274,825 +1230,891 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cfff38bb9Takidin|r",
-			[51] = 1637790035,
+			[51] = 1640040841,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [58]
+		}, -- [56]
 		{
-			"Wicked Rush on Hordier", -- [1]
-			"Hordier-TwistingNether", -- [2]
+			"Curse of Obliteration on Takidin", -- [1]
+			"Takidin-Kazzak", -- [2]
 			"Orcish", -- [3]
 			"", -- [4]
-			"Hordier-TwistingNether", -- [5]
+			"Takidin-Kazzak", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1242, -- [11]
-			"Player-3674-0AA76B30", -- [12]
+			4283, -- [11]
+			"Player-1305-0B0683B1", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc31d39Hordier-TwistingNether|r",
-			[51] = 1637790035,
+			[52] = "|cfff38bb9Takidin|r",
+			[51] = 1640040853,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [59]
+		}, -- [57]
 		{
-			"Wicked Rush on Poumba", -- [1]
-			"Poumba-Karazhan", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Poumba-Karazhan", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1245, -- [11]
-			"Player-1596-0ACF0CC5", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffe7b09Poumba-Karazhan|r",
-			[51] = 1637790051,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [60]
-		{
-			"<EH> Poumba-Karazhan got hit by |cff71d5ff|Hspell:323810:0|h[Пронзающая дымка]|h|r for 17.3k (33%).", -- [1]
-			"Хоонор-Галакронд", -- [2]
+			"Interrupted High Adjudicator Aleez's |cff71d5ff|Hspell:323538:0|h[Bolt of Power]|h|r!", -- [1]
+			"Xplotter-Kazzak", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Хоонор-Галакронд", -- [5]
+			"Xplotter-Kazzak", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1246, -- [11]
-			"Player-1614-0A8FCE2E", -- [12]
+			4295, -- [11]
+			"Player-1305-088667EF", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffe7b09Хоонор-Галакронд|r",
-			[51] = 1637790061,
+			[52] = "|cff3ec6eaXplotter|r",
+			[51] = 1640040972,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [58]
+		{
+			"Interrupted High Adjudicator Aleez's |cff71d5ff|Hspell:323552:0|h[Volley of Power]|h|r!", -- [1]
+			"Xplotter-Kazzak", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Xplotter-Kazzak", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			4300, -- [11]
+			"Player-1305-088667EF", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff3ec6eaXplotter|r",
+			[51] = 1640041024,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [59]
+		{
+			"Interrupted High Adjudicator Aleez's |cff71d5ff|Hspell:323552:0|h[Volley of Power]|h|r!", -- [1]
+			"Xplotter-Kazzak", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Xplotter-Kazzak", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			4304, -- [11]
+			"Player-1305-088667EF", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff3ec6eaXplotter|r",
+			[51] = 1640041052,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [60]
+		{
+			"Interrupted Inquisitor Sigar's |cff71d5ff|Hspell:326829:0|h[Wicked Bolt]|h|r!", -- [1]
+			"Xplotter-Kazzak", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Xplotter-Kazzak", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			4312, -- [11]
+			"Player-1305-088667EF", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff3ec6eaXplotter|r",
+			[51] = 1640041142,
 			[50] = "CHAT_MSG_PARTY",
 		}, -- [61]
 		{
-			"<EH> Hordier-TwistingNether got hit by |cff71d5ff|Hspell:240448:0|h[Землетрясение]|h|r for 18.4k (32%).", -- [1]
-			"Хоонор-Галакронд", -- [2]
+			"Interrupted Inquisitor Sigar's |cff71d5ff|Hspell:326829:0|h[Wicked Bolt]|h|r!", -- [1]
+			"Xplotter-Kazzak", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Хоонор-Галакронд", -- [5]
+			"Xplotter-Kazzak", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1252, -- [11]
-			"Player-1614-0A8FCE2E", -- [12]
+			4314, -- [11]
+			"Player-1305-088667EF", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffe7b09Хоонор-Галакронд|r",
-			[51] = 1637790080,
+			[52] = "|cff3ec6eaXplotter|r",
+			[51] = 1640044796,
 			[50] = "CHAT_MSG_PARTY",
 		}, -- [62]
 		{
-			"<EH> Teak-TheMaelstrom got hit by |cff71d5ff|Hspell:323810:0|h[Пронзающая дымка]|h|r for 19.1k (38%).", -- [1]
-			"Хоонор-Галакронд", -- [2]
+			"mojah ramping?", -- [1]
+			"Tokzik-Kazzak", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Хоонор-Галакронд", -- [5]
+			"Tokzik-Kazzak", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1253, -- [11]
-			"Player-1614-0A8FCE2E", -- [12]
+			4323, -- [11]
+			"Player-1305-0B0DF88B", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffe7b09Хоонор-Галакронд|r",
-			[51] = 1637790085,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cffc31d39Tokzik|r",
+			[51] = 1640041241,
+			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [63]
 		{
-			"<EH> Teak-TheMaelstrom got hit by |cff71d5ff|Hspell:323810:0|h[Пронзающая дымка]|h|r for 20.0k (40%).", -- [1]
-			"Хоонор-Галакронд", -- [2]
+			"%s has earned the achievement |cffffff00|Hachievement:14370:Player-1305-088667EF:1:12:21:21:4294967295:4294967295:4294967295:4294967295|h[Halls of Atonement]|h|r!", -- [1]
+			"Xplotter-Kazzak", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Хоонор-Галакронд", -- [5]
+			"Xplotter-Kazzak", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1257, -- [11]
-			"Player-1614-0A8FCE2E", -- [12]
+			4337, -- [11]
+			"Player-1305-088667EF", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffe7b09Хоонор-Галакронд|r",
-			[51] = 1637790103,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cff3ec6eaXplotter|r",
+			[51] = 1640041342,
+			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
 		}, -- [64]
 		{
-			"Wicked Rush on Takidin", -- [1]
-			"Takidin-Kazzak", -- [2]
-			"Orcish", -- [3]
+			"%s has earned the achievement |cffffff00|Hachievement:14410:Player-1305-088667EF:1:12:21:21:4294967295:4294967295:4294967295:4294967295|h[Heroic: Halls of Atonement]|h|r!", -- [1]
+			"Xplotter-Kazzak", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Takidin-Kazzak", -- [5]
+			"Xplotter-Kazzak", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1262, -- [11]
-			"Player-1305-0B0683B1", -- [12]
+			4338, -- [11]
+			"Player-1305-088667EF", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff38bb9Takidin|r",
-			[51] = 1637790113,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cff3ec6eaXplotter|r",
+			[51] = 1640041342,
+			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
 		}, -- [65]
 		{
-			"<EH> Hordier-TwistingNether got hit by |cff71d5ff|Hspell:240448:0|h[Землетрясение]|h|r for 18.0k (32%).", -- [1]
-			"Хоонор-Галакронд", -- [2]
+			"%s has earned the achievement |cffffff00|Hachievement:14411:Player-1305-088667EF:1:12:21:21:4294967295:4294967295:4294967295:4294967295|h[Mythic: Halls of Atonement]|h|r!", -- [1]
+			"Xplotter-Kazzak", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Хоонор-Галакронд", -- [5]
+			"Xplotter-Kazzak", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1264, -- [11]
-			"Player-1614-0A8FCE2E", -- [12]
+			4339, -- [11]
+			"Player-1305-088667EF", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffe7b09Хоонор-Галакронд|r",
-			[51] = 1637790120,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cff3ec6eaXplotter|r",
+			[51] = 1640041342,
+			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
 		}, -- [66]
 		{
-			"Wicked Rush on Takidin", -- [1]
-			"Takidin-Kazzak", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Takidin-Kazzak", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1267, -- [11]
-			"Player-1305-0B0683B1", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff38bb9Takidin|r",
-			[51] = 1637790129,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [67]
-		{
-			"Wicked Rush on Hordier", -- [1]
-			"Hordier-TwistingNether", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Hordier-TwistingNether", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1268, -- [11]
-			"Player-3674-0AA76B30", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc31d39Hordier-TwistingNether|r",
-			[51] = 1637790129,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [68]
-		{
-			"Яркое сияние на Хоонор!", -- [1]
-			"Хоонор-Галакронд", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Хоонор-Галакронд", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1270, -- [11]
-			"Player-1614-0A8FCE2E", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffe7b09Хоонор-Галакронд|r",
-			[51] = 1637790148,
-			[50] = "CHAT_MSG_YELL",
-		}, -- [69]
-		{
-			"Chaos Brand Damage: 0", -- [1]
-			"Teak-TheMaelstrom", -- [2]
+			"%s has earned the achievement |cffffff00|Hachievement:11162:Player-1305-088667EF:1:12:21:21:4294967295:4294967295:4294967295:4294967295|h[Keystone Master]|h|r!", -- [1]
+			"Xplotter-Kazzak", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Teak-TheMaelstrom", -- [5]
+			"Xplotter-Kazzak", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1273, -- [11]
-			"Player-1596-0B986F1F", -- [12]
+			4345, -- [11]
+			"Player-1305-088667EF", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff00fe97Teak-TheMaelstrom|r",
-			[51] = 1637790153,
+			[52] = "|cff3ec6eaXplotter|r",
+			[51] = 1640041342,
+			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+		}, -- [67]
+		{
+			"Astral Keys: New key |cffa335ee|Hkeystone:180653:382:16:10:11:124:128|h[Keystone: Theater of Pain (16)]|h|r (Necrolord)", -- [1]
+			"Tokzik-Kazzak", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Tokzik-Kazzak", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			4349, -- [11]
+			"Player-1305-0B0DF88B", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc31d39Tokzik|r",
+			[51] = 1640041346,
+			[50] = "CHAT_MSG_PARTY_LEADER",
+		}, -- [68]
+		{
+			"nah no ramp", -- [1]
+			"Mojahxd-Kazzak", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Mojahxd-Kazzak", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			4350, -- [11]
+			"Player-1305-0B735E22", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff8687edMojahxd|r",
+			[51] = 1640041348,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [69]
+		{
+			"play easy/aoe build", -- [1]
+			"Mojahxd-Kazzak", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Mojahxd-Kazzak", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			4357, -- [11]
+			"Player-1305-0B735E22", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff8687edMojahxd|r",
+			[51] = 1640041354,
 			[50] = "CHAT_MSG_PARTY",
 		}, -- [70]
 		{
-			"Thank you for travelling with ElitismHelper. Amount of failure damage:", -- [1]
-			"Хоонор-Галакронд", -- [2]
+			"mojah", -- [1]
+			"Tokzik-Kazzak", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Хоонор-Галакронд", -- [5]
+			"Tokzik-Kazzak", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1274, -- [11]
-			"Player-1614-0A8FCE2E", -- [12]
+			4361, -- [11]
+			"Player-1305-0B0DF88B", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffe7b09Хоонор-Галакронд|r",
-			[51] = 1637790153,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cffc31d39Tokzik|r",
+			[51] = 1640041362,
+			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [71]
 		{
-			"1. Takidin-Kazzak 142.0k", -- [1]
-			"Хоонор-Галакронд", -- [2]
+			"summon druid pls", -- [1]
+			"Tokzik-Kazzak", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Хоонор-Галакронд", -- [5]
+			"Tokzik-Kazzak", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1275, -- [11]
-			"Player-1614-0A8FCE2E", -- [12]
+			4362, -- [11]
+			"Player-1305-0B0DF88B", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffe7b09Хоонор-Галакронд|r",
-			[51] = 1637790153,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cffc31d39Tokzik|r",
+			[51] = 1640041364,
+			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [72]
 		{
-			"2. Poumba-Karazhan 319.1k", -- [1]
-			"Хоонор-Галакронд", -- [2]
+			"so he can trade if he got anything", -- [1]
+			"Tokzik-Kazzak", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Хоонор-Галакронд", -- [5]
+			"Tokzik-Kazzak", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1276, -- [11]
-			"Player-1614-0A8FCE2E", -- [12]
+			4363, -- [11]
+			"Player-1305-0B0DF88B", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffe7b09Хоонор-Галакронд|r",
-			[51] = 1637790153,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cffc31d39Tokzik|r",
+			[51] = 1640041372,
+			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [73]
 		{
-			"3. Хоонор 415.3k", -- [1]
-			"Хоонор-Галакронд", -- [2]
+			"ring", -- [1]
+			"Mojahxd-Kazzak", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Хоонор-Галакронд", -- [5]
+			"Mojahxd-Kazzak", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1277, -- [11]
-			"Player-1614-0A8FCE2E", -- [12]
+			4364, -- [11]
+			"Player-1305-0B735E22", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffe7b09Хоонор-Галакронд|r",
-			[51] = 1637790153,
+			[52] = "|cff8687edMojahxd|r",
+			[51] = 1640041375,
 			[50] = "CHAT_MSG_PARTY",
 		}, -- [74]
 		{
-			"4. Teak-TheMaelstrom 522.3k", -- [1]
-			"Хоонор-Галакронд", -- [2]
+			"?", -- [1]
+			"Mojahxd-Kazzak", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Хоонор-Галакронд", -- [5]
+			"Mojahxd-Kazzak", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1278, -- [11]
-			"Player-1614-0A8FCE2E", -- [12]
+			4365, -- [11]
+			"Player-1305-0B735E22", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffe7b09Хоонор-Галакронд|r",
-			[51] = 1637790153,
+			[52] = "|cff8687edMojahxd|r",
+			[51] = 1640041376,
 			[50] = "CHAT_MSG_PARTY",
 		}, -- [75]
 		{
-			"5. Hordier-TwistingNether 766.2k", -- [1]
-			"Хоонор-Галакронд", -- [2]
+			"cant click", -- [1]
+			"Takidin-Kazzak", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Хоонор-Галакронд", -- [5]
+			"Takidin-Kazzak", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1279, -- [11]
-			"Player-1614-0A8FCE2E", -- [12]
+			4366, -- [11]
+			"Player-1305-0B0683B1", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffe7b09Хоонор-Галакронд|r",
-			[51] = 1637790153,
+			[52] = "|cfff38bb9Takidin|r",
+			[51] = 1640041382,
 			[50] = "CHAT_MSG_PARTY",
 		}, -- [76]
 		{
-			"<EH> Takidin-Kazzak got hit by |cff71d5ff|Hspell:240448:0|h[Землетрясение]|h|r for 23.6k (43%).", -- [1]
-			"Хоонор-Галакронд", -- [2]
+			"I can take it if nobody needs", -- [1]
+			"Xplotter-Kazzak", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Хоонор-Галакронд", -- [5]
+			"Xplotter-Kazzak", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1286, -- [11]
-			"Player-1614-0A8FCE2E", -- [12]
+			4367, -- [11]
+			"Player-1305-088667EF", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffe7b09Хоонор-Галакронд|r",
-			[51] = 1637790160,
+			[52] = "|cff3ec6eaXplotter|r",
+			[51] = 1640041384,
 			[50] = "CHAT_MSG_PARTY",
 		}, -- [77]
 		{
-			"<EH> Hordier-TwistingNether got hit by |cff71d5ff|Hspell:240448:0|h[Землетрясение]|h|r for 43.9k (77%).", -- [1]
-			"Хоонор-Галакронд", -- [2]
+			"ty for help btw", -- [1]
+			"Mojahxd-Kazzak", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Хоонор-Галакронд", -- [5]
+			"Mojahxd-Kazzak", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1287, -- [11]
-			"Player-1614-0A8FCE2E", -- [12]
+			4368, -- [11]
+			"Player-1305-0B735E22", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffe7b09Хоонор-Галакронд|r",
-			[51] = 1637790160,
+			[52] = "|cff8687edMojahxd|r",
+			[51] = 1640041385,
 			[50] = "CHAT_MSG_PARTY",
 		}, -- [78]
 		{
-			"<EH> Teak-TheMaelstrom got hit by |cff71d5ff|Hspell:240448:0|h[Землетрясение]|h|r for 31.8k (63%).", -- [1]
-			"Хоонор-Галакронд", -- [2]
+			"ye give to mage", -- [1]
+			"Tokzik-Kazzak", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Хоонор-Галакронд", -- [5]
+			"Tokzik-Kazzak", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1288, -- [11]
-			"Player-1614-0A8FCE2E", -- [12]
+			4369, -- [11]
+			"Player-1305-0B0DF88B", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffe7b09Хоонор-Галакронд|r",
-			[51] = 1637790160,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cffc31d39Tokzik|r",
+			[51] = 1640041390,
+			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [79]
 		{
-			"sadge dead", -- [1]
-			"Teak-TheMaelstrom", -- [2]
+			"maybe druid gets neck or something idk", -- [1]
+			"Tokzik-Kazzak", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Teak-TheMaelstrom", -- [5]
+			"Tokzik-Kazzak", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1290, -- [11]
-			"Player-1596-0B986F1F", -- [12]
+			4370, -- [11]
+			"Player-1305-0B0DF88B", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff00fe97Teak-TheMaelstrom|r",
-			[51] = 1637790164,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cffc31d39Tokzik|r",
+			[51] = 1640041397,
+			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [80]
 		{
-			"xD", -- [1]
-			"Teak-TheMaelstrom", -- [2]
+			"thanks for the key btw , so shit to come back to the game and play fml", -- [1]
+			"Xplotter-Kazzak", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Teak-TheMaelstrom", -- [5]
+			"Xplotter-Kazzak", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1291, -- [11]
-			"Player-1596-0B986F1F", -- [12]
+			4376, -- [11]
+			"Player-1305-088667EF", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff00fe97Teak-TheMaelstrom|r",
-			[51] = 1637790165,
+			[52] = "|cff3ec6eaXplotter|r",
+			[51] = 1640041424,
 			[50] = "CHAT_MSG_PARTY",
 		}, -- [81]
 		{
-			"XD", -- [1]
-			"Takidin-Kazzak", -- [2]
+			"happy to help", -- [1]
+			"Tokzik-Kazzak", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Takidin-Kazzak", -- [5]
+			"Tokzik-Kazzak", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1292, -- [11]
-			"Player-1305-0B0683B1", -- [12]
+			4377, -- [11]
+			"Player-1305-0B0DF88B", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff38bb9Takidin|r",
-			[51] = 1637790166,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cffc31d39Tokzik|r",
+			[51] = 1640041429,
+			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [82]
 		{
-			"GGG on key", -- [1]
-			"Teak-TheMaelstrom", -- [2]
+			"was nice key", -- [1]
+			"Mojahxd-Kazzak", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Teak-TheMaelstrom", -- [5]
+			"Mojahxd-Kazzak", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1293, -- [11]
-			"Player-1596-0B986F1F", -- [12]
+			4379, -- [11]
+			"Player-1305-0B735E22", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff00fe97Teak-TheMaelstrom|r",
-			[51] = 1637790167,
+			[52] = "|cff8687edMojahxd|r",
+			[51] = 1640041435,
 			[50] = "CHAT_MSG_PARTY",
 		}, -- [83]
 		{
-			"love tanking", -- [1]
-			"Teak-TheMaelstrom", -- [2]
+			"lmk if u need one next week", -- [1]
+			"Tokzik-Kazzak", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Teak-TheMaelstrom", -- [5]
+			"Tokzik-Kazzak", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1296, -- [11]
-			"Player-1596-0B986F1F", -- [12]
+			4380, -- [11]
+			"Player-1305-0B0DF88B", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff00fe97Teak-TheMaelstrom|r",
-			[51] = 1637790171,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cffc31d39Tokzik|r",
+			[51] = 1640041435,
+			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [84]
 		{
-			"was fun", -- [1]
-			"Teak-TheMaelstrom", -- [2]
+			"ez timed", -- [1]
+			"Mojahxd-Kazzak", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Teak-TheMaelstrom", -- [5]
+			"Mojahxd-Kazzak", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1297, -- [11]
-			"Player-1596-0B986F1F", -- [12]
+			4381, -- [11]
+			"Player-1305-0B735E22", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff00fe97Teak-TheMaelstrom|r",
-			[51] = 1637790172,
+			[52] = "|cff8687edMojahxd|r",
+			[51] = 1640041437,
 			[50] = "CHAT_MSG_PARTY",
 		}, -- [85]
 		{
-			"liked the tank too ggg", -- [1]
-			"Hordier-TwistingNether", -- [2]
+			"I can tag along next week also", -- [1]
+			"Mojahxd-Kazzak", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Hordier-TwistingNether", -- [5]
+			"Mojahxd-Kazzak", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1301, -- [11]
-			"Player-3674-0AA76B30", -- [12]
+			4385, -- [11]
+			"Player-1305-0B735E22", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc31d39Hordier-TwistingNether|r",
-			[51] = 1637790189,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			[52] = "|cff8687edMojahxd|r",
+			[51] = 1640041448,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [86]
 		{
-			"soz about that ring", -- [1]
-			"Teak-TheMaelstrom", -- [2]
+			"ye sure", -- [1]
+			"Tokzik-Kazzak", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Teak-TheMaelstrom", -- [5]
+			"Tokzik-Kazzak", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1302, -- [11]
-			"Player-1596-0B986F1F", -- [12]
+			4386, -- [11]
+			"Player-1305-0B0DF88B", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff00fe97Teak-TheMaelstrom|r",
-			[51] = 1637790196,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cffc31d39Tokzik|r",
+			[51] = 1640041452,
+			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [87]
 		{
-			"didn't think u wanted the pat xDD", -- [1]
-			"Teak-TheMaelstrom", -- [2]
+			"thanks for supplying the key", -- [1]
+			"Takidin-Kazzak", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Teak-TheMaelstrom", -- [5]
+			"Takidin-Kazzak", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1303, -- [11]
-			"Player-1596-0B986F1F", -- [12]
+			4387, -- [11]
+			"Player-1305-0B0683B1", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff00fe97Teak-TheMaelstrom|r",
-			[51] = 1637790202,
+			[52] = "|cfff38bb9Takidin|r",
+			[51] = 1640041453,
 			[50] = "CHAT_MSG_PARTY",
 		}, -- [88]
 		{
-			"i dont wanted :D", -- [1]
-			"Хоонор-Галакронд", -- [2]
+			":D", -- [1]
+			"Takidin-Kazzak", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Хоонор-Галакронд", -- [5]
+			"Takidin-Kazzak", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1306, -- [11]
-			"Player-1614-0A8FCE2E", -- [12]
+			4388, -- [11]
+			"Player-1305-0B0683B1", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffe7b09Хоонор-Галакронд|r",
-			[51] = 1637790212,
+			[52] = "|cfff38bb9Takidin|r",
+			[51] = 1640041454,
 			[50] = "CHAT_MSG_PARTY",
 		}, -- [89]
 		{
-			":PPPP", -- [1]
-			"Teak-TheMaelstrom", -- [2]
+			";)", -- [1]
+			"Mojahxd-Kazzak", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Teak-TheMaelstrom", -- [5]
+			"Mojahxd-Kazzak", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1307, -- [11]
-			"Player-1596-0B986F1F", -- [12]
+			4389, -- [11]
+			"Player-1305-0B735E22", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff00fe97Teak-TheMaelstrom|r",
-			[51] = 1637790216,
+			[52] = "|cff8687edMojahxd|r",
+			[51] = 1640041456,
 			[50] = "CHAT_MSG_PARTY",
 		}, -- [90]
 		{
-			"shit happens :D", -- [1]
-			"Хоонор-Галакронд", -- [2]
+			":D", -- [1]
+			"Tokzik-Kazzak", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Хоонор-Галакронд", -- [5]
+			"Tokzik-Kazzak", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1308, -- [11]
-			"Player-1614-0A8FCE2E", -- [12]
+			4390, -- [11]
+			"Player-1305-0B0DF88B", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffe7b09Хоонор-Галакронд|r",
-			[51] = 1637790221,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cffc31d39Tokzik|r",
+			[51] = 1640041456,
+			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [91]
 		{
-			":))", -- [1]
-			"Teak-TheMaelstrom", -- [2]
+			"hope you enjoyed the pulls taki", -- [1]
+			"Tokzik-Kazzak", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Teak-TheMaelstrom", -- [5]
+			"Tokzik-Kazzak", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1309, -- [11]
-			"Player-1596-0B986F1F", -- [12]
+			4391, -- [11]
+			"Player-1305-0B0DF88B", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff00fe97Teak-TheMaelstrom|r",
-			[51] = 1637790224,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cffc31d39Tokzik|r",
+			[51] = 1640041461,
+			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [92]
 		{
-			"Play for fun btw :D", -- [1]
-			"Хоонор-Галакронд", -- [2]
+			":)", -- [1]
+			"Tokzik-Kazzak", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Хоонор-Галакронд", -- [5]
+			"Tokzik-Kazzak", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1310, -- [11]
-			"Player-1614-0A8FCE2E", -- [12]
+			4392, -- [11]
+			"Player-1305-0B0DF88B", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffe7b09Хоонор-Галакронд|r",
-			[51] = 1637790233,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cffc31d39Tokzik|r",
+			[51] = 1640041462,
+			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [93]
 		{
-			":))", -- [1]
-			"Teak-TheMaelstrom", -- [2]
+			"good fun", -- [1]
+			"Takidin-Kazzak", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Teak-TheMaelstrom", -- [5]
+			"Takidin-Kazzak", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1311, -- [11]
-			"Player-1596-0B986F1F", -- [12]
+			4393, -- [11]
+			"Player-1305-0B0683B1", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff00fe97Teak-TheMaelstrom|r",
-			[51] = 1637790237,
+			[52] = "|cfff38bb9Takidin|r",
+			[51] = 1640041466,
 			[50] = "CHAT_MSG_PARTY",
 		}, -- [94]
 		{
-			"ty for grp", -- [1]
-			"Takidin-Kazzak", -- [2]
+			"cheers, off to bed!", -- [1]
+			"Mojahxd-Kazzak", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Takidin-Kazzak", -- [5]
+			"Mojahxd-Kazzak", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1312, -- [11]
-			"Player-1305-0B0683B1", -- [12]
+			4394, -- [11]
+			"Player-1305-0B735E22", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff38bb9Takidin|r",
-			[51] = 1637790241,
+			[52] = "|cff8687edMojahxd|r",
+			[51] = 1640041466,
 			[50] = "CHAT_MSG_PARTY",
 		}, -- [95]
 		{
-			"cya guys", -- [1]
+			"gg", -- [1]
+			"Tokzik-Kazzak", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Tokzik-Kazzak", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			4395, -- [11]
+			"Player-1305-0B0DF88B", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc31d39Tokzik|r",
+			[51] = 1640041472,
+			[50] = "CHAT_MSG_PARTY_LEADER",
+		}, -- [96]
+		{
+			"yeah same", -- [1]
 			"Takidin-Kazzak", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -2102,7 +2124,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1313, -- [11]
+			4397, -- [11]
 			"Player-1305-0B0683B1", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -2110,97 +2132,75 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cfff38bb9Takidin|r",
-			[51] = 1637790242,
+			[51] = 1640041474,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [96]
+		}, -- [97]
 		{
-			"tyy bb", -- [1]
-			"Teak-TheMaelstrom", -- [2]
+			"gotta hit the sack", -- [1]
+			"Takidin-Kazzak", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Teak-TheMaelstrom", -- [5]
+			"Takidin-Kazzak", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1314, -- [11]
-			"Player-1596-0B986F1F", -- [12]
+			4398, -- [11]
+			"Player-1305-0B0683B1", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff00fe97Teak-TheMaelstrom|r",
-			[51] = 1637790245,
+			[52] = "|cfff38bb9Takidin|r",
+			[51] = 1640041481,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [97]
-		{
-			"y", -- [1]
-			"Sharldk-Kazzak", -- [2]
-			"", -- [3]
-			"4. LookingForGroup", -- [4]
-			"Sharldk-Kazzak", -- [5]
-			"", -- [6]
-			26, -- [7]
-			4, -- [8]
-			"LookingForGroup", -- [9]
-			0, -- [10]
-			1332, -- [11]
-			"Player-1305-0BF07C81", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc31d39Sharldk|r",
-			[51] = 1637790610,
-			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [98]
 		{
-			"Kroke the Tormented |cffffff00|Hworldmap:1961:5931:3491|h[|A:Waypoint-MapPin-ChatIcon:13:13:0:0|a Map Pin Location]|h|r", -- [1]
-			"Deathaca-Kazzak", -- [2]
+			"cya", -- [1]
+			"Takidin-Kazzak", -- [2]
 			"", -- [3]
-			"1. General - Korthia", -- [4]
-			"Deathaca-Kazzak", -- [5]
+			"", -- [4]
+			"Takidin-Kazzak", -- [5]
 			"", -- [6]
-			1, -- [7]
-			1, -- [8]
-			"General - Korthia", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			1342, -- [11]
-			"Player-1305-0B9580DB", -- [12]
+			4399, -- [11]
+			"Player-1305-0B0683B1", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			true, -- [17]
-			[52] = "|cffc31d39Deathaca|r",
-			[51] = 1637790923,
-			[50] = "CHAT_MSG_CHANNEL",
+			false, -- [17]
+			[52] = "|cfff38bb9Takidin|r",
+			[51] = 1640041484,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [99]
 	},
 	["ChatEditHistory"] = {
-		"/cw Djdean how good is your prot weapon?", -- [1]
-		"/cw Djdean ah okay", -- [2]
-		"/cw Djdean you just take it", -- [3]
-		"/roll", -- [4]
-		"/cw Tokziksama how much for the ring", -- [5]
-		"/cw Tokziksama sadge", -- [6]
-		"/cw Tokziksama-Kazzak its ok :D", -- [7]
-		"/cw Tokziksama-Kazzak means i dont gotta farm sockets", -- [8]
-		"/ert note", -- [9]
-		"/cw Unholyfistzz trade |cffa335ee|Hitem:186378::::::::60:65::6:5:7187:6652:7575:1498:6646:1:28:2106:::::|h[Weathered Talisman of the Shadowmoon]|h|r", -- [10]
-		"sure", -- [11]
-		"sec", -- [12]
-		"/p i have drums", -- [13]
-		"/p new ones do", -- [14]
-		"/p |cff1eff00|Hitem:172233::::::::60:65:::::::::|h[Drums of Deathly Ferocity]|h|r", -- [15]
-		"/p activate?", -- [16]
-		"/p invis?", -- [17]
-		"/p XD", -- [18]
-		"/p ty for grp", -- [19]
-		"/p cya guys", -- [20]
+		"or heal", -- [1]
+		"where", -- [2]
+		"/cw Mojahxd-Kazzak sec", -- [3]
+		"/cw Mojahxd-Kazzak tokzik is checking if he has key", -- [4]
+		"/p yep", -- [5]
+		"/p need some help summoning", -- [6]
+		"/p pog", -- [7]
+		"/p im at stone", -- [8]
+		"/p lul", -- [9]
+		"/p MANA", -- [10]
+		"/p sec", -- [11]
+		"/p 0% MANA", -- [12]
+		"/p 79", -- [13]
+		"/p cant click", -- [14]
+		"/p thanks for supplying the key", -- [15]
+		"/p :D", -- [16]
+		"/p good fun", -- [17]
+		"/p yeah same", -- [18]
+		"/p gotta hit the sack", -- [19]
+		"/p cya", -- [20]
 	},
 	["ConvertKeybindings"] = true,
 }

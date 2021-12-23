@@ -1,7 +1,7 @@
 
 TomCats_Account = {
-	["discoveriesVersion"] = "2.3.22",
-	["lastVersionSeen"] = "2.3.11",
+	["discoveriesVersion"] = "2.3.23",
+	["lastVersionSeen"] = "2.3.23",
 	["preferences"] = {
 		["TomCats-MinimapButton"] = {
 			["hidden"] = false,
@@ -14,7 +14,7 @@ TomCats_Account = {
 		["betaEnabled"] = false,
 		["defaultVignetteIcon"] = "default",
 	},
-	["lastExpirationWarning"] = 0,
+	["lastExpirationWarning"] = 1639916046,
 	["discoveriesResetCount"] = 0,
 	["discoveries"] = {
 		["vignetteAtlases"] = {

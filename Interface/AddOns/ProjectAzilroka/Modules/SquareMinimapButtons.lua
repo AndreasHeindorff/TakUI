@@ -73,6 +73,7 @@ SMB.GenericIgnore = {
 	'poiMinimap',
 	'GuildMap3Mini',
 	'LibRockConfig-1.0_MinimapButton',
+	'MinimapLayerFrame', -- Nova World Buffs
 	'NauticusMiniIcon',
 	'WestPointer',
 	'Cork',
@@ -103,11 +104,12 @@ SMB.UnrulyButtons = {
 	'RecipeRadar_MinimapButton',
 }
 
-local ButtonFunctions = { 'SetParent', 'ClearAllPoints', 'SetPoint', 'SetSize', 'SetScale', 'SetFrameStrata', 'SetFrameLevel' }
+local ButtonFunctions = { 'SetParent', 'ClearAllPoints', 'SetPoint', 'SetSize', 'SetScale', 'SetIgnoreParentScale', 'SetFrameStrata', 'SetFrameLevel' }
 
 local RemoveTextureID = {
 	[136430] = true,
 	[136467] = true,
+	[136477] = true,
 	[136468] = true,
 	[130924] = true,
 }
@@ -430,6 +432,7 @@ function SMB:SkinMinimapButton(Button)
 				Region:SetTexture()
 			else
 				Texture = strlower(tostring(Region:GetTexture()))
+
 				if RemoveTextureFile[Texture] or strfind(Texture, 'interface/characterframe') or (strfind(Texture, 'interface/minimap') and not strfind(Texture, 'interface/minimap/tracking')) or strfind(Texture, 'border') or strfind(Texture, 'background') or strfind(Texture, 'alphamask') or strfind(Texture, 'highlight') then
 					Region:SetTexture()
 					Region:SetAlpha(0)
@@ -502,8 +505,8 @@ function SMB:GrabMinimapButtons(forceUpdate)
 			for i = 1, NumChildren do
 				local object = select(i, Frame:GetChildren())
 				if object then
-					local name = object:GetName()
-					local width = object:GetWidth()
+					local name = object.GetName and object:GetName()
+					local width = object.GetWidth and object:GetWidth()
 					if name and width > 15 and width < 60 and (object:IsObjectType('Button') or object:IsObjectType('Frame')) then
 						SMB:SkinMinimapButton(object)
 					end
@@ -553,6 +556,7 @@ function SMB:Update()
 			PA:SetTemplate(Button)
 
 			Button:SetParent(SMB.Bar)
+			Button:SetIgnoreParentScale(false)
 			Button:ClearAllPoints()
 			Button:SetPoint(Anchor, SMB.Bar, Anchor, DirMult * (Spacing + ((Size + Spacing) * (AnchorX - 1))), (- Spacing - ((Size + Spacing) * (AnchorY - 1))))
 			Button:SetSize(Size, Size)

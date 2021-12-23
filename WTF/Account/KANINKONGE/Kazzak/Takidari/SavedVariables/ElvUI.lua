@@ -2,1569 +2,1437 @@
 ElvCharacterDB = {
 	["ChatHistoryLog"] = {
 		{
-			"<NOVA> Offering HC Sanctum 300k  <2x VIP Traders Discount>  <Sylvanas->50k  Kel-45k  <Last2->85k   <M+15=115k>  <4x+15=414k Free Armor>  <Tazavesh->Hard-190k   <KSM 16x +15 intime =1750k>  <KSH 8x +20 intime=3900k> Torg-PvP-Lvl /w me info.", -- [1]
-			"Novadevo-Kazzak", -- [2]
+			"Nova Offering<|cff66bbff|Hjournal:0:1193:15|h[Sanctum of Domination]|h|rMythic-HC 210k VIP-160k><4x15=360k><M+15=100k><M+20=520k><M+19=450k> <M+18=300k><M+17=210k><KSH 8x+20=3600k><KSM |cffffff00|Hachievement:15078:Player-1305-0C15B90E:0:0:0:0:0:0:0:0|h[Shadowlands Keystone Master: Season Two]|h|r8x+15=810k><LVLING 50-60=550K> <PVP><TORGHST><LEGACY><MOUNT>", -- [1]
+			"Bonecrasherr-Kazzak", -- [2]
 			"", -- [3]
 			"2. Trade - City", -- [4]
-			"Novadevo-Kazzak", -- [5]
+			"Bonecrasherr-Kazzak", -- [5]
 			"", -- [6]
 			2, -- [7]
 			2, -- [8]
 			"Trade - City", -- [9]
 			0, -- [10]
-			284, -- [11]
-			"Player-1305-0C182879", -- [12]
+			3191, -- [11]
+			"Player-1305-0C1A37EC", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			true, -- [17]
-			[52] = "|cff8687edNovadevo|r",
-			[51] = 1636753779,
+			[52] = "|cff00fe97Bonecrasherr|r",
+			[51] = 1639954060,
 			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [1]
 		{
-			"<V O I D > [+15 Intime=125k //Weekly+15= 115K] [4x+15=450k+ArmorStack][4x+14=360k+ArmorStack][4x+12=306k+ArmorStack][4x+10=252k+ArmorStack][Tazavash HM=180k]50-60Lv=675k]Thorgast 2x12=90k /w", -- [1]
-			"Voidkey-Kazzak", -- [2]
+			"< Gt > WTS 15-25 In Time Guarantee M+15 = 110k // M+22 = 750k // M+21 = 600k // M+20 = 480K // M+19 = 450k // M+18 = 290K // M+17 = 190K // FREE SPECIFiC KEY // 8X20 ALl dung // KSM 8X15 // 4X15 = 430K // 5X15 = 520k // FREE ARMOR STACK // TORGHAST //W", -- [1]
+			"Gtboost-Kazzak", -- [2]
 			"", -- [3]
 			"2. Trade - City", -- [4]
-			"Voidkey-Kazzak", -- [5]
+			"Gtboost-Kazzak", -- [5]
 			"", -- [6]
 			2, -- [7]
 			2, -- [8]
 			"Trade - City", -- [9]
 			0, -- [10]
-			286, -- [11]
-			"Player-1305-0C08BAF2", -- [12]
+			3196, -- [11]
+			"Player-1305-0C1BB9E8", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			true, -- [17]
-			[52] = "|cff006fdcVoidkey|r",
-			[51] = 1636753780,
+			[52] = "|cfffe7b09Gtboost|r",
+			[51] = 1639954067,
 			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [2]
 		{
-			"<NOVA> !Big Sale! (Sanctum Heroic 280k-VIP Händler 180k)-[WTS HC Sylvanas 50K - HC KT 45K BOTH -90K]-[M+10 75K]-(M+15 W120K-115K)-(M+17 230K)-(M+20 570K)-||KSM 1750K||-||KSH 3900k/All 20||-[Torghast]-[2v2-3v3-Rbg]-(Sanctum Mythic 10/10)", -- [1]
-			"Ovaorc-Kazzak", -- [2]
+			"<Dawn> Offering |cff66bbff|Hjournal:0:1193:14|h[Sanctum of Domination]|h|r <10/10 Mythic + 2 Vips + Mount 8.8M> <10/10 HC 210K Vips available> <Sylvanas HC 50k> <KT 40> < Last 2 80K> <M+15 100K> <Torghast 8-12> <KSM 850K> <Korthia Rep Farm> <PVP> w/ me", -- [1]
+			"Dawnabsolute-Kazzak", -- [2]
 			"", -- [3]
 			"2. Trade - City", -- [4]
-			"Ovaorc-Kazzak", -- [5]
+			"Dawnabsolute-Kazzak", -- [5]
 			"", -- [6]
 			2, -- [7]
 			2, -- [8]
 			"Trade - City", -- [9]
 			0, -- [10]
-			290, -- [11]
-			"Player-1305-0C063C53", -- [12]
+			3197, -- [11]
+			"Player-1305-0C1DC092", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			true, -- [17]
-			[52] = "|cffc59a6cOvaorc|r",
-			[51] = 1636753782,
+			[52] = "|cff006fdcDawnabsolute|r",
+			[51] = 1639954067,
 			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [3]
 		{
-			"NOVA || || BIG SALE Heroic 310k (Vip trader 180k) ||Heroic/Normal  <||> WTS HC Sylvanas 50k - HC KT 45k BOTH -90k ||TAZAVESH 90K-216K|| [M+10 85k]M+15 120k1|| KSM = 1750K KSH = 3900k [Torghast L1-L12 ] [2v2-3v3-Rbg]", -- [1]
-			"Novarite-Kazzak", -- [2]
+			"[WTS] Magе Tоwеr Chеllеngе Carry. Gеt uniquе rеwards: Fel Wеrеbеar druid fоrm, Spеlltоmе mоunt & Tiеr 20 X-mоgs! Usе coupоn *MT15* tо gеt a 15% discоunt! Wе havе оvеr 17805 Trustpilоt rеviеws. Visit WоwVеndоr.cоm fоr mr", -- [1]
+			"Mogifuiko-Kazzak", -- [2]
 			"", -- [3]
 			"2. Trade - City", -- [4]
-			"Novarite-Kazzak", -- [5]
+			"Mogifuiko-Kazzak", -- [5]
 			"", -- [6]
 			2, -- [7]
 			2, -- [8]
 			"Trade - City", -- [9]
 			0, -- [10]
-			291, -- [11]
-			"Player-1305-0C030B54", -- [12]
+			3198, -- [11]
+			"Player-1305-0C1D1E2D", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			true, -- [17]
-			[52] = "|cffc59a6cNovarite|r",
-			[51] = 1636753783,
+			[52] = "|cfffe7b09Mogifuiko|r",
+			[51] = 1639954067,
 			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [4]
 		{
-			"<V O I D > [+15 Intime=110k] [ FLASH DEALS 4 X 15 INTIME = 396K + ARMOR STACK ( JUST TODAY ) [4x+14=360k+ArmorStack][4x+12=306k+ArmorStack[4x+10=252k+ArmorStack][Tazavash HM=180k]50-60Lv=675k]Thorgast 2x12=90k /w", -- [1]
-			"Voidkeey-Kazzak", -- [2]
+			"<DAWN> IS OFFERING <|cffffff00|Hachievement:15127:Player-1305-0C0B5F54:1:9:22:21:4294967295:4294967295:4294967295:4294967295|h[Heroic: Sanctum of Domination]|h|r 210K > <VIP Trader 160k> [ Sylavnas 50k><KT 40K><Both 80K ] || M+15=115k <M+14=100K> <Armor Stack> || 4x15 400K || <M+16=170k> <M+17=210k><M+18=310k>||LVLUP 51/60|| Also Selling |cffffff00|Hachievement:12568:Player-1305-0C0B5F54:1:9:22:19:4294967295:4294967295:4294967295:4294967295|h[The Alliance Slayer]|h|r ", -- [1]
+			"Jeoo-Kazzak", -- [2]
 			"", -- [3]
 			"2. Trade - City", -- [4]
-			"Voidkeey-Kazzak", -- [5]
+			"Jeoo-Kazzak", -- [5]
 			"", -- [6]
 			2, -- [7]
 			2, -- [8]
 			"Trade - City", -- [9]
 			0, -- [10]
-			292, -- [11]
-			"Player-1305-0C0CE5B4", -- [12]
+			3200, -- [11]
+			"Player-1305-0C0B5F54", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			true, -- [17]
-			[52] = "|cfffef367Voidkeey|r",
-			[51] = 1636753784,
+			[52] = "|cff3ec6eaJeoo|r",
+			[51] = 1639954068,
 			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [5]
 		{
-			"<NOVA> |cff66bbff|Hjournal:0:1193:16|h[Sanctum of Domination]|h|r Heroic = 300k. || Trader = 180k || M+10 = 75k || M+12 = 90k || M+14 = 105k || M+15 = 115k || KeyStone Master = 1750k || KeyStone Hero = 3900k || Heroic Sylvanas 50k || Last 2 85k", -- [1]
-			"Novabest-Kazzak", -- [2]
+			"<DAWN> IS OFFERING <|cffffff00|Hachievement:15127:Player-1305-0C19D74C:0:0:0:-1:0:0:0:0|h[Heroic: Sanctum of Domination]|h|r 210K > <VIP Trader 160k> [ Sylavnas 50k><KT 40K><Both 80K ] || M+15=115k <M+14=100K> <Armor Stack> || 4x15 400K || <M+16=170k> <M+17=210k><M+18=310k>||LVLUP 51/60|| Also Selling |cffffff00|Hachievement:12568:Player-1305-0C19D74C:0:0:0:-1:0:0:0:0|h[The Alliance Slayer]|h|r ", -- [1]
+			"Dawnjeeoo-Kazzak", -- [2]
 			"", -- [3]
 			"2. Trade - City", -- [4]
-			"Novabest-Kazzak", -- [5]
+			"Dawnjeeoo-Kazzak", -- [5]
 			"", -- [6]
 			2, -- [7]
 			2, -- [8]
 			"Trade - City", -- [9]
 			0, -- [10]
-			293, -- [11]
-			"Player-1305-0BF51DB9", -- [12]
+			3205, -- [11]
+			"Player-1305-0C19D74C", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			true, -- [17]
-			[52] = "|cff00fe97Novabest|r",
-			[51] = 1636753784,
+			[52] = "|cff006fdcDawnjeeoo|r",
+			[51] = 1639954073,
 			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [6]
 		{
-			"<SYLVANAS> M+15= < 120k > |cff66bbff|Hjournal:0:1193:14|h[Sanctum of Domination]|h|r 10/10HC=<280k> + VIP Trader <FREE ARMOR STACK 2XM><-> LAST 2 BOSS=<95k> <4x15 = 420K > <KSM>16x+15 intime <Mythic 10/10> M+20 = 560K /Tazavesh /Torghast/PVP w Me", -- [1]
-			"Sylvanasell-Kazzak", -- [2]
+			"<Dawn> [WTS]|cffffff00|Hachievement:15134:Player-1305-0A212ADE:1:9:9:21:0:0:0:0|h[Ahead of the Curve: Sylvanas Windrunner]|h|r<Sylvanas HC  50k> <KT HC 40k> <Both 80k>|cff66bbff|Hjournal:0:1193:15|h[Sanctum of Domination]|h|r<10/10m+mount><hc10/10 210k><VIP Traders160k><8x15 KSM850k><M20 520k><M15 100k><4x15 400k><LEGION M15 180k><torghast2xL12 70k>", -- [1]
+			"Shahramstorm-Kazzak", -- [2]
 			"", -- [3]
 			"2. Trade - City", -- [4]
-			"Sylvanasell-Kazzak", -- [5]
+			"Shahramstorm-Kazzak", -- [5]
 			"", -- [6]
 			2, -- [7]
 			2, -- [8]
 			"Trade - City", -- [9]
 			0, -- [10]
-			294, -- [11]
-			"Player-1305-0C076620", -- [12]
+			3209, -- [11]
+			"Player-1305-0A212ADE", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			true, -- [17]
-			[52] = "|cfffe7b09Sylvanasell|r",
-			[51] = 1636753786,
+			[52] = "|cff006fdcShahramstorm|r",
+			[51] = 1639954075,
 			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [7]
 		{
-			"<DAWN>[WTS]|cff66bbff|Hjournal:0:1193:15|h[Sanctum of Domination]|h|r<10/10M 9M+Mount+Traders><HC 10/10 300k><VIP Traders 200k><KT 45k><Sylvanas 50k><Both 85k>|cffffff00|Hachievement:15134:Player-1305-0C09501E:0:0:0:-1:0:0:0:0|h[Ahead of the Curve: Sylvanas Windrunner]|h|r<8x15 KSM 875k><M20 560k><M15 120k><4x 15 420k><10x15 1000k><Torghast 2xL12 90k>", -- [1]
-			"Cendawyth-Kazzak", -- [2]
+			"DAWN> Offering Today|cffffff00|Hachievement:15127:Player-1305-0BCEAB76:0:0:0:-1:0:0:0:0|h[Heroic: Sanctum of Domination]|h|r 210k @(14/16/19/21/23) //Full Mythic +Mount &VIP |cff66bbff|Hjournal:0:1193:14|h[Sanctum of Domination]|h|r /Sylvanas 50K |cff66bbff|Hjournal:1:2440:14|h[Kel'Thuzad]|h|r 40K(Both 80K) /+15=110k (4x15=400K) +14=100K (4x14=360K) /+20=520K/ +20-26 intime+KSM//PVP/RBG", -- [1]
+			"Certihotdeal-Kazzak", -- [2]
 			"", -- [3]
 			"2. Trade - City", -- [4]
-			"Cendawyth-Kazzak", -- [5]
+			"Certihotdeal-Kazzak", -- [5]
 			"", -- [6]
 			2, -- [7]
 			2, -- [8]
 			"Trade - City", -- [9]
 			0, -- [10]
-			297, -- [11]
-			"Player-1305-0BC9383B", -- [12]
+			3216, -- [11]
+			"Player-1305-0BCEAB76", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			true, -- [17]
-			[52] = "|cffa9d271Cendawyth|r",
-			[51] = 1636753789,
+			[52] = "|cff3ec6eaCertihotdeal|r",
+			[51] = 1639954084,
 			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [8]
 		{
-			"NOVA || || BIG SALE Heroic 310k (Vip trader 180k) ||Heroic/Normal  <||> WTS HC Sylvanas 50k - HC KT 45k BOTH -90k ||TAZAVESH 90K-216K|| [M+10 85k]M+15 120k1|| KSM = 1750K KSH = 3900k [Torghast L1-L12 ] [2v2-3v3-Rbg]", -- [1]
-			"Novamol-Kazzak", -- [2]
+			"~DAWN COMMUNITY~  |cffffff00|Hachievement:15128:Player-1084-08DEDC99:0:0:0:-1:0:0:0:0|h[Mythic: Sanctum of Domination]|h|r TODAY ||  Full HEROIC 10/10   +  VIP TRADER   ||  Full MYTHIC 10/10  +  2x Free VIP Trader & Mount   /|cff66bbff|Hjournal:1:2440:14|h[Kel'Thuzad]|h|r + |cff66bbff|Hjournal:1:2441:14|h[Sylvanas Windrunner]|h|r  HC  << 80K >>  ||  4x15 = 400k  /  KORTHIA Farm  /  WHIS ME  BOOK", -- [1]
+			"Dawniboost-Kazzak", -- [2]
 			"", -- [3]
 			"2. Trade - City", -- [4]
-			"Novamol-Kazzak", -- [5]
+			"Dawniboost-Kazzak", -- [5]
 			"", -- [6]
 			2, -- [7]
 			2, -- [8]
 			"Trade - City", -- [9]
 			0, -- [10]
-			307, -- [11]
-			"Player-1305-0C03F614", -- [12]
+			3217, -- [11]
+			"Player-1305-0C0C09CC", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			true, -- [17]
-			[52] = "|cffa9d271Novamol|r",
-			[51] = 1636753801,
+			[52] = "|cfffe7b09Dawniboost|r",
+			[51] = 1639954084,
 			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [9]
 		{
-			"WTS ((      TORGHAS T     )) ALL LAYER 2x12 or normal come and get your unlimited |cffff8000|Hcurrency:1828:0|h[Soul Ash]|h|r&   |cffff8000|Hcurrency:1906:0|h[Soul Cinders]|h|r without cap you can make 262 item right now fast & cheap w / info", -- [1]
-			"Lion-Kazzak", -- [2]
+			"<NOVA> SALE!!!! HEROIC 10/10 |cff66bbff|Hjournal:0:1193:15|h[Sanctum of Domination]|h|r] 210k -  PVP--/ Sylvanas HC 50 /Sylvanas+Kel 80k/M+15 105k /M+16 165k /M+17 210k /M+18 300k / M19 450k /M+20 520k/KSH 8/8  All +20 3600k/Legion m+", -- [1]
+			"Novacrazys-Kazzak", -- [2]
 			"", -- [3]
 			"2. Trade - City", -- [4]
-			"Lion-Kazzak", -- [5]
+			"Novacrazys-Kazzak", -- [5]
 			"", -- [6]
 			2, -- [7]
 			2, -- [8]
 			"Trade - City", -- [9]
 			0, -- [10]
-			321, -- [11]
-			"Player-1305-0885C593", -- [12]
+			3218, -- [11]
+			"Player-1305-0C1037CB", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			true, -- [17]
-			[52] = "|cffa22fc8Lion|r",
-			[51] = 1636753809,
+			[52] = "|cff00fe97Novacrazys|r",
+			[51] = 1639954085,
 			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [10]
 		{
-			"<< DAWN™ >> OFFERING Full |cffffff00|Hachievement:15128:Player-1305-0C113330:0:0:0:-1:0:0:0:0|h[Mythic: Sanctum of Domination]|h|r / <10/10M + 2xVIP 9M>   /   <10/10 HC 300K>  VIP +180k =  (  3xVIP=850K  )  ( 5xVIP=1150k )  ||  LAST 2 BOSS HC  |cff66bbff|Hjournal:1:2440:14|h[Kel'Thuzad]|h|r  +  |cff66bbff|Hjournal:1:2441:14|h[Sylvanas Windrunner]|h|r << 85K >>   EVERY 30 Mins || Whis For SPOT", -- [1]
-			"Dawnholly-Kazzak", -- [2]
+			"< NOVA > Offering < Mythic 0-24 InTime >|| M+14 100K || < M+15 105K > || < |cff66bbff|Hjournal:0:1193:14|h[Sanctum of Domination]|h|rHC 210K > || KT 40K , SylvanasHC 50K < Last 2 80K > || < Tazavesh NM & HM > || <Torghast> || <PvP> || <Leveling> /W Me!", -- [1]
+			"Holypristnbc-Kazzak", -- [2]
 			"", -- [3]
 			"2. Trade - City", -- [4]
-			"Dawnholly-Kazzak", -- [5]
+			"Holypristnbc-Kazzak", -- [5]
 			"", -- [6]
 			2, -- [7]
 			2, -- [8]
 			"Trade - City", -- [9]
 			0, -- [10]
-			326, -- [11]
-			"Player-1305-0C15623C", -- [12]
+			3225, -- [11]
+			"Player-1305-0C15832F", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			true, -- [17]
-			[52] = "|cff00fe97Dawnholly|r",
-			[51] = 1636753814,
+			[52] = "|cfffefefeHolypristnbc|r",
+			[51] = 1639954091,
 			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [11]
 		{
-			"<<NOVA>>SELLING HEROIC|cff66bbff|Hjournal:0:1193:14|h[Sanctum of Domination]|h|r300k+ VIP TRADERS AVAILABLE---<M+15=115k><M+20=560k><Multi Run Has DISCOUNT+Free Armor STACK><KSM 16xM+15= 1750k><KSH 8xM+20=3900k><Tazavesh><Torghast>< Last 2 HC 85k>", -- [1]
-			"Novabeta-Kazzak", -- [2]
+			"SYLVANAS / M+15 = 105K In Time /|cff66bbff|Hjournal:0:1193:14|h[Sanctum of Domination]|h|r HC-Mythic +TRADER /LAST 2BOSS EVERY 30 MIN /M+20 = 520K /M+19 = 450k /M+18 = 300k /FREE SPECIFIC KEY /KSM 16X15 /10X15=900k /4x15=360k /+ARMOR STACK /TORGHAST /W", -- [1]
+			"Sylvsbank-Kazzak", -- [2]
 			"", -- [3]
 			"2. Trade - City", -- [4]
-			"Novabeta-Kazzak", -- [5]
+			"Sylvsbank-Kazzak", -- [5]
 			"", -- [6]
 			2, -- [7]
 			2, -- [8]
 			"Trade - City", -- [9]
 			0, -- [10]
-			327, -- [11]
-			"Player-1305-0C105E2F", -- [12]
+			3226, -- [11]
+			"Player-1305-0C199D90", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			true, -- [17]
-			[52] = "|cff00fe97Novabeta|r",
-			[51] = 1636753815,
+			[52] = "|cff00fe97Sylvsbank|r",
+			[51] = 1639954091,
 			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [12]
 		{
-			"< NOVA > is OFFERING || Sanctum HC 300k|| || VIP Traders Available || || Sanctum Mythic  || || M+15= 115k || M+20=560k || || KSM 16x M+15= 1750k+Stack || || KSH 8x M+20= 3900k || Torghast---Level UP ||  Tazavesh || || Sylv HC 50k--Last 2Boss HC 85k ||", -- [1]
-			"Novahuge-Kazzak", -- [2]
+			"<DAWN> [Sanctum of Domination] 10/10 HC 210k <Trader 160k> <+15 115K> <4x15 400k><+20 520k> [Ahead of the Curve: Sylvanas Windrunner] <Sylvanas + KT 80k>  PVP /Torghast/LVLUP /w me for more info", -- [1]
+			"Titanwarrior-Kazzak", -- [2]
 			"", -- [3]
 			"2. Trade - City", -- [4]
-			"Novahuge-Kazzak", -- [5]
+			"Titanwarrior-Kazzak", -- [5]
 			"", -- [6]
 			2, -- [7]
 			2, -- [8]
 			"Trade - City", -- [9]
 			0, -- [10]
-			339, -- [11]
-			"Player-1305-0C0F5C63", -- [12]
+			3236, -- [11]
+			"Player-1305-0AC56D69", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			true, -- [17]
-			[52] = "|cff00fe97Novahuge|r",
-			[51] = 1636753824,
+			[52] = "|cffc59a6cTitanwarrior|r",
+			[51] = 1639954103,
 			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [13]
 		{
-			"<DAWN>WTS<M+15=120k> <4x15=420k> <8x15=850k> <KSM=1700k> <KSH=3850k> <Tazavesh HM=200k> |cff66bbff|Hjournal:0:1193:14|h[Sanctum of Domination]|h|r<10/10M><10/10HC=300k /VIP Traders=200k> <KT=45k> <SYLVANAS=50K> <Last Two Bosses=85k> <L12 Torghast=50k>", -- [1]
-			"Drawdawn-Kazzak", -- [2]
+			"WTS 2v2 arena help 0-1400/ 0-1600 GOLD only.. /w for info!", -- [1]
+			"Madbite-Kazzak", -- [2]
 			"", -- [3]
 			"2. Trade - City", -- [4]
-			"Drawdawn-Kazzak", -- [5]
+			"Madbite-Kazzak", -- [5]
 			"", -- [6]
 			2, -- [7]
 			2, -- [8]
 			"Trade - City", -- [9]
 			0, -- [10]
-			343, -- [11]
-			"Player-1305-0C190C6C", -- [12]
+			3238, -- [11]
+			"Player-1305-0C1C6D03", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			true, -- [17]
-			[52] = "|cff00fe97Drawdawn|r",
-			[51] = 1636753827,
+			[52] = "|cfffe7b09Madbite|r",
+			[51] = 1639954103,
 			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [14]
 		{
-			"<V O I D >0-22 Keys FREE ARMOR & FLASH DEALS +15 INTIME 110k ] 2x15 =209K [SPECIAL DEALS 4X15=396K / 5x15=482K]6x15 =578K]7x=674k] 8x15=770k  Tazavash HM=180k]50-60Lv=675k]Thorgast 2x12=90k ]PVP]  /W", -- [1]
-			"Voidsale-Kazzak", -- [2]
+			"farts", -- [1]
+			"Sdhrdfgjnhdg-Wildhammer", -- [2]
 			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Voidsale-Kazzak", -- [5]
+			"", -- [4]
+			"Sdhrdfgjnhdg-Wildhammer", -- [5]
 			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			344, -- [11]
-			"Player-1305-0C163647", -- [12]
+			3261, -- [11]
+			"Player-1313-0C1E5B29", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			true, -- [17]
-			[52] = "|cfffef367Voidsale|r",
-			[51] = 1636753828,
-			[50] = "CHAT_MSG_CHANNEL",
+			false, -- [17]
+			[52] = "|cff006fdcSdhrdfgjnhdg-Wildhammer|r",
+			[51] = 1639954116,
+			[50] = "CHAT_MSG_EMOTE",
 		}, -- [15]
 		{
-			"• WTS |cff66bbff|Hjournal:0:1193:15|h[Sanctum of Domination]|h|r Mythic Guild run 10/10 + Loot + Mount available • No requirements • Buy on PewPewShop.pro•", -- [1]
-			"Josseffa-Kazzak", -- [2]
+			"<NOVA> SALE!!!! HEROIC 10/10 |cff66bbff|Hjournal:0:1193:15|h[Sanctum of Domination]|h|r] 210k -  PVP--/ Sylvanas HC 50 /Sylvanas+Kel 80k/M+15 105k /M+16 165k /M+17 210k /M+18 300k / M19 450k /M+20 520k/KSH 8/8  All +20 3600k/Legion m+", -- [1]
+			"Novacrazys-Kazzak", -- [2]
 			"", -- [3]
 			"2. Trade - City", -- [4]
-			"Josseffa-Kazzak", -- [5]
+			"Novacrazys-Kazzak", -- [5]
 			"", -- [6]
 			2, -- [7]
 			2, -- [8]
 			"Trade - City", -- [9]
 			0, -- [10]
-			346, -- [11]
-			"Player-1305-0C184D65", -- [12]
+			3274, -- [11]
+			"Player-1305-0C1037CB", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			true, -- [17]
-			[52] = "|cffc59a6cJosseffa|r",
-			[51] = 1636753829,
+			[52] = "|cff00fe97Novacrazys|r",
+			[51] = 1639954406,
 			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [16]
 		{
-			"<SYLVANAS> |cff66bbff|Hjournal:0:1193:14|h[Sanctum of Domination]|h|r10/10HC=<280k> + VIP Trader <FREE ARMOR STACK 2xM><-> M+15= < 120k > LAST 2 BOSS=<95k> <4x15 = 420K > <KSM>16x+15 intime <Mythic 10/10> M+20 = 560K /Tazavesh /Torghast/PVP w Me", -- [1]
-			"Sylvansell-Kazzak", -- [2]
+			"<SYLVANAS>//\\\\  |cff66bbff|Hjournal:0:1193:14|h[Sanctum of Domination]|h|r  HC10/10<-200k-> //\\\\With 1 VIP Trader=<-380k->//\\\\ (Sylvanas=<50k> Kelt=<40k>> Both=<80k>) //\\\\ M15 =<100k> //\\\\  4x15 = <360k> //\\\\ Mythic SoD  //\\\\ <KSM> //\\\\ Torghast/PVP //\\", -- [1]
+			"Slybroxy-Kazzak", -- [2]
 			"", -- [3]
 			"2. Trade - City", -- [4]
-			"Sylvansell-Kazzak", -- [5]
+			"Slybroxy-Kazzak", -- [5]
 			"", -- [6]
 			2, -- [7]
 			2, -- [8]
 			"Trade - City", -- [9]
 			0, -- [10]
-			347, -- [11]
-			"Player-1305-0C0D671C", -- [12]
+			3275, -- [11]
+			"Player-1305-0C1171BC", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			true, -- [17]
-			[52] = "|cfffe7b09Sylvansell|r",
-			[51] = 1636753834,
+			[52] = "|cff006fdcSlybroxy|r",
+			[51] = 1639954407,
 			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [17]
 		{
-			"< NOVA > is OFFERING  Heroic |cff66bbff|Hjournal:0:1193:14|h[Sanctum of Domination]|h|r300k || VIP Traders Available || || Sanctum Mythic 8.8M + 2x VIP || || M+15= 115k || KSM 16xM+15=1750k || KSH 8xM+20=3900k || Torghast || Last 2Bosss HC 85k ||", -- [1]
-			"Novaalphaz-Kazzak", -- [2]
+			"<DAWN> IS OFFERING <|cffffff00|Hachievement:15127:Player-1305-0C0B5F54:1:9:22:21:4294967295:4294967295:4294967295:4294967295|h[Heroic: Sanctum of Domination]|h|r 210K > <VIP Trader 160k> [ Sylavnas 50k><KT 40K><Both 80K ] || M+15=115k <M+14=100K> <Armor Stack> || 4x15 400K || <M+16=170k> <M+17=210k><M+18=310k>||LVLUP 51/60|| Also Selling |cffffff00|Hachievement:12568:Player-1305-0C0B5F54:1:9:22:19:4294967295:4294967295:4294967295:4294967295|h[The Alliance Slayer]|h|r ", -- [1]
+			"Jeoo-Kazzak", -- [2]
 			"", -- [3]
 			"2. Trade - City", -- [4]
-			"Novaalphaz-Kazzak", -- [5]
+			"Jeoo-Kazzak", -- [5]
 			"", -- [6]
 			2, -- [7]
 			2, -- [8]
 			"Trade - City", -- [9]
 			0, -- [10]
-			348, -- [11]
-			"Player-1305-0C0FBF6D", -- [12]
+			3276, -- [11]
+			"Player-1305-0C0B5F54", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			true, -- [17]
-			[52] = "|cfffef367Novaalphaz|r",
-			[51] = 1636753834,
+			[52] = "|cff3ec6eaJeoo|r",
+			[51] = 1639954408,
 			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [18]
 		{
-			"<NOVA> HC |cff66bbff|Hjournal:0:1193:14|h[Sanctum of Domination]|h|r 300k  Sylvanas 50k  <Last 2=85k>  <M+15=115k>  <KSM 16x +15 =1750k>  <Mythic 10/10 Raid>  <8x +20 =3900k>  /w me for info.", -- [1]
-			"Novadwl-Kazzak", -- [2]
+			"M+15 100 k in Time + FREE Armor  -  4x15 = 390k || M+14-22 ||M+20 = 350k || Leveling 50 - 60 || Also Offering Legion TIMEWALKING M+15  || only for gold|| /w info", -- [1]
+			"Ayvn-Kazzak", -- [2]
 			"", -- [3]
 			"2. Trade - City", -- [4]
-			"Novadwl-Kazzak", -- [5]
+			"Ayvn-Kazzak", -- [5]
 			"", -- [6]
 			2, -- [7]
 			2, -- [8]
 			"Trade - City", -- [9]
 			0, -- [10]
-			351, -- [11]
-			"Player-1305-0C044BE6", -- [12]
+			3277, -- [11]
+			"Player-1305-0BC627CC", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			true, -- [17]
-			[52] = "|cff006fdcNovadwl|r",
-			[51] = 1636753836,
+			[52] = "|cfff38bb9Ayvn|r",
+			[51] = 1639954409,
 			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [19]
 		{
-			"<V O I D >0-22 Keys FREE ARMOR & FLASH DEALS +15 INTIME 110k ] 2x15 =209K [SPECIAL DEALS 4X15=396K / 5x15=482K]6x15 =578K]7x=674k] 8x15=770k  Tazavash HM=180k]50-60Lv=675k]Thorgast 2x12=90k ]PVP]  /W", -- [1]
-			"Voidpolter-Kazzak", -- [2]
+			"<< DAWN™ >> SELLING Full |cffffff00|Hachievement:15128:Player-1305-0C113330:0:0:0:-1:0:0:0:0|h[Mythic: Sanctum of Domination]|h|r  / <10/10M + 2xVIP 8.8M>  /  <10/10 HC 210K>  VIP +160k =  ( 3xVIP=680K )  ( 5xVIP=1000k )  ||   LAST 2 BOSS HC  |cff66bbff|Hjournal:1:2440:14|h[Kel'Thuzad]|h|r +  |cff66bbff|Hjournal:1:2441:14|h[Sylvanas Windrunner]|h|r  << 80K >>  ||  4x15 = 400K  || Whis For SPOT", -- [1]
+			"Dawnholly-Kazzak", -- [2]
 			"", -- [3]
 			"2. Trade - City", -- [4]
-			"Voidpolter-Kazzak", -- [5]
+			"Dawnholly-Kazzak", -- [5]
 			"", -- [6]
 			2, -- [7]
 			2, -- [8]
 			"Trade - City", -- [9]
 			0, -- [10]
-			352, -- [11]
-			"Player-1305-0C10B6A6", -- [12]
+			3278, -- [11]
+			"Player-1305-0C15623C", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			true, -- [17]
-			[52] = "|cff8687edVoidpolter|r",
-			[51] = 1636753837,
+			[52] = "|cff00fe97Dawnholly|r",
+			[51] = 1639954409,
 			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [20]
 		{
-			"<SYLVANAS>//\\\\ |cff66bbff|Hjournal:0:1193:14|h[Sanctum of Domination]|h|r  HC10/10<-280k-> //\\\\With 1 VIP Trader=<-460k->//\\\\ (Sylvanas=<50k> Kelt=<45k>> Both=<85k>) //\\\\ M15 =<120k> //\\\\  4x15 = <420k> //\\\\ Tazavesh  //\\\\ <KSM> //\\\\ Torghast/PVP", -- [1]
-			"Slybroxy-Kazzak", -- [2]
+			"lf social and active pve raiding/m+ guild (please dont w/me about guild finder, already did that) thanks for the info", -- [1]
+			"Primaværa-Kazzak", -- [2]
 			"", -- [3]
 			"2. Trade - City", -- [4]
-			"Slybroxy-Kazzak", -- [5]
+			"Primaværa-Kazzak", -- [5]
 			"", -- [6]
 			2, -- [7]
 			2, -- [8]
 			"Trade - City", -- [9]
 			0, -- [10]
-			356, -- [11]
-			"Player-1305-0C1171BC", -- [12]
+			3279, -- [11]
+			"Player-1305-051F4557", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			true, -- [17]
-			[52] = "|cff006fdcSlybroxy|r",
-			[51] = 1636753839,
+			[52] = "|cfff38bb9Primaværa|r",
+			[51] = 1639954410,
 			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [21]
 		{
-			"<NOVA> || Sanctum Heroic 300k || Trader 180k || Curve 50k|| Last 2 HC 85k || M+10 - 75k || M+12 - 90k || M+14 - 105k || M+15 - 115k || KeyStone Master - 1750k || KeyStone Hero - 3900k || Tazavesh HM 190k ||  Discount For Multi Runs", -- [1]
-			"Novajuno-Kazzak", -- [2]
+			"<NOVA > [+15 Intime=105k] [10/10 HC =210K / 10/10 Mythic =8,8M+Mount+2 VIP ] [Legion Mythic+ 15=185k weekly /260k intime ] [2x+15=200k] [4x+15 Intime=378K ]  [Taza HM=190k ] [Level/Mounts/Legacy/PVP] [EVERY 40 MIN KT+Sylva=80k ] [Layer 12x2=95k ] /w", -- [1]
+			"Novarand-Kazzak", -- [2]
 			"", -- [3]
 			"2. Trade - City", -- [4]
-			"Novajuno-Kazzak", -- [5]
+			"Novarand-Kazzak", -- [5]
 			"", -- [6]
 			2, -- [7]
 			2, -- [8]
 			"Trade - City", -- [9]
 			0, -- [10]
-			358, -- [11]
-			"Player-1305-0C0C12CC", -- [12]
+			3280, -- [11]
+			"Player-1305-0C1B30F7", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			true, -- [17]
-			[52] = "|cff00fe97Novajuno|r",
-			[51] = 1636753843,
+			[52] = "|cff8687edNovarand|r",
+			[51] = 1639954411,
 			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [22]
 		{
-			"<NOVA> Offering HC Sanctum 300k  <2x VIP Traders Discount>  <Sylvanas->50k  Kel-45k  <Last2->85k   <M+15=115k>  <4x+15=414k Free Armor>  <Tazavesh->Hard-190k   <KSM 16x +15 intime =1750k>  <KSH 8x +20 intime=3900k> Torg-PvP-Lvl /w me info.", -- [1]
-			"Novadevo-Kazzak", -- [2]
+			"< Gt > WTS 15-25 In Time Guarantee M+15 = 110k // M+22 = 750k // M+21 = 600k // M+20 = 480K // M+19 = 450k // M+18 = 290K // M+17 = 190K // FREE SPECIFiC KEY // 8X20 ALl dung // KSM 8X15 // 4X15 = 430K // 5X15 = 520k // FREE ARMOR STACK // TORGHAST //W", -- [1]
+			"Gtboost-Kazzak", -- [2]
 			"", -- [3]
 			"2. Trade - City", -- [4]
-			"Novadevo-Kazzak", -- [5]
+			"Gtboost-Kazzak", -- [5]
 			"", -- [6]
 			2, -- [7]
 			2, -- [8]
 			"Trade - City", -- [9]
 			0, -- [10]
-			371, -- [11]
-			"Player-1305-0C182879", -- [12]
+			3281, -- [11]
+			"Player-1305-0C1BB9E8", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			true, -- [17]
-			[52] = "|cff8687edNovadevo|r",
-			[51] = 1636753854,
+			[52] = "|cfffe7b09Gtboost|r",
+			[51] = 1639954412,
 			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [23]
 		{
-			"<NOVA> |cff66bbff|Hjournal:0:1193:16|h[Sanctum of Domination]|h|r Heroic = 300k. || Trader = 180k || M+10 = 75k || M+12 = 90k || M+14 = 105k || M+15 = 115k || KeyStone Master = 1750k || KeyStone Hero = 3900k || Heroic Sylvanas 50k || Last 2 85k", -- [1]
-			"Novabest-Kazzak", -- [2]
+			"<DAWN> IS OFFERING <|cffffff00|Hachievement:15127:Player-1305-0C19D74C:0:0:0:-1:0:0:0:0|h[Heroic: Sanctum of Domination]|h|r 210K > <VIP Trader 160k> [ Sylavnas 50k><KT 40K><Both 80K ] || M+15=115k <M+14=100K> <Armor Stack> || 4x15 400K || <M+16=170k> <M+17=210k><M+18=310k>||LVLUP 51/60|| Also Selling |cffffff00|Hachievement:12568:Player-1305-0C19D74C:0:0:0:-1:0:0:0:0|h[The Alliance Slayer]|h|r ", -- [1]
+			"Dawnjeeoo-Kazzak", -- [2]
 			"", -- [3]
 			"2. Trade - City", -- [4]
-			"Novabest-Kazzak", -- [5]
+			"Dawnjeeoo-Kazzak", -- [5]
 			"", -- [6]
 			2, -- [7]
 			2, -- [8]
 			"Trade - City", -- [9]
 			0, -- [10]
-			380, -- [11]
-			"Player-1305-0BF51DB9", -- [12]
+			3282, -- [11]
+			"Player-1305-0C19D74C", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			true, -- [17]
-			[52] = "|cff00fe97Novabest|r",
-			[51] = 1636753864,
+			[52] = "|cff006fdcDawnjeeoo|r",
+			[51] = 1639954413,
 			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [24]
 		{
-			"<SYLVANAS> M+15 = <120k> <-> <FREE ARMOR STACK 2xM> 4x+15 = <420k> <-> <16x+15 = 1750k> <-> 8x+20 = 3900k <Myhthic 10/10 & Sylvanas Mount> LAST 2 BOSS = <85k> <-> SoD 10/10HC = <280k> + VIP Trader /Torghast/Tazavesh/ W me!", -- [1]
-			"Sylvnsell-Kazzak", -- [2]
+			"< N O V A > CURVE BOTH 80k & 10/10 HC 210k / 0-24 Keys FREE ARMOR+15 INTIME 105k 2x15=200K [SPECIAL DEALS 4X15=378K/5x15=460K]6x15 =552K]7x=644k] 8x15=735k 16=165k 17=210k 18=300k 19=450k 20=520k Tazavash HM=190k]50-60Lv=550k]Thorgast 2x12=95k]PVP]", -- [1]
+			"Novaserviz-Kazzak", -- [2]
 			"", -- [3]
 			"2. Trade - City", -- [4]
-			"Sylvnsell-Kazzak", -- [5]
+			"Novaserviz-Kazzak", -- [5]
 			"", -- [6]
 			2, -- [7]
 			2, -- [8]
 			"Trade - City", -- [9]
 			0, -- [10]
-			381, -- [11]
-			"Player-1305-0C12FC41", -- [12]
+			3283, -- [11]
+			"Player-1305-0C1B3078", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			true, -- [17]
-			[52] = "|cff006fdcSylvnsell|r",
-			[51] = 1636753865,
+			[52] = "|cff00fe97Novaserviz|r",
+			[51] = 1639954414,
 			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [25]
 		{
-			"<NOVA> !Big Sale! (Sanctum Heroic 280k-VIP Händler 180k)-[WTS HC Sylvanas 50K - HC KT 45K BOTH -90K]-[M+10 75K]-(M+15 W120K-115K)-(M+17 230K)-(M+20 570K)-||KSM 1750K||-||KSH 3900k/All 20||-[Torghast]-[2v2-3v3-Rbg]-(Sanctum Mythic 10/10)", -- [1]
-			"Ovaorc-Kazzak", -- [2]
+			"Nova Offering<|cff66bbff|Hjournal:0:1193:15|h[Sanctum of Domination]|h|rMythic-HC 210k VIP-160k><4x15=360k><M+15=100k><M+20=520k><M+19=450k> <M+18=300k><M+17=210k><KSH 8x+20=3600k><KSM |cffffff00|Hachievement:15078:Player-1305-0C15B90E:0:0:0:0:0:0:0:0|h[Shadowlands Keystone Master: Season Two]|h|r8x+15=810k><LVLING 50-60=550K> <PVP><TORGHST><LEGACY><MOUNT>", -- [1]
+			"Bonecrasherr-Kazzak", -- [2]
 			"", -- [3]
 			"2. Trade - City", -- [4]
-			"Ovaorc-Kazzak", -- [5]
+			"Bonecrasherr-Kazzak", -- [5]
 			"", -- [6]
 			2, -- [7]
 			2, -- [8]
 			"Trade - City", -- [9]
 			0, -- [10]
-			382, -- [11]
-			"Player-1305-0C063C53", -- [12]
+			3284, -- [11]
+			"Player-1305-0C1A37EC", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			true, -- [17]
-			[52] = "|cffc59a6cOvaorc|r",
-			[51] = 1636753865,
+			[52] = "|cff00fe97Bonecrasherr|r",
+			[51] = 1639954417,
 			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [26]
 		{
-			"NOVA || || BIG SALE Heroic 310k (Vip trader 180k) ||Heroic/Normal  <||> WTS HC Sylvanas 50k - HC KT 45k BOTH -90k ||TAZAVESH 90K-216K|| [M+10 85k]M+15 120k1|| KSM = 1750K KSH = 3900k [Torghast L1-L12 ] [2v2-3v3-Rbg]", -- [1]
-			"Novarite-Kazzak", -- [2]
+			"~DAWN COMMUNITY~  |cffffff00|Hachievement:15128:Player-1084-08DEDC99:0:0:0:-1:0:0:0:0|h[Mythic: Sanctum of Domination]|h|r TODAY ||  Full HEROIC 10/10   +  VIP TRADER   ||  Full MYTHIC 10/10  +  2x Free VIP Trader & Mount   /|cff66bbff|Hjournal:1:2440:14|h[Kel'Thuzad]|h|r + |cff66bbff|Hjournal:1:2441:14|h[Sylvanas Windrunner]|h|r  HC  << 80K >>  ||  4x15 = 400k  /  KORTHIA Farm  /  WHIS ME  BOOK", -- [1]
+			"Dawniboost-Kazzak", -- [2]
 			"", -- [3]
 			"2. Trade - City", -- [4]
-			"Novarite-Kazzak", -- [5]
+			"Dawniboost-Kazzak", -- [5]
 			"", -- [6]
 			2, -- [7]
 			2, -- [8]
 			"Trade - City", -- [9]
 			0, -- [10]
-			383, -- [11]
-			"Player-1305-0C030B54", -- [12]
+			3285, -- [11]
+			"Player-1305-0C0C09CC", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			true, -- [17]
-			[52] = "|cffc59a6cNovarite|r",
-			[51] = 1636753865,
+			[52] = "|cfffe7b09Dawniboost|r",
+			[51] = 1639954418,
 			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [27]
 		{
-			"<DAWN>[WTS]|cff66bbff|Hjournal:0:1193:15|h[Sanctum of Domination]|h|r<10/10M 9M+Mount+Traders><HC 10/10 300k><VIP Traders 200k><KT 45k><Sylvanas 50k><Both 85k>|cffffff00|Hachievement:15134:Player-1305-0C09501E:0:0:0:-1:0:0:0:0|h[Ahead of the Curve: Sylvanas Windrunner]|h|r<8x15 KSM 875k><M20 560k><M15 120k><4x 15 420k><10x15 1000k><Torghast 2xL12 90k>", -- [1]
-			"Cendawyth-Kazzak", -- [2]
+			"<Dawn> [WTS]|cffffff00|Hachievement:15134:Player-1305-0A212ADE:1:9:9:21:0:0:0:0|h[Ahead of the Curve: Sylvanas Windrunner]|h|r<Sylvanas HC  50k> <KT HC 40k> <Both 80k>|cff66bbff|Hjournal:0:1193:15|h[Sanctum of Domination]|h|r<10/10m+mount><hc10/10 210k><VIP Traders160k><8x15 KSM850k><M20 520k><M15 100k><4x15 400k><LEGION M15 180k><torghast2xL12 70k>", -- [1]
+			"Shahramstorm-Kazzak", -- [2]
 			"", -- [3]
 			"2. Trade - City", -- [4]
-			"Cendawyth-Kazzak", -- [5]
+			"Shahramstorm-Kazzak", -- [5]
 			"", -- [6]
 			2, -- [7]
 			2, -- [8]
 			"Trade - City", -- [9]
 			0, -- [10]
-			390, -- [11]
-			"Player-1305-0BC9383B", -- [12]
+			3286, -- [11]
+			"Player-1305-0A212ADE", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			true, -- [17]
-			[52] = "|cffa9d271Cendawyth|r",
-			[51] = 1636753871,
+			[52] = "|cff006fdcShahramstorm|r",
+			[51] = 1639954419,
 			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [28]
 		{
-			"<Sylvanas Boost Community> Selling [Ahead Of The Curve] Kel'Thuzad and Sylvanas [85k] // Kel'Thuzad by itself [45k]// Sylvanas By itself [50k] // We have runs going every 30min /w me for more info!", -- [1]
-			"Damzadvv-Kazzak", -- [2]
+			"<NOVA> Offering HC Sanctum 210k  <2x VIP Traders Discount>  <Sylvanas->50k  Kel-40k  <Last2->80k  <M+15=100k>  <4x+15=375k>  <Legion M+15=185k>  <Tazavesh->Hard-190k  <KSM 16x +15 intime =1700k>  <KSH 8x +20 intime=3600k> Trghst - PvP -Lvl /w me info.", -- [1]
+			"Novadevo-Kazzak", -- [2]
 			"", -- [3]
 			"2. Trade - City", -- [4]
-			"Damzadvv-Kazzak", -- [5]
+			"Novadevo-Kazzak", -- [5]
 			"", -- [6]
 			2, -- [7]
 			2, -- [8]
 			"Trade - City", -- [9]
 			0, -- [10]
-			391, -- [11]
-			"Player-1305-0C0C2463", -- [12]
+			3287, -- [11]
+			"Player-1305-0C182879", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			true, -- [17]
-			[52] = "|cff006fdcDamzadvv|r",
-			[51] = 1636753871,
+			[52] = "|cff8687edNovadevo|r",
+			[51] = 1639954419,
 			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [29]
 		{
-			"<<Sylvanas>> Mythic + Prices / M+15=120k || M+12 = 90k || M+14 = 100k || M+10 = 75k|| SoD HC Full Clear || KSH 20x8 = 3900k All key Timed || Tazavrsh HM = 200k || Keystonemaster 1750k |||| /w me for more info", -- [1]
-			"Damzadvv-Kazzak", -- [2]
+			"DAWN> Offering Today|cffffff00|Hachievement:15127:Player-1305-0BCEAB76:0:0:0:-1:0:0:0:0|h[Heroic: Sanctum of Domination]|h|r 210k @(14/16/19/21/23) //Full Mythic +Mount &VIP |cff66bbff|Hjournal:0:1193:14|h[Sanctum of Domination]|h|r /Sylvanas 50K |cff66bbff|Hjournal:1:2440:14|h[Kel'Thuzad]|h|r 40K(Both 80K) /+15=110k (4x15=400K) +14=100K (4x14=360K) /+20=520K/ +20-26 intime+KSM//PVP/RBG", -- [1]
+			"Certihotdeal-Kazzak", -- [2]
 			"", -- [3]
 			"2. Trade - City", -- [4]
-			"Damzadvv-Kazzak", -- [5]
+			"Certihotdeal-Kazzak", -- [5]
 			"", -- [6]
 			2, -- [7]
 			2, -- [8]
 			"Trade - City", -- [9]
 			0, -- [10]
-			392, -- [11]
-			"Player-1305-0C0C2463", -- [12]
+			3288, -- [11]
+			"Player-1305-0BCEAB76", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			true, -- [17]
-			[52] = "|cff006fdcDamzadvv|r",
-			[51] = 1636753872,
+			[52] = "|cff3ec6eaCertihotdeal|r",
+			[51] = 1639954419,
 			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [30]
 		{
-			"WTS ((      TORGHAS T     )) ALL LAYER 2x12 or normal come and get your unlimited |cffff8000|Hcurrency:1828:0|h[Soul Ash]|h|r&   |cffff8000|Hcurrency:1906:0|h[Soul Cinders]|h|r without cap you can make 262 item right now fast & cheap w / info", -- [1]
-			"Lion-Kazzak", -- [2]
+			"< NOVA > Offering < Mythic 0-24 InTime >|| M+14 100K || < M+15 105K > || < |cff66bbff|Hjournal:0:1193:14|h[Sanctum of Domination]|h|rHC 210K > || KT 40K , SylvanasHC 50K < Last 2 80K > || < Tazavesh NM & HM > || <Torghast> || <PvP> || <Leveling> /W Me!", -- [1]
+			"Holypristnbc-Kazzak", -- [2]
 			"", -- [3]
 			"2. Trade - City", -- [4]
-			"Lion-Kazzak", -- [5]
+			"Holypristnbc-Kazzak", -- [5]
 			"", -- [6]
 			2, -- [7]
 			2, -- [8]
 			"Trade - City", -- [9]
 			0, -- [10]
-			394, -- [11]
-			"Player-1305-0885C593", -- [12]
+			3289, -- [11]
+			"Player-1305-0C15832F", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			true, -- [17]
-			[52] = "|cffa22fc8Lion|r",
-			[51] = 1636753878,
+			[52] = "|cfffefefeHolypristnbc|r",
+			[51] = 1639954421,
 			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [31]
 		{
-			"<SYLVANAS> M+15= < 120k > |cff66bbff|Hjournal:0:1193:14|h[Sanctum of Domination]|h|r 10/10HC=<280k> + VIP Trader <FREE ARMOR STACK 2XM><-> LAST 2 BOSS=<95k> <4x15 = 420K > <KSM>16x+15 intime <Mythic 10/10> M+20 = 560K /Tazavesh /Torghast/PVP w Me", -- [1]
-			"Sylvanasell-Kazzak", -- [2]
+			"Nova Offering<|cff66bbff|Hjournal:0:1193:14|h[Sanctum of Domination]|h|rMythic-HC 210k VIP-160k><4x15=360k><M+15=100k><M+20=520k><M+19=450k> <M+18=300k><M+17=210k><KSH 8x+20=3600k><KSM |cffffff00|Hachievement:15078:Player-1305-0C15B90E:0:0:0:0:0:0:0:0|h[Shadowlands Keystone Master: Season Two]|h|r8x+15=810k><LVLING 50-60=550K> <PVP><TORGHST><LEGACY><MOUNT>", -- [1]
+			"Samuee-Kazzak", -- [2]
 			"", -- [3]
 			"2. Trade - City", -- [4]
-			"Sylvanasell-Kazzak", -- [5]
+			"Samuee-Kazzak", -- [5]
 			"", -- [6]
 			2, -- [7]
 			2, -- [8]
 			"Trade - City", -- [9]
 			0, -- [10]
-			395, -- [11]
-			"Player-1305-0C076620", -- [12]
+			3291, -- [11]
+			"Player-1305-0C15B90E", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			true, -- [17]
-			[52] = "|cfffe7b09Sylvanasell|r",
-			[51] = 1636753878,
+			[52] = "|cff00fe97Samuee|r",
+			[51] = 1639954422,
 			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [32]
 		{
-			"[WТS] Mythic +15/+16/+17/+18 key CARRY. Order a Trial run to test our service with no risks! Runs start every hour. Get ilvl 233-252+ Gear & Rating. We have over 16825 Trustpilot reviews. Visit WowVendor.net for more info!", -- [1]
-			"Drinfa-Kazzak", -- [2]
+			"<SYLVANAS> WTS M15 135k intime (125k weekly )|| M14 115k M10 75k { TAZAVESH HM|||cff66bbff|Hjournal:0:1193:14|h[Sanctum of Domination]|h|r HC ||2 last boss every 20 min.. torghast / lvling /w me for more info.   ", -- [1]
+			"Silviananas-Kazzak", -- [2]
 			"", -- [3]
 			"2. Trade - City", -- [4]
-			"Drinfa-Kazzak", -- [5]
+			"Silviananas-Kazzak", -- [5]
 			"", -- [6]
 			2, -- [7]
 			2, -- [8]
 			"Trade - City", -- [9]
 			0, -- [10]
-			398, -- [11]
-			"Player-1305-0C14A8CC", -- [12]
+			3292, -- [11]
+			"Player-1305-0BF20764", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			true, -- [17]
-			[52] = "|cfffe7b09Drinfa|r",
-			[51] = 1636753879,
+			[52] = "|cff006fdcSilviananas|r",
+			[51] = 1639954422,
 			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [33]
 		{
-			"NOVA || || BIG SALE Heroic 310k (Vip trader 180k) ||Heroic/Normal  <||> WTS HC Sylvanas 50k - HC KT 45k BOTH -90k ||TAZAVESH 90K-216K|| [M+10 85k]M+15 120k1|| KSM = 1750K KSH = 3900k [Torghast L1-L12 ] [2v2-3v3-Rbg]", -- [1]
-			"Novamol-Kazzak", -- [2]
+			"<Dawn> Offering |cff66bbff|Hjournal:0:1193:14|h[Sanctum of Domination]|h|r <10/10 Mythic + 2 Vips + Mount 8.8M> <10/10 HC 210K Vips available> <Sylvanas HC 50k> <KT 40> < Last 2 80K> <M+15 100K> <Torghast 8-12> <KSM 850K> <Korthia Rep Farm> <PVP> w/ me", -- [1]
+			"Dawnabsolute-Kazzak", -- [2]
 			"", -- [3]
 			"2. Trade - City", -- [4]
-			"Novamol-Kazzak", -- [5]
+			"Dawnabsolute-Kazzak", -- [5]
 			"", -- [6]
 			2, -- [7]
 			2, -- [8]
 			"Trade - City", -- [9]
 			0, -- [10]
-			402, -- [11]
-			"Player-1305-0C03F614", -- [12]
+			3296, -- [11]
+			"Player-1305-0C1DC092", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			true, -- [17]
-			[52] = "|cffa9d271Novamol|r",
-			[51] = 1636753882,
+			[52] = "|cff006fdcDawnabsolute|r",
+			[51] = 1639954425,
 			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [34]
 		{
-			"<< DAWN™ >> OFFERING Full |cffffff00|Hachievement:15128:Player-1305-0C113330:0:0:0:-1:0:0:0:0|h[Mythic: Sanctum of Domination]|h|r / <10/10M + 2xVIP 9M>   /   <10/10 HC 300K>  VIP +180k =  (  3xVIP=850K  )  ( 5xVIP=1150k )  ||  LAST 2 BOSS HC  |cff66bbff|Hjournal:1:2440:14|h[Kel'Thuzad]|h|r  +  |cff66bbff|Hjournal:1:2441:14|h[Sylvanas Windrunner]|h|r << 85K >>   EVERY 30 Mins || Whis For SPOT", -- [1]
-			"Dawnholly-Kazzak", -- [2]
+			"<DAWN> [Sanctum of Domination] 10/10 HC 210k <Trader 160k> <+15 115K> <4x15 400k><+20 520k> [Ahead of the Curve: Sylvanas Windrunner] <Sylvanas + KT 80k>  PVP /Torghast/LVLUP /w me for more info", -- [1]
+			"Titanwarrior-Kazzak", -- [2]
 			"", -- [3]
 			"2. Trade - City", -- [4]
-			"Dawnholly-Kazzak", -- [5]
+			"Titanwarrior-Kazzak", -- [5]
 			"", -- [6]
 			2, -- [7]
 			2, -- [8]
 			"Trade - City", -- [9]
 			0, -- [10]
-			403, -- [11]
-			"Player-1305-0C15623C", -- [12]
+			3297, -- [11]
+			"Player-1305-0AC56D69", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			true, -- [17]
-			[52] = "|cff00fe97Dawnholly|r",
-			[51] = 1636753883,
+			[52] = "|cffc59a6cTitanwarrior|r",
+			[51] = 1639954425,
 			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [35]
 		{
-			"<V O I D > [+15 Intime=110k] [ FLASH DEALS 4 X 15 INTIME = 396K + ARMOR STACK ( JUST TODAY ) [4x+14=360k+ArmorStack][4x+12=306k+ArmorStack[4x+10=252k+ArmorStack][Tazavash HM=180k]50-60Lv=675k]Thorgast 2x12=90k /w", -- [1]
-			"Voidkeey-Kazzak", -- [2]
+			"WTS 2v2 arena help 0-1400/ 0-1600 GOLD only.. /w for info!", -- [1]
+			"Madbite-Kazzak", -- [2]
 			"", -- [3]
 			"2. Trade - City", -- [4]
-			"Voidkeey-Kazzak", -- [5]
+			"Madbite-Kazzak", -- [5]
 			"", -- [6]
 			2, -- [7]
 			2, -- [8]
 			"Trade - City", -- [9]
 			0, -- [10]
-			407, -- [11]
-			"Player-1305-0C0CE5B4", -- [12]
+			3298, -- [11]
+			"Player-1305-0C1C6D03", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			true, -- [17]
-			[52] = "|cfffef367Voidkeey|r",
-			[51] = 1636753885,
+			[52] = "|cfffe7b09Madbite|r",
+			[51] = 1639954426,
 			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [36]
 		{
-			"M+15 Only 100k in Time Guarantee + FREE Armor Stack + Free Specific Key || Best Discounts For Multiple Runs || 2x15 = 195k || 4x15 = 390 || KSM 8x15 = 750k || Also Seling Tazavesh ,Torghast ,Levelup boost,Also Renown Farm /W Me", -- [1]
-			"Archneê-Kazzak", -- [2]
+			"< N O V A > |cff66bbff|Hjournal:0:1193:14|h[Sanctum of Domination]|h|r[10/10 HC = 210k+VIP]Both 80k /10/10 Mythic 8800K]FREE ARMOR+15 INTIME 105k ][SPECIAL DEALS 4X15=378K +20=520K 24=1550k & KSH/Tazavash HM=190k]50-60Lv=550k]Thorgast 2x12=95k]PVP]/W", -- [1]
+			"Novaservize-Kazzak", -- [2]
 			"", -- [3]
 			"2. Trade - City", -- [4]
-			"Archneê-Kazzak", -- [5]
+			"Novaservize-Kazzak", -- [5]
 			"", -- [6]
 			2, -- [7]
 			2, -- [8]
 			"Trade - City", -- [9]
 			0, -- [10]
-			411, -- [11]
-			"Player-1305-0A3DC900", -- [12]
+			3304, -- [11]
+			"Player-1305-0C1B307B", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			true, -- [17]
-			[52] = "|cffa22fc8Archneê|r",
-			[51] = 1636753890,
+			[52] = "|cfffef367Novaservize|r",
+			[51] = 1639954432,
 			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [37]
 		{
-			"• WTS |cff66bbff|Hjournal:0:1193:15|h[Sanctum of Domination]|h|r Mythic Guild run 10/10 + Loot + Mount available • No requirements • Buy on PewPewShop.pro•", -- [1]
-			"Josseffa-Kazzak", -- [2]
+			"M+15 100 k in Time + FREE Armor  -  4x15 = 390k || M+14-22 ||M+20 = 350k || Leveling 50 - 60 || Also Offering Legion TIMEWALKING M+15  || only for gold|| /w info", -- [1]
+			"Ayvn-Kazzak", -- [2]
 			"", -- [3]
 			"2. Trade - City", -- [4]
-			"Josseffa-Kazzak", -- [5]
+			"Ayvn-Kazzak", -- [5]
 			"", -- [6]
 			2, -- [7]
 			2, -- [8]
 			"Trade - City", -- [9]
 			0, -- [10]
-			413, -- [11]
-			"Player-1305-0C184D65", -- [12]
+			3358, -- [11]
+			"Player-1305-0BC627CC", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			true, -- [17]
-			[52] = "|cffc59a6cJosseffa|r",
-			[51] = 1636753892,
+			[52] = "|cfff38bb9Ayvn|r",
+			[51] = 1639954469,
 			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [38]
 		{
-			"<DAWN>WTS<M+15=120k> <4x15=420k> <8x15=850k> <KSM=1700k> <KSH=3850k> <Tazavesh HM=200k> |cff66bbff|Hjournal:0:1193:14|h[Sanctum of Domination]|h|r<10/10M><10/10HC=300k /VIP Traders=200k> <KT=45k> <SYLVANAS=50K> <Last Two Bosses=85k> <L12 Torghast=50k>", -- [1]
-			"Drawdawn-Kazzak", -- [2]
+			"< Gt > WTS 15-25 In Time Guarantee M+15 = 110k // M+22 = 750k // M+21 = 600k // M+20 = 480K // M+19 = 450k // M+18 = 290K // M+17 = 190K // FREE SPECIFiC KEY // 8X20 ALl dung // KSM 8X15 // 4X15 = 430K // 5X15 = 520k // FREE ARMOR STACK // TORGHAST //W", -- [1]
+			"Gtboost-Kazzak", -- [2]
 			"", -- [3]
 			"2. Trade - City", -- [4]
-			"Drawdawn-Kazzak", -- [5]
+			"Gtboost-Kazzak", -- [5]
 			"", -- [6]
 			2, -- [7]
 			2, -- [8]
 			"Trade - City", -- [9]
 			0, -- [10]
-			416, -- [11]
-			"Player-1305-0C190C6C", -- [12]
+			3363, -- [11]
+			"Player-1305-0C1BB9E8", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			true, -- [17]
-			[52] = "|cff00fe97Drawdawn|r",
-			[51] = 1636753895,
+			[52] = "|cfffe7b09Gtboost|r",
+			[51] = 1639954472,
 			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [39]
 		{
-			"<NOVA> HC |cff66bbff|Hjournal:0:1193:14|h[Sanctum of Domination]|h|r 300k  Sylvanas 50k  <Last 2=85k>  <M+15=115k>  <KSM 16x +15 =1750k>  <Mythic 10/10 Raid>  <8x +20 =3900k>  /w me for info.", -- [1]
-			"Novadwl-Kazzak", -- [2]
+			"[WТS] Sanctum of Domination HС Carry Tonight! Order a Trial run to test our service with no risks! Up to 12 guild runs daily. Get 239-246 ilvl gear and AOTC. We have over 17805 Trustpilot reviews. Visit WowVendor.org for more info!", -- [1]
+			"Mogifuiko-Kazzak", -- [2]
 			"", -- [3]
 			"2. Trade - City", -- [4]
-			"Novadwl-Kazzak", -- [5]
+			"Mogifuiko-Kazzak", -- [5]
 			"", -- [6]
 			2, -- [7]
 			2, -- [8]
 			"Trade - City", -- [9]
 			0, -- [10]
-			417, -- [11]
-			"Player-1305-0C044BE6", -- [12]
+			3367, -- [11]
+			"Player-1305-0C1D1E2D", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			true, -- [17]
-			[52] = "|cff006fdcNovadwl|r",
-			[51] = 1636753896,
+			[52] = "|cfffe7b09Mogifuiko|r",
+			[51] = 1639954476,
 			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [40]
 		{
-			"<SYLVANAS>//\\\\ |cff66bbff|Hjournal:0:1193:14|h[Sanctum of Domination]|h|r  HC10/10<-280k-> //\\\\With 1 VIP Trader=<-460k->//\\\\ (Sylvanas=<50k> Kelt=<45k>> Both=<85k>) //\\\\ M15 =<120k> //\\\\  4x15 = <420k> //\\\\ Tazavesh  //\\\\ <KSM> //\\\\ Torghast/PVP", -- [1]
-			"Slybroxy-Kazzak", -- [2]
+			"~DAWN COMMUNITY~  |cffffff00|Hachievement:15128:Player-1084-08DEDC99:0:0:0:-1:0:0:0:0|h[Mythic: Sanctum of Domination]|h|r TODAY ||  Full HEROIC 10/10   +  VIP TRADER   ||  Full MYTHIC 10/10  +  2x Free VIP Trader & Mount   /|cff66bbff|Hjournal:1:2440:14|h[Kel'Thuzad]|h|r + |cff66bbff|Hjournal:1:2441:14|h[Sylvanas Windrunner]|h|r  HC  << 80K >>  ||  4x15 = 400k  /  KORTHIA Farm  /  WHIS ME  BOOK", -- [1]
+			"Dawniboost-Kazzak", -- [2]
 			"", -- [3]
 			"2. Trade - City", -- [4]
-			"Slybroxy-Kazzak", -- [5]
+			"Dawniboost-Kazzak", -- [5]
 			"", -- [6]
 			2, -- [7]
 			2, -- [8]
 			"Trade - City", -- [9]
 			0, -- [10]
-			422, -- [11]
-			"Player-1305-0C1171BC", -- [12]
+			3369, -- [11]
+			"Player-1305-0C0C09CC", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			true, -- [17]
-			[52] = "|cff006fdcSlybroxy|r",
-			[51] = 1636753903,
+			[52] = "|cfffe7b09Dawniboost|r",
+			[51] = 1639954477,
 			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [41]
 		{
-			"<V O I D >0-22 Keys FREE ARMOR & FLASH DEALS +15 INTIME 110k ] 2x15 =209K [SPECIAL DEALS 4X15=396K / 5x15=482K]6x15 =578K]7x=674k] 8x15=770k  Tazavash HM=180k]50-60Lv=675k]Thorgast 2x12=90k ]PVP]  /W", -- [1]
-			"Voidsale-Kazzak", -- [2]
+			"<< DAWN™ >> SELLING Full |cffffff00|Hachievement:15128:Player-1305-0C113330:0:0:0:-1:0:0:0:0|h[Mythic: Sanctum of Domination]|h|r  / <10/10M + 2xVIP 8.8M>  /  <10/10 HC 210K>  VIP +160k =  ( 3xVIP=680K )  ( 5xVIP=1000k )  ||   LAST 2 BOSS HC  |cff66bbff|Hjournal:1:2440:14|h[Kel'Thuzad]|h|r +  |cff66bbff|Hjournal:1:2441:14|h[Sylvanas Windrunner]|h|r  << 80K >>  ||  4x15 = 400K  || Whis For SPOT", -- [1]
+			"Dawnholly-Kazzak", -- [2]
 			"", -- [3]
 			"2. Trade - City", -- [4]
-			"Voidsale-Kazzak", -- [5]
+			"Dawnholly-Kazzak", -- [5]
 			"", -- [6]
 			2, -- [7]
 			2, -- [8]
 			"Trade - City", -- [9]
 			0, -- [10]
-			431, -- [11]
-			"Player-1305-0C163647", -- [12]
+			3371, -- [11]
+			"Player-1305-0C15623C", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			true, -- [17]
-			[52] = "|cfffef367Voidsale|r",
-			[51] = 1636753910,
+			[52] = "|cff00fe97Dawnholly|r",
+			[51] = 1639954478,
 			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [42]
 		{
-			"wts |cffffff00|Hachievement:5356:Player-1305-0C18BBDF:0:0:0:-1:0:0:0:0|h[High Warlord]|h|r |cffffff00|Hachievement:2091:Player-1305-0C18BBDF:0:0:0:-1:0:0:0:0|h[Gladiator]|h|r pvp boosting any rating for vendors rewards /w me grp ready infos", -- [1]
-			"Exterimentsa-Kazzak", -- [2]
+			"<DAWN> [Sanctum of Domination] 10/10 HC 210k <Trader 160k> <+15 115K> <4x15 400k><+20 520k> [Ahead of the Curve: Sylvanas Windrunner] <Sylvanas + KT 80k>  PVP /Torghast/LVLUP /w me for more info", -- [1]
+			"Titanwarrior-Kazzak", -- [2]
 			"", -- [3]
 			"2. Trade - City", -- [4]
-			"Exterimentsa-Kazzak", -- [5]
+			"Titanwarrior-Kazzak", -- [5]
 			"", -- [6]
 			2, -- [7]
 			2, -- [8]
 			"Trade - City", -- [9]
 			0, -- [10]
-			433, -- [11]
-			"Player-1305-0C18BBDF", -- [12]
+			3372, -- [11]
+			"Player-1305-0AC56D69", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			true, -- [17]
-			[52] = "|cffc59a6cExterimentsa|r",
-			[51] = 1636753912,
+			[52] = "|cffc59a6cTitanwarrior|r",
+			[51] = 1639954478,
 			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [43]
 		{
-			"<NOVA> Offering HC Sanctum 300k  <2x VIP Traders Discount>  <Sylvanas->50k  Kel-45k  <Last2->85k   <M+15=115k>  <4x+15=414k Free Armor>  <Tazavesh->Hard-190k   <KSM 16x +15 intime =1750k>  <KSH 8x +20 intime=3900k> Torg-PvP-Lvl /w me info.", -- [1]
-			"Novadevo-Kazzak", -- [2]
+			"< NOVA > Offering < Mythic 0-24 InTime >|| M+14 100K || < M+15 105K > || < |cff66bbff|Hjournal:0:1193:14|h[Sanctum of Domination]|h|rHC 210K > || KT 40K , SylvanasHC 50K < Last 2 80K > || < Tazavesh NM & HM > || <Torghast> || <PvP> || <Leveling> /W Me!", -- [1]
+			"Holypristnbc-Kazzak", -- [2]
 			"", -- [3]
 			"2. Trade - City", -- [4]
-			"Novadevo-Kazzak", -- [5]
+			"Holypristnbc-Kazzak", -- [5]
 			"", -- [6]
 			2, -- [7]
 			2, -- [8]
 			"Trade - City", -- [9]
 			0, -- [10]
-			437, -- [11]
-			"Player-1305-0C182879", -- [12]
+			3377, -- [11]
+			"Player-1305-0C15832F", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			true, -- [17]
-			[52] = "|cff8687edNovadevo|r",
-			[51] = 1636753915,
+			[52] = "|cfffefefeHolypristnbc|r",
+			[51] = 1639954483,
 			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [44]
 		{
-			"<V O I D >0-22 Keys FREE ARMOR & FLASH DEALS +15 INTIME 110k ] 2x15 =209K [SPECIAL DEALS 4X15=396K / 5x15=482K]6x15 =578K]7x=674k] 8x15=770k  Tazavash HM=180k]50-60Lv=675k]Thorgast 2x12=90k ]PVP]  /W", -- [1]
-			"Voidpolter-Kazzak", -- [2]
+			"<SYLVANAS>//\\\\  |cff66bbff|Hjournal:0:1193:14|h[Sanctum of Domination]|h|r  HC10/10<-200k-> //\\\\With 1 VIP Trader=<-380k->//\\\\ (Sylvanas=<50k> Kelt=<40k>> Both=<80k>) //\\\\ M15 =<100k> //\\\\  4x15 = <360k> //\\\\ Mythic SoD  //\\\\ <KSM> //\\\\ Torghast/PVP //\\", -- [1]
+			"Slybroxy-Kazzak", -- [2]
 			"", -- [3]
 			"2. Trade - City", -- [4]
-			"Voidpolter-Kazzak", -- [5]
+			"Slybroxy-Kazzak", -- [5]
 			"", -- [6]
 			2, -- [7]
 			2, -- [8]
 			"Trade - City", -- [9]
 			0, -- [10]
-			440, -- [11]
-			"Player-1305-0C10B6A6", -- [12]
+			3379, -- [11]
+			"Player-1305-0C1171BC", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			true, -- [17]
-			[52] = "|cff8687edVoidpolter|r",
-			[51] = 1636753919,
+			[52] = "|cff006fdcSlybroxy|r",
+			[51] = 1639954484,
 			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [45]
 		{
-			"<NOVA> || Sanctum Heroic 300k || Trader 180k || Curve 50k|| Last 2 HC 85k || M+10 - 75k || M+12 - 90k || M+14 - 105k || M+15 - 115k || KeyStone Master - 1750k || KeyStone Hero - 3900k || Tazavesh HM 190k ||  Discount For Multi Runs", -- [1]
-			"Novajuno-Kazzak", -- [2]
+			"WTS 2v2 arena help 0-1400/ 0-1600 GOLD only.. /w for info!", -- [1]
+			"Madbite-Kazzak", -- [2]
 			"", -- [3]
 			"2. Trade - City", -- [4]
-			"Novajuno-Kazzak", -- [5]
+			"Madbite-Kazzak", -- [5]
 			"", -- [6]
 			2, -- [7]
 			2, -- [8]
 			"Trade - City", -- [9]
 			0, -- [10]
-			442, -- [11]
-			"Player-1305-0C0C12CC", -- [12]
+			3382, -- [11]
+			"Player-1305-0C1C6D03", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			true, -- [17]
-			[52] = "|cff00fe97Novajuno|r",
-			[51] = 1636753919,
+			[52] = "|cfffe7b09Madbite|r",
+			[51] = 1639954487,
 			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [46]
 		{
-			"< NOVA > is OFFERING || Sanctum HC 300k|| || VIP Traders Available || || Sanctum Mythic  || || M+15= 115k || M+20=560k || || KSM 16x M+15= 1750k+Stack || || KSH 8x M+20= 3900k || Torghast---Level UP ||  Tazavesh || || Sylv HC 50k--Last 2Boss HC 85k ||", -- [1]
-			"Novahuge-Kazzak", -- [2]
+			"<DAWN> IS OFFERING <|cffffff00|Hachievement:15127:Player-1305-0C0B5F54:1:9:22:21:4294967295:4294967295:4294967295:4294967295|h[Heroic: Sanctum of Domination]|h|r 210K > <VIP Trader 160k> [ Sylavnas 50k><KT 40K><Both 80K ] || M+15=115k <M+14=100K> <Armor Stack> || 4x15 400K || <M+16=170k> <M+17=210k><M+18=310k>||LVLUP 51/60|| Also Selling |cffffff00|Hachievement:12568:Player-1305-0C0B5F54:1:9:22:19:4294967295:4294967295:4294967295:4294967295|h[The Alliance Slayer]|h|r ", -- [1]
+			"Jeoo-Kazzak", -- [2]
 			"", -- [3]
 			"2. Trade - City", -- [4]
-			"Novahuge-Kazzak", -- [5]
+			"Jeoo-Kazzak", -- [5]
 			"", -- [6]
 			2, -- [7]
 			2, -- [8]
 			"Trade - City", -- [9]
 			0, -- [10]
-			443, -- [11]
-			"Player-1305-0C0F5C63", -- [12]
+			3383, -- [11]
+			"Player-1305-0C0B5F54", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			true, -- [17]
-			[52] = "|cff00fe97Novahuge|r",
-			[51] = 1636753920,
+			[52] = "|cff3ec6eaJeoo|r",
+			[51] = 1639954488,
 			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [47]
 		{
-			"<SYLVANAS> |cff66bbff|Hjournal:0:1193:14|h[Sanctum of Domination]|h|r10/10HC=<280k> + VIP Trader <FREE ARMOR STACK 2xM><-> M+15= < 120k > LAST 2 BOSS=<95k> <4x15 = 420K > <KSM>16x+15 intime <Mythic 10/10> M+20 = 560K /Tazavesh /Torghast/PVP w Me", -- [1]
-			"Sylvansell-Kazzak", -- [2]
+			"<NOVA > [+15 Intime=105k] [10/10 HC =210K / 10/10 Mythic =8,8M+Mount+2 VIP ] [Legion Mythic+ 15=185k weekly /260k intime ] [2x+15=200k] [4x+15 Intime=378K ]  [Taza HM=190k ] [Level/Mounts/Legacy/PVP] [EVERY 40 MIN KT+Sylva=80k ] [Layer 12x2=95k ] /w", -- [1]
+			"Novarand-Kazzak", -- [2]
 			"", -- [3]
 			"2. Trade - City", -- [4]
-			"Sylvansell-Kazzak", -- [5]
+			"Novarand-Kazzak", -- [5]
 			"", -- [6]
 			2, -- [7]
 			2, -- [8]
 			"Trade - City", -- [9]
 			0, -- [10]
-			444, -- [11]
-			"Player-1305-0C0D671C", -- [12]
+			3384, -- [11]
+			"Player-1305-0C1B30F7", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			true, -- [17]
-			[52] = "|cfffe7b09Sylvansell|r",
-			[51] = 1636753920,
+			[52] = "|cff8687edNovarand|r",
+			[51] = 1639954489,
 			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [48]
 		{
-			"< NOVA > is OFFERING  Heroic |cff66bbff|Hjournal:0:1193:14|h[Sanctum of Domination]|h|r300k || VIP Traders Available || || Sanctum Mythic 8.8M + 2x VIP || || M+15= 115k || KSM 16xM+15=1750k || KSH 8xM+20=3900k || Torghast || Last 2Bosss HC 85k ||", -- [1]
-			"Novaalphaz-Kazzak", -- [2]
+			"<NOVA> Offering HC Sanctum 210k  <2x VIP Traders Discount>  <Sylvanas->50k  Kel-40k  <Last2->80k  <M+15=100k>  <4x+15=375k>  <Legion M+15=185k>  <Tazavesh->Hard-190k  <KSM 16x +15 intime =1700k>  <KSH 8x +20 intime=3600k> Trghst - PvP -Lvl /w me info.", -- [1]
+			"Novadevo-Kazzak", -- [2]
 			"", -- [3]
 			"2. Trade - City", -- [4]
-			"Novaalphaz-Kazzak", -- [5]
+			"Novadevo-Kazzak", -- [5]
 			"", -- [6]
 			2, -- [7]
 			2, -- [8]
 			"Trade - City", -- [9]
 			0, -- [10]
-			445, -- [11]
-			"Player-1305-0C0FBF6D", -- [12]
+			3385, -- [11]
+			"Player-1305-0C182879", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			true, -- [17]
-			[52] = "|cfffef367Novaalphaz|r",
-			[51] = 1636753922,
+			[52] = "|cff8687edNovadevo|r",
+			[51] = 1639954492,
 			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [49]
 		{
-			"<<NOVA>>SELLING HEROIC|cff66bbff|Hjournal:0:1193:14|h[Sanctum of Domination]|h|r300k+ VIP TRADERS AVAILABLE---<M+15=115k><M+20=560k><Multi Run Has DISCOUNT+Free Armor STACK><KSM 16xM+15= 1750k><KSH 8xM+20=3900k><Tazavesh><Torghast>< Last 2 HC 85k>", -- [1]
-			"Novabeta-Kazzak", -- [2]
+			"<DAWN> IS OFFERING <|cffffff00|Hachievement:15127:Player-1305-0C19D74C:0:0:0:-1:0:0:0:0|h[Heroic: Sanctum of Domination]|h|r 210K > <VIP Trader 160k> [ Sylavnas 50k><KT 40K><Both 80K ] || M+15=115k <M+14=100K> <Armor Stack> || 4x15 400K || <M+16=170k> <M+17=210k><M+18=310k>||LVLUP 51/60|| Also Selling |cffffff00|Hachievement:12568:Player-1305-0C19D74C:0:0:0:-1:0:0:0:0|h[The Alliance Slayer]|h|r ", -- [1]
+			"Dawnjeeoo-Kazzak", -- [2]
 			"", -- [3]
 			"2. Trade - City", -- [4]
-			"Novabeta-Kazzak", -- [5]
+			"Dawnjeeoo-Kazzak", -- [5]
 			"", -- [6]
 			2, -- [7]
 			2, -- [8]
 			"Trade - City", -- [9]
 			0, -- [10]
-			449, -- [11]
-			"Player-1305-0C105E2F", -- [12]
+			3386, -- [11]
+			"Player-1305-0C19D74C", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			true, -- [17]
-			[52] = "|cff00fe97Novabeta|r",
-			[51] = 1636753924,
+			[52] = "|cff006fdcDawnjeeoo|r",
+			[51] = 1639954493,
 			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [50]
 		{
-			"WTS ((      TORGHAS T     )) ALL LAYER 2x12 or normal come and get your unlimited |cffff8000|Hcurrency:1828:0|h[Soul Ash]|h|r&   |cffff8000|Hcurrency:1906:0|h[Soul Cinders]|h|r without cap you can make 262 item right now fast & cheap w / info", -- [1]
-			"Lion-Kazzak", -- [2]
+			"Nova Offering<|cff66bbff|Hjournal:0:1193:15|h[Sanctum of Domination]|h|rMythic-HC 210k VIP-160k><4x15=360k><M+15=100k><M+20=520k><M+19=450k> <M+18=300k><M+17=210k><KSH 8x+20=3600k><KSM |cffffff00|Hachievement:15078:Player-1305-0C15B90E:0:0:0:0:0:0:0:0|h[Shadowlands Keystone Master: Season Two]|h|r8x+15=810k><LVLING 50-60=550K> <PVP><TORGHST><LEGACY><MOUNT>", -- [1]
+			"Bonecrasherr-Kazzak", -- [2]
 			"", -- [3]
 			"2. Trade - City", -- [4]
-			"Lion-Kazzak", -- [5]
+			"Bonecrasherr-Kazzak", -- [5]
 			"", -- [6]
 			2, -- [7]
 			2, -- [8]
 			"Trade - City", -- [9]
 			0, -- [10]
-			455, -- [11]
-			"Player-1305-0885C593", -- [12]
+			3388, -- [11]
+			"Player-1305-0C1A37EC", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			true, -- [17]
-			[52] = "|cffa22fc8Lion|r",
-			[51] = 1636753929,
+			[52] = "|cff00fe97Bonecrasherr|r",
+			[51] = 1639954493,
 			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [51]
 		{
-			"<V O I D > [+15 Intime=125k //Weekly+15= 115K] [4x+15=450k+ArmorStack][4x+14=360k+ArmorStack][4x+12=306k+ArmorStack][4x+10=252k+ArmorStack][Tazavash HM=180k]50-60Lv=675k]Thorgast 2x12=90k /w", -- [1]
-			"Voidkey-Kazzak", -- [2]
+			"<NOVA> SALE!!!! HEROIC 10/10 |cff66bbff|Hjournal:0:1193:15|h[Sanctum of Domination]|h|r] 210k -  PVP--/ Sylvanas HC 50 /Sylvanas+Kel 80k/M+15 105k /M+16 165k /M+17 210k /M+18 300k / M19 450k /M+20 520k/KSH 8/8  All +20 3600k/Legion m+", -- [1]
+			"Novacrazys-Kazzak", -- [2]
 			"", -- [3]
 			"2. Trade - City", -- [4]
-			"Voidkey-Kazzak", -- [5]
+			"Novacrazys-Kazzak", -- [5]
 			"", -- [6]
 			2, -- [7]
 			2, -- [8]
 			"Trade - City", -- [9]
 			0, -- [10]
-			469, -- [11]
-			"Player-1305-0C08BAF2", -- [12]
+			3392, -- [11]
+			"Player-1305-0C1037CB", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			true, -- [17]
-			[52] = "|cff006fdcVoidkey|r",
-			[51] = 1636753940,
+			[52] = "|cff00fe97Novacrazys|r",
+			[51] = 1639954494,
 			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [52]
 		{
-			"<NOVA> |cff66bbff|Hjournal:0:1193:16|h[Sanctum of Domination]|h|r Heroic = 300k. || Trader = 180k || M+10 = 75k || M+12 = 90k || M+14 = 105k || M+15 = 115k || KeyStone Master = 1750k || KeyStone Hero = 3900k || Heroic Sylvanas 50k || Last 2 85k", -- [1]
-			"Novabest-Kazzak", -- [2]
+			"SYLVANAS / M+15 = 105K In Time /|cff66bbff|Hjournal:0:1193:14|h[Sanctum of Domination]|h|r HC-Mythic +TRADER /LAST 2BOSS EVERY 30 MIN /M+20 = 520K /M+19 = 450k /M+18 = 300k /FREE SPECIFIC KEY /KSM 16X15 /10X15=900k /4x15=360k /+ARMOR STACK /TORGHAST /W", -- [1]
+			"Sylvsbank-Kazzak", -- [2]
 			"", -- [3]
 			"2. Trade - City", -- [4]
-			"Novabest-Kazzak", -- [5]
+			"Sylvsbank-Kazzak", -- [5]
 			"", -- [6]
 			2, -- [7]
 			2, -- [8]
 			"Trade - City", -- [9]
 			0, -- [10]
-			471, -- [11]
-			"Player-1305-0BF51DB9", -- [12]
+			3394, -- [11]
+			"Player-1305-0C199D90", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			true, -- [17]
-			[52] = "|cff00fe97Novabest|r",
-			[51] = 1636753944,
+			[52] = "|cff00fe97Sylvsbank|r",
+			[51] = 1639954497,
 			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [53]
 		{
-			"NOVA || || BIG SALE Heroic 310k (Vip trader 180k) ||Heroic/Normal  <||> WTS HC Sylvanas 50k - HC KT 45k BOTH -90k ||TAZAVESH 90K-216K|| [M+10 85k]M+15 120k1|| KSM = 1750K KSH = 3900k [Torghast L1-L12 ] [2v2-3v3-Rbg]", -- [1]
-			"Novarite-Kazzak", -- [2]
+			"DAWN> Offering Today|cffffff00|Hachievement:15127:Player-1305-0BCEAB76:0:0:0:-1:0:0:0:0|h[Heroic: Sanctum of Domination]|h|r 210k @(14/16/19/21/23) //Full Mythic +Mount &VIP |cff66bbff|Hjournal:0:1193:14|h[Sanctum of Domination]|h|r /Sylvanas 50K |cff66bbff|Hjournal:1:2440:14|h[Kel'Thuzad]|h|r 40K(Both 80K) /+15=110k (4x15=400K) +14=100K (4x14=360K) /+20=520K/ +20-26 intime+KSM//PVP/RBG", -- [1]
+			"Certihotdeal-Kazzak", -- [2]
 			"", -- [3]
 			"2. Trade - City", -- [4]
-			"Novarite-Kazzak", -- [5]
+			"Certihotdeal-Kazzak", -- [5]
 			"", -- [6]
 			2, -- [7]
 			2, -- [8]
 			"Trade - City", -- [9]
 			0, -- [10]
-			473, -- [11]
-			"Player-1305-0C030B54", -- [12]
+			3396, -- [11]
+			"Player-1305-0BCEAB76", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			true, -- [17]
-			[52] = "|cffc59a6cNovarite|r",
-			[51] = 1636753946,
+			[52] = "|cff3ec6eaCertihotdeal|r",
+			[51] = 1639954498,
 			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [54]
 		{
-			"<NOVA> !Big Sale! (Sanctum Heroic 280k-VIP Händler 180k)-[WTS HC Sylvanas 50K - HC KT 45K BOTH -90K]-[M+10 75K]-(M+15 W120K-115K)-(M+17 230K)-(M+20 570K)-||KSM 1750K||-||KSH 3900k/All 20||-[Torghast]-[2v2-3v3-Rbg]-(Sanctum Mythic 10/10)", -- [1]
-			"Ovaorc-Kazzak", -- [2]
+			"<Dawn> Offering |cff66bbff|Hjournal:0:1193:14|h[Sanctum of Domination]|h|r <10/10 Mythic + 2 Vips + Mount 8.8M> <10/10 HC 210K Vips available> <Sylvanas HC 50k> <KT 40> < Last 2 80K> <M+15 100K> <Torghast 8-12> <KSM 850K> <Korthia Rep Farm> <PVP> w/ me", -- [1]
+			"Dawnabsolute-Kazzak", -- [2]
 			"", -- [3]
 			"2. Trade - City", -- [4]
-			"Ovaorc-Kazzak", -- [5]
+			"Dawnabsolute-Kazzak", -- [5]
 			"", -- [6]
 			2, -- [7]
 			2, -- [8]
 			"Trade - City", -- [9]
 			0, -- [10]
-			474, -- [11]
-			"Player-1305-0C063C53", -- [12]
+			3397, -- [11]
+			"Player-1305-0C1DC092", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			true, -- [17]
-			[52] = "|cffc59a6cOvaorc|r",
-			[51] = 1636753946,
+			[52] = "|cff006fdcDawnabsolute|r",
+			[51] = 1639954498,
 			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [55]
 		{
-			"<DAWN>[WTS]|cff66bbff|Hjournal:0:1193:15|h[Sanctum of Domination]|h|r<10/10M 9M+Mount+Traders><HC 10/10 300k><VIP Traders 200k><KT 45k><Sylvanas 50k><Both 85k>|cffffff00|Hachievement:15134:Player-1305-0C09501E:0:0:0:-1:0:0:0:0|h[Ahead of the Curve: Sylvanas Windrunner]|h|r<8x15 KSM 875k><M20 560k><M15 120k><4x 15 420k><10x15 1000k><Torghast 2xL12 90k>", -- [1]
-			"Cendawyth-Kazzak", -- [2]
+			"<Dawn> [WTS]|cffffff00|Hachievement:15134:Player-1305-0A212ADE:1:9:9:21:0:0:0:0|h[Ahead of the Curve: Sylvanas Windrunner]|h|r<Sylvanas HC  50k> <KT HC 40k> <Both 80k>|cff66bbff|Hjournal:0:1193:15|h[Sanctum of Domination]|h|r<10/10m+mount><hc10/10 210k><VIP Traders160k><8x15 KSM850k><M20 520k><M15 100k><4x15 400k><LEGION M15 180k><torghast2xL12 70k>", -- [1]
+			"Shahramstorm-Kazzak", -- [2]
 			"", -- [3]
 			"2. Trade - City", -- [4]
-			"Cendawyth-Kazzak", -- [5]
+			"Shahramstorm-Kazzak", -- [5]
 			"", -- [6]
 			2, -- [7]
 			2, -- [8]
 			"Trade - City", -- [9]
 			0, -- [10]
-			476, -- [11]
-			"Player-1305-0BC9383B", -- [12]
+			3401, -- [11]
+			"Player-1305-0A212ADE", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			true, -- [17]
-			[52] = "|cffa9d271Cendawyth|r",
-			[51] = 1636753949,
+			[52] = "|cff006fdcShahramstorm|r",
+			[51] = 1639954499,
 			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [56]
 		{
-			"<SYLVANAS> M+15= < 120k > |cff66bbff|Hjournal:0:1193:14|h[Sanctum of Domination]|h|r 10/10HC=<280k> + VIP Trader <FREE ARMOR STACK 2XM><-> LAST 2 BOSS=<95k> <4x15 = 420K > <KSM>16x+15 intime <Mythic 10/10> M+20 = 560K /Tazavesh /Torghast/PVP w Me", -- [1]
-			"Sylvanasell-Kazzak", -- [2]
+			"Nova Offering<|cff66bbff|Hjournal:0:1193:14|h[Sanctum of Domination]|h|rMythic-HC 210k VIP-160k><4x15=360k><M+15=100k><M+20=520k><M+19=450k> <M+18=300k><M+17=210k><KSH 8x+20=3600k><KSM |cffffff00|Hachievement:15078:Player-1305-0C15B90E:0:0:0:0:0:0:0:0|h[Shadowlands Keystone Master: Season Two]|h|r8x+15=810k><LVLING 50-60=550K> <PVP><TORGHST><LEGACY><MOUNT>", -- [1]
+			"Samuee-Kazzak", -- [2]
 			"", -- [3]
 			"2. Trade - City", -- [4]
-			"Sylvanasell-Kazzak", -- [5]
+			"Samuee-Kazzak", -- [5]
 			"", -- [6]
 			2, -- [7]
 			2, -- [8]
 			"Trade - City", -- [9]
 			0, -- [10]
-			479, -- [11]
-			"Player-1305-0C076620", -- [12]
+			3402, -- [11]
+			"Player-1305-0C15B90E", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			true, -- [17]
-			[52] = "|cfffe7b09Sylvanasell|r",
-			[51] = 1636753951,
+			[52] = "|cff00fe97Samuee|r",
+			[51] = 1639954501,
 			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [57]
 		{
-			"<< DAWN™ >> OFFERING Full |cffffff00|Hachievement:15128:Player-1305-0C113330:0:0:0:-1:0:0:0:0|h[Mythic: Sanctum of Domination]|h|r / <10/10M + 2xVIP 9M>   /   <10/10 HC 300K>  VIP +180k =  (  3xVIP=850K  )  ( 5xVIP=1150k )  ||  LAST 2 BOSS HC  |cff66bbff|Hjournal:1:2440:14|h[Kel'Thuzad]|h|r  +  |cff66bbff|Hjournal:1:2441:14|h[Sylvanas Windrunner]|h|r << 85K >>   EVERY 30 Mins || Whis For SPOT", -- [1]
-			"Dawnholly-Kazzak", -- [2]
+			"< N O V A > CURVE BOTH 80k & 10/10 HC 210k / 0-24 Keys FREE ARMOR+15 INTIME 105k 2x15=200K [SPECIAL DEALS 4X15=378K/5x15=460K]6x15 =552K]7x=644k] 8x15=735k 16=165k 17=210k 18=300k 19=450k 20=520k Tazavash HM=190k]50-60Lv=550k]Thorgast 2x12=95k]PVP]", -- [1]
+			"Novaserviz-Kazzak", -- [2]
 			"", -- [3]
 			"2. Trade - City", -- [4]
-			"Dawnholly-Kazzak", -- [5]
+			"Novaserviz-Kazzak", -- [5]
 			"", -- [6]
 			2, -- [7]
 			2, -- [8]
 			"Trade - City", -- [9]
 			0, -- [10]
-			480, -- [11]
-			"Player-1305-0C15623C", -- [12]
+			3424, -- [11]
+			"Player-1305-0C1B3078", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			true, -- [17]
-			[52] = "|cff00fe97Dawnholly|r",
-			[51] = 1636753951,
+			[52] = "|cff00fe97Novaserviz|r",
+			[51] = 1639954522,
 			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [58]
 		{
-			"• WTS |cff66bbff|Hjournal:0:1193:15|h[Sanctum of Domination]|h|r Mythic Guild run 10/10 + Loot + Mount available • No requirements • Buy on PewPewShop.pro•", -- [1]
-			"Josseffa-Kazzak", -- [2]
+			"<SYLVANAS> WTS M15 135k intime (125k weekly )|| M14 115k M10 75k { TAZAVESH HM|||cff66bbff|Hjournal:0:1193:14|h[Sanctum of Domination]|h|r HC ||2 last boss every 20 min.. torghast / lvling /w me for more info.   ", -- [1]
+			"Silviananas-Kazzak", -- [2]
 			"", -- [3]
 			"2. Trade - City", -- [4]
-			"Josseffa-Kazzak", -- [5]
+			"Silviananas-Kazzak", -- [5]
 			"", -- [6]
 			2, -- [7]
 			2, -- [8]
 			"Trade - City", -- [9]
 			0, -- [10]
-			483, -- [11]
-			"Player-1305-0C184D65", -- [12]
+			3427, -- [11]
+			"Player-1305-0BF20764", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			true, -- [17]
-			[52] = "|cffc59a6cJosseffa|r",
-			[51] = 1636753955,
+			[52] = "|cff006fdcSilviananas|r",
+			[51] = 1639954525,
 			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [59]
 		{
-			"wts |cffffff00|Hachievement:5356:Player-1305-0C18BBDF:0:0:0:-1:0:0:0:0|h[High Warlord]|h|r |cffffff00|Hachievement:2091:Player-1305-0C18BBDF:0:0:0:-1:0:0:0:0|h[Gladiator]|h|r pvp boosting any rating for vendors rewards /w me grp ready infos", -- [1]
-			"Exterimentsa-Kazzak", -- [2]
+			"wtb guild signs 500g eahc", -- [1]
+			"Whx-Kazzak", -- [2]
 			"", -- [3]
 			"2. Trade - City", -- [4]
-			"Exterimentsa-Kazzak", -- [5]
+			"Whx-Kazzak", -- [5]
 			"", -- [6]
 			2, -- [7]
 			2, -- [8]
 			"Trade - City", -- [9]
 			0, -- [10]
-			486, -- [11]
-			"Player-1305-0C18BBDF", -- [12]
+			3430, -- [11]
+			"Player-1305-09D669F3", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			true, -- [17]
-			[52] = "|cffc59a6cExterimentsa|r",
-			[51] = 1636753958,
+			[52] = "|cff00fe97Whx|r",
+			[51] = 1639954528,
 			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [60]
 		{
-			"<V O I D > [+15 Intime=110k] [ FLASH DEALS 4 X 15 INTIME = 396K + ARMOR STACK ( JUST TODAY ) [4x+14=360k+ArmorStack][4x+12=306k+ArmorStack[4x+10=252k+ArmorStack][Tazavash HM=180k]50-60Lv=675k]Thorgast 2x12=90k /w", -- [1]
-			"Voidkeey-Kazzak", -- [2]
+			"|cffffd100|HclubFinder:ClubFinder-1-268817-1305-66417968|h[Guild: Casuals]|h|r just started up again. We're planning to do Normal/Heroic raiding eventually from 20-23, but focus on M+ while starting up. Grab a beer and join us :)", -- [1]
+			"Slothe-Kazzak", -- [2]
 			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Voidkeey-Kazzak", -- [5]
+			"4. LookingForGroup", -- [4]
+			"Slothe-Kazzak", -- [5]
 			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
+			26, -- [7]
+			4, -- [8]
+			"LookingForGroup", -- [9]
 			0, -- [10]
-			487, -- [11]
-			"Player-1305-0C0CE5B4", -- [12]
+			3442, -- [11]
+			"Player-1305-09999D89", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			true, -- [17]
-			[52] = "|cfffef367Voidkeey|r",
-			[51] = 1636753958,
+			false, -- [17]
+			[52] = "|cfffe7b09Slothe|r",
+			[51] = 1639954641,
 			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [61]
 		{
-			"<SYLVANAS> M+15 = <120k> <-> <FREE ARMOR STACK 2xM> 4x+15 = <420k> <-> <16x+15 = 1750k> <-> 8x+20 = 3900k <Myhthic 10/10 & Sylvanas Mount> LAST 2 BOSS = <85k> <-> SoD 10/10HC = <280k> + VIP Trader /Torghast/Tazavesh/ W me!", -- [1]
-			"Sylvnsell-Kazzak", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Sylvnsell-Kazzak", -- [5]
+			"Losarz I just gave you |cff71d5ff|Hspell:10060:0|h[Power Infusion]|h|r", -- [1]
+			"Angelien-Kazzak", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Angelien-Kazzak", -- [5]
 			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			488, -- [11]
-			"Player-1305-0C12FC41", -- [12]
+			3454, -- [11]
+			"Player-1305-0BE9F984", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			true, -- [17]
-			[52] = "|cff006fdcSylvnsell|r",
-			[51] = 1636753958,
-			[50] = "CHAT_MSG_CHANNEL",
+			false, -- [17]
+			[52] = "|cfffefefeAngelien|r",
+			[51] = 1639954719,
+			[50] = "CHAT_MSG_YELL",
 		}, -- [62]
 		{
-			"NOVA || || BIG SALE Heroic 310k (Vip trader 180k) ||Heroic/Normal  <||> WTS HC Sylvanas 50k - HC KT 45k BOTH -90k ||TAZAVESH 90K-216K|| [M+10 85k]M+15 120k1|| KSM = 1750K KSH = 3900k [Torghast L1-L12 ] [2v2-3v3-Rbg]", -- [1]
-			"Novamol-Kazzak", -- [2]
+			"%s has earned the achievement |cffffff00|Hachievement:14834:Player-1305-0B84648C:1:12:19:21:4294967295:4294967295:4294967295:4294967295|h[Bound with Purpose]|h|r!", -- [1]
+			"Takidari-Kazzak", -- [2]
 			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Novamol-Kazzak", -- [5]
+			"", -- [4]
+			"Takidari-Kazzak", -- [5]
 			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			492, -- [11]
-			"Player-1305-0C03F614", -- [12]
+			3472, -- [11]
+			"Player-1305-0B84648C", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			true, -- [17]
-			[52] = "|cffa9d271Novamol|r",
-			[51] = 1636753964,
-			[50] = "CHAT_MSG_CHANNEL",
+			false, -- [17]
+			[52] = "|cffa22fc8Takidari|r",
+			[51] = 1639951230,
+			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
 		}, -- [63]
 		{
-			"<SYLVANAS>//\\\\ |cff66bbff|Hjournal:0:1193:14|h[Sanctum of Domination]|h|r  HC10/10<-280k-> //\\\\With 1 VIP Trader=<-460k->//\\\\ (Sylvanas=<50k> Kelt=<45k>> Both=<85k>) //\\\\ M15 =<120k> //\\\\  4x15 = <420k> //\\\\ Tazavesh  //\\\\ <KSM> //\\\\ Torghast/PVP", -- [1]
-			"Slybroxy-Kazzak", -- [2]
+			"%s has earned the achievement |cffffff00|Hachievement:14835:Player-1305-0B84648C:1:12:20:21:4294967295:4294967295:4294967295:4294967295|h[A Resolute Bond]|h|r!", -- [1]
+			"Takidari-Kazzak", -- [2]
 			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Slybroxy-Kazzak", -- [5]
+			"", -- [4]
+			"Takidari-Kazzak", -- [5]
 			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			494, -- [11]
-			"Player-1305-0C1171BC", -- [12]
+			3491, -- [11]
+			"Player-1305-0B84648C", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			true, -- [17]
-			[52] = "|cff006fdcSlybroxy|r",
-			[51] = 1636753965,
-			[50] = "CHAT_MSG_CHANNEL",
+			false, -- [17]
+			[52] = "|cffa22fc8Takidari|r",
+			[51] = 1639954885,
+			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
 		}, -- [64]
 		{
-			"<DAWN>WTS<M+15=120k> <4x15=420k> <8x15=850k> <KSM=1700k> <KSH=3850k> <Tazavesh HM=200k> |cff66bbff|Hjournal:0:1193:14|h[Sanctum of Domination]|h|r<10/10M><10/10HC=300k /VIP Traders=200k> <KT=45k> <SYLVANAS=50K> <Last Two Bosses=85k> <L12 Torghast=50k>", -- [1]
-			"Drawdawn-Kazzak", -- [2]
+			"%s has earned the achievement |cffffff00|Hachievement:14836:Player-1305-0B84648C:1:12:20:21:4294967295:4294967295:4294967295:4294967295|h[Unwavering Bond]|h|r!", -- [1]
+			"Takidari-Kazzak", -- [2]
 			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Drawdawn-Kazzak", -- [5]
+			"", -- [4]
+			"Takidari-Kazzak", -- [5]
 			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			496, -- [11]
-			"Player-1305-0C190C6C", -- [12]
+			3500, -- [11]
+			"Player-1305-0B84648C", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			true, -- [17]
-			[52] = "|cff00fe97Drawdawn|r",
-			[51] = 1636753967,
-			[50] = "CHAT_MSG_CHANNEL",
+			false, -- [17]
+			[52] = "|cffa22fc8Takidari|r",
+			[51] = 1639954891,
+			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
 		}, -- [65]
 		{
-			"<Sylvanas Boost Community> Selling [Ahead Of The Curve] Kel'Thuzad and Sylvanas [85k] // Kel'Thuzad by itself [45k]// Sylvanas By itself [50k] // We have runs going every 30min /w me for more info!", -- [1]
-			"Damzadvv-Kazzak", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Damzadvv-Kazzak", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			499, -- [11]
-			"Player-1305-0C0C2463", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cff006fdcDamzadvv|r",
-			[51] = 1636753968,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [66]
-		{
-			"[WТS] Sanctum of Domination HС Carry Tonight! Order a Trial run to test our service with no risks! Up to 12 guild runs daily. Get 239-246 ilvl gear and AOTC. We have over 16825 Trustpilot reviews. Visit WowVendor.org for more info!", -- [1]
-			"Drinfa-Kazzak", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Drinfa-Kazzak", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			502, -- [11]
-			"Player-1305-0C14A8CC", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cfffe7b09Drinfa|r",
-			[51] = 1636753971,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [67]
-		{
-			"<<Sylvanas>> Mythic + Prices / M+15=120k || M+12 = 90k || M+14 = 100k || M+10 = 75k|| SoD HC Full Clear || KSH 20x8 = 3900k All key Timed || Tazavrsh HM = 200k || Keystonemaster 1750k |||| /w me for more info", -- [1]
-			"Damzadvv-Kazzak", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Damzadvv-Kazzak", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			503, -- [11]
-			"Player-1305-0C0C2463", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cff006fdcDamzadvv|r",
-			[51] = 1636753972,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [68]
-		{
-			"M+15 Only 100k in Time Guarantee + FREE Armor Stack + Free Specific Key || Best Discounts For Multiple Runs || 2x15 = 195k || 4x15 = 390 || KSM 8x15 = 750k || Also Seling Tazavesh ,Torghast ,Levelup boost,Also Renown Farm /W Me", -- [1]
-			"Archneê-Kazzak", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Archneê-Kazzak", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			506, -- [11]
-			"Player-1305-0A3DC900", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cffa22fc8Archneê|r",
-			[51] = 1636753974,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [69]
-		{
-			"< NOVA > is OFFERING || Sanctum HC 300k|| || VIP Traders Available || || Sanctum Mythic  || || M+15= 115k || M+20=560k || || KSM 16x M+15= 1750k+Stack || || KSH 8x M+20= 3900k || Torghast---Level UP ||  Tazavesh || || Sylv HC 50k--Last 2Boss HC 85k ||", -- [1]
-			"Novahuge-Kazzak", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Novahuge-Kazzak", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			510, -- [11]
-			"Player-1305-0C0F5C63", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cff00fe97Novahuge|r",
-			[51] = 1636753976,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [70]
-		{
-			"WTS ((      TORGHAS T     )) ALL LAYER 2x12 or normal come and get your unlimited |cffff8000|Hcurrency:1828:0|h[Soul Ash]|h|r&   |cffff8000|Hcurrency:1906:0|h[Soul Cinders]|h|r without cap you can make 262 item right now fast & cheap w / info", -- [1]
-			"Lion-Kazzak", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Lion-Kazzak", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			511, -- [11]
-			"Player-1305-0885C593", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cffa22fc8Lion|r",
-			[51] = 1636753978,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [71]
-		{
-			"<NOVA> Offering HC Sanctum 300k  <2x VIP Traders Discount>  <Sylvanas->50k  Kel-45k  <Last2->85k   <M+15=115k>  <4x+15=414k Free Armor>  <Tazavesh->Hard-190k   <KSM 16x +15 intime =1750k>  <KSH 8x +20 intime=3900k> Torg-PvP-Lvl /w me info.", -- [1]
+			"<NOVA> Offering HC Sanctum 210k  <2x VIP Traders Discount>  <Sylvanas->50k  Kel-40k  <Last2->80k  <M+15=100k>  <4x+15=375k>  <Legion M+15=185k>  <Tazavesh->Hard-190k  <KSM 16x +15 intime =1700k>  <KSH 8x +20 intime=3600k> Trghst - PvP -Lvl /w me info.", -- [1]
 			"Novadevo-Kazzak", -- [2]
 			"", -- [3]
 			"2. Trade - City", -- [4]
@@ -1574,7 +1442,7 @@ ElvCharacterDB = {
 			2, -- [8]
 			"Trade - City", -- [9]
 			0, -- [10]
-			512, -- [11]
+			3522, -- [11]
 			"Player-1305-0C182879", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -1582,165 +1450,187 @@ ElvCharacterDB = {
 			false, -- [16]
 			true, -- [17]
 			[52] = "|cff8687edNovadevo|r",
-			[51] = 1636753979,
+			[51] = 1639955092,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [66]
+		{
+			"<DAWN> IS OFFERING <|cffffff00|Hachievement:15127:Player-1305-0C19D74C:0:0:0:-1:0:0:0:0|h[Heroic: Sanctum of Domination]|h|r 210K > <VIP Trader 160k> [ Sylavnas 50k><KT 40K><Both 80K ] || M+15=115k <M+14=100K> <Armor Stack> || 4x15 400K || <M+16=170k> <M+17=210k><M+18=310k>||LVLUP 51/60|| Also Selling |cffffff00|Hachievement:12568:Player-1305-0C19D74C:0:0:0:-1:0:0:0:0|h[The Alliance Slayer]|h|r ", -- [1]
+			"Dawnjeeoo-Kazzak", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Dawnjeeoo-Kazzak", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			3523, -- [11]
+			"Player-1305-0C19D74C", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cff006fdcDawnjeeoo|r",
+			[51] = 1639955093,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [67]
+		{
+			"<NOVA > [+15 Intime=105k] [10/10 HC =210K / 10/10 Mythic =8,8M+Mount+2 VIP ] [Legion Mythic+ 15=185k weekly /260k intime ] [2x+15=200k] [4x+15 Intime=378K ]  [Taza HM=190k ] [Level/Mounts/Legacy/PVP] [EVERY 40 MIN KT+Sylva=80k ] [Layer 12x2=95k ] /w", -- [1]
+			"Novarand-Kazzak", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Novarand-Kazzak", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			3524, -- [11]
+			"Player-1305-0C1B30F7", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cff8687edNovarand|r",
+			[51] = 1639955093,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [68]
+		{
+			"Nova Offering<|cff66bbff|Hjournal:0:1193:14|h[Sanctum of Domination]|h|rMythic-HC 210k VIP-160k><4x15=360k><M+15=100k><M+20=520k><M+19=450k> <M+18=300k><M+17=210k><KSH 8x+20=3600k><KSM |cffffff00|Hachievement:15078:Player-1305-0C15B90E:0:0:0:0:0:0:0:0|h[Shadowlands Keystone Master: Season Two]|h|r8x+15=810k><LVLING 50-60=550K> <PVP><TORGHST><LEGACY><MOUNT>", -- [1]
+			"Samuee-Kazzak", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Samuee-Kazzak", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			3525, -- [11]
+			"Player-1305-0C15B90E", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cff00fe97Samuee|r",
+			[51] = 1639955096,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [69]
+		{
+			"SYLVANAS / M+15 = 105K In Time /|cff66bbff|Hjournal:0:1193:14|h[Sanctum of Domination]|h|r HC-Mythic +TRADER /LAST 2BOSS EVERY 30 MIN /M+20 = 520K /M+19 = 450k /M+18 = 300k /FREE SPECIFIC KEY /KSM 16X15 /10X15=900k /4x15=360k /+ARMOR STACK /TORGHAST /W", -- [1]
+			"Sylvsbank-Kazzak", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Sylvsbank-Kazzak", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			3526, -- [11]
+			"Player-1305-0C199D90", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cff00fe97Sylvsbank|r",
+			[51] = 1639955098,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [70]
+		{
+			"M+15 100 k in Time + FREE Armor  -  4x15 = 390k || M+14-22 ||M+20 = 350k || Leveling 50 - 60 || Also Offering Legion TIMEWALKING M+15  || only for gold|| /w info", -- [1]
+			"Ayvn-Kazzak", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Ayvn-Kazzak", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			3527, -- [11]
+			"Player-1305-0BC627CC", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cfff38bb9Ayvn|r",
+			[51] = 1639955101,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [71]
+		{
+			"<Dawn> [WTS]|cffffff00|Hachievement:15134:Player-1305-0A212ADE:1:9:9:21:0:0:0:0|h[Ahead of the Curve: Sylvanas Windrunner]|h|r<Sylvanas HC  50k> <KT HC 40k> <Both 80k>|cff66bbff|Hjournal:0:1193:15|h[Sanctum of Domination]|h|r<10/10m+mount><hc10/10 210k><VIP Traders160k><8x15 KSM850k><M20 520k><M15 100k><4x15 400k><LEGION M15 180k><torghast2xL12 70k>", -- [1]
+			"Shahramstorm-Kazzak", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Shahramstorm-Kazzak", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			3528, -- [11]
+			"Player-1305-0A212ADE", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cff006fdcShahramstorm|r",
+			[51] = 1639955102,
 			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [72]
 		{
-			"<NOVA> HC |cff66bbff|Hjournal:0:1193:14|h[Sanctum of Domination]|h|r 300k  Sylvanas 50k  <Last 2=85k>  <M+15=115k>  <KSM 16x +15 =1750k>  <Mythic 10/10 Raid>  <8x +20 =3900k>  /w me for info.", -- [1]
-			"Novadwl-Kazzak", -- [2]
+			"< Gt > WTS 15-25 In Time Guarantee M+15 = 110k // M+22 = 750k // M+21 = 600k // M+20 = 480K // M+19 = 450k // M+18 = 290K // M+17 = 190K // FREE SPECIFiC KEY // 8X20 ALl dung // KSM 8X15 // 4X15 = 430K // 5X15 = 520k // FREE ARMOR STACK // TORGHAST //W", -- [1]
+			"Gtboost-Kazzak", -- [2]
 			"", -- [3]
 			"2. Trade - City", -- [4]
-			"Novadwl-Kazzak", -- [5]
+			"Gtboost-Kazzak", -- [5]
 			"", -- [6]
 			2, -- [7]
 			2, -- [8]
 			"Trade - City", -- [9]
 			0, -- [10]
-			514, -- [11]
-			"Player-1305-0C044BE6", -- [12]
+			3530, -- [11]
+			"Player-1305-0C1BB9E8", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			true, -- [17]
-			[52] = "|cff006fdcNovadwl|r",
-			[51] = 1636753979,
+			[52] = "|cfffe7b09Gtboost|r",
+			[51] = 1639955103,
 			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [73]
 		{
-			"<V O I D >0-22 Keys FREE ARMOR & FLASH DEALS +15 INTIME 110k ] 2x15 =209K [SPECIAL DEALS 4X15=396K / 5x15=482K]6x15 =578K]7x=674k] 8x15=770k  Tazavash HM=180k]50-60Lv=675k]Thorgast 2x12=90k ]PVP]  /W", -- [1]
-			"Voidsale-Kazzak", -- [2]
+			"Nova Offering<|cff66bbff|Hjournal:0:1193:15|h[Sanctum of Domination]|h|rMythic-HC 210k VIP-160k><4x15=360k><M+15=100k><M+20=520k><M+19=450k> <M+18=300k><M+17=210k><KSH 8x+20=3600k><KSM |cffffff00|Hachievement:15078:Player-1305-0C15B90E:0:0:0:0:0:0:0:0|h[Shadowlands Keystone Master: Season Two]|h|r8x+15=810k><LVLING 50-60=550K> <PVP><TORGHST><LEGACY><MOUNT>", -- [1]
+			"Bonecrasherr-Kazzak", -- [2]
 			"", -- [3]
 			"2. Trade - City", -- [4]
-			"Voidsale-Kazzak", -- [5]
+			"Bonecrasherr-Kazzak", -- [5]
 			"", -- [6]
 			2, -- [7]
 			2, -- [8]
 			"Trade - City", -- [9]
 			0, -- [10]
-			516, -- [11]
-			"Player-1305-0C163647", -- [12]
+			3531, -- [11]
+			"Player-1305-0C1A37EC", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			true, -- [17]
-			[52] = "|cfffef367Voidsale|r",
-			[51] = 1636753982,
+			[52] = "|cff00fe97Bonecrasherr|r",
+			[51] = 1639955106,
 			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [74]
 		{
-			"< NOVA > is OFFERING  Heroic |cff66bbff|Hjournal:0:1193:14|h[Sanctum of Domination]|h|r300k || VIP Traders Available || || Sanctum Mythic 8.8M + 2x VIP || || M+15= 115k || KSM 16xM+15=1750k || KSH 8xM+20=3900k || Torghast || Last 2Bosss HC 85k ||", -- [1]
-			"Novaalphaz-Kazzak", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Novaalphaz-Kazzak", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			523, -- [11]
-			"Player-1305-0C0FBF6D", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cfffef367Novaalphaz|r",
-			[51] = 1636753986,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [75]
-		{
-			"<<NOVA>>SELLING HEROIC|cff66bbff|Hjournal:0:1193:14|h[Sanctum of Domination]|h|r300k+ VIP TRADERS AVAILABLE---<M+15=115k><M+20=560k><Multi Run Has DISCOUNT+Free Armor STACK><KSM 16xM+15= 1750k><KSH 8xM+20=3900k><Tazavesh><Torghast>< Last 2 HC 85k>", -- [1]
-			"Novabeta-Kazzak", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Novabeta-Kazzak", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			526, -- [11]
-			"Player-1305-0C105E2F", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cff00fe97Novabeta|r",
-			[51] = 1636753989,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [76]
-		{
-			"<V O I D >0-22 Keys FREE ARMOR & FLASH DEALS +15 INTIME 110k ] 2x15 =209K [SPECIAL DEALS 4X15=396K / 5x15=482K]6x15 =578K]7x=674k] 8x15=770k  Tazavash HM=180k]50-60Lv=675k]Thorgast 2x12=90k ]PVP]  /W", -- [1]
-			"Voidpolter-Kazzak", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Voidpolter-Kazzak", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			527, -- [11]
-			"Player-1305-0C10B6A6", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cff8687edVoidpolter|r",
-			[51] = 1636753990,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [77]
-		{
-			"<SYLVANAS> |cff66bbff|Hjournal:0:1193:14|h[Sanctum of Domination]|h|r10/10HC=<280k> + VIP Trader <FREE ARMOR STACK 2xM><-> M+15= < 120k > LAST 2 BOSS=<95k> <4x15 = 420K > <KSM>16x+15 intime <Mythic 10/10> M+20 = 560K /Tazavesh /Torghast/PVP w Me", -- [1]
-			"Sylvansell-Kazzak", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Sylvansell-Kazzak", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			528, -- [11]
-			"Player-1305-0C0D671C", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cfffe7b09Sylvansell|r",
-			[51] = 1636753991,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [78]
-		{
-			"<NOVA> || Sanctum Heroic 300k || Trader 180k || Curve 50k|| Last 2 HC 85k || M+10 - 75k || M+12 - 90k || M+14 - 105k || M+15 - 115k || KeyStone Master - 1750k || KeyStone Hero - 3900k || Tazavesh HM 190k ||  Discount For Multi Runs", -- [1]
-			"Novajuno-Kazzak", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Novajuno-Kazzak", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			531, -- [11]
-			"Player-1305-0C0C12CC", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cff00fe97Novajuno|r",
-			[51] = 1636753995,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [79]
-		{
-			"<< DAWN™ >> OFFERING Full |cffffff00|Hachievement:15128:Player-1305-0C113330:0:0:0:-1:0:0:0:0|h[Mythic: Sanctum of Domination]|h|r / <10/10M + 2xVIP 9M>   /   <10/10 HC 300K>  VIP +180k =  (  3xVIP=850K  )  ( 5xVIP=1150k )  ||  LAST 2 BOSS HC  |cff66bbff|Hjournal:1:2440:14|h[Kel'Thuzad]|h|r  +  |cff66bbff|Hjournal:1:2441:14|h[Sylvanas Windrunner]|h|r << 85K >>   EVERY 30 Mins || Whis For SPOT", -- [1]
+			"<< DAWN™ >> SELLING Full |cffffff00|Hachievement:15128:Player-1305-0C113330:0:0:0:-1:0:0:0:0|h[Mythic: Sanctum of Domination]|h|r  / <10/10M + 2xVIP 8.8M>  /  <10/10 HC 210K>  VIP +160k =  ( 3xVIP=680K )  ( 5xVIP=1000k )  ||   LAST 2 BOSS HC  |cff66bbff|Hjournal:1:2440:14|h[Kel'Thuzad]|h|r +  |cff66bbff|Hjournal:1:2441:14|h[Sylvanas Windrunner]|h|r  << 80K >>  ||  4x15 = 400K  || Whis For SPOT", -- [1]
 			"Dawnholly-Kazzak", -- [2]
 			"", -- [3]
 			"2. Trade - City", -- [4]
@@ -1750,7 +1640,7 @@ ElvCharacterDB = {
 			2, -- [8]
 			"Trade - City", -- [9]
 			0, -- [10]
-			561, -- [11]
+			3532, -- [11]
 			"Player-1305-0C15623C", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -1758,449 +1648,559 @@ ElvCharacterDB = {
 			false, -- [16]
 			true, -- [17]
 			[52] = "|cff00fe97Dawnholly|r",
-			[51] = 1636754017,
+			[51] = 1639955108,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [75]
+		{
+			"<DAWN> IS OFFERING <|cffffff00|Hachievement:15127:Player-1305-0BCEAB76:0:0:0:-1:0:0:0:0|h[Heroic: Sanctum of Domination]|h|r 210K > <VIP Trader 160k> [ Sylavnas 50k><KT 40K><Both 80K ] || M+15=115k <M+14=100K> <Armor Stack> || 4x15 400K || <M+16=170k> <M+17=210k><M+18=310k>|||cffffff00|Hachievement:15078:Player-1305-0BB07FEE:1:7:15:21:4294967295:4294967295:4294967295:4294967295|h[Shadowlands Keystone Master: Season Two]|h|r", -- [1]
+			"Zaluuxia-Kazzak", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Zaluuxia-Kazzak", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			3542, -- [11]
+			"Player-1305-0BB07FEE", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cff006fdcZaluuxia|r",
+			[51] = 1639955118,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [76]
+		{
+			"~DAWN COMMUNITY~  |cffffff00|Hachievement:15128:Player-1084-08DEDC99:0:0:0:-1:0:0:0:0|h[Mythic: Sanctum of Domination]|h|r TODAY ||  Full HEROIC 10/10   +  VIP TRADER   ||  Full MYTHIC 10/10  +  2x Free VIP Trader & Mount   /|cff66bbff|Hjournal:1:2440:14|h[Kel'Thuzad]|h|r + |cff66bbff|Hjournal:1:2441:14|h[Sylvanas Windrunner]|h|r  HC  << 80K >>  ||  4x15 = 400k  /  KORTHIA Farm  /  WHIS ME  BOOK", -- [1]
+			"Dawniboost-Kazzak", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Dawniboost-Kazzak", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			3560, -- [11]
+			"Player-1305-0C0C09CC", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cfffe7b09Dawniboost|r",
+			[51] = 1639955141,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [77]
+		{
+			"|cffffd100|HclubFinder:ClubFinder-1-268817-1305-66417968|h[Guild: Casuals]|h|r just started up again. We're planning to do Normal/Heroic raiding eventually from 20-23, but focus on M+ while starting up. Grab a beer and join us :)", -- [1]
+			"Slothe-Kazzak", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Slothe-Kazzak", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			3564, -- [11]
+			"Player-1305-09999D89", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cfffe7b09Slothe|r",
+			[51] = 1639955144,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [78]
+		{
+			"<Mastery>  WTS |cffa335ee|Hitem:63042::::::::10:1453:::::::::|h[Reins of the Phosphorescent Stone Drake]|h|r|cffa335ee|Hitem:104269::::::::10:1453:::::::::|h[Reins of the Thundering Onyx Cloud Serpent]|h|r and over 100 other mounts! DM Me", -- [1]
+			"Pepegaboosts-Kazzak", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Pepegaboosts-Kazzak", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			3569, -- [11]
+			"Player-1305-0C0430FD", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cfffef367Pepegaboosts|r",
+			[51] = 1639955150,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [79]
+		{
+			"<Mastery>  WTS |cffa335ee|Hitem:121815::::::::10:1453:::::::::|h[Voidtalon of the Dark Star]|h|r|cffa335ee|Hitem:44168::::::::10:1453:::::::::|h[Reins of the Time-Lost Proto-Drake]|h|r and over 100 other mounts! DM me for more infos", -- [1]
+			"Pepegaboosts-Kazzak", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Pepegaboosts-Kazzak", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			3570, -- [11]
+			"Player-1305-0C0430FD", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cfffef367Pepegaboosts|r",
+			[51] = 1639955150,
 			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [80]
 		{
-			"• WTS |cff66bbff|Hjournal:0:1193:15|h[Sanctum of Domination]|h|r Mythic Guild run 10/10 + Loot + Mount available • No requirements • Buy on PewPewShop.pro•", -- [1]
-			"Josseffa-Kazzak", -- [2]
+			"[WТS] Mythic +15/+16/+17/+18 key CARRY. Order a Trial run to test our service with no risks! Runs start every hour. Get ilvl 233-252+ Gear & Rating. We have over 17805 Trustpilot reviews. Visit WowVendor.net for more info!", -- [1]
+			"Mogifuiko-Kazzak", -- [2]
 			"", -- [3]
 			"2. Trade - City", -- [4]
-			"Josseffa-Kazzak", -- [5]
+			"Mogifuiko-Kazzak", -- [5]
 			"", -- [6]
 			2, -- [7]
 			2, -- [8]
 			"Trade - City", -- [9]
 			0, -- [10]
-			562, -- [11]
-			"Player-1305-0C184D65", -- [12]
+			3573, -- [11]
+			"Player-1305-0C1D1E2D", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			true, -- [17]
-			[52] = "|cffc59a6cJosseffa|r",
-			[51] = 1636754018,
+			[52] = "|cfffe7b09Mogifuiko|r",
+			[51] = 1639955153,
 			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [81]
 		{
-			"<NOVA> |cff66bbff|Hjournal:0:1193:16|h[Sanctum of Domination]|h|r Heroic = 300k. || Trader = 180k || M+10 = 75k || M+12 = 90k || M+14 = 105k || M+15 = 115k || KeyStone Master = 1750k || KeyStone Hero = 3900k || Heroic Sylvanas 50k || Last 2 85k", -- [1]
-			"Novabest-Kazzak", -- [2]
+			"still going ?", -- [1]
+			"Kesswarr-Kazzak", -- [2]
 			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Novabest-Kazzak", -- [5]
+			"", -- [4]
+			"Kesswarr-Kazzak", -- [5]
 			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			567, -- [11]
-			"Player-1305-0BF51DB9", -- [12]
+			3581, -- [11]
+			"Player-1305-0AFEBA25", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			true, -- [17]
-			[52] = "|cff00fe97Novabest|r",
-			[51] = 1636754024,
-			[50] = "CHAT_MSG_CHANNEL",
+			false, -- [17]
+			[52] = "|cffc59a6cKesswarr|r",
+			[51] = 1639955271,
+			[50] = "CHAT_MSG_WHISPER",
 		}, -- [82]
 		{
-			"<NOVA> !Big Sale! (Sanctum Heroic 280k-VIP Händler 180k)-[WTS HC Sylvanas 50K - HC KT 45K BOTH -90K]-[M+10 75K]-(M+15 W120K-115K)-(M+17 230K)-(M+20 570K)-||KSM 1750K||-||KSH 3900k/All 20||-[Torghast]-[2v2-3v3-Rbg]-(Sanctum Mythic 10/10)", -- [1]
-			"Ovaorc-Kazzak", -- [2]
+			":D", -- [1]
+			"Kesswarr-Kazzak", -- [2]
 			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Ovaorc-Kazzak", -- [5]
+			"", -- [4]
+			"Kesswarr-Kazzak", -- [5]
 			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			570, -- [11]
-			"Player-1305-0C063C53", -- [12]
+			3582, -- [11]
+			"Player-1305-0AFEBA25", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			true, -- [17]
-			[52] = "|cffc59a6cOvaorc|r",
-			[51] = 1636754028,
-			[50] = "CHAT_MSG_CHANNEL",
+			false, -- [17]
+			[52] = "|cffc59a6cKesswarr|r",
+			[51] = 1639955273,
+			[50] = "CHAT_MSG_WHISPER",
 		}, -- [83]
 		{
-			"<SYLVANAS> M+15 = <120k> <-> <FREE ARMOR STACK 2xM> 4x+15 = <420k> <-> <16x+15 = 1750k> <-> 8x+20 = 3900k <Myhthic 10/10 & Sylvanas Mount> LAST 2 BOSS = <85k> <-> SoD 10/10HC = <280k> + VIP Trader /Torghast/Tazavesh/ W me!", -- [1]
-			"Sylvnsell-Kazzak", -- [2]
+			"still going with what?", -- [1]
+			"Kesswarr-Kazzak", -- [2]
 			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Sylvnsell-Kazzak", -- [5]
+			"", -- [4]
+			"Kesswarr-Kazzak", -- [5]
 			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			571, -- [11]
-			"Player-1305-0C12FC41", -- [12]
+			3584, -- [11]
+			"Player-1305-0AFEBA25", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			true, -- [17]
-			[52] = "|cff006fdcSylvnsell|r",
-			[51] = 1636754028,
-			[50] = "CHAT_MSG_CHANNEL",
+			false, -- [17]
+			[52] = "|cffc59a6cKesswarr|r",
+			[51] = 1639955323,
+			[50] = "CHAT_MSG_WHISPER_INFORM",
 		}, -- [84]
 		{
-			"NOVA || || BIG SALE Heroic 310k (Vip trader 180k) ||Heroic/Normal  <||> WTS HC Sylvanas 50k - HC KT 45k BOTH -90k ||TAZAVESH 90K-216K|| [M+10 85k]M+15 120k1|| KSM = 1750K KSH = 3900k [Torghast L1-L12 ] [2v2-3v3-Rbg]", -- [1]
-			"Novarite-Kazzak", -- [2]
+			"MT", -- [1]
+			"Kesswarr-Kazzak", -- [2]
 			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Novarite-Kazzak", -- [5]
+			"", -- [4]
+			"Kesswarr-Kazzak", -- [5]
 			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			572, -- [11]
-			"Player-1305-0C030B54", -- [12]
+			3585, -- [11]
+			"Player-1305-0AFEBA25", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			true, -- [17]
-			[52] = "|cffc59a6cNovarite|r",
-			[51] = 1636754029,
-			[50] = "CHAT_MSG_CHANNEL",
+			false, -- [17]
+			[52] = "|cffc59a6cKesswarr|r",
+			[51] = 1639955346,
+			[50] = "CHAT_MSG_WHISPER",
 		}, -- [85]
 		{
-			"<SYLVANAS> M+15= < 120k > |cff66bbff|Hjournal:0:1193:14|h[Sanctum of Domination]|h|r 10/10HC=<280k> + VIP Trader <FREE ARMOR STACK 2XM><-> LAST 2 BOSS=<95k> <4x15 = 420K > <KSM>16x+15 intime <Mythic 10/10> M+20 = 560K /Tazavesh /Torghast/PVP w Me", -- [1]
-			"Sylvanasell-Kazzak", -- [2]
+			"oh", -- [1]
+			"Kesswarr-Kazzak", -- [2]
 			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Sylvanasell-Kazzak", -- [5]
+			"", -- [4]
+			"Kesswarr-Kazzak", -- [5]
 			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			576, -- [11]
-			"Player-1305-0C076620", -- [12]
+			3586, -- [11]
+			"Player-1305-0AFEBA25", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			true, -- [17]
-			[52] = "|cfffe7b09Sylvanasell|r",
-			[51] = 1636754031,
-			[50] = "CHAT_MSG_CHANNEL",
+			false, -- [17]
+			[52] = "|cffc59a6cKesswarr|r",
+			[51] = 1639955349,
+			[50] = "CHAT_MSG_WHISPER_INFORM",
 		}, -- [86]
 		{
-			"<DAWN>[WTS]|cff66bbff|Hjournal:0:1193:15|h[Sanctum of Domination]|h|r<10/10M 9M+Mount+Traders><HC 10/10 300k><VIP Traders 200k><KT 45k><Sylvanas 50k><Both 85k>|cffffff00|Hachievement:15134:Player-1305-0C09501E:0:0:0:-1:0:0:0:0|h[Ahead of the Curve: Sylvanas Windrunner]|h|r<8x15 KSM 875k><M20 560k><M15 120k><4x 15 420k><10x15 1000k><Torghast 2xL12 90k>", -- [1]
-			"Cendawyth-Kazzak", -- [2]
+			"no i finished the achievement this morning", -- [1]
+			"Kesswarr-Kazzak", -- [2]
 			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Cendawyth-Kazzak", -- [5]
+			"", -- [4]
+			"Kesswarr-Kazzak", -- [5]
 			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			582, -- [11]
-			"Player-1305-0BC9383B", -- [12]
+			3587, -- [11]
+			"Player-1305-0AFEBA25", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			true, -- [17]
-			[52] = "|cffa9d271Cendawyth|r",
-			[51] = 1636754034,
-			[50] = "CHAT_MSG_CHANNEL",
+			false, -- [17]
+			[52] = "|cffc59a6cKesswarr|r",
+			[51] = 1639955359,
+			[50] = "CHAT_MSG_WHISPER_INFORM",
 		}, -- [87]
 		{
-			"<V O I D > [+15 Intime=110k] [ FLASH DEALS 4 X 15 INTIME = 396K + ARMOR STACK ( JUST TODAY ) [4x+14=360k+ArmorStack][4x+12=306k+ArmorStack[4x+10=252k+ArmorStack][Tazavash HM=180k]50-60Lv=675k]Thorgast 2x12=90k /w", -- [1]
-			"Voidkeey-Kazzak", -- [2]
+			"N1", -- [1]
+			"Kesswarr-Kazzak", -- [2]
 			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Voidkeey-Kazzak", -- [5]
+			"", -- [4]
+			"Kesswarr-Kazzak", -- [5]
 			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			585, -- [11]
-			"Player-1305-0C0CE5B4", -- [12]
+			3588, -- [11]
+			"Player-1305-0AFEBA25", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			true, -- [17]
-			[52] = "|cfffef367Voidkeey|r",
-			[51] = 1636754035,
-			[50] = "CHAT_MSG_CHANNEL",
+			false, -- [17]
+			[52] = "|cffc59a6cKesswarr|r",
+			[51] = 1639955365,
+			[50] = "CHAT_MSG_WHISPER",
 		}, -- [88]
 		{
-			"<D A W N> IS OFFERING <|cffffff00|Hachievement:15127:Player-1305-0C1895D0:0:0:0:-1:0:0:0:0|h[Heroic: Sanctum of Domination]|h|r <10/10HC-300K> <VIP TRADER> <SYLVANAS-50K> <LAST2HC-85K> <KSM-1700> <M15-115K> <4xM15-420K> <PVP> |cffffff00|Hachievement:15128:Player-1305-0C1895D0:0:0:0:-1:0:0:0:0|h[Mythic: Sanctum of Domination]|h|r Whisper for more info  ", -- [1]
-			"Dwnmoon-Kazzak", -- [2]
+			"just wanted to get this char to 60", -- [1]
+			"Kesswarr-Kazzak", -- [2]
 			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Dwnmoon-Kazzak", -- [5]
+			"", -- [4]
+			"Kesswarr-Kazzak", -- [5]
 			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			588, -- [11]
-			"Player-1305-0C1895D0", -- [12]
+			3589, -- [11]
+			"Player-1305-0AFEBA25", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			true, -- [17]
-			[52] = "|cff00fe97Dwnmoon|r",
-			[51] = 1636754039,
-			[50] = "CHAT_MSG_CHANNEL",
+			false, -- [17]
+			[52] = "|cffc59a6cKesswarr|r",
+			[51] = 1639955369,
+			[50] = "CHAT_MSG_WHISPER_INFORM",
 		}, -- [89]
 		{
-			"<DAWN>WTS<M+15=120k> <4x15=420k> <8x15=850k> <KSM=1700k> <KSH=3850k> <Tazavesh HM=200k> |cff66bbff|Hjournal:0:1193:14|h[Sanctum of Domination]|h|r<10/10M><10/10HC=300k /VIP Traders=200k> <KT=45k> <SYLVANAS=50K> <Last Two Bosses=85k> <L12 Torghast=50k>", -- [1]
-			"Drawdawn-Kazzak", -- [2]
+			"in case i feel like gearing up another char", -- [1]
+			"Kesswarr-Kazzak", -- [2]
 			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Drawdawn-Kazzak", -- [5]
+			"", -- [4]
+			"Kesswarr-Kazzak", -- [5]
 			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			589, -- [11]
-			"Player-1305-0C190C6C", -- [12]
+			3590, -- [11]
+			"Player-1305-0AFEBA25", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			true, -- [17]
-			[52] = "|cff00fe97Drawdawn|r",
-			[51] = 1636754039,
-			[50] = "CHAT_MSG_CHANNEL",
+			false, -- [17]
+			[52] = "|cffc59a6cKesswarr|r",
+			[51] = 1639955374,
+			[50] = "CHAT_MSG_WHISPER_INFORM",
 		}, -- [90]
 		{
-			"<D A W N> IS OFFERING <|cffffff00|Hachievement:15127:Player-1305-0C18B47D:0:0:0:-1:0:0:0:0|h[Heroic: Sanctum of Domination]|h|r <10/10HC-300K> <VIP TRADER> <SYLVANAS-50K> <LAST2HC-85K> <KSM-1700> <M15-115K> <4xM15-420K> <PVP> |cffffff00|Hachievement:15128:Player-1305-0C18B47D:0:0:0:-1:0:0:0:0|h[Mythic: Sanctum of Domination]|h|r Whisper for more info  ", -- [1]
-			"Dawnsata-Kazzak", -- [2]
+			"dh is pretty fun", -- [1]
+			"Kesswarr-Kazzak", -- [2]
 			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Dawnsata-Kazzak", -- [5]
+			"", -- [4]
+			"Kesswarr-Kazzak", -- [5]
 			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			590, -- [11]
-			"Player-1305-0C18B47D", -- [12]
+			3591, -- [11]
+			"Player-1305-0AFEBA25", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			true, -- [17]
-			[52] = "|cff00fe97Dawnsata|r",
-			[51] = 1636754040,
-			[50] = "CHAT_MSG_CHANNEL",
+			false, -- [17]
+			[52] = "|cffc59a6cKesswarr|r",
+			[51] = 1639955380,
+			[50] = "CHAT_MSG_WHISPER_INFORM",
 		}, -- [91]
 		{
-			"<SYLVANAS>//\\\\ |cff66bbff|Hjournal:0:1193:14|h[Sanctum of Domination]|h|r  HC10/10<-280k-> //\\\\With 1 VIP Trader=<-460k->//\\\\ (Sylvanas=<50k> Kelt=<45k>> Both=<85k>) //\\\\ M15 =<120k> //\\\\  4x15 = <420k> //\\\\ Tazavesh  //\\\\ <KSM> //\\\\ Torghast/PVP", -- [1]
-			"Slybroxy-Kazzak", -- [2]
+			"in the start", -- [1]
+			"Kesswarr-Kazzak", -- [2]
 			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Slybroxy-Kazzak", -- [5]
+			"", -- [4]
+			"Kesswarr-Kazzak", -- [5]
 			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			593, -- [11]
-			"Player-1305-0C1171BC", -- [12]
+			3592, -- [11]
+			"Player-1305-0AFEBA25", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			true, -- [17]
-			[52] = "|cff006fdcSlybroxy|r",
-			[51] = 1636754042,
-			[50] = "CHAT_MSG_CHANNEL",
+			false, -- [17]
+			[52] = "|cffc59a6cKesswarr|r",
+			[51] = 1639955386,
+			[50] = "CHAT_MSG_WHISPER",
 		}, -- [92]
 		{
-			"< NOVA > is OFFERING || Sanctum HC 300k|| || VIP Traders Available || || Sanctum Mythic  || || M+15= 115k || M+20=560k || || KSM 16x M+15= 1750k+Stack || || KSH 8x M+20= 3900k || Torghast---Level UP ||  Tazavesh || || Sylv HC 50k--Last 2Boss HC 85k ||", -- [1]
-			"Novahuge-Kazzak", -- [2]
+			"xD", -- [1]
+			"Kesswarr-Kazzak", -- [2]
 			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Novahuge-Kazzak", -- [5]
+			"", -- [4]
+			"Kesswarr-Kazzak", -- [5]
 			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			594, -- [11]
-			"Player-1305-0C0F5C63", -- [12]
+			3593, -- [11]
+			"Player-1305-0AFEBA25", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			true, -- [17]
-			[52] = "|cff00fe97Novahuge|r",
-			[51] = 1636754043,
-			[50] = "CHAT_MSG_CHANNEL",
+			false, -- [17]
+			[52] = "|cffc59a6cKesswarr|r",
+			[51] = 1639955390,
+			[50] = "CHAT_MSG_WHISPER_INFORM",
 		}, -- [93]
 		{
-			"NOVA || || BIG SALE Heroic 310k (Vip trader 180k) ||Heroic/Normal  <||> WTS HC Sylvanas 50k - HC KT 45k BOTH -90k ||TAZAVESH 90K-216K|| [M+10 85k]M+15 120k1|| KSM = 1750K KSH = 3900k [Torghast L1-L12 ] [2v2-3v3-Rbg]", -- [1]
-			"Novamol-Kazzak", -- [2]
+			"then its becomes one button", -- [1]
+			"Kesswarr-Kazzak", -- [2]
 			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Novamol-Kazzak", -- [5]
+			"", -- [4]
+			"Kesswarr-Kazzak", -- [5]
 			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			597, -- [11]
-			"Player-1305-0C03F614", -- [12]
+			3594, -- [11]
+			"Player-1305-0AFEBA25", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			true, -- [17]
-			[52] = "|cffa9d271Novamol|r",
-			[51] = 1636754046,
-			[50] = "CHAT_MSG_CHANNEL",
+			false, -- [17]
+			[52] = "|cffc59a6cKesswarr|r",
+			[51] = 1639955392,
+			[50] = "CHAT_MSG_WHISPER",
 		}, -- [94]
 		{
-			"<NOVA> Offering HC Sanctum 300k  <2x VIP Traders Discount>  <Sylvanas->50k  Kel-45k  <Last2->85k   <M+15=115k>  <4x+15=414k Free Armor>  <Tazavesh->Hard-190k   <KSM 16x +15 intime =1750k>  <KSH 8x +20 intime=3900k> Torg-PvP-Lvl /w me info.", -- [1]
-			"Novadevo-Kazzak", -- [2]
+			"nah i liked it in bfa aswell", -- [1]
+			"Kesswarr-Kazzak", -- [2]
 			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Novadevo-Kazzak", -- [5]
+			"", -- [4]
+			"Kesswarr-Kazzak", -- [5]
 			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			598, -- [11]
-			"Player-1305-0C182879", -- [12]
+			3595, -- [11]
+			"Player-1305-0AFEBA25", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			true, -- [17]
-			[52] = "|cff8687edNovadevo|r",
-			[51] = 1636754048,
-			[50] = "CHAT_MSG_CHANNEL",
+			false, -- [17]
+			[52] = "|cffc59a6cKesswarr|r",
+			[51] = 1639955396,
+			[50] = "CHAT_MSG_WHISPER_INFORM",
 		}, -- [95]
 		{
-			"<V O I D >0-22 Keys FREE ARMOR & FLASH DEALS +15 INTIME 110k ] 2x15 =209K [SPECIAL DEALS 4X15=396K / 5x15=482K]6x15 =578K]7x=674k] 8x15=770k  Tazavash HM=180k]50-60Lv=675k]Thorgast 2x12=90k ]PVP]  /W", -- [1]
-			"Voidsale-Kazzak", -- [2]
+			"anyway i need to go sleep", -- [1]
+			"Kesswarr-Kazzak", -- [2]
 			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Voidsale-Kazzak", -- [5]
+			"", -- [4]
+			"Kesswarr-Kazzak", -- [5]
 			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			602, -- [11]
-			"Player-1305-0C163647", -- [12]
+			3596, -- [11]
+			"Player-1305-0AFEBA25", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			true, -- [17]
-			[52] = "|cfffef367Voidsale|r",
-			[51] = 1636754050,
-			[50] = "CHAT_MSG_CHANNEL",
+			false, -- [17]
+			[52] = "|cffc59a6cKesswarr|r",
+			[51] = 1639955402,
+			[50] = "CHAT_MSG_WHISPER_INFORM",
 		}, -- [96]
 		{
-			"< NOVA > is OFFERING  Heroic |cff66bbff|Hjournal:0:1193:14|h[Sanctum of Domination]|h|r300k || VIP Traders Available || || Sanctum Mythic 8.8M + 2x VIP || || M+15= 115k || KSM 16xM+15=1750k || KSH 8xM+20=3900k || Torghast || Last 2Bosss HC 85k ||", -- [1]
-			"Novaalphaz-Kazzak", -- [2]
+			"nn", -- [1]
+			"Kesswarr-Kazzak", -- [2]
 			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Novaalphaz-Kazzak", -- [5]
+			"", -- [4]
+			"Kesswarr-Kazzak", -- [5]
 			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			605, -- [11]
-			"Player-1305-0C0FBF6D", -- [12]
+			3597, -- [11]
+			"Player-1305-0AFEBA25", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			true, -- [17]
-			[52] = "|cfffef367Novaalphaz|r",
-			[51] = 1636754053,
-			[50] = "CHAT_MSG_CHANNEL",
+			false, -- [17]
+			[52] = "|cffc59a6cKesswarr|r",
+			[51] = 1639955407,
+			[50] = "CHAT_MSG_WHISPER",
 		}, -- [97]
 		{
-			"<NOVA> HC |cff66bbff|Hjournal:0:1193:14|h[Sanctum of Domination]|h|r 300k  Sylvanas 50k  <Last 2=85k>  <M+15=115k>  <KSM 16x +15 =1750k>  <Mythic 10/10 Raid>  <8x +20 =3900k>  /w me for info.", -- [1]
-			"Novadwl-Kazzak", -- [2]
+			"v late", -- [1]
+			"Kesswarr-Kazzak", -- [2]
 			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Novadwl-Kazzak", -- [5]
+			"", -- [4]
+			"Kesswarr-Kazzak", -- [5]
 			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			606, -- [11]
-			"Player-1305-0C044BE6", -- [12]
+			3598, -- [11]
+			"Player-1305-0AFEBA25", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			true, -- [17]
-			[52] = "|cff006fdcNovadwl|r",
-			[51] = 1636754053,
-			[50] = "CHAT_MSG_CHANNEL",
+			false, -- [17]
+			[52] = "|cffc59a6cKesswarr|r",
+			[51] = 1639955408,
+			[50] = "CHAT_MSG_WHISPER_INFORM",
 		}, -- [98]
 		{
-			"WTS ((      TORGHAS T     )) ALL LAYER 2x12 or normal come and get your unlimited |cffff8000|Hcurrency:1828:0|h[Soul Ash]|h|r&   |cffff8000|Hcurrency:1906:0|h[Soul Cinders]|h|r without cap you can make 262 item right now fast & cheap w / info", -- [1]
-			"Lion-Kazzak", -- [2]
+			"cya", -- [1]
+			"Kesswarr-Kazzak", -- [2]
 			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Lion-Kazzak", -- [5]
+			"", -- [4]
+			"Kesswarr-Kazzak", -- [5]
 			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			607, -- [11]
-			"Player-1305-0885C593", -- [12]
+			3599, -- [11]
+			"Player-1305-0AFEBA25", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			true, -- [17]
-			[52] = "|cffa22fc8Lion|r",
-			[51] = 1636754054,
-			[50] = "CHAT_MSG_CHANNEL",
+			false, -- [17]
+			[52] = "|cffc59a6cKesswarr|r",
+			[51] = 1639955409,
+			[50] = "CHAT_MSG_WHISPER_INFORM",
 		}, -- [99]
 	},
 	["ChatEditHistory"] = {
-		"/i POG", -- [1]
-		"/cw Mímou can u ginv me?", -- [2]
-		"/g i will say", -- [3]
-		"/g o", -- [4]
-		"/m", -- [5]
-		"/p |cffffff00|Hachievement:10830:Player-1305-0B84648C:0:0:0:-1:0:0:0:0|h[Took the Red Eye Down]|h|r", -- [6]
-		"/g i had A LOT of easy ones to get", -- [7]
-		"/wa", -- [8]
-		"/cheer", -- [9]
-		"/g ANOTHA ONE", -- [10]
-		"/cw Blorki can u ginv me?", -- [11]
-		"/g but i RELALY cba", -- [12]
-		"/i gz", -- [13]
-		"/plater", -- [14]
-		"/reload", -- [15]
-		"de har lavet et skip", -- [16]
-		"til lvl 50", -- [17]
-		"så man ikke skal lave den der intro", -- [18]
-		"/cw Pobelter should i go kyrian for vengeance?", -- [19]
-		"/cw Pobelter or venthyr", -- [20]
+		"/cw Agarés-Kazzak first adds spawn 20 seconds in", -- [1]
+		"/cw Agarés-Kazzak after first add wave u get 40 seconds of full dps uptime on boss", -- [2]
+		"/cw Agarés-Kazzak :D no worries", -- [3]
+		"/cw Agarés-Kazzak gl", -- [4]
+		"/cw Agarés-Kazzak yea", -- [5]
+		"/cw Agarés-Kazzak very good", -- [6]
+		"/cw Agarés-Kazzak i used bfa items", -- [7]
+		"/cw Agarés-Kazzak |cffa335ee|Hitem:159329::168642::::::59:577::16:4:5010:4802:1498:4786::::::|h[Leggings of the Galeforce Viper]|h|r|cffa335ee|Hitem:159337::168642::::::59:577::16:4:5010:4802:1498:4786::::::|h[Grips of Electrified Defense]|h|r|cffa335ee|Hitem:158306::168642::::::59:577::35:4:5010:4802:1508:4783::::::|h[Belt of Gleaming Determination]|h|r", -- [8]
+		"/cw Agarés-Kazzak but the one u have is way better", -- [9]
+		"/cw Kesswarr-Kazzak still going with what?", -- [10]
+		"/cw Kesswarr-Kazzak oh", -- [11]
+		"/cw Kesswarr-Kazzak no i finished the achievement this morning", -- [12]
+		"/cw Kesswarr-Kazzak just wanted to get this char to 60", -- [13]
+		"/cw Kesswarr-Kazzak in case i feel like gearing up another char", -- [14]
+		"/cw Kesswarr-Kazzak dh is pretty fun", -- [15]
+		"/cw Kesswarr-Kazzak xD", -- [16]
+		"/cw Kesswarr-Kazzak nah i liked it in bfa aswell", -- [17]
+		"/cw Kesswarr-Kazzak anyway i need to go sleep", -- [18]
+		"/cw Kesswarr-Kazzak v late", -- [19]
+		"/cw Kesswarr-Kazzak cya", -- [20]
 	},
 	["ConvertKeybindings"] = true,
 }

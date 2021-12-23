@@ -1,22 +1,23 @@
 
 ProjectAzilrokaDB = {
 	["profileKeys"] = {
-		["Rentaki - Kazzak"] = "Default",
-		["Takidin - Kazzak"] = "Default",
+		["Takii - Frostmane"] = "Default",
+		["Takidari - Kazzak"] = "Default",
+		["Taaku - Kazzak"] = "Default",
 		["Ivelea - Argent Dawn"] = "Default",
+		["Huntaki - Ravencrest"] = "Default",
 		["Thaaeyn - Argent Dawn"] = "Default",
 		["Takii - Argent Dawn"] = "Default",
 		["Renqqø - Kazzak"] = "Default",
 		["Rendudu - Kazzak"] = "Default",
-		["Rentaco - Ravencrest"] = "Default",
 		["Renwarri - Kazzak"] = "Default",
 		["Takiscoper - Kazzak"] = "Default",
 		["Takibank - Argent Dawn"] = "Default",
-		["Takii - Frostmane"] = "Default",
 		["Rentaco - Kazzak"] = "Default",
-		["Huntaki - Ravencrest"] = "Default",
-		["Takidari - Kazzak"] = "Default",
-		["Taaku - Kazzak"] = "Default",
+		["Rentaki - Kazzak"] = "Default",
+		["Takidin - Kazzak"] = "Default",
+		["Rentaco - Ravencrest"] = "Default",
+		["Rentakisham - EU Mythic Dungeons"] = "Default",
 	},
 	["profiles"] = {
 		["Default"] = {
@@ -27,13 +28,19 @@ ProjectAzilrokaDB = {
 			["AuraReminder"] = {
 				["Enable"] = false,
 			},
+			["TorghastBuffs"] = {
+				["Enable"] = false,
+			},
 			["BigButtons"] = {
 				["Enable"] = false,
 			},
-			["EnhancedFriendsList"] = {
-				["Enable"] = false,
-				["DiffLevel"] = false,
-				["ShowStatusBackground"] = true,
+			["SquareMinimapButtons"] = {
+				["MoveMail"] = false,
+				["MoveGarrison"] = false,
+				["MoveQueue"] = false,
+				["BarMouseOver"] = true,
+				["ButtonsPerRow"] = 35,
+				["MoveTracker"] = false,
 			},
 			["DragonOverlay"] = {
 				["Enable"] = false,
@@ -56,13 +63,10 @@ ProjectAzilrokaDB = {
 			["ReputationReward"] = {
 				["Enable"] = false,
 			},
-			["SquareMinimapButtons"] = {
-				["MoveMail"] = false,
-				["MoveGarrison"] = false,
-				["MoveQueue"] = false,
-				["BarMouseOver"] = true,
-				["ButtonsPerRow"] = 35,
-				["MoveTracker"] = false,
+			["EnhancedFriendsList"] = {
+				["Enable"] = false,
+				["DiffLevel"] = false,
+				["ShowStatusBackground"] = true,
 			},
 		},
 	},

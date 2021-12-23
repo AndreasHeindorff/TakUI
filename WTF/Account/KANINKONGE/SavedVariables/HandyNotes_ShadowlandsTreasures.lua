@@ -1,21 +1,30 @@
 
 HandyNotes_ShadowlandsTreasuresDB = {
 	["profileKeys"] = {
+		["Ivelea - Argent Dawn"] = "Ivelea - Argent Dawn",
+		["Takidin - Kazzak"] = "Takidin - Kazzak",
+		["Rentakisham - EU Mythic Dungeons"] = "Rentakisham - EU Mythic Dungeons",
+		["Renqqø - Kazzak"] = "Renqqø - Kazzak",
+		["Rentaco - Kazzak"] = "Rentaco - Kazzak",
 		["Rentaki - Kazzak"] = "Rentaki - Kazzak",
 		["Huntaki - Ravencrest"] = "Huntaki - Ravencrest",
-		["Takidin - Kazzak"] = "Takidin - Kazzak",
-		["Ivelea - Argent Dawn"] = "Ivelea - Argent Dawn",
 		["Takidari - Kazzak"] = "Takidari - Kazzak",
 		["Taaku - Kazzak"] = "Taaku - Kazzak",
 	},
 	["profiles"] = {
-		["Rentaki - Kazzak"] = {
-		},
-		["Huntaki - Ravencrest"] = {
+		["Ivelea - Argent Dawn"] = {
 		},
 		["Takidin - Kazzak"] = {
 		},
-		["Ivelea - Argent Dawn"] = {
+		["Rentakisham - EU Mythic Dungeons"] = {
+		},
+		["Renqqø - Kazzak"] = {
+		},
+		["Rentaco - Kazzak"] = {
+		},
+		["Rentaki - Kazzak"] = {
+		},
+		["Huntaki - Ravencrest"] = {
 		},
 		["Takidari - Kazzak"] = {
 		},

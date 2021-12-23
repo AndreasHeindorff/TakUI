@@ -1169,12 +1169,12 @@ ElvCharacterDB = {
 		}, -- [53]
 	},
 	["ChatEditHistory"] = {
-		"/i hello", -- [1]
-		"/cw Mimou-Ravencrest can u inv Texxy aswell?", -- [2]
-		"/i follow me", -- [3]
-		"/played", -- [4]
-		"/cw Mimou-Ravencrest xD", -- [5]
-		"/cw Mimou ginv pls", -- [6]
+		"/cw Mimou ginv pls", -- [1]
+		"/cw Mimou-Ravencrest xD", -- [2]
+		"/cw Mimou-Ravencrest can u inv Texxy aswell?", -- [3]
+		"/i hello", -- [4]
+		"/i follow me", -- [5]
+		"/played", -- [6]
 	},
 	["ConvertKeybindings"] = true,
 }

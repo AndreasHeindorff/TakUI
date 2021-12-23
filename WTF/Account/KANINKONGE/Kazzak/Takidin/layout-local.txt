@@ -6,6 +6,13 @@ X: -4
 Y: 60
 W: 235
 H: 480
+Frame: ScriptErrorsFrame
+FrameLevel: 1
+Anchor: RIGHT
+X: 0
+Y: 61
+W: 784
+H: 260
 Frame: PlayerPowerBarAlt
 FrameLevel: 2
 Anchor: BOTTOM
@@ -27,10 +34,3 @@ X: 0
 Y: 0
 W: 365
 H: 239
-Frame: ScriptErrorsFrame
-FrameLevel: 1
-Anchor: CENTER
-X: 308
-Y: 61
-W: 500
-H: 300

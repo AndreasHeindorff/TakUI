@@ -1,0 +1,15 @@
+VER 3 0100000000000003 "blizzmo" "INV_MISC_QUESTIONMARK"
+#showtooltip blizzard
+/cast [@cursor] blizzard
+END
+VER 3 0100000000000002 "fire" "INV_MISC_QUESTIONMARK"
+#showtooltip Combustion
+/cast Combustion
+/cast berserking
+END
+VER 3 0100000000000001 "icy veins" "INV_MISC_QUESTIONMARK"
+#showtooltip icy veins
+/cast icy veins
+/cast berserking
+/use 14
+END

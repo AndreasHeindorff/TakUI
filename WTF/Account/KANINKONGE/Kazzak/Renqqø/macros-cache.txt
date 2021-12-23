@@ -1,0 +1,4 @@
+VER 3 0100000000000001 "f kick" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@focus] spear hand strike
+END

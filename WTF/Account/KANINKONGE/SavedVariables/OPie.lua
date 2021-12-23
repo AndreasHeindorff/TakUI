@@ -9,8 +9,9 @@ OneRing_Config = {
 		["default"] = {
 			["Bindings"] = {
 				["Toys"] = false,
-				["rtantStuff"] = "6",
 				["OPieAutoQuest"] = false,
+				["Mstuff"] = "ALT-PAGEUP",
+				["rtantStuff"] = "6",
 				["OPieTracking"] = false,
 			},
 		},
@@ -146,6 +147,21 @@ OneRing_Config = {
 				["name"] = "Toys",
 				["save"] = true,
 			},
+			["Mstuff"] = {
+				{
+					"toy", -- [1]
+					117569, -- [2]
+					["sliceToken"] = "ABue5Fkwtg1",
+				}, -- [1]
+				{
+					"toy", -- [1]
+					23767, -- [2]
+					["sliceToken"] = "ABue5Fkwtgr",
+				}, -- [2]
+				["limit"] = "Rentaki-Kazzak",
+				["save"] = true,
+				["name"] = "M+ stuff",
+			},
 			["rtantStuff"] = {
 				{
 					["sliceToken"] = "ABuedrLpaz=",
@@ -156,8 +172,8 @@ OneRing_Config = {
 					["id"] = 818,
 				}, -- [2]
 				{
-					["id"] = 556,
 					["sliceToken"] = "ABuedrLpazK",
+					["id"] = 556,
 				}, -- [3]
 				{
 					"toy", -- [1]

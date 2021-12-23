@@ -1,0 +1,29 @@
+VER 3 0100000000000001 "dispell" "INV_MISC_QUESTIONMARK"
+#showtooltip cleanse spirit
+/cast [@mouseover,help,nodead][help,nodead][@player] Cleanse Spirit
+END
+VER 3 0100000000000002 "eq mo" "INV_MISC_QUESTIONMARK"
+#showtooltip Earthquake
+/cast [@cursor] Earthquake
+END
+VER 3 0100000000000003 "focus kick" "INV_MISC_QUESTIONMARK"
+#showtooltip wind shear
+/cast [@focus] wind shear
+END
+VER 3 0100000000000004 "kick" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/stopcasting
+/cast wind shear
+END
+VER 3 0100000000000006 "lvb" "INV_MISC_QUESTIONMARK"
+/cqs
+/cast lava burst
+END
+VER 3 0100000000000005 "mo fae" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@cursor] fae transfusion
+END
+VER 3 0100000000000007 "sk pet" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/use [talent:6/3]Icefury;[pet: Primal Storm Elemental]Eye of the Storm;[pet: Primal Fire Elemental]Meteor;[pet: Primal Earth Elemental]Harden Skin
+END

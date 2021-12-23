@@ -223,10 +223,15 @@ END
 VER 3 00000000000000E0 "use 13" "INV_MISC_QUESTIONMARK"
 #showtooltip
 /use 13
+/use blood fury
 END
 VER 3 00000000000000E1 "use 14" "INV_MISC_QUESTIONMARK"
 #showtooltip
 /use 14
+END
+VER 3 00000000000000ED "use belt" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/use 6
 END
 VER 3 00000000000000D5 "UseAzerite" "133487"
 /use Relinquished Azerite Chestpiece

@@ -7,6 +7,7 @@ OmniBarDB = {
 		["Takistonez - Ravencrest"] = "Default",
 		["Takikin - Kazzak"] = "Default",
 		["Takuu - Ravencrest"] = "Default",
+		["Rentakisham - EU Mythic Dungeons"] = "Default",
 		["Renqqø - Kazzak"] = "Default",
 		["Rentakigold - Baelgun"] = "Default",
 		["Takiscoper - Kazzak"] = "Default",

@@ -122,17 +122,17 @@ VER 3 00000000000000B9 "healing rain cur" "INV_MISC_QUESTIONMARK"
 #showtooltip Healing Rain
 /cast [@cursor] Healing Rain
 END
-VER 3 00000000000000DB "hs+belt" "INV_MISC_QUESTIONMARK"
-#showtooltip healthstone
-/use healthstone
-/use Sinful Aspirant's Emblem
-/use 6
-END
 VER 3 00000000000000C7 "HS+Belt" "INV_MISC_QUESTIONMARK"
 #showtooltip
 /use healthstone
 /use 6
 /use Sinful Gladiator's Emblem
+END
+VER 3 00000000000000DB "hs+belt" "INV_MISC_QUESTIONMARK"
+#showtooltip healthstone
+/use healthstone
+/use Sinful Aspirant's Emblem
+/use 6
 END
 VER 3 00000000000000A7 "hst" "INV_MISC_QUESTIONMARK"
 #showtooltip healing stream totem
@@ -223,10 +223,15 @@ END
 VER 3 00000000000000E0 "use 13" "INV_MISC_QUESTIONMARK"
 #showtooltip
 /use 13
+/use blood fury
 END
 VER 3 00000000000000E1 "use 14" "INV_MISC_QUESTIONMARK"
 #showtooltip
 /use 14
+END
+VER 3 00000000000000ED "use belt" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/use 6
 END
 VER 3 00000000000000D5 "UseAzerite" "133487"
 /use Relinquished Azerite Chestpiece

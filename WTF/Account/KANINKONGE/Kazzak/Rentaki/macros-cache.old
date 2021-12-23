@@ -1,5 +1,6 @@
 VER 3 010000000000001F "asc/sk" "INV_MISC_QUESTIONMARK"
 #showtooltip
+/use 12
 /cast [talent:7/2] Stormkeeper
 /cast [talent:7/3] Ascendance
 END
