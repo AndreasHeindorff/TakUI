@@ -9,8 +9,8 @@ H: 480
 Frame: PlayerPowerBarAlt
 FrameLevel: 2
 Anchor: BOTTOM
-X: -265
-Y: 240
+X: 0
+Y: 137
 W: 10
 H: 10
 Frame: ColorPickerFrame

@@ -329,7 +329,7 @@ local function doTestAny(test, input, ...)
     return false
 end
 local function doTest(test, input, ...)
-    if type(input) == "table" then
+    if type(input) == "table" and not input.__parent then
         if input.any then
             return doTestAny(test, input, ...)
         end
@@ -615,6 +615,9 @@ ns.should_show_point = function(coord, point, currentZone, isMinimap)
             -- This is distinct from point.quest as it's supposed to be for
             -- other trackers that make the point not _complete_ but still
             -- hidden (Draenor treasure maps, so far):
+            return false
+        end
+        if point.found and ns.conditions.check(point.found) then
             return false
         end
     end

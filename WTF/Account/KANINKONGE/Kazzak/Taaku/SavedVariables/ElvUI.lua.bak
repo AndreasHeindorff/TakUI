@@ -2,95 +2,6 @@
 ElvCharacterDB = {
 	["ChatHistoryLog"] = {
 		{
-			"the nest", -- [1]
-			"Fortis-Neptulon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Fortis-Neptulon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			471, -- [11]
-			"Player-3657-0A2360E6", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc59a6cFortis-Neptulon|r",
-			[51] = 1632768205,
-			[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
-		}, -- [1]
-		{
-			"we gott akill the nest", -- [1]
-			"Fortis-Neptulon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Fortis-Neptulon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			472, -- [11]
-			"Player-3657-0A2360E6", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc59a6cFortis-Neptulon|r",
-			[51] = 1632768208,
-			[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
-		}, -- [2]
-		{
-			"makes sense", -- [1]
-			"|Kq81|k", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			481, -- [11]
-			false, -- [12]
-			114, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff006fdcJade|r",
-			[51] = 1632768235,
-			[50] = "CHAT_MSG_BN_WHISPER",
-			[53] = "Jade",
-		}, -- [3]
-		{
-			"another nest", -- [1]
-			"Fortis-Neptulon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Fortis-Neptulon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			487, -- [11]
-			"Player-3657-0A2360E6", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc59a6cFortis-Neptulon|r",
-			[51] = 1632768286,
-			[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
-		}, -- [4]
-		{
 			"guys", -- [1]
 			"Fortis-Neptulon", -- [2]
 			"", -- [3]
@@ -111,7 +22,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cFortis-Neptulon|r",
 			[51] = 1632768287,
 			[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
-		}, -- [5]
+		}, -- [1]
 		{
 			"go back", -- [1]
 			"Fortis-Neptulon", -- [2]
@@ -133,7 +44,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cFortis-Neptulon|r",
 			[51] = 1632768296,
 			[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
-		}, -- [6]
+		}, -- [2]
 		{
 			"nah", -- [1]
 			"Fortis-Neptulon", -- [2]
@@ -155,7 +66,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cFortis-Neptulon|r",
 			[51] = 1632768313,
 			[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
-		}, -- [7]
+		}, -- [3]
 		{
 			"egh", -- [1]
 			"Nemezís-ArgentDawn", -- [2]
@@ -177,7 +88,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcNemezís-ArgentDawn|r",
 			[51] = 1632768313,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [8]
+		}, -- [4]
 		{
 			"my bad", -- [1]
 			"Fortis-Neptulon", -- [2]
@@ -199,7 +110,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cFortis-Neptulon|r",
 			[51] = 1632768314,
 			[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
-		}, -- [9]
+		}, -- [5]
 		{
 			"naahahnw", -- [1]
 			"Fortis-Neptulon", -- [2]
@@ -221,7 +132,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cFortis-Neptulon|r",
 			[51] = 1632768316,
 			[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
-		}, -- [10]
+		}, -- [6]
 		{
 			"go boss :D", -- [1]
 			"Fortis-Neptulon", -- [2]
@@ -243,7 +154,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cFortis-Neptulon|r",
 			[51] = 1632768318,
 			[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
-		}, -- [11]
+		}, -- [7]
 		{
 			"sorry", -- [1]
 			"Fortis-Neptulon", -- [2]
@@ -265,7 +176,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cFortis-Neptulon|r",
 			[51] = 1632768319,
 			[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
-		}, -- [12]
+		}, -- [8]
 		{
 			"hjahahaha", -- [1]
 			"Nemezís-ArgentDawn", -- [2]
@@ -287,7 +198,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcNemezís-ArgentDawn|r",
 			[51] = 1632768325,
 			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [13]
+		}, -- [9]
 		{
 			"SKIBIDI UA-PA-PA", -- [1]
 			"Glacinda-ArgentDawn", -- [2]
@@ -309,7 +220,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec6eaGlacinda-ArgentDawn|r",
 			[51] = 1632768334,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [14]
+		}, -- [10]
 		{
 			"ez", -- [1]
 			"Nemezís-ArgentDawn", -- [2]
@@ -331,7 +242,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcNemezís-ArgentDawn|r",
 			[51] = 1632768644,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [15]
+		}, -- [11]
 		{
 			"skal nok heale", -- [1]
 			"Nemezís-ArgentDawn", -- [2]
@@ -353,7 +264,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcNemezís-ArgentDawn|r",
 			[51] = 1632768646,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [16]
+		}, -- [12]
 		{
 			":D", -- [1]
 			"Nemezís-ArgentDawn", -- [2]
@@ -375,7 +286,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcNemezís-ArgentDawn|r",
 			[51] = 1632768648,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [17]
+		}, -- [13]
 		{
 			"xD", -- [1]
 			"Nemezís-ArgentDawn", -- [2]
@@ -397,7 +308,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcNemezís-ArgentDawn|r",
 			[51] = 1632768689,
 			[50] = "CHAT_MSG_WHISPER_INFORM",
-		}, -- [18]
+		}, -- [14]
 		{
 			"Kaaxth H'thon za Ag'rr", -- [1]
 			"Taaku-Kazzak", -- [2]
@@ -419,7 +330,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeTaaku|r",
 			[51] = 1632768704,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [19]
+		}, -- [15]
 		{
 			"I", -- [1]
 			"Taaku-Kazzak", -- [2]
@@ -441,7 +352,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeTaaku|r",
 			[51] = 1632768706,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [20]
+		}, -- [16]
 		{
 			"I", -- [1]
 			"Taaku-Kazzak", -- [2]
@@ -463,7 +374,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeTaaku|r",
 			[51] = 1632768707,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [21]
+		}, -- [17]
 		{
 			"I", -- [1]
 			"Taaku-Kazzak", -- [2]
@@ -485,7 +396,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeTaaku|r",
 			[51] = 1632768708,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [22]
+		}, -- [18]
 		{
 			"Shadow Ambush on Glacinda", -- [1]
 			"Glacinda-ArgentDawn", -- [2]
@@ -507,7 +418,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec6eaGlacinda-ArgentDawn|r",
 			[51] = 1632768728,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [23]
+		}, -- [19]
 		{
 			"3", -- [1]
 			"Glacinda-ArgentDawn", -- [2]
@@ -529,7 +440,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec6eaGlacinda-ArgentDawn|r",
 			[51] = 1632768731,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [24]
+		}, -- [20]
 		{
 			"2", -- [1]
 			"Glacinda-ArgentDawn", -- [2]
@@ -551,7 +462,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec6eaGlacinda-ArgentDawn|r",
 			[51] = 1632768732,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [25]
+		}, -- [21]
 		{
 			"1", -- [1]
 			"Glacinda-ArgentDawn", -- [2]
@@ -573,7 +484,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec6eaGlacinda-ArgentDawn|r",
 			[51] = 1632768733,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [26]
+		}, -- [22]
 		{
 			":D", -- [1]
 			"Nemezís-ArgentDawn", -- [2]
@@ -595,7 +506,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcNemezís-ArgentDawn|r",
 			[51] = 1632768856,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [27]
+		}, -- [23]
 		{
 			"'!", -- [1]
 			"Nemezís-ArgentDawn", -- [2]
@@ -617,7 +528,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcNemezís-ArgentDawn|r",
 			[51] = 1632768867,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [28]
+		}, -- [24]
 		{
 			"wow", -- [1]
 			"Fortis-Neptulon", -- [2]
@@ -639,7 +550,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cFortis-Neptulon|r",
 			[51] = 1632768876,
 			[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
-		}, -- [29]
+		}, -- [25]
 		{
 			":D", -- [1]
 			"Fortis-Neptulon", -- [2]
@@ -661,7 +572,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cFortis-Neptulon|r",
 			[51] = 1632768877,
 			[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
-		}, -- [30]
+		}, -- [26]
 		{
 			"AHHAHA", -- [1]
 			"Nemezís-ArgentDawn", -- [2]
@@ -683,7 +594,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcNemezís-ArgentDawn|r",
 			[51] = 1632768877,
 			[50] = "CHAT_MSG_WHISPER_INFORM",
-		}, -- [31]
+		}, -- [27]
 		{
 			"FUCK DIG HAHAHAH", -- [1]
 			"Nemezís-ArgentDawn", -- [2]
@@ -705,7 +616,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcNemezís-ArgentDawn|r",
 			[51] = 1632768883,
 			[50] = "CHAT_MSG_WHISPER",
-		}, -- [32]
+		}, -- [28]
 		{
 			"SKIBIDI UA-PA-PA", -- [1]
 			"Glacinda-ArgentDawn", -- [2]
@@ -727,7 +638,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec6eaGlacinda-ArgentDawn|r",
 			[51] = 1632768887,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [33]
+		}, -- [29]
 		{
 			"XDDDDDDXDD", -- [1]
 			"Nemezís-ArgentDawn", -- [2]
@@ -749,7 +660,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcNemezís-ArgentDawn|r",
 			[51] = 1632768905,
 			[50] = "CHAT_MSG_WHISPER_INFORM",
-		}, -- [34]
+		}, -- [30]
 		{
 			"jeg skal lige afk", -- [1]
 			"Nemezís-ArgentDawn", -- [2]
@@ -771,7 +682,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcNemezís-ArgentDawn|r",
 			[51] = 1632768939,
 			[50] = "CHAT_MSG_WHISPER_INFORM",
-		}, -- [35]
+		}, -- [31]
 		{
 			"ty", -- [1]
 			"Johnnydoe-Frostwhisper", -- [2]
@@ -793,7 +704,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cJohnnydoe-Frostwhisper|r",
 			[51] = 1632768939,
 			[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
-		}, -- [36]
+		}, -- [32]
 		{
 			"oké", -- [1]
 			"Nemezís-ArgentDawn", -- [2]
@@ -815,7 +726,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcNemezís-ArgentDawn|r",
 			[51] = 1632768956,
 			[50] = "CHAT_MSG_WHISPER",
-		}, -- [37]
+		}, -- [33]
 		{
 			"back", -- [1]
 			"Nemezís-ArgentDawn", -- [2]
@@ -837,7 +748,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcNemezís-ArgentDawn|r",
 			[51] = 1632769187,
 			[50] = "CHAT_MSG_WHISPER_INFORM",
-		}, -- [38]
+		}, -- [34]
 		{
 			"alliance :O?", -- [1]
 			"|Kq108|k", -- [2]
@@ -860,7 +771,7 @@ ElvCharacterDB = {
 			[51] = 1632769304,
 			[50] = "CHAT_MSG_BN_WHISPER",
 			[53] = "Kess",
-		}, -- [39]
+		}, -- [35]
 		{
 			"|cff71d5ff|Hspell:130:0|h[Slow Fall]|h|r cast on You!", -- [1]
 			"Glacinda-ArgentDawn", -- [2]
@@ -882,7 +793,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec6eaGlacinda-ArgentDawn|r",
 			[51] = 1632769773,
 			[50] = "CHAT_MSG_WHISPER",
-		}, -- [40]
+		}, -- [36]
 		{
 			"|cff71d5ff|Hspell:130:0|h[Slow Fall]|h|r on You ended!", -- [1]
 			"Glacinda-ArgentDawn", -- [2]
@@ -904,7 +815,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec6eaGlacinda-ArgentDawn|r",
 			[51] = 1632769782,
 			[50] = "CHAT_MSG_WHISPER",
-		}, -- [41]
+		}, -- [37]
 		{
 			"Volatile Acid on Nemezís", -- [1]
 			"Nemezís-ArgentDawn", -- [2]
@@ -926,7 +837,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcNemezís-ArgentDawn|r",
 			[51] = 1632769800,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [42]
+		}, -- [38]
 		{
 			"Volatile Acid on Glacinda", -- [1]
 			"Glacinda-ArgentDawn", -- [2]
@@ -948,7 +859,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec6eaGlacinda-ArgentDawn|r",
 			[51] = 1632769813,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [43]
+		}, -- [39]
 		{
 			"Zuq'nish Vwah za Ag'rr", -- [1]
 			"Taaku-Kazzak", -- [2]
@@ -970,7 +881,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeTaaku|r",
 			[51] = 1632769848,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [44]
+		}, -- [40]
 		{
 			"Volatile Acid on Nemezís", -- [1]
 			"Nemezís-ArgentDawn", -- [2]
@@ -992,7 +903,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcNemezís-ArgentDawn|r",
 			[51] = 1632769861,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [45]
+		}, -- [41]
 		{
 			"Volatile Acid on Taaku", -- [1]
 			"Taaku-Kazzak", -- [2]
@@ -1014,7 +925,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeTaaku|r",
 			[51] = 1632769905,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [46]
+		}, -- [42]
 		{
 			"Volatile Acid on Glacinda", -- [1]
 			"Glacinda-ArgentDawn", -- [2]
@@ -1036,7 +947,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec6eaGlacinda-ArgentDawn|r",
 			[51] = 1632769907,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [47]
+		}, -- [43]
 		{
 			"SKIBIDI UA-PA-PA", -- [1]
 			"Glacinda-ArgentDawn", -- [2]
@@ -1058,7 +969,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec6eaGlacinda-ArgentDawn|r",
 			[51] = 1632769944,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [48]
+		}, -- [44]
 		{
 			"Mind Link on Nemezís", -- [1]
 			"Nemezís-ArgentDawn", -- [2]
@@ -1080,7 +991,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcNemezís-ArgentDawn|r",
 			[51] = 1632769956,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [49]
+		}, -- [45]
 		{
 			"SKIBIDI UA-PA-PA", -- [1]
 			"Glacinda-ArgentDawn", -- [2]
@@ -1102,7 +1013,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec6eaGlacinda-ArgentDawn|r",
 			[51] = 1632770201,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [50]
+		}, -- [46]
 		{
 			"Heaving Retch on Glacinda", -- [1]
 			"Glacinda-ArgentDawn", -- [2]
@@ -1124,7 +1035,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec6eaGlacinda-ArgentDawn|r",
 			[51] = 1632770204,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [51]
+		}, -- [47]
 		{
 			"Grim Fate on Glacinda", -- [1]
 			"Glacinda-ArgentDawn", -- [2]
@@ -1146,7 +1057,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec6eaGlacinda-ArgentDawn|r",
 			[51] = 1632770350,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [52]
+		}, -- [48]
 		{
 			"3", -- [1]
 			"Glacinda-ArgentDawn", -- [2]
@@ -1168,7 +1079,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec6eaGlacinda-ArgentDawn|r",
 			[51] = 1632770351,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [53]
+		}, -- [49]
 		{
 			"2", -- [1]
 			"Glacinda-ArgentDawn", -- [2]
@@ -1190,7 +1101,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec6eaGlacinda-ArgentDawn|r",
 			[51] = 1632770352,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [54]
+		}, -- [50]
 		{
 			"1", -- [1]
 			"Glacinda-ArgentDawn", -- [2]
@@ -1212,7 +1123,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec6eaGlacinda-ArgentDawn|r",
 			[51] = 1632770353,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [55]
+		}, -- [51]
 		{
 			"Throw Cleaver on Bigforker", -- [1]
 			"Bigforker-Runetotem", -- [2]
@@ -1234,7 +1145,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cBigforker-Runetotem|r",
 			[51] = 1632770737,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [56]
+		}, -- [52]
 		{
 			"Meat Hook on Glacinda", -- [1]
 			"Glacinda-ArgentDawn", -- [2]
@@ -1256,7 +1167,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec6eaGlacinda-ArgentDawn|r",
 			[51] = 1632770818,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [57]
+		}, -- [53]
 		{
 			"3", -- [1]
 			"Glacinda-ArgentDawn", -- [2]
@@ -1278,7 +1189,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec6eaGlacinda-ArgentDawn|r",
 			[51] = 1632770818,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [58]
+		}, -- [54]
 		{
 			"2", -- [1]
 			"Glacinda-ArgentDawn", -- [2]
@@ -1300,7 +1211,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec6eaGlacinda-ArgentDawn|r",
 			[51] = 1632770819,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [59]
+		}, -- [55]
 		{
 			"1", -- [1]
 			"Glacinda-ArgentDawn", -- [2]
@@ -1322,7 +1233,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec6eaGlacinda-ArgentDawn|r",
 			[51] = 1632770820,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [60]
+		}, -- [56]
 		{
 			"!", -- [1]
 			"Nemezís-ArgentDawn", -- [2]
@@ -1344,7 +1255,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcNemezís-ArgentDawn|r",
 			[51] = 1632770840,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [61]
+		}, -- [57]
 		{
 			"dont kill the zombies", -- [1]
 			"Taaku-Kazzak", -- [2]
@@ -1366,7 +1277,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeTaaku|r",
 			[51] = 1632770848,
 			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [62]
+		}, -- [58]
 		{
 			"Meat Hook on Taaku", -- [1]
 			"Taaku-Kazzak", -- [2]
@@ -1388,7 +1299,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeTaaku|r",
 			[51] = 1632770849,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [63]
+		}, -- [59]
 		{
 			"3", -- [1]
 			"Taaku-Kazzak", -- [2]
@@ -1410,7 +1321,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeTaaku|r",
 			[51] = 1632770850,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [64]
+		}, -- [60]
 		{
 			"2", -- [1]
 			"Taaku-Kazzak", -- [2]
@@ -1432,7 +1343,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeTaaku|r",
 			[51] = 1632770851,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [65]
+		}, -- [61]
 		{
 			"1", -- [1]
 			"Taaku-Kazzak", -- [2]
@@ -1454,7 +1365,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeTaaku|r",
 			[51] = 1632770852,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [66]
+		}, -- [62]
 		{
 			"hahaha", -- [1]
 			"Nemezís-ArgentDawn", -- [2]
@@ -1476,7 +1387,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcNemezís-ArgentDawn|r",
 			[51] = 1632770860,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [67]
+		}, -- [63]
 		{
 			"fu", -- [1]
 			"Taaku-Kazzak", -- [2]
@@ -1498,7 +1409,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeTaaku|r",
 			[51] = 1632770864,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [68]
+		}, -- [64]
 		{
 			"closer", -- [1]
 			"Bigforker-Runetotem", -- [2]
@@ -1520,7 +1431,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cBigforker-Runetotem|r",
 			[51] = 1632770865,
 			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [69]
+		}, -- [65]
 		{
 			"Meat Hook on Nemezís", -- [1]
 			"Nemezís-ArgentDawn", -- [2]
@@ -1542,7 +1453,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcNemezís-ArgentDawn|r",
 			[51] = 1632770867,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [70]
+		}, -- [66]
 		{
 			":D", -- [1]
 			"Nemezís-ArgentDawn", -- [2]
@@ -1564,7 +1475,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcNemezís-ArgentDawn|r",
 			[51] = 1632770868,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [71]
+		}, -- [67]
 		{
 			"3", -- [1]
 			"Nemezís-ArgentDawn", -- [2]
@@ -1586,7 +1497,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcNemezís-ArgentDawn|r",
 			[51] = 1632770869,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [72]
+		}, -- [68]
 		{
 			"2", -- [1]
 			"Nemezís-ArgentDawn", -- [2]
@@ -1608,7 +1519,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcNemezís-ArgentDawn|r",
 			[51] = 1632770870,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [73]
+		}, -- [69]
 		{
 			"1", -- [1]
 			"Nemezís-ArgentDawn", -- [2]
@@ -1630,7 +1541,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcNemezís-ArgentDawn|r",
 			[51] = 1632770871,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [74]
+		}, -- [70]
 		{
 			"watch the champ in action", -- [1]
 			"Nemezís-ArgentDawn", -- [2]
@@ -1652,7 +1563,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcNemezís-ArgentDawn|r",
 			[51] = 1632770882,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [75]
+		}, -- [71]
 		{
 			"Meat Hook on Taaku", -- [1]
 			"Taaku-Kazzak", -- [2]
@@ -1674,7 +1585,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeTaaku|r",
 			[51] = 1632770882,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [76]
+		}, -- [72]
 		{
 			"3", -- [1]
 			"Taaku-Kazzak", -- [2]
@@ -1696,7 +1607,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeTaaku|r",
 			[51] = 1632770883,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [77]
+		}, -- [73]
 		{
 			"2", -- [1]
 			"Taaku-Kazzak", -- [2]
@@ -1718,7 +1629,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeTaaku|r",
 			[51] = 1632770884,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [78]
+		}, -- [74]
 		{
 			"1", -- [1]
 			"Taaku-Kazzak", -- [2]
@@ -1740,7 +1651,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeTaaku|r",
 			[51] = 1632770885,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [79]
+		}, -- [75]
 		{
 			"Frozen Binds on Bigforker", -- [1]
 			"Bigforker-Runetotem", -- [2]
@@ -1762,7 +1673,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cBigforker-Runetotem|r",
 			[51] = 1632770923,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [80]
+		}, -- [76]
 		{
 			"Frozen Binds", -- [1]
 			"Bigforker-Runetotem", -- [2]
@@ -1784,7 +1695,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cBigforker-Runetotem|r",
 			[51] = 1632770932,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [81]
+		}, -- [77]
 		{
 			"Frozen Binds on Future", -- [1]
 			"Future-Auchindoun", -- [2]
@@ -1806,7 +1717,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Future-Auchindoun|r",
 			[51] = 1632770933,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [82]
+		}, -- [78]
 		{
 			"sorry", -- [1]
 			"Future-Auchindoun", -- [2]
@@ -1828,7 +1739,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Future-Auchindoun|r",
 			[51] = 1632770952,
 			[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
-		}, -- [83]
+		}, -- [79]
 		{
 			"HEH", -- [1]
 			"Nemezís-ArgentDawn", -- [2]
@@ -1850,7 +1761,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcNemezís-ArgentDawn|r",
 			[51] = 1632770958,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [84]
+		}, -- [80]
 		{
 			"sidder og skriver en sur besked og self. bliver jeg hooked", -- [1]
 			"|Kq81|k", -- [2]
@@ -1873,7 +1784,7 @@ ElvCharacterDB = {
 			[51] = 1632771023,
 			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
 			[53] = "Jade",
-		}, -- [85]
+		}, -- [81]
 		{
 			"bahahahahaha", -- [1]
 			"|Kq81|k", -- [2]
@@ -1896,7 +1807,7 @@ ElvCharacterDB = {
 			[51] = 1632771050,
 			[50] = "CHAT_MSG_BN_WHISPER",
 			[53] = "Jade",
-		}, -- [86]
+		}, -- [82]
 		{
 			"SKIBIDI UA-PA-PA", -- [1]
 			"Glacinda-ArgentDawn", -- [2]
@@ -1918,7 +1829,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec6eaGlacinda-ArgentDawn|r",
 			[51] = 1632771132,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [87]
+		}, -- [83]
 		{
 			"Shadow Ambush on Taaku", -- [1]
 			"Taaku-Kazzak", -- [2]
@@ -1940,7 +1851,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeTaaku|r",
 			[51] = 1632771513,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [88]
+		}, -- [84]
 		{
 			"3", -- [1]
 			"Taaku-Kazzak", -- [2]
@@ -1962,7 +1873,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeTaaku|r",
 			[51] = 1632771516,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [89]
+		}, -- [85]
 		{
 			"2", -- [1]
 			"Taaku-Kazzak", -- [2]
@@ -1984,7 +1895,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeTaaku|r",
 			[51] = 1632771516,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [90]
+		}, -- [86]
 		{
 			"1", -- [1]
 			"Taaku-Kazzak", -- [2]
@@ -2006,7 +1917,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeTaaku|r",
 			[51] = 1632771518,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [91]
+		}, -- [87]
 		{
 			"Shadow Ambush on Nemezís", -- [1]
 			"Nemezís-ArgentDawn", -- [2]
@@ -2028,7 +1939,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcNemezís-ArgentDawn|r",
 			[51] = 1632771532,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [92]
+		}, -- [88]
 		{
 			"3", -- [1]
 			"Nemezís-ArgentDawn", -- [2]
@@ -2050,7 +1961,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcNemezís-ArgentDawn|r",
 			[51] = 1632771535,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [93]
+		}, -- [89]
 		{
 			"jeg stopper her :D sengetid for mig", -- [1]
 			"Taaku-Kazzak", -- [2]
@@ -2072,7 +1983,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeTaaku|r",
 			[51] = 1632771692,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [94]
+		}, -- [90]
 		{
 			"Sleep well!", -- [1]
 			"Nemezís-ArgentDawn", -- [2]
@@ -2094,7 +2005,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcNemezís-ArgentDawn|r",
 			[51] = 1632771703,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [95]
+		}, -- [91]
 		{
 			"o/", -- [1]
 			"Taaku-Kazzak", -- [2]
@@ -2116,7 +2027,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeTaaku|r",
 			[51] = 1632771706,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [96]
+		}, -- [92]
 		{
 			"sov godt", -- [1]
 			"Glacinda-ArgentDawn", -- [2]
@@ -2138,7 +2049,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec6eaGlacinda-ArgentDawn|r",
 			[51] = 1632771707,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [97]
+		}, -- [93]
 		{
 			"ty for dungs", -- [1]
 			"Glacinda-ArgentDawn", -- [2]
@@ -2160,7 +2071,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec6eaGlacinda-ArgentDawn|r",
 			[51] = 1632771709,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [98]
+		}, -- [94]
 		{
 			"tak for dungs", -- [1]
 			"Nemezís-ArgentDawn", -- [2]
@@ -2182,29 +2093,121 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcNemezís-ArgentDawn|r",
 			[51] = 1632771709,
 			[50] = "CHAT_MSG_PARTY_LEADER",
+		}, -- [95]
+		{
+			"fair nok :p", -- [1]
+			"|Kq79|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			2345, -- [11]
+			false, -- [12]
+			115, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff00fe97Jade|r",
+			[51] = 1636298801,
+			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
+			[53] = "Jade",
+		}, -- [96]
+		{
+			"det var ikke langt du kom xD", -- [1]
+			"|Kq79|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			2366, -- [11]
+			false, -- [12]
+			115, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff00fe97Jade|r",
+			[51] = 1636298814,
+			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
+			[53] = "Jade",
+		}, -- [97]
+		{
+			"Fortsætter sernere!", -- [1]
+			"|Kq79|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			2514, -- [11]
+			false, -- [12]
+			115, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff00fe97Jade|r",
+			[51] = 1636298919,
+			[50] = "CHAT_MSG_BN_WHISPER",
+			[53] = "Jade",
+		}, -- [98]
+		{
+			"senere**", -- [1]
+			"|Kq79|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			2521, -- [11]
+			false, -- [12]
+			115, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff00fe97Jade|r",
+			[51] = 1636298924,
+			[50] = "CHAT_MSG_BN_WHISPER",
+			[53] = "Jade",
 		}, -- [99]
 	},
 	["ChatEditHistory"] = {
-		"/wa", -- [1]
-		"/p reee", -- [2]
-		"det er helt ok ^^", -- [3]
-		"har ikke noget imod at chill", -- [4]
-		"er ret død i hovedet", -- [5]
-		"jeg synes det er vildt at jeg er dødtræt om morgenen selv når jeg går i seng kl 10", -- [6]
-		"halv 10 er jeg forholdsvis frisk", -- [7]
-		"måske", -- [8]
-		"en kombination tror jeg", -- [9]
-		"har nok brug for mere søvn nu hvor jeg er en del mere fysisk aktiv", -- [10]
-		"/cw Nemezís-ArgentDawn xD", -- [11]
-		"/cw Nemezís-ArgentDawn AHHAHA", -- [12]
-		"/cw Nemezís-ArgentDawn XDDDDDDXDD", -- [13]
-		"/cw Nemezís-ArgentDawn jeg skal lige afk", -- [14]
-		"/cw Nemezís-ArgentDawn back", -- [15]
-		"/i dont kill the zombies", -- [16]
-		"/s fu", -- [17]
-		"sidder og skriver en sur besked og self. bliver jeg hooked", -- [18]
-		"/p jeg stopper her :D sengetid for mig", -- [19]
-		"/p o/", -- [20]
+		"/p reee", -- [1]
+		"det er helt ok ^^", -- [2]
+		"har ikke noget imod at chill", -- [3]
+		"er ret død i hovedet", -- [4]
+		"jeg synes det er vildt at jeg er dødtræt om morgenen selv når jeg går i seng kl 10", -- [5]
+		"halv 10 er jeg forholdsvis frisk", -- [6]
+		"måske", -- [7]
+		"en kombination tror jeg", -- [8]
+		"har nok brug for mere søvn nu hvor jeg er en del mere fysisk aktiv", -- [9]
+		"/cw Nemezís-ArgentDawn xD", -- [10]
+		"/cw Nemezís-ArgentDawn AHHAHA", -- [11]
+		"/cw Nemezís-ArgentDawn XDDDDDDXDD", -- [12]
+		"/cw Nemezís-ArgentDawn jeg skal lige afk", -- [13]
+		"/cw Nemezís-ArgentDawn back", -- [14]
+		"/i dont kill the zombies", -- [15]
+		"/s fu", -- [16]
+		"sidder og skriver en sur besked og self. bliver jeg hooked", -- [17]
+		"/p jeg stopper her :D sengetid for mig", -- [18]
+		"/p o/", -- [19]
+		"det var ikke langt du kom xD", -- [20]
 	},
 	["ConvertKeybindings"] = true,
 }

@@ -1,23 +1,27 @@
 
 ProjectAzilrokaDB = {
 	["profileKeys"] = {
+		["Hunteraki - Frostmane"] = "Default",
 		["Takii - Frostmane"] = "Default",
+		["Rentakisham - EU Mythic Dungeons"] = "Default",
 		["Takidari - Kazzak"] = "Default",
 		["Taaku - Kazzak"] = "Default",
 		["Ivelea - Argent Dawn"] = "Default",
 		["Huntaki - Ravencrest"] = "Default",
+		["Rendudu - Kazzak"] = "Default",
 		["Thaaeyn - Argent Dawn"] = "Default",
 		["Takii - Argent Dawn"] = "Default",
 		["Renqqø - Kazzak"] = "Default",
-		["Rendudu - Kazzak"] = "Default",
+		["Takiwar - Kazzak"] = "Default",
+		["Takeera - Kazzak"] = "Default",
 		["Renwarri - Kazzak"] = "Default",
 		["Takiscoper - Kazzak"] = "Default",
-		["Takibank - Argent Dawn"] = "Default",
-		["Rentaco - Kazzak"] = "Default",
 		["Rentaki - Kazzak"] = "Default",
-		["Takidin - Kazzak"] = "Default",
+		["Takibank - Argent Dawn"] = "Default",
+		["Takitest - Kazzak"] = "Default",
+		["Rentaco - Kazzak"] = "Default",
 		["Rentaco - Ravencrest"] = "Default",
-		["Rentakisham - EU Mythic Dungeons"] = "Default",
+		["Takidin - Kazzak"] = "Default",
 	},
 	["profiles"] = {
 		["Default"] = {
@@ -25,7 +29,7 @@ ProjectAzilrokaDB = {
 				["Enable"] = false,
 				["Size"] = 10,
 			},
-			["AuraReminder"] = {
+			["ReputationReward"] = {
 				["Enable"] = false,
 			},
 			["TorghastBuffs"] = {
@@ -60,7 +64,7 @@ ProjectAzilrokaDB = {
 			["MouseoverAuras"] = {
 				["Enable"] = false,
 			},
-			["ReputationReward"] = {
+			["AuraReminder"] = {
 				["Enable"] = false,
 			},
 			["EnhancedFriendsList"] = {

@@ -1,9 +1,12 @@
 # LittleWigs
 
-## [v9.1.6](https://github.com/BigWigsMods/LittleWigs/tree/v9.1.6) (2021-12-19)
-[Full Changelog](https://github.com/BigWigsMods/LittleWigs/compare/v9.1.5...v9.1.6) [Previous Releases](https://github.com/BigWigsMods/LittleWigs/releases)
+## [v9.2.0](https://github.com/BigWigsMods/LittleWigs/tree/v9.2.0) (2022-02-23)
+[Full Changelog](https://github.com/BigWigsMods/LittleWigs/compare/v9.1.5...v9.2.0) [Previous Releases](https://github.com/BigWigsMods/LittleWigs/releases)
 
+- Update deDE (#626)  
+- bump toc  
 - Legion/ArtifactScenarios/Agatha: Better active time for second and third trigger  
+- Update zhCN (#623)  
 - Legion/ArtifactScenarios/LordErdrisThorn: Fix UnitBuff error  
     Fixes #625  
 - Legion/ArtifactScenarios/Agatha: Use locales for the warmup  

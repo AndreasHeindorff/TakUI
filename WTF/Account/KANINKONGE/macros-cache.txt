@@ -1,3 +1,18 @@
+VER 3 00000000000000E8 ".cov dmg" "3565725"
+#showtooltip
+/use [@cursor]Vesper Totem
+/use [@cursor]Fae Transfusion
+/use [@mouseover,harm,nodead][harm]Primordial Wave
+/run local G=GetSpellInfo SetMacroSpell(GetRunningMacro(), G"Primordial Wave" or G"Vesper Totem" or G"Fae Transfusion")
+END
+VER 3 00000000000000EE ".cov-sig-ability" "3601561"
+#showtooltip
+/cast Door of Shadows
+/cast Soulshape
+/cast Fleshcraft
+/cast Summon Steward
+/run local G=GetSpellInfo SetMacroSpell(GetRunningMacro(), G"Door of Shadows" or G"Soulshape" or G"Fleshcraft"or G"Summon Steward")
+END
 VER 3 00000000000000E9 "@player windrush" "INV_MISC_QUESTIONMARK"
 #showtooltip
 /cast [@player] wind rush totem
@@ -9,10 +24,6 @@ END
 VER 3 0000000000000096 "Ankh" "INV_MISC_QUESTIONMARK"
 #showtooltip reincarnation
 END
-VER 3 00000000000000D7 "asd" "INV_MISC_QUESTIONMARK"
-/tar mothbane
-/cast frost shock
-END
 VER 3 00000000000000CA "asd" "136043"
 /cancelaura Atonement
 /cancelaura Rejuvenation
@@ -21,6 +32,10 @@ VER 3 00000000000000CA "asd" "136043"
 /cancelaura Glimmer of Light
 /cancelaura Concentrated Mending
 /cancelaura Bracing Chill
+END
+VER 3 00000000000000D7 "asd" "INV_MISC_QUESTIONMARK"
+/tar mothbane
+/cast frost shock
 END
 VER 3 00000000000000CD "asdf" "136103"
 /script TradeSkillFrame.DetailsFrame:Create();
@@ -92,7 +107,9 @@ VER 3 0000000000000037 "Focus" "INV_MISC_QUESTIONMARK"
 /focus [@mouseover,exists]
 END
 VER 3 00000000000000DF "focus hex" "INV_MISC_QUESTIONMARK"
-/cast [@focus] hex
+#showtooltip hex
+/cast [nomod] hex
+/cast [mod:ctrl, @focus] hex
 END
 VER 3 000000000000005C "Focus Kick" "INV_MISC_QUESTIONMARK"
 /cast [@focus] Wind Shear
@@ -100,18 +117,14 @@ END
 VER 3 00000000000000E7 "focus purge" "INV_MISC_QUESTIONMARK"
 /cast [@focus] Purge
 END
-VER 3 000000000000006C "FS mo" "INV_MISC_QUESTIONMARK"
-#showtooltip Blessing of Freedom
-/cast [@mouseover] Blessing of Freedom
-END
 VER 3 00000000000000E3 "fs mo" "INV_MISC_QUESTIONMARK"
 #showtooltip Flame Shock
 /cast [nomod] flame shock
 /cast [mod:alt, @mouseover] flame shock 
 END
-VER 3 00000000000000E8 "ft mo" "INV_MISC_QUESTIONMARK"
-#showtooltip
-/cast [@cursor] fae transfusion
+VER 3 000000000000006C "FS mo" "INV_MISC_QUESTIONMARK"
+#showtooltip Blessing of Freedom
+/cast [@mouseover] Blessing of Freedom
 END
 VER 3 00000000000000EA "ground/skyfury" "INV_MISC_QUESTIONMARK"
 #showtooltip
@@ -199,11 +212,11 @@ END
 VER 3 00000000000000D9 "ShowVault" "133154"
 /run LoadAddOn("Blizzard_WeeklyRewards"); WeeklyRewardsFrame:Show()
 END
-VER 3 00000000000000BE "skull" "INV_MISC_QUESTIONMARK"
-/run SetRaidTarget("target",8)
-END
 VER 3 00000000000000A0 "skull" "INV_MISC_QUESTIONMARK"
 /run SetRaidTarget("target", 8)
+END
+VER 3 00000000000000BE "skull" "INV_MISC_QUESTIONMARK"
+/run SetRaidTarget("target",8)
 END
 VER 3 00000000000000D6 "Skyfury banners" "INV_MISC_QUESTIONMARK"
 #showtooltip
@@ -249,6 +262,6 @@ VER 3 00000000000000BF "windrush" "INV_MISC_QUESTIONMARK"
 #showtooltip Wind Rush Totem
 /cast [@cursor] Wind Rush Totem
 END
-VER 3 0000000000000085 "XtraAB" "INV_MISC_QUESTIONMARK"
+VER 3 0000000000000085 "XtraAB" "236248"
 /click ExtraActionButton1
 END

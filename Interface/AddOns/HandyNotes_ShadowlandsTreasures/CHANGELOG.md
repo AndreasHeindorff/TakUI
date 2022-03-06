@@ -1,5 +1,84 @@
 # Changelog
 
+## Changed in v44
+
+* Dune Dominance mobs: more loot, show notes so you know which mob drops which items
+* Ripened Protopear: show icon on the main map for the entrance to the Blooming Foundry
+* Show spell tooltips on lore concordances and the wellspring so you know what buff you can get
+* Minor tweaks to map icon sizes
+
+## Changed in v43
+
+* March 3rd hotfix: Interrogator's Vicious Dirk now drops from all the Dune Domination mobs
+* Last lore concordance questids added
+* Orixal has moved
+* Assorted minor point tweaks
+
+## Changed in v42
+
+* A hotfix on March 1st put the Ancient Translocators on the Zereth Mortis map (*so* on the map that they're the only thing you can see if you've got no map-completion at all 😁), so I'm removing mine
+* Added some notes to schematic loot drops indicating whether they're for a mount or a pet
+* Remove an item from Hirukon that was incorrectly flagged as being a pet -- it's just an ingredient for a pet
+* Prep-work for adding points for schematic-gathering, all hidden for now
+
+## Changed in v41
+
+* Explain the Syntactic Vault and add points for the runic syllables
+* Utility points:
+    * The Ancient Translocator to the Sepulchur
+    * The Wellspring of the First Ones
+* Changed the color of Glissandian caches to be more distinct
+* More questids and note tweaks
+
+## Changed in v40
+
+* Pulled in more loot from Wowhead
+* Now have the correct research levels for the lore concordances
+* Show the Synthesis Forge on the map once you've unlocked it
+
+## Changed in v39
+
+* Show Completing the Code mobs on the minimap
+* Show the transporter to the Antecedent Isle
+* Show a point for Mai Toa on day 6 of the Patient Bufonid
+* Show whether you've used the lure on Hirukon this week
+* Explain the Provis Cache
+
+## Changed in v38
+
+* Various quest and loot updates for Zereth Mortis
+* Show little dots for spawn points of the Lost Ovoids needed for the Mistaken Ovoid treasure
+* Minor improvements to the appearance of item names in text and loot tooltips
+* Points with multiple questids weren't displaying them correctly if you had that enabled
+
+## Changed in v37
+
+* A bunch of new loot on rares
+* Better labeling on caches
+* Split up the lore concordances
+
+## Changed in v36
+
+* This is the "I had to play a fresh character through Zereth Mortis with nothing unlocked yet" release
+* Rewrote my "is this point active?" system so it's a lot easier for me to set complicated conditions
+* Better flag conditions for Lore Concordances. (I'm not sure what the exact conditions are for some.)
+* Hide the Completing the Code rares before you've done Firim's quests
+* Hide the Patient Bufonid before it's available
+* Show the puzzle caches on the minimap, and color them by type
+* Added various questids, explained a few jumping routes, fixed some typos
+
+## Changed in v35
+
+* Updated for 9.2
+* New data for Zereth Mortis
+* Korthia: Xyraxz the Unknowable doesn't drop Gnashtooth after all
+* Bastion: some Collector Astorestes loot is shared with the Relic Hoarder
+
+## Changed in v34
+
+* Added a new Maelie location in Korthia
+* Fixed an issue for some people causing errors when viewing the map
+
 ## Changed in v33
 
 * Added a lot of nodes to groups for easier hiding of clutter: Fractured Faerie Tales, Playful Vulpin, Shard Labor, Wardrobe Makeover, Harvester of Sorrow, Spectral Keys, Stolen Anima Vessels, Rift Hidden Caches, and various transportation hints

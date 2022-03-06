@@ -23,7 +23,6 @@ VER 3 010000000000002A "EB/Echo" "INV_MISC_QUESTIONMARK"
 #showtooltip
 /cast [talent:2/2] Echoing Shock
 /cast [talent:2/3] Elemental Blast
-/cast [talent:2/1] wind shear
 END
 VER 3 0100000000000024 "es/downpour" "INV_MISC_QUESTIONMARK"
 #showtooltip

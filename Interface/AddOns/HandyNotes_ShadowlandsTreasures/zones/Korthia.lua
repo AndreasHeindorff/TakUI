@@ -4,8 +4,8 @@ local path = ns.path
 
 local RELIC_FRAGMENT = 186685 -- relic fragment
 local rift_active = {
-    requires_buff={352795, 354870, any=true},
-    note="You need to be in the rift to see ",
+    ns.conditions.AuraActive(352795), ns.conditions.AuraActive(354870), any=true,
+    note="You need to be in the rift to see this",
 }
 
 ns.groups["dailymount"] = "Daily Mounts"
@@ -509,6 +509,7 @@ ns.RegisterPoints(1961, { -- Korthia
     [59801510] = {}, -- on cliff
     [61304040] = {}, -- on cliff
     [62404970] = {}, -- by cliff behind large tree
+    [67962980] = {},
 }, {
     quest={64292,64298,any=true}, -- 2 is the final mount-quest, 8 is found-today
     progress={64293, 64294, 64295, 64296, 64297, 64299},
@@ -756,7 +757,6 @@ ns.RegisterPoints(1961, { -- Korthia
         npc=179859,
         -- requires_item=186718,
         loot={
-            {186538, pet=3140}, -- Gnashtooth
             {187104, quest=63918}, -- Obelisk of Dark Tidings
             187387, -- Pauldrons of the Unknown Beyond
             187368, -- Xyraxz's Controlling Rod
@@ -852,7 +852,7 @@ ns.RegisterPoints(1961, {
     [64502400] = {
         label="Waystone to Oribos",
         atlas="adventures-32x32", scale=1.2,
-        active={quest=63665},
+        active=ns.conditions.QuestComplete(63665),
         minimap=true,
         group="Transportation",
     },
@@ -864,6 +864,6 @@ ns.RegisterPoints(1961, {
 }, {
     label="{npc:180548}",
     atlas="flightmaster", scale=1.2,
-    active={quest=63665},
+    active=ns.conditions.QuestComplete(63665),
     group="Transportation",
 })

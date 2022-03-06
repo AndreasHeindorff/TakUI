@@ -1,6 +1,86 @@
 
 TukuiDatabase = {
 	["Variables"] = {
+		["Frostmane"] = {
+			["Hunteraki"] = {
+				["Installation"] = {
+					["Done"] = true,
+				},
+				["Misc"] = {
+				},
+				["Move"] = {
+				},
+				["ActionBars"] = {
+				},
+				["DataTexts"] = {
+					["Friends"] = {
+						true, -- [1]
+						3, -- [2]
+					},
+					["Character"] = {
+						true, -- [1]
+						2, -- [2]
+					},
+					["Guild"] = {
+						true, -- [1]
+						1, -- [2]
+					},
+					["Gold"] = {
+						true, -- [1]
+						6, -- [2]
+					},
+					["System"] = {
+						true, -- [1]
+						4, -- [2]
+					},
+					["Time"] = {
+						true, -- [1]
+						7, -- [2]
+					},
+					["MicroMenu"] = {
+						true, -- [1]
+						5, -- [2]
+					},
+				},
+				["Tracking"] = {
+					["PvP"] = {
+					},
+					["PvE"] = {
+					},
+				},
+				["Chat"] = {
+					["Positions"] = {
+						["Frame1"] = {
+							["Anchor1"] = "BOTTOMLEFT",
+							["X"] = 0,
+							["Width"] = 450,
+							["Anchor2"] = "TOPLEFT",
+							["Y"] = 3.999999761581421,
+							["Height"] = 142,
+							["IsUndocked"] = false,
+						},
+						["Frame2"] = {
+							["Anchor1"] = "TOPLEFT",
+							["X"] = 0,
+							["Width"] = 450,
+							["Anchor2"] = "TOPLEFT",
+							["Y"] = -24.00000381469727,
+							["Height"] = 117.9999923706055,
+							["IsUndocked"] = false,
+						},
+						["Frame4"] = {
+							["Anchor1"] = "BOTTOMLEFT",
+							["X"] = 0,
+							["Width"] = 450,
+							["Anchor2"] = "TOPLEFT",
+							["Y"] = 3.999999761581421,
+							["Height"] = 142,
+							["IsUndocked"] = true,
+						},
+					},
+				},
+			},
+		},
 		["Argent Dawn"] = {
 			["Ivelea"] = {
 				["Installation"] = {
@@ -245,7 +325,7 @@ TukuiDatabase = {
 			},
 		},
 		["Kazzak"] = {
-			["Rentaco"] = {
+			["Takiwar"] = {
 				["Installation"] = {
 					["Done"] = true,
 				},
@@ -272,13 +352,13 @@ TukuiDatabase = {
 						true, -- [1]
 						6, -- [2]
 					},
-					["Time"] = {
-						true, -- [1]
-						7, -- [2]
-					},
 					["MicroMenu"] = {
 						true, -- [1]
 						5, -- [2]
+					},
+					["Time"] = {
+						true, -- [1]
+						7, -- [2]
 					},
 					["System"] = {
 						true, -- [1]
@@ -293,15 +373,6 @@ TukuiDatabase = {
 				},
 				["Chat"] = {
 					["Positions"] = {
-						["Frame5"] = {
-							["Anchor1"] = "TOPLEFT",
-							["X"] = 0,
-							["IsUndocked"] = false,
-							["Anchor2"] = "TOPLEFT",
-							["Height"] = 142,
-							["Y"] = 0,
-							["Width"] = 450,
-						},
 						["Frame1"] = {
 							["Anchor1"] = "BOTTOMLEFT",
 							["X"] = 0,
@@ -329,6 +400,316 @@ TukuiDatabase = {
 							["Y"] = 3.999999761581421,
 							["Width"] = 449.9999694824219,
 						},
+					},
+				},
+			},
+			["Renqqø"] = {
+				["Installation"] = {
+					["Done"] = true,
+				},
+				["Misc"] = {
+				},
+				["Move"] = {
+				},
+				["ActionBars"] = {
+				},
+				["DataTexts"] = {
+					["Friends"] = {
+						true, -- [1]
+						3, -- [2]
+					},
+					["Character"] = {
+						true, -- [1]
+						2, -- [2]
+					},
+					["Guild"] = {
+						true, -- [1]
+						1, -- [2]
+					},
+					["Gold"] = {
+						true, -- [1]
+						6, -- [2]
+					},
+					["System"] = {
+						true, -- [1]
+						4, -- [2]
+					},
+					["Time"] = {
+						true, -- [1]
+						7, -- [2]
+					},
+					["MicroMenu"] = {
+						true, -- [1]
+						5, -- [2]
+					},
+				},
+				["Tracking"] = {
+					["PvP"] = {
+					},
+					["PvE"] = {
+					},
+				},
+				["Chat"] = {
+					["Positions"] = {
+						["Frame1"] = {
+							["Anchor1"] = "BOTTOMLEFT",
+							["X"] = 0,
+							["Width"] = 450,
+							["Anchor2"] = "TOPLEFT",
+							["Y"] = 3.999999761581421,
+							["Height"] = 141.9999847412109,
+							["IsUndocked"] = false,
+						},
+						["Frame2"] = {
+							["Anchor1"] = "TOPLEFT",
+							["X"] = 0,
+							["Width"] = 450,
+							["Anchor2"] = "TOPLEFT",
+							["Y"] = -24.00000381469727,
+							["Height"] = 117.9999923706055,
+							["IsUndocked"] = false,
+						},
+						["Frame4"] = {
+							["Anchor1"] = "BOTTOMLEFT",
+							["X"] = 0,
+							["Width"] = 449.9999694824219,
+							["Anchor2"] = "TOPLEFT",
+							["Y"] = 3.999999761581421,
+							["Height"] = 141.9999847412109,
+							["IsUndocked"] = true,
+						},
+					},
+				},
+			},
+			["Renwarri"] = {
+				["Installation"] = {
+					["Done"] = true,
+				},
+				["Misc"] = {
+				},
+				["Move"] = {
+				},
+				["ActionBars"] = {
+				},
+				["DataTexts"] = {
+					["Friends"] = {
+						true, -- [1]
+						3, -- [2]
+					},
+					["Character"] = {
+						true, -- [1]
+						2, -- [2]
+					},
+					["Guild"] = {
+						true, -- [1]
+						1, -- [2]
+					},
+					["Gold"] = {
+						true, -- [1]
+						6, -- [2]
+					},
+					["MicroMenu"] = {
+						true, -- [1]
+						5, -- [2]
+					},
+					["Time"] = {
+						true, -- [1]
+						7, -- [2]
+					},
+					["System"] = {
+						true, -- [1]
+						4, -- [2]
+					},
+				},
+				["Tracking"] = {
+					["PvE"] = {
+					},
+					["PvP"] = {
+					},
+				},
+				["Chat"] = {
+					["Positions"] = {
+						["Frame1"] = {
+							["Anchor1"] = "BOTTOMLEFT",
+							["X"] = 0,
+							["IsUndocked"] = false,
+							["Anchor2"] = "TOPLEFT",
+							["Height"] = 142,
+							["Y"] = 3.999999761581421,
+							["Width"] = 450,
+						},
+						["Frame2"] = {
+							["Anchor1"] = "TOPLEFT",
+							["X"] = 0,
+							["IsUndocked"] = false,
+							["Anchor2"] = "TOPLEFT",
+							["Height"] = 117.9999923706055,
+							["Y"] = -24.00000381469727,
+							["Width"] = 450,
+						},
+						["Frame4"] = {
+							["Anchor1"] = "BOTTOMLEFT",
+							["X"] = 0,
+							["IsUndocked"] = true,
+							["Anchor2"] = "TOPLEFT",
+							["Height"] = 142,
+							["Y"] = 3.999999761581421,
+							["Width"] = 450,
+						},
+					},
+				},
+			},
+			["Takitest"] = {
+				["Installation"] = {
+					["Done"] = true,
+				},
+				["Misc"] = {
+				},
+				["Move"] = {
+				},
+				["ActionBars"] = {
+				},
+				["DataTexts"] = {
+					["Friends"] = {
+						true, -- [1]
+						3, -- [2]
+					},
+					["Character"] = {
+						true, -- [1]
+						2, -- [2]
+					},
+					["Guild"] = {
+						true, -- [1]
+						1, -- [2]
+					},
+					["Gold"] = {
+						true, -- [1]
+						6, -- [2]
+					},
+					["System"] = {
+						true, -- [1]
+						4, -- [2]
+					},
+					["Time"] = {
+						true, -- [1]
+						7, -- [2]
+					},
+					["MicroMenu"] = {
+						true, -- [1]
+						5, -- [2]
+					},
+				},
+				["Tracking"] = {
+					["PvP"] = {
+					},
+					["PvE"] = {
+					},
+				},
+				["Chat"] = {
+					["Positions"] = {
+						["Frame1"] = {
+							["Anchor1"] = "BOTTOMLEFT",
+							["X"] = 0,
+							["Width"] = 450,
+							["Anchor2"] = "TOPLEFT",
+							["Y"] = 3.999999761581421,
+							["Height"] = 142,
+							["IsUndocked"] = false,
+						},
+						["Frame2"] = {
+							["Anchor1"] = "TOPLEFT",
+							["X"] = 0,
+							["Width"] = 450,
+							["Anchor2"] = "TOPLEFT",
+							["Y"] = -24.00000381469727,
+							["Height"] = 117.9999923706055,
+							["IsUndocked"] = false,
+						},
+						["Frame4"] = {
+							["Anchor1"] = "BOTTOMLEFT",
+							["X"] = 0,
+							["Width"] = 450,
+							["Anchor2"] = "TOPLEFT",
+							["Y"] = 3.999999761581421,
+							["Height"] = 142,
+							["IsUndocked"] = true,
+						},
+					},
+				},
+			},
+			["Takiscoper"] = {
+				["Installation"] = {
+					["Done"] = true,
+				},
+				["Misc"] = {
+				},
+				["Move"] = {
+				},
+				["ActionBars"] = {
+					["HideBar5"] = true,
+				},
+				["DataTexts"] = {
+					["Friends"] = {
+						true, -- [1]
+						3, -- [2]
+					},
+					["Character"] = {
+						true, -- [1]
+						2, -- [2]
+					},
+					["Guild"] = {
+						true, -- [1]
+						1, -- [2]
+					},
+					["Gold"] = {
+						true, -- [1]
+						6, -- [2]
+					},
+					["MicroMenu"] = {
+						true, -- [1]
+						5, -- [2]
+					},
+					["Time"] = {
+						true, -- [1]
+						7, -- [2]
+					},
+					["System"] = {
+						true, -- [1]
+						4, -- [2]
+					},
+				},
+				["Chat"] = {
+					["Frame3"] = {
+						"TOPLEFT", -- [1]
+						"TOPLEFT", -- [2]
+						0, -- [3]
+						0, -- [4]
+						370, -- [5]
+						108, -- [6]
+					},
+					["Frame1"] = {
+						"BOTTOMLEFT", -- [1]
+						"BOTTOMLEFT", -- [2]
+						34, -- [3]
+						50, -- [4]
+						370, -- [5]
+						108, -- [6]
+					},
+					["Frame2"] = {
+						"TOPLEFT", -- [1]
+						"TOPLEFT", -- [2]
+						0, -- [3]
+						0, -- [4]
+						370, -- [5]
+						108, -- [6]
+					},
+					["Frame4"] = {
+						"BOTTOMRIGHT", -- [1]
+						"BOTTOMRIGHT", -- [2]
+						-34, -- [3]
+						50, -- [4]
+						370, -- [5]
+						108, -- [6]
 					},
 				},
 			},
@@ -486,7 +867,7 @@ TukuiDatabase = {
 					},
 				},
 			},
-			["Renwarri"] = {
+			["Takeera"] = {
 				["Installation"] = {
 					["Done"] = true,
 				},
@@ -513,13 +894,13 @@ TukuiDatabase = {
 						true, -- [1]
 						6, -- [2]
 					},
-					["MicroMenu"] = {
-						true, -- [1]
-						5, -- [2]
-					},
 					["Time"] = {
 						true, -- [1]
 						7, -- [2]
+					},
+					["MicroMenu"] = {
+						true, -- [1]
+						5, -- [2]
 					},
 					["System"] = {
 						true, -- [1]
@@ -539,7 +920,7 @@ TukuiDatabase = {
 							["X"] = 0,
 							["IsUndocked"] = false,
 							["Anchor2"] = "TOPLEFT",
-							["Height"] = 142,
+							["Height"] = 141.9999847412109,
 							["Y"] = 3.999999761581421,
 							["Width"] = 450,
 						},
@@ -557,9 +938,9 @@ TukuiDatabase = {
 							["X"] = 0,
 							["IsUndocked"] = true,
 							["Anchor2"] = "TOPLEFT",
-							["Height"] = 142,
+							["Height"] = 141.9999847412109,
 							["Y"] = 3.999999761581421,
-							["Width"] = 450,
+							["Width"] = 449.9999694824219,
 						},
 					},
 				},
@@ -669,7 +1050,7 @@ TukuiDatabase = {
 					},
 				},
 			},
-			["Takiscoper"] = {
+			["Rentaco"] = {
 				["Installation"] = {
 					["Done"] = true,
 				},
@@ -678,7 +1059,6 @@ TukuiDatabase = {
 				["Move"] = {
 				},
 				["ActionBars"] = {
-					["HideBar5"] = true,
 				},
 				["DataTexts"] = {
 					["Friends"] = {
@@ -708,117 +1088,51 @@ TukuiDatabase = {
 					["System"] = {
 						true, -- [1]
 						4, -- [2]
-					},
-				},
-				["Chat"] = {
-					["Frame3"] = {
-						"TOPLEFT", -- [1]
-						"TOPLEFT", -- [2]
-						0, -- [3]
-						0, -- [4]
-						370, -- [5]
-						108, -- [6]
-					},
-					["Frame1"] = {
-						"BOTTOMLEFT", -- [1]
-						"BOTTOMLEFT", -- [2]
-						34, -- [3]
-						50, -- [4]
-						370, -- [5]
-						108, -- [6]
-					},
-					["Frame2"] = {
-						"TOPLEFT", -- [1]
-						"TOPLEFT", -- [2]
-						0, -- [3]
-						0, -- [4]
-						370, -- [5]
-						108, -- [6]
-					},
-					["Frame4"] = {
-						"BOTTOMRIGHT", -- [1]
-						"BOTTOMRIGHT", -- [2]
-						-34, -- [3]
-						50, -- [4]
-						370, -- [5]
-						108, -- [6]
-					},
-				},
-			},
-			["Renqqø"] = {
-				["Installation"] = {
-					["Done"] = true,
-				},
-				["Misc"] = {
-				},
-				["Move"] = {
-				},
-				["ActionBars"] = {
-				},
-				["DataTexts"] = {
-					["Friends"] = {
-						true, -- [1]
-						3, -- [2]
-					},
-					["Character"] = {
-						true, -- [1]
-						2, -- [2]
-					},
-					["Guild"] = {
-						true, -- [1]
-						1, -- [2]
-					},
-					["Gold"] = {
-						true, -- [1]
-						6, -- [2]
-					},
-					["System"] = {
-						true, -- [1]
-						4, -- [2]
-					},
-					["Time"] = {
-						true, -- [1]
-						7, -- [2]
-					},
-					["MicroMenu"] = {
-						true, -- [1]
-						5, -- [2]
 					},
 				},
 				["Tracking"] = {
-					["PvP"] = {
-					},
 					["PvE"] = {
+					},
+					["PvP"] = {
 					},
 				},
 				["Chat"] = {
 					["Positions"] = {
+						["Frame5"] = {
+							["Anchor1"] = "TOPLEFT",
+							["X"] = 0,
+							["IsUndocked"] = false,
+							["Anchor2"] = "TOPLEFT",
+							["Height"] = 142,
+							["Y"] = 0,
+							["Width"] = 450,
+						},
 						["Frame1"] = {
 							["Anchor1"] = "BOTTOMLEFT",
 							["X"] = 0,
-							["Width"] = 450,
-							["Anchor2"] = "TOPLEFT",
-							["Y"] = 3.999999761581421,
-							["Height"] = 141.9999847412109,
 							["IsUndocked"] = false,
+							["Anchor2"] = "TOPLEFT",
+							["Height"] = 141.9999847412109,
+							["Y"] = 3.999999761581421,
+							["Width"] = 450,
 						},
 						["Frame2"] = {
 							["Anchor1"] = "TOPLEFT",
 							["X"] = 0,
-							["Width"] = 450,
-							["Anchor2"] = "TOPLEFT",
-							["Y"] = -24.00000381469727,
-							["Height"] = 117.9999923706055,
 							["IsUndocked"] = false,
+							["Anchor2"] = "TOPLEFT",
+							["Height"] = 117.9999923706055,
+							["Y"] = -24.00000381469727,
+							["Width"] = 450,
 						},
 						["Frame4"] = {
 							["Anchor1"] = "BOTTOMLEFT",
 							["X"] = 0,
-							["Width"] = 449.9999694824219,
-							["Anchor2"] = "TOPLEFT",
-							["Y"] = 3.999999761581421,
-							["Height"] = 141.9999847412109,
 							["IsUndocked"] = true,
+							["Anchor2"] = "TOPLEFT",
+							["Height"] = 141.9999847412109,
+							["Y"] = 3.999999761581421,
+							["Width"] = 449.9999694824219,
 						},
 					},
 				},
@@ -1011,6 +1325,10 @@ TukuiDatabase = {
 	["ChatHistory"] = {
 	},
 	["Settings"] = {
+		["Frostmane"] = {
+			["Hunteraki"] = {
+			},
+		},
 		["Argent Dawn"] = {
 			["Ivelea"] = {
 			},
@@ -1020,19 +1338,25 @@ TukuiDatabase = {
 			},
 		},
 		["Kazzak"] = {
-			["Rentaco"] = {
+			["Takiwar"] = {
+			},
+			["Renqqø"] = {
+			},
+			["Renwarri"] = {
+			},
+			["Takitest"] = {
+			},
+			["Takiscoper"] = {
 			},
 			["Takidari"] = {
 			},
 			["Takidin"] = {
 			},
-			["Renwarri"] = {
+			["Takeera"] = {
 			},
 			["Taaku"] = {
 			},
-			["Takiscoper"] = {
-			},
-			["Renqqø"] = {
+			["Rentaco"] = {
 			},
 			["Rentaki"] = {
 			},
@@ -1043,19 +1367,25 @@ TukuiDatabase = {
 		},
 	},
 	["Gold"] = {
+		["Frostmane"] = {
+			["Hunteraki"] = 6580321,
+		},
 		["Argent Dawn"] = {
 			["Ivelea"] = 2473103,
 			["Takibank"] = 926846,
 			["Takii"] = 1747981,
 		},
 		["Kazzak"] = {
-			["Rentaco"] = 64783662,
+			["Takiwar"] = 10000,
+			["Renqqø"] = 10715117,
+			["Renwarri"] = 10006006,
+			["Takitest"] = 0,
+			["Takiscoper"] = 59356653,
 			["Takidari"] = 40539978,
 			["Takidin"] = 30760067,
-			["Renwarri"] = 10006006,
+			["Takeera"] = 110000,
 			["Taaku"] = 41746663,
-			["Takiscoper"] = 59356653,
-			["Renqqø"] = 10715117,
+			["Rentaco"] = 64783662,
 			["Rentaki"] = 36344269430,
 		},
 		["Ravencrest"] = {

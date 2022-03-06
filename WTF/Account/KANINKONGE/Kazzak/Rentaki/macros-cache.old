@@ -1,6 +1,5 @@
 VER 3 010000000000001F "asc/sk" "INV_MISC_QUESTIONMARK"
 #showtooltip
-/use 12
 /cast [talent:7/2] Stormkeeper
 /cast [talent:7/3] Ascendance
 END
@@ -24,7 +23,6 @@ VER 3 010000000000002A "EB/Echo" "INV_MISC_QUESTIONMARK"
 #showtooltip
 /cast [talent:2/2] Echoing Shock
 /cast [talent:2/3] Elemental Blast
-/cast [talent:2/1] wind shear
 END
 VER 3 0100000000000024 "es/downpour" "INV_MISC_QUESTIONMARK"
 #showtooltip
@@ -42,11 +40,6 @@ END
 VER 3 0100000000000009 "healingwave" "INV_MISC_QUESTIONMARK"
 #showtooltip healing wave
 /cast [@mouseover] healing wave
-END
-VER 3 0100000000000017 "ht" "INV_MISC_QUESTIONMARK"
-#showtooltip
-/cast healing tide totem
-/use Pearl Diver's Compass
 END
 VER 3 0100000000000029 "LavaBurst" "INV_MISC_QUESTIONMARK"
 /cqs

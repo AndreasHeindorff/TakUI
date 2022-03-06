@@ -1,41 +1,46 @@
 
 OmniCDDB = {
 	["profileKeys"] = {
-		["Ivelea - Argent Dawn"] = "Default",
-		["Takidin - Kazzak"] = "Default",
-		["Takii - Argent Dawn"] = "Default",
-		["Renqqø - Kazzak"] = "Default",
-		["Rentakisham - EU Mythic Dungeons"] = "Default",
-		["Renwarri - Kazzak"] = "Default",
-		["Takiscoper - Kazzak"] = "Default",
-		["Rentaco - Kazzak"] = "Default",
-		["Takibank - Argent Dawn"] = "Default",
-		["Huntaki - Ravencrest"] = "Default",
-		["Rentaki - Kazzak"] = "Default",
+		["Hunteraki - Frostmane"] = "Default",
 		["Takidari - Kazzak"] = "Default",
 		["Taaku - Kazzak"] = "Default",
+		["Rentaki - Kazzak"] = "Default",
+		["Huntaki - Ravencrest"] = "Default",
+		["Rentakisham - EU Mythic Dungeons"] = "Default",
+		["Renqqø - Kazzak"] = "Default",
+		["Takiwar - Kazzak"] = "Default",
+		["Takeera - Kazzak"] = "Default",
+		["Renwarri - Kazzak"] = "Default",
+		["Takiscoper - Kazzak"] = "Default",
+		["Ivelea - Argent Dawn"] = "Default",
+		["Takibank - Argent Dawn"] = "Default",
+		["Takitest - Kazzak"] = "Default",
+		["Takidin - Kazzak"] = "Default",
+		["Takii - Argent Dawn"] = "Default",
+		["Rentaco - Kazzak"] = "Default",
 	},
 	["global"] = {
+		["oodVer"] = 2635,
+		["oodChk"] = 220118,
+		["oodMsg"] = "|cfff16436 A new update is available. (|cff99cdffHotfix)",
 		["disableElvMsg"] = true,
-		["oodChk"] = 210915,
-		["oodVer"] = 2632,
 	},
 	["namespaces"] = {
 		["LibDualSpec-1.0"] = {
 		},
 	},
-	["version"] = 2.51,
 	["cooldowns"] = {
 	},
+	["version"] = 2.51,
 	["profiles"] = {
 		["Default"] = {
 			["Party"] = {
 				["party"] = {
 					["extraBars"] = {
-						["interruptBar"] = {
+						["raidCDBar"] = {
 							["enabled"] = false,
 						},
-						["raidCDBar"] = {
+						["interruptBar"] = {
 							["enabled"] = false,
 						},
 					},
@@ -52,13 +57,13 @@ OmniCDDB = {
 						["anchor"] = "TOPRIGHT",
 					},
 					["manualPos"] = {
-						["interruptBar"] = {
-							["y"] = 356.2665016823303,
-							["x"] = 834.1351764480714,
-						},
 						["raidCDBar"] = {
 							["y"] = 255.6443638291603,
 							["x"] = 201.0665630284257,
+						},
+						["interruptBar"] = {
+							["y"] = 356.2665016823303,
+							["x"] = 834.1351764480714,
 						},
 					},
 				},
@@ -77,6 +82,12 @@ OmniCDDB = {
 				},
 			},
 			["General"] = {
+				["textures"] = {
+					["statusBar"] = {
+						["BG"] = "Tukui",
+						["bar"] = "Tukui",
+					},
+				},
 				["fonts"] = {
 					["statusBar"] = {
 						["font"] = "Gotham Narrow Black",
@@ -89,12 +100,6 @@ OmniCDDB = {
 					["icon"] = {
 						["font"] = "Gotham Narrow Black",
 						["size"] = 12,
-					},
-				},
-				["textures"] = {
-					["statusBar"] = {
-						["BG"] = "Tukui",
-						["bar"] = "Tukui",
 					},
 				},
 			},

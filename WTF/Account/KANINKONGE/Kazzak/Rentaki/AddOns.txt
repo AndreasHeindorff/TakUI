@@ -176,9 +176,10 @@ TomCats-LoveIsInTheAir: disabled
 TomCats-LunarFestival: disabled
 TomCats-Noblegarden: disabled
 HandyNotes_Shadowlands: enabled
-HandyNotes_ShadowlandsTreasures: disabled
+HandyNotes_ShadowlandsTreasures: enabled
 BigWigs_SanctumOfDomination: enabled
 LittleWigs_WarlordsOfDraenor: enabled
 LittleWigs_MistsOfPandaria: enabled
 LittleWigs_BurningCrusade: enabled
 LittleWigs_Legion: enabled
+ElvUI_CustomTags: disabled

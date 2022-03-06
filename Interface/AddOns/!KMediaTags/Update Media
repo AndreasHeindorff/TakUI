@@ -1,0 +1,37 @@
+@echo off
+echo Updating Library...
+echo local LSM = LibStub("LibSharedMedia-3.0") > media\media.lua
+echo if LSM == nil then return end >> media\media.lua
+
+
+echo    FONTS
+echo.>> media\media.lua
+echo -- Fonts >> media\media.lua
+
+for %%F in (media\fonts\*.ttf) do (
+echo       %%~nF
+echo LSM:Register ("font", "%%~nF", [[Interface\Addons\!KMediaTags\media\fonts\%%~nxF]]^) >> media\media.lua
+)
+for %%F in (media\fonts\*.otf) do (
+echo       %%~nF
+echo LSM:Register ("font", "%%~nF", [[Interface\Addons\!KMediaTags\media\fonts\%%~nxF]]^) >> media\media.lua
+)
+
+echo    SOUNDS
+echo.>> media\media.lua
+echo -- Sounds >> media\media.lua
+for %%F in (media\sound\*.*) do (
+echo       %%~nF
+echo LSM:Register ("sound", "%%~nF", [[Interface\Addons\!KMediaTags\media\sound\%%~nxF]]^) >> media\media.lua
+)
+
+echo    TEXTURES
+echo.>> media\media.lua
+echo -- Statusbar Textures >> media\media.lua
+for %%F in (media\statusbar\*.*) do (
+echo       %%~nF
+echo LSM:Register ("statusbar", "%%~nF", [[Interface\Addons\!KMediaTags\media\statusbar\%%~nxF]]^) >> media\media.lua
+)
+
+:end_of_file
+pause

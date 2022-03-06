@@ -1,3 +1,4 @@
-v4.33 11/2/21
+v4.36 2/27/22
 
-- Upgrade and Fixed LibQTip-1.0
+- prevent error with ActionBar Masks (ElvUI Plugin)
+- remove ability to move the collections window as it currently breaks

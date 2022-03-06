@@ -4,51 +4,53 @@ SimulationCraftDB = {
 		["Hunteraki - Frostmane"] = "Hunteraki - Frostmane",
 		["Takidari - Ravencrest"] = "Takidari - Ravencrest",
 		["Takikultiran - Ravencrest"] = "Takikultiran - Ravencrest",
-		["Takirogtrial - Ravencrest"] = "Takirogtrial - Ravencrest",
 		["Rentamdi - Kazzak"] = "Rentamdi - Kazzak",
+		["Takitalon - Arathi"] = "Takitalon - Arathi",
+		["Takirogtrial - Ravencrest"] = "Takirogtrial - Ravencrest",
+		["Takiworra - Kazzak"] = "Takiworra - Kazzak",
 		["Takistonez - Ravencrest"] = "Takistonez - Ravencrest",
 		["Takikin - Kazzak"] = "Takikin - Kazzak",
-		["Takitalon - Arathi"] = "Takitalon - Arathi",
+		["Takicado - Doomhammer"] = "Takicado - Doomhammer",
 		["Monkashaman - Kazzak"] = "Monkashaman - Kazzak",
 		["Takuu - Ravencrest"] = "Takuu - Ravencrest",
 		["Takiorc - Kazzak"] = "Takiorc - Kazzak",
 		["Takihunt - Kazzak"] = "Takihunt - Kazzak",
-		["Takiworra - Kazzak"] = "Takiworra - Kazzak",
-		["Takiragone - Kazzak"] = "Takiragone - Kazzak",
 		["Takitest - Ravencrest"] = "Takitest - Ravencrest",
-		["Takicado - Doomhammer"] = "Takicado - Doomhammer",
-		["Rentaco - Kazzak"] = "Rentaco - Kazzak",
-		["Asdfasfdas - Kazzak"] = "Asdfasfdas - Kazzak",
+		["Felenia - Doomhammer"] = "Felenia - Doomhammer",
+		["Takibank - Argent Dawn"] = "Takibank - Argent Dawn",
+		["Takifistzz - Kazzak"] = "Takifistzz - Kazzak",
+		["Takiragfour - Kazzak"] = "Takiragfour - Kazzak",
+		["Takeera - Kazzak"] = "Takeera - Kazzak",
 		["Rentakisham - EU Mythic Dungeons"] = "Rentakisham - EU Mythic Dungeons",
 		["Renqqø - Kazzak"] = "Renqqø - Kazzak",
-		["Takiragfour - Kazzak"] = "Takiragfour - Kazzak",
-		["Felenia - Doomhammer"] = "Felenia - Doomhammer",
+		["Takiwar - Kazzak"] = "Takiwar - Kazzak",
+		["Takidin - Ravencrest"] = "Takidin - Ravencrest",
 		["Renwarri - Kazzak"] = "Renwarri - Kazzak",
 		["Takiscoper - Kazzak"] = "Takiscoper - Kazzak",
+		["Huntaki - Ravencrest"] = "Huntaki - Ravencrest",
+		["Rentaco - Kazzak"] = "Rentaco - Kazzak",
 		["Rintake - Ragnaros"] = "Rintake - Ragnaros",
-		["Takibank - Argent Dawn"] = "Takibank - Argent Dawn",
-		["Rentakigold - Twisting Nether"] = "Rentakigold - Twisting Nether",
 		["Asdaaddaa - Kazzak"] = "Asdaaddaa - Kazzak",
 		["Takii - Doomhammer"] = "Takii - Doomhammer",
-		["Nyumi - Argent Dawn"] = "Nyumi - Argent Dawn",
 		["Takimogaa - Ravencrest"] = "Takimogaa - Ravencrest",
-		["Takiasdaa - Kazzak"] = "Takiasdaa - Kazzak",
+		["Asdfasfdas - Kazzak"] = "Asdfasfdas - Kazzak",
+		["Nyumi - Argent Dawn"] = "Nyumi - Argent Dawn",
 		["Rentakibmah - Baelgun"] = "Rentakibmah - Baelgun",
 		["Takiworgen - Ravencrest"] = "Takiworgen - Ravencrest",
-		["Takidin - Ravencrest"] = "Takidin - Ravencrest",
+		["Rentakigold - Twisting Nether"] = "Rentakigold - Twisting Nether",
 		["Takipaladdaa - Kazzak"] = "Takipaladdaa - Kazzak",
-		["Takidin - Kazzak"] = "Takidin - Kazzak",
 		["Ivelea - Argent Dawn"] = "Ivelea - Argent Dawn",
 		["Rentakigold - Eredar"] = "Rentakigold - Eredar",
-		["Takimage - Kazzak"] = "Takimage - Kazzak",
 		["Takidari - Kazzak"] = "Takidari - Kazzak",
+		["Takimage - Kazzak"] = "Takimage - Kazzak",
+		["Takiasdaa - Kazzak"] = "Takiasdaa - Kazzak",
 		["Takii - Frostmane"] = "Takii - Frostmane",
 		["Arcataki - Doomhammer"] = "Arcataki - Doomhammer",
 		["Rentakidh - Argent Dawn"] = "Rentakidh - Argent Dawn",
 		["Asdfasdfsaas - Kazzak"] = "Asdfasdfsaas - Kazzak",
 		["Takipala - Ravencrest"] = "Takipala - Ravencrest",
 		["Rentaki - Kazzak"] = "Rentaki - Kazzak",
-		["Huntaki - Ravencrest"] = "Huntaki - Ravencrest",
+		["Takidin - Kazzak"] = "Takidin - Kazzak",
 		["Takigalywix - Aegwynn"] = "Takigalywix - Aegwynn",
 		["Thaaeyn - Argent Dawn"] = "Thaaeyn - Argent Dawn",
 		["Takii - Argent Dawn"] = "Takii - Argent Dawn",
@@ -59,7 +61,7 @@ SimulationCraftDB = {
 		["Takiragtwo - Kazzak"] = "Takiragtwo - Kazzak",
 		["Takioblivion - Medivh"] = "Takioblivion - Medivh",
 		["Rentaki - Ravencrest"] = "Rentaki - Ravencrest",
-		["Takifistzz - Kazzak"] = "Takifistzz - Kazzak",
+		["Takiragone - Kazzak"] = "Takiragone - Kazzak",
 		["Rintake - Argent Dawn"] = "Rintake - Argent Dawn",
 		["Rentaco - Ravencrest"] = "Rentaco - Ravencrest",
 		["Takiragthree - Kazzak"] = "Takiragthree - Kazzak",
@@ -71,15 +73,19 @@ SimulationCraftDB = {
 		},
 		["Takikultiran - Ravencrest"] = {
 		},
+		["Rentamdi - Kazzak"] = {
+		},
+		["Takitalon - Arathi"] = {
+		},
 		["Takirogtrial - Ravencrest"] = {
 		},
-		["Rentamdi - Kazzak"] = {
+		["Takiworra - Kazzak"] = {
 		},
 		["Takistonez - Ravencrest"] = {
 		},
 		["Takikin - Kazzak"] = {
 		},
-		["Takitalon - Arathi"] = {
+		["Takicado - Doomhammer"] = {
 		},
 		["Monkashaman - Kazzak"] = {
 		},
@@ -89,63 +95,63 @@ SimulationCraftDB = {
 		},
 		["Takihunt - Kazzak"] = {
 		},
-		["Takiworra - Kazzak"] = {
-		},
-		["Takiragone - Kazzak"] = {
-		},
 		["Takitest - Ravencrest"] = {
 		},
-		["Takicado - Doomhammer"] = {
+		["Felenia - Doomhammer"] = {
 		},
-		["Rentaco - Kazzak"] = {
+		["Takibank - Argent Dawn"] = {
 		},
-		["Asdfasfdas - Kazzak"] = {
+		["Takifistzz - Kazzak"] = {
+		},
+		["Takiragfour - Kazzak"] = {
+		},
+		["Takeera - Kazzak"] = {
 		},
 		["Rentakisham - EU Mythic Dungeons"] = {
 		},
 		["Renqqø - Kazzak"] = {
 		},
-		["Takiragfour - Kazzak"] = {
+		["Takiwar - Kazzak"] = {
 		},
-		["Felenia - Doomhammer"] = {
+		["Takidin - Ravencrest"] = {
 		},
 		["Renwarri - Kazzak"] = {
 		},
 		["Takiscoper - Kazzak"] = {
 		},
+		["Huntaki - Ravencrest"] = {
+		},
+		["Rentaco - Kazzak"] = {
+		},
 		["Rintake - Ragnaros"] = {
-		},
-		["Takibank - Argent Dawn"] = {
-		},
-		["Rentakigold - Twisting Nether"] = {
 		},
 		["Asdaaddaa - Kazzak"] = {
 		},
 		["Takii - Doomhammer"] = {
 		},
-		["Nyumi - Argent Dawn"] = {
-		},
 		["Takimogaa - Ravencrest"] = {
 		},
-		["Takiasdaa - Kazzak"] = {
+		["Asdfasfdas - Kazzak"] = {
+		},
+		["Nyumi - Argent Dawn"] = {
 		},
 		["Rentakibmah - Baelgun"] = {
 		},
 		["Takiworgen - Ravencrest"] = {
 		},
-		["Takidin - Ravencrest"] = {
+		["Rentakigold - Twisting Nether"] = {
 		},
 		["Takipaladdaa - Kazzak"] = {
-		},
-		["Takidin - Kazzak"] = {
 		},
 		["Ivelea - Argent Dawn"] = {
 		},
 		["Rentakigold - Eredar"] = {
 		},
+		["Takidari - Kazzak"] = {
+		},
 		["Takimage - Kazzak"] = {
 		},
-		["Takidari - Kazzak"] = {
+		["Takiasdaa - Kazzak"] = {
 		},
 		["Takii - Frostmane"] = {
 		},
@@ -167,7 +173,7 @@ SimulationCraftDB = {
 				["hide"] = true,
 			},
 		},
-		["Huntaki - Ravencrest"] = {
+		["Takidin - Kazzak"] = {
 		},
 		["Takigalywix - Aegwynn"] = {
 		},
@@ -192,7 +198,7 @@ SimulationCraftDB = {
 				["minimapPos"] = 209.4758992989915,
 			},
 		},
-		["Takifistzz - Kazzak"] = {
+		["Takiragone - Kazzak"] = {
 		},
 		["Rintake - Argent Dawn"] = {
 		},

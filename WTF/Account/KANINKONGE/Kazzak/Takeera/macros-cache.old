@@ -1,0 +1,18 @@
+VER 3 0100000000000003 "avatar" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast avatar
+/use Overwhelming Power Crystal
+END
+VER 3 0100000000000002 "cds" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/use recklessness
+/use 13
+END
+VER 3 0100000000000004 "fkick" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@focus] pummel
+END
+VER 3 0100000000000001 "spear" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@player] spear of bastion
+END

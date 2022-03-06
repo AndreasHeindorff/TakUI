@@ -1,0 +1,26 @@
+------------------------------------------------------------------------
+r252 | rabbit | 2011-05-07 23:31:14 +0000 (Sat, 07 May 2011) | 1 line
+Changed paths:
+   M /trunk/sack.lua
+
+Fix bug 22/21.
+------------------------------------------------------------------------
+r251 | rabbit | 2011-04-15 12:37:45 +0000 (Fri, 15 Apr 2011) | 1 line
+Changed paths:
+   M /trunk/sack.lua
+
+First stab at a filter/typeaheadfind type interface a la Bagnon. Doesn't quite work; window will jump around sometimes and prev/next buttons fail in search results, etc. I am AFK next 5 days so fixes welcome.
+------------------------------------------------------------------------
+r250 | mikk | 2011-04-09 17:27:58 +0000 (Sat, 09 Apr 2011) | 1 line
+Changed paths:
+   M /trunk/core.lua
+
+Plug an error happening when you mouseover the bugsack LDB widget
+------------------------------------------------------------------------
+r249 | rabbit | 2011-03-26 09:28:06 +0000 (Sat, 26 Mar 2011) | 1 line
+Changed paths:
+   M /trunk/core.lua
+   M /trunk/ldb.lua
+
+Fix the LDB tooltip.
+------------------------------------------------------------------------

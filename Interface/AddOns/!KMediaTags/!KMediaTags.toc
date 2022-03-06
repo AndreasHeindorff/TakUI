@@ -1,0 +1,14 @@
+## Interface: 90100
+## Title: |cff3dff98Kringels MediaTags|r 
+## Author: Kringel#3269 on Discord
+## Version: 3.0
+## Notes: Additional Media and Tags for ElvUI 
+## OptionalDeps: ElvUI
+## DefaultState: Enabled 
+
+libs\lib.xml
+
+media\media.lua 
+tags\tags.lua 
+tags\taginfo.lua
+core.lua

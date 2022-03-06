@@ -75,7 +75,7 @@ local function updateSackDisplay(forceRefresh)
 	end
 	if not eo then eo = currentSackContents[currentErrorIndex] end
 	if not eo then eo = currentSackContents[size] end
-	if currentSackSession == -1 and eo then currentSackSession = eo.session end
+	if currentSackSession == -1 then currentSackSession = eo.session end
 
 	if size > 0 then
 		local source = nil
@@ -124,7 +124,7 @@ end
 hooksecurefunc(addon, "UpdateDisplay", function()
 	if not window or not window:IsShown() then return end
 	-- can't just hook it right in because it would pass |self| as forceRefresh
-	updateSackDisplay(true)
+	updateSackDisplay()
 end)
 
 -- Only invoked when actually clicking a tab
@@ -133,12 +133,12 @@ local function setActiveMethod(tab)
 	searchBox:Hide()
 	sessionLabel:Show()
 	wipe(searchResults)
-	--[[if searchThrough then
+	if searchThrough then
 		wipe(searchThrough)
 		searchThrough = nil
-	end]]
+	end
 
-	state = type(tab) == "table" and tab:GetName() or tab
+	state = tab:GetName()
 	updateSackDisplay(true)
 end
 
@@ -173,90 +173,90 @@ end
 
 local function createBugSack()
 	window = CreateFrame("Frame", "BugSackFrame", UIParent)
-	window:Hide()
+	UIPanelWindows.BugSackFrame = { area = "center", pushable = 0, whileDead = 1 }
+	HideUIPanel(window)
 
-	window:SetFrameStrata("DIALOG")
+	window:SetFrameStrata("FULLSCREEN_DIALOG")
 	window:SetWidth(500)
-	window:SetHeight(310)
+	window:SetHeight(500 / 1.618)
 	window:SetPoint("CENTER")
 	window:SetMovable(true)
 	window:EnableMouse(true)
 	window:RegisterForDrag("LeftButton")
-	window:SetClampedToScreen(true)
 	window:SetScript("OnDragStart", window.StartMoving)
 	window:SetScript("OnDragStop", window.StopMovingOrSizing)
 	window:SetScript("OnShow", function()
-		PlaySound(844) -- SOUNDKIT.IG_QUEST_LOG_OPEN
+		PlaySound("igQuestLogOpen")
 	end)
 	window:SetScript("OnHide", function()
+		PlaySound("igQuestLogClose")
 		currentErrorObject = nil
 		currentSackSession = nil
 		currentSackContents = nil
-		PlaySound(845) -- SOUNDKIT.IG_QUEST_LOG_CLOSE
 	end)
 
 	local titlebg = window:CreateTexture(nil, "BORDER")
-	titlebg:SetTexture(251966) --"Interface\\PaperDollInfoFrame\\UI-GearManager-Title-Background"
+	titlebg:SetTexture("Interface\\PaperDollInfoFrame\\UI-GearManager-Title-Background")
 	titlebg:SetPoint("TOPLEFT", 9, -6)
 	titlebg:SetPoint("BOTTOMRIGHT", window, "TOPRIGHT", -28, -24)
 
 	local dialogbg = window:CreateTexture(nil, "BACKGROUND")
-	dialogbg:SetTexture(136548) --"Interface\\PaperDollInfoFrame\\UI-Character-CharacterTab-L1"
+	dialogbg:SetTexture("Interface\\PaperDollInfoFrame\\UI-Character-CharacterTab-L1")
 	dialogbg:SetPoint("TOPLEFT", 8, -12)
 	dialogbg:SetPoint("BOTTOMRIGHT", -6, 8)
 	dialogbg:SetTexCoord(0.255, 1, 0.29, 1)
 
 	local topleft = window:CreateTexture(nil, "BORDER")
-	topleft:SetTexture(251963) --"Interface\\PaperDollInfoFrame\\UI-GearManager-Border"
+	topleft:SetTexture("Interface\\PaperDollInfoFrame\\UI-GearManager-Border")
 	topleft:SetWidth(64)
 	topleft:SetHeight(64)
 	topleft:SetPoint("TOPLEFT")
 	topleft:SetTexCoord(0.501953125, 0.625, 0, 1)
 
 	local topright = window:CreateTexture(nil, "BORDER")
-	topright:SetTexture(251963) --"Interface\\PaperDollInfoFrame\\UI-GearManager-Border"
+	topright:SetTexture("Interface\\PaperDollInfoFrame\\UI-GearManager-Border")
 	topright:SetWidth(64)
 	topright:SetHeight(64)
 	topright:SetPoint("TOPRIGHT")
 	topright:SetTexCoord(0.625, 0.75, 0, 1)
 
 	local top = window:CreateTexture(nil, "BORDER")
-	top:SetTexture(251963) --"Interface\\PaperDollInfoFrame\\UI-GearManager-Border"
+	top:SetTexture("Interface\\PaperDollInfoFrame\\UI-GearManager-Border")
 	top:SetHeight(64)
 	top:SetPoint("TOPLEFT", topleft, "TOPRIGHT")
 	top:SetPoint("TOPRIGHT", topright, "TOPLEFT")
 	top:SetTexCoord(0.25, 0.369140625, 0, 1)
 
 	local bottomleft = window:CreateTexture(nil, "BORDER")
-	bottomleft:SetTexture(251963) --"Interface\\PaperDollInfoFrame\\UI-GearManager-Border"
+	bottomleft:SetTexture("Interface\\PaperDollInfoFrame\\UI-GearManager-Border")
 	bottomleft:SetWidth(64)
 	bottomleft:SetHeight(64)
 	bottomleft:SetPoint("BOTTOMLEFT")
 	bottomleft:SetTexCoord(0.751953125, 0.875, 0, 1)
 
 	local bottomright = window:CreateTexture(nil, "BORDER")
-	bottomright:SetTexture(251963) --"Interface\\PaperDollInfoFrame\\UI-GearManager-Border"
+	bottomright:SetTexture("Interface\\PaperDollInfoFrame\\UI-GearManager-Border")
 	bottomright:SetWidth(64)
 	bottomright:SetHeight(64)
 	bottomright:SetPoint("BOTTOMRIGHT")
 	bottomright:SetTexCoord(0.875, 1, 0, 1)
 
 	local bottom = window:CreateTexture(nil, "BORDER")
-	bottom:SetTexture(251963) --"Interface\\PaperDollInfoFrame\\UI-GearManager-Border"
+	bottom:SetTexture("Interface\\PaperDollInfoFrame\\UI-GearManager-Border")
 	bottom:SetHeight(64)
 	bottom:SetPoint("BOTTOMLEFT", bottomleft, "BOTTOMRIGHT")
 	bottom:SetPoint("BOTTOMRIGHT", bottomright, "BOTTOMLEFT")
 	bottom:SetTexCoord(0.376953125, 0.498046875, 0, 1)
 
 	local left = window:CreateTexture(nil, "BORDER")
-	left:SetTexture(251963) --"Interface\\PaperDollInfoFrame\\UI-GearManager-Border"
+	left:SetTexture("Interface\\PaperDollInfoFrame\\UI-GearManager-Border")
 	left:SetWidth(64)
 	left:SetPoint("TOPLEFT", topleft, "BOTTOMLEFT")
 	left:SetPoint("BOTTOMLEFT", bottomleft, "TOPLEFT")
 	left:SetTexCoord(0.001953125, 0.125, 0, 1)
 
 	local right = window:CreateTexture(nil, "BORDER")
-	right:SetTexture(251963) --"Interface\\PaperDollInfoFrame\\UI-GearManager-Border"
+	right:SetTexture("Interface\\PaperDollInfoFrame\\UI-GearManager-Border")
 	right:SetWidth(64)
 	right:SetPoint("TOPRIGHT", topright, "BOTTOMRIGHT")
 	right:SetPoint("BOTTOMRIGHT", bottomright, "TOPRIGHT")
@@ -274,9 +274,8 @@ local function createBugSack()
 	sessionLabel = CreateFrame("Button", nil, window)
 	sessionLabel:SetNormalFontObject("GameFontNormalLeft")
 	sessionLabel:SetHighlightFontObject("GameFontHighlightLeft")
-	sessionLabel:SetPoint("TOPLEFT", titlebg, 6, -1)
-	sessionLabel:SetPoint("BOTTOMRIGHT", titlebg, "BOTTOMRIGHT", -26, 1)
-	sessionLabel:RegisterForClicks("LeftButtonUp", "LeftButtonDown", "RightButtonUp", "RightButtonDown")
+	sessionLabel:SetPoint("TOPLEFT", titlebg, 6, -4)
+	sessionLabel:SetPoint("BOTTOMRIGHT", countLabel, "BOTTOMLEFT", -4, 1)
 	sessionLabel:SetScript("OnHide", function()
 		window:StopMovingOrSizing()
 	end)
@@ -291,13 +290,6 @@ local function createBugSack()
 		searchLabel:Show()
 		searchBox:Show()
 		searchThrough = currentSackContents
-	end)
-	sessionLabel:SetScript("OnClick", function(self, button)
-		if button ~= "RightButton" then
-			return
-		end
-		window:Hide()
-		InterfaceOptionsFrame_OpenToCategory(addonName)
 	end)
 	local quickTips = "|cff44ff44Double-click|r to filter bug reports. After you are done with the search results, return to the full sack by selecting a tab at the bottom. |cff44ff44Left-click|r and drag to move the window. |cff44ff44Right-click|r to close the sack and open the interface options for BugSack."
 	sessionLabel:SetScript("OnEnter", function(self)
@@ -323,6 +315,15 @@ local function createBugSack()
 	searchBox:SetTextInsets(4, 4, 0, 0)
 	searchBox:SetMaxLetters(50)
 	searchBox:SetFontObject("ChatFontNormal")
+	searchBox:SetBackdrop({
+		edgeFile = nil,
+		bgFile = "Interface\\ChatFrame\\ChatFrameBackground",
+		insets = { left = 0, right = 0, top = 0, bottom = 0 },
+		tile = true,
+		tileSize = 16,
+		edgeSize = 0,
+	})
+	searchBox:SetBackdropColor(0, 0, 0, 0.5)
 	searchBox:SetScript("OnShow", function(self)
 		self:SetFocus()
 	end)
@@ -334,16 +335,11 @@ local function createBugSack()
 	searchBox:SetScript("OnTextChanged", filterSack)
 	searchBox:SetAutoFocus(false)
 	searchBox:SetPoint("TOPLEFT", searchLabel, "TOPRIGHT", 6, 1)
-	searchBox:SetPoint("BOTTOMRIGHT", titlebg, "BOTTOMRIGHT", -26, 1)
+	searchBox:SetPoint("BOTTOMRIGHT", countLabel, "BOTTOMLEFT", -3, -1)
 	searchBox:Hide()
 
-	local searchBackdrop = searchBox:CreateTexture(nil, "BACKGROUND")
-	searchBackdrop:SetAllPoints()
-	searchBackdrop:SetColorTexture(0, 0, 0, 0.5)
-
-	nextButton = CreateFrame("Button", "BugSackNextButton", window, "UIPanelButtonTemplate")
+	nextButton = CreateFrame("Button", "BugSackNextButton", window, "UIPanelButtonTemplate2")
 	nextButton:SetPoint("BOTTOMRIGHT", window, -11, 16)
-	nextButton:SetFrameStrata("FULLSCREEN")
 	nextButton:SetWidth(130)
 	nextButton:SetText(L["Next >"])
 	nextButton:SetScript("OnClick", function()
@@ -355,9 +351,8 @@ local function createBugSack()
 		updateSackDisplay()
 	end)
 
-	prevButton = CreateFrame("Button", "BugSackPrevButton", window, "UIPanelButtonTemplate")
+	prevButton = CreateFrame("Button", "BugSackPrevButton", window, "UIPanelButtonTemplate2")
 	prevButton:SetPoint("BOTTOMLEFT", window, 14, 16)
-	prevButton:SetFrameStrata("FULLSCREEN")
 	prevButton:SetWidth(130)
 	prevButton:SetText(L["< Previous"])
 	prevButton:SetScript("OnClick", function()
@@ -370,16 +365,15 @@ local function createBugSack()
 	end)
 
 	if addon.Serialize then
-		sendButton = CreateFrame("Button", "BugSackSendButton", window, "UIPanelButtonTemplate")
+		sendButton = CreateFrame("Button", "BugSackSendButton", window, "UIPanelButtonTemplate2")
 		sendButton:SetPoint("LEFT", prevButton, "RIGHT")
 		sendButton:SetPoint("RIGHT", nextButton, "LEFT")
-		sendButton:SetFrameStrata("FULLSCREEN")
 		sendButton:SetText(L["Send bugs"])
 		sendButton:SetScript("OnClick", function()
 			local eo = currentSackContents[currentErrorIndex]
 			local popup = StaticPopup_Show("BugSackSendBugs", eo.session)
 			popup.data = eo.session
-			window:Hide()
+			HideUIPanel(window)
 		end)
 	end
 
@@ -395,6 +389,7 @@ local function createBugSack()
 	textArea:SetMaxLetters(99999)
 	textArea:EnableMouse(true)
 	textArea:SetScript("OnEscapePressed", textArea.ClearFocus)
+	-- XXX why the fuck doesn't SetPoint work on the editbox?
 	textArea:SetWidth(450)
 
 	scroll:SetScrollChild(textArea)
@@ -446,15 +441,15 @@ local function show()
 		createBugSack()
 		createBugSack = nil
 	end
-	updateSackDisplay(true)
-	window:Show()
+	updateSackDisplay()
+	ShowUIPanel(window)
 end
 
 function addon:CloseSack()
-	window:Hide()
+	HideUIPanel(window)
 end
 
-function addon:OpenSack()
+function addon:OpenSack(errorObject)
 	if window and window:IsShown() then
 		-- Window is already open, we just need to update various texts.
 		return

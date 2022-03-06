@@ -3,7 +3,7 @@ OneRing_Config = {
 	["CharProfiles"] = {
 		["Ravencrest-Rentaki"] = "default",
 	},
-	["_GameVersion"] = "9.1.5",
+	["_GameVersion"] = "9.2.0",
 	["_OPieVersion"] = "Xe 6 (3.106)",
 	["ProfileStorage"] = {
 		["default"] = {
@@ -13,6 +13,7 @@ OneRing_Config = {
 				["Mstuff"] = "ALT-PAGEUP",
 				["rtantStuff"] = "6",
 				["OPieTracking"] = false,
+				["consumes"] = "7",
 			},
 		},
 	},
@@ -158,9 +159,9 @@ OneRing_Config = {
 					23767, -- [2]
 					["sliceToken"] = "ABue5Fkwtgr",
 				}, -- [2]
-				["limit"] = "Rentaki-Kazzak",
-				["save"] = true,
 				["name"] = "M+ stuff",
+				["save"] = true,
+				["limit"] = "Rentaki-Kazzak",
 			},
 			["rtantStuff"] = {
 				{
@@ -177,78 +178,122 @@ OneRing_Config = {
 				}, -- [3]
 				{
 					"toy", -- [1]
-					166746, -- [2]
-					["sliceToken"] = "ABuezUpxW6e",
+					172924, -- [2]
+					["sliceToken"] = "ABuek9oOYKe",
 				}, -- [4]
 				{
 					"toy", -- [1]
-					172924, -- [2]
-					["sliceToken"] = "ABuek9oOYKe",
+					163045, -- [2]
+					["sliceToken"] = "ABuexoZg=9e",
 				}, -- [5]
-				{
-					"toy", -- [1]
-					182773, -- [2]
-					["sliceToken"] = "ABuekGIIEgr",
-				}, -- [6]
 				{
 					"item", -- [1]
 					140192, -- [2]
 					["sliceToken"] = "ABuedrLpazH",
-				}, -- [7]
+				}, -- [6]
 				{
 					"item", -- [1]
 					110560, -- [2]
 					["sliceToken"] = "ABuedrLpaz0",
-				}, -- [8]
+				}, -- [7]
 				{
 					"item", -- [1]
 					141605, -- [2]
 					["sliceToken"] = "ABuedrLpazG",
-				}, -- [9]
+				}, -- [8]
 				{
 					"item", -- [1]
 					52251, -- [2]
 					["sliceToken"] = "ABuedrLpazF",
-				}, -- [10]
+				}, -- [9]
 				{
 					"mount", -- [1]
 					407, -- [2]
 					["sliceToken"] = "ABuegWfPp7e",
-				}, -- [11]
+				}, -- [10]
 				{
 					"mount", -- [1]
 					1039, -- [2]
 					["sliceToken"] = "ABue4R8V2Ee",
-				}, -- [12]
+				}, -- [11]
 				{
 					["sliceToken"] = "ABuedrLpaztI",
 					["id"] = 122708,
-				}, -- [13]
+				}, -- [12]
 				{
 					["id"] = 69046,
 					["sliceToken"] = "ABuejA9FANs",
-				}, -- [14]
+				}, -- [13]
 				{
 					"item", -- [1]
 					49040, -- [2]
 					["sliceToken"] = "ABuejA9FANa",
-				}, -- [15]
+				}, -- [14]
 				{
 					"toy", -- [1]
 					40768, -- [2]
 					["sliceToken"] = "ABuejA9FANp",
-				}, -- [16]
+				}, -- [15]
 				{
 					"toy", -- [1]
 					156833, -- [2]
 					["sliceToken"] = "ABuedrLpazt8",
-				}, -- [17]
+				}, -- [16]
 				["name"] = "Important Stuff",
 				["save"] = true,
 				["hotkey"] = "F1",
 			},
 			["OPieFlagStore"] = {
 				["StoreVersion"] = 2,
+			},
+			["consumes"] = {
+				{
+					"item", -- [1]
+					171276, -- [2]
+					["sliceToken"] = "ABue5KEG6BT",
+				}, -- [1]
+				{
+					"item", -- [1]
+					171285, -- [2]
+					["sliceToken"] = "ABue5KEG6BR",
+				}, -- [2]
+				{
+					"item", -- [1]
+					181468, -- [2]
+					["sliceToken"] = "ABue5KEG6B7",
+				}, -- [3]
+				{
+					"item", -- [1]
+					173049, -- [2]
+					["sliceToken"] = "ABue5KEG6BE",
+				}, -- [4]
+				{
+					"item", -- [1]
+					172045, -- [2]
+					["sliceToken"] = "ABue5KEG6BW",
+				}, -- [5]
+				{
+					"item", -- [1]
+					6657, -- [2]
+					["sliceToken"] = "ABue5KEG6BQ",
+				}, -- [6]
+				{
+					"item", -- [1]
+					171266, -- [2]
+					["sliceToken"] = "ABue5KEG6Bm",
+				}, -- [7]
+				{
+					"item", -- [1]
+					172347, -- [2]
+					["sliceToken"] = "ABue5KEG6Bn",
+				}, -- [8]
+				{
+					"item", -- [1]
+					171437, -- [2]
+					["sliceToken"] = "ABue5KV5nYe",
+				}, -- [9]
+				["name"] = "consumes",
+				["save"] = true,
 			},
 		},
 	},

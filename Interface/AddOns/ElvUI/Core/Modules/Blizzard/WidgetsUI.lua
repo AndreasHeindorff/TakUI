@@ -1,8 +1,11 @@
 local E, L, V, P, G = unpack(ElvUI)
 local B = E:GetModule('Blizzard')
+local NP = E:GetModule('NamePlates')
 
 local _G = _G
+local pairs = pairs
 local unpack = unpack
+local strmatch = strmatch
 local CreateFrame = CreateFrame
 local hooksecurefunc = hooksecurefunc
 
@@ -22,13 +25,31 @@ local function UpdateBarTexture(bar, atlas)
 	end
 end
 
+local ignoreWidgetSetID = {
+	[283] = true -- Cosmic Energy
+}
+
 function B:UIWidgetTemplateStatusBar()
-	local bar = self.Bar
-	local atlas = bar:GetStatusBarAtlas()
-	UpdateBarTexture(bar, atlas)
+	local bar = not self:IsForbidden() and self.Bar
+	if not bar or ignoreWidgetSetID[self.widgetSetID] then return end
+
+	UpdateBarTexture(bar, bar:GetStatusBarAtlas())
 
 	if not bar.backdrop then
 		bar:CreateBackdrop('Transparent')
+
+		if NP.Initialized and strmatch(self:GetDebugName(), 'NamePlate') then
+			self:SetIgnoreParentScale(true)
+			self:SetIgnoreParentAlpha(true)
+		end
+
+		if self.Label then -- title
+			self.Label:FontTemplate(nil, nil, 'NONE')
+		end
+
+		if bar.Label then -- percent text
+			bar.Label:FontTemplate(nil, nil, 'NONE')
+		end
 
 		bar.BGLeft:SetAlpha(0)
 		bar.BGRight:SetAlpha(0)
@@ -66,15 +87,15 @@ local function PVPCaptureBar(self)
 end
 
 local function EmberCourtCaptureBar() end
-local CaptureBarSkins = {
+local captureBarSkins = {
 	[2] = PVPCaptureBar,
 	[252] = EmberCourtCaptureBar
 }
 
 function B:UIWidgetTemplateCaptureBar(_, widget)
-	if not widget then return end
+	if self:IsForbidden() or not widget then return end
 
-	local skinFunc = CaptureBarSkins[widget.widgetSetID]
+	local skinFunc = captureBarSkins[widget.widgetSetID]
 	if skinFunc then skinFunc(self) end
 end
 
@@ -125,4 +146,9 @@ function B:HandleWidgets()
 	-- Credits ShestakUI
 	hooksecurefunc(_G.UIWidgetTemplateStatusBarMixin, 'Setup', B.UIWidgetTemplateStatusBar)
 	hooksecurefunc(_G.UIWidgetTemplateCaptureBarMixin, 'Setup', B.UIWidgetTemplateCaptureBar)
+
+	-- handle power bar widgets after reload as Setup will have fired before this
+	for _, widget in pairs(_G.UIWidgetPowerBarContainerFrame.widgetFrames) do
+		B.UIWidgetTemplateStatusBar(widget)
+	end
 end
